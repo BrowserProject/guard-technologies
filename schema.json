@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "guard-technologies enrichment schema",
+  "description": "Advanced enrichment for guard.ch technology detection. This repository holds ONLY the enrichment layer: fields that are NOT part of the webappanalyzer fingerprint corpus (see BrowserProject/webdetector). Records are keyed by the exact webappanalyzer technology name (technologies/*.json) or webappanalyzer category id (categories.json). Basic identifiers already present in webdetector (name, description, icon, cpe, oss, saas, pricing, cats, implies, requires, requiresCategory, excludes, website, category name/priority/groups) are intentionally absent here to avoid duplication.",
+  "$defs": {
+    "score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 10
+    },
+    "url_list": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    },
+    "technology": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": ["commercial-product", "commercial-saas", "infrastructure", "language", "oss-library", "oss-project", "protocol", "standard"]
+        },
+        "technical_depth_score": { "$ref": "#/$defs/score" },
+        "privacy_score": { "$ref": "#/$defs/score" },
+        "vendor_stability_score": { "$ref": "#/$defs/score" },
+        "overall_trust_score": { "$ref": "#/$defs/score" },
+        "pricing_transparency_score": { "$ref": "#/$defs/score" },
+        "ai_generated_likelihood": { "$ref": "#/$defs/score" },
+        "white_label_wrapper_likelihood": { "$ref": "#/$defs/score" },
+        "dark_pattern_likelihood": { "$ref": "#/$defs/score" },
+        "abuse_score": { "$ref": "#/$defs/score" },
+        "confidence": { "$ref": "#/$defs/score" },
+        "founded_year": { "type": "integer", "minimum": 1900, "maximum": 2100 },
+        "headquarters_country": { "type": "string", "pattern": "^[A-Z]{2}$" },
+        "company_size_bucket": {
+          "type": "string",
+          "enum": ["solo", "startup", "smb", "midmarket", "enterprise", "mega"]
+        },
+        "parent_company": { "type": "string" },
+        "ownership_type": {
+          "type": "string",
+          "enum": ["foundation", "independent", "public", "subsidiary", "vc-backed"]
+        },
+        "license_type": { "type": "string" },
+        "maintenance_status": {
+          "type": "string",
+          "enum": ["abandoned", "active", "deprecated", "dormant", "maintained"]
+        },
+        "pricing_model": {
+          "type": "string",
+          "enum": ["dual-license", "enterprise-only", "free", "freemium", "one-time", "subscription", "usage-based"]
+        },
+        "has_free_tier": { "type": "boolean" },
+        "has_self_hosted_option": { "type": "boolean" },
+        "enterprise_pricing_only": { "type": "boolean" },
+        "soc2_type2": { "type": "boolean" },
+        "iso27001": { "type": "boolean" },
+        "gdpr_compliant": { "type": "boolean" },
+        "hipaa_compliant": { "type": "boolean" },
+        "pci_dss": { "type": "boolean" },
+        "has_bug_bounty": { "type": "boolean" },
+        "has_responsible_disclosure_policy": { "type": "boolean" },
+        "starting_price_usd_monthly": { "type": "number", "minimum": 0 },
+        "tracker_density": {
+          "type": "string",
+          "enum": ["heavy", "light", "moderate", "none"]
+        },
+        "popularity_tier": {
+          "type": "string",
+          "enum": ["dominant", "growing", "mainstream", "niche"]
+        },
+        "enterprise_adoption": {
+          "type": "string",
+          "enum": ["common", "limited", "none", "widespread"]
+        },
+        "summary_abuse": { "type": "string", "maxLength": 2000 },
+        "history": { "type": "string", "maxLength": 2000 },
+        "source_urls": { "$ref": "#/$defs/url_list" }
+      }
+    },
+    "category": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "description": { "type": "string" },
+        "placement": {
+          "type": "string",
+          "enum": ["client", "infrastructure", "mixed", "server"]
+        },
+        "business_function": {
+          "type": "string",
+          "enum": ["analytics", "commerce", "communication", "content", "developer-tool", "identity", "infrastructure", "media", "payment", "productivity", "security"]
+        },
+        "inherent_attack_surface_score": { "$ref": "#/$defs/score" },
+        "inherent_privacy_risk_score": { "$ref": "#/$defs/score" },
+        "inherent_third_party_data_sharing_score": { "$ref": "#/$defs/score" },
+        "inherent_pii_exposure_score": { "$ref": "#/$defs/score" },
+        "tracker_likelihood_score": { "$ref": "#/$defs/score" },
+        "confidence": { "$ref": "#/$defs/score" },
+        "regulatory_relevance": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["ccpa", "cookie-law", "coppa", "ferpa", "gdpr", "glba", "hipaa", "pci-dss", "pii-handling", "soc2"]
+          }
+        },
+        "recommended_scrutiny_level": {
+          "type": "string",
+          "enum": ["critical", "high", "low", "moderate"]
+        },
+        "summary_security": { "type": "string", "maxLength": 1000 },
+        "summary_privacy": { "type": "string", "maxLength": 1000 },
+        "source_urls": { "$ref": "#/$defs/url_list" }
+      }
+    }
+  }
+}

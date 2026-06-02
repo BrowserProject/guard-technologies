@@ -1,0 +1,16 @@
+name: Validate
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+      - name: set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: install dependencies
+        run: python3 -m pip install jsonschema
+      - name: run validator
+        run: python3 scripts/validate.py
