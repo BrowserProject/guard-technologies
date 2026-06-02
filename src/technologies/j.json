@@ -2,8 +2,13 @@
   "J2Store": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
+    "cpe": "cpe:2.3:a:j2store:j2store:*:*:*:*:*:joomla\\!:*:*",
+    "description": "J2Store is a Joomla shopping cart and ecommerce extension.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -15,7 +20,14 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "J2Store is an open-source ecommerce extension for Joomla CMS, first released around 2012. It is developed and maintained by Techjoomla, an Indian company. The extension allows Joomla websites to add shopping cart and ecommerce functionality. It is distributed under the GPL license with paid extensions available.",
+    "icon": "j2store.svg",
+    "implies": [
+      "Joomla"
+    ],
     "iso27001": false,
+    "js": {
+      "j2storeURL": ""
+    },
     "kind": "oss-project",
     "license_type": "gpl-2.0",
     "maintenance_status": "maintained",
@@ -23,6 +35,11 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime",
+      "freemium",
+      "low"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 7,
@@ -33,14 +50,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "J2Store is a Joomla ecommerce plugin used by small and mid-sized websites. Like all ecommerce platforms, misconfigured or outdated installations can be targeted for credit card skimming attacks. The open-source nature means installations depend on site owners maintaining updates. No specific widespread campaigns targeting J2Store have been prominently documented compared to larger platforms.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://www.j2store.org"
   },
   "Jabmo": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "Jabmo is a software platform that automates lead generation by tracking and analyzing website visitor activity.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -52,6 +74,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Jabmo was founded circa 2015 as a B2B account-based marketing (ABM) platform focused on manufacturing and life sciences companies. It was recognized in the Gartner Magic Quadrant for ABM Platforms in December 2022. In February 2023, the company entered administration. UK-based Expandi Group acquired Jabmo's assets in July 2023, rescuing the brand and platform out of insolvency. Expandi relaunched the Jabmo ABM platform in December 2023, integrating it within its broader MarTech portfolio.",
+    "icon": "Jabmo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -64,19 +87,28 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 3,
+    "saas": true,
+    "scripts": [
+      "/jabmo\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Jabmo is a B2B ABM platform that tracks anonymous website visitors and maps them to company accounts for targeted advertising. Its core functionality involves third-party tracking of website visitors without direct consent, which is a privacy concern under GDPR. It is not a platform known for phishing, fraud, or malware hosting. The primary abuse concern is its use of heavy ad-tech tracking as a core product feature rather than incidental data collection.",
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 4,
+    "website": "https://jabmo.com",
     "white_label_wrapper_likelihood": 3
   },
   "Jacklist": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Jacklist is a website builder system developed in Japan.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -88,7 +120,11 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "Jacklist is a Japanese website builder and web design service company based in Osaka, Japan. Operating under the domain jacklist.ltd and jacklist.co.jp, the company offers hosted website creation services marketed primarily to small Japanese businesses. The company promotes a free-setup, subscription-based model for small business websites. Limited public historical information is available beyond company registration details.",
+    "icon": "Jacklist.svg",
     "iso27001": false,
+    "js": {
+      "homepage_api_url": "api\\.jacklist\\.jp"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -99,21 +135,34 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "api\\.jacklist\\.jp/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 18,
     "summary_abuse": "Jacklist is a small Japanese website builder with no documented abuse signal in Western security research. As a hosted website builder, it could theoretically host fraudulent sites, but there are no known incidents linking the platform to phishing, fraud, or malware campaigns. Its very limited geographic footprint (Japan only) and small user base further limit abuse exposure.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://jacklist.ltd",
     "white_label_wrapper_likelihood": 4
   },
   "Jade": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      19
+    ],
     "confidence": 7,
+    "description": "Jade is a templating engine primarily used for server-side templating in NodeJS.",
     "enterprise_adoption": "common",
     "founded_year": 2010,
     "history": "Jade was created by TJ Holowaychuk around 2010 as a whitespace-sensitive HTML templating engine for Node.js, inspired by Haml. It became one of the most widely used server-side template engines in the Node.js ecosystem. In December 2015, the package was renamed from jade to pug after it was discovered that \"Jade\" is a registered trademark, necessitating the change. All active development now happens under the pug package name, though the jade npm package was retained for backward compatibility.",
+    "icon": "Jade.svg",
+    "js": {
+      "JADE.components": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
@@ -121,14 +170,22 @@
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
     "summary_abuse": "Jade (now Pug) is a server-side template engine with no notable abuse signal. It is a build-time/server-side tool with no consumer-facing surface and no hosting capabilities. No documented abuse patterns exist.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://jade-lang.com"
   },
   "Jadu": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "The Jadu Digital Platform provides the foundation of accessible, responsive and award-winning Websites, Forms, CRM and Portal solutions.",
+    "dom": [
+      "a[href*='www.jadu.net']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 1999,
@@ -137,9 +194,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "Node": "jadu-web-1"
+    },
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Jadu was founded in 1999 by Suraj Kika and Richard Chamberlain in the UK. The company redeveloped its platform in PHP and MySQL in 2001, deploying it for UK Government and Local Authorities. It became a preferred supplier to UK Government CloudStore in 2012. Jadu's largest customer is Birmingham City Council, the largest local authority in Europe. In 2016, Jadu rebranded its continuously-released platform as Continuum. The company has offices in the UK, North America, and Australia.",
+    "icon": "jadu.png",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -148,6 +209,10 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 6,
@@ -156,14 +221,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.jadu.net/",
     "white_label_wrapper_likelihood": 1
   },
   "Jadu Central Content": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Jadu Central Content is a low-code publishing tool for creating, publishing, and managing website content and digital assets.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 1999,
@@ -175,10 +245,15 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Jadu Central Content is a low-code content management and publishing tool developed by Jadu Ltd, a UK company founded in 1999. It is part of the broader Jadu Digital Platform suite which also includes forms, CRM, and portal products. The product has historically served UK public sector organizations including local authorities and universities, operating under the Jadu Continuum platform branding introduced in 2016.",
+    "icon": "JaduCentralContent.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "Author-Template": "^Jadu CSS design$",
+      "generator": "www\\.jadu\\.net"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -186,19 +261,28 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Jadu Central Content is a UK public sector CMS with no notable abuse signal. It is used exclusively by vetted government and education customers in the UK. No documented cases of abuse, phishing, or fraud associated with the platform exist.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.jadu.net/cms",
     "white_label_wrapper_likelihood": 2
   },
   "Jahia DX": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1,
+      47
+    ],
     "company_size_bucket": "smb",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "dom": [
+      "script#staticAssetAggregatedJavascrip"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2002,
@@ -210,6 +294,10 @@
     "headquarters_country": "CH",
     "hipaa_compliant": false,
     "history": "Jahia was founded in 2002 in Geneva, Switzerland, as a Java-based enterprise CMS company. Built on Apache Jackrabbit JCR, it became one of the leading Java-based open-source content management platforms. In 2015, Jahia raised €20 million from Invus to expand its enterprise customer base. The product line evolved from CMS to a full Digital Experience Platform (DXP). In 2018, Jahia donated its customer data platform (CDP) to the Apache Software Foundation, which became Apache Unomi in 2019. The DX product name refers to the Digital Experience edition of the platform.",
+    "html": [
+      "<script id=\"staticAssetAggregatedJavascrip"
+    ],
+    "icon": "JahiaDX.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "dual-license",
@@ -226,14 +314,19 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.jahia.com/dx",
     "white_label_wrapper_likelihood": 1
   },
   "JAlbum": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      7
+    ],
     "company_size_bucket": "solo",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "jAlbum is across-platform photo website software for creating and uploading galleries from images and videos.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2002,
@@ -245,10 +338,17 @@
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "jAlbum was created by Swedish programmer David Ekholm in 2002 as a cross-platform Java photo album software. It allows users to create website galleries from photos and videos and publish them to jalbum.net or their own hosting. Over 32 million galleries have been created using the software.",
+    "icon": "JAlbum.svg",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "JAlbum( [\\d.]+)?\\;version:\\1"
+    },
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -262,14 +362,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://jalbum.net/en",
     "white_label_wrapper_likelihood": 1
   },
   "Jalios": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Jalios provides digital workplace solutions, including collaborative intranets, enterprise social networks, and document management systems, to enhance organizational communication and productivity.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2001,
@@ -281,17 +386,26 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Founded in 2001 in France by Vincent Bouthors and Olivier Dedieu, both doctors in computer science who were previously researchers at Bull and INRIA. Jalios built the JCMS platform, a comprehensive digital workplace solution for intranets, extranets, and enterprise social networks. The company serves over 500 organizations. In 2021 Jalios joined the Fabulous 8 collective of French cloud providers as a sovereign alternative to Microsoft 365.",
+    "icon": "Jalios.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "Jalios"
+    },
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 7,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://fr.wikipedia.org/wiki/Jalios",
@@ -302,14 +416,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.jalios.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jameda": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "smb",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "Jameda is an online appointment scheduling system for doctors, enabling patients to book medical consultations.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -321,6 +440,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Jameda was founded in 2007 in Munich, Germany, as an online physician review and appointment booking platform. Hubert Burda Media acquired Jameda in 2015. In November 2021, Docplanner Group, a Warsaw-based healthcare marketplace unicorn, acquired Jameda from Hubert Burda Media. The acquisition was completed on 1 January 2022. Docplanner committed to investing €250 million in the German market over the following two to three years through Jameda.",
+    "icon": "Jameda.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -330,22 +450,36 @@
     "parent_company": "Docplanner Group",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn1\\.jameda-elements\\.de/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Jameda is a German medical appointment booking and doctor review platform. The platform handles patient personal data and medical appointment information, making data privacy a primary concern. No documented abuse involving phishing, malware, or fraud campaigns specifically targeting or originating from Jameda exists. The platform operates under German healthcare data protection requirements and GDPR. The main risk area is patient data handling and compliance rather than abuse facilitation.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.jameda.de",
     "white_label_wrapper_likelihood": 1
   },
   "JamFeed": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "solo",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "JamFeed is a web-based platform that allows users to create automated music websites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -357,6 +491,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JamFeed was co-founded in March 2015 and is headquartered in Austin, Texas. The platform enables independent musicians to build automated websites that self-update with new releases, tour dates, videos, and social content. The company raised $580K in funding from investors including Softeq Venture Studio and Newchip. The platform holds multiple patents on its automated website technology.",
+    "icon": "JamFeed.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -365,22 +500,38 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.jamfeed\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "JamFeed is a music website builder platform with minimal documented abuse. As a CMS for musicians, its hosted sites could theoretically be used to host fraudulent artist pages for ticket scams or merchandise fraud, but no documented campaigns associated with JamFeed have been reported. The platform is small and niche, limiting its abuse surface.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://www.jamfeed.com",
     "white_label_wrapper_likelihood": 3
   },
   "JANet": {
     "abuse_score": 4,
     "ai_generated_likelihood": 2,
+    "cats": [
+      71
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "JANet is an affiliate marketing network.",
+    "dom": [
+      "img[src*='.j-a-net.jp'],img[data-src*='.j-a-net.jp']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -392,6 +543,7 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "JANet (ジャネット) is a Japanese affiliate marketing network operated by Adways Inc., one of Japan's top affiliate advertising services. It has approximately 100,000 affiliates and operates across web and mobile. No major ownership changes beyond being an Adways product.",
+    "icon": "JANet.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -410,14 +562,19 @@
     "technical_depth_score": 5,
     "tracker_density": "heavy",
     "vendor_stability_score": 6,
+    "website": "https://j-a-net.jp",
     "white_label_wrapper_likelihood": 2
   },
   "Jarvis Analytics": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Jarvis Analytics is a dental analytics platform that collects, processes, and visualizes dental data to support clinical decision-making and operational insights.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -429,6 +586,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Jarvis Analytics is a dental business intelligence platform that integrates with practice management systems to deliver KPI dashboards, production analytics, and hygiene recall insights for dental practices and DSOs. The platform is a Henry Schein One company, making it part of the Henry Schein dental software portfolio. It integrates with major dental practice management systems including Dentrix, Open Dental, and Eaglesoft.",
+    "icon": "JarvisAnalytics.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -438,47 +596,80 @@
     "parent_company": "Henry Schein One",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "schedule\\.jarvisanalytics\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Jarvis Analytics is a dental practice analytics platform with no notable abuse signal. It processes dental practice operational data and patient scheduling information. As a specialized vertical SaaS used by vetted dental practices, it is not associated with phishing, fraud, or malware distribution. Healthcare data handling is the primary compliance concern.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.jarvisanalytics.com",
     "white_label_wrapper_likelihood": 2
   },
   "Java": {
+    "cats": [
+      27
+    ],
     "confidence": 8,
+    "cookies": {
+      "JSESSIONID": ""
+    },
+    "cpe": "cpe:2.3:a:oracle:jre:*:*:*:*:*:*:*:*",
+    "description": "Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
     "enterprise_adoption": "widespread",
     "founded_year": 1995,
     "history": "Java was created by James Gosling and a team at Sun Microsystems and first released in 1995. Originally designed for interactive television, it became the dominant enterprise programming language through the late 1990s and 2000s. Sun Microsystems was acquired by Oracle Corporation in 2010, which took over stewardship of Java. Oracle open-sourced the OpenJDK reference implementation under GPLv2. Oracle has released Java under a controversial licensing model for commercial use, prompting many enterprises to use OpenJDK distributions. Java remains one of the most widely used programming languages in the world.",
+    "icon": "Java.svg",
     "kind": "language",
     "license_type": "gpl-2.0",
     "maintenance_status": "active",
     "overall_trust_score": 8,
     "popularity_tier": "dominant",
     "summary_abuse": "Java as a programming language has no direct abuse signal as a technology in itself. It is foundational enterprise infrastructure. Malicious actors do write malware and exploit tools in Java, and deserialization vulnerabilities in Java applications have been extensively exploited. Log4Shell (CVE-2021-44228) affected Java applications using the Log4j logging library, becoming one of the most critical vulnerabilities in recent years. However, these are downstream application issues, not inherent to the language itself.",
-    "technical_depth_score": 9
+    "technical_depth_score": 9,
+    "website": "https://java.com"
   },
   "Java Servlet": {
+    "cats": [
+      18
+    ],
     "confidence": 8,
     "enterprise_adoption": "widespread",
     "founded_year": 1997,
+    "headers": {
+      "X-Powered-By": "Servlet(?:\\/([\\d.]+))?\\;version:\\1"
+    },
     "history": "Java Servlet is a server-side Java technology specification first introduced by Sun Microsystems in 1997 as part of Java EE (Enterprise Edition). It defines a standard interface for Java components that handle HTTP requests and generate responses in a web server environment. The Servlet API underpins major Java web frameworks including Spring MVC, JavaServer Faces, and Struts. When Oracle donated Java EE to the Eclipse Foundation in 2017, the specification was renamed from javax.servlet to jakarta.servlet (Jakarta EE). Current versions are maintained under the Jakarta EE umbrella by the Eclipse Foundation.",
+    "icon": "Java.svg",
+    "implies": [
+      "Java"
+    ],
     "kind": "standard",
     "license_type": "apache-2.0",
     "maintenance_status": "active",
     "overall_trust_score": 8,
     "popularity_tier": "dominant",
     "summary_abuse": "Java Servlet is a server-side specification with no direct abuse signal. It is backend infrastructure used only in server environments controlled by developers. No consumer-facing surface exists. Servlet-based applications have historically been targets of web application attacks (SQLi, XSS, deserialization exploits), but these are application-level issues rather than inherent to the Servlet specification itself.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://www.oracle.com/technetwork/java/index-jsp-135475.html"
   },
   "Javadoc": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      4
+    ],
     "company_size_bucket": "mega",
     "confidence": 8,
+    "description": "Javadoc is a tool used for generating Java code documentation in HTML format from Java source code.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1995,
@@ -490,6 +681,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Javadoc is the documentation generator for Java, created by Sun Microsystems alongside Java in 1995. It uses special doc comments in Java source code to generate HTML documentation. Sun Microsystems was acquired by Oracle in 2010 and Javadoc has been maintained as part of the JDK ever since, with regular updates accompanying each Java release.",
+    "html": [
+      "<!-- Generated by javadoc -->"
+    ],
+    "icon": "Java.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-2.0",
@@ -506,33 +701,52 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Javadoc is a documentation tool bundled with the Java Development Kit and has no consumer-facing surface or known abuse patterns. It is purely a developer tool for generating API documentation from Java source code.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 10
+    "vendor_stability_score": 10,
+    "website": "https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html"
   },
   "JavaScript Infovis Toolkit": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      25
+    ],
     "confidence": 7,
     "enterprise_adoption": "none",
     "founded_year": 2009,
     "history": "The JavaScript InfoVis Toolkit (JIT) is an open-source data visualization library created by Nicolas Garcia Belmonte. Version 1.0 was released around 2009, with version 2.0 launched in June 2010. The library was used by Mozilla and Al Jazeera for interactive visualizations. Development has been largely dormant since around 2014. The source code is hosted on GitHub under the MIT license.",
+    "icon": "JavaScript Infovis Toolkit.png",
+    "js": {
+      "$jit": "",
+      "$jit.version": "^(.+)$\\;version:\\1"
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "dormant",
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "jit(?:-yc)?\\.js"
+    ],
     "source_urls": [
       "https://github.com/philogb/jit",
       "https://philogb.github.io/jit/"
     ],
     "summary_abuse": "The JavaScript InfoVis Toolkit is a client-side data visualization library with no backend or hosting component. It does not collect data or make independent network calls. No abuse risk or documented misuse has been identified for this library.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://philogb.github.io/jit/"
   },
   "JavaServer Faces": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      18
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 8,
+    "dom": [
+      "input[type='hidden'][name='javax.faces.ViewState']"
+    ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -541,9 +755,16 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Powered-By": "JSF(?:/([\\d.]+))?\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JavaServer Faces was released in 2004 under the Java Community Process as part of Java EE, originally developed by Sun Microsystems and later Oracle. In 2017 Oracle donated Java EE to the Eclipse Foundation, where JSF was rebranded as Jakarta Faces under Jakarta EE. The framework reached version 4.1 in 2025 under Apache 2.0 license.",
+    "icon": "JavaServer Faces.png",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "apache-2.0",
@@ -560,11 +781,15 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "JavaServer Faces is a server-side Java web framework with no consumer-facing surface and no documented abuse patterns. It is used by enterprise Java developers to build web applications and has no notable history of being exploited for malicious purposes.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 9
+    "vendor_stability_score": 9,
+    "website": "https://javaserverfaces.java.net"
   },
   "JavaServer Pages": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      18
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 8,
     "enterprise_adoption": "widespread",
@@ -575,9 +800,16 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Powered-By": "JSP(?:/([\\d.]+))?\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JavaServer Pages was introduced by Sun Microsystems in 1999 as part of Java EE to allow server-side Java code embedded in HTML pages. It evolved through multiple versions and was transferred to the Eclipse Foundation in 2017 as Jakarta Server Pages. Now at version 3.1 under Jakarta EE, it remains used in legacy enterprise Java applications.",
+    "icon": "Java.svg",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "apache-2.0",
@@ -594,14 +826,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "JavaServer Pages is a server-side Java templating technology with no consumer-facing surface. There are no documented patterns of JSP itself being abused; it runs on enterprise Java application servers.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 9
+    "vendor_stability_score": 9,
+    "website": "https://www.oracle.com/technetwork/java/javaee/jsp/index.html"
   },
   "JazzHR": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 2,
+    "description": "JazzHR is SaaS recruiting software to source talent, conduct interviews and hires.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2009,
@@ -613,6 +850,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JazzHR was founded in 2009 as The Resumator by Pete Lamson in Pittsburgh, PA, providing affordable applicant tracking software for SMBs. Rebranded to JazzHR in 2015. Volition Capital invested in 2014. In April 2021, JazzHR was acquired by Jobvite, which later merged with other HR tech companies to form Employ Inc.",
+    "icon": "JazzHR.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -622,23 +860,39 @@
     "parent_company": "Employ Inc",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "JazzHR"
+    ],
+    "scriptSrc": [
+      "app\\.jazz\\.co/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 75,
     "summary_abuse": "JazzHR is a recruiting and ATS platform with no notable history of abuse. It collects HR and candidate data, which carries privacy obligations but no documented patterns of misuse or exploitation.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.jazzhr.com",
     "white_label_wrapper_likelihood": 2
   },
   "JBoard": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "JBoard is a platform for creating and managing job boards with no coding required, enabling users to post, organize, and maintain job listings.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -649,7 +903,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "JBoard is a no-code job board creation platform for managing job listings. No notable ownership events documented.",
+    "icon": "JBoard.svg",
     "iso27001": false,
+    "js": {
+      "$JBoardAPI": "",
+      "$jBoard.adminUserToken": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -657,9 +916,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.jboard\\.io"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://jboard.io"
@@ -668,13 +936,18 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://jboard.io",
     "white_label_wrapper_likelihood": 3
   },
   "JBoss Application Server": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
+    "cpe": "cpe:2.3:a:redhat:jboss_application_server:*:*:*:*:*:*:*:*",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1999,
@@ -683,9 +956,13 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Powered-By": "JBoss(?:-([\\d.]+))?\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JBoss Application Server was started by Marc Fleury in 1999. JBoss Inc. was incorporated in 2001 and acquired by Red Hat for $350M in 2006. The community edition was renamed WildFly in April 2013 to differentiate it from the commercially supported JBoss EAP. JBoss AS itself is deprecated; WildFly is the continuing upstream project.",
+    "icon": "JBoss Application Server.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "lgpl-2.1",
@@ -702,25 +979,40 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "JBoss Application Server is a Java EE application server with no notable consumer-facing surface and no documented abuse signal. The 2013 rename to WildFly reflects the project's evolution rather than any controversy.",
     "technical_depth_score": 9,
-    "vendor_stability_score": 10
+    "vendor_stability_score": 10,
+    "website": "https://jboss.org/jbossas.html"
   },
   "JBoss Web": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
+    "cpe": "cpe:2.3:a:redhat:jbossweb:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 0,
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
+    "excludes": [
+      "Apache Tomcat"
+    ],
     "founded_year": 1999,
     "gdpr_compliant": true,
     "has_bug_bounty": true,
     "has_free_tier": false,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Powered-By": "JBossWeb(?:-([\\d.]+))?\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Red Hat JBoss Web Server is a commercial supported distribution of Apache HTTP Server and Apache Tomcat, based on the JBoss project originally created in 1999 and acquired by Red Hat in 2006 (now owned by IBM via Red Hat). Version 6.0 was released in November 2023 with Apache Tomcat 10.1 and Jakarta EE 10 support.",
+    "icon": "JBoss Web.png",
+    "implies": [
+      "JBoss Application Server"
+    ],
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "apache-2.0",
@@ -738,18 +1030,32 @@
     "technical_depth_score": 8,
     "tracker_density": "none",
     "vendor_stability_score": 10,
+    "website": "https://jboss.org/jbossweb",
     "white_label_wrapper_likelihood": 0
   },
   "jComponent": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      12,
+      59
+    ],
     "confidence": 4,
+    "description": "jComponent is a platform offering open-source web components and icons for easy integration into web projects.",
     "enterprise_adoption": "none",
     "founded_year": 2018,
     "history": "jComponent is an open-source library of web components and icons for use in web projects, maintained independently; no notable events are documented.",
+    "icon": "jComponent.svg",
+    "implies": [
+      "jQuery"
+    ],
+    "js": {
+      "MAIN.version": "(.*)\\;version:\\1"
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
@@ -757,14 +1063,19 @@
       "https://componentator.com"
     ],
     "summary_abuse": "jComponent is a small open-source web component library with no consumer-facing surface and no notable abuse signal.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://componentator.com"
   },
   "Jeeng": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 3,
+    "description": "Jeeng is a personalized notification platform that delivers targeted updates based on user preferences and engagement patterns.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -776,7 +1087,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jeeng was originally a push notifications platform. In May 2020, PowerInbox acquired Jeeng to add personalized push notification capabilities to its publisher subscriber messaging platform. Jeeng operates under the PowerInbox brand, delivering over 2 billion notifications per month to publisher audiences.",
+    "icon": "Jeeng.svg",
     "iso27001": false,
+    "js": {
+      "jeeng_attribution": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -788,18 +1103,28 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "sdk\\.jeeng\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Jeeng delivers web push notifications for publishers. Push notification platforms can be misused for spam or unwanted re-engagement, and the ad-tech adjacent nature of the platform means moderate tracker density. No major documented abuse incidents specific to Jeeng.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://www.jeeng.com",
     "white_label_wrapper_likelihood": 3
   },
   "Jekyll": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      57
+    ],
     "company_size_bucket": "mega",
     "confidence": 8,
+    "cpe": "cpe:2.3:a:jekyllrb:jekyll:*:*:*:*:*:*:*:*",
+    "description": "Jekyll is a blog-aware, static site generator for personal, project, or organisation sites.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -811,10 +1136,25 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jekyll was created by GitHub co-founder Tom Preston-Werner and released in 2008. It became the engine powering GitHub Pages, dramatically growing its adoption. The project is open-source under the MIT license and maintained by the Jekyll team with community contributions. While newer static site generators like Hugo and Next.js have gained popularity, Jekyll remains widely used.",
+    "html": [
+      "Powered by <a href=\"https?://jekyllrb\\.com\"[^>]*>Jekyll</",
+      "<!-- Created with Jekyll Now -",
+      "<!-- Begin Jekyll SEO tag"
+    ],
+    "icon": "Jekyll.svg",
+    "implies": [
+      "Ruby"
+    ],
     "iso27001": false,
+    "js": {
+      "SimpleJekyllSearch": ""
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "meta": {
+      "generator": "Jekyll\\sv([\\d.]+)?\\;version:\\1"
+    },
     "overall_trust_score": 8,
     "ownership_type": "subsidiary",
     "parent_company": "GitHub",
@@ -827,13 +1167,22 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Jekyll is a static site generator with no hosted service and no consumer-facing surface. There are no documented abuse patterns for the tool itself. The generated static sites could theoretically host any content, but that is the site owner's responsibility, not Jekyll's.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://jekyllrb.com"
   },
   "Jenkins": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      44
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 8,
+    "cpe": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:*:*:*:*",
+    "description": "Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration (CI) purposes.",
+    "dom": [
+      "span.jenkins_ver > a[href='https://jenkins.io/']"
+    ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -842,10 +1191,24 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Jenkins": "([\\d.]+)\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jenkins started in 2004 as Hudson, created by Kohsuke Kawaguchi at Sun Microsystems as a continuous integration tool. After Oracle acquired Sun in 2010 and sought to trademark Hudson, the community forked the project as Jenkins in 2011. Kawaguchi founded InfraDNA which merged with CloudBees, the main commercial backer. Jenkins celebrated 20 years in 2024 and remains the most widely used CI/CD automation server.",
+    "html": [
+      "<span class=\"jenkins_ver\"><a href=\"https://jenkins\\.io/\">Jenkins ver\\. ([\\d.]+)\\;version:\\1"
+    ],
+    "icon": "Jenkins.png",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
+    "js": {
+      "jenkinsCIGlobal": "",
+      "jenkinsRules": ""
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
@@ -860,14 +1223,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Jenkins is self-hosted CI/CD software with no SaaS surface. The main abuse risk is security vulnerabilities in exposed Jenkins instances, which have historically been exploited for cryptomining and lateral movement. Outdated instances with public exposure are a known target. The project has an active security team and regular CVE patches.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 9
+    "vendor_stability_score": 9,
+    "website": "https://jenkins.io/"
   },
   "Jenny": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jenny is a customer service chatbot platform.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2016,
@@ -879,7 +1247,11 @@
     "headquarters_country": "FI",
     "hipaa_compliant": false,
     "history": "GetJenny is a Finnish chatbot platform founded around 2016 in Helsinki. The company builds NLP-powered customer service chatbots primarily for Nordic enterprises. JennyBot is its core product. Backed by EU-based investors. GDPR-compliant by design given its Finnish base.",
+    "icon": "Jenny.svg",
     "iso27001": false,
+    "js": {
+      "webpackJsonpget-jenny": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -888,19 +1260,30 @@
     "parent_company": "GetJenny Oy",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.getjenny\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "No known abuse issues. Small Finnish chatbot company targeting enterprise customer service. Limited public data available. EU-based with GDPR compliance as a selling point.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.getjenny.com",
     "white_label_wrapper_likelihood": 2
   },
   "JET Enterprise": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
@@ -912,9 +1295,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "powered": "jet-enterprise"
+    },
     "headquarters_country": "BR",
     "hipaa_compliant": false,
     "history": "JET Enterprise is a Brazilian SaaS e-commerce platform with over 20 years of experience, operating as an omnichannel solution for web, mobile, and marketplaces. The platform serves Brazilian mid-market and enterprise retailers. No notable ownership changes documented.",
+    "icon": "JET Enterprise.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -931,14 +1318,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.jetecommerce.com.br/",
     "white_label_wrapper_likelihood": 2
   },
   "Jetboost": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      5
+    ],
     "company_size_bucket": "solo",
     "confidence": 8,
     "dark_pattern_likelihood": 2,
+    "description": "Jetboost is a tool that enables real-time search, dynamic filtering, and other features for Webflow sites without requiring code.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -950,7 +1342,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jetboost was founded in 2021 by Chris Spagnuolo in San Diego, CA. It received investment from the Calm Company Fund. The product adds no-code search, filtering, and interactivity to Webflow CMS sites. It powers thousands of Webflow sites and is available as a Webflow App.",
+    "icon": "Jetboost.svg",
     "iso27001": false,
+    "js": {
+      "JETBOOST_SITE_ID": "",
+      "Jetboost.loaded": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -958,23 +1355,37 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 9,
     "privacy_score": 6,
+    "requires": [
+      "Webflow"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 29,
     "summary_abuse": "Jetboost is a no-code tool for enhancing Webflow sites. No documented abuse patterns. The tool is niche and developer-adjacent with minimal consumer-facing risk.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.jetboost.io",
     "white_label_wrapper_likelihood": 3
   },
   "JetEngine": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 2,
+    "description": "JetEngine is a content plugin for WordPress that allows users to create custom post types, taxonomies, and meta boxes, offering flexibility in building complex websites without requiring coding skills.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -986,6 +1397,7 @@
     "headquarters_country": "UA",
     "hipaa_compliant": false,
     "history": "JetEngine is a WordPress dynamic content plugin developed by Crocoblock, a Ukrainian WordPress plugin company. Released around 2019, it works with page builders including Elementor, Gutenberg, Bricks, and Divi. Version 3.8.5 was released in early 2026, demonstrating active ongoing development.",
+    "icon": "JetEngine.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -994,23 +1406,44 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "onetime"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "requires": [
+      "WordPress"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "/wp-content/plugins/jet-engine/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 17,
     "summary_abuse": "JetEngine is a WordPress plugin for building dynamic content sites. No documented abuse patterns specific to this plugin. As a self-installed WordPress plugin, its security depends on the site owner keeping it updated.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://crocoblock.com/plugins/jetengine",
     "white_label_wrapper_likelihood": 2
   },
   "Jetpack": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 8,
     "dark_pattern_likelihood": 3,
+    "description": "Jetpack is a popular WordPress plugin created by Automattic, the people behind WordPress.com.",
+    "dom": [
+      "link[href*='/wp-content/plugins/jetpack/']"
+    ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -1022,6 +1455,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jetpack was launched by Automattic in 2011 to bring WordPress.com features to self-hosted WordPress.org sites. It has grown into a comprehensive plugin offering security, backups, performance, and marketing features. In 2022, Automattic began splitting Jetpack into separate specialized plugins. The plugin has over 5 million active installations.",
+    "icon": "Jetpack.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "gpl-2.0",
@@ -1031,23 +1465,42 @@
     "parent_company": "Automattic",
     "pci_dss": false,
     "popularity_tier": "dominant",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/plugins/jetpack/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 10,
     "summary_abuse": "Jetpack is a widely-used WordPress plugin by Automattic. It has been criticized for making WordPress.org sites dependent on WordPress.com infrastructure and for the amount of data it collects. Some privacy advocates object to its analytics and contact form data routing through Automattic servers. No major security incidents have been attributed to Jetpack itself.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 9,
+    "website": "https://jetpack.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jetpack Boost": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jetpack Boost – Website Speed, Performance and Critical CSS.",
+    "dom": [
+      "style[id='jetpack-boost-critical-css']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1059,6 +1512,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jetpack Boost was launched in 2021 by Automattic as a standalone WordPress performance plugin, separate from the main Jetpack plugin. It focuses on Core Web Vitals: critical CSS generation, image CDN, JS deferral. Free tier available. Premium features from $9.95/month.",
+    "icon": "Jetpack.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "GPL-2.0",
@@ -1071,17 +1525,27 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 7,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/plugins/jetpack-boost/"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 10,
     "summary_abuse": "No abuse concerns. Developed by Automattic, the company behind WordPress.com. Transparent, open source, well-regarded.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://jetpack.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jetshop": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
@@ -1096,7 +1560,14 @@
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "Jetshop was founded in 2003 in Gothenburg, Sweden. It became the largest Nordic ecommerce platform provider by 2013 after acquiring E-butik, serving ~1/3 of active Swedish webshops. In 2020s it merged with Storm Commerce. Revenue of over 2 billion SEK transacted in 2013.",
+    "html": [
+      "<(?:div|aside) id=\"jetshop-branding\">"
+    ],
+    "icon": "Jetshop.png",
     "iso27001": false,
+    "js": {
+      "JetshopData": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "maintained",
@@ -1113,14 +1584,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://jetshop.se",
     "white_label_wrapper_likelihood": 2
   },
   "JetTabs": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "JetTabs is a plugin for Elementor that enables the creation of customizable tabs and accordion widgets for organizing content within web pages.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -1132,7 +1608,15 @@
     "headquarters_country": "UA",
     "hipaa_compliant": false,
     "history": "JetTabs is a WordPress plugin by Crocoblock (Ukraine), which launched around 2017 as part of their suite of Elementor plugins. It adds tabbed content, accordions, and toggles. Crocoblock offers 25+ JetPlugins individually or bundled.",
+    "icon": "JetTabs.svg",
+    "implies": [
+      "Elementor"
+    ],
     "iso27001": false,
+    "js": {
+      "JetTabs.accordionInit": "",
+      "JetTabsSettings": ""
+    },
     "kind": "commercial-product",
     "license_type": "GPL-2.0",
     "maintenance_status": "active",
@@ -1141,22 +1625,33 @@
     "parent_company": "Crocoblock",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 15,
     "summary_abuse": "No abuse history. Standard WordPress Elementor plugin from Ukrainian developer Crocoblock. GPL licensed with good community reception.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://crocoblock.com/plugins/jettabs",
     "white_label_wrapper_likelihood": 2
   },
   "Jetty": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 8,
+    "cpe": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
+    "description": "Jetty is an open-source web server and servlet container known for its scalability and efficiency, supporting protocols like HTTP and WebSocket for various applications from development tools to cloud services.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1995,
@@ -1165,13 +1660,21 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "Server": "Jetty(?:\\(([\\d\\.]*\\d+))?\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jetty was created in 1995 by Greg Wilkins at Mort Bay Consulting as a Java HTTP server. It was hosted at SourceForge from 2000-2005, moved to Codehaus in 2005, then joined the Eclipse Foundation in 2009 beginning with Jetty 9. It now supports HTTP/3, HTTP/2, and WebSocket. Jetty 10 and 11 reached end of community support on January 1, 2024.",
+    "icon": "Jetty.svg",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "apache-2.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 9,
     "ownership_type": "foundation",
     "parent_company": "Eclipse Foundation",
@@ -1184,14 +1687,23 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Eclipse Jetty is a foundational Java web server and servlet container used embedded in applications and servers. No consumer-facing surface and no documented abuse patterns. Being a server library, any abuse would be at the application level rather than Jetty itself.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 9
+    "vendor_stability_score": 9,
+    "website": "https://www.eclipse.org/jetty"
   },
   "Jibres": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6,
+      55
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
+    "cookies": {
+      "jibres": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "Jibres is an ecommerce solution with an online store builder and Point-of-Sale (PoS) software.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -1200,13 +1712,23 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-Powered-By": "Jibres"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jibres is a small free ecommerce platform. It provides an online store builder, mobile store, POS software, and payment tools. Very limited market presence with minimal traction. Uses Cloudflare infrastructure. Minimal public information available.",
+    "icon": "Jibres.svg",
     "iso27001": false,
+    "js": {
+      "jibres": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "Jibres"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "parent_company": "Jibres",
@@ -1215,20 +1737,28 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "scriptSrc": [
+      "/jibres\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Very limited information available. No major abuse incidents found. Small unknown ecommerce platform with low market share. Lack of certifications or transparency is concerning for any sensitive use.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://jibres.com",
     "white_label_wrapper_likelihood": 3
   },
   "Jiglu": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      2
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jiglu is a collaboration and communities suite that connects enterprise content with conversations to support improved communication.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2008,
@@ -1240,6 +1770,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Jiglu is an enterprise knowledge management and collaboration platform developed by Dynamic Discovery Limited, a London-based company founded around 2008. Features semantic auto-tagging and content aggregation. Low public profile, appears to have limited customer base.",
+    "icon": "Jiglu.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1249,22 +1780,38 @@
     "parent_company": "Dynamic Discovery Ltd",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jiglu\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "No abuse history. Very niche UK enterprise collaboration tool. Limited public information available. Low market presence suggests minimal risk.",
     "technical_depth_score": 6,
     "tracker_density": "none",
     "vendor_stability_score": 4,
+    "website": "https://www.jiglu.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jilt App": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      100,
+      98
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jilt App helps ecommerce store owners track and recover abandoned orders. Works seamlessly with Shopify and WooCommerce.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -1276,7 +1823,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jilt was an email marketing platform created by SkyVerge for WooCommerce cart recovery. GoDaddy acquired SkyVerge in 2021 and shut down Jilt on April 30, 2022, redirecting customers to alternative platforms. The service ran for about 8 years before being discontinued.",
+    "icon": "Jilt.svg",
     "iso27001": false,
+    "js": {
+      "jiltStorefrontParams.platform": "^shopify$"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "deprecated",
@@ -1288,19 +1839,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Deprecated service. No major abuse incidents. Shut down by GoDaddy after acquisition of SkyVerge in 2021. Users were directed to migrate to Klaviyo, Mailchimp, or Omnisend.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://community.shopify.com/c/shopify-apps/jilt-is-over-what-app-to-use-for-abandoned-carts-now/td-p/1575095",
     "white_label_wrapper_likelihood": 1
   },
   "Jilt plugin": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87,
+      98
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jilt plugin helps ecommerce store owners track and recover abandoned orders. Works seamlessly with Shopify and WooCommerce.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -1312,6 +1872,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jilt WordPress plugin was the WooCommerce integration component of the Jilt email marketing platform by SkyVerge. After GoDaddy acquired SkyVerge in 2021, both the SaaS and the plugin were shut down on April 30, 2022. Previously popular for abandoned cart recovery.",
+    "icon": "Jilt.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -1324,19 +1885,30 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "\\.jilt\\.com/.+/jilt\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Deprecated WordPress plugin. Shut down April 2022. No abuse concerns. Was legitimate email marketing tool for WooCommerce before discontinuation.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://wordpress.org/plugins/jilt-for-woocommerce",
     "white_label_wrapper_likelihood": 1
   },
   "Jimdo": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "Jimdo is a website-builder and all-in-one hosting solution, designed to enable users to build their own websites.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -1345,10 +1917,18 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-Jimdo-Instance": "",
+      "X-Jimdo-Wid": ""
+    },
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Jimdo was founded in 2007 by Matthias Henze, Fridtjof Detzner, and Christian Springub in a farmhouse in northern Germany. The platform has grown to hosting over 30 million websites and employs 230+ people.",
+    "icon": "Jimdo.svg",
     "iso27001": false,
+    "js": {
+      "jimdoDolphinData": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1356,9 +1936,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "low",
+      "freemium",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Jimdo",
@@ -1368,12 +1954,20 @@
     "summary_abuse": "Jimdo is a website builder with a free tier that allows users to host websites on jimdo.com subdomains. Free website builders are occasionally used for phishing landing pages or fake storefronts. Jimdo has standard AUP enforcement, but like most free hosting providers has some exposure to this risk.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
+    "url": [
+      "\\.jimdo(?:site)?\\.com/"
+    ],
     "vendor_stability_score": 6,
+    "website": "https://www.jimdo.com",
     "white_label_wrapper_likelihood": 2
   },
   "Jirafe": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10,
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
@@ -1388,7 +1982,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jirafe was founded in 2010 in New York. It raised $9M total ($2M seed + $7M Series A from Foundry Group and FirstMark). Analytics platform for ecommerce serving 80,000 merchants. Launched predictive analytics in 2015 but appears to have shut down by 2016-2017 as activity ceased.",
+    "icon": "Jirafe.png",
     "iso27001": false,
+    "js": {
+      "jirafe": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "deprecated",
@@ -1400,18 +1998,27 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 4,
+    "scriptSrc": [
+      "/jirafe\\.js"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Appears defunct/shutdown. Was an ecommerce analytics tracker collecting detailed user behavior data. No significant misconduct but collecting merchant customer behavioral data carries inherent privacy risks.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 2,
+    "website": "https://docs.jirafe.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jitsi": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 8,
+    "cpe": "cpe:2.3:a:jitsi:jitsi:*:*:*:*:*:*:*:*",
+    "description": "Jitsi is a free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -1423,10 +2030,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Jitsi started in 2003 at the University of Strasbourg as SIP Communicator by Emil Ivov. Renamed to Jitsi in 2011. The Jitsi Videobridge was introduced in 2013, adding WebRTC multiparty video. Atlassian acquired Jitsi in 2015 and 8x8 acquired it from Atlassian in October 2018, keeping it open source. 8x8 offers Jitsi as a Service (JaaS) enterprise product.",
+    "icon": "Jitsi.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "apache-2.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "subsidiary",
     "parent_company": "8x8",
@@ -1435,15 +2044,22 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 8,
+    "scriptSrc": [
+      "lib-jitsi-meet.*\\.js"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Jitsi Meet is sometimes used for unauthorized meetings or privacy-invasive conferencing since it allows anonymous access by default. The self-hosted nature means any party can run a Jitsi server with varying security policies. Meet.jit.si (the public instance) has faced meeting-bombing incidents similar to Zoom. The 8x8-hosted service has standard abuse controls.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://jitsi.org"
   },
   "Jive": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      19
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 2,
@@ -1455,9 +2071,17 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-JIVE-USER-ID": "",
+      "X-JSL": "",
+      "X-Jive-Flow-Id": "",
+      "X-Jive-Request-Id": "",
+      "x-jive-chrome-wrapped": ""
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jive Software was founded in 2001 by Matt Tucker and Bill Lynch as a social enterprise collaboration platform. The company IPO'd on NASDAQ in December 2011, raising $161.3 million. After growth stalled, Jive was acquired by ESW Capital's Aurea Software in June 2017 for $462 million. Aurea maintains the product for existing enterprise customers.",
+    "icon": "Jive.png",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1475,14 +2099,20 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.jivesoftware.com",
     "white_label_wrapper_likelihood": 2
   },
   "JivoChat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
+    "cpe": "cpe:2.3:a:jivochat:jivochat:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 2,
+    "description": "JivoChat is a live chat solution for websites offering customizable web and mobile chat widgets.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -1494,7 +2124,12 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "JivoChat was founded in 2012 by Timur Valishev in Moscow, Russia as a live chat platform. In June 2021 it was acquired by Sberbank for approximately $20.5 million, becoming a subsidiary of Russia's largest bank.",
+    "icon": "JivoChat.svg",
     "iso27001": false,
+    "js": {
+      "jivo_api": "",
+      "jivo_version": "([\\d.]+)\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1503,9 +2138,18 @@
     "parent_company": "Sberbank",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jivosite\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/jivochat/__qkCVgb920ZuGvzaI-m9wur7St7DDHrGGPSo0_I0pyus",
@@ -1516,14 +2160,22 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.jivosite.com",
     "white_label_wrapper_likelihood": 2
   },
   "Jivox": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 3,
+    "description": "Jivox is a cloud-based, data-driven platform for delivering personalised digital advertising and marketing experiences at scale.",
+    "dom": [
+      "link[href*='.jivox.com']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2009,
@@ -1535,6 +2187,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jivox was founded in 2009 in San Mateo, California to provide dynamic creative optimization (DCO) and personalized advertising. The platform rebranded its core offering as DaVinci in 2024, focusing on AI-driven commerce media campaigns. The company serves enterprise brands like Marriott, Toyota, Sony, and Pepsi.",
+    "icon": "Jivox.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1543,22 +2196,34 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jivox\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Jivox is an ad personalization and dynamic creative optimization platform. As an ad-tech tool operating across many websites, it inherently involves heavy user tracking and profiling. The platform is used for targeted advertising which raises privacy concerns, though it is targeted at enterprise clients with privacy compliance needs.",
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 6,
+    "website": "https://jivox.com",
     "white_label_wrapper_likelihood": 3
   },
   "Job Board Fire": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "JobBoardFire is a platform that provides software for managing job boards, connecting entrepreneurs and community members.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1570,6 +2235,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Job Board Fire was founded in 2018 and is headquartered in Los Angeles. It provides a SaaS platform for communities to launch job boards. Offers a 14-day free trial and subscription pricing. Small company (11-50 employees) focused on niche/community job boards.",
+    "icon": "JobBoardFire.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1579,23 +2245,40 @@
     "parent_company": "Job Board Fire Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scripts": [
+      "jobboardfire\\.twic\\.pics"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 49,
     "summary_abuse": "No abuse history. Small niche job board SaaS. No major security incidents. Limited public data.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.jobboardfire.com",
     "white_label_wrapper_likelihood": 2
   },
   "JobAdder": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "JobAdder is a cloud-based recruitment management platform for staffing agencies and in-house corporate hiring teams.",
+    "dom": [
+      "a[href*='clientapps.jobadder.com/'], link[href*='jobadder.com']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -1607,6 +2290,7 @@
     "headquarters_country": "AU",
     "hipaa_compliant": false,
     "history": "JobAdder was founded in 2006 in Sydney by Brett Iredale. SEEK (ASX: SEK), Australia's largest job board, became majority owner. In 2023 SEEK provided additional capital injection for product development. Has 27,000 users across 4,500 client accounts globally in recruitment/staffing.",
+    "icon": "JobAdder.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1616,21 +2300,35 @@
     "parent_company": "SEEK Limited",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jobadder\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "No abuse history. SEEK-backed recruitment ATS/CRM with solid Australian market presence. Handles candidate and employer data with standard privacy practices.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://jobadder.com",
     "white_label_wrapper_likelihood": 1
   },
   "JobberBase": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      19,
+      101
+    ],
     "company_size_bucket": "solo",
     "confidence": 8,
+    "description": "Jobberbase is an open-source job board platform that enables the creation of job sites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -1642,10 +2340,21 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JobberBase was a pioneering open-source job board PHP/MySQL software released around 2008. Last release was v1.9 in 2010. v2.0 beta was partially developed but never released. Once considered the WordPress of job boards but now effectively abandoned with no active maintenance.",
+    "icon": "JobberBase.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "Jobber": ""
+    },
     "kind": "oss-project",
     "license_type": "MIT",
     "maintenance_status": "abandoned",
+    "meta": {
+      "generator": "Jobberbase"
+    },
+    "oss": true,
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "parent_company": "Community",
@@ -1658,14 +2367,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Abandoned open-source job board software. No active development since 2010. Using it on a live site would expose significant security risks due to unpatched PHP vulnerabilities accumulated over 15+ years.",
     "technical_depth_score": 4,
-    "vendor_stability_score": 1
+    "vendor_stability_score": 1,
+    "website": "https://www.jobberbase.com"
   },
   "Jobiqo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jobiqo is a job board platform that enables publishers to expand reach and increase recruitment advertising revenue.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -1677,31 +2391,48 @@
     "headquarters_country": "AT",
     "hipaa_compliant": false,
     "history": "Jobiqo GmbH is an Austrian company (Vienna/Upper Austria) providing Drupal-based job board software and AI-powered matching. Has served publishers, niche job boards, professional associations and university career centers for over 10 years. Around 32 employees.",
+    "icon": "Jobiqo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "owner": "^Jobiqo$"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "parent_company": "Jobiqo GmbH",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "No abuse history. Small Austrian company providing white-label job board software. GDPR-compliant being EU-based.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.jobiqo.com",
     "white_label_wrapper_likelihood": 3
   },
   "Jobvite": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 2,
+    "description": "Jobvite is an applicant tracking software and recruiting platform.",
+    "dom": [
+      "a[href*='.jobvite.com/']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2003,
@@ -1713,7 +2444,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jobvite was founded in 2003 in Indianapolis, Indiana as a recruiting and applicant tracking platform. The company grew to serve mid-market and enterprise clients, making acquisitions of Talemetry, NXTThing RPO, and Canvas. In 2021, Jobvite merged with JazzHR and Lever to form Employ Inc, which provides a suite of ATS and recruiting tools across company sizes.",
+    "icon": "Jobvite.svg",
     "iso27001": false,
+    "js": {
+      "Jobvite": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1722,22 +2457,33 @@
     "parent_company": "Employ Inc",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "high",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": true,
     "summary_abuse": "Jobvite is an enterprise recruiting platform used by HR departments to manage hiring. No notable abuse incidents. As an ATS, it handles sensitive candidate personal data, which is subject to privacy regulations and appropriate HR data handling policies.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.jobvite.com",
     "white_label_wrapper_likelihood": 2
   },
   "Jobylon": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jobylon is a flexible talent acquisition platform designed to help leading employers streamline recruitment and manage hiring processes.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -1749,6 +2495,7 @@
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "Jobylon was founded in 2011 in Stockholm, Sweden by Aref Abedi and Jorn Lyseggen. Grew to $4M revenue with 53 employees by 2024. Acquired by Meltwater on June 1, 2024. Provides recruitment software for Nordic market.",
+    "icon": "Jobylon.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1761,19 +2508,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jobylon\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "No abuse history. Swedish recruitment SaaS acquired by Meltwater in 2024. GDPR-compliant.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.jobylon.com",
     "white_label_wrapper_likelihood": 1
   },
   "Join It": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Join It is a membership management platform that helps nonprofits, clubs, and growing organizations manage members, track payments, and streamline administrative tasks.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -1785,6 +2541,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Join It was founded in 2016 in Seattle, WA as a membership management platform for nonprofits, clubs, and small businesses. Has 2-10 employees and serves 1,800+ organizations with 1M+ members registered. Integrates with Stripe, Eventbrite, and Mailchimp.",
+    "icon": "JoinIt.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1797,20 +2554,29 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
+    "scripts": [
+      "app\\.joinit\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 25,
     "summary_abuse": "No abuse history. Small but legitimate membership management platform. Very limited public security information but no incidents reported.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://joinit.com",
     "white_label_wrapper_likelihood": 1
   },
   "Joinchat": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Joinchat is a tool that enables businesses to convert customer conversations into sales or leads through integrated communication features.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -1822,7 +2588,11 @@
     "headquarters_country": "ES",
     "hipaa_compliant": false,
     "history": "Joinchat is a popular WordPress plugin by Spanish developer Creame that adds a WhatsApp contact button to websites. Over 500,000 active installs on WordPress.org. Freemium model with paid plans starting at 49 EUR/year. Launched around 2017.",
+    "icon": "Joinchat.svg",
     "iso27001": false,
+    "js": {
+      "joinchat_obj": ""
+    },
     "kind": "commercial-product",
     "license_type": "GPL-2.0",
     "maintenance_status": "active",
@@ -1831,23 +2601,36 @@
     "parent_company": "Creame",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "/js/joinchat\\.min\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 4,
     "summary_abuse": "No abuse history. Simple WordPress WhatsApp button plugin with GPL license free tier. Spanish developer. No data collection beyond what WhatsApp itself collects.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://join.chat",
     "white_label_wrapper_likelihood": 2
   },
   "Jonas Club Software": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jonas Club Software is a provider of club management solutions, facilitating relationship building with members, revenue growth, and cost reduction.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 1990,
@@ -1859,7 +2642,12 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Gary Jonas Computing was founded in 1990 and acquired by Constellation Software in 2003. Became Jonas Club Software, serving 2,300+ clubs in 20 countries. Rebranded to Vertus Group in December 2023. Backed by Constellation Software (CSI), Canada's 2nd largest software company.",
+    "icon": "Jonas.svg",
     "iso27001": false,
+    "js": {
+      "jonasPrivacyPolicy": "",
+      "jonasPrivacyPolicyClassName": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1868,21 +2656,38 @@
     "parent_company": "Constellation Software",
     "pci_dss": true,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "No abuse history. Long-established club management software backed by Constellation Software. Handles member financial and personal data. No significant incidents reported.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://jonasclub.com",
     "white_label_wrapper_likelihood": 1
   },
   "Joomla": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
+    "cookies": {
+      "joomla_[a-z0-9]+": ""
+    },
+    "cpe": "cpe:2.3:a:joomla:joomla\\!:*:*:*:*:*:*:*:*",
+    "description": "Joomla is a free and open-source content management system for publishing web content.",
+    "dom": [
+      "div[id*='wrapper_r'], link[href*='feed/com_'], link[href*='components/com_'], table[class*='pill']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -1891,13 +2696,31 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Content-Encoded-By": "Joomla! ([\\d.]+)\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Joomla was forked from Mambo in 2005 after a governance dispute and became one of the most widely-used open-source CMSs. It is governed by Open Source Matters (OSM), a non-profit, and has released hundreds of versions. Joomla 5.x is the current major release as of 2024.",
+    "html": [
+      "(?:<div[^>]+id=\"wrapper_r\"|<(?:link|script)[^>]+(?:feed|components)/com_|<table[^>]+class=\"pill)\\;confidence:50"
+    ],
+    "icon": "Joomla.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "Joomla": "",
+      "jcomments": ""
+    },
     "kind": "oss-project",
     "license_type": "GPL-2.0",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "Joomla!(?: ([\\d.]+))?\\;version:\\1"
+    },
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "foundation",
     "parent_company": "Open Source Matters",
@@ -1906,17 +2729,28 @@
     "pricing_model": "free",
     "pricing_transparency_score": 9,
     "privacy_score": 7,
+    "scriptSrc": [
+      "(?:^|/)(feed/com_|components/com_)"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Joomla sites are frequently targeted for SQL injection and extension vulnerabilities, but the core platform itself has a strong security team and rapid patch releases. No significant abuse history from the project itself.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 7
+    "url": [
+      "option=com_"
+    ],
+    "vendor_stability_score": 7,
+    "website": "https://www.joomla.org/"
   },
   "JoomShopping": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
+    "description": "JoomShopping is an open-source ecommerce plugin for Joomla.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -1928,30 +2762,49 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "JoomShopping is an open-source Joomla e-commerce extension developed by MAXXmarketing GmbH (Germany). Over 450,000 downloads. Compatible with Joomla 1.5 through 6.x. One of the top two Joomla ecommerce solutions with ~200,000 active sites.",
+    "icon": "JoomShopping.png",
+    "implies": [
+      "Joomla"
+    ],
     "iso27001": false,
+    "js": {
+      "joomshoppingVideoHtml5": ""
+    },
     "kind": "oss-project",
     "license_type": "GPL-2.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "parent_company": "MAXXmarketing GmbH",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime"
+    ],
     "pricing_model": "free",
     "pricing_transparency_score": 9,
     "privacy_score": 5,
+    "scriptSrc": [
+      "/components/com_jshopping/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "No significant abuse. Open-source Joomla ecommerce plugin. GPL-licensed. Regular updates maintained for Joomla version compatibility.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://www.webdesigner-profi.de/joomla-webdesign/joomla-shop"
   },
   "Joonbot": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Joonbot is a chatbot builder that enables users to create automated conversational flows without programming knowledge.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1963,7 +2816,12 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Joonbot was founded in 2018 in France as a no-code chatbot builder for lead generation, sales, and customer support automation. The company reached $115K annual recurring revenue and 5,000 customers by 2023 and operates as a bootstrapped independent startup. No notable acquisitions or ownership changes are documented.",
+    "icon": "Joonbot.svg",
     "iso27001": false,
+    "js": {
+      "JOONBOT_WIDGET_ID": "",
+      "joonbot.hide": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1971,9 +2829,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.crunchbase.com/organization/joonbot"
@@ -1983,14 +2848,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://joonbot.com",
     "white_label_wrapper_likelihood": 2
   },
   "Jotform": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      110
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Jotform is an online form builder that enables the creation of robust forms.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -2002,7 +2872,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Jotform was founded in 2006 by Aytekin Tank in San Francisco, California, as a self-funded bootstrapped form-builder service. It grew organically to over 35 million users and 500,000 customers without taking venture funding, remaining founder-owned. The platform expanded into workflow automation, PDF creation, and e-sign tools.",
+    "icon": "Jotform.svg",
     "iso27001": false,
+    "js": {
+      "JOTFORM_ENV": "",
+      "JotForm.FBCollectInformation": "",
+      "JotFormActions": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2010,9 +2886,19 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "dominant",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jotform\\.com/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Jotform",
@@ -2024,14 +2910,19 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://www.jotform.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jottful": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jottful is a platform that enables small businesses to create and manage professional websites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -2043,32 +2934,47 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jottful was founded in 2017 in Ann Arbor, Michigan by Dawn Verbrigghe. Provides managed website design and support for small businesses at $99 for setup plus ongoing fees. Backed by University of Michigan and PAX investors. 10 employees. Thousands of customers globally.",
+    "icon": "Jottful.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "web_author": "^Jottful"
+    },
     "overall_trust_score": 6,
     "ownership_type": "vc-backed",
     "parent_company": "Jottful Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 99,
     "summary_abuse": "No abuse history. Very small managed website design service targeting US small businesses. No incidents reported.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://jottful.com",
     "white_label_wrapper_likelihood": 1
   },
   "JouwWeb": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1,
+      51
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "JouwWeb is an online website builder that allows internet users to create own website.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -2080,7 +2986,11 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "JouwWeb was founded in 2010 in Eindhoven, Netherlands by students Roel and Wouter. Bootstrapped to 185,000+ customers globally. Launched international brand Webador in 2020. Multiple years on Deloitte Fast50 Netherlands. Strong GDPR-compliant Dutch company.",
+    "icon": "JouwWeb.svg",
     "iso27001": false,
+    "js": {
+      "JOUWWEB": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2089,77 +2999,135 @@
     "parent_company": "TND Projects B.V.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "(?:cdn)?\\.(?:jwwb|jouwweb)\\.nl/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 5,
     "summary_abuse": "No abuse history. Dutch website builder with strong GDPR practices. Bootstrapped, profitable, and founder-owned.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.jouwweb.nl",
     "white_label_wrapper_likelihood": 1
   },
   "jPlayer": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      14,
+      59
+    ],
     "confidence": 6,
+    "description": "jPlayer is a cross-browser JavaScript library developed as a jQuery plugin which facilitates the embedding of web based media, notably HTML5 audio and video in addition to Adobe Flash based media.",
     "enterprise_adoption": "limited",
     "founded_year": 2009,
     "history": "jPlayer was created by Happyworm and first beta-released in May 2009, becoming a popular jQuery plugin for embedding HTML5 audio and video with Flash fallback. It remained widely used through the early 2010s but has since been largely abandoned as HTML5 native audio/video support made it unnecessary.",
+    "icon": "jPlayer.svg",
+    "implies": [
+      "jQuery"
+    ],
+    "js": {
+      "jPlayerPlaylist": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scripts": [
+      "jquery\\.jplayer\\.min\\.js"
+    ],
+    "scriptSrc": [
+      "/jquery\\.jplayer\\.min\\.js"
+    ],
     "source_urls": [
       "https://en.wikipedia.org/wiki/JPlayer",
       "https://github.com/jplayer/jPlayer"
     ],
     "summary_abuse": "jPlayer is a client-side JavaScript media library with no notable abuse signal. It is a frontend library that plays audio and video in web browsers, with no server-side component, user-content hosting, or network-facing surface that fraudsters would target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://jplayer.org"
   },
   "jqPlot": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      25
+    ],
     "confidence": 5,
     "enterprise_adoption": "none",
     "founded_year": 2009,
     "history": "jqPlot is a jQuery-based charting library for creating line, bar, pie, and other chart types. It was popular before D3.js and Chart.js became standard, and has since been abandoned.",
+    "icon": "jqPlot.png",
+    "implies": [
+      "jQuery"
+    ],
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "jqplot.*\\.js"
+    ],
     "summary_abuse": "jqPlot has no notable abuse signal; it is a client-side charting library with no server-side component.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://www.jqplot.com"
   },
   "jQTouch": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      26
+    ],
     "confidence": 7,
+    "description": "jQTouch is an open-source Zepto/ jQuery plugin with native animations, automatic navigation, and themes for mobile WebKit browsers like iPhone, G1 (Android), and Palm Pre.",
     "enterprise_adoption": "none",
     "founded_year": 2009,
     "history": "jQTouch was created by David Kaneda in 2009 as a jQuery plugin for building mobile web apps targeting iPhone and WebKit browsers. It was later transferred to Sencha Labs and renamed jQT. The project has been largely dormant since the mid-2010s as native mobile frameworks and React Native superseded it.",
+    "icon": "jQTouch.png",
+    "js": {
+      "jQT": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "jqtouch.*\\.js"
+    ],
     "source_urls": [
       "https://github.com/senchalabs/jQTouch"
     ],
     "summary_abuse": "jQTouch is a dormant client-side mobile web framework with no notable abuse signal. It has no server-side component, content-hosting capability, or consumer-facing surface that would attract fraudsters.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://jqtouch.com"
   },
   "jQuery": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "company_size_bucket": "startup",
     "confidence": 7,
+    "cpe": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+    "description": "jQuery is a JavaScript library which is a free, open-source software designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -2171,7 +3139,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "jQuery was created by John Resig and first released at BarCamp NYC in January 2006. It quickly became the most widely-used JavaScript library in the world, dramatically simplifying DOM manipulation, event handling, and AJAX. In 2012, the jQuery Foundation was established to steward the project; it later merged with the Dojo Foundation to form the JS Foundation, which in turn merged with the Node.js Foundation to create the OpenJS Foundation in 2019.",
+    "icon": "jQuery.svg",
     "iso27001": false,
+    "js": {
+      "$.fn.jquery": "([\\d.]+)\\;version:\\1",
+      "jQuery.fn.jquery": "([\\d.]+)\\;version:\\1",
+      "jQuery.prototype.jquery": "([\\d.]+)\\;version:\\1"
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "maintained",
@@ -2182,6 +3156,11 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 9,
+    "scriptSrc": [
+      "jquery",
+      "/jquery(?:-(\\d+\\.\\d+\\.\\d+))[/.-]\\;version:\\1",
+      "/(\\d+\\.\\d+\\.\\d+)/jquery(?!\\.popupoverlay\\.js|(?:\\.[\\w-]*)*fancybox)[/.-][^u]\\;version:\\1"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/JQuery",
@@ -2190,12 +3169,17 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "jQuery itself has no meaningful abuse signal as a client-side JavaScript library. However, it is commonly bundled by phishing kits and malicious pages because of its ubiquity, making its presence on a page a neutral indicator rather than a red flag. The library itself is not abused — it is merely popular enough to appear in both legitimate and malicious code.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://jquery.com"
   },
   "jQuery BlockUI": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 5,
+    "description": "jQuery BlockUI is a plugin that simulates synchronous behavior in AJAX by temporarily blocking user interaction and adding DOM elements that visually indicate restricted activity until the block is removed.",
     "enterprise_adoption": "limited",
     "founded_year": 2007,
     "history": "jQuery BlockUI was created by Mike Alsup as a small jQuery plugin for blocking user interaction during AJAX operations. It was widely used in the mid-2000s to early 2010s but has since been largely abandoned as modern frameworks handle loading states natively.",
@@ -2205,15 +3189,26 @@
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "requires": [
+      "jQuery"
+    ],
+    "scriptSrc": [
+      "/jquery\\.blockUI\\.js"
+    ],
     "summary_abuse": "jQuery BlockUI has no notable abuse signal; it is a small client-side UI utility plugin with no network or server-side component.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://jquery.malsup.com/block"
   },
   "jQuery CDN": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      31
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
     "dark_pattern_likelihood": 0,
+    "description": "jQuery CDN is a way to include jQuery in your website without actually downloading and keeping it your website's folder.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -2225,6 +3220,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "jQuery CDN is the official content delivery network for jQuery libraries, operated by the jQuery Foundation (now OpenJS Foundation) at code.jquery.com. It has served jQuery files since the early days of the project and is one of the most heavily trafficked CDN endpoints on the web.",
+    "icon": "jQuery.svg",
+    "implies": [
+      "jQuery"
+    ],
     "iso27001": false,
     "kind": "infrastructure",
     "license_type": "mit",
@@ -2236,51 +3235,94 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 7,
+    "scriptSrc": [
+      "code\\.jquery\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "The jQuery CDN endpoint is occasionally abused in phishing kits and malicious pages that load jQuery from the official CDN to avoid triggering security filters. However, legitimate use overwhelmingly dominates and the OpenJS Foundation promptly handles abuse reports. The CDN itself does not host user content.",
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 9,
+    "website": "https://code.jquery.com/",
     "white_label_wrapper_likelihood": 0
   },
   "jQuery DevBridge Autocomplete": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 5,
+    "description": "Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields.",
     "enterprise_adoption": "limited",
     "founded_year": 2012,
     "history": "jQuery DevBridge Autocomplete (also known as jQuery Autocomplete) was created by Devbridge Group as an open-source AJAX autocomplete plugin for jQuery text inputs. It was a popular choice before modern frameworks provided built-in autocomplete functionality.",
+    "icon": "jQuery.svg",
+    "implies": [
+      "jQuery"
+    ],
+    "js": {
+      "$.devbridgeAutocomplete": "",
+      "jQuery.devbridgeAutocomplete": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "/devbridgeAutocomplete(?:-min)?\\.js",
+      "/jquery\\.devbridge-autocomplete/([0-9.]+)/jquery\\.autocomplete(?:.min)?\\.js\\;version:\\1"
+    ],
     "summary_abuse": "jQuery DevBridge Autocomplete has no notable abuse signal; it is a client-side UI input plugin with no server-side component or content-hosting capability.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://www.devbridge.com/sourcery/components/jquery-autocomplete/"
   },
   "jQuery Migrate": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "description": "Query Migrate is a javascript library that allows you to preserve the compatibility of your jQuery code developed for versions of jQuery older than 1.9.",
     "enterprise_adoption": "limited",
     "founded_year": 2011,
     "history": "jQuery compatibility plugin, maintained by jQuery Foundation (OpenJS Foundation). No notable events beyond minor version releases.",
+    "icon": "jQuery.svg",
+    "implies": [
+      "jQuery"
+    ],
+    "js": {
+      "jQuery.migrateVersion": "([\\d.]+)\\;version:\\1",
+      "jQuery.migrateWarnings": "",
+      "jqueryMigrate": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "jquery-migrate(?:\\.min)?(?:-)?(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
+      "jquery-migrate(?:\\.min)?(?:-?((?:\\d+\\.)+\\d+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
     "summary_abuse": "jQuery Migrate has no notable abuse signal; it is a client-side compatibility shim.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://github.com/jquery/jquery-migrate"
   },
   "jQuery Mobile": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      26
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
+    "description": "jQuery Mobile is a HTML5-based user interface system designed to make responsive web sites and apps that are accessible on all smartphone, tablet and desktop devices.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -2292,7 +3334,14 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "jQuery Mobile was created by the jQuery team in 2010 as a touch-friendly HTML5 UI framework for mobile browsers. Stewardship transferred to the OpenJS Foundation. Development has effectively ceased as React Native and other native frameworks superseded mobile web frameworks.",
+    "icon": "jQuery Mobile.svg",
+    "implies": [
+      "jQuery"
+    ],
     "iso27001": false,
+    "js": {
+      "jQuery.mobile.version": "^(.+)$\\;version:\\1"
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "deprecated",
@@ -2303,48 +3352,86 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 9,
+    "scriptSrc": [
+      "jquery[.-]mobile(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+      "jquery[.-]mobile(?:-)?(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "jQuery Mobile has no notable abuse signal; it is a frontend mobile UI framework with no server-side component or consumer-facing surface.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://jquerymobile.com"
   },
   "jQuery Modal": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "description": "jQuery Modal is an overlay dialog box or in other words, a popup window that is made to display on the top or 'overlayed' on the current page.",
+    "dom": [
+      "link[href*='jquery.modal.min.css']"
+    ],
     "enterprise_adoption": "limited",
     "founded_year": 2012,
     "history": "jQuery Modal was created as a lightweight jQuery plugin for creating modal dialog overlays. No notable ownership changes.",
+    "icon": "jQuery Modal.svg",
+    "implies": [
+      "jQuery"
+    ],
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
+    "oss": true,
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "jquery-modal/([\\d\\.]+)/jquery\\.modal\\.min\\.js\\;version:\\1"
+    ],
     "summary_abuse": "jQuery Modal has no notable abuse signal; it is a small client-side UI plugin.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://jquerymodal.com"
   },
   "jQuery Payment": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      41
+    ],
     "confidence": 6,
+    "description": "jQuery Payment is a general-purpose library for building credit card forms, validating input fields, and formatting card numbers.",
     "enterprise_adoption": "limited",
     "founded_year": 2013,
     "history": "jQuery Payment was created by Stripe to help developers build credit card payment forms with client-side validation. It is now largely superseded by Stripe Elements.",
+    "icon": "jQuery.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
+    "oss": true,
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "requires": [
+      "jQuery"
+    ],
+    "scriptSrc": [
+      "/jquery-payment/jquery\\.payment\\.min\\.js"
+    ],
     "summary_abuse": "jQuery Payment is a client-side form validation library; it performs no server-side payment processing and has no notable abuse signal.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://plugins.jquery.com/payment"
   },
   "jQuery Popup Overlay": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "description": "jQuery Popup Overlay is a responsive overlay which lets you create modal windows, tooltips, and more.",
     "enterprise_adoption": "limited",
     "founded_year": 2013,
     "history": "jQuery Popup Overlay is a small jQuery plugin for responsive modal overlays. No notable events.",
@@ -2354,30 +3441,50 @@
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "(\\d+\\.\\d+\\.\\d+)/jquery\\.popupoverlay\\.js\\;version:\\1"
+    ],
     "summary_abuse": "jQuery Popup Overlay has no notable abuse signal; it is a small client-side UI plugin.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://www.npmjs.com/package/jquery-popup-overlay"
   },
   "jQuery Sparklines": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      25
+    ],
     "confidence": 6,
+    "description": "jQuery Sparklines is a plugin that generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.",
     "enterprise_adoption": "limited",
     "founded_year": 2008,
     "history": "jQuery Sparklines is a jQuery plugin for generating inline sparkline charts directly in HTML. No notable ownership changes.",
+    "implies": [
+      "jQuery"
+    ],
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "jquery\\.sparkline.*\\.js"
+    ],
     "summary_abuse": "jQuery Sparklines has no notable abuse signal; it is a client-side charting plugin.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://omnipotent.net/jquery.sparkline/"
   },
   "jQuery UI": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
+    "cpe": "cpe:2.3:a:jquery:jquery_ui:*:*:*:*:*:*:*:*",
+    "description": "jQuery UI is a collection of GUI widgets, animated visual effects, and themes implemented with jQuery, Cascading Style Sheets, and HTML.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -2389,7 +3496,14 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "jQuery UI was created by the jQuery team in 2007 as the official UI widget and interaction library for jQuery, providing draggable, droppable, resizable, sortable, selectable widgets, and date pickers. It is maintained by the OpenJS Foundation and remains widely deployed in legacy enterprise applications, though new development has slowed as React and Vue became dominant.",
+    "icon": "jQuery UI.svg",
+    "implies": [
+      "jQuery"
+    ],
     "iso27001": false,
+    "js": {
+      "jQuery.ui.version": "^(.+)$\\;version:\\1"
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "maintained",
@@ -2400,49 +3514,97 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 9,
+    "scriptSrc": [
+      "jquery-ui[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+      "([\\d.]+)/jquery-ui(?:\\.min)?\\.js\\;version:\\1",
+      "jquery-ui.*\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "jQuery UI has no notable abuse signal; it is a foundational client-side UI library with no server-side component or consumer-facing surface.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://jqueryui.com"
   },
   "jQuery-pjax": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      26
+    ],
     "confidence": 6,
+    "description": "jQuery PJAX is a plugin that uses AJAX and pushState.",
     "enterprise_adoption": "limited",
     "founded_year": 2011,
     "history": "jQuery PJAX was created by Chris Wanstrath (GitHub co-founder) and widely adopted for pushState+AJAX navigation. The project has been abandoned for several years.",
+    "html": [
+      "<div[^>]+data-pjax-container"
+    ],
+    "implies": [
+      "jQuery"
+    ],
+    "js": {
+      "jQuery.pjax": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
+    "meta": {
+      "pjax-push": "",
+      "pjax-replace": "",
+      "pjax-timeout": ""
+    },
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "jquery[.-]pjax(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
+      "jquery[.-]pjax(?:-)?(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
     "summary_abuse": "jQuery-pjax has no notable abuse signal; it is a client-side navigation plugin.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://github.com/defunkt/jquery-pjax"
   },
   "JS Charts": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      25
+    ],
     "confidence": 5,
+    "description": "JS Charts is a JavaScript-based tool for creating customizable charts, such as bar, pie, and line charts, with minimal coding required for integration into web projects.",
     "enterprise_adoption": "none",
     "founded_year": 2008,
     "history": "JS Charts is a small JavaScript charting library offering bar, pie, and line charts with minimal setup. It appears to have been created in the late 2000s as a simple alternative to more complex charting libraries. No major ownership changes or significant history documented.",
+    "icon": "JS Charts.svg",
+    "js": {
+      "JSChart": ""
+    },
     "kind": "oss-library",
     "license_type": "proprietary",
     "maintenance_status": "dormant",
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "jscharts.{0,32}\\.js"
+    ],
     "summary_abuse": "JS Charts is a small JavaScript charting library with no notable abuse signal.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://www.jscharts.com"
   },
   "JS.org": {
     "abuse_score": 5,
     "ai_generated_likelihood": 1,
+    "cats": [
+      109
+    ],
     "company_size_bucket": "solo",
     "confidence": 6,
+    "description": "JS.org is a provider of free subdomains for JavaScript-based projects.",
+    "dom": [
+      "link[href*='.js.org/'][rel='canonical']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -2454,10 +3616,12 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Founded in 2015 by Stefan Keim as a community-driven service providing free subdomains under js.org for JavaScript-related GitHub Pages projects. Developers submit a pull request to the repository with their subdomain request, which is then merged by maintainers using Cloudflare DNS. The project has grown to host tens of thousands of subdomains and remains independently maintained.",
+    "icon": "JSOrg.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2469,14 +3633,22 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "JS.org provides free custom subdomains (projectname.js.org) for JavaScript projects hosted on GitHub Pages, with minimal verification beyond a working GitHub Pages site. This free-subdomain model with minimal KYC is occasionally exploited for hosting phishing pages, malware distribution, or fake project sites under a seemingly legitimate domain. The open pull-request model means abusive subdomains can exist for days until flagged. The project is community-maintained with limited automated abuse detection. The abuse risk is moderate for a free DNS/subdomain provider: higher than a paid service but manageable given the GitHub authentication requirement.",
     "technical_depth_score": 4,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://js.org"
   },
   "jsDelivr": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      31
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 0,
+    "description": "JSDelivr is a free public CDN for open-source projects. It can serve web files directly from the npm registry and GitHub repositories without any configuration.",
+    "dom": [
+      "link[href*='cdn.jsdelivr.net']"
+    ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -2488,6 +3660,7 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "jsDelivr was launched in 2012 as a free public CDN for open-source projects, serving files from npm, GitHub, and WordPress repositories. It grew to become one of the most popular CDN endpoints for frontend libraries, backed by Prospect One.",
+    "icon": "jsdelivr-icon.svg",
     "iso27001": false,
     "kind": "infrastructure",
     "license_type": "mit",
@@ -2499,6 +3672,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 7,
+    "scriptSrc": [
+      "cdn\\.jsdelivr\\.net"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.jsdelivr.com/about"
@@ -2508,14 +3684,22 @@
     "technical_depth_score": 7,
     "tracker_density": "none",
     "vendor_stability_score": 7,
-    "white_label_wrapper_likelihood": 0
+    "website": "https://www.jsdelivr.com/",
+    "white_label_wrapper_likelihood": 0,
+    "xhr": [
+      "cdn\\.jsdelivr\\.net"
+    ]
   },
   "JSEcoin": {
     "abuse_score": 8,
     "ai_generated_likelihood": 1,
+    "cats": [
+      56
+    ],
     "company_size_bucket": "solo",
     "confidence": 6,
     "dark_pattern_likelihood": 4,
+    "description": "JSEcoin is a way to mine, receive payments for your goods or services and transfer cryptocurrency",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -2527,7 +3711,11 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "JSEcoin launched around 2017-2018 as a browser-based JavaScript cryptocurrency mining service marketed as an alternative monetization method for websites. The concept allowed websites to use visitor CPU cycles to mine JSEcoin tokens in lieu of or alongside advertising. The project struggled with the cryptocurrency market decline in 2018-2019, and the founders posted a closure notice in 2020 citing inability to raise funds, with COVID-19 cited as making fundraising impossible. The service is now defunct and the website is inactive.",
+    "icon": "JSEcoin.png",
     "iso27001": false,
+    "js": {
+      "jseMine": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "abandoned",
@@ -2538,20 +3726,28 @@
     "pricing_model": "free",
     "pricing_transparency_score": 5,
     "privacy_score": 2,
+    "scriptSrc": [
+      "^(?:https):?//load\\.jsecoin\\.com/load/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "JSEcoin was a cryptojacking-adjacent service that provided JavaScript-based cryptocurrency mining scripts to be embedded on websites, consuming visitor CPU resources. This category of technology is inherently abusive: visitors typically did not consent to having their devices used for mining, and many deployments were covert cryptojacking. The service was categorized as a cryptominer by browser security tools and ad-blockers. Even in its marketed \"legitimate\" form, the lack of transparent user consent made it a privacy and abuse concern. The service is now abandoned and defunct, but the embedded scripts may still persist on older or neglected websites.",
     "technical_depth_score": 3,
     "tracker_density": "moderate",
     "vendor_stability_score": 0,
+    "website": "https://jsecoin.com/",
     "white_label_wrapper_likelihood": 1
   },
   "JShop": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "solo",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "JShop is the ecommerce database solution marketed by Whorl Ltd. worldwide.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -2563,7 +3759,12 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "JShop is an e-commerce platform developed and marketed by Whorl Ltd., a UK company. Copyright dates on the software trace back to 2003-2009. JShop Server became the main product offering for self-hosted online stores. New licenses are no longer sold, as the product has been effectively deprecated, though existing license holders can still access support. The company remains registered at Companies House in the UK.",
+    "icon": "JShop.svg",
     "iso27001": false,
+    "js": {
+      "jss_1stepDeliveryType": "",
+      "jss_1stepFillShipping": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "deprecated",
@@ -2579,109 +3780,194 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://www.whorl.co.uk",
     "white_label_wrapper_likelihood": 1
   },
   "JsObservable": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      59
+    ],
     "confidence": 8,
+    "description": "JsObservable is integrated with JsViews and facilitates observable data manipulations that are immediately reflected in the data-bound templates. The library is developed and maintained by Microsoft employee Boris Moore and is used in projects such as Outlook.com and Windows Azure.",
     "enterprise_adoption": "limited",
     "founded_year": 2013,
     "history": "JsObservable is part of the JsViews suite by Microsoft developer Boris Moore. It provides observable data manipulation for data-bound templates. Integrated into JsViews. Used internally in Outlook.com and Windows Azure. Version 1.0 released November 2018.",
+    "icon": "JsObservable.svg",
     "kind": "oss-library",
     "license_type": "MIT",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
     "summary_abuse": "No abuse history. MIT-licensed JavaScript library from Microsoft developer Boris Moore. Used in Microsoft products.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://www.jsviews.com/#jsobservable"
   },
   "jsPDF": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "description": "jsPDF is a HTML5 client-side solution for generating PDF documents directly within web browsers.",
     "enterprise_adoption": "common",
     "founded_year": 2010,
     "history": "jsPDF was created as a client-side JavaScript library for generating PDF documents directly in the browser without server-side processing. The project is actively maintained by parallax and has grown to be one of the most widely used browser-based PDF generation libraries.",
+    "icon": "jsPDF.svg",
+    "js": {
+      "jsPDF.API": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium"
+    ],
+    "scriptSrc": [
+      "/jspdf\\.min\\.js"
+    ],
     "summary_abuse": "jsPDF has no notable abuse signal; it is a client-side PDF generation library that runs entirely in the browser with no server-side component or content-hosting surface.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://parall.ax/products/jspdf"
   },
   "JsRender": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      59
+    ],
     "confidence": 8,
+    "description": "JsRender is the template library. The library is developed and maintained by Microsoft employee Boris Moore and is used in projects such as Outlook.com and Windows Azure.",
     "enterprise_adoption": "limited",
     "founded_year": 2011,
     "history": "JsRender is a fast, lightweight JavaScript templating library created by Boris Moore (Microsoft). Evolved from discontinued jQuery Templates. Works standalone or with JsViews for data binding. Used in Outlook.com and Azure. MIT-licensed open source project.",
+    "icon": "JsRender.svg",
+    "implies": [
+      "JsViews"
+    ],
     "kind": "oss-library",
     "license_type": "MIT",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "([\\d\\.]+)?/jsrender(?:\\.min)?\\.js\\;version:\\1"
+    ],
     "summary_abuse": "No abuse history. Legitimate MIT-licensed templating library from Microsoft developer. No known security vulnerabilities or misuse.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://www.jsviews.com/#jsrender"
   },
   "JSS": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      12,
+      47
+    ],
     "confidence": 7,
+    "description": "JSS is an authoring tool for CSS which allows you to use JavaScript to describe styles in a declarative, conflict-free and reusable way.",
+    "dom": [
+      "style[data-jss]"
+    ],
     "enterprise_adoption": "common",
     "founded_year": 2014,
     "history": "JSS (CSS-in-JS) was created by Oleg Isonen around 2014 as an abstraction layer allowing developers to write CSS styles using JavaScript. It became widely adopted as the styling engine for Material-UI (now MUI), one of the most popular React component libraries. The project is maintained by the cssinjs GitHub organization and has been gradually eclipsed by newer CSS-in-JS solutions like styled-components and Emotion. MUI v5 migrated away from JSS to Emotion in 2021.",
+    "icon": "JSS.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
     "summary_abuse": "JSS is a CSS-in-JS library with no notable abuse signal. It is a developer-side build-time tool with no consumer-facing surface, no hosting capabilities, and no network requests. No documented abuse patterns exist.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://cssinjs.org/"
   },
   "JsViews": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      59
+    ],
     "confidence": 8,
+    "description": "JsViews is the MVVM library which provides two-way data binding for the template. The library is developed and maintained by Microsoft employee Boris Moore and is used in projects such as Outlook.com and Windows Azure.",
     "enterprise_adoption": "limited",
     "founded_year": 2013,
     "history": "JsViews is an MVVM/MVP JavaScript framework by Boris Moore (Microsoft) built on top of JsRender. Adds data-binding and observable data patterns. Used in Microsoft projects like Outlook.com. Version 1.0 released November 2018. MIT-licensed.",
+    "icon": "JsViews.svg",
+    "implies": [
+      "JsObservable",
+      "JsRender"
+    ],
     "kind": "oss-library",
     "license_type": "MIT",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "([\\d\\.]+)?/jsviews(?:\\.min)?\\.js\\;version:\\1"
+    ],
     "summary_abuse": "No abuse history. MIT-licensed MVVM library from Microsoft developer Boris Moore. Used in Microsoft products including Outlook.com.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://www.jsviews.com/#jsviews"
   },
   "JSZip": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 7,
+    "cpe": "cpe:2.3:a:jszip_project:jszip:*:*:*:*:*:*:*:*",
+    "description": "JSZip is a JavaScript library that enables the creation, reading, and manipulation of zip files in a browser environment.",
     "enterprise_adoption": "common",
     "founded_year": 2009,
     "history": "JSZip was created around 2009 by Stuart Knightley (Stuk) as one of the first libraries enabling ZIP file creation and reading entirely in the browser using JavaScript. It became a widely-used dependency with hundreds of millions of weekly npm downloads. Licensed under dual MIT/GPLv3 license. The library has had some reported CVEs related to path traversal in ZIP entries, which were patched. It remains actively maintained.",
+    "js": {
+      "JSZip.version": "([\\d\\.]+)\\;version:\\1"
+    },
     "kind": "oss-library",
     "license_type": "mixed",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "/jszip\\.min\\.js"
+    ],
     "summary_abuse": "JSZip is a JavaScript ZIP manipulation library with minimal direct abuse signal. As a utility library it has no consumer-facing surface. However, it has been used in malware delivery scenarios where malicious ZIP archives are constructed or extracted client-side. Past CVEs included path traversal vulnerabilities (CVE-2021-23413 and related) that allowed crafted ZIP files to write outside the intended directory. These were patched. No pattern of widespread abuse as a hosting or phishing vector exists.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://stuk.github.io/jszip/"
   },
   "JTL Shop": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "JTLSHOP": ""
+    },
+    "description": "JTL Shop is an ecommerce product created by JTL Software company.",
+    "dom": [
+      "input[name*='JTLSHOP']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -2693,7 +3979,14 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "JTL-Software was founded in 2008 in Hückelhoven, Germany by brothers Janusch and Thomas Lisson. The company built an ecommerce ERP suite including JTL-Wawi (merchandise management) and JTL-Shop (the open-source ecommerce storefront). JTL serves over 50,000 customers across Germany, Austria, and Switzerland and became the leading ecommerce ERP in the German-speaking market. The company received investment from PE firm Hg Capital to fund further European growth.",
+    "html": [
+      "(?:<input[^>]+name=\"JTLSHOP|<a href=\"jtl\\.php)"
+    ],
+    "icon": "JTL Shop.svg",
     "iso27001": false,
+    "js": {
+      "JtlHelpers": ""
+    },
     "kind": "oss-project",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2715,14 +4008,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "JTL-Shop is a German ecommerce platform primarily used by legitimate retailers in DACH markets. Like all self-hosted ecommerce software, outdated installations can be targeted for card skimming or unauthorized access. The platform is compliant with German data protection law. No specific documented widespread abuse campaigns targeting JTL-Shop have been reported.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://www.jtl-software.de/online-shopsystem"
   },
   "Jubna": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 3,
+    "description": "Jubna is a content recommendation engine that delivers personalized suggestions by analyzing user behavior and preferences.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -2734,6 +4032,7 @@
     "headquarters_country": "AE",
     "hipaa_compliant": false,
     "history": "Jubna was founded in 2014 in Dubai, UAE. It is the largest native advertising network in MENA with 12M daily users and 1,000+ publishers. Has offices in Dubai, Noida India, and Toronto Canada. Targets Arabic-language sites primarily.",
+    "icon": "Jubna.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2743,22 +4042,35 @@
     "parent_company": "Jubna FZ LLC",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.jubna\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Native ad network injecting tracking scripts. Heavy tracker density typical for ad networks. UAE-based with limited GDPR applicability. Operates in MENA where data protection regulations are less stringent. Ad injection networks carry inherent privacy risks.",
     "technical_depth_score": 5,
     "tracker_density": "heavy",
     "vendor_stability_score": 5,
+    "website": "https://www.jubna.com",
     "white_label_wrapper_likelihood": 2
   },
   "Judge.me": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Judge.me is a reviews app that helps you collect and display product reviews and site reviews with photos, videos and Q&A.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -2770,7 +4082,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Judge.me is a product reviews app for Shopify stores, launched around 2015. It grew to 549,000+ Shopify stores by 2024, making it one of the most installed apps in the Shopify ecosystem. When Shopify retired its native Product Reviews app in 2024, Judge.me was among the recommended alternatives. The company focused exclusively on Shopify in late 2024, ending BigCommerce support.",
+    "icon": "Judge.svg",
     "iso27001": false,
+    "js": {
+      "judgeme": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2778,23 +4094,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 10,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.judge\\.me"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 15,
     "summary_abuse": "Judge.me is a reviews platform primarily for Shopify stores. Like all review platforms, it could theoretically be used to post fake reviews. The company provides review verification and moderation tools. No major systematic abuse incidents are documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://judge.me",
     "white_label_wrapper_likelihood": 1
   },
   "Jugem": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      11
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jugem is a blogging software from Japan that allows users to create, manage, and publish online content.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -2806,6 +4136,7 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "Jugem is a Japanese blogging platform operated by paperboy&co. (GMO Pepabo) since 2004. Primarily serves Japanese-speaking users. One of the earlier Japanese blog hosting services. Niche platform mainly active in Japan with limited international presence.",
+    "icon": "Jugem.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2818,20 +4149,29 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "imaging\\.jugem\\.jp"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 2,
     "summary_abuse": "No significant abuse issues. Japanese blogging platform with primarily domestic user base. Limited security transparency.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://jugem.jp",
     "white_label_wrapper_likelihood": 1
   },
   "Juicer": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      96
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Juicer is a tool that aggregates brand hashtags and social media posts into a unified feed for websites, enabling moderation and content curation.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -2843,7 +4183,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Juicer.io was founded in 2014 to help businesses embed social media feeds on websites. Acquired by saas.group in 2018 which provided growth capital. Serves 200,000+ customers. Aggregates from 15+ social platforms. Owned by German acquirer saas.group.",
+    "icon": "Juicer.svg",
     "iso27001": false,
+    "js": {
+      "Juicer.Active": "",
+      "JuicerBackbone.$": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2852,23 +4197,38 @@
     "parent_company": "saas.group",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.juicer\\.io/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 19,
     "summary_abuse": "No abuse history. Social media aggregator injecting third-party content. Some privacy concerns as it embeds multiple social platform content. Legitimate tool with no incidents reported.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.juicer.io",
     "white_label_wrapper_likelihood": 2
   },
   "JuicyAds": {
     "abuse_score": 4,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 4,
+    "description": "JuicyAds is a legitimate advertising network that specializes in adult content.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -2880,31 +4240,47 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "JuicyAds was founded in 2006 by 'JuicyJay' in Canada as an adult content advertising network. Has won 30+ industry awards. Monetizes 11% of top adult websites. Serves banner ads and native ads for adult publishers and affiliates globally.",
+    "icon": "JuicyAds.svg",
     "iso27001": false,
+    "js": {
+      "adsbyjuicy": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "juicyads-site-verification": ""
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "parent_company": "JuicyAds Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Adult ad network with heavy tracking. Frequently associated with aggressive ad practices on adult sites including popunders, redirects, and potentially malicious ad serving in adult content ecosystems. High risk for malvertising exposure.",
     "technical_depth_score": 5,
     "tracker_density": "heavy",
     "vendor_stability_score": 6,
+    "website": "https://www.juicyads.com",
     "white_label_wrapper_likelihood": 2
   },
   "Jumbo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      92
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Jumbo is a page speed optimizer app for Shopify based sites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2916,6 +4292,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jumbo Privacy was founded in 2019 by CEO Pierre Valade and backed by Index Ventures, Balderton Capital, and Thrive Capital. It was a mobile privacy assistant app for iOS/Android. Acquired by Coalition (cyber insurer) and app store listings removed June 18, 2024. Features became free before shutdown.",
+    "icon": "Jumbo.svg",
+    "implies": [
+      "Shopify"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2928,19 +4308,30 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 8,
+    "scriptSrc": [
+      "mt\\.tryjumbo\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "No abuse history. Privacy-focused app designed to help users protect their data. Acquired by Coalition cyber insurance in 2024 and consumer app discontinued.",
     "technical_depth_score": 6,
     "tracker_density": "none",
     "vendor_stability_score": 2,
+    "website": "https://www.tryjumbo.com/",
     "white_label_wrapper_likelihood": 1
   },
   "Jumio": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      16
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Jumio is an online mobile payments and identity verification company that provides card and ID scanning and validation products for mobile and web transactions.",
+    "dom": [
+      "iframe[src*='.netverify.com/']"
+    ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -2952,6 +4343,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Jumio was founded in 2010 in Palo Alto, California, as a computer-vision startup for card scanning. It pivoted to digital identity verification and KYC services following a 2016 restructuring, and has since grown to process over one billion identity verifications across 200 countries, serving major financial institutions and regulated industries.",
+    "icon": "Jumio.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2960,9 +4352,15 @@
     "ownership_type": "vc-backed",
     "pci_dss": true,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 3,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": true,
     "source_urls": [
       "https://www.jumio.com/about/press-releases/soc2-type-2-certification/",
@@ -2973,14 +4371,22 @@
     "technical_depth_score": 8,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.jumio.com",
     "white_label_wrapper_likelihood": 1
   },
   "JumpCloud": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      69
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 8,
+    "cookies": {
+      "_jumpcloud_user_console_": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "JumpCloud is a cloud-based directory services platform offering single sign-on (SSO) and Active Directory-as-a-Service (ADaaS) functionalities.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -2992,6 +4398,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "JumpCloud was founded in 2013 in Louisville, CO as an open directory platform for cloud-based identity management. Raised $225M Series F in 2019. Reported $200M ARR in 2024. Positioned as an alternative to Microsoft Active Directory for SMBs and distributed teams.",
+    "icon": "JumpCloud.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3001,23 +4408,37 @@
     "parent_company": "JumpCloud Inc.",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jumpcloud\\.com/"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 9,
     "summary_abuse": "JumpCloud disclosed a nation-state cyberattack in July 2023 that led to rotation of API keys for a small number of affected customers. Incident was handled transparently. No pattern of vendor-caused abuse. Security incident response was considered well-managed.",
     "technical_depth_score": 8,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://jumpcloud.com",
     "white_label_wrapper_likelihood": 1
   },
   "Jumpseller": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 2,
+    "description": "Jumpseller is a cloud ecommerce solution for small businesses.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -3029,7 +4450,11 @@
     "headquarters_country": "CL",
     "hipaa_compliant": false,
     "history": "Jumpseller was founded in 2010 by Portuguese engineers Tiago Matos and Filipe Gonçalves, graduating from Startup Chile. The platform focuses on Latin American and European markets where Shopify Payments is unavailable. Jumpseller serves over 50,000 businesses and acquired HandyCommerce to expand its presence.",
+    "icon": "Jumpseller.svg",
     "iso27001": false,
+    "js": {
+      "Jumpseller": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3037,23 +4462,41 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 9,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "assets\\.jumpseller\\.\\w+/",
+      "jumpseller-apps\\.herokuapp\\.\\w+/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 29,
     "summary_abuse": "Jumpseller is an e-commerce platform primarily for Latin America. Like all e-commerce platforms, it can be used to host fraudulent storefronts, but the company operates in a regulated space with payment processing requirements. No specific major abuse incidents are documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://jumpseller.com",
     "white_label_wrapper_likelihood": 2
   },
   "June": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10,
+      97
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
+    "cookies": {
+      "_june_session": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "June is a product analytics for subscription businesses. It automatically generates graphs of the metrics users should track by connecting their segment account.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -3065,6 +4508,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "June was founded in 2021 by Ferruccio Balestreri and Enzo Avigo, ex-Intercom engineers. YC Winter 2021 batch. Product analytics focused on B2B SaaS companies with company-level (account-level) metrics. Raised seed from YC and others.",
+    "icon": "June.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3074,23 +4518,40 @@
     "parent_company": "June.so Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "freemium",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "static\\.june\\.so/analytics\\.js/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 149,
     "summary_abuse": "No abuse history. YC-backed B2B product analytics tool. Legitimate startup with transparent roadmap.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
-    "white_label_wrapper_likelihood": 1
+    "website": "https://june.so",
+    "white_label_wrapper_likelihood": 1,
+    "xhr": [
+      "a\\.june\\.so"
+    ]
   },
   "Junip": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Junip provider of a ecommerce brand review platform designed to share customers' story, send review requests and display review content.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -3102,7 +4563,12 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Junip is a Canadian Shopify product review app founded around 2019 by Valentin Brizzi and colleagues. Installed on 7,769+ Shopify stores with 4.9/5 rating from 1,034 reviews. Shopify Plus certified. Known for mobile-first review forms and Google Shopping integration.",
+    "icon": "Junip.svg",
     "iso27001": false,
+    "js": {
+      "junipLoaded": "\\;confidence:50",
+      "webpackChunkjunip_scripts": "\\;confidence:50"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3111,23 +4577,40 @@
     "parent_company": "Junip Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "requiresCategory": [
+      6
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.juniphq\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 19,
     "summary_abuse": "No abuse history. Well-reviewed Shopify reviews app. High ratings from merchants. No privacy or security incidents reported.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://junip.co",
     "white_label_wrapper_likelihood": 2
   },
   "Juo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      74
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Juo is a centralised experimentation platform for innovative marketing and product teams.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2018,
@@ -3139,6 +4622,7 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "Juo was founded in 2018 and is based in Wroclaw, Poland. The company provides a centralised experimentation and A/B testing platform for marketing and product teams in ecommerce. It raised seed funding in 2024 with SMOK Ventures among its investors. The platform supports local European payment methods including SEPA, BLIK, and iDEAL. No major acquisitions are recorded.",
+    "icon": "Juo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3147,9 +4631,16 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.juo\\.io/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/juo"
@@ -3158,14 +4649,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://get.juo.io",
     "white_label_wrapper_likelihood": 2
   },
   "Juphy": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Juphy is an AI sales assistant designed for Shopify stores, enabling businesses to increase sales through automated customer engagement and support.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -3177,6 +4673,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Juphy was founded around 2020 as a social media inbox management tool supporting Facebook, Instagram, Twitter, YouTube, LinkedIn, and Shopify. Rated 4.6/5 on Capterra. Integrates all customer social interactions into a unified inbox.",
+    "icon": "Juphy.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3186,23 +4683,39 @@
     "parent_company": "Juphy Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "static\\.juphy\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 19,
     "summary_abuse": "No abuse history. Social media management tool with reasonable privacy practices. Accesses social media API data on behalf of users.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://juphy.com",
     "white_label_wrapper_likelihood": 1
   },
   "Juspay": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Juspay is a developer of an online platform designed to be used for mobile-based payments.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2012,
@@ -3214,7 +4727,11 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Juspay was founded in 2012 in Bengaluru by Vimal Kumar, Sheetal Lalwani, and Shiju K B. Raised $60M Series C (SoftBank) in 2021 and $60M Series D (Kedaara) in 2025. Became a unicorn in 2025. Processes 200M+ transactions/day for Amazon, Flipkart, Swiggy. Invented HyperSDK on 250M phones.",
+    "icon": "juspay.svg",
     "iso27001": true,
+    "js": {
+      "Juspay": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3231,14 +4748,19 @@
     "technical_depth_score": 8,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://juspay.in",
     "white_label_wrapper_likelihood": 1
   },
   "JUST": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "JUST is a one-click payment solution for online business and online shoppers.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -3250,6 +4772,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "JUST (legal name WeJust SAS) was founded in 2022 in Paris, France by Jeremy and Benjamin as a one-click checkout platform for e-commerce. The company raised €3 million in initial funding from Otium Capital and BPI France, followed by an €8 million Seed round in November 2024 led by Backed with participation from Daphni and FJ Labs, bringing total funding to over €11 million. The platform integrates with e-commerce stores to streamline checkout and boost merchant conversion rates.",
+    "icon": "JUST.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3258,22 +4781,37 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "checkout-button-.+/just-pay-button\\.js"
+    ],
     "soc2_type2": false,
     "summary_abuse": "JUST is a checkout platform with no notable abuse signal. Payment processing infrastructure does carry inherent fraud risk as merchants can use checkout tools in fraudulent storefronts, but JUST itself has no documented abuse pattern. As a small French startup, the platform is not large enough to be a significant vector for payment fraud at scale.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://www.getjusto.com",
     "white_label_wrapper_likelihood": 2
   },
   "Justia": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
+    "cookies": {
+      "SESSJUSTIA": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "Justia is a lawyer-based content management system (CMS).",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -3285,7 +4823,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Justia was founded in 2003 by Tim Stanley, former co-founder of FindLaw. Headquartered in Mountain View, CA with operations in Saltillo, Mexico. Provides free legal information, case law, and attorney directories. In 2007 spent $10K/month copying Supreme Court documents for free public access.",
+    "icon": "Justia.svg",
     "iso27001": false,
+    "js": {
+      "jmetadata": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3297,19 +4839,25 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 7,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "No abuse history. Well-regarded free legal information site founded by FindLaw veteran. Mission-driven to make law accessible. No significant data handling concerns.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.justia.com",
     "white_label_wrapper_likelihood": 1
   },
   "Justo": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Justo is a subscription-based software that allows anyone to set up an online store and sell their products with delivery options.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -3321,6 +4869,7 @@
     "headquarters_country": "MX",
     "hipaa_compliant": false,
     "history": "Justo (Jüsto) was a Mexican online-only supermarket founded in 2019. Raised $70M Series C and $200M+ total equity. Operated in Mexico, Brazil, and Peru. Ceased operations in December 2025 after failing to reach sustainable unit economics despite aggressive expansion.",
+    "icon": "Justo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3330,22 +4879,36 @@
     "parent_company": "Justo Inc.",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "high",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.getjusto\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Defunct as of December 2025. Was a Latin American grocery delivery platform. Shut down after burning through $200M+ in venture capital.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 1,
+    "website": "https://www.getjusto.com",
     "white_label_wrapper_likelihood": 1
   },
   "Justuno": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      76,
+      98
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 4,
+    "description": "Justuno is a visitor conversion optimisation platform.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -3357,7 +4920,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Justuno was founded in 2010 and bootstrapped to $6.2M in revenue by 2024 with approximately 3,000 customers. In 2023, the company launched a completely redesigned conversion automation platform with AI-powered product recommendations. The company has 35 employees and focuses on Shopify and e-commerce store conversion optimization.",
+    "icon": "Justuno.svg",
     "iso27001": false,
+    "js": {
+      "JustunoApp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3365,23 +4932,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "my\\.jst\\.ai",
+      "cdn\\.justuno\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 29,
     "summary_abuse": "Justuno is a conversion optimization tool that deploys popups, overlays, and lead capture on e-commerce sites. Popup tools can be used for dark patterns including forced consent dialogs and aggressive exit-intent marketing. No specific abuse incidents are documented, but the tool category generally has higher dark pattern usage.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.justuno.com",
     "white_label_wrapper_likelihood": 2
   },
   "Justuno App": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "smb",
     "confidence": 8,
     "dark_pattern_likelihood": 3,
+    "description": "Justuno is a premium conversion marketing and analytics platform that provides retailers with powerful tools to increase conversions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -3393,6 +4974,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Justuno was founded in 2012 in San Francisco. Provides conversion rate optimization through pop-ups, overlays, and behavioral targeting. Shopify Plus certified. Integrates with Klaviyo, Attentive, HubSpot, and 100+ other platforms.",
+    "icon": "Justuno.svg",
+    "implies": [
+      "Justuno"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3402,23 +4987,41 @@
     "parent_company": "Justuno Inc.",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "recurring",
+      "low"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "//scripttags\\.justuno\\.com/shopify_justuno"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 59,
     "summary_abuse": "Pop-up and overlay marketing tool that can create intrusive user experiences when misconfigured. Injects JS into websites. Some potential for dark patterns if used aggressively (exit popups, countdown timers). No major abuse incidents reported from the vendor itself.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://apps.shopify.com/justuno-pop-ups-email-conversion",
     "white_label_wrapper_likelihood": 2
   },
   "Juvo Leads": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10,
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 8,
     "dark_pattern_likelihood": 1,
+    "description": "Juvo Leads is a platform that integrates hosted chat, call tracking, and form tracking into a unified reporting system.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -3430,6 +5033,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Juvo Leads was founded in 2016. Provides a 4-in-1 lead tracking platform combining call tracking, form tracking, live chat, and SMS for US local businesses and digital agencies. Markets white-label solutions for agencies.",
+    "icon": "JuvoLeads.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3439,23 +5043,41 @@
     "parent_company": "Juvo Leads LLC",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "cdn\\.juvoleads\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 35,
     "summary_abuse": "No abuse history. Call/form tracking service that places tracking scripts on websites. Standard lead generation SaaS with no reported incidents.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://juvoleads.com",
     "white_label_wrapper_likelihood": 2
   },
   "JW Player": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      14
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "JW Player is a online video player with video engagement analytics, custom video player skins, and live video streaming capability.",
+    "dom": [
+      "div[data-video-provider*=jwplayer]",
+      "div[class^='jwplayer']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -3467,18 +5089,36 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "JW Player was developed in 2005 by Jeroen Wijering in the Netherlands, initially as an open-source Flash-based player distributed via his blog. The company LongTail Video was formed in New York in 2008 to commercialize the player and was later renamed JW Player. In 2021 it raised $100 million to expand into subscription and monetization tools. In 2023 it acquired InPlayer, a paywall and monetization platform. In October 2024, JW Player merged with Connatix to form JWP Connatix, the industry's largest video technology and monetization platform.",
+    "icon": "JW Player.svg",
     "iso27001": false,
+    "js": {
+      "jwDefaults": "",
+      "jwplayer": "",
+      "jwplayerApiUrl": "",
+      "webpackJsonpjwplayer": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "vc-backed",
     "parent_company": "JWP Connatix",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "low",
+      "recurring",
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.jwplayer\\.com",
+      "\\.jwpcdn\\.com"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://en.wikipedia.org/wiki/JW_Player",
@@ -3490,6 +5130,10 @@
     "technical_depth_score": 8,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
-    "white_label_wrapper_likelihood": 1
+    "website": "https://www.jwplayer.com",
+    "white_label_wrapper_likelihood": 1,
+    "xhr": [
+      "\\.jwpsrv\\.com"
+    ]
   }
 }

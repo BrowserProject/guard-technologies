@@ -2,9 +2,13 @@
   "Q1Media": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Q1Media is a platform that facilitates the creation, demand, and supply of digital advertising.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -16,6 +20,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Q1Media is a digital advertising supply and demand platform. No founding year or major ownership history is publicly documented.",
+    "icon": "Q1Media.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -27,19 +32,28 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "//q1mediahydraplatform\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Q1Media is a digital advertising platform with multiple third-party ad trackers. Ad tech platforms carry inherent malvertising risk; no specific Q1Media fraud incidents are documented.",
     "technical_depth_score": 5,
     "tracker_density": "heavy",
     "vendor_stability_score": 4,
+    "website": "https://www.q1media.com",
     "white_label_wrapper_likelihood": 2
   },
   "Q4": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Q4 is a SaaS platform that provides communication and intelligence solutions to investor relations professionals.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2000,
@@ -51,7 +65,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Q4 is a US-based investor relations SaaS platform serving public company IR teams, listed on TSX Venture Exchange. No notable acquisition history is documented.",
+    "icon": "Q4.svg",
     "iso27001": false,
+    "js": {
+      "q4App.a11yAnnouncement": "",
+      "q4Defaults.fancySignup": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -59,41 +78,60 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Q4 has no notable abuse signal. It is a B2B investor relations platform with no consumer-facing features associated with fraud.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.q4inc.com/products/investor-relations-websites/default.aspx",
     "white_label_wrapper_likelihood": 1
   },
   "Q4 Cookie Monster": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      5,
+      67
+    ],
     "confidence": 5,
+    "description": "Q4 Cookie Monster is an cookie compliance widget built by Q4.",
     "enterprise_adoption": "limited",
     "founded_year": 2015,
     "history": "Q4 Cookie Monster is a cookie compliance widget built by Q4 Inc. (an investor relations SaaS company) as part of their jQuery UI widget library. It is a small specialized library for cookie consent banners on Q4-powered investor relations websites.",
+    "icon": "Q4.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "dormant",
     "overall_trust_score": 5,
     "ownership_type": "subsidiary",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "widgets\\.q4app\\.com/widgets/q4\\.cookiemonster\\.([\\d\\.]+)\\.min\\.js\\;version:\\1"
+    ],
     "source_urls": [
       "https://q4mobile.github.io/q4widgets-jquery-ui/doc_html/q4.cookieMonster.html"
     ],
     "summary_abuse": "Q4 Cookie Monster has no notable abuse signal. It is a small jQuery cookie compliance widget for investor relations websites with no consumer-facing infrastructure.",
-    "technical_depth_score": 2
+    "technical_depth_score": 2,
+    "website": "https://q4mobile.github.io/q4widgets-jquery-ui/doc_html/q4.cookieMonster.html"
   },
   "Qbrick": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Qbrick is a video advertising system.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1999,
@@ -105,7 +143,11 @@
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "Qbrick was founded in 1999 and is headquartered in Kista, Sweden. The company provides a SaaS-based interactive video platform serving businesses, public authorities, and the gaming industry across the Nordic region. Qbrick is publicly listed on the Swedish stock exchange and has invested in AI-powered video features including interactive avatar presentations. No major acquisitions are recorded.",
+    "icon": "Qbrick.svg",
     "iso27001": false,
+    "js": {
+      "Qbrick": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -113,9 +155,18 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qbrick\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.qbrick.com/about-qbrick/"
@@ -124,14 +175,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.qbrick.com",
     "white_label_wrapper_likelihood": 1
   },
   "QForm": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      110
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "QForm is a tool for designing and managing customizable forms for data collection and processing.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -142,6 +198,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "QForm is a form-building tool for data collection. No founding year or ownership history is publicly documented.",
+    "icon": "QForm.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -153,20 +210,32 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.qform(?:24\\.com|\\.io)/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "QForm has no notable abuse signal. It is a form building tool with no documented association with phishing or fraud.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://qform.io",
     "white_label_wrapper_likelihood": 3
   },
   "Qgiv": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      111
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Qgiv is an online fundraising platform helping nonprofit, faith-based, healthcare, and education organisations raise funds.",
+    "dom": [
+      "a[href*='//secure.qgiv.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -178,6 +247,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Qgiv is a US-based online fundraising platform for nonprofits, faith-based organizations, and healthcare/education institutions. Founded around 2007, it remains independent.",
+    "icon": "Qgiv.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -186,39 +256,69 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "//secure\\.qgiv\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 149,
     "summary_abuse": "Qgiv has no notable abuse signal. It is a fundraising platform for established nonprofit organizations with payment processing and no documented use in fraud campaigns.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.qgiv.com",
     "white_label_wrapper_likelihood": 1
   },
   "qiankun": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "description": "qiankun is a JS library who helps developers to build a micro frontends system.",
+    "dom": {
+      "div[id^='__qiankun_']": {
+        "attributes": {
+          "data-version": "([\\d\\.]+)\\;version:\\1"
+        }
+      }
+    },
     "enterprise_adoption": "none",
     "founded_year": 2019,
     "history": "qiankun is a micro-frontends framework created by Ant Group (Alibaba) in 2019, built on top of single-spa. It enables combining multiple frontend applications into one unified application.",
+    "icon": "qiankun.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scripts": [
+      "__POWERED_BY_QIANKUN__"
+    ],
     "summary_abuse": "qiankun has no notable abuse signal; it is a frontend micro-application framework.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://qiankun.umijs.org"
   },
   "Qikify": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 4,
+    "description": "Qikify is a trusted Shopify Expert providing services for over 35,000 Shopify merchants through Shopify Apps or custom modifications.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -230,6 +330,7 @@
     "headquarters_country": "VN",
     "hipaa_compliant": false,
     "history": "Qikify is a Vietnamese Shopify app developer founded in 2018, building conversion optimization, upsell, and popup apps for merchants. The company serves 80,000+ merchants globally.",
+    "icon": "Qikify.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -238,23 +339,40 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "sdk\\.qikify\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Qikify apps include popup and social proof tools that can be configured to display deceptive urgency signals or fake visitor counts, a moderate dark pattern risk common to conversion optimization tools. No specific fraud incidents are documented.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://qikify.com",
     "white_label_wrapper_likelihood": 2
   },
   "Qiscus": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Qiscus is a platform offering a Chat SDK and messaging API, enabling integration of real-time chat features into applications.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -266,7 +384,12 @@
     "headquarters_country": "ID",
     "hipaa_compliant": false,
     "history": "Qiscus is an Indonesian real-time chat SDK and messaging API platform founded around 2013. It serves developers needing embeddable chat functionality and has received VC backing.",
+    "icon": "Qiscus.svg",
     "iso27001": false,
+    "js": {
+      "QiscusSDK": "",
+      "qiscusWidgetshowBadge": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -274,23 +397,37 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qiscus\\.com/js/qiscus-sdk\\.([\\d\\.]+)\\.js\\?v=([\\d\\.]+)\\;version:\\1"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Qiscus has no notable abuse signal. It is a B2B messaging API used by developers to embed chat functionality, with no documented use in fraud campaigns.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.qiscus.com",
     "white_label_wrapper_likelihood": 2
   },
   "Qiyeku": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      34
+    ],
     "company_size_bucket": "smb",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Qiyeku is a Chinese enterprise database that provides business information, company listings, and industry resources for market research and trade connections.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -302,6 +439,7 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "Qiyeku is a Chinese enterprise business information database providing company listings and industry data for B2B market research. No specific founding year or major events are publicly documented.",
+    "icon": "Qiyeku.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -313,19 +451,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qiyeku\\.cn"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Qiyeku has limited abuse signal. Chinese B2B directories can be misused for scraping and contact harvesting, but no specific fraud incidents are documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.qiyeku.cn",
     "white_label_wrapper_likelihood": 3
   },
   "Qomon": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Qomon is a Saas software and citizen engagement platform and mobile app for NGOs, movements, campaigns, advocacy groups, and citizen-driven organisations.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -337,6 +484,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Qomon (formerly known as Fightfor) was founded around 2017 in France as a citizen engagement and campaign management platform for NGOs, political campaigns, and advocacy groups. The product rebranded to Qomon to reflect its broader mission beyond political campaigning.",
+    "icon": "Qomon.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -345,9 +493,18 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "scripts\\.qomon\\.org"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://qomon.com"
@@ -356,14 +513,20 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://qomon.com",
     "white_label_wrapper_likelihood": 2
   },
   "Qonnex": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6,
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Qonnex is a software designed to enhance customer relations and manage stock for businesses.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -375,7 +538,12 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Qonnex is a Dutch CRM and ecommerce stock management platform, serving local businesses. It is a niche regional product with no notable ownership or acquisition history.",
+    "icon": "Qonnex.svg",
     "iso27001": false,
+    "js": {
+      "QonnexQS": "",
+      "QonnexQSloader": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -386,6 +554,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qonnex\\.nl/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.qonnex.nl"
@@ -394,14 +566,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.qonnex.nl",
     "white_label_wrapper_likelihood": 2
   },
   "Qooqie": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Qooqie is a call tracking tool designed to monitor and analyze inbound phone calls.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -413,6 +590,7 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Qooqie is a Dutch call tracking platform for monitoring and analyzing inbound phone calls. No founding year or major ownership events are publicly documented.",
+    "icon": "Qooqie.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -421,22 +599,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "api\\.qooqie\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Qooqie has no notable abuse signal. It is a call tracking analytics tool with no consumer-facing features associated with fraud.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://qooqie.com",
     "white_label_wrapper_likelihood": 2
   },
   "QoreAI": {
     "abuse_score": 0,
     "ai_generated_likelihood": 5,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 1,
+    "description": "QoreAI is an all-in-one collaboration operating system designed for the automotive industry.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2020,
@@ -448,7 +640,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "QoreAI is an all-in-one collaboration platform for the automotive industry. No founding year or ownership history is publicly documented.",
+    "icon": "QoreAI.svg",
     "iso27001": false,
+    "js": {
+      "QoreAI.execute": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -456,22 +652,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.qoreai\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "QoreAI has no notable abuse signal. It is a B2B automotive collaboration platform with no consumer-facing features associated with fraud.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.qoreai.com",
     "white_label_wrapper_likelihood": 3
   },
   "Qpien": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Qpien is a SaaS platform that provides multi-channel customer communication management with AI reply automation, smart inbox, call center integration, and workflow orchestration.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -483,7 +692,12 @@
     "headquarters_country": "TR",
     "hipaa_compliant": false,
     "history": "Qpien was founded in 2020 in Istanbul, Turkey as a multi-channel customer communication SaaS with AI-driven inbox automation.",
+    "icon": "Qpien.svg",
     "iso27001": false,
+    "js": {
+      "QpienWidget": "",
+      "qpienIframeAction": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -491,9 +705,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.cbinsights.com/company/qpien"
@@ -502,14 +721,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://qpien.com",
     "white_label_wrapper_likelihood": 2
   },
   "Qshop": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Qshop is a Korean ecommerce platform that enables the creation of online stores.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -521,6 +745,7 @@
     "headquarters_country": "KR",
     "hipaa_compliant": false,
     "history": "Qshop is a Korean ecommerce platform operating at qshop.ai targeting small businesses seeking to build online stores quickly; specific founding details are not publicly prominent.",
+    "icon": "Qshop.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -529,23 +754,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "cdn\\.qshop\\.ai"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Qshop is a small Korean ecommerce platform builder primarily serving small businesses. Like most ecommerce builders it could theoretically host low-quality stores, but it has no documented abuse history and its niche market focus limits exposure.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://qshop.ai",
     "white_label_wrapper_likelihood": 2
   },
   "Qstomizer": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Qstomizer app is the app for Shopify and Woocomerce that allows you to add a visual custom product designer to your shop.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -556,7 +795,13 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Qstomizer is a product customization SaaS for Shopify and WooCommerce stores, allowing merchants to add visual product designer functionality. It is a niche ecommerce app with no notable ownership events.",
+    "icon": "Qstomizer.svg",
     "iso27001": false,
+    "js": {
+      "jQueryQSMZ": "",
+      "loadScript_qsmz": "",
+      "qstomizer_script": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -564,9 +809,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "/qsmz-scripttag/qstomizer_st(?:\\.min)?\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.qstomizer.com"
@@ -575,14 +828,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.qstomizer.com",
     "white_label_wrapper_likelihood": 2
   },
   "Quadran": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      92
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quadran is a real-time end-user monitoring and performance analysis tool.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2008,
@@ -594,6 +852,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Quadran was founded in 2008 in Toulouse, France, specializing in IT performance consulting and real-time end-user monitoring (RUM) under their appYuser product.",
+    "icon": "Quadran.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -602,9 +861,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "tracker\\.quadran\\.eu"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.quadran.eu/en/home-2/"
@@ -613,14 +879,22 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.quadran.eu",
     "white_label_wrapper_likelihood": 1
   },
   "Qualaroo": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      73
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Qualaroo provides surveys on websites and apps to get user feedback.",
+    "dom": [
+      "link[href*='.qualaroo.com']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -632,7 +906,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Qualaroo was founded in 2010 as a customer feedback and survey tool (originally called KISSinsights). It was rebranded as Qualaroo and later acquired by ProProfs, a US-based e-learning and customer support software company. It is now part of the ProProfs product suite.",
+    "icon": "Qualaroo.svg",
     "iso27001": false,
+    "js": {
+      "QUALAROO_DNT": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -641,9 +919,18 @@
     "parent_company": "ProProfs",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "recurring",
+      "mid",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qualaroo\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://qualaroo.com"
@@ -653,14 +940,20 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://qualaroo.com",
     "white_label_wrapper_likelihood": 2
   },
   "Qualified": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52,
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Qualified is a B2B marketer that allows buyers and sales reps to connect through real-time website conversations.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2018,
@@ -672,7 +965,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Qualified was founded in 2018 in San Francisco by Kraig Swensrud and Sean Whiteley, former Salesforce executives, as a conversational sales and marketing platform for B2B businesses. It has raised significant VC funding and specializes in pipeline generation for Salesforce customers.",
+    "icon": "Qualified.svg",
     "iso27001": false,
+    "js": {
+      "QualifiedObject": "^qualified$",
+      "qualified": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -680,9 +978,17 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "high",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qualified\\.com/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://www.qualified.com"
@@ -691,14 +997,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.qualified.com",
     "white_label_wrapper_likelihood": 1
   },
   "Qualitando": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      73
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Qualitando is an Italian customer satisfaction widget designed to collect, measure, and analyze user feedback to support service quality evaluation and improvement.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -710,6 +1021,7 @@
     "headquarters_country": "IT",
     "hipaa_compliant": false,
     "history": "Qualitando was founded in 2012 in Milan, Italy, focused on customer satisfaction widgets for the hospitality and retail sectors.",
+    "icon": "Qualitando.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -721,6 +1033,13 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.qualitando\\.com"
+    ],
+    "scriptSrc": [
+      "\\.qualitando\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.qualitando.com/en/about-us/"
@@ -729,14 +1048,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.qualitando.com",
     "white_label_wrapper_likelihood": 1
   },
   "Qualitelis": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Qualitelis is a hotel guest review system designed to collect, manage, and analyze feedback, helping hospitality providers improve services by addressing customer experiences and satisfaction levels.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -748,7 +1072,14 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Qualitelis is a hotel guest review and digital customer journey platform that was acquired by Septeo, a French hospitality software group, making it part of the Septeo Hospitality product suite.",
+    "icon": "Qualitelis.svg",
     "iso27001": false,
+    "js": {
+      "InitWidgetQualitelis": "",
+      "resizeWidgetQualitelis": "",
+      "showHideWidgetQualitelis": "",
+      "widgetQualitelisFixed": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -760,6 +1091,7 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.septeo.com/en/products-and-services/hospitality-customer-relationship-software-qualitelis"
@@ -768,14 +1100,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.qualitelis.septeo.com",
     "white_label_wrapper_likelihood": 1
   },
   "Quality Unit Help Desk": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Quality Unit Help Desk is a customer support and help desk software designed to manage and streamline customer service operations.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -787,6 +1124,7 @@
     "headquarters_country": "SK",
     "hipaa_compliant": false,
     "history": "Quality Unit is a Slovak software company founded in 2004 that develops LiveAgent, a help desk and live chat software platform. It is bootstrapped and independently owned. The company is headquartered in Bratislava, Slovakia.",
+    "icon": "QualityUnitHelpDesk.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -795,9 +1133,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.qualityunit\\.liveagent"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.qualityunit.com"
@@ -807,14 +1153,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.qualityunit.com",
     "white_label_wrapper_likelihood": 1
   },
   "Qualtrics": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      73
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "Qualtrics is an cloud-based platform for creating and distributing web-based surveys.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": true,
     "founded_year": 2002,
@@ -826,7 +1177,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Qualtrics was founded in 2002 by Scott Smith and Ryan Smith in Provo, Utah as an online survey platform. It became the dominant enterprise experience management platform. SAP acquired Qualtrics for $8 billion in 2019 before its IPO. Qualtrics then went public in January 2021 on NASDAQ at a valuation of $15 billion. In 2023, SAP sold its majority stake, taking Qualtrics private with Silver Lake and Canada Pension Plan.",
+    "icon": "Qualtrics.svg",
     "iso27001": true,
+    "js": {
+      "QSI.ClientSideTargeting": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -834,9 +1189,17 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "dominant",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.qualtrics\\.com/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://www.qualtrics.com"
@@ -845,14 +1208,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.qualtrics.com",
     "white_label_wrapper_likelihood": 0
   },
   "Qualva": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Qualva is a chatbot platform designed to deliver consistent, user-focused interaction and support across various applications.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -864,7 +1232,11 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "Qualva was founded in 2015 and is based in Chiba, Japan. The company operates as a marketing intelligence and digital advertising platform serving the Japanese market. No major acquisitions or ownership changes are recorded.",
+    "icon": "Qualva.svg",
     "iso27001": false,
+    "js": {
+      "qualva.Widget": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -875,6 +1247,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "form\\.qualva\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/qualva"
@@ -883,14 +1259,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://qualva.com",
     "white_label_wrapper_likelihood": 2
   },
   "Quandoo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Quandoo is a platform that allows users to find and reserve restaurants.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -902,6 +1283,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Quandoo was founded in 2012 in Berlin, Germany, as a restaurant reservation platform. In March 2015, Recruit Holdings (Japan) acquired 100% of Quandoo for approximately $219 million, making it a subsidiary of the Japanese HR and recruitment conglomerate that also owns Hot Pepper Gourmet.",
+    "icon": "Quandoo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -914,6 +1296,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "booking-widget\\.quandoo\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://techcrunch.com/2015/03/05/recruit-quandoo/"
@@ -922,14 +1308,19 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.quandoo.co.uk",
     "white_label_wrapper_likelihood": 1
   },
   "Quant": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Quant is a Japanese content and creator management system designed to organize, manage, and distribute digital content.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -941,6 +1332,7 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "Quant is a Japanese CMS for content and creator management, designed for Japanese-market digital content distribution.",
+    "icon": "Quant.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -952,19 +1344,32 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quant\\.jp/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Quant is a Japanese CMS with no notable abuse signal. It is a content management tool with no documented history of exploitation.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://pf.quant.page",
     "white_label_wrapper_likelihood": 2
   },
   "Quanta": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      78,
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "cookies": {
+      "_qta_rum": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "Quanta is web performance management solution. Quanta offers the only analytics solution specifically designed to enable business and technical members of ecommerce teams to collaborate effectively with the end in mind: use web performance to directly impact online revenue at all times.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -976,7 +1381,12 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Quanta (quanta.io) launched around 2012 as a web performance management solution based in Paris, France, focused on helping ecommerce teams correlate web performance metrics with revenue impact.",
+    "icon": "Quanta.svg",
     "iso27001": false,
+    "js": {
+      "QUANTA.app_id": "",
+      "QuantaTagRUMSpeedIndex": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -984,9 +1394,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quanta\\.io/(?:.+/quanta-rum-v([\\d\\.]+)\\.min\\.js)?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.quanta.io/about/"
@@ -995,14 +1412,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.quanta.io",
     "white_label_wrapper_likelihood": 1
   },
   "Quantcast Choice": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      67
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quantcast Choice is a free consent management platform to meet key privacy requirements stemming from ePrivacy Directive, GDPR, and CCPA.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -1014,6 +1436,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quantcast was founded in 2006 in San Francisco and built one of the internet's largest first-party data networks for ad targeting. Quantcast Choice is the company's free consent management platform (CMP) product launched to help publishers comply with GDPR and CCPA requirements.",
+    "icon": "Quantcast.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1022,23 +1445,39 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "quantcast\\.mgr\\.consensu\\.org"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quantcast Choice is a consent management platform used by publishers to handle privacy consent; it has no notable abuse signal. As a compliance widget it has no content-hosting or user-generated surface exploited by bad actors.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.quantcast.com/products/choice-consent-management-platform",
     "white_label_wrapper_likelihood": 1
   },
   "Quantcast Measure": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quantcast Measure is an audience insights and analytics tool.",
+    "dom": [
+      "link[href*='.quantserve.com']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -1050,7 +1489,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quantcast was founded in 2006 in San Francisco, building an audience measurement and advertising intelligence platform. Quantcast Measure is the company's free audience analytics product for publishers.",
+    "icon": "Quantcast.svg",
     "iso27001": false,
+    "js": {
+      "quantserve": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1058,23 +1501,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quantserve\\.com/quant\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quantcast Measure is an audience measurement tracker; its main privacy concern is cross-site user profiling for advertising, but it is not a vector for phishing or fraud. Quantcast is an ad-tech company whose tracking JavaScript is embedded on publisher sites, contributing to ad-targeting data collection.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.quantcast.com/products/measure-audience-insights",
     "white_label_wrapper_likelihood": 1
   },
   "Quantum Metric": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quantum Metric is a continuous product design platform that helps organizations build better products faster.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -1086,6 +1542,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quantum Metric was founded in 2015 in Colorado Springs, Colorado. In January 2021 the company raised a $200M Series B round, achieving unicorn status at a $1B valuation.",
+    "icon": "Quantummetric.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1097,6 +1554,10 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.quantummetric\\.com"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://www.quantummetric.com/our-story"
@@ -1105,13 +1566,18 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.quantummetric.com/",
     "white_label_wrapper_likelihood": 1
   },
   "Quarto": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      57
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "description": "Quarto is an open-source technical publishing system.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -1123,10 +1589,20 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quarto was created by Posit PBC (formerly RStudio) and first released publicly in 2022 as the next-generation successor to R Markdown. It supports Python, R, Julia, and Observable, and is designed for reproducible scientific and technical publishing. Posit, which backs the project, rebranded from RStudio in 2022 to reflect the multi-language mission.",
+    "icon": "Quarto.svg",
     "iso27001": false,
+    "js": {
+      "quartoOpenSearch": "",
+      "quartoToggleHeadroom": "",
+      "quartoToggleReader": ""
+    },
     "kind": "oss-project",
     "license_type": "gpl-2.0",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^quarto-([\\d\\.]+)$\\;version:\\1"
+    },
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "parent_company": "Posit",
@@ -1142,13 +1618,36 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quarto is an open-source technical publishing tool with no notable abuse signal. It is used by data scientists, academics, and developers to produce documents, websites, and presentations, and has no consumer-facing surface exploitable for fraud.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://quarto.org"
   },
   "Quasar": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      12
+    ],
     "company_size_bucket": "startup",
     "confidence": 6,
+    "description": "Quasar is an open-source Vue.js based framework.",
+    "dom": {
+      "div#q-app": {
+        "attributes": {
+          "id": "\\;confidence:50"
+        }
+      },
+      "div.q-notifications": {
+        "exists": ""
+      },
+      "div.q-page-container": {
+        "attributes": {
+          "class": "\\;confidence:50"
+        }
+      },
+      "span.q-focus-helper": {
+        "exists": ""
+      }
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1160,10 +1659,15 @@
     "headquarters_country": "RO",
     "hipaa_compliant": false,
     "history": "Quasar Framework was created by Razvan Stoenescu from Romania, with the first commit in 2015 and a stable v1.0 release in July 2019. It is an MIT-licensed open-source Vue.js-based framework for building responsive web, mobile (via Cordova/Capacitor), and desktop (via Electron) applications from a single codebase.",
+    "icon": "Quasar.svg",
+    "implies": [
+      "Vue.js"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1171,6 +1675,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 9,
+    "requires": [
+      "Vue.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://github.com/quasarframework/quasar"
@@ -1178,14 +1685,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quasar is an open-source frontend framework with no notable abuse signal. It is a developer tool for building applications and has no consumer-facing surface exploitable for fraud.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://quasar.dev"
   },
   "Qubit": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Qubit is a platform that enables personalized ecommerce experiences through data-driven insights and intelligent automation.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -1197,7 +1709,11 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Qubit was founded in 2010 in London, UK, as an ecommerce personalization and A/B testing platform. In October 2021, Coveo (Canada) acquired Qubit to expand its AI relevance platform into ecommerce personalization and gain European market presence.",
+    "icon": "Qubit.svg",
     "iso27001": false,
+    "js": {
+      "QUBIT_WORKER": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1206,9 +1722,17 @@
     "parent_company": "Coveo",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.goqubit\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.coveo.com/en/company/news-releases/2021/coveo-acquires-qubit"
@@ -1217,14 +1741,23 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.coveo.com/en/qubit",
     "white_label_wrapper_likelihood": 1
   },
   "Querlo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52,
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Querlo is a provider of custom artificial intelligence solutions tailored for business applications.",
+    "dom": [
+      "#querloEmbd"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1236,6 +1769,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Querlo was founded around 2015 in New York with engineering in Italy, offering AI-powered chatbot survey tools for customer data collection and engagement.",
+    "icon": "Querlo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1244,9 +1778,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "freemium",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.querlo.com/about"
@@ -1255,14 +1795,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.querlo.com",
     "white_label_wrapper_likelihood": 2
   },
   "Queryly": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      29
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Queryly is a cloud-based API providing site search and content recommendation functionalities, utilizing advanced algorithms to deliver quick, relevant search results and personalized content suggestions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -1274,7 +1819,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Queryly was founded in 2012 by Xin Chen as a SaaS-based site search and content discovery API for digital media publishers.",
+    "icon": "Queryly.svg",
     "iso27001": false,
+    "js": {
+      "queryly": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1282,9 +1831,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.queryly\\.com/js/queryly\\.v([\\d\\.]+)\\.js\\;version:\\1"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.queryly.com/"
@@ -1293,13 +1849,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://queryly.com/",
     "white_label_wrapper_likelihood": 2
   },
   "Question2Answer": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      15
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:question2answer:question2answer:*:*:*:*:*:*:*:*",
+    "description": "Question2Answer (Q2A) is a popular open-source Q&A platform for PHP/MySQL.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1311,6 +1873,13 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Question2Answer (Q2A) is an open-source PHP/MySQL Q&A platform inspired by the Stack Exchange model, designed for self-hosted community question-and-answer sites. It has been maintained as an independent community-driven project since around 2010.",
+    "html": [
+      "<!-- Powered by Question2Answer"
+    ],
+    "icon": "question2answer.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-2.0",
@@ -1322,6 +1891,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 8,
+    "scriptSrc": [
+      "\\./qa-content/qa-page\\.js\\?([0-9.]+)\\;version:\\1"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.question2answer.org"
@@ -1329,14 +1901,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Question2Answer is a self-hosted Q&A platform with no notable direct abuse signal. As an open-source CMS, individual instances could host spam or phishing content, but this is a risk of the hosting environment rather than the software itself.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://www.question2answer.org"
   },
   "Queue-it": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      92
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Queue-it is a virtual waiting room platform designed to protect your website and mobile app from slowdowns or crashes during end-user peaks.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -1348,7 +1925,12 @@
     "headquarters_country": "DK",
     "hipaa_compliant": false,
     "history": "Queue-it was founded in 2010 in Copenhagen, Denmark by Niels Henrik Sodemann, Camilla Ley Valentin, and Martin Pronk. The idea was inspired by Danish bakery queuing systems. The company protects websites from traffic spikes during high-demand events like ticket sales and product drops.",
+    "icon": "Queue-it.svg",
     "iso27001": false,
+    "js": {
+      "QueueIt.Javascript.Version": "([\\d\\.]+)\\;version:\\1",
+      "queueit_clientside_config": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1356,9 +1938,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.queue-it\\.net/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://queue-it.com/news/queue-it-hits-10-year-anniversary-amid-increased-global-interest-in-virtual-waiting-rooms/"
@@ -1367,14 +1956,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://queue-it.com",
     "white_label_wrapper_likelihood": 1
   },
   "Quform": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      110
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quform is a WordPress plugin designed for building and managing forms.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -1386,7 +1980,12 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Quform is a WordPress form builder plugin developed by ThemeCatcher (a small UK-based developer), first published on CodeCanyon in 2011. It sells as a one-time purchase with no subscription required.",
+    "icon": "Quform.svg",
     "iso27001": false,
+    "js": {
+      "Quform.captchaRefreshFormQueue": "",
+      "QuformRecaptchaLoaded": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1394,23 +1993,42 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "requires": [
+      "WordPress"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quform is a self-hosted WordPress form builder plugin; it has minimal abuse surface since all form data stays on the site owner's server. No documented abuse incidents.",
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 5,
+    "website": "https://www.quform.com",
     "white_label_wrapper_likelihood": 1
   },
   "QUIC.cloud": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      92,
+      23,
+      31
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "QUIC.cloud is a content delivery network (CDN) and optimisation service that uses the QUIC protocol, a next-generation internet transport protocol developed by Google, to deliver content faster and more securely over the internet.",
+    "dns": {
+      "SOA": [
+        "\\.quicns\\.(?:net|com)"
+      ]
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -1422,6 +2040,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "QUIC.cloud is a CDN and optimization service launched by LiteSpeed Technologies, leveraging the QUIC protocol for fast content delivery. It launched around 2019 as a companion service to LiteSpeed's web server products.",
+    "icon": "QUIC.cloud.svg",
     "iso27001": false,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -1431,6 +2050,10 @@
     "parent_company": "LiteSpeed Technologies",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
@@ -1440,11 +2063,15 @@
     "technical_depth_score": 7,
     "tracker_density": "none",
     "vendor_stability_score": 6,
+    "website": "https://www.quic.cloud",
     "white_label_wrapper_likelihood": 2
   },
   "Quick.Cart": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
     "enterprise_adoption": "none",
@@ -1458,10 +2085,17 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "Quick.Cart is a free PHP-based shopping cart e-commerce solution developed by OpenSolution, a Polish software company based in Silesia, and released alongside Quick.CMS starting around 2006. It is designed as a lightweight self-hosted e-commerce system using SQLite.",
+    "html": [
+      "<a href=\"[^>]+opensolution\\.org/\">(?:Shopping cart by|Sklep internetowy)"
+    ],
+    "icon": "Quick.Cart.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "lgpl-2.1",
     "maintenance_status": "maintained",
+    "meta": {
+      "generator": "Quick\\.Cart(?: v([\\d.]+))?\\;version:\\1"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1476,13 +2110,18 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quick.Cart is a lightweight self-hosted PHP e-commerce platform with no notable abuse signal. As open-source software for individual merchants, instances could potentially host fraudulent storefronts, but this is a risk of any self-hosted e-commerce platform.",
     "technical_depth_score": 4,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://opensolution.org"
   },
   "Quick.CMS": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:opensolution:quick.cms:*:*:*:*:*:*:*:*",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -1494,10 +2133,17 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "Quick.CMS is a free PHP-based content management system developed by OpenSolution, a Polish software company based in Silesia. First released in December 2006, it uses SQLite instead of MySQL and is designed for simple, lightweight website management without requiring a database server.",
+    "html": [
+      "<a href=\"[^>]+opensolution\\.org/\">CMS by"
+    ],
+    "icon": "Quick.CMS.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "lgpl-2.1",
     "maintenance_status": "maintained",
+    "meta": {
+      "generator": "Quick\\.CMS(?: v([\\d.]+))?\\;version:\\1"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1512,14 +2158,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Quick.CMS is a lightweight self-hosted PHP CMS with no notable abuse signal. As open-source software, individual installations could host spam content, but the software itself presents no centralized fraud risk.",
     "technical_depth_score": 4,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://opensolution.org"
   },
   "Quickblog": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      11
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Quickblog is a platform that aids bloggers and agencies in producing embedded, SEO-ready blog content seamlessly compatible with any existing website.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1531,6 +2182,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quickblog was founded in 2021 as a cloud-hosted blogging platform focused on SEO-ready embedded blogs for retailers, agencies, and Shopify stores.",
+    "icon": "Quickblog.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1539,9 +2191,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quickblog\\.co/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.quickblog.co/about"
@@ -1550,14 +2211,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.quickblog.co",
     "white_label_wrapper_likelihood": 3
   },
   "Quickbutik": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Quickbutik is an all-in-one ecommerce platform from Sweden.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1569,17 +2235,29 @@
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "Quickbutik was founded in 2015 in Helsingborg, Sweden by Azddin Benberkan as a simple all-in-one ecommerce platform for Nordic entrepreneurs. The platform expanded to Denmark in subsequent years.",
+    "icon": "Quickbutik.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "^Quickbutik$"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quickbutik\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://oresundstartups.com/milestone-over-1000-quickbutik-shops-in-3-years/"
@@ -1588,14 +2266,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://quickbutik.com",
     "white_label_wrapper_likelihood": 2
   },
   "QuickCEP": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "QuickCEP is an AI-powered chatbot solution to improve business conversions, sales, and customer satisfaction through automated interactions.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1607,6 +2290,7 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "QuickCEP was founded in 2021 in China as an AI-driven customer engagement platform targeting ecommerce stores, particularly cross-border merchants. In 2023 the company raised tens of millions CNY to expand internationally.",
+    "icon": "QuickCEP.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1615,9 +2299,22 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "\\.quickcep\\.com"
+    ],
+    "scriptSrc": [
+      "\\.quickcep\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://equalocean.com/news/2023062619817"
@@ -1627,14 +2324,22 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.quickcep.com",
     "white_label_wrapper_likelihood": 2
   },
   "Quickchat AI": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quickchat AI is a no-code platform that lets you create custom AI Assistants for your business.",
+    "dom": [
+      "link[href*='/quickchat-files/appquickchat/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1646,7 +2351,12 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "Quickchat AI was founded in 2018 by Piotr Grudzien in Poland and backed by Y Combinator. It builds conversation design tools and AI assistants powered by large language models for business use cases.",
+    "icon": "QuickchatAI.svg",
     "iso27001": false,
+    "js": {
+      "quickchat": "",
+      "quickchat_busy": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1654,9 +2364,16 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.ycombinator.com/companies/quickchat-ai"
@@ -1666,30 +2383,49 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://quickchat.ai",
     "white_label_wrapper_likelihood": 3
   },
   "Quicklink": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59,
+      92
+    ],
     "confidence": 6,
+    "description": "Quicklink is a JS library which aims to be a drop-in solution for sites to prefetch links based on what is in the user's viewport.",
     "enterprise_adoption": "limited",
     "founded_year": 2018,
     "history": "Quicklink was created by Addy Osmani at Google Chrome Labs and open-sourced in 2018 as a small JS library to prefetch in-viewport links during idle time.",
+    "icon": "Quicklink.svg",
+    "js": {
+      "drupalSettings.quicklink": "",
+      "quicklink": ""
+    },
     "kind": "oss-library",
     "license_type": "apache-2.0",
     "maintenance_status": "maintained",
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "growing",
+    "scriptSrc": [
+      "quicklink@([\\d.]+)/dist/quicklink.*\\.js\\;version:\\1"
+    ],
     "summary_abuse": "Quicklink is an open-source JavaScript prefetch library with no abuse signal. It is a developer tool with no consumer-facing surface.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://getquick.link/"
   },
   "QuickSell": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "QuickSell is a sales acceleration platform helping businesses transform conversations to conversions by leveraging personal commerce.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -1701,6 +2437,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "QuickSell was founded in 2017 in Mumbai, India, enabling WhatsApp-first B2B catalog sales and personal commerce for small and medium businesses.",
+    "icon": "QuickSell.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1709,9 +2446,17 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quicksell\\.co/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.crunchbase.com/organization/quicksell"
@@ -1721,14 +2466,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://quicksell.co",
     "white_label_wrapper_likelihood": 2
   },
   "Quicksprout": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      92
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Quicksprout is a website optimization service focused on improving site performance and user engagement.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -1740,7 +2490,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2007 by digital marketer Neil Patel as a blog and website analytics tool. In 2018, Lars Lofgren and Corry Cummings acquired Quick Sprout and repositioned it as a broader digital marketing resource and service platform.",
+    "icon": "Quicksprout.svg",
     "iso27001": false,
+    "js": {
+      "_QS.CDN": "cdn\\.quicksprout\\.com"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1751,6 +2505,10 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "cdn\\.quicksprout\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.incomediary.com/blogger-profile-how-neil-patel-makes-millions-with-quick-sprout/",
@@ -1760,14 +2518,19 @@
     "technical_depth_score": 3,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://www.quicksprout.com",
     "white_label_wrapper_likelihood": 3
   },
   "Quicktext": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Quicktext is an AI-powered hotel chatbot and instant communication platform designed to increase direct bookings for hotels.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -1779,6 +2542,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Founded in 2017 by Benjamin Devisme and Daniel C. Doppler in Paris as an AI-powered chatbot platform for hotel direct bookings. The company later rebranded to Quinta, positioning itself as a hotel data intelligence platform.",
+    "icon": "Quicktext.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1787,9 +2551,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.quicktext\\.im/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/quicktext/__l4EJAfT8JV43NiQqzNjOgb9CKdMVGRCFM_2mcyW_htE",
@@ -1800,14 +2572,22 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.quicktext.im",
     "white_label_wrapper_likelihood": 2
   },
   "Quicq": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      92
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Quicq is an image optimisation tool by Afosto.",
+    "dom": [
+      "img[src*='.qcqcdn.com/'], img[data-src*='.qcqcdn.com/'], img[src*='cdn.quicq.io/'], img[data-src*='cdn.quicq.io/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -1819,6 +2599,7 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Quicq is an image optimization product developed by Afosto, a Dutch headless commerce software company founded in 2013. It is one of several apps in the Afosto product suite.",
+    "icon": "Quicq.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1828,6 +2609,10 @@
     "parent_company": "Afosto",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
@@ -1841,15 +2626,34 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://afosto.com/apps/quicq",
     "white_label_wrapper_likelihood": 2
   },
   "Quill": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      24
+    ],
     "confidence": 7,
+    "description": "Quill is a free open-source WYSIWYG editor.",
+    "dom": {
+      "div[class*='ql-editor'], div[class*='quill']": {
+        "exists": ""
+      },
+      "link[href*='cdn.quilljs.com/']": {
+        "attributes": {
+          "href": "cdn\\.quilljs\\.com/([\\d\\.]+)/\\;version:\\1"
+        }
+      }
+    },
     "enterprise_adoption": "common",
     "founded_year": 2013,
     "history": "Quill is an open-source rich-text WYSIWYG editor created around 2013, originally developed at Salesforce. It became one of the most widely-used web text editors with a clean API and Delta data format, and is used in many commercial SaaS products.",
+    "icon": "Quill.svg",
+    "js": {
+      "Quill": ""
+    },
     "kind": "oss-library",
     "license_type": "bsd-3-clause",
     "maintenance_status": "maintained",
@@ -1857,14 +2661,22 @@
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
     "summary_abuse": "Quill is an open-source text editor library with no abuse signal. It is a developer tool embedded in applications and has no direct consumer-facing surface exploitable for fraud.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://quilljs.com"
   },
   "Quintype": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "cookies": {
+      "qtype-session": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "Quintype is a digital publishing platform that provides content management, audience engagement, and monetisation solutions for digital media organisations.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2014,
@@ -1873,9 +2685,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "link": "fea\\.assettype\\.com/quintype-ace"
+    },
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Founded in 2014 by Amit Rathore and Chirdeep Shetty in Bangalore, India, as a digital publishing platform for media organisations needing modern CMS and audience engagement tools.",
+    "icon": "Quintype.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1884,9 +2700,14 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/quintype-systems/__81aN6O1-qA-z2vGJoGKHZZEXBoXY7XnVhTP3PIBtjU4",
@@ -1896,14 +2717,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.quintype.com",
     "white_label_wrapper_likelihood": 2
   },
   "Quiq Messaging": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Quiq Messaging is a business messaging solution designed to facilitate customer communication across multiple channels.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -1915,7 +2741,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2015, Quiq is a conversational AI and customer messaging platform enabling enterprises to communicate with customers via SMS, messaging apps, and chat. The company reported approximately $20M revenue with a team of 98 people as of 2024.",
+    "icon": "QuiqMessaging.svg",
     "iso27001": false,
+    "js": {
+      "Quiq": "",
+      "QuiqUtils": "",
+      "QuiqUtils._.VERSION": "([\\d.]+)\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1926,6 +2758,10 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.goquiq\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/quiq/__TUJAE82pQGpyeD7T1VkMdccefBemydXoOGsachopL7g",
@@ -1935,14 +2771,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://quiq.com",
     "white_label_wrapper_likelihood": 2
   },
   "Quixchat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Quixchat is a chat support widget for websites, facilitating real-time communication with visitors via WhatsApp, Facebook Messenger, Telegram, Viber, or Line.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1953,7 +2794,11 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Quixchat is a multi-channel chat widget connecting websites to WhatsApp, Facebook Messenger, Telegram, Viber, and Line. It is a small, recent product with limited public history.",
+    "icon": "Quixchat.svg",
     "iso27001": false,
+    "js": {
+      "QuixChatClearChat": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1961,22 +2806,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "api\\.quixchat\\.com/assets/js/quixchat\\.js\\?ver=(\\d+\\.\\d+)(?:\\.\\d+)*\\;version:\\1"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Quixchat is a chat support widget with no notable abuse signal. It routes conversations to established messaging platforms and has no documented history of exploitation.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://quixchat.com",
     "white_label_wrapper_likelihood": 3
   },
   "Quizitri": {
     "abuse_score": 2,
     "ai_generated_likelihood": 5,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Quizitri is a tool for creating unlimited quizzes aimed at increasing conversions, website traffic, lead generation, and sales.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1987,6 +2846,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Quizitri is a quiz-building SaaS for lead generation and marketing conversions. It is a small, recent product with no notable ownership events.",
+    "icon": "Quizitri.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1995,22 +2855,42 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "app\\.quizitri\\.com"
+    ],
+    "scriptSrc": [
+      "app\\.quizitri\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Quizitri is a quiz and lead-generation tool with no notable abuse signal. Quiz platforms can be used for data harvesting under guise of entertainment, but there is no specific documented abuse history for Quizitri.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.quizitri.com",
     "white_label_wrapper_likelihood": 3
   },
   "Qukasoft": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Qukasoft is an online solution that offers integration for your ecommerce platform with leading online marketplaces, expanding your reach to potential customers.",
+    "dom": [
+      "link[href*='cdn.qukasoft.com/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -2021,6 +2901,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Qukasoft is an ecommerce marketplace integration SaaS, helping online stores connect to leading marketplaces. Limited public history is available.",
+    "icon": "Qukasoft.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2029,22 +2910,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Qukasoft is an ecommerce integration platform with no notable abuse signal. It is a merchant-facing tool with no documented history of exploitation.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.qukasoft.com",
     "white_label_wrapper_likelihood": 2
   },
   "Qumra": {
     "abuse_score": 3,
     "ai_generated_likelihood": 4,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Qumra is a platform that enables users to create ecommerce websites without requiring any programming knowledge.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2055,7 +2946,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Qumra is a no-code ecommerce website builder with a freemium model. It is a small cloud-based platform with very limited public history.",
+    "icon": "Qumra.svg",
     "iso27001": false,
+    "js": {
+      "Qumra.cart": "",
+      "__qumra__": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2063,22 +2959,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Qumra is a no-code ecommerce builder with minor abuse potential from free-tier store creation. Free ecommerce platforms can be exploited for fake storefronts, but there is no specific documented abuse history for Qumra.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.qumra.cloud",
     "white_label_wrapper_likelihood": 4
   },
   "Quoli": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      100,
+      90
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Quoli is a Shopify app designed to help merchants collect and showcase social proof, incorporating product reviews, photos/videos, attributes, nuggets, questions, and user-generated content (UGC).",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2023,
@@ -2090,6 +2998,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quoli was founded in 2023 and is based in Denver, Colorado. It is a Shopify-native product reviews and UGC app that launched with strong early growth, increasing its Shopify store installations by over 310% year-over-year.",
+    "icon": "Quoli.png",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2098,9 +3007,21 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.quoli\\.io/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://quoli.io",
@@ -2110,14 +3031,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://quoli.io",
     "white_label_wrapper_likelihood": 2
   },
   "Quon": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Quon is a platform that provides control over website advertising and sales, integrating an end-to-end analytics system to optimize advertising management.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -2137,22 +3063,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "counter\\.quon\\.ru/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Quon has no notable abuse signal. It is a Japanese social media marketing platform with limited global footprint and no known abuse-enabling features.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.quon.ru",
     "white_label_wrapper_likelihood": 3
   },
   "Quora Pixel": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Quora Pixel is a tool that is placed in your website code to track traffic and conversions.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2009,
@@ -2164,7 +3103,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Quora was founded in 2009 by former Facebook employees Adam D'Angelo and Charlie Cheever. The Quora Pixel is the advertising conversion tracking component of Quora's self-serve ad platform, launched alongside the ads product in 2016.",
+    "icon": "Quora.svg",
     "iso27001": false,
+    "js": {
+      "qp.qp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2175,6 +3118,9 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 2,
+    "scriptSrc": [
+      "\\.quora\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://business.quora.com/advertising/quora-pixel/"
@@ -2184,14 +3130,19 @@
     "technical_depth_score": 4,
     "tracker_density": "heavy",
     "vendor_stability_score": 7,
+    "website": "https://quoraadsupport.zendesk.com/hc/en-us/categories/115001573928-Pixels-Tracking",
     "white_label_wrapper_likelihood": 0
   },
   "Quotemedia": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Quotemedia is a provider of stock market data and research solutions for online brokerages, clearing firms, banks, media portals, public companies, and financial service corporations.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 1999,
@@ -2203,6 +3154,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Incorporated in 1992 and operationally founded in 1999, QuoteMedia Inc. (OTCQB: QMCI) is a publicly traded financial data provider based in Fountain Hills, Arizona, offering streaming market data, research, and analytics to financial institutions and media outlets.",
+    "icon": "QuoteMedia.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2214,6 +3166,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "qmod\\.quotemedia\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://finance.yahoo.com/quote/QMCI/",
@@ -2223,14 +3179,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://quotemedia.com",
     "white_label_wrapper_likelihood": 1
   },
   "QUV": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "QUV is a Korean no-code website builder platform that enables website creation through drag-and-drop functionality.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -2242,6 +3203,7 @@
     "headquarters_country": "KR",
     "hipaa_compliant": false,
     "history": "QUV is a Korean no-code website builder using drag-and-drop functionality. No founding year or ownership history is publicly documented.",
+    "icon": "QUV.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2250,21 +3212,42 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.quv\\.kr/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "QUV has no notable abuse signal. It is a niche Korean website builder with no documented use in fraud or phishing campaigns.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://quv.kr",
     "white_label_wrapper_likelihood": 4
   },
   "Qwik": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      18
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "description": "Qwik is designed for the fastest possible page load time, by delivering pure HTML with near 0 JavaScript.",
+    "dom": {
+      "*": {
+        "attributes": {
+          "q:version": "^([\\d\\.]+(?:-\\d+)?)\\;version:\\1"
+        }
+      }
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -2276,10 +3259,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Qwik was created by Miško Hevery (creator of AngularJS) at Builder.io and first publicly released in 2021. It introduces a novel resumability model that avoids hydration to achieve near-zero JavaScript on initial load, making it a significant architectural innovation in frontend frameworks.",
+    "icon": "Qwik.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "vc-backed",
     "parent_company": "Builder.io",
@@ -2292,6 +3277,7 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Qwik is an open-source frontend framework with no abuse signal. It is a developer tool used to build web applications and has no consumer-facing surface that could be exploited for fraud.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://qwik.builder.io"
   }
 }

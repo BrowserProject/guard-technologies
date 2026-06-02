@@ -2,9 +2,13 @@
   "U-KOMI": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "U-KOMI is a user generated content review marketing tool.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -16,7 +20,13 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "U-KOMI is a UGC (user-generated content) and review platform developed by Subspire Inc., a Japanese software company founded in December 2013 and headquartered in Kyoto, Japan. The platform focuses on e-commerce merchants, enabling automatic review collection, AI-powered analysis, and social media content integration. The product is primarily focused on the Japanese market and has won ITreview Best Software recognition for 15 consecutive terms in the Review and Feedback Analysis category.",
+    "icon": "U-KOMI.svg",
     "iso27001": false,
+    "js": {
+      "GetUkomiSliderItemInfo": "",
+      "installUkomiShimsDebug": "",
+      "ukomiInstaLikeStep01": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -24,9 +34,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://prtimes.jp/main/html/rd/p/000000005.000065522.html",
@@ -36,30 +51,47 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://u-komi.com/en/",
     "white_label_wrapper_likelihood": 1
   },
   "Ubercart": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "confidence": 6,
     "enterprise_adoption": "limited",
     "founded_year": 2006,
     "history": "Ubercart is an open-source e-commerce module for the Drupal CMS, first released around 2006. It was the dominant Drupal e-commerce solution for many years before Drupal Commerce emerged as its main competitor. It remains maintained for legacy Drupal 7 sites.",
+    "icon": "Ubercart.png",
+    "implies": [
+      "Drupal"
+    ],
     "kind": "oss-library",
     "license_type": "gpl-2.0",
     "maintenance_status": "maintained",
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "uc_cart/uc_cart_block\\.js"
+    ],
     "summary_abuse": "Ubercart is a Drupal e-commerce module with no notable abuse signal. It is a self-hosted e-commerce solution and not a platform for centralized fraud activity.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://www.ubercart.org"
   },
   "Ubiliz": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      5,
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Ubiliz is a gift voucher ecommerce solution.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -71,7 +103,11 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Ubiliz is a French gift voucher e-commerce solution for businesses. Limited public history is available.",
+    "icon": "Ubiliz.svg",
     "iso27001": false,
+    "js": {
+      "ubilizSettings": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -79,21 +115,33 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Ubiliz is a gift voucher platform with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.ubiliz.com",
     "white_label_wrapper_likelihood": 2
   },
   "Ubuntu": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      28
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
+    "cpe": "cpe:2.3:o:canonical:ubuntu_linux:*:*:*:*:*:*:*:*",
+    "description": "Ubuntu is a free and open-source operating system on Linux for the enterprise server, desktop, cloud, and IoT.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -102,9 +150,14 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "Server": "Ubuntu",
+      "X-Powered-By": "Ubuntu"
+    },
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Ubuntu was created by Mark Shuttleworth and launched in 2004 as a Debian-based Linux distribution focused on ease of use. Shuttleworth founded Canonical Ltd to sponsor development. Ubuntu became the most popular Linux desktop and server distribution, with regular LTS releases every two years and wide adoption in cloud environments.",
+    "icon": "Ubuntu.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-2.0",
@@ -125,14 +178,20 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Ubuntu has no notable abuse signal as a backend operating system. It is widely used for legitimate server, desktop, and cloud workloads. While Ubuntu servers can be compromised and used for malicious purposes like any OS, the OS itself is not a tool favored by scammers.",
     "technical_depth_score": 10,
-    "vendor_stability_score": 9
+    "vendor_stability_score": 9,
+    "website": "https://www.ubuntu.com/server"
   },
   "Ucalc": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      5,
+      110
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ucalc is a platform offering calculators and form building tools, facilitating efficient computation and streamlined data collection processes.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -144,7 +203,11 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Ucalc is a Russian-origin SaaS platform launched around 2018 offering embeddable calculator and form builder widgets for websites; no notable ownership changes or major events recorded.",
+    "icon": "Ucalc.svg",
     "iso27001": false,
+    "js": {
+      "uCalc": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -152,23 +215,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "ucalc\\.pro/api/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 5,
     "summary_abuse": "Ucalc has no notable abuse signal. It is a niche widget/form builder platform with limited consumer-facing surface for scammers to exploit.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://ucalc.pro",
     "white_label_wrapper_likelihood": 2
   },
   "Ucommerce": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ucommerce is an ecommerce platform for enterprise-level online businesses.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -180,7 +256,11 @@
     "headquarters_country": "DK",
     "hipaa_compliant": false,
     "history": "Ucommerce is a Danish enterprise ecommerce platform founded around 2010, originally built as a .NET-based commerce solution integrating with CMS platforms like Umbraco and Sitefinity. It is maintained by Ucommerce ApS based in Denmark.",
+    "icon": "Ucommerce.svg",
     "iso27001": false,
+    "js": {
+      "uCommerce": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -188,22 +268,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "uCommerce\\.facets\\.js"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Ucommerce has no notable abuse signal. It is an enterprise ecommerce platform targeting B2B clients with no consumer-facing free-tier services that would attract fraudulent use.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://ucommerce.net",
     "white_label_wrapper_likelihood": 2
   },
   "Ueeshop": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ueeshop is a ecommerce platform from China.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -215,7 +307,11 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "Ueeshop is a Chinese ecommerce SaaS platform founded around 2012, providing online store-building tools primarily for small-to-medium businesses in China seeking to sell internationally.",
+    "icon": "Ueeshop.png",
     "iso27001": false,
+    "js": {
+      "ueeshop_config": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -223,23 +319,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 20,
     "summary_abuse": "Ueeshop has no notable abuse signal beyond generic ecommerce platform risk. As a Chinese-origin SaaS, it lacks published compliance documentation, and its data handling practices outside Chinese jurisdiction are unclear.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.ueeshop.com",
     "white_label_wrapper_likelihood": 3
   },
   "UGC Creative": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      90,
+      96
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "UGC Creative is a tool that utilises reviews, Instagram, and TikTok user-generated content on websites to enhance conversion rates and customer lifetime value.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -252,6 +359,10 @@
     "hipaa_compliant": false,
     "history": "UGC Creative is a tool for leveraging user-generated content from Instagram and TikTok for marketing purposes. Limited public history is available.",
     "iso27001": false,
+    "js": {
+      "UgcCreativeReview": "",
+      "ugcReview.prototype._display_item_count": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -259,22 +370,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "UGC Creative is a social media content aggregation tool with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://ugc-creative.com/",
     "white_label_wrapper_likelihood": 2
   },
   "uhChat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
+    "cookies": {
+      "uhchatrelock": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "uhChat is a tool that enables the creation of an embedded chat box on websites for real-time communication.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -285,7 +408,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "uhChat is a small live chat embedding tool for websites. Very limited public history is available.",
+    "icon": "uhChat.svg",
     "iso27001": false,
+    "js": {
+      "getuhchatCookie": "",
+      "uhchatClick": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -293,22 +421,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "uhChat has no notable abuse signal. It is a small embedded chat widget with no content hosting features and no documented abuse history.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://uhchat.net",
     "white_label_wrapper_likelihood": 4
   },
   "UI Avenue": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      10,
+      91
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "UI Avenue is a data tracking and analytics software for Shopify.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -320,6 +458,7 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "UI Avenue is a Canadian analytics SaaS company focused on the Shopify ecosystem, offering store analytics tools including UI Ave Analytics and UI Ave Popups. The company is small, serving around 150 clients with over 1.2 million tracked events. No notable ownership changes, acquisitions, or major events are documented in the public record.",
+    "icon": "UIAvenue.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -328,9 +467,21 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scripts": [
+      "analytics\\.uiavenue\\.ca"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.uiavenue.ca",
@@ -340,27 +491,44 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.uiavenue.ca",
     "white_label_wrapper_likelihood": 2
   },
   "UIKit": {
+    "cats": [
+      66
+    ],
     "confidence": 8,
+    "description": "UIKit is the framework used for developing iOS applications.",
     "enterprise_adoption": "widespread",
     "founded_year": 2007,
     "history": "UIKit is Apple's framework for building graphical user interfaces on iOS and tvOS, first released with the original iPhone SDK in 2007. It has been the primary iOS UI framework for over a decade, though Apple introduced SwiftUI in 2019 as a declarative alternative.",
+    "html": [
+      "<[^>]+class=\"[^\"]*(?:uk-container|uk-section)"
+    ],
+    "icon": "UIKit.svg",
     "kind": "standard",
     "license_type": "proprietary",
     "maintenance_status": "active",
     "overall_trust_score": 8,
     "popularity_tier": "dominant",
+    "scriptSrc": [
+      "uikit.*\\.js"
+    ],
     "summary_abuse": "UIKit is Apple's iOS UI framework with no abuse signal. It is a development framework with no consumer-facing infrastructure.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://getuikit.com"
   },
   "UK Mail": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      99
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UK Mail is a postal service company operating in the United Kingdom.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1999,
@@ -372,6 +540,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "UK Mail is a British parcel and mail delivery service. The company was acquired by Deutsche Post DHL Group in 2016 and operates as part of DHL's European network. It primarily serves UK business customers.",
+    "icon": "UK Mail.png",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -384,19 +553,36 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
+    "requiresCategory": [
+      6
+    ],
     "soc2_type2": false,
     "summary_abuse": "UK Mail is a postal carrier service. Shipping carrier tracking integrations are occasionally spoofed in phishing emails, but the service itself is not a platform for hosting abusive content.",
     "technical_depth_score": 4,
+    "text": [
+      "\\bUK Mail\\b"
+    ],
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.ukmail.com",
     "white_label_wrapper_likelihood": 2
   },
   "UKFast": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      88,
+      62
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UKFast is a business-to-business internet hosting company based in Manchester, UK.",
+    "dns": {
+      "SOA": [
+        "\\.ukfast\\.net"
+      ]
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1999,
@@ -408,6 +594,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "UKFast was founded in 1999 in Manchester as a B2B internet hosting and managed services company. In 2021 the company was acquired by private equity and rebranded as ANS Group. It continues to provide hosting, cloud, and cybersecurity services to UK businesses.",
+    "icon": "UKFast.png",
     "iso27001": true,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -417,6 +604,10 @@
     "parent_company": "ANS Group",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
@@ -425,14 +616,20 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.ukfast.co.uk",
     "white_label_wrapper_likelihood": 2
   },
   "uKnowva": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      50,
+      101
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "uKnowva is a mobile-enabled HRMS software.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -441,13 +638,26 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Content-Encoded-By": "uKnowva ([\\d.]+)\\;version:\\1"
+    },
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "uKnowva is an Indian mobile-enabled HRMS (Human Resource Management System) software developed for SMBs; no notable ownership changes or deprecation events are documented.",
+    "html": [
+      "<a[^>]+>Powered by uKnowva</a>"
+    ],
+    "icon": "uKnowva.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "uKnowva (?: ([\\d.]+))?\\;version:\\1"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -455,6 +665,9 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "scriptSrc": [
+      "/media/conv/js/jquery\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://uknowva.com"
@@ -463,14 +676,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://uknowva.com",
     "white_label_wrapper_likelihood": 2
   },
   "uLogin": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      69
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "uLogin is a tool that enables its users to get unified access to various Internet services.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -482,7 +700,11 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "uLogin is a Russian social authentication and unified login widget, similar to social-login widgets, used primarily on Russian-language websites; it has been operating since around 2010.",
+    "icon": "uLogin.svg",
     "iso27001": false,
+    "js": {
+      "uLogin.version": "^([\\d\\.]+)$\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -490,9 +712,13 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://ulogin.ru"
@@ -502,14 +728,20 @@
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://ulogin.ru",
     "white_label_wrapper_likelihood": 2
   },
   "Ultimate": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52,
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Ultimate is a platform for automating customer service using conversational and generative AI technology.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2016,
@@ -521,7 +753,12 @@
     "headquarters_country": "FI",
     "hipaa_compliant": false,
     "history": "Ultimate.ai was founded in Helsinki, Finland in 2016 as a conversational AI customer service automation platform. The company raised venture funding and expanded globally, targeting enterprise customer service automation using generative AI.",
+    "icon": "Ultimate.svg",
     "iso27001": false,
+    "js": {
+      "ultimateAiLogin": "",
+      "ultimateAiUpdateUser": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -529,22 +766,38 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Ultimate has no notable abuse signal. It is a B2B enterprise AI customer service platform with sales-gated access, making it an unlikely target for fraudulent misuse.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.ultimate.ai",
     "white_label_wrapper_likelihood": 2
   },
   "Ultimate Addons for Elementor": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ultimate Addons for Elementor is a plugin that adds new widgets and modules to the Elementor page builder for WordPress, providing additional design options and functionality.",
+    "dom": {
+      "link[href*='/wp-content/plugins/ultimate-elementor/']": {
+        "attributes": {
+          "href": "/wp-content/plugins/ultimate-elementor/.+\\.css(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+        }
+      }
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -556,7 +809,14 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Ultimate Addons for Elementor is a WordPress plugin developed by Brainstorm Force (India), the same company that builds Astra Theme. It was launched around 2017 to extend Elementor page builder with additional widgets.",
+    "icon": "Ultimate Addons for Elementor.svg",
+    "implies": [
+      "Elementor"
+    ],
     "iso27001": false,
+    "js": {
+      "uael_particles_script.particles_url": "/wp-content/plugins/ultimate-elementor/"
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -564,23 +824,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "onetime",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "requires": [
+      "WordPress"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 5,
     "summary_abuse": "Ultimate Addons for Elementor has no notable abuse signal. It is a WordPress plugin for design customization, with no consumer-facing features that attract fraudulent use.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://ultimateelementor.com",
     "white_label_wrapper_likelihood": 5
   },
   "Ultimate Bulletin Board": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      2
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Ultimate Bulletin Board is an internet forum software designed for online communities, offering features such as user registration, thread organisation, moderation tools, search functionality, and customisable design options to facilitate discussions and community engagement.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -592,14 +865,23 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Ultimate Bulletin Board (UBB) is one of the earliest internet forum software packages, originally created by Groupee (formerly Infopop) in 1996. It was a dominant forum software in the late 1990s before being largely displaced by vBulletin and phpBB. UBB Central now maintains UBB.threads.",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "maintained",
+    "meta": {
+      "generator": "^UBB\\.threads\\s([\\d\\.]+)$\\;version:\\1"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 6,
     "privacy_score": 6,
@@ -609,14 +891,20 @@
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 4,
+    "website": "https://www.ubbcentral.com",
     "white_label_wrapper_likelihood": 1
   },
   "Ultimate GDPR & CCPA": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      67,
+      87
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Ultimate GDPR & CCPA is a compliance toolkit for WordPress by createIT",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -628,7 +916,11 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "Ultimate GDPR & CCPA is a WordPress compliance plugin developed by createIT, a Polish web agency. It was launched around 2018 in response to GDPR coming into effect, offering cookie consent, data request management, and privacy tools for WordPress sites.",
+    "icon": "Ultimate GDPR & CCPA.png",
     "iso27001": false,
+    "js": {
+      "ct_ultimate_gdpr_cookie": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -636,23 +928,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "requires": [
+      "WordPress"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Ultimate GDPR & CCPA has no notable abuse signal. It is a WordPress compliance plugin focused on data protection workflows with no consumer-facing features that attract fraudulent use.",
     "technical_depth_score": 4,
     "tracker_density": "none",
     "vendor_stability_score": 4,
+    "website": "https://www.createit.com/gdpr",
     "white_label_wrapper_likelihood": 2
   },
   "Ultimate Tables": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "solo",
     "confidence": 3,
     "dark_pattern_likelihood": 1,
+    "description": "Ultimate Tables is a tool for creating, managing, and designing tables without writing HTML code.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -663,6 +966,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Ultimate Tables is a WordPress table-creation plugin allowing non-technical users to build HTML tables without coding; no notable ownership changes or events are documented.",
+    "icon": "UltimateTables.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -674,20 +978,32 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 6,
+    "requires": [
+      "WordPress"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "/wp-content/plugins/ultimate-tables/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Ultimate Tables is a WordPress plugin with no notable abuse signal. It is a simple table-creation tool with no consumer-facing content hosting surface.",
     "technical_depth_score": 3,
     "tracker_density": "none",
     "vendor_stability_score": 3,
+    "website": "https://wphive.com/plugins/ultimate-tables",
     "white_label_wrapper_likelihood": 2
   },
   "UltimatelySocial": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ultimately Social (Share Buttons & Sharing Icons) is a plugin that allows you to place fancy social media icons and buttons on your WordPress website.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -699,6 +1015,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UltimatelySocial is a WordPress social sharing plugin providing share buttons and icons, launched around 2014. It offers both free and premium tiers and has been maintained as a popular social sharing solution for WordPress sites.",
+    "icon": "UltimatelySocial.png",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -707,23 +1024,41 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "onetime"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/plugins/ultimate-social-media-icons/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UltimatelySocial has no notable abuse signal. It is a WordPress social sharing plugin with no consumer-facing hosted features that would attract fraudulent use.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.ultimatelysocial.com",
     "white_label_wrapper_likelihood": 2
   },
   "UltraCart": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "UltraCart is an ecommerce platform offering shopping cart and payment processing solutions for online stores.",
+    "dom": [
+      "a[href*='/cgi-bin/UCEditor?merchantId']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -735,7 +1070,15 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UltraCart is a US-based ecommerce SaaS platform providing shopping cart and checkout solutions. It was founded in the early 2000s and has remained an independent, longstanding provider of hosted ecommerce services for small to mid-size online retailers.",
+    "html": [
+      "<form [^>]*action=\"[^\"]*\\/cgi-bin\\/UCEditor\\?(?:[^\"]*&)?merchantId=[^\"]"
+    ],
+    "icon": "UltraCart.svg",
     "iso27001": false,
+    "js": {
+      "ucCatalog": "",
+      "ultracart": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -743,9 +1086,17 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "cgi-bin\\/UCJavaScript\\?"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://ultracart.com"
@@ -754,15 +1105,23 @@
     "summary_abuse": "UltraCart has no notable abuse signal beyond typical ecommerce platform risk. It processes payments and handles checkout flows, making PCI compliance relevant. No documented patterns of fraudulent stores or scam hosting have been publicly reported.",
     "technical_depth_score": 6,
     "tracker_density": "light",
+    "url": [
+      "/cgi-bin/UCEditor\\?"
+    ],
     "vendor_stability_score": 6,
+    "website": "https://ultracart.com",
     "white_label_wrapper_likelihood": 2
   },
   "UMAI": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "UMAI is an analytics-based software using state-of-the-art technology to improve the experiences & performance for hospitality based businesses and their guests.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -774,7 +1133,11 @@
     "headquarters_country": "MY",
     "hipaa_compliant": false,
     "history": "UMAI was founded in 2016 and is headquartered in Kuala Lumpur, Malaysia. The company provides a SaaS platform for hospitality businesses, offering reservation management, waitlist tools, marketing automation, deep analytics, and private feedback collection. UMAI primarily serves restaurants in Asia and has a team of approximately 24 people. No notable ownership changes or acquisitions are on record.",
+    "icon": "UMAI.svg",
     "iso27001": false,
+    "js": {
+      "umaiWidget.config": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -785,6 +1148,7 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://leadiq.com/c/umai-restaurant-software/5a1d9d5623000054008d2f11",
@@ -795,13 +1159,18 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.umai.io",
     "white_label_wrapper_likelihood": 2
   },
   "Umami": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "description": "Umami is a self-hosted web analytics solution. It's goal is to provide a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -813,10 +1182,15 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Umami was created by Mike Cao and first released in 2020 as an open-source, privacy-focused alternative to Google Analytics. It is self-hostable, collects no personally identifiable information, and is MIT licensed. Umami Inc later added a cloud-hosted offering.",
+    "icon": "umami.svg",
     "iso27001": false,
+    "js": {
+      "umami": ""
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -824,6 +1198,9 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 9,
+    "scriptSrc": [
+      "umami\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://github.com/umami-software/umami"
@@ -831,14 +1208,20 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Umami has no notable abuse signal. It is a privacy-focused analytics tool with no consumer-facing hosted content or features that attract fraudulent use.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://umami.is/"
   },
   "uMarketingSuite": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      10,
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "uMarketingSuite is a set of diverse features that together form a full marketing suite for the Umbraco platform.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -850,7 +1233,14 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "uMarketingSuite was originally developed by Perplex Digital (Netherlands) as a content personalization tool for the Umbraco CMS. In 2020, uMarketingSolutions B.V. was spun out as a separate company to commercialize and scale the product globally, with a first public release in April 2020. In August 2024, Umbraco A/S (the Danish company behind the Umbraco CMS) acquired uMarketingSolutions B.V., making uMarketingSuite an official Umbraco product.",
+    "icon": "uMarketingSuite.svg",
+    "implies": [
+      "Umbraco"
+    ],
     "iso27001": false,
+    "js": {
+      "uMarketingSuite": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -859,6 +1249,9 @@
     "parent_company": "Umbraco",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
@@ -870,13 +1263,29 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://www.umarketingsuite.com",
     "white_label_wrapper_likelihood": 1
   },
   "Umbraco": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "merchello": "\\;version:7"
+    },
+    "cpe": "cpe:2.3:a:umbraco:umbraco:*:*:*:*:*:*:*:*",
+    "description": "Umbraco is an open-source Microsoft ASP.NET based content management system.",
+    "dom": [
+      "script[src*='/UmbracoForms/']",
+      "a[data-udi^='umb://']",
+      "form[action^='/umbraco/Surface/']",
+      "a[href^='/umbraco/Surface/']",
+      "fieldset.umbraco-forms-fieldset"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -885,20 +1294,47 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Umbraco-Version": "^(.+)$\\;version:\\1"
+    },
     "headquarters_country": "DK",
     "hipaa_compliant": false,
     "history": "Umbraco was created in 2003 by Danish developer Niels Hartvig as an open-source CMS built on Microsoft ASP.NET. The Umbraco HQ company was established to provide commercial support and hosting. In August 2021 the company was acquired by Monterro, a Swedish software growth investor.",
+    "icon": "Umbraco.svg",
+    "implies": [
+      "Microsoft ASP.NET"
+    ],
     "iso27001": false,
+    "js": {
+      "ITEM_INFO_SERVICE": "",
+      "UC_IMAGE_SERVICE": "",
+      "UC_ITEM_INFO_SERVICE": "",
+      "UC_SETTINGS": "",
+      "Umbraco": ""
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "umbraco"
+    },
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "recurring",
+      "low"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "saas": true,
+    "scripts": [
+      "\\.umbraco\\.io|/Umbraco\\/Api"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://umbraco.com",
@@ -909,14 +1345,25 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Umbraco has no notable abuse signal. It is a self-hosted, open-source .NET CMS widely used by agencies and enterprises for corporate and government websites. As self-hosted software, abuse risk depends on how individual deployers configure their instances.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 7
+    "url": [
+      "/umbraco/login\\.aspx(?:$|\\?)"
+    ],
+    "vendor_stability_score": 7,
+    "website": "https://umbraco.com/",
+    "xhr": [
+      "/umbraco/api/"
+    ]
   },
   "UMI.CMS": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UMI.CMS is a content management system (CMS) that provides tools for creating and managing websites, including features for design customization, content management, and site optimization.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -925,9 +1372,16 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Generated-By": "UMI\\.CMS"
+    },
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "UMI.CMS is a Russian content management system founded around 2004 by Umisoft. It targets Russian-language businesses and organizations with tools for website and e-commerce management. It offers both SaaS and self-hosted versions.",
+    "icon": "UMI.CMS.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -936,21 +1390,31 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime",
+      "high"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "UMI.CMS is a Russian CMS product with no notable documented abuse beyond the general risks of CMS infrastructure. Its Russian origin may raise data sovereignty concerns for non-Russian deployments.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.umi-cms.ru",
     "white_label_wrapper_likelihood": 2
   },
   "UmiJs": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      12
+    ],
     "company_size_bucket": "mega",
     "confidence": 5,
+    "description": "UmiJs is a scalable, enterprise-class frontend application framework that supports both configuration and conventional routing while maintaining functional completeness, such as dynamic routing, nested routing, and permission routing.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -962,10 +1426,18 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "UmiJS is a React-based enterprise frontend framework developed by the Ant Design team at Alibaba (later Ant Group). It was first released in 2017 and has become a widely used framework within China's tech ecosystem, especially for Ant Design System applications.",
+    "icon": "UmiJs.svg",
+    "implies": [
+      "Node.js"
+    ],
     "iso27001": false,
+    "js": {
+      "g_umi.version": "([\\d\\.]+)\\;version:\\1"
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "subsidiary",
     "parent_company": "Alibaba",
@@ -974,18 +1446,26 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 8,
+    "scriptSrc": [
+      "/umi(\\.[\\w\\d]{8})?\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UmiJS has no notable abuse signal. It is a frontend JavaScript framework used by developers to build web applications, with no consumer-facing surface that attracts fraudulent use.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://umijs.org"
   },
   "Umni": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Umni is a platform that provides an AI chatbot designed to automate and improve customer service, sales interactions, and marketing processes.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -997,6 +1477,7 @@
     "headquarters_country": "BG",
     "hipaa_compliant": false,
     "history": "Umni is a Bulgarian-origin AI chatbot SaaS platform providing automated customer service, sales, and marketing chatbots. Based in Bulgaria, it serves primarily Eastern European markets.",
+    "icon": "Umni.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1008,19 +1489,31 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "widget\\.umni\\.bg"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Umni has no notable abuse signal. It is a niche B2B chatbot platform with no consumer-facing free hosting that would attract fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://umni.bg",
     "white_label_wrapper_likelihood": 3
   },
   "Umso": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Umso is a website builder for Startups.",
+    "dom": [
+      "link[href*='.umso.co/'], img[src*='.umso.co/'], video[poster*='.umso.co/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1032,6 +1525,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Umso is a website builder focused on startups, launched around 2020. It provides a streamlined page-building experience targeting early-stage startup landing pages.",
+    "icon": "Umso.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1040,22 +1534,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scripts": [
+      "isPriorBlockingEnabled\\;confidence:75"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 18,
     "summary_abuse": "Umso has a low abuse profile. As a startup-focused website builder with paid-only plans, it offers less opportunity for anonymous fraudulent site creation than free-tier competitors. No documented patterns of phishing or scam site hosting are publicly reported.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.umso.com",
     "white_label_wrapper_likelihood": 3
   },
   "UNA CMS": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "description": "UNA CMS is an open-source platform designed for building social networking sites and online communities with a modular architecture, responsive design, and robust privacy features.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -1067,29 +1574,53 @@
     "headquarters_country": "UA",
     "hipaa_compliant": false,
     "history": "UNA CMS is an open-source social networking platform founded around 2014 by a Ukrainian team, originally derived from BoonEx Dolphin. It provides a framework for building custom social networks and online communities.",
+    "icon": "Una CMS.svg",
     "iso27001": false,
+    "js": {
+      "BxArtificerMenuMoreAuto": "",
+      "bx_autocomplete_fields": "",
+      "bx_redirect_for_external_links": "",
+      "bx_search_extnded_sort": "",
+      "bx_site_search_complet": ""
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UNA CMS is an open-source social network builder. Self-hosted social platforms can be deployed for various purposes including those with lax moderation, but UNA itself has no documented pattern of being used specifically for fraud infrastructure.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://unacms.com"
   },
   "Unas": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "UnasID": "",
+      "UnasServiceProxyID": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "Unas is an all-in-one ecommerce platform from Hungary.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -1101,7 +1632,12 @@
     "headquarters_country": "HU",
     "hipaa_compliant": false,
     "history": "Unas is a Hungarian all-in-one ecommerce SaaS platform that has been operating since the mid-2000s. It is one of the leading local ecommerce platforms in Hungary, primarily serving small and medium-sized businesses in the Hungarian market.",
+    "icon": "Unas.svg",
     "iso27001": false,
+    "js": {
+      "UNAS.shop": "",
+      "unas_shop_url": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1109,23 +1645,33 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 10,
     "summary_abuse": "Unas has no notable abuse signal. It is a regional Hungarian ecommerce platform with a known local customer base and no reported patterns of fraudulent store hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://unas.hu",
     "white_label_wrapper_likelihood": 2
   },
   "Unblu Virtual Agent": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Unblu Virtual Agent is a platform that provides customers with 24/7 access to intelligent, automated conversations designed to feel human.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2008,
@@ -1137,6 +1683,7 @@
     "headquarters_country": "CH",
     "hipaa_compliant": false,
     "history": "Unblu was founded in Switzerland in 2008, originally focusing on co-browsing and live engagement tools for financial services. It later expanded into conversational AI and virtual agent capabilities, targeting heavily regulated industries like banking and insurance.",
+    "icon": "Unblu.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1148,19 +1695,29 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "saas": true,
+    "scripts": [
+      "\\.unblu\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Unblu Virtual Agent has no notable abuse signal. It is a B2B enterprise live chat and virtual agent platform targeted at financial institutions, with sales-gated access and no free-tier consumer hosting.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.unblu.com",
     "white_label_wrapper_likelihood": 2
   },
   "Unbounce": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      20,
+      51
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Unbounce is a tool to build landing pages.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2009,
@@ -1169,9 +1726,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-Unbounce-PageId": ""
+    },
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Unbounce was founded in Vancouver, Canada in 2009 as a landing page builder for marketers. It grew to become one of the leading landing page platforms and was acquired by Zeta Global, a marketing cloud company, around 2022.",
+    "icon": "Unbounce.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1184,6 +1745,9 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "scriptSrc": [
+      "ubembed\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://unbounce.com"
@@ -1193,14 +1757,22 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://unbounce.com",
     "white_label_wrapper_likelihood": 3
   },
   "Unbound Commerce": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Unbound Commerce is a mobile and ecommerce provider for retailers.",
+    "dom": [
+      "link[href*='.unboundcommerce.com']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2012,
@@ -1212,6 +1784,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Unbound Commerce is a US-based mobile and ecommerce platform provider targeting retail businesses with mobile-first commerce solutions. No notable ownership changes are publicly documented.",
+    "icon": "UnboundCommerce.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1223,19 +1796,31 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.unboundcommerce\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Unbound Commerce has no notable abuse signal. It is a B2B retail commerce platform with enterprise pricing and no consumer-facing free hosting features.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.unboundcommerce.com",
     "white_label_wrapper_likelihood": 3
   },
   "Unbox": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Unbox is an ecommerce platform for D2C brands.",
+    "dom": [
+      "link[imagesrcset*='unbox-customer-images-production'], img[srcset*='unbox-customer-images-production']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1247,7 +1832,11 @@
     "headquarters_country": "BR",
     "hipaa_compliant": false,
     "history": "Unbox is a Brazilian ecommerce SaaS platform for direct-to-consumer brands, launched around 2018. It provides online store creation and management tools targeting the Brazilian D2C market.",
+    "icon": "unbox.svg",
     "iso27001": false,
+    "js": {
+      "__NEXT_DATA__.props.pageProps.shop.storeTemplateUrl": "unbox-store-production"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1255,23 +1844,38 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "requires": [
+      "Next.js"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Unbox has no notable abuse signal beyond generic ecommerce platform risk. It is a niche Brazilian D2C ecommerce platform with a regional customer base.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://unbox.com.br",
     "white_label_wrapper_likelihood": 3
   },
   "Unbxd": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      76,
+      29
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Unbxd is an ecommerce product discovery platform that applies artificial intelligence and advanced data sciences to connect shoppers to the products they are most likely to buy.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -1283,7 +1887,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Unbxd was founded in 2010 as an AI-powered ecommerce product discovery and search platform. In 2021-2022, Unbxd was acquired by Netcore Cloud, an Indian marketing technology company, and rebranded as Netcore Unbxd.",
+    "icon": "Unbxd.svg",
     "iso27001": false,
+    "js": {
+      "Unbxd.version": "^([\\d\\.]+)$\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1292,9 +1900,18 @@
     "parent_company": "Netcore Cloud",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.cloudfront\\.net/unbxdAnalytics\\.js",
+      "unbxd\\.s\\d\\.amazonaws\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://netcoreunbxd.com/",
@@ -1304,13 +1921,18 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://unbxd.com",
     "white_label_wrapper_likelihood": 1
   },
   "Unchained Engine": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "description": "Unchained Engine is an open-source ecommerce framework built for Node.js and Bun, designed to provide a scalable solution for developing online stores.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1322,10 +1944,12 @@
     "headquarters_country": "CH",
     "hipaa_compliant": false,
     "history": "Unchained Engine is an open-source headless ecommerce framework for Node.js, created by the Swiss company Unchained Commerce around 2018. It targets developers building custom ecommerce solutions and emphasizes a plug-in-based architecture.",
+    "icon": "UnchainedEngine.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "eupl-1.2",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1333,36 +1957,60 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 8,
+    "scriptSrc": [
+      "api\\.github\\.com/repos/unchainedshop/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Unchained Engine has no notable abuse signal. It is a backend open-source ecommerce framework requiring developer expertise to deploy, with no consumer-facing hosted service.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://docs.unchained.shop"
   },
   "Underscore.js": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 8,
+    "description": "Underscore.js is a JavaScript library which provides utility functions for common programming tasks. It is comparable to features provided by Prototype.js and the Ruby language, but opts for a functional programming design instead of extending object prototypes.",
     "enterprise_adoption": "widespread",
+    "excludes": [
+      "Lodash"
+    ],
     "founded_year": 2009,
     "history": "Underscore.js was created by Jeremy Ashkenas in 2009, predating ES5 and providing functional programming utilities to JavaScript developers. It became one of the most widely used JS libraries of the early 2010s. Lodash, a compatible superset, later overtook it in popularity.",
+    "icon": "Underscore.js.png",
+    "js": {
+      "_.VERSION": "^(.+)$\\;confidence:0\\;version:\\1",
+      "_.restArguments": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
+    "scriptSrc": [
+      "underscore.*\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
     "source_urls": [
       "https://github.com/jashkenas/underscore"
     ],
     "summary_abuse": "Underscore.js has no abuse signal. It is a foundational JavaScript utility library used server-side and client-side with no consumer-facing surface.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://underscorejs.org"
   },
   "Understrap": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      80
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "description": "Understrap is a renowned WordPress starter theme framework that combined Underscores and Bootstrap.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -1374,6 +2022,11 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Understrap is a WordPress starter theme framework that combines Underscores (_s) with Bootstrap. Created around 2014, it became popular among WordPress theme developers and is maintained by the Understrap team with an open-source core and premium offerings.",
+    "icon": "Understrap.png",
+    "implies": [
+      "Bootstrap",
+      "Underscore.js"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-2.0",
@@ -1382,21 +2035,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 8,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "wp-content/themes/understrap(?:[masterchild-]+)?(?:[masterchild-]+)?/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Understrap has no notable abuse signal. It is a WordPress theme framework used by developers to build custom themes, with no consumer-facing hosted service.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://understrap.com"
   },
   "Uniconsent": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      67
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Uniconsent is a Consent Management Platform.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -1408,6 +2075,7 @@
     "headquarters_country": "EE",
     "hipaa_compliant": false,
     "history": "Uniconsent is a consent management platform (CMP) founded around 2019, providing GDPR and cookie consent tools for publishers and advertisers. It is part of the IAB TCF framework.",
+    "icon": "Uniconsent.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1416,23 +2084,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 8,
+    "saas": true,
+    "scriptSrc": [
+      "cmp\\.uniconsent\\.mgr\\.consensu\\.org/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Uniconsent has no notable abuse signal. It is a cookie consent and CMP platform focused on GDPR compliance, with no features that attract fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.uniconsent.com/",
     "white_label_wrapper_likelihood": 2
   },
   "Unicorn Platform": {
     "abuse_score": 3,
     "ai_generated_likelihood": 4,
+    "cats": [
+      1,
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Unicorn Platform is a drag and drop website and blog builder for startups, mobile apps, and SaaS.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1444,7 +2126,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Unicorn Platform is a no-code website and landing page builder focused on startups, SaaS products, and mobile apps. It launched around 2020 and offers AI-assisted content generation as part of its page builder workflow.",
+    "icon": "Unicorn Platform.svg",
     "iso27001": false,
+    "js": {
+      "unicornplatform": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1452,23 +2138,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Unicorn Platform has a moderate abuse risk profile typical of free-tier landing page builders. Its free plan allows creation of hosted pages without significant friction, which can be exploited for phishing or scam landing pages before takedown. The platform has usage terms but its anti-abuse enforcement posture is not well documented.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://unicornplatform.com",
     "white_label_wrapper_likelihood": 3
   },
   "UniFi OS": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      28
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UniFi OS is the operating system for UniFi products, which provides a user interface.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -1480,7 +2177,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UniFi OS is the operating system for Ubiquiti's UniFi network hardware products. Ubiquiti was founded in 2005 by Robert Pera. The UniFi product line became widely adopted in SMB and enterprise networking as a cost-effective managed networking solution.",
+    "icon": "UniFi_OS.svg",
     "iso27001": false,
+    "js": {
+      "unifiConstant.VERSION": "^([\\d+\\.]+)$\\;version:\\1"
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1492,20 +2193,28 @@
     "pricing_model": "one-time",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "requires": [
+      "AngularJS"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UniFi OS has no notable abuse signal as a network device OS. Security vulnerabilities in UniFi devices have occasionally been exploited to gain network access, and Ubiquiti had a notable 2021 data breach, but the product itself is not a tool for scammers.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.ui.com/",
     "white_label_wrapper_likelihood": 0
   },
   "Uniform Digital Experience": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Uniform Digital Experience is a digital experience platform (DXP) designed to manage, deliver, and optimize content and interactions across multiple digital channels.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2019,
@@ -1517,7 +2226,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Uniform Digital Experience is a composable DXP launched around 2019 that enables enterprises to manage and deliver digital experiences across multiple CMSes and channels. The company raised venture funding and is positioned in the headless/composable CMS market.",
+    "icon": "UniformDigitalExperience.svg",
     "iso27001": false,
+    "js": {
+      "__UNIFORM_CONTEXTUAL_EDITING_CONTEXT__": "",
+      "__UNIFORM_DEVTOOLS_CONTEXT_INSTANCE__": "",
+      "isUniform": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1525,22 +2240,31 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Uniform Digital Experience has no notable abuse signal. It is an enterprise DXP with sales-gated access and no consumer-facing free tier.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.uniform.dev",
     "white_label_wrapper_likelihood": 2
   },
   "Unilog": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Unilog is a cloud-based ecommerce platform, designed specifically for B2B businesses.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 1998,
@@ -1553,6 +2277,9 @@
     "hipaa_compliant": false,
     "history": "Unilog was founded in 1998 and evolved into a B2B cloud ecommerce platform specifically designed for distributors and manufacturers. The company is headquartered in Wayne, Pennsylvania and has grown to several hundred employees through organic growth.",
     "iso27001": false,
+    "js": {
+      "Unilog": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1563,6 +2290,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 1,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.unilogcorp\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://unilogcorp.com"
@@ -1571,14 +2302,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://unilogcorp.com",
     "white_label_wrapper_likelihood": 1
   },
   "Unipag": {
     "abuse_score": 2,
     "ai_generated_likelihood": 5,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Unipag is a universal sales promotion platform designed to streamline and manage promotional campaigns across various channels.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1589,7 +2325,11 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Unipag is a sales promotion platform for managing promotional campaigns; no notable founding date or ownership events are publicly documented.",
+    "icon": "Unipag.svg",
     "iso27001": false,
+    "js": {
+      "Unipag": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1600,19 +2340,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.unipag\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Unipag is a promotions management SaaS with limited public profile and no documented abuse incidents. Promotional platforms can be used to create fake discount campaigns, but no specific pattern is documented here.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.unipag.com",
     "white_label_wrapper_likelihood": 4
   },
   "Unito Hub": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      97
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Unito Hub is a unified data platform that integrates and consolidates data from multiple sources.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1624,7 +2373,12 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Unito Hub is a Canadian SaaS data integration platform that connects project management and collaboration tools. Launched around 2015, it helps teams sync work across tools like Jira, Trello, and GitHub.",
+    "icon": "UnitoHub.svg",
     "iso27001": false,
+    "js": {
+      "Unito": "",
+      "Unito.app_version": "^(.+)$\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1632,22 +2386,36 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "high",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "/unito\\.min\\.js"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Unito Hub has no notable abuse signal. It is a B2B data integration platform connecting project management tools with no consumer-facing features that attract fraudulent use.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://unitohub.com",
     "white_label_wrapper_likelihood": 2
   },
   "Unity": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      5
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 3,
+    "description": "Unity is a gaming widget that enables the playing of games developed using 3D gaming engine.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -1659,7 +2427,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Unity was founded in Copenhagen, Denmark in 2004 by David Helgason, Nicholas Francis, and Joachim Ante. It became the world's leading real-time 3D development platform, especially dominant in mobile gaming. Unity went public in 2020. In 2023 it controversially introduced a per-install runtime fee that caused significant developer backlash, leading to a reversal of the policy.",
+    "icon": "Unity.svg",
     "iso27001": false,
+    "js": {
+      "UnityLoader": "",
+      "createUnityInstance": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1667,23 +2440,33 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "dominant",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Unity has minimal abuse signal as a game development engine. The platform itself is not a tool for fraud. In 2023 Unity's controversial per-install pricing change caused a major industry controversy but was not abuse-related.",
     "technical_depth_score": 9,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://unity.com",
     "white_label_wrapper_likelihood": 0
   },
   "Universe Soft": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Universe-Soft is a business automation platform for salons, clinics, and fitness centers in Russia.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1695,6 +2478,7 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Universe-Soft is a Russian business automation SaaS platform for service businesses such as salons, clinics, and fitness centers, primarily serving the Russian market.",
+    "icon": "UniverseSoft.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1703,36 +2487,62 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.universe-soft\\.ru/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 10,
     "summary_abuse": "Universe-Soft has no notable abuse signal. It is a niche CRM and business automation platform for Russian-market service businesses with no broad consumer-facing hosted features.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://universe-soft.ru",
     "white_label_wrapper_likelihood": 2
   },
   "UNIX": {
+    "cats": [
+      28
+    ],
     "confidence": 9,
+    "cpe": "cpe:2.3:o:unix:unix:*:*:*:*:*:*:*:*",
+    "description": "Unix is a family of multitasking, multiuser computer operating systems.",
     "enterprise_adoption": "widespread",
     "founded_year": 1969,
+    "headers": {
+      "Server": "Unix"
+    },
     "history": "Unix was developed at Bell Labs starting in 1969 by Ken Thompson, Dennis Ritchie, and colleagues. It established the foundational principles of modern operating systems including multitasking, hierarchical file systems, and the pipe concept. Unix spawned many derivatives including BSD, macOS (via NEXTSTEP/Darwin), and its philosophy heavily influenced Linux.",
+    "icon": "UNIX.png",
     "kind": "standard",
     "license_type": "mixed",
     "maintenance_status": "active",
     "overall_trust_score": 10,
     "popularity_tier": "dominant",
     "summary_abuse": "Unix is an operating system standard with no abuse signal at the platform level. It is foundational computing infrastructure.",
-    "technical_depth_score": 10
+    "technical_depth_score": 10,
+    "website": "https://unix.org"
   },
   "Unless": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Unless is an AI-driven solution to enhance customer success.",
+    "dom": [
+      "script[data-unless]"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2014,
@@ -1744,7 +2554,11 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Unless is a Dutch customer success and AI-driven personalization platform, founded around 2014. It offers website personalization and customer success tools primarily to SaaS companies.",
+    "icon": "Unless.svg",
     "iso27001": false,
+    "js": {
+      "unlessComponentCleanUp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1752,26 +2566,52 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "high",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.unless\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Unless has no notable abuse signal. It is a B2B customer success and personalization SaaS with enterprise-gated access and no consumer-facing free hosting.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://unless.com/",
     "white_label_wrapper_likelihood": 3
   },
   "UnoCSS": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      66
+    ],
     "confidence": 7,
+    "css": [
+      "--un-(?:rotate|translate|space-x|text-opacity|border-opacity)"
+    ],
+    "description": "UnoCSS is instant on-demand Atomic CSS engine.",
+    "dom": {
+      "style[data-unocss]": {
+        "attributes": {
+          "data-unocss": "([\\d\\.]+)\\;version:\\1"
+        }
+      }
+    },
     "enterprise_adoption": "limited",
     "founded_year": 2021,
     "history": "UnoCSS was created by Anthony Fu and first released in 2021 as a high-performance atomic CSS engine inspired by Tailwind CSS and Windi CSS. It quickly gained popularity in the Vue.js ecosystem and beyond.",
+    "icon": "UnoCSS.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "popularity_tier": "growing",
@@ -1779,14 +2619,22 @@
       "https://github.com/unocss/unocss"
     ],
     "summary_abuse": "UnoCSS has no abuse signal. It is a CSS utility framework library with no consumer-facing surface.",
-    "technical_depth_score": 8
+    "technical_depth_score": 8,
+    "website": "https://uno.antfu.me/"
   },
   "Unpkg": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      31
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
     "dark_pattern_likelihood": 0,
+    "description": "Unpkg is a content delivery network for everything on npm.",
+    "dom": [
+      "link[href*='unpkg.com']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1798,10 +2646,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Unpkg was created by Michael Jackson (of React Router / Remix fame) around 2015 as a free CDN for npm packages. It became widely used to load JavaScript libraries directly from npm in browsers. The project is maintained independently.",
+    "icon": "Unpkg.svg",
     "iso27001": false,
     "kind": "infrastructure",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1809,36 +2659,65 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 7,
+    "scriptSrc": [
+      "unpkg\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Unpkg has a low but non-zero abuse risk as a public CDN for npm packages. Malicious npm packages can be loaded through unpkg, and it has been cited in supply-chain attack postmortems. However, it serves legitimate packages overwhelmingly and relies on npm's own security controls for package integrity.",
     "technical_depth_score": 7,
     "tracker_density": "none",
     "vendor_stability_score": 6,
+    "website": "https://unpkg.com",
     "white_label_wrapper_likelihood": 0
   },
   "Unpoly": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      12
+    ],
     "confidence": 6,
+    "cookies": {
+      "_unpoly_demo_layers_session": ""
+    },
+    "description": "Unpoly is an unobtrusive Javascript framework for applications that render on the server.",
     "enterprise_adoption": "none",
     "founded_year": 2015,
     "history": "Unpoly is a server-side-friendly JavaScript framework for progressive enhancement of HTML pages, created by Henning Koch at makandra GmbH in Germany around 2015. It enables SPA-like interactions without a full JavaScript frontend framework.",
+    "icon": "Unpoly.svg",
+    "js": {
+      "up.CompilerPass": "\\;confidence:25",
+      "up.framework": "\\;confidence:26",
+      "up.version": "([\\d\\.]+)\\;version:\\1\\;confidence:0"
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "/unpoly@([\\d\\.]+)/unpoly\\.min\\.js\\;version:\\1"
+    ],
     "summary_abuse": "Unpoly has no abuse signal. It is a JavaScript library for server-rendered HTML applications with no consumer-facing surface.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://unpoly.com"
   },
   "Unruly": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Unruly is a video advertising platform.",
+    "dom": [
+      "link[href*='.unrulymedia.com']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2006,
@@ -1850,7 +2729,11 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Unruly was founded in London in 2006 as a video advertising and content distribution platform. It was acquired by News Corp in 2015 and is part of News Corp's advertising technology portfolio.",
+    "icon": "Unruly.svg",
     "iso27001": false,
+    "js": {
+      "unruly.native": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1859,9 +2742,13 @@
     "parent_company": "News Corp",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 1,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://unruly.co"
@@ -1870,14 +2757,22 @@
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 7,
+    "website": "https://unruly.co",
     "white_label_wrapper_likelihood": 2
   },
   "Unstack": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "cookies": {
+      "unstack_sid": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "Unstack is a no-code CMS enabling the deployment of high-performance ecommerce storefronts and websites without engineering overhead.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -1889,6 +2784,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Unstack is a US-based no-code CMS for ecommerce storefronts, founded around 2019. It targets D2C brands looking to build high-performance landing pages and storefronts without engineering resources.",
+    "icon": "Unstack.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1900,20 +2796,29 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.unstack\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Unstack has a moderate abuse risk typical of free-tier hosted website builders. Hosted storefronts can be created with minimal friction and potentially used for fake storefronts. The platform has usage terms but limited public anti-abuse documentation.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.unstack.com",
     "white_label_wrapper_likelihood": 3
   },
   "Untree": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "solo",
     "confidence": 3,
     "dark_pattern_likelihood": 1,
+    "description": "Untree is a provider of free Bootstrap templates for building responsive websites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1924,10 +2829,14 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Untree is a provider of free Bootstrap HTML templates for web developers; templates are distributed freely for use in personal and commercial projects.",
+    "icon": "Untree.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "mixed",
     "maintenance_status": "active",
+    "meta": {
+      "author": "Untree\\.co"
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1935,20 +2844,32 @@
     "pricing_model": "free",
     "pricing_transparency_score": 9,
     "privacy_score": 7,
+    "requires": [
+      "Bootstrap"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Untree provides free HTML templates with no notable abuse signal. As a template provider with no hosted content or user accounts, it has minimal abuse surface.",
     "technical_depth_score": 2,
     "tracker_density": "none",
     "vendor_stability_score": 3,
+    "website": "https://untree.co",
     "white_label_wrapper_likelihood": 2
   },
   "Upfluence": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      71
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Upfluence is the all-in-one affiliate and influencer marketing platform for ecommerce and direct-to-consumer brands.",
+    "dom": [
+      "link[href*='//uploader-upfluence-assets.s3']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2013,
@@ -1960,6 +2881,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Upfluence was founded in Lyon, France in 2013 as an influencer marketing and affiliate platform. It raised venture funding and expanded to serve ecommerce and D2C brands globally.",
+    "icon": "Upfluence.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1968,22 +2890,34 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.upfluence\\.co/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Upfluence has minimal abuse signal. As an influencer marketing platform, it collects social media data on creators which raises some privacy concerns, but it is not a documented vehicle for fraud or scams.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.upfluence.com",
     "white_label_wrapper_likelihood": 2
   },
   "Upgates": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Upgates is a subscription-based ecommerce software used to build eshops.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1995,31 +2929,49 @@
     "headquarters_country": "CZ",
     "hipaa_compliant": false,
     "history": "Upgates is a Czech subscription-based ecommerce platform for creating online shops, serving primarily the Czech and Slovak markets since around 2010.",
+    "icon": "Upgates.svg",
     "iso27001": false,
+    "js": {
+      "upgates": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "web_author": "^UPgates$"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Upgates has no notable abuse signal. It is a regional ecommerce platform primarily serving the Czech and Slovak markets with standard consumer protection practices for EU-based businesses.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.upgates.com",
     "white_label_wrapper_likelihood": 2
   },
   "Uplifter": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Uplifter is a membership management software that organizes member data, tracks participation, processes payments, and supports communication within organizations.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -2031,7 +2983,11 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Uplifter is a membership management SaaS for sports clubs and organizations, tracking members, payments, and communications. It targets clubs and fitness centers.",
+    "icon": "Uplifter.svg",
     "iso27001": false,
+    "js": {
+      "UPLIFTER_STRTOTIME_SETTINGS": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2042,19 +2998,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 6,
+    "saas": true,
+    "scripts": [
+      "\\.uplifterinc\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Uplifter has no notable abuse signal. It is a niche membership management platform for sports organizations with no consumer-facing free hosting features that attract fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.uplifterinc.com",
     "white_label_wrapper_likelihood": 3
   },
   "Uplisting": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Uplisting is a property management system for Vacation Rental owners, operators and managers.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -2063,9 +3028,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "server": "Uplisting"
+    },
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Uplisting is a UK-based property management system for vacation rental hosts, operators, and managers. Founded around 2016, it provides channel management, booking automation, and multi-platform sync for short-term rentals.",
+    "icon": "Uplisting.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2074,23 +3043,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 100,
     "summary_abuse": "Uplisting has no notable abuse signal. It is a B2B property management system for vacation rentals with subscription-based access and no consumer-facing hosting features that attract fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.uplisting.io",
     "white_label_wrapper_likelihood": 2
   },
   "Uploadcare": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      31
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Uploadcare is a complete file handling platform for online business. Receive files from you users via File Uploader or File Upload API, implement image optimization and transformations with Image CDN API, and get HIPAA-compliant storage.",
+    "dom": [
+      "img[src*='.ucarecdn.com/'], link[href*='ucarecdn.com'], img[data-src*='.ucarecdn.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -2102,7 +3085,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Uploadcare was founded in 2011 as a file handling and CDN platform. It provides file uploading, image transformation, and storage APIs for developers. The platform advertises HIPAA-compliant storage for sensitive file handling.",
+    "icon": "Uploadcare.svg",
     "iso27001": false,
+    "js": {
+      "uploadcare.version": "^([\\d\\.]+)$\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2110,6 +3097,10 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 7,
@@ -2122,30 +3113,48 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://uploadcare.com",
     "white_label_wrapper_likelihood": 1
   },
   "uPlot": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      25
+    ],
     "confidence": 6,
+    "description": "uPlot is a small, fast chart for time series, lines, areas, ohlc and bars.",
     "enterprise_adoption": "limited",
     "founded_year": 2019,
     "history": "uPlot is a small, fast chart library for time series data created by Leon Sorokin around 2019. It is designed for high-performance rendering of large datasets.",
+    "icon": "uPlot.png",
+    "js": {
+      "uPlot": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "popularity_tier": "growing",
     "summary_abuse": "uPlot has no notable abuse signal; it is a client-side charting library.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://leeoniya.github.io/uPlot"
   },
   "Uplynk": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      38
+    ],
     "company_size_bucket": "mega",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Uplynk is a video streaming platform that provides tools for live and on-demand video delivery, including encoding, transcoding, and content management.",
+    "dom": [
+      "video[src*='.uplynk.com/'], img[data-thumbnailurl*='.uplynk.com/']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -2154,10 +3163,18 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": false,
+    "headers": {
+      "content-security-policy": "\\.uplynk\\.com"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Uplynk was originally founded as a video streaming startup and was acquired by Akamai. Under Akamai it became part of their media streaming portfolio, providing live and on-demand video delivery infrastructure for broadcasters and streaming services.",
+    "icon": "Uplynk.svg",
     "iso27001": false,
+    "js": {
+      "UPLYNK": "",
+      "_uplynk_async_wget2_data": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2166,6 +3183,11 @@
     "parent_company": "Akamai",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg",
+      "recurring",
+      "high"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
@@ -2174,13 +3196,18 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.uplynk.com",
     "white_label_wrapper_likelihood": 1
   },
   "uPortal": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      21
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "description": "uPortal is an open source enterprise portal framework built by and for higher education institutions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -2192,10 +3219,21 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "uPortal is an open-source enterprise portal framework built for higher education institutions. It is maintained by the Apereo Foundation and has been used since 2001 at universities worldwide.",
+    "icon": "uPortal.png",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
+    "js": {
+      "uportal": ""
+    },
     "kind": "oss-project",
     "license_type": "apache-2.0",
     "maintenance_status": "maintained",
+    "meta": {
+      "description": " uPortal "
+    },
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "foundation",
     "pci_dss": false,
@@ -2207,13 +3245,23 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "uPortal has no notable abuse signal; it is an enterprise portal for educational institutions.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://www.apereo.org/projects/uportal"
   },
   "Upptime": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      13
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "description": "Upptime is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages.",
+    "dom": {
+      "p > a[href*='upptime.js.org']": {
+        "text": "^Upptime$"
+      }
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2225,10 +3273,12 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Upptime was created by Aman Gupta and first released in 2020 as an open-source uptime monitor and status page powered by GitHub Actions, Issues, and Pages. It provides free infrastructure monitoring for projects hosted on GitHub.",
+    "icon": "Upptime.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2243,18 +3293,29 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Upptime has no abuse signal. It is an open-source monitoring tool that runs in users' own GitHub repositories with no hosted service component.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://upptime.js.org"
   },
   "Uppy": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 7,
+    "description": "Uppy is an open-source, modular JavaScript file uploader designed for integration and file management across web applications.",
     "enterprise_adoption": "limited",
     "founded_year": 2016,
     "history": "Uppy is an open-source JavaScript file uploader created by Transloadit and first released in 2016. It is modular, supports drag-and-drop, and integrates with various backends and cloud services for file uploading in web applications.",
+    "icon": "Uppy.svg",
+    "js": {
+      "Uppy.Audio": "",
+      "UppyUploader": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "popularity_tier": "growing",
@@ -2262,14 +3323,25 @@
       "https://github.com/transloadit/uppy"
     ],
     "summary_abuse": "Uppy has no abuse signal. It is a JavaScript file upload library embedded in developer applications with no consumer-facing hosted service.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://uppy.io"
   },
   "Upravel": {
     "abuse_score": 2,
     "ai_generated_likelihood": 6,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
+    "cookies": {
+      "user_id-legacy": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "Upravel is a marketing advertising system.",
+    "dom": [
+      "link[href*='.upravel.com']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2280,6 +3352,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Upravel is a small advertising and marketing SaaS; no notable founding date or ownership events are publicly documented.",
+    "icon": "Upravel.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2288,22 +3361,31 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Upravel is an advertising platform with limited public profile and no documented abuse incidents. Advertising platforms can facilitate misleading ad placements but no specific abuse pattern is documented for Upravel.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 2,
+    "website": "https://upravel.com",
     "white_label_wrapper_likelihood": 4
   },
   "UPS": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      99
+    ],
     "company_size_bucket": "mega",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UPS is an American multinational shipping & receiving and supply chain management company.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1907,
@@ -2315,6 +3397,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UPS (United Parcel Service) was founded in 1907 in Seattle by James Casey. It grew to become one of the world's largest package delivery companies. The UPS tracking widget and API are embedded on millions of e-commerce sites for shipment tracking.",
+    "icon": "UPS.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2326,19 +3409,31 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
+    "requiresCategory": [
+      6
+    ],
     "soc2_type2": false,
     "summary_abuse": "UPS tracking widgets are occasionally spoofed in phishing emails falsely claiming package delivery issues. The tracking embed itself is not a fraud vector, but UPS branding is heavily abused in shipping-themed phishing campaigns that do not involve UPS infrastructure directly.",
     "technical_depth_score": 5,
+    "text": [
+      "\\b(?<!-)UPS\\b"
+    ],
     "tracker_density": "light",
     "vendor_stability_score": 10,
+    "website": "https://www.ups.com",
     "white_label_wrapper_likelihood": 1
   },
   "Upsales": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      32,
+      53
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Upsales is an enterprise CRM and marketing automation tool.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -2350,6 +3445,7 @@
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "Upsales is a Swedish CRM and marketing automation platform founded around 2010. It serves enterprise customers primarily in the Nordic region with sales pipeline and marketing automation tools.",
+    "icon": "Upsales.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2358,22 +3454,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "img\\.upsales\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Upsales has no notable abuse signal. It is a B2B enterprise CRM with sales-gated pricing and no consumer-facing hosted content features.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.upsales.com",
     "white_label_wrapper_likelihood": 2
   },
   "UpScale Systems": {
     "abuse_score": 2,
     "ai_generated_likelihood": 6,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "UpScale Systems is an all-in-one platform to enhance local businesses.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2385,10 +3493,14 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UpScale Systems is a local business marketing and automation platform targeting SMBs; no notable acquisitions or ownership changes are documented.",
+    "icon": "UpScale.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "title": "^UpScale$"
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2396,6 +3508,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "app\\.upscale-systems\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://upscale-systems.com"
@@ -2404,14 +3520,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://upscale-systems.com",
     "white_label_wrapper_likelihood": 5
   },
   "Upscope": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      46
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Upscope is a cobrowsing software enabling real-time website navigation with others, facilitating seamless teamwork and improved customer support.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -2423,7 +3544,12 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Upscope is a co-browsing and remote access SaaS for customer support teams, founded around 2016 in the UK. It enables support agents to see and interact with a user's browser screen in real-time.",
+    "icon": "Upscope.svg",
     "iso27001": false,
+    "js": {
+      "Upscope": "",
+      "Upscope._version": "^(.+)$\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2431,23 +3557,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "js\\.upscope\\.io/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Upscope has minimal abuse signal. While co-browsing tools could theoretically be misused for social engineering, Upscope requires explicit user consent and is a B2B tool with no anonymous access features documented as abused.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://upscope.com",
     "white_label_wrapper_likelihood": 2
   },
   "Upscribe": {
     "abuse_score": 0,
     "ai_generated_likelihood": 3,
+    "cats": [
+      75
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Upscribe is a platform offering tools to create newsletter signup forms.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2459,7 +3598,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Upscribe was founded around 2019 as a newsletter signup form and growth tool platform. According to Crunchbase the company is permanently closed as of 2023.",
+    "icon": "Upscribe.svg",
     "iso27001": false,
+    "js": {
+      "Upscribe.c": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "abandoned",
@@ -2467,9 +3610,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://upscribe.net"
@@ -2478,14 +3626,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://upscribe.net",
     "white_label_wrapper_likelihood": 2
   },
   "UpSellit": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      98
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 4,
+    "description": "UpSellit is a performance based lead and cart abandonment recovery solutions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2008,
@@ -2497,7 +3650,14 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UpSellit is a US-based cart abandonment and lead recovery SaaS platform, founded around 2008. It operates on a performance-based model where it charges based on recovered revenue.",
+    "icon": "UpSellit.png",
     "iso27001": false,
+    "js": {
+      "usi_analytics": "\\;confidence:25",
+      "usi_app": "\\;confidence:25",
+      "usi_commons": "\\;confidence:25",
+      "usi_cookies": "\\;confidence:25"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2505,22 +3665,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa",
+      "mid"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "www\\.upsellit\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "UpSellit has no notable abuse signal as an infrastructure provider. However, exit-intent popups and cart abandonment tactics used by platforms like UpSellit can create friction-heavy UX patterns. No documented fraud or phishing use has been reported.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://us.upsellit.com",
     "white_label_wrapper_likelihood": 2
   },
   "UpsellPlus": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "Upsell is an app that provides checkout upsells, post-purchase pages, and customization options to improve sales and customer experience.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2532,7 +3705,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UpsellPlus is a Shopify app providing post-purchase upsell and cross-sell features for ecommerce stores. It was launched around 2020 targeting Shopify merchants.",
+    "icon": "UpsellPlus.svg",
     "iso27001": false,
+    "js": {
+      "upsellplusapp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2540,23 +3717,39 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "app\\.upsellplus\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 50,
     "summary_abuse": "UpsellPlus has no notable abuse signal. It is a Shopify upsell app whose usage patterns follow standard ecommerce conversion optimization without documented misuse.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.upsellplus.com",
     "white_label_wrapper_likelihood": 3
   },
   "Upserve": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Upserve is a restaurant management solution featuring an Android or iOS-based point-of-sale system, online ordering, contactless payments, automated inventory management, sales analytics, and more.",
+    "dom": [
+      "a[href*='app.upserve.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2009,
@@ -2568,6 +3761,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Upserve was founded in 2009 as a restaurant management and POS platform. It was acquired by Lightspeed Commerce in 2020 and rebranded as Lightspeed Restaurant. The Upserve brand still appears on legacy integrations.",
+    "icon": "Upserve.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2577,9 +3771,16 @@
     "parent_company": "Lightspeed",
     "pci_dss": true,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.upserve\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://upserve.com"
@@ -2588,14 +3789,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://onlineordering.upserve.com",
     "white_label_wrapper_likelihood": 1
   },
   "UpSolution Zephyr": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      80
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zephyr is a WordPress theme developed by UpSolution, a software development company based in Ukraine that specialises in creating themes and plugins for WordPress.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -2607,6 +3813,7 @@
     "headquarters_country": "UA",
     "hipaa_compliant": false,
     "history": "Zephyr is a premium WordPress theme developed by UpSolution, a Ukrainian WordPress theme and plugin developer. The theme focuses on clean, modern design and flexibility.",
+    "icon": "UpSolution.png",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -2615,23 +3822,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/themes/Zephyr/.+us\\.theme\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UpSolution Zephyr has no notable abuse signal. It is a self-hosted WordPress theme with no platform-hosted features that could attract fraudulent use.",
     "technical_depth_score": 4,
     "tracker_density": "none",
     "vendor_stability_score": 4,
+    "website": "https://zephyr.us-themes.com",
     "white_label_wrapper_likelihood": 3
   },
   "Upstack Data": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Upstack Data is a toolkit for data-driven marketing that includes multi-touch attribution, advanced C-API integration, and identity resolution capabilities.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -2643,7 +3864,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Upstack Data is a marketing data platform providing multi-touch attribution, Conversions API integration, and identity resolution for digital advertisers. Limited public founding information is available.",
+    "icon": "UpstackData.svg",
     "iso27001": false,
+    "js": {
+      "_upstack": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2654,19 +3879,25 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Upstack Data has limited public documentation on abuse posture. As a data brokering and attribution platform it handles identity resolution data which carries inherent privacy risks, though no specific documented fraud incidents are publicly available.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://www.upstackdata.com",
     "white_label_wrapper_likelihood": 4
   },
   "Upsy": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Upsy is a platform that provides personalized product recommendations for ecommerce stores.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -2678,7 +3909,13 @@
     "headquarters_country": "FI",
     "hipaa_compliant": false,
     "history": "Upsy is a Finnish ecommerce personalization SaaS providing AI product recommendations for online stores. It primarily serves the Nordic market.",
+    "icon": "Upsy.svg",
     "iso27001": false,
+    "js": {
+      "_upsyAbTest": "",
+      "parseUpsyQuery": "",
+      "upsy_sdk.getCookie": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2686,22 +3923,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "requiresCategory": [
+      6
+    ],
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Upsy has no notable abuse signal. It is a B2B ecommerce personalization tool providing product recommendations with no consumer-facing hosted content features.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://upsyshopping.com",
     "white_label_wrapper_likelihood": 3
   },
   "Uptain": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      98
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 4,
+    "description": "Uptain is a software solution designed to reduce shopping cart abandonment in ecommerce by utilizing AI-based tools like exit-intent popups and trigger emails.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -2713,7 +3964,11 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Uptain is a German cart abandonment and email retargeting SaaS founded around 2015. It uses AI-based exit-intent popups and trigger emails to recover abandoned shopping carts for ecommerce businesses.",
+    "icon": "Uptain.svg",
     "iso27001": false,
+    "js": {
+      "uptainUpdateUrl": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2721,22 +3976,45 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg",
+      "poa"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "requiresCategory": [
+      6
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.uptain\\.de/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Uptain has a low-moderate abuse risk profile. Exit-intent popups and triggered retargeting emails can constitute dark patterns if not properly consented to. The platform is GDPR-focused for EU markets but exit-intent and unsolicited email retargeting workflows are inherently aggressive.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://uptain.de",
     "white_label_wrapper_likelihood": 2
   },
   "UptimeRobot": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      13
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UptimeRobot is a web-based software that is designed to monitor the sites frequently to check whether any site is down owing to server problem or any bug in coding.",
+    "dom": {
+      "a[href*='uptimerobot.com']": {
+        "attributes": {
+          "href": "(?:\\.|//)uptimerobot\\.com/"
+        }
+      }
+    },
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -2745,9 +4023,13 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "content-security-policy": "\\.uptimerobot\\.com"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UptimeRobot was founded around 2010 and became the leading free uptime monitoring service, offering checks every 5 minutes on the free tier. It is widely used by developers and small businesses globally for website and server monitoring.",
+    "icon": "UptimeRobot.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2756,23 +4038,38 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "dominant",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.uptimerobot\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UptimeRobot has no notable abuse signal. It is a monitoring service that sends HTTP requests to check uptime; while its monitoring infrastructure could theoretically be detected as scanning activity, it has no consumer-facing features exploited for fraud.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://uptimerobot.com",
     "white_label_wrapper_likelihood": 1
   },
   "Uptrends": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      78,
+      13
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Uptrends is a website and web performance monitoring solution.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -2784,7 +4081,11 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Uptrends is a Dutch website monitoring and web performance monitoring company founded in 2007. It offers uptime, performance, API, and real user monitoring solutions, primarily targeting businesses and enterprises in Europe.",
+    "icon": "Uptrends.svg",
     "iso27001": false,
+    "js": {
+      "UTBOOMR.version": "([\\d\\.]+)\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2792,23 +4093,40 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 6,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.uptrendsdata\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 15,
     "summary_abuse": "Uptrends has no notable abuse signal. It is a B2B web monitoring platform with no consumer-facing hosted content features that attract fraudulent use.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.uptrends.com",
     "white_label_wrapper_likelihood": 1
   },
   "Upvoty": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      85
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Upvoty is a platform for collecting and managing user feedback and feature requests.",
+    "dom": {
+      "div.upvotyContainer": {
+        "text": ""
+      }
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2820,7 +4138,14 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Upvoty is a Dutch user feedback and feature request management SaaS founded around 2019. It provides public or internal voting boards for product teams to prioritize feature development.",
+    "icon": "upvoty.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "upvoty": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2828,23 +4153,33 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 15,
     "summary_abuse": "Upvoty has no notable abuse signal. It is a product feedback platform with no consumer-facing hosting that would attract fraudulent use.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://upvoty.com",
     "white_label_wrapper_likelihood": 3
   },
   "uRemediate": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      68
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "uRemediate provides web accessibility testing tools and accessibility overlays.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -2856,6 +4191,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "uRemediate is an accessibility overlay and testing tool from User1st, a digital accessibility company; no notable ownership changes beyond the parent company relationship are documented.",
+    "icon": "User1st.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2868,6 +4204,9 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 6,
+    "scriptSrc": [
+      "fecdn\\.user1st\\.info/Loader/head"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.user1st.com/uremediate/"
@@ -2876,14 +4215,22 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.user1st.com/uremediate/",
     "white_label_wrapper_likelihood": 3
   },
   "Ureserv": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ureserv is an online restaurant reservation and table management system that enables booking, availability tracking, and seating coordination for dining establishments.",
+    "dom": [
+      "iframe[src*='www.ureserv.com/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2012,
@@ -2895,6 +4242,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UReserv was co-founded in 2012 by Jeffrey Gates and Van Garrett and launched at the New England Food Show, created to provide independent restaurants with an affordable online reservation system; the company has grown to seat over 6 million diners at hundreds of restaurants across North America.",
+    "icon": "Ureserv.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2903,9 +4251,13 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://ureserv.com",
@@ -2915,14 +4267,22 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://ureserv.com",
     "white_label_wrapper_likelihood": 2
   },
   "Urllo": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      64
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Urllo is a URL redirection service designed for businesses to manage and streamline link forwarding.",
+    "dom": [
+      "iframe[src*='www.urllo-cdn.com']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -2934,6 +4294,7 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Founded in 2014 as EasyRedir by William Richards in Calgary, Canada, the platform pioneered URL redirection management; after a decade of operation serving over 1,000 clients including IKEA and Porsche, the company rebranded to urllo in December 2024.",
+    "icon": "Urllo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2942,9 +4303,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.businesswire.com/news/home/20241203479486/en/EasyRedir-Unveils-New-Brand-Identity-urllo-Marking-a-Decade-of-Innovation-in-Connecting-Companies-with-their-Audiences-Online",
@@ -2954,14 +4321,22 @@
     "technical_depth_score": 6,
     "tracker_density": "none",
     "vendor_stability_score": 5,
+    "website": "https://www.urllo.com",
     "white_label_wrapper_likelihood": 1
   },
   "UsableNet": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      68
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UsableNet is a technology for web accessibility and digital transformation, providing end-to-end services.",
+    "dom": [
+      "iframe[src*='.usablenet.com/pt/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2000,
@@ -2973,7 +4348,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UsableNet was founded in New York in 2000 as a web accessibility and digital transformation services company. It provides ADA and WCAG compliance overlays and testing services primarily for enterprise clients.",
+    "icon": "UsableNet.png",
     "iso27001": false,
+    "js": {
+      "enableUsableNetAssistive": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2981,22 +4360,40 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.usablenet\\.com/pt/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "UsableNet has no notable abuse signal. It is an enterprise accessibility and compliance services company with no consumer-facing features that attract fraudulent use.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://usablenet.com",
     "white_label_wrapper_likelihood": 2
   },
   "Uscreen": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      14
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Uscreen is a CMS to monetize VOD and live content. They provide site hosting, video hosting, and a payment gateway for selling video based content.",
+    "dom": {
+      ".powered-by-uscreen": {
+        "text": ""
+      }
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -3008,7 +4405,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Uscreen was founded around 2015 as a video monetization and OTT platform allowing creators and businesses to sell VOD and live streaming content directly. It targets online educators and content creators.",
+    "icon": "Uscreen.svg",
     "iso27001": false,
+    "js": {
+      "analyticsHost": "stats\\.uscreen\\.io"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3016,23 +4417,33 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 149,
     "summary_abuse": "Uscreen has no notable abuse signal. It is a paid video monetization platform for content creators and businesses, with no documented patterns of fraudulent use.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://uscreen.tv/",
     "white_label_wrapper_likelihood": 2
   },
   "Useberry": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Useberry is a platform that provides tools for conducting and analyzing user testing in a single integrated environment.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -3044,7 +4455,11 @@
     "headquarters_country": "GR",
     "hipaa_compliant": false,
     "history": "Useberry was founded in 2018 in Athens, Greece as a UX research and user testing platform; no notable acquisitions or ownership changes are documented.",
+    "icon": "Useberry.svg",
     "iso27001": false,
+    "js": {
+      "useberryLive": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3052,9 +4467,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "api\\.useberry\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/useberry/__3c5AFov8B942f7j_HATl6V4wOKm1lUsRi4zHu7kGgYU",
@@ -3064,14 +4488,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.useberry.com",
     "white_label_wrapper_likelihood": 2
   },
   "User Accessibility": {
     "abuse_score": 1,
     "ai_generated_likelihood": 5,
+    "cats": [
+      68
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "User Accessibility is a solution incorporating automated site scanning and machine learning for future updates, while utilising JS to conform to WECAG standards for improved website and application accessibility.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -3083,6 +4512,7 @@
     "headquarters_country": "IL",
     "hipaa_compliant": false,
     "history": "User Accessibility is an Israeli web accessibility compliance solution combining automated scanning and AI to help websites meet WCAG and ADA requirements; no notable acquisitions or ownership changes are documented.",
+    "icon": "User Accessibility.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3091,9 +4521,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "//system\\.user-a\\.co\\.il/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://user-a.co.il"
@@ -3102,14 +4539,21 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://user-a.co.il",
     "white_label_wrapper_likelihood": 4
   },
   "user.com": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "dom": [
+      "div[id*='ue_widget']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -3121,7 +4565,14 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "user.com is a Polish customer data platform and marketing automation tool providing CRM, live chat, email marketing, and analytics features. No notable acquisition events.",
+    "html": [
+      "<div[^>]+/id=\"ue_widget\""
+    ],
+    "icon": "user.com.svg",
     "iso27001": false,
+    "js": {
+      "UserEngage": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3138,14 +4589,20 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://user.com",
     "white_label_wrapper_likelihood": 1
   },
   "Userback": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      73,
+      13
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Userback is a platform offering visual feedback and bug tracking solutions for websites and web applications, allowing users to provide feedback through screenshots and annotations.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -3157,7 +4614,11 @@
     "headquarters_country": "AU",
     "hipaa_compliant": false,
     "history": "Userback is an Australian visual feedback and bug reporting SaaS founded around 2017. It enables users to submit annotated screenshot feedback directly from web applications.",
+    "icon": "Userback.svg",
     "iso27001": false,
+    "js": {
+      "Userback.access_token": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3165,22 +4626,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 29,
     "summary_abuse": "Userback has no notable abuse signal. It is a B2B visual feedback platform with no consumer-facing hosted content that attracts fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://userback.io",
     "white_label_wrapper_likelihood": 2
   },
   "Userbase": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      69
+    ],
     "company_size_bucket": "solo",
     "confidence": 4,
+    "description": "Userbase is a tool facilitating login integration and user data persistence for static websites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -3192,29 +4663,48 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Userbase is an open-source authentication and user data library for static websites, created around 2020 as a simple alternative to Firebase Auth. It is maintained by a small team and focuses on developer simplicity.",
+    "icon": "Userbase.svg",
     "iso27001": false,
+    "js": {
+      "userbase": ""
+    },
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 8,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Userbase has no abuse signal. It is an open-source authentication library for developers with no consumer-facing hosted service.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://userbase.com"
   },
   "Usercentrics": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      67
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Usercentrics is a SaaS enterprise solution for Consent Management (CMP) that helps enterprise customers to obtain, manage and document the user consent.",
+    "dom": [
+      "link[href*='app.usercentrics.eu'], script[data-usercentrics]"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -3226,7 +4716,11 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Usercentrics was founded in Munich, Germany in 2017 as a Consent Management Platform (CMP) for GDPR compliance. It became one of the leading CMPs in Europe, certified under the IAB TCF, and raised significant VC funding. It is widely deployed on European enterprise websites.",
+    "icon": "Usercentrics.svg",
     "iso27001": true,
+    "js": {
+      "usercentrics.appVersion": "([\\d.]+)\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3234,23 +4728,37 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 8,
+    "saas": true,
+    "scriptSrc": [
+      "\\.usercentrics\\.eu/.+\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Usercentrics has no notable abuse signal. It is a consent management platform used for GDPR compliance. Ironically, CMPs can be configured to use dark patterns for consent collection, but Usercentrics itself markets privacy-first defaults.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://usercentrics.com",
     "white_label_wrapper_likelihood": 1
   },
   "Userflow": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      58
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Userflow is a user onboarding software for building product tours and onboarding checklists, tailored to your app and your users.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -3262,7 +4770,13 @@
     "headquarters_country": "DK",
     "hipaa_compliant": false,
     "history": "Userflow is a Danish user onboarding and product tour SaaS founded around 2019. It enables product teams to build in-app onboarding flows, checklists, and tooltips without code.",
+    "icon": "Userflow.svg",
     "iso27001": false,
+    "js": {
+      "USERFLOWJS_QUEUE": "",
+      "userflow.endAllFlows": "\\;confidence:50",
+      "userflow.endChecklist": "\\;confidence:50"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3270,23 +4784,36 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.userflow\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 240,
     "summary_abuse": "Userflow has no notable abuse signal. It is a B2B user onboarding tool that runs within customers' own applications, with no consumer-facing hosted content.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://userflow.com",
     "white_label_wrapper_likelihood": 2
   },
   "Userlane": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      58
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Userlane is a platform that provides an interactive step-by-step guide system designed to help users navigate software applications.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -3298,7 +4825,12 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Userlane was founded in Munich, Germany in 2015 as a digital adoption platform providing interactive guidance overlays for enterprise software. It targets large organizations onboarding employees to complex internal tools.",
+    "icon": "Userlane.svg",
     "iso27001": false,
+    "js": {
+      "Userlane": "",
+      "UserlaneCommandObject": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3309,19 +4841,25 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Userlane has no notable abuse signal. It is an enterprise digital adoption platform running within B2B software environments with no consumer-facing hosted content.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.userlane.com",
     "white_label_wrapper_likelihood": 2
   },
   "UserLike": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Userlike is a cloud-based live chat solution that can be integrated with existing websites.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -3333,7 +4871,13 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Userlike was founded in Cologne, Germany in 2011 as a live chat software for websites. It is a well-established German-made SaaS with a strong GDPR-compliance focus, offering both free and paid tiers.",
+    "icon": "UserLike.svg",
     "iso27001": false,
+    "js": {
+      "__USERLIKE_MOUNT_GUARD__": "",
+      "userlike": "",
+      "userlikeInit": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3341,23 +4885,39 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "userlike\\.min\\.js",
+      "userlikelib\\.min\\.js",
+      "//userlike-cdn-widgets\\.",
+      "api\\.userlike\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Userlike has no notable abuse signal. It is a GDPR-focused German live chat platform used for legitimate customer support with no documented patterns of fraudulent use.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://userlike.com",
     "white_label_wrapper_likelihood": 1
   },
   "Userlink": {
     "abuse_score": 1,
     "ai_generated_likelihood": 5,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Userlink is a platform that integrates AI chatbots into webshops to improve customer experience and boost sales.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -3368,7 +4928,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Userlink is an AI chatbot integration platform for e-commerce webshops; no notable founding date or ownership events are publicly documented.",
+    "icon": "Userlink.svg",
     "iso27001": false,
+    "js": {
+      "setUserlinkChatVisible": "",
+      "userlinkIsInAvailableTimePeriod": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3376,22 +4941,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "files\\.userlink\\.ai"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Userlink is an AI chatbot tool for webshops with no notable abuse signal. Its B2B integration model limits consumer-facing abuse surface.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://userlink.ai",
     "white_label_wrapper_likelihood": 5
   },
   "Userpilot": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      58,
+      97
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Userpilot is a cloud-based product experience platform designed for customer success and product teams to onboard users and increase product adoption through behavior-triggered experiences.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -3403,7 +4982,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Userpilot was founded around 2018 as a product experience and user onboarding SaaS. It enables product teams to create in-app onboarding flows, tooltips, and behavioral triggers without engineering resources.",
+    "icon": "Userpilot.svg",
     "iso27001": false,
+    "js": {
+      "userpilot.triggerById": "",
+      "userpilotInitiatorSDK": "",
+      "userpilotPako": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3411,23 +4996,37 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 249,
     "summary_abuse": "Userpilot has no notable abuse signal. It is a B2B product onboarding platform that embeds into customers' own SaaS products and has no consumer-facing hosted content.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://userpilot.com",
     "white_label_wrapper_likelihood": 2
   },
   "UserReport": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      13,
+      73
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UserReport is an online survey and feedback management platform.",
+    "dom": [
+      "a[href*='feedback.userreport.com/'][target='_blank']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -3439,6 +5038,7 @@
     "headquarters_country": "DK",
     "hipaa_compliant": false,
     "history": "UserReport is a Danish online survey and feedback platform providing embeddable survey widgets for websites. Founded around 2012, it offers both free and enterprise tiers.",
+    "icon": "UserReport.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3447,20 +5047,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.userreport\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UserReport has no notable abuse signal. It is a survey and feedback widget platform with no consumer-facing hosted content features that attract fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.userreport.com",
     "white_label_wrapper_likelihood": 2
   },
   "UserRules": {
     "abuse_score": 1,
     "ai_generated_likelihood": 5,
+    "cats": [
+      13
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
@@ -3474,7 +5086,11 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "UserRules is categorized as an issue tracker platform; minimal public information is available about its history or ownership.",
+    "icon": "UserRules.png",
     "iso27001": false,
+    "js": {
+      "_usrp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3490,14 +5106,23 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://www.userrules.com",
     "white_label_wrapper_likelihood": 4
   },
   "Usersnap": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      13,
+      85
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Usersnap is a user feedback platform for product teams to collect issues, ideas, and surveys, aiding in user testing and product decisions.",
+    "dom": [
+      "link[href*='.usersnap.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -3509,7 +5134,11 @@
     "headquarters_country": "AT",
     "hipaa_compliant": false,
     "history": "Usersnap was founded in Linz, Austria in 2013 as a visual feedback and bug reporting platform for web products. It grew to serve product and QA teams globally, offering screenshot annotation, surveys, and issue tracking integrations.",
+    "icon": "Usersnap.svg",
     "iso27001": false,
+    "js": {
+      "onUsersnapCXLoad": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3517,23 +5146,38 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.usersnap\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 69,
     "summary_abuse": "Usersnap has no notable abuse signal. It is a B2B visual feedback collection platform that embeds into web applications, with no consumer-facing hosted content.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://usersnap.com",
     "white_label_wrapper_likelihood": 1
   },
   "UserVoice": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      13,
+      73
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "UserVoice is a management to collect and analyse feedback from customers.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -3545,7 +5189,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UserVoice was founded in San Francisco in 2008 as one of the pioneering customer feedback management platforms. It became widely adopted by SaaS companies for collecting feature requests and product feedback. The company remained independent through multiple rounds of funding.",
+    "icon": "UserVoice.svg",
     "iso27001": false,
+    "js": {
+      "UserVoice": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3553,23 +5201,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.uservoice\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 499,
     "summary_abuse": "UserVoice has no notable abuse signal. It is a B2B customer feedback and feature request management platform used by product teams with no consumer-facing hosting features that attract fraudulent use.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://uservoice.com",
     "white_label_wrapper_likelihood": 1
   },
   "UserWay": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      68
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "UserWay is a web accessibility overlay for websites that claims to improve compliance with accessibility standards.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -3581,6 +5242,7 @@
     "headquarters_country": "IL",
     "hipaa_compliant": false,
     "history": "UserWay was founded in 2016 in Israel as a web accessibility overlay widget for WCAG compliance. The company grew rapidly with a freemium model and has been criticised by accessibility experts for overstating compliance benefits. UserWay was acquired by Level Access, an enterprise accessibility solutions company.",
+    "icon": "UserWay.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3593,6 +5255,9 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "scriptSrc": [
+      "cdn\\.userway\\.org/widget.*\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://medium.com/@colleengratzer/level-access-acquiring-userway-huh-7b9bbe874db5",
@@ -3604,14 +5269,20 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://userway.org/",
     "white_label_wrapper_likelihood": 2
   },
   "UserZoom": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      74,
+      10
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "UserZoom is a cloud-based user experience solution.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2007,
@@ -3623,6 +5294,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UserZoom was founded in 2007 as a cloud-based UX research and user testing platform. It was acquired by UserTesting in 2022, creating one of the largest UX research platforms. UserZoom's enterprise focus and SOC 2 compliance made it popular with large organizations.",
+    "icon": "UserZoom.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3632,21 +5304,39 @@
     "parent_company": "UserTesting",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "poa",
+      "high",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.userzoom\\.com/"
+    ],
     "soc2_type2": true,
     "summary_abuse": "UserZoom has no notable abuse signal. It is an enterprise UX research platform used by companies to test their own products with recruited participants, with no consumer-facing content hosting.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.userzoom.com",
     "white_label_wrapper_likelihood": 1
   },
   "Ushahidi": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      1,
+      35
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
+    "cookies": {
+      "ushahidi": ""
+    },
+    "description": "Ushahidi is a tool that collects crowdsourced data and targeted survey responses from multiple data sources.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -3658,7 +5348,16 @@
     "headquarters_country": "KE",
     "hipaa_compliant": false,
     "history": "Ushahidi was created in Kenya in 2008 to crowdsource reports of violence following the post-election crisis. The open-source mapping and crowdsourcing platform became an influential humanitarian technology tool, used in disaster response worldwide including Haiti (2010) and beyond. It is maintained by the Ushahidi nonprofit organization.",
+    "icon": "Ushahidi.svg",
+    "implies": [
+      "PHP",
+      "MySQL",
+      "OpenLayers"
+    ],
     "iso27001": false,
+    "js": {
+      "Ushahidi": ""
+    },
     "kind": "oss-project",
     "license_type": "lgpl-3.0",
     "maintenance_status": "active",
@@ -3669,18 +5368,26 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "scriptSrc": [
+      "/js/ushahidi\\.js$"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Ushahidi has no notable commercial abuse signal. As a crowdsourcing platform for crisis reporting, malicious actors have occasionally tried to submit false reports to undermine emergency responses, but this is an inherent challenge of open reporting platforms rather than vendor negligence.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://www.ushahidi.com"
   },
   "Usizy": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Usizy is the top size recommendation and prediction solution for ecommerce using machine learning, big data, and isomoprhic algorythms.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2016,
@@ -3692,7 +5399,11 @@
     "headquarters_country": "ES",
     "hipaa_compliant": false,
     "history": "Usizy is a Spanish ecommerce size recommendation SaaS using machine learning to predict the right clothing size for shoppers. Founded around 2016, it primarily serves fashion ecommerce brands.",
+    "icon": "Usizy.svg",
     "iso27001": false,
+    "js": {
+      "uSizyUniversal": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3700,22 +5411,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "static\\.usizy\\.es/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Usizy has no notable abuse signal. It is a B2B size prediction widget for fashion ecommerce with no consumer-facing hosted content features.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://usizy.com",
     "white_label_wrapper_likelihood": 2
   },
   "uSocial": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      5
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "uSocial is a tool that generates customizable Share and Like buttons for websites, enabling quick integration of social interaction features.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -3726,7 +5449,13 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "uSocial (usocial.pro) is a widget service for adding customizable social share and like buttons to websites. Limited public company history available.",
+    "icon": "uSocial.svg",
     "iso27001": false,
+    "js": {
+      "uSocial.init": "",
+      "uSocialLogin": "",
+      "uSocialShare": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3734,22 +5463,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "uSocial has no notable abuse signal. It is a social sharing button widget with no content hosting features and no documented abuse patterns.",
     "technical_depth_score": 2,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://usocial.pro",
     "white_label_wrapper_likelihood": 3
   },
   "USPS": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      99
+    ],
     "company_size_bucket": "mega",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "The United States Postal Service (USPS) is an independent agency of the executive branch of the United States federal government responsible for providing postal service in the United States.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1971,
@@ -3761,6 +5500,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "USPS (United States Postal Service) is a US federal agency with roots in the postal service established by Benjamin Franklin in 1775. The USPS web API and tracking tools are integrated into millions of e-commerce websites for domestic package tracking.",
+    "icon": "USPS.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3772,39 +5512,63 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "requiresCategory": [
+      6
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "USPS branding is heavily abused in phishing campaigns using fake delivery notification emails. The USPS tracking embed on legitimate sites is not itself a fraud vector, but USPS-branded smishing (SMS phishing) is one of the most common delivery phishing lure formats, typically redirecting to credential harvesting pages.",
     "technical_depth_score": 5,
+    "text": [
+      "\\bUnited States Postal Service\\b"
+    ],
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.usps.com",
     "white_label_wrapper_likelihood": 1
   },
   "USWDS": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      66
+    ],
     "confidence": 7,
+    "description": "USWDS is a design system for the federal government.",
     "enterprise_adoption": "common",
     "founded_year": 2015,
     "history": "The US Web Design System (USWDS) was launched in 2015 by the US Digital Service and 18F as a design system for federal government websites. It is open-source under Creative Commons Zero and is used across US federal agency websites.",
+    "icon": "USWDS.svg",
+    "js": {
+      "uswdsPresent": ""
+    },
     "kind": "oss-library",
     "license_type": "public-domain",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "public",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "\\buswds\\b"
+    ],
     "source_urls": [
       "https://designsystem.digital.gov"
     ],
     "summary_abuse": "USWDS is a US government design system with no abuse signal. Government design system components are not a fraud infrastructure target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://designsystem.digital.gov"
   },
   "Utiq": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Utiq empowers brands and publishers to address audiences through Telco-powered first-party identifier.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2022,
@@ -3816,7 +5580,11 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Utiq was founded around 2022 as a telecom-powered advertising identity solution, enabling telcos to provide a first-party identifier for advertising targeting. It is a joint venture of major European telecom operators.",
+    "icon": "Utiq.svg",
     "iso27001": false,
+    "js": {
+      "Utiq": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3827,51 +5595,86 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 4,
+    "scriptSrc": [
+      "/utiqloader\\.js"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Utiq is a telco-powered advertising identifier system. It combines network-level user identification with advertising targeting, raising significant privacy concerns. Users must consent via an explicit consent portal, but the telco-level data access and advertising tracking profile makes this a higher-risk tracking technology from a privacy perspective.",
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 6,
+    "website": "https://utiq.com/",
     "white_label_wrapper_likelihood": 3
   },
   "utterances": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      15
+    ],
     "confidence": 6,
+    "description": "Utterances is a lightweight comments widget built on GitHub issues.",
+    "dom": [
+      "iframe[src*='utteranc.es']"
+    ],
     "enterprise_adoption": "none",
     "founded_year": 2018,
     "history": "utterances is a lightweight comments widget built on GitHub Issues, created around 2018. It allows websites (particularly developer blogs) to use GitHub issues as a commenting system, requiring users to authenticate with GitHub.",
+    "icon": "utterances.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
     "summary_abuse": "utterances uses GitHub Issues for comments, so spam or abuse via utterances would appear as GitHub issues on the target repository. GitHub's own abuse mitigation applies. No notable systematic abuse documented.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://utteranc.es/",
+    "xhr": [
+      "\\.utteranc\\.es"
+    ]
   },
   "Uvicorn": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "confidence": 7,
+    "cpe": "cpe:2.3:a:encode:uvicorn:*:*:*:*:*:*:*:*",
+    "description": "Uvicorn is an ASGI server implementation for Python web applications, commonly used with frameworks like FastAPI to enable asynchronous and high-performance handling of web requests.",
     "enterprise_adoption": "widespread",
     "founded_year": 2017,
+    "headers": {
+      "Server": "uvicorn"
+    },
     "history": "Uvicorn is a Python ASGI server created by Tom Christie and first released around 2017. It became the standard ASGI server for Python web frameworks like FastAPI and Starlette, and is widely used in production for high-performance Python web applications.",
+    "icon": "uvicorn.svg",
+    "implies": [
+      "Python"
+    ],
     "kind": "oss-library",
     "license_type": "bsd-3-clause",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 9,
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
     "summary_abuse": "Uvicorn has no abuse signal. It is a Python ASGI server library with no consumer-facing surface.",
-    "technical_depth_score": 8
+    "technical_depth_score": 8,
+    "website": "https://www.uvicorn.org"
   },
   "Uvodo": {
     "abuse_score": 3,
     "ai_generated_likelihood": 5,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Uvodo is an ecommerce platform built with React, PHP, and MySQL, offering local and global payment integration, robust selling tools, and no additional expenses.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -3883,6 +5686,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Uvodo was founded in 2022 in San Francisco by Taleh Karimli and Orkhan Hajiyev, and raised $300K from Khazar Ventures and Go Global World to build a commission-free ecommerce and payments platform for solopreneurs and SMBs.",
+    "icon": "Uvodo.svg",
+    "implies": [
+      "MySQL",
+      "PHP",
+      "React"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3891,9 +5700,18 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "recurring",
+      "low"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.uvo\\.do/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://uvodo.com",
@@ -3904,14 +5722,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://uvodo.com",
     "white_label_wrapper_likelihood": 3
   },
   "UXSniff": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "UXSniff is a UX analysis tool that automatically detects usability issues by analyzing user behavior, including layout shifts and rage clicks, to identify potential conversion problems early.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -3923,7 +5746,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "UXSniff is a UX analytics tool that detects usability issues by analyzing user session recordings and heatmaps. Limited public history is available; it appears to be a small startup product.",
+    "icon": "UXSniff.svg",
     "iso27001": false,
+    "js": {
+      "__UXS_BEACON_COOLDOWN_MS": "",
+      "__uxs_beaconInCooldown": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3931,23 +5759,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "api\\.uxsniff\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "UXSniff records user sessions for UX analysis, which involves capturing sensitive user behavior data. Session recording tools raise privacy concerns when deployed without adequate consent notices. No specific fraud-related abuse is documented.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://uxsniff.com",
     "white_label_wrapper_likelihood": 2
   },
   "Uzerly": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      77
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Uzerly is a technology-focused company specializing in retargeting.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2012,
@@ -3956,9 +5797,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "content-security-policy": "\\.u(?:s|z)erly\\.net"
+    },
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Uzerly is a retargeting platform developed by Cibleclic SAS, a French digital marketing agency based in Paris; it specialises in e-commerce retargeting and audience segmentation.",
+    "icon": "Uzerly.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3968,9 +5813,17 @@
     "parent_company": "Cibleclic",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "\\.userly\\.net/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://uzerly.fr/en/"
@@ -3979,6 +5832,7 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://uzerly.fr",
     "white_label_wrapper_likelihood": 3
   }
 }

@@ -2,8 +2,12 @@
   "YaBB": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      2
+    ],
     "company_size_bucket": "solo",
     "confidence": 4,
+    "cpe": "cpe:2.3:a:yabb:yabb:*:*:*:*:*:*:*:*",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2000,
@@ -14,6 +18,10 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Released in 2000 as YaBB (Yet another Bulletin Board); SourceForge lists the project as registered on 2000-07-30. It has remained a volunteer-maintained forum project with no notable acquisition or rebrand history.",
+    "html": [
+      "Powered by <a href=\"[^>]+yabbforum"
+    ],
+    "icon": "YaBB.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "other",
@@ -32,14 +40,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "YaBB has little standalone abuse signal; it is self-hosted forum software, so abuse depends on the forum operator and usually looks like ordinary spam or scam posts rather than platform-level abuse. It has no central hosting, short-link, or custom-domain SaaS surface to attract scammers.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 3
+    "vendor_stability_score": 3,
+    "website": "https://www.yabbforum.com"
   },
   "YachtSys": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "YachtSys is a booking management system.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -51,6 +64,7 @@
     "headquarters_country": "RO",
     "hipaa_compliant": false,
     "history": "YachtSys is run by S.C. IOmundo S.R.L. in Iași, Romania, and the company has been operating since at least 2011; the product has been marketed under the YachtBooker brand for many years with no notable ownership change or deprecation event visible on the public site.",
+    "icon": "YachtSys.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -59,9 +73,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "apps\\.yachtsys\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.yachtsys.com",
@@ -75,14 +98,23 @@
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 5,
+    "website": "https://www.yachtsys.com",
     "white_label_wrapper_likelihood": 1
   },
   "Yahoo Advertising": {
     "abuse_score": 4,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36,
+      77
+    ],
     "company_size_bucket": "mega",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Yahoo Advertising includes a comprehensive suite of web, mobile, and video ad products across native, audience, and premium display, which are accessible through a new buying platform.",
+    "dom": [
+      "link[href*='bc.yahoo.com']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 1994,
@@ -94,7 +126,15 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yahoo was founded in 1994 by Stanford students Jerry Yang and David Filo; the advertising business has remained part of the Yahoo brand through later ownership changes, including Apollo’s 2021 acquisition of Yahoo from Verizon Media.",
+    "icon": "Yahoo.svg",
     "iso27001": false,
+    "js": {
+      "adxinserthtml": "",
+      "yahooCvLoad": "",
+      "yahoo_retargeting_pv_id": "",
+      "yahoo_ydn_conv_label": "",
+      "yahoo_ydn_conv_transaction_id": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -106,6 +146,9 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 3,
+    "scriptSrc": [
+      "(?:adinterax|adserver\\.yahoo)\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
@@ -117,14 +160,21 @@
     "technical_depth_score": 7,
     "tracker_density": "heavy",
     "vendor_stability_score": 10,
+    "website": "https://www.adtech.yahooinc.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yahoo! Ecommerce": {
     "abuse_score": 4,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 5,
+    "dom": [
+      "link[href*='store.yahoo.net']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1998,
@@ -133,10 +183,20 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-XRDS-Location": "/ystore/"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Launched as Yahoo! Store in the late 1990s for small-business ecommerce. The service later moved under Yahoo Small Business and is now operated as Turbify by Aabaco Small Business, LLC, part of Infinite Computer Solutions.",
+    "html": [
+      "<link[^>]+store\\.yahoo\\.net"
+    ],
+    "icon": "Yahoo.svg",
     "iso27001": false,
+    "js": {
+      "YStore": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -160,11 +220,15 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://smallbusiness.yahoo.com/ecommerce",
     "white_label_wrapper_likelihood": 2
   },
   "Yahoo! Tag Manager": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      42
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
@@ -179,6 +243,10 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "Yahoo! Tag Manager is part of Yahoo Japan’s advertising stack, now operated under LY Corporation after the 2023 reorganization of Yahoo Japan and LINE. LY Corporation was founded in 1996 and the service remains active as a hosted tag management tool.",
+    "html": [
+      "<!-- (?:End )?Yahoo! Tag Manager -->"
+    ],
+    "icon": "Yahoo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -190,6 +258,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "scriptSrc": [
+      "b\\.yjtag\\.jp/iframe"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://w3techs.com/technologies/details/tg-yahoo",
@@ -202,11 +273,15 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 10,
+    "website": "https://tagmanager.yahoo.co.jp/",
     "white_label_wrapper_likelihood": 1
   },
   "Yahoo! Web Analytics": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 0,
@@ -221,7 +296,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Launched in 2008 after Yahoo acquired IndexTools and rebranded it as Yahoo! Web Analytics; Yahoo discontinued the service in 2012.",
+    "icon": "Yahoo.svg",
     "iso27001": false,
+    "js": {
+      "YWA": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "deprecated",
@@ -233,6 +312,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 3,
+    "scriptSrc": [
+      "d\\.yimg\\.com/mi/ywa\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/List_of_Yahoo-owned_sites_and_services",
@@ -245,14 +327,27 @@
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 2,
+    "website": "https://web.analytics.yahoo.com",
     "white_label_wrapper_likelihood": 1
   },
   "YalinHost": {
     "abuse_score": 4,
     "ai_generated_likelihood": 4,
+    "cats": [
+      88
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "YalinHost is a web hosting service provider.",
+    "dns": {
+      "NS": [
+        "\\.yalinhost\\.com"
+      ],
+      "SOA": [
+        "\\.yalinhost\\.com"
+      ]
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -264,6 +359,7 @@
     "headquarters_country": "TR",
     "hipaa_compliant": false,
     "history": "Founded in 2021 as YalinHost Internet Hizmetleri by Yunus Emre Özeren in Bursa, Turkey. It has stayed under the same owner and current public presence since launch, with no notable acquisitions or rebrands found.",
+    "icon": "YalinHost.svg",
     "iso27001": false,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -287,15 +383,24 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://yalinhost.com",
     "white_label_wrapper_likelihood": 3
   },
   "Yamada UI": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      66
+    ],
     "confidence": 4,
+    "description": "Yamada UI is a versatile React component library.",
+    "dom": [
+      "a[aria-label*='Yamada UI']"
+    ],
     "enterprise_adoption": "limited",
     "founded_year": 2023,
     "history": "Yamada UI launched with v1.0.0 on 2023-12-25 and later released v2.0.0 on 2025-10-17. It is maintained by Hirotomo Yamada and contributors.",
+    "icon": "YamadaUI.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
@@ -307,14 +412,19 @@
       "https://yamada-ui.com"
     ],
     "summary_abuse": "Yamada UI has no meaningful abuse signal; it is an open-source React component library with no hosted service, account system, or custom-domain surface for scammers to exploit directly. Any abuse would be indirect, through malicious sites built with the library rather than the library itself.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://yamada-ui.com"
   },
   "Yampi Checkout": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yampi Checkout is an payment processor from Brazil.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -326,7 +436,11 @@
     "headquarters_country": "BR",
     "hipaa_compliant": false,
     "history": "Founded in 2011 by Lucas Colette as BUBB, a web development company in Ibitinga, Brazil. Launched its first virtual store in 2014 and its transparent checkout in 2016. Rebranded from BUBB to Yampi in 2019 as a full e-commerce platform. Became remote-first in 2020. No notable ownership changes or acquisitions since founding.",
+    "icon": "Yampi.svg",
     "iso27001": false,
+    "js": {
+      "yampiCheckoutUrl": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -334,9 +448,13 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "growing",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.yampi.com.br/checkout",
@@ -348,14 +466,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.yampi.com.br/checkout",
     "white_label_wrapper_likelihood": 0
   },
   "Yampi Virtual store": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yampi Virtual store is an ecommerce platform from Brazil.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -367,7 +490,15 @@
     "headquarters_country": "BR",
     "hipaa_compliant": false,
     "history": "Founded in 2011 in Ibitinga, Brazil by Lucas Colette as BUBB, initially building corporate websites. Launched its first virtual store platform in 2014. Rebranded to Yampi in 2019 with a full ecommerce and checkout platform. Grew to over 170,000 stores and became remote-first in 2020. No notable ownership changes or deprecation events since.",
+    "icon": "Yampi.svg",
+    "implies": [
+      "Yampi Checkout"
+    ],
     "iso27001": false,
+    "js": {
+      "Yampi.api_domain": "",
+      "Yampi.cart_token": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -375,9 +506,17 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "growing",
+    "pricing": [
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.yampi\\.io/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.yampi.com.br/loja-virtual",
@@ -389,14 +528,22 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.yampi.com.br/loja-virtual",
     "white_label_wrapper_likelihood": 0
   },
   "Yandex SmartCaptcha": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      16
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yandex SmartCaptcha is a service for verifying queries to identify user requests and block bots.",
+    "dom": [
+      "div#smartcaptcha-status"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -405,10 +552,17 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": false,
+    "headers": {
+      "x-yandex-captcha": ""
+    },
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Yandex SmartCaptcha was launched around 2020 as part of Yandex Cloud, the public cloud platform developed by Russian internet company Yandex. The service evolved from Yandex's earlier captcha technology used across its own properties. In July 2024, Yandex's Russian assets including Yandex Cloud were sold by Dutch parent Nebius Group to a consortium of Russian investors for $5.3 billion amid sanctions related to the Russian invasion of Ukraine.",
+    "icon": "yandex_smartcaptcha.svg",
     "iso27001": true,
+    "js": {
+      "smartCaptcha": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -416,9 +570,17 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "saas": true,
+    "scripts": [
+      "Yandex SmartCaptcha"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Yandex",
@@ -429,14 +591,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://cloud.yandex.com/en/services/smartcaptcha",
     "white_label_wrapper_likelihood": 0
   },
   "Yandex.Cloud": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      62
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 0,
+    "description": "Yandex.Cloud is a public cloud platform where companies can create and develop projects using Yandex's scalable computing power, advanced technologies, and infrastructure.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -448,6 +615,7 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Launched by Yandex in closed beta April 2018 with general availability later that year. Became an independent Yandex business unit in October 2020. As part of Yandex's broader corporate restructuring, the cloud business was included in the 2024 sale of Yandex's Russian operations to a consortium of investors.",
+    "icon": "Yandex.Cloud.svg",
     "iso27001": true,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -456,9 +624,13 @@
     "ownership_type": "public",
     "pci_dss": true,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "saas": false,
     "soc2_type2": false,
     "source_urls": [
       "https://cloud.yandex.com/en/pricing",
@@ -470,14 +642,22 @@
     "technical_depth_score": 7,
     "tracker_density": "none",
     "vendor_stability_score": 7,
+    "website": "https://cloud.yandex.com/en/",
     "white_label_wrapper_likelihood": 0
   },
   "Yandex.Cloud CDN": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      31
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 0,
+    "description": "Yandex.Cloud CDN helps you streamline static content delivery for your web service.",
+    "dom": [
+      "[href*='storage.yandexcloud.net'], [src*='storage.yandexcloud.net']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -489,6 +669,10 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Yandex Cloud, including its CDN service, launched in 2018 as Yandex's public cloud platform, entering closed beta in April 2018 and technical preview in September 2018. Yandex itself was founded in 2000 by Arkady Volozh and Ilya Segalovich and grew into Russia's largest technology company. In July 2024, the Dutch holding company Yandex N.V. (renamed Nebius Group) sold the Russian operations including Yandex Cloud to a consortium of Russian investors for $5.3 billion, triggered by international sanctions. Yandex Cloud CDN continues operations under the new ownership structure.",
+    "icon": "Yandex.Cloud.svg",
+    "implies": [
+      "Yandex.Cloud"
+    ],
     "iso27001": true,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -513,14 +697,22 @@
     "technical_depth_score": 6,
     "tracker_density": "none",
     "vendor_stability_score": 8,
+    "website": "https://cloud.yandex.com/en/services/cdn",
     "white_label_wrapper_likelihood": 2
   },
   "Yandex.Direct": {
     "abuse_score": 6,
     "ai_generated_likelihood": 0,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 5,
+    "description": "Yandex Direct is the platform designed for sponsored ad management.",
+    "dom": [
+      "yatag[class*='ya-partner__ads']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -532,7 +724,15 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Yandex.Direct launched in 2001 as the contextual advertising platform for Yandex Search, Russia's dominant search engine. It was one of the first pay-per-click ad systems in the Russian market. In July 2024, following international sanctions over the Ukraine war, the Dutch parent company Nebius Group (formerly Yandex N.V.) sold all Russian assets including Yandex.Direct to a consortium of Russian investors for $5.3 billion. Yandex LLC is now a privately-held Russian company owned by a consortium including Lukoil and senior management.",
+    "html": [
+      "<yatag class=\"ya-partner__ads\">"
+    ],
+    "icon": "Yandex.Direct.svg",
     "iso27001": false,
+    "js": {
+      "yandex_ad_format": "",
+      "yandex_partner_id": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -543,6 +743,9 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 2,
+    "scriptSrc": [
+      "//an\\.yandex\\.ru/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://ads.yandex.com",
@@ -554,14 +757,20 @@
     "technical_depth_score": 7,
     "tracker_density": "heavy",
     "vendor_stability_score": 7,
+    "website": "https://ads.yandex.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yandex.Messenger": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      5,
+      52
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 4,
+    "description": "Yandex.Messenger is an instant messaging application.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -573,7 +782,11 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Yandex.Messenger is an instant messaging and live chat application developed by Yandex, the Russian technology company founded in 1997 by Arkady Volozh and Ilya Segalovich. The standalone messenger app was released around 2020, building on earlier Yandex communication and dialog platforms. In July 2024, Yandex's Russian operations were divested from the Dutch holding company Nebius Group and sold to a consortium of Russian investors, making Yandex LLC an independently owned entity.",
+    "icon": "Yandex.Messenger.svg",
     "iso27001": false,
+    "js": {
+      "yandexChatWidget": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -581,9 +794,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 4,
     "privacy_score": 3,
+    "scriptSrc": [
+      "chat\\.s3\\.yandex\\.net/widget\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Yandex",
@@ -594,14 +813,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://dialogs.yandex.ru",
     "white_label_wrapper_likelihood": 0
   },
   "Yandex.Metrika": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "mega",
     "confidence": 4,
     "dark_pattern_likelihood": 5,
+    "description": "Yandex.Metrica is a free web analytics service that tracks and reports website traffic.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -613,7 +837,11 @@
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "Launched by Yandex in 2008 and made publicly available in 2009 as a free web analytics service. Grew to become the third most widely used web analytics platform globally, with dominant market share in Russian-speaking markets. Introduced innovative features including Webvisor session replay technology. A paid Metrika Pro tier was later added for enterprise-scale users requiring higher data limits and advanced features. Integrates closely with Yandex.Direct advertising platform.",
+    "icon": "Yandex.Metrika.svg",
     "iso27001": false,
+    "js": {
+      "yandex_metrika": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -625,6 +853,10 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "scriptSrc": [
+      "mc\\.yandex\\.ru/metrika/(?:tag|watch)\\.js",
+      "cdn\\.jsdelivr\\.net/npm/yandex\\-metrica\\-watch/watch\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Yandex",
@@ -636,14 +868,22 @@
     "technical_depth_score": 8,
     "tracker_density": "heavy",
     "vendor_stability_score": 9,
+    "website": "https://metrika.yandex.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yapla": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      111
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yapla is a web-based software platform that provides event management and fundraising solutions for non-profit organisations, associations, and event planners.",
+    "dom": [
+      "a[href*='\\.yapla\\.com/'][target='_blank']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -655,17 +895,30 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Founded in 2013 in France to provide all-in-one management, fundraising, and payment software for non-profit organisations. The company has expanded to serve Canada, Italy, and Belgium. No notable ownership changes, acquisitions, or deprecation events since founding.",
+    "icon": "Yapla.svg",
     "iso27001": false,
+    "js": {
+      "yaplaConsent.cookieName": "yapla-consent"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^Yapla\\sv([\\d\\.]+)\\;version:\\1"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.yapla.com",
@@ -676,13 +929,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.yapla.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yaws": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "solo",
     "confidence": 7,
+    "cpe": "cpe:2.3:a:yaws:yaws:*:*:*:*:*:*:*:*",
+    "description": "Yaws (Yet Another Web Server) is an open-source web server designed to deliver dynamic content efficiently. It was developed by Claes (klacke) Wikström and is written in Erlang, a functional programming language.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2002,
@@ -691,13 +950,18 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "Server": "Yaws(?: ([\\d.]+))?\\;version:\\1"
+    },
     "headquarters_country": "SE",
     "hipaa_compliant": false,
     "history": "Created by Claes (klacke) Wikstrom around 2002 as a high-concurrency web server written in Erlang. Gained attention from a 2002 benchmark handling 80,000 concurrent connections versus Apache's 4,000 at the SICS lab. Maintained by the Erlang community under the erlyaws GitHub organization; lead maintainer transitioned to Steve Vinoski. No major forks or ownership changes.",
+    "icon": "Yaws.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "bsd-3-clause",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -716,14 +980,20 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yaws is a self-hosted open-source web server with no notable abuse signal. It has no consumer-facing surface, no free-tier hosting platform, and no anonymous signup flow that fraudsters could exploit. As a backend infrastructure component deployed by operators on their own servers, abuse risk is determined by how it is configured and operated, not by the software itself.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://github.com/erlyaws/yaws"
   },
   "Yay! Forms": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      73,
+      110
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Yay! Forms is an AI-powered tool for creating forms and surveys designed to capture audience sentiments.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -735,6 +1005,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded around 2022 as a US-based AI-powered form builder and Typeform/Jotform alternative. Initially targeted Brazilian and LATAM markets with Brazilian Portuguese and Spanish admin interfaces added November 2023. Small independent startup with no disclosed funding.",
+    "icon": "YayForms.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -743,9 +1014,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "embed\\.yayforms\\.link"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://yayforms.com",
@@ -757,14 +1036,19 @@
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://yayforms.com",
     "white_label_wrapper_likelihood": 0
   },
   "Ybug": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      13
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 0,
+    "description": "Ybug is a visual feedback and bug tracking tool designed for users and clients, enabling identification and reporting of issues.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -776,7 +1060,12 @@
     "headquarters_country": "CZ",
     "hipaa_compliant": false,
     "history": "Founded around 2018 as Ybug s.r.o., a Czech visual feedback and bug tracking SaaS. Grew to over 1,000 teams with integrations into Jira, Slack, GitHub, ClickUp, and Asana. Received G2 High Performer awards. No notable ownership changes or acquisitions.",
+    "icon": "Ybug.svg",
     "iso27001": false,
+    "js": {
+      "Ybug": "",
+      "ybug_settings": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -784,9 +1073,19 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.ybug\\.io/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://ybug.io",
@@ -797,13 +1096,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://ybug.io",
     "white_label_wrapper_likelihood": 0
   },
   "Yclas": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "cpe": "cpe:2.3:a:open-classifieds:open_classifieds:*:*:*:*:*:*:*:*",
+    "description": "Yclas is a platform that allows users to create and manage customizable online classified ads websites, available as both a hosted service and an open-source self-hosted solution​ .",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2009,
@@ -815,17 +1120,29 @@
     "headquarters_country": "ES",
     "hipaa_compliant": false,
     "history": "Yclas, originally called Open Classifieds, was created in 2009 as a free open-source PHP classifieds script. It later rebranded to Yclas and expanded to offer both a self-hosted open-source version and a cloud-hosted SaaS offering.",
+    "icon": "Yclas.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-3.0",
     "maintenance_status": "maintained",
+    "meta": {
+      "author": "open-classifieds\\.com",
+      "copyright": "(?:Open Classifieds|Yclas)\\s([0-9.]+)?\\;version:\\1"
+    },
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "onetime"
+    ],
     "pricing_model": "dual-license",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://docs.yclas.com/yclas-self-hosted/",
@@ -834,14 +1151,22 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yclas is a classifieds platform that allows users to post ads; classified ad sites can be used for scam listings (fake items for sale, rental fraud), though abuse is proportionate to any marketplace platform. The open-source self-hosted nature means abuse depends heavily on how individual site operators moderate their communities.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 3
+    "vendor_stability_score": 3,
+    "website": "https://yclas.com"
   },
   "Ycode": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Ycode is a no-code development platform that allows users to create web and mobile applications without any coding skills.",
+    "dom": [
+      "link[href*='.ycodeapp.com/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -853,6 +1178,7 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Ycode launched around 2020 as a no-code website and web app builder combining visual frontend design with backend CMS features, positioning itself as a Webflow alternative with workflow builder capabilities.",
+    "icon": "Ycode.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -861,9 +1187,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.ycode.com/"
@@ -873,14 +1205,19 @@
     "technical_depth_score": 2,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.ycode.com",
     "white_label_wrapper_likelihood": 1
   },
   "Yektanet": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yektanet is the biggest and most advanced native advertising network in Iran.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -892,10 +1229,17 @@
     "headquarters_country": "IR",
     "hipaa_compliant": false,
     "history": "Founded in 2016, Yektanet grew to become the largest native advertising network in Iran, reaching over 25 million unique users monthly and partnering with 500+ major Persian-language media outlets.",
+    "icon": "Yektanet.svg",
     "iso27001": false,
+    "js": {
+      "yektanet": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "yektanet_session_last_activity": ""
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -911,14 +1255,19 @@
     "technical_depth_score": 5,
     "tracker_density": "heavy",
     "vendor_stability_score": 5,
+    "website": "https://www.yektanet.com",
     "white_label_wrapper_likelihood": 1
   },
   "Yell eCommerce": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yell eCommerce is a service providing eCommerce website design focused on attracting customers and increasing sales.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 1966,
@@ -930,6 +1279,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Yell is the UK-based business directory brand historically known as Yellow Pages. Yell eCommerce is a managed website and online store product for UK small businesses, now built on Wix technology via a 2023 partnership.",
+    "icon": "YelleCommerce.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -938,9 +1288,16 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "business\\.yell\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://business.yell.com/features/websites/ecommerce/",
@@ -950,14 +1307,19 @@
     "technical_depth_score": 2,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://business.yell.com/features/websites/ecommerce/",
     "white_label_wrapper_likelihood": 7
   },
   "yellow.ai": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "yellow.ai provides chatbot and automation services.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2016,
@@ -969,7 +1331,11 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "yellow.ai was founded in 2016 in Bangalore, India by Raghu Ravinutala and Jaya Kishore Reddy. Originally focused on chatbot automation, it expanded into a full conversational AI platform for enterprise customer service across messaging channels. The company raised approximately $102 million in funding including a $78.15 million Series C in 2021 and serves major enterprise clients globally.",
+    "icon": "yellow.ai.svg",
     "iso27001": true,
+    "js": {
+      "ymConfig": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -977,9 +1343,16 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.yellowmessenger\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://yellow.ai/about-us/"
@@ -988,14 +1361,26 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://yellow.ai/",
     "white_label_wrapper_likelihood": 1
   },
   "Yelp Reservations": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yelp Reservations is a cloud-based restaurant management system.",
+    "dom": {
+      "iframe[src*='yelp']": {
+        "attributes": {
+          "src": "yelp(?:.com/reservations|reservations\\.com)"
+        }
+      }
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -1007,6 +1392,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yelp Reservations, now marketed as Yelp Guest Manager, is a restaurant table management and online reservations product offered by Yelp Inc. (founded 2004, NYSE: YELP). The product evolved from basic reservation widgets to a full guest management system competing with OpenTable and Resy.",
+    "icon": "Yelp.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1027,14 +1413,26 @@
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://yelp.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yelp Review Badge": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      5
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yelp Review Badges showcase business reviews from Yelp on websites.",
+    "dom": {
+      "img[src*='dyn.yelpcdn.com']": {
+        "attributes": {
+          "src": ""
+        }
+      }
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -1046,6 +1444,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yelp Review Badge is a free embeddable widget provided by Yelp Inc. (founded 2004, NYSE: YELP) that allows businesses to display their Yelp star ratings and review counts on their own websites.",
+    "icon": "Yelp.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1058,6 +1457,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 9,
     "privacy_score": 3,
+    "scriptSrc": [
+      "yelp\\.com/biz_badge_js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.wappalyzer.com/technologies/widgets/yelp-review-badge/"
@@ -1067,11 +1469,15 @@
     "technical_depth_score": 2,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://yelp.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yepcomm": {
     "abuse_score": 1,
     "ai_generated_likelihood": 5,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
@@ -1085,10 +1491,15 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Yepcomm is an e-commerce platform; minimal public information is available about its history or ownership.",
+    "icon": "yepcomm.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "Yepcomm Tecnologia",
+      "copyright": "Yepcomm Tecnologia"
+    },
     "overall_trust_score": 3,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1101,14 +1512,20 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://www.yepcomm.com.br",
     "white_label_wrapper_likelihood": 4
   },
   "Yeps": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      32,
+      75
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 3,
+    "description": "Yeps is a minimalist bar that can be added to the top or bottom of your website to collect visitor’s emails and promote content.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1119,7 +1536,11 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Yeps is an email opt-in bar tool for collecting email subscribers via a minimal website banner; no notable founding date or ownership events are documented.",
+    "icon": "Yeps.svg",
     "iso27001": false,
+    "js": {
+      "Yeps": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1130,19 +1551,31 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.yeps\\.io/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yeps is an email collection bar widget. Email collection tools can be used to harvest addresses for spam, but Yeps has no specific documented abuse incidents.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://yeps.io",
     "white_label_wrapper_likelihood": 2
   },
   "YesWiki": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      8
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "description": "YesWiki is a collaborative website creation and management Free Software under the AGPL license, enabling any web user to create, delete, edit, or comment on site pages with unlimited editors or pages.",
+    "dom": [
+      "#yw-container"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -1154,10 +1587,15 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "YesWiki is a French open-source wiki software created around 2012 as a fork of WakkaWiki, aimed at community collaboration and participatory tools for associations and collectives.",
+    "icon": "YesWiki.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "agpl-3.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1165,37 +1603,58 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 7,
+    "scriptSrc": [
+      "javascripts/yeswiki-base\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "YesWiki is a self-hosted open-source wiki with no notable abuse signal; its use case is community collaboration with no consumer-facing fraud surface.",
     "technical_depth_score": 4,
-    "vendor_stability_score": 3
+    "vendor_stability_score": 3,
+    "website": "https://yeswiki.net"
   },
   "Yett": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      67
+    ],
     "confidence": 5,
+    "description": "Yett is a small webpage library to control the execution of (third party) scripts like analytics.",
     "enterprise_adoption": "none",
     "founded_year": 2018,
     "history": "Yett is a small open-source JavaScript library created by Julien Blatecky (elbywan on GitHub) to allow developers to control the execution of third-party scripts, enabling GDPR-compliant consent-before-analytics workflows. No notable ownership changes or forks.",
+    "icon": "Yett.png",
+    "js": {
+      "YETT_BLACKLIST": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "/yett@([\\d\\.]+)/dist/yett\\.min\\.js\\;version:\\1"
+    ],
     "source_urls": [
       "https://github.com/elbywan/yett"
     ],
     "summary_abuse": "Yett has no abuse signal. It is a small OSS library used to block script execution until user consent is given, with no consumer-facing surface.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://github.com/elbywan/yett"
   },
   "Yever": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yever is a digital payment and checkout platform that enables secure online transactions for businesses and customers.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1207,7 +1666,12 @@
     "headquarters_country": "BR",
     "hipaa_compliant": false,
     "history": "Yever is a Brazilian fintech startup based in Belo Horizonte that offers an integrated payment gateway and intelligent checkout platform for small and medium-sized e-commerce businesses in Brazil. The company had processed over R$400 million in transactions by 2024.",
+    "icon": "Yever.svg",
     "iso27001": false,
+    "js": {
+      "currentUrlYever": "",
+      "getUtmsUrlYever": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1215,9 +1679,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "api\\.yever\\.com\\.br"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://diariodocomercio.com.br/negocios/startup-yever-aumenta-vendas-pmes-checkout-inteligente/",
@@ -1228,14 +1700,23 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.yever.com.br",
     "white_label_wrapper_likelihood": 3
   },
   "Yext": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      29,
+      19
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yext is a technology company that provides a cloud-based platform for managing digital knowledge and online reputation.",
+    "dom": [
+      "form.yxt-SearchBar-form"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2006,
@@ -1247,7 +1728,16 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2006 by Howard Lerman, Brian Distelburger, and Brent Metz, Yext began as a local advertising platform and pivoted through several business models before settling on digital knowledge management. The company went public on NYSE under ticker YEXT in 2017.",
+    "icon": "Yext.svg",
     "iso27001": false,
+    "js": {
+      "ANSWERS._analyticsReporterService._baseUrl": "\\.yext-pixel\\.com",
+      "Yext.BaseUrl": "",
+      "YextAnalyticsObject": "",
+      "yext.analytics": "",
+      "yextAnalyticsEnabled": "",
+      "yext_analytics": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1255,9 +1745,14 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "high",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": true,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Yext",
@@ -1267,14 +1762,19 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://www.yext.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yieldify": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 4,
+    "description": "Yieldify is a customer journey optimisation platform that brings personalisation to the full customer journey.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2013,
@@ -1286,7 +1786,11 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Founded in 2013 in London, Yieldify is a customer journey optimization and personalization platform. The company was acquired by Epsilon, a data and marketing company owned by Publicis Groupe.",
+    "icon": "Yieldify.svg",
     "iso27001": false,
+    "js": {
+      "_yieldify": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1295,9 +1799,17 @@
     "parent_company": "Epsilon",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa",
+      "payg"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "\\.yieldify\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.yieldify.com/"
@@ -1306,14 +1818,19 @@
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 5,
+    "website": "https://www.yieldify.com",
     "white_label_wrapper_likelihood": 0
   },
   "Yieldlab": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yieldlab is a German company that provides programmatic advertising technology solutions to optimize ad performance and maximize digital ad spend returns.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2008,
@@ -1325,6 +1842,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Yieldlab is a German supply-side platform (SSP) and programmatic advertising technology provider, founded around 2008 and based in Hamburg. It is part of the Virtual Minds group, which operates as a European adtech stack provider.",
+    "icon": "Yieldlab.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1337,6 +1855,9 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 1,
     "privacy_score": 2,
+    "scriptSrc": [
+      "^https?://(?:[^/]+\\.)?yieldlab\\.net/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://virtualminds.com/yieldlab/"
@@ -1345,13 +1866,25 @@
     "technical_depth_score": 7,
     "tracker_density": "heavy",
     "vendor_stability_score": 6,
+    "website": "https://yieldlab.de",
     "white_label_wrapper_likelihood": 0
   },
   "Yii": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      18
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "cookies": {
+      "YII_CSRF_TOKEN": ""
+    },
+    "cpe": "cpe:2.3:a:yiiframework:yii:*:*:*:*:*:*:*:*",
+    "description": "Yii is an open-source, object-oriented, component-based MVC PHP web application framework.",
+    "dom": [
+      "input[name='YII_CSRF_TOKEN'][type='hidden'], a[href*='//www.yiiframework.com/'][rel='external']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -1362,10 +1895,23 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Yii was created by Qiang Xue and first released in alpha in October 2006, with version 1.0 in December 2008. Yii 2.0 was a ground-up rewrite released in October 2014. Yii 1.1 reached end of life but still receives security patches.",
+    "html": [
+      "Powered by <a href=\"http://www\\.yiiframework\\.com/\" rel=\"external\">Yii Framework</a>",
+      "<input type=\"hidden\" value=\"[a-zA-Z0-9]{40}\" name=\"YII_CSRF_TOKEN\" \\/>",
+      "<!\\[CDATA\\[YII-BLOCK-(?:HEAD|BODY-BEGIN|BODY-END)\\]"
+    ],
+    "icon": "Yii.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "yii.init": ""
+    },
     "kind": "oss-project",
     "license_type": "bsd-3-clause",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1373,6 +1919,10 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 8,
+    "scriptSrc": [
+      "/assets/[a-zA-Z0-9]{8}\\/yii\\.js$",
+      "yii(?:\\.|)?(?:validation|activeform)\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Yii",
@@ -1381,14 +1931,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yii has no notable abuse signal; it is a server-side PHP framework with no consumer-facing surface that fraudsters would target.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://www.yiiframework.com"
   },
   "YM Cart": {
     "abuse_score": 4,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "Ymcart is a cross-border ecommerce platform providing a one-stop SaaS system for building independent online stores, primarily supporting Chinese ecommerce sellers.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2007,
@@ -1400,7 +1955,12 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "Founded in 2007; it has operated under 厦门中恒天下网络科技有限公司 without any notable ownership change or deprecation event found.",
+    "icon": "YMCart.svg",
     "iso27001": false,
+    "js": {
+      "exec_ymcart_collect": "",
+      "ymcartDataLayer": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1411,6 +1971,7 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://aiqicha.baidu.com/company_detail_67312496185553",
@@ -1420,14 +1981,19 @@
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 6,
+    "website": "https://ymcart.com",
     "white_label_wrapper_likelihood": 4
   },
   "YMQ Product Options Variant Option": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 0,
+    "description": "YMQ Product Options Variant Option help add an unlimited number of product options to your items so you're not restricted by Shopify's limit of 3 options and 100 variants.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1439,7 +2005,14 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "YMQ Product Options Variant Option is a Shopify app developed by YMQ, a small development shop based in Nanjing, China. Launched on the Shopify App Store on March 23, 2021, the app provides unlimited product options and variants functionality beyond Shopify's native limits. The app has gained 348 reviews with a 5.0 rating and is actively maintained.",
+    "icon": "YMQ Product Options Variant Option.svg",
+    "implies": [
+      "Shopify"
+    ],
     "iso27001": false,
+    "js": {
+      "ymq_option.v": "\\?v=([\\d\\.]+)\\;version:\\1"
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1447,9 +2020,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 10,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://apps.shopify.com/ymq-options"
@@ -1459,14 +2037,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://apps.shopify.com/ymq-options",
     "white_label_wrapper_likelihood": 3
   },
   "YNAP Ecommerce": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 4,
+    "description": "YNAP provides a suite of B2B luxury services including online and mobile store development, omnichannel logistics, customer care, digital marketing, data-driven merchandising and global strategy development.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2015,
@@ -1478,7 +2061,12 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Formed in 2015 as YOOX Net-a-Porter Group from the merger of YOOX and Net-a-Porter; in May 2025 the listed parent was renamed LuxExperience B.V.",
+    "icon": "YNAP.png",
     "iso27001": false,
+    "js": {
+      "yTos": "",
+      "ycookieApiUrl": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1486,9 +2074,13 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://investors.luxexperience.com/overview/default.aspx"
@@ -1497,14 +2089,19 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 9,
+    "website": "https://www.ynap.com/pages/about-us/what-we-do/monobrand/",
     "white_label_wrapper_likelihood": 2
   },
   "Yo!Coach": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      21
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Yo!Coach is a tutoring and consultation platform designed to connect learners with experts for one-on-one sessions.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1513,8 +2110,12 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "Set-Cookie": "\\.yo-coach\\.com"
+    },
     "hipaa_compliant": false,
     "history": "Yo!Coach is a tutoring and consultation platform designed to connect learners with experts for one-on-one sessions. It is a small independent SaaS in the online education and marketplace space with limited public history available.",
+    "icon": "Yo!Coach.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1523,22 +2124,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Yo!Coach has no notable abuse signal. It is a marketplace platform connecting learners with tutors, operating in a supervised environment where session participants are known. No documented fraud or phishing patterns are associated with this platform.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.yo-coach.com",
     "white_label_wrapper_likelihood": 2
   },
   "YOAPress": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "YOAPress is a SaaS platform that provides website building solutions tailored for real estate professionals.",
+    "dom": [
+      "link[href*='//api.yoa.ca']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2013,
@@ -1550,7 +2163,12 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "The yoapress.com domain was registered in 2013. Public pages show the brand Your Online Agents, and the privacy policy was last modified in 2018; no notable acquisitions or deprecation events surfaced.",
+    "icon": "YOAPress.svg",
     "iso27001": false,
+    "js": {
+      "yoa_cache_clear": "",
+      "yoa_gallary": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1558,9 +2176,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://rdap.verisign.com/com/v1/domain/yoapress.com",
@@ -1572,13 +2195,21 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://yoapress.com",
     "white_label_wrapper_likelihood": 7
   },
   "Yoast Duplicate Post": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "description": "Yoast Duplicate Post is a WordPress plugin which allows users to clone posts of any type, or copy them to new drafts for further editing.",
+    "dom": [
+      "link[href*='/wp-content/plugins/duplicate-post/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2004,
@@ -1590,6 +2221,7 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Yoast Duplicate Post was originally created as an independent WordPress plugin and later brought under the Yoast family of plugins.",
+    "icon": "Yoast SEO.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-2.0",
@@ -1602,17 +2234,29 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 7,
+    "requires": [
+      "WordPress"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yoast Duplicate Post is a WordPress utility plugin with no notable abuse signal.",
     "technical_depth_score": 4,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://wordpress.org/plugins/duplicate-post"
   },
   "Yoast SEO": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      54,
+      87
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "description": "Yoast SEO is a search engine optimisation plugin for WordPress and other platforms.",
+    "dom": [
+      "script[class*='yoast-schema-graph']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1624,10 +2268,19 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Yoast SEO was created by Joost de Valk, with the first plugin released in 2007 under the name WordPress SEO, rebranded to Yoast SEO in 2012. Yoast BV was acquired by Newfold Digital (owner of Bluehost) in August 2021 while continuing to operate independently.",
+    "html": [
+      "<!-- This site is optimized with the Yoast (?:WordPress )?SEO plugin v([^\\s]+) -\\;version:\\1",
+      "<!-- This site is optimized with the Yoast SEO Premium plugin v(?:[^\\s]+) \\(Yoast SEO v([^\\s]+)\\) -\\;version:\\1"
+    ],
+    "icon": "Yoast SEO.png",
+    "implies": [
+      "WordPress"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-3.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "subsidiary",
     "parent_company": "Newfold Digital",
@@ -1644,14 +2297,23 @@
     "starting_price_usd_monthly": 8,
     "summary_abuse": "Yoast SEO is a backend WordPress plugin with no notable abuse signal; it processes SEO metadata and has no consumer-facing surface that fraudsters would target.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://yoast.com/wordpress/plugins/seo/"
   },
   "Yoast SEO for Shopify": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      54,
+      100
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yoast SEO for Shopify optimizes Shopify shops.",
+    "dom": [
+      "script#yoast-schema-graph"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1663,6 +2325,13 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Yoast SEO for Shopify was launched after Yoast's acquisition by Newfold Digital in 2021, extending the Yoast SEO brand to the Shopify platform as a native Shopify app.",
+    "html": [
+      "<!-- This site is optimized with Yoast SEO for Shopify -->"
+    ],
+    "icon": "yoast-seo-shopify.png",
+    "implies": [
+      "Shopify"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1672,9 +2341,14 @@
     "parent_company": "Newfold Digital",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://yoast.com/"
@@ -1684,14 +2358,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://yoast.com/shopify/apps/yoast-seo/",
     "white_label_wrapper_likelihood": 0
   },
   "Yoast SEO Premium": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      54
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Yoast SEO Premium is a search engine optimisation plugin for WordPress and other platforms.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1703,18 +2382,29 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Yoast SEO Premium is the paid tier of the Yoast SEO WordPress plugin, sold as an annual subscription per site. Yoast BV was acquired by Newfold Digital in August 2021.",
+    "html": [
+      "<!-- This site is optimized with the Yoast SEO Premium plugin v([^\\s]+) \\;version:\\1"
+    ],
+    "icon": "Yoast SEO.png",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "subsidiary",
     "parent_company": "Newfold Digital",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "low",
+      "freemium",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://yoast.com/product/yoast-seo-premium-wordpress/"
@@ -1724,14 +2414,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://yoast.com/wordpress/plugins/seo/",
     "white_label_wrapper_likelihood": 0
   },
   "Yodel": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      99
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yodel is a delivery company for B2B and B2C orders in the United Kingdom.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -1754,19 +2449,30 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "requiresCategory": [
+      6
+    ],
     "soc2_type2": false,
     "summary_abuse": "Yodel has no notable software-level abuse signal. It is a delivery platform used for shipment tracking; parcel delivery brands are sometimes impersonated in phishing but that relates to brand impersonation, not the platform itself.",
     "technical_depth_score": 4,
+    "text": [
+      "\\bYodel\\b"
+    ],
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.yodel.co.uk/",
     "white_label_wrapper_likelihood": 0
   },
   "YogaTrail": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "YogaTrail is a software platform for managing yoga businesses.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -1778,6 +2484,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "YogaTrail is a business management software platform for yoga studios; no notable ownership events documented.",
+    "icon": "YogaTrail.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1789,19 +2496,31 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "widget\\.yogatrail\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "YogaTrail is a niche studio management platform with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.buzzwoo.de/projekte-kunden/yogatrail",
     "white_label_wrapper_likelihood": 2
   },
   "Yola": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yola is a website builder and website hosting company headquartered in San Francisco.",
+    "dom": [
+      "script[data-url*='.yolacdn.net/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -1813,6 +2532,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yola is a website builder founded in 2007 as Synthasite, rebranded to Yola in 2009, headquartered in San Francisco. It targets small businesses needing simple website creation.",
+    "icon": "Yola.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1821,23 +2541,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.yola(?:cdn)?\\.(?:net|com)/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 4,
     "summary_abuse": "Yola is a free-tier website builder that allows users to create websites under custom domains. Free hosting platforms of this type can occasionally be used to host phishing or scam landing pages, though Yola is a minor player with no prominent documented incidents.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.yola.com",
     "white_label_wrapper_likelihood": 2
   },
   "Yomdel": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yomdel is a fully managed live chat service that handles website conversations and delivers qualified sales leads directly to businesses.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -1849,6 +2583,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Yomdel is a UK-based fully managed live chat service that provides human-staffed chat agents to handle website conversations and generate qualified leads for businesses. Founded around 2012, it remains an independent SMB-focused service in the UK market.",
+    "icon": "Yomdel.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1860,19 +2595,32 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "clients\\.yomdel\\.com/"
+    ],
+    "scriptSrc": [
+      "clients\\.yomdel\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Yomdel has no notable abuse signal. It is a managed live chat service where human agents handle conversations on behalf of client businesses, leaving minimal surface for fraud or phishing abuse.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.yomdel.com",
     "white_label_wrapper_likelihood": 1
   },
   "Yonder": {
     "abuse_score": 0,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52,
+      93
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Yonder is a booking automation solution that helps tourism businesses increase bookings, collect feedback, garner positive reviews, convert website visitors, automate FAQs with an AI chatbot, and communicate with customers.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -1884,7 +2632,12 @@
     "headquarters_country": "NZ",
     "hipaa_compliant": false,
     "history": "Yonder is a booking automation platform targeting tourism and activity businesses, offering booking management, customer feedback collection, review generation, and an AI chatbot for FAQs. It is a small independent SaaS based in New Zealand with limited public history.",
+    "icon": "Yonder.svg",
     "iso27001": false,
+    "js": {
+      "YONDER_APP_LOADED": "",
+      "toggleYonderChat": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1892,22 +2645,39 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.yonderhq\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Yonder has no notable abuse signal. It is a niche booking and review automation tool for tourism businesses with no consumer-facing anonymous content hosting or features commonly targeted for fraud.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.yonderhq.com",
     "white_label_wrapper_likelihood": 2
   },
   "YooMoney": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "YooMoney is an IT company working with electronic payments on the Internet, creating and supporting financial services for individuals and businesses.",
+    "dom": [
+      "a[href*='yoomoney.ru'][target='_blank'], iframe[src*='yoomoney.ru'], img[src*='yoomoney.ru']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2002,
@@ -1916,9 +2686,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "Content-Security-Policy": "\\.yoomoney\\.ru"
+    },
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "YooMoney was originally launched in 2002 as Yandex.Money, a partnership between Yandex and PayCash. In 2020, Sberbank acquired 100% of the service and it was rebranded to YooMoney.",
+    "icon": "YooMoney.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1928,9 +2702,16 @@
     "parent_company": "Sberbank",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 4,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "\\.yoomoney\\.ru/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://en.wikipedia.org/wiki/YooMoney"
@@ -1939,14 +2720,22 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://yoomoney.ru",
     "white_label_wrapper_likelihood": 0
   },
   "Yoori": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yoori is a multi-vendor PWA ecommerce CMS.",
+    "dom": [
+      "div.yoori--cookies"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1958,6 +2747,15 @@
     "headquarters_country": "BD",
     "hipaa_compliant": false,
     "history": "Yoori is a multi-vendor PWA e-commerce CMS developed by SpaGreen in Bangladesh. It is sold as a self-hosted e-commerce solution for marketplace-style stores.",
+    "icon": "Yoori.svg",
+    "implies": [
+      "Laravel",
+      "PHP",
+      "Vue.js",
+      "PWA",
+      "MySQL",
+      "cPanel"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1966,9 +2764,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "scripts": [
+      "console\\.log\\(\\'Yoori-Ecommerce"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://spagreen.net/yoori-ecommerce-solution"
@@ -1977,14 +2781,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://spagreen.net/yoori-ecommerce-solution",
     "white_label_wrapper_likelihood": 3
   },
   "Yopify": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Yopify is an ecommerce app suite designed to boost sales, increase conversions, and enhance the customer experience.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2003,23 +2812,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "//yopify\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yopify is a Shopify app suite with no notable abuse signal. It operates within Shopify's app ecosystem.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.yopify.com",
     "white_label_wrapper_likelihood": 3
   },
   "YoPlanning": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "YoPlanning is an online software designed for booking and planning activities.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -2031,6 +2854,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "YoPlanning is an online booking and activity planning SaaS targeting leisure and tourism businesses. It is a small independent product with limited public history available.",
+    "icon": "YoPlanning.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2042,19 +2866,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "booking\\.yoplanning\\.pro"
+    ],
     "soc2_type2": false,
     "summary_abuse": "YoPlanning has no notable abuse signal. It is a niche booking management tool for activity businesses with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://yoplanning.pro",
     "white_label_wrapper_likelihood": 2
   },
   "Yotpo Loyalty & Referrals": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      84
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yotpo is a user-generated content marketing platform.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -2066,7 +2899,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yotpo Loyalty & Referrals is a product of Yotpo, a user-generated content and ecommerce marketing platform founded in 2011 in Israel with US headquarters. Yotpo has raised over $400M in VC funding.",
+    "icon": "Yotpo.svg",
     "iso27001": false,
+    "js": {
+      "SwellConfig": "",
+      "swellAPI": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2075,23 +2913,37 @@
     "parent_company": "Yotpo",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "cdn(?:-loyalty)?\\.(?:swellrewards|yotpo)\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yotpo Loyalty & Referrals has no notable abuse signal; it manages customer loyalty programs and referrals for ecommerce brands without significant fraud exposure.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.yotpo.com/platform/loyalty/",
     "white_label_wrapper_likelihood": 0
   },
   "Yotpo Reviews": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yotpo is a user-generated content marketing platform.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -2103,7 +2955,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yotpo Reviews is the flagship product of Yotpo, founded in 2011 in Israel. It became one of the leading user-generated content platforms for ecommerce, with over $400M raised in VC funding.",
+    "icon": "Yotpo.svg",
     "iso27001": false,
+    "js": {
+      "yotpo": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2112,23 +2968,37 @@
     "parent_company": "Yotpo",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "(?!cdn-loyalty)\\.yotpo\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yotpo Reviews collects and displays customer reviews. Review platforms can occasionally be targeted for fake review injection or scraping, but Yotpo has anti-spam measures and legitimate use strongly dominates.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.yotpo.com/platform/reviews/",
     "white_label_wrapper_likelihood": 0
   },
   "Yotpo SMSBump": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "SMS Bump is a SMS marketing and automations app which was acquired by Yotpo.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -2140,7 +3010,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "SMSBump was founded in 2018 as an independent SMS marketing platform for Shopify, then acquired by Yotpo to become part of their ecommerce marketing suite.",
+    "icon": "Yotpo.svg",
     "iso27001": false,
+    "js": {
+      "SMSBumpForm": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2152,20 +3026,28 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 6,
     "privacy_score": 3,
+    "scripts": [
+      "/smsbump_timer\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yotpo SMSBump is an SMS marketing platform; mass SMS platforms carry inherent spam risk if misused. Yotpo has compliance policies requiring merchant consent verification, but SMS marketing tools can be used for spam if controls are insufficient.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.yotpo.com/platform/smsbump-sms-marketing/",
     "white_label_wrapper_likelihood": 0
   },
   "Yotpo Subscriptions": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Yotpo Subscriptions is a Shopify app designed for merchants to provide subscription services to customers.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -2177,6 +3059,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yotpo Subscriptions is a Shopify subscription management app developed by Yotpo as part of their ecommerce retention suite.",
+    "html": [
+      "<!-- BEGIN app block: shopify://apps/yotpo-subscriptions/blocks/app-embed-block"
+    ],
+    "icon": "Yotpo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2189,19 +3075,30 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Yotpo Subscriptions is a subscription management app for Shopify merchants with no notable abuse signal documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.yotpo.com/platform/subscriptions/",
     "white_label_wrapper_likelihood": 0
   },
   "Yottaa": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      42,
+      74,
+      92
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yottaa is an ecommerce optimisation platform that helps with conversions, performance and security.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2009,
@@ -2213,10 +3110,15 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Yottaa was founded in 2009 in Waltham, Massachusetts as a web and ecommerce performance optimization company. It operates a multi-CDN acceleration platform serving retail and ecommerce brands.",
+    "icon": "Yottaa.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "X-Yottaa-Metrics": "",
+      "X-Yottaa-Optimizations": ""
+    },
     "overall_trust_score": 6,
     "ownership_type": "vc-backed",
     "pci_dss": false,
@@ -2224,6 +3126,9 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "scriptSrc": [
+      "cdn\\.yottaa\\.\\w+/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.yottaa.com/"
@@ -2232,14 +3137,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.yottaa.com",
     "white_label_wrapper_likelihood": 0
   },
   "YouCam Makeup": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      105
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "YouCam Makeup is a cross-platform virtual makeup solution for omnichannel ecommerce.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -2251,7 +3161,12 @@
     "headquarters_country": "TW",
     "hipaa_compliant": false,
     "history": "YouCam Makeup is a virtual try-on and augmented reality beauty platform developed by Perfect Corp, a Taiwanese company. It provides AI-powered virtual makeup and cosmetics visualization for ecommerce brands.",
+    "icon": "YouCam Makeup.svg",
     "iso27001": false,
+    "js": {
+      "YMK.applyMakeupByLook": "",
+      "YMK.calDeltaE": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2260,22 +3175,35 @@
     "parent_company": "Perfect Corp",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "plugins-media\\.(?:perfectcorp|makeupar)\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "YouCam Makeup is a virtual try-on SaaS for beauty brands with no notable abuse signal; it is embedded by retailers for product visualization.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.perfectcorp.com/business/products/virtual-makeup",
     "white_label_wrapper_likelihood": 0
   },
   "YouCan": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "YouCan is an integrated platform specialised in ecommerce, offering a wide range of services needed by merchants and entrepreneurs.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -2284,10 +3212,24 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "x-powered-by": "Youcan\\.Private\\.DC/"
+    },
     "headquarters_country": "MA",
     "hipaa_compliant": false,
     "history": "YouCan is a MENA-focused ecommerce platform designed to help entrepreneurs in the Arab world build online stores.",
+    "icon": "YouCan.svg",
+    "implies": [
+      "PHP",
+      "MySQL",
+      "Redis",
+      "Laravel",
+      "YouCan Pay"
+    ],
     "iso27001": false,
+    "js": {
+      "YCPay": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2295,22 +3237,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "YouCan is an ecommerce platform with no notable abuse signal documented.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://youcan.shop",
     "white_label_wrapper_likelihood": 2
   },
   "YouCan Pay": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "YouCan Pay is a developed electronic payment platform that provides effective solutions for the payment gatways issue in ecommerce in Morocco.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2322,7 +3274,11 @@
     "headquarters_country": "MA",
     "hipaa_compliant": false,
     "history": "YouCan Pay is the payment gateway product of YouCan, a Moroccan ecommerce platform founded in 2019 by Mohamed El Ghaissani in Rabat, Morocco. YouCan launched its storefront platform in 2020 and rapidly grew to process over $753 million GMV in 2023, serving 100,000 active stores predominantly in Morocco and the MENA region. YouCan Pay was developed to solve the payment gateway gap in Moroccan ecommerce, supporting Moroccan cards, international cards, and CashPlus cash payments.",
+    "icon": "YouCan Pay.svg",
     "iso27001": false,
+    "js": {
+      "YCPay": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2330,9 +3286,13 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://empowerafrica.com/mohamed-el-ghaissani-the-moroccan-entrepreneur-simplifying-e-commerce-for-everyone/",
@@ -2343,14 +3303,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://youcanpay.com",
     "white_label_wrapper_likelihood": 1
   },
   "youCMS": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "youCMS is an enterprise content management system developed in Denmark, designed to support large-scale digital content organization and delivery.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -2362,10 +3327,14 @@
     "headquarters_country": "DK",
     "hipaa_compliant": false,
     "history": "youCMS is a Danish enterprise CMS developed by a Danish company and designed for large-scale content management. It is a hosted SaaS product targeting organizations in Denmark and the broader Scandinavian market. No notable ownership changes or deprecation events are documented.",
+    "icon": "youCMS.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^youCMS(?:\\b|\\s|\\s*-)"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2373,19 +3342,25 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 7,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "youCMS is a niche Danish enterprise CMS with no notable abuse signal. It is a hosted content management system for legitimate enterprise customers and does not expose consumer-facing features that would attract phishing or fraud activity.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.youcms.eu",
     "white_label_wrapper_likelihood": 1
   },
   "Youform": {
     "abuse_score": 2,
     "ai_generated_likelihood": 5,
+    "cats": [
+      110
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Youform is a no-code form builder to create conversational style forms for collecting leads, surveys, and feedback.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2023,
@@ -2396,7 +3371,11 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Youform is a no-code conversational form builder for collecting leads and surveys, emerging as a Typeform alternative in 2023.",
+    "icon": "Youform.svg",
     "iso27001": false,
+    "js": {
+      "youForm.blurActiveElement": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2404,23 +3383,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Youform is a form builder. Form tools can be misused for phishing (fake credential harvesting forms), though no specific incidents are documented for Youform.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://youform.com",
     "white_label_wrapper_likelihood": 3
   },
   "YouLead": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "YouLead is a sales and marketing automation system from Poland that helps businesses manage leads, streamline customer engagement, and optimize marketing workflows through integrated digital tools.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -2432,7 +3422,12 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "YouLead is a Polish sales and marketing automation platform helping businesses manage leads and streamline customer engagement through integrated digital tools.",
+    "icon": "YouLead.svg",
     "iso27001": false,
+    "js": {
+      "YouLeadDynamicContent": "",
+      "YouLeadHtmlBlocks": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2443,19 +3438,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.youlead\\.pl"
+    ],
     "soc2_type2": false,
     "summary_abuse": "YouLead is a B2B marketing automation platform with no notable abuse signal.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://www.youlead.pl",
     "white_label_wrapper_likelihood": 2
   },
   "YouPay": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "YouPay is an alternative method of payment that allows you to give someone else the ability to pay for your shopping cart with no fees or interest.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2467,7 +3471,16 @@
     "headquarters_country": "AU",
     "hipaa_compliant": false,
     "history": "YouPay is an Australian ecommerce payment innovation that enables gifting and third-party payment on behalf of shoppers.",
+    "icon": "YouPay.svg",
+    "implies": [
+      "Shopify"
+    ],
     "iso27001": false,
+    "js": {
+      "YouPay.buttonWindow": "",
+      "youpayReady": "",
+      "youpayStatus": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2475,22 +3488,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.youpay\\.ai/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "YouPay is a novelty gifting payment service with no notable fraud abuse signal documented.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://youpay.co",
     "white_label_wrapper_likelihood": 2
   },
   "YourGPT": {
     "abuse_score": 2,
     "ai_generated_likelihood": 7,
+    "cats": [
+      47
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "YourGPT is a platform that provides customizable AI and GPT tools, enabling the integration of large language models for diverse operational needs and supporting more efficient business processes.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2023,
@@ -2501,7 +3526,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "YourGPT is a post-2022 platform offering customizable GPT-based tools and chatbots for businesses; it is one of many LLM API wrapper products that emerged after ChatGPT's launch.",
+    "icon": "YourGPT.svg",
     "iso27001": false,
+    "js": {
+      "$yourgptChatbot": "",
+      "YOURGPT_WIDGET_UID": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2509,23 +3539,40 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "widget\\.yourgpt\\.ai"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "YourGPT is an AI chatbot customization platform wrapping LLM APIs. Like similar post-2022 tools, there is theoretical risk of misuse for social engineering, but no specific documented incidents.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://yourgpt.ai",
     "white_label_wrapper_likelihood": 7
   },
   "YouTrack": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      13
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "YouTrack is a browser-based bug tracker, issue tracking system and project management software.",
+    "dom": [
+      "[no-title='YouTrack'], link[type='application/opensearchdescription+xml'][title='YouTrack']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -2537,6 +3584,12 @@
     "headquarters_country": "CZ",
     "hipaa_compliant": false,
     "history": "YouTrack was first released in 2008 by JetBrains, the Czech software company known for IntelliJ IDEA. It is available as both a cloud SaaS and self-hosted server product, free for up to 10 users.",
+    "html": [
+      "no-title=\"YouTrack\">",
+      "data-reactid=\"[^\"]+\">youTrack ([0-9.]+)<\\;version:\\1",
+      "type=\"application/opensearchdescription\\+xml\" title=\"YouTrack\"/>"
+    ],
+    "icon": "YouTrack.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -2558,14 +3611,22 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.jetbrains.com/youtrack/",
     "white_label_wrapper_likelihood": 0
   },
   "YouTube": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      14
+    ],
     "company_size_bucket": "mega",
     "confidence": 7,
     "dark_pattern_likelihood": 3,
+    "description": "YouTube is a video sharing service where users can create their own profile, upload videos, watch, like and comment on other videos.",
+    "dom": [
+      "embed[src*='youtube.com'], embed[src*='youtube-nocookie.com'], iframe[src*='youtube.com'], iframe[src*='youtube-nocookie.com'], param[value*='youtube.com'], param[value*='youtube-nocookie.com']"
+    ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -2577,6 +3638,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "YouTube was founded in February 2005 by Chad Hurley, Steve Chen, and Jawed Karim. Google acquired it for $1.65 billion in October 2006. It became the world's largest video platform, with over 2 billion logged-in users monthly. It has faced ongoing controversies over content moderation and advertiser safety.",
+    "html": [
+      "<(?:param|embed|iframe)[^>]+youtube(?:-nocookie)?\\.com/(?:v|embed)"
+    ],
+    "icon": "YouTube.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2589,20 +3654,28 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 2,
+    "scriptSrc": [
+      "\\.youtube\\.com/"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "YouTube's embedded player and API are used legitimately on millions of websites. As a platform, YouTube has documented problems with scam ads, fake giveaway streams, and brand impersonation channels, but Google has invested heavily in automated moderation. Abuse of the embedding mechanism (iframing scam content) is occasional but vendor response is active.",
     "technical_depth_score": 9,
     "tracker_density": "heavy",
     "vendor_stability_score": 10,
+    "website": "https://www.youtube.com",
     "white_label_wrapper_likelihood": 0
   },
   "Youzan": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Youzan is a Chinese shopping platform that provides businesses with tools for ecommerce, online store management, and customer engagement.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -2614,6 +3687,7 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "Youzan was founded in 2012 in Hangzhou, China as the largest third-party WeChat e-commerce platform, helping merchants set up social commerce stores on WeChat and Kuaishou. Tencent invested in the company in 2019.",
+    "icon": "Youzan.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2622,9 +3696,17 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 3,
+    "saas": true,
+    "scripts": [
+      "m\\.youzan\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://walkthechat.com/youzan-the-booming-leader-of-wechat-commerce/"
@@ -2633,35 +3715,62 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.youzan.com",
     "white_label_wrapper_likelihood": 0
   },
   "YUI": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "cpe": "cpe:2.3:a:yahoo:yui:*:*:*:*:*:*:*:*",
+    "description": "YUI is a JavaScript and CSS library with more than 30 unique components including low-level DOM utilities and high-level user-interface widgets.",
     "enterprise_adoption": "limited",
     "founded_year": 2006,
     "history": "Started at Yahoo in 2005 and released publicly in 2006; active development ended in August 2014, with the project left in maintenance-only mode and then effectively abandoned.",
+    "icon": "YUI.svg",
+    "js": {
+      "YAHOO.VERSION": "^(.+)$\\;version:\\1",
+      "YUI.version": "^(.+)$\\;version:\\1"
+    },
     "kind": "oss-library",
     "license_type": "bsd",
     "maintenance_status": "abandoned",
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "public",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "(?:/yui/|yui\\.yahooapis\\.com)"
+    ],
     "source_urls": [
       "https://en.wikipedia.org/wiki/YUI_Library",
       "https://github.com/yui/yui3"
     ],
     "summary_abuse": "YUI has no meaningful abuse signal; it is a front-end JavaScript/CSS library with no consumer-facing hosting, messaging, or redirect surface that scammers typically target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://clarle.github.io/yui3"
   },
   "YUI Doc": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      4
+    ],
     "confidence": 6,
+    "description": "YUI Doc is a Node.js application used at build time to generate API documentation.",
+    "dom": [
+      "body[class*='yui3-skin-sam']"
+    ],
     "enterprise_adoption": "none",
     "founded_year": 2006,
     "history": "YUI Doc was part of the YUI Library (Yahoo! User Interface Library), an open-source JavaScript library first released by Yahoo in February 2006. YUI Doc is a Node.js documentation generator used at build time. Yahoo ended active development of YUI in August 2014. The last YUI Doc release was v0.10.0 in January 2016.",
+    "html": [
+      "(?:<html[^>]* yuilibrary\\.com/rdf/[\\d.]+/yui\\.rdf|<body[^>]+class=\"yui3-skin-sam)"
+    ],
+    "icon": "Yahoo.svg",
     "kind": "oss-library",
     "license_type": "bsd",
     "maintenance_status": "deprecated",
@@ -2674,14 +3783,19 @@
       "https://github.com/yui/yuidoc/blob/master/LICENSE"
     ],
     "summary_abuse": "YUI Doc is a build-time documentation generator with no abuse signal. It has no consumer-facing surface that fraudsters could exploit.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://developer.yahoo.com/yui/yuidoc"
   },
   "Yuno": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Yuno is a global payment orchestrator used by checkout platforms to optimize payment processing and enhance transaction performance.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2021,
@@ -2693,7 +3807,11 @@
     "headquarters_country": "CO",
     "hipaa_compliant": false,
     "history": "Yuno is a Colombian-founded global payment orchestration platform launched around 2021, designed to help enterprise checkout platforms optimize payment acceptance across multiple providers.",
+    "icon": "Yuno.svg",
     "iso27001": false,
+    "js": {
+      "Yuno.threeDSecure": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2704,18 +3822,28 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "sdk-web\\.y\\.uno"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Yuno is a payment orchestration platform with no notable abuse signal; it serves as B2B infrastructure and does not have a consumer-facing surface that fraudsters would target directly.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://y.uno/",
     "white_label_wrapper_likelihood": 0
   },
   "YunoHost": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      28
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "cpe": "cpe:2.3:o:yunohost:yunohost:*:*:*:*:*:*:*:*",
+    "description": "YunoHost is a server operating system that is free and open-source, allowing users to host their own web applications, email services, and other online tools. It is based on Debian GNU/Linux.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -2727,10 +3855,15 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "YunoHost is a French-origin open-source server OS designed to simplify self-hosting for non-technical users, first released around 2012. It allows one-click deployment of apps like Nextcloud, Mastodon, and WordPress on personal servers.",
+    "icon": "YunoHost.svg",
+    "implies": [
+      "Debian"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "agpl-3.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2738,18 +3871,26 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 8,
+    "scriptSrc": [
+      "/ynh_portal\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "YunoHost is a self-hosting operating system with no notable abuse signal; it is infrastructure for personal servers and does not have a consumer-facing surface that fraudsters would target.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://yunohost.org"
   },
   "Yupop": {
     "abuse_score": 2,
     "ai_generated_likelihood": 4,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Yupop is a platform that enables users to create an online store, requiring no monthly subscription and only charging fees when sales are made.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2760,6 +3901,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Yupop is a commission-free online store platform with no monthly subscription; no notable founding date or ownership events are documented.",
+    "icon": "Yupop.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2768,23 +3910,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "free",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.yupopstorecdn\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Yupop is a free online store builder. Free e-commerce platforms with no KYC requirements can be used to create fake storefronts, but no specific documented incidents exist for Yupop.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://yupop.com",
     "white_label_wrapper_likelihood": 4
   },
   "Yxper": {
     "abuse_score": 1,
     "ai_generated_likelihood": 5,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Yxper is a platform that delivers real-time business analytics and insights to help organizations monitor performance, optimize operations, and enhance customer experience.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2806,11 +3960,16 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "analytics\\.yxper\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Yxper is a B2B business analytics platform with no notable abuse signal documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://yxper.com",
     "white_label_wrapper_likelihood": 3
   }
 }

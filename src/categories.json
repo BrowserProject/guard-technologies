@@ -3,11 +3,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Content Management Systems (CMS) let non-developers create, edit, and publish website content through an administrative dashboard. They power a large share of the public web (WordPress alone serves an estimated 40%+ of sites) and typically combine server-rendered HTML with extensible plugin or theme ecosystems that can inject client-side trackers.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "CMS",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -32,11 +37,18 @@
     "business_function": "communication",
     "confidence": 9,
     "description": "Message board / forum software hosts public or semi-public threaded discussions, user accounts, private messages, and avatars. Typical examples include phpBB, vBulletin, XenForo, MyBB, Discourse, and Simple Machines Forum. Forums create persistent user-generated content stores and are a magnet for spam, credential stuffing, and account-takeover campaigns.",
+    "groups": [
+      3,
+      4,
+      18
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Message boards",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -62,11 +74,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "Database managers are web-based admin UIs (phpMyAdmin, Adminer, phpPgAdmin, SQL Buddy) used to inspect and modify the underlying database directly through a browser. They are operational tooling, normally meant for staff or developers, but are often accidentally left reachable from the public internet alongside the application.",
+    "groups": [
+      5
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 1,
+    "name": "Database managers",
     "placement": "server",
+    "priority": 2,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -93,11 +110,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Documentation tools generate product, API, or knowledge-base sites from source markdown / reStructuredText / OpenAPI specs. Common examples include MkDocs, Docusaurus, Sphinx, Read the Docs, GitBook, BookStack, and DocFX. The rendered output is usually mostly static, but the content frequently leaks internal architecture, endpoints, or even secrets.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 3,
     "inherent_pii_exposure_score": 2,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Documentation",
     "placement": "mixed",
+    "priority": 2,
     "recommended_scrutiny_level": "low",
     "regulatory_relevance": [],
     "source_urls": [
@@ -120,11 +142,16 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Widgets are embeddable third-party components a site drops onto its pages: chat buttons, booking tools, social embeds, PDF viewers, review badges, audio players, contact forms, and similar. They are typically loaded as remote JavaScript or iframes from a vendor's CDN and run with the same DOM/cookie/form access as first-party code.",
+    "groups": [
+      6
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Widgets",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -149,11 +176,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Ecommerce platforms run online stores: product catalogs, carts, checkout, customer accounts, orders, and (directly or via gateway) payment capture. Examples include Magento/Adobe Commerce, Shopify, WooCommerce, BigCommerce, PrestaShop, Salesforce Commerce Cloud, and many regional SaaS storefronts. They process cardholder data flows and large volumes of customer PII, putting them squarely in PCI-DSS and GDPR scope.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Ecommerce",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -181,11 +213,17 @@
     "business_function": "media",
     "confidence": 8,
     "description": "Photo gallery software displays, organises, and sometimes sells images on a website: lightboxes, sliders, image management apps, and photographer portfolio platforms. Examples include Piwigo, Coppermine, Lychee, NextGEN Gallery, PhotoSwipe, SmugMug, Slider Revolution, and various WordPress gallery plugins. Many allow user uploads and integrate with payment or licensing.",
+    "groups": [
+      3,
+      10
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Photo galleries",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -210,11 +248,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Wiki software powers collaboratively edited knowledge bases with versioned pages, permissions, and inline media. Examples include MediaWiki (which runs Wikipedia), Atlassian Confluence, DokuWiki, XWiki, TWiki/Foswiki, Tiki, and TiddlyWiki. They are common for internal documentation and public reference sites and tend to mix anonymous read access with authenticated editing.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Wikis",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -241,11 +284,17 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Hosting panels are web-based administrative interfaces (cPanel, Plesk, DirectAdmin, Pterodactyl, etc.) that let site owners and providers manage servers, domains, databases, mail, files, and billing through a browser. They typically run server-side with privileged access to the underlying operating system and many tenant accounts. As consolidated control planes, a single compromise can cascade across every site or customer the panel manages.",
+    "groups": [
+      5,
+      7
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Hosting panels",
     "placement": "server",
+    "priority": 2,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -273,11 +322,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Analytics technologies measure how visitors use a site: page views, sessions, events, conversions, user flows, A/B tests, and product usage. They typically inject a third-party JavaScript snippet that beacons data back to the vendor (Google Analytics, Adobe, Matomo, Plausible, Mixpanel, etc.). Beyond simple traffic counting, many also collect IPs, device fingerprints, referrers, and behavioural traces, which makes the category a primary privacy-law touchpoint.",
+    "groups": [
+      8
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Analytics",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -305,11 +359,16 @@
     "business_function": "content",
     "confidence": 8,
     "description": "Blog technologies are publishing platforms and engines (WordPress, Ghost, Substack, Medium, Tumblr, Hatena Blog, Dotclear, Typecho, etc.) used to author and distribute articles, newsletters, and personal sites. They are typically server-rendered apps that store posts in a database, expose an admin UI, and accept reader interactions like comments and subscriptions. Because they range from self-hosted PHP to commercial SaaS newsletters, security and privacy posture varies enormously across instances.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Blogs",
     "placement": "server",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -334,11 +393,16 @@
     "business_function": "developer-tool",
     "confidence": 8,
     "description": "JavaScript frameworks and libraries (React, Vue, Angular, Ember, Svelte, Backbone, jQuery, Next.js, Nuxt, etc.) provide the structure used to build interactive web applications. They run primarily in the user's browser to render UI, manage state, and handle routing, with some now also executing server-side. They are the foundation of nearly all modern web apps but also drag in large dependency trees from npm, expanding the supply-chain surface significantly.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 2,
     "inherent_privacy_risk_score": 2,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "JavaScript frameworks",
     "placement": "client",
+    "priority": 8,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [],
     "source_urls": [
@@ -358,11 +422,17 @@
     "business_function": "developer-tool",
     "confidence": 8,
     "description": "Issue trackers are platforms for capturing, triaging, and resolving bugs, feature requests, and support tickets (Jira, GitHub Issues, GitLab, Redmine, Trac, Phabricator, Zammad, Bugzilla, Canny, BugHerd, etc.). They also commonly include error- and uptime-monitoring tools that automatically file issues (Sentry, GlitchTip, Honeybadger, Stackify). Most run server-side as multi-tenant SaaS or self-hosted apps; some embed a client widget that captures screenshots, console logs, and visitor metadata.",
+    "groups": [
+      3,
+      18
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "Issue trackers",
     "placement": "server",
+    "priority": 2,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -386,11 +456,16 @@
     "business_function": "media",
     "confidence": 8,
     "description": "Video players are JavaScript or HTML5 components and embedded SaaS widgets that play streaming or on-demand video (YouTube, Vimeo, JW Player, Brightcove, Kaltura, Wistia, Video.js, Shaka Player, hls.js, Plyr, etc.). Most run as client-side iframes or scripts that pull manifests, segments, ads, and analytics from the vendor's edge network. Some are pure libraries; many ad-supported players (Aniview, STN Video) are tracker-heavy by design.",
+    "groups": [
+      10
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Video players",
     "placement": "client",
+    "priority": 7,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -415,11 +490,17 @@
     "business_function": "communication",
     "confidence": 9,
     "description": "Comment systems let visitors post replies, threaded discussions, and reactions under articles, videos, or product pages. They include hosted SaaS widgets (Disqus, IntenseDebate, Vuukle, Cackle, Livefyre), privacy-focused alternatives (Commento, Isso, Cove, ReplyBox), and GitHub-backed ones (Giscus, utterances). Most embed a third-party JavaScript widget that loads comments, identity flows, moderation tools, and (for commercial ones) ad-tech via the vendor's domain.",
+    "groups": [
+      3,
+      18
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Comment systems",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -445,11 +526,16 @@
     "business_function": "security",
     "confidence": 8,
     "description": "The Security category covers a wide mix of protective technologies: CAPTCHAs (reCAPTCHA, hCaptcha, MTCaptcha, Friendly Captcha), bot- and fraud-detection (DataDome, HUMAN/PerimeterX, Kasada, Confiant), WAFs and DDoS mitigation, passwordless/2FA (Hanko), client-side script monitoring (c/side, RapidSec, Blue Triangle), anti-spam plugins, vulnerability scanners, consent/compliance automation, and identity verification. Most run as mixed deployments - an in-browser SDK that beacons to a cloud back-end - so they reduce attacker risk but add a powerful third-party data flow.",
+    "groups": [
+      11
+    ],
     "inherent_attack_surface_score": 4,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Security",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -476,11 +562,16 @@
     "business_function": "content",
     "confidence": 8,
     "description": "Font scripts deliver custom typography and icon glyphs to web pages, typically via @font-face declarations, JavaScript loaders, or third-party CDNs (e.g., Google Fonts, Adobe Fonts, Font Awesome, Bunny Fonts). They render text and iconography but commonly reach out to external hosts, exposing visitor IP addresses and request metadata to the font provider. Self-hosted alternatives (Fontsource, Bunny Fonts) preserve the visual function while eliminating third-party data transfer.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 3,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Font scripts",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -508,11 +599,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "Web frameworks are the foundational libraries and runtimes that structure a site's request handling, routing, templating, ORM, session state and API surface (e.g., Ruby on Rails, Laravel, Django, Next.js, Phoenix, ASP.NET, Spring). They live primarily on the server (or in SSR/hybrid edge runtimes) and dictate how user input, authentication and data persistence are processed. Framework choice strongly shapes a site's exposure to OWASP Top 10 categories.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Web frameworks",
     "placement": "mixed",
+    "priority": 7,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -545,11 +641,16 @@
     "business_function": "productivity",
     "confidence": 6,
     "description": "Miscellaneous is the catch-all bucket in technology-fingerprinting taxonomies (Wappalyzer-style) for tools and signatures that do not fit a more specific category - utility widgets, niche SaaS, one-off plugins, HTTP curiosities and small vendor products. Because membership is heterogeneous, no single risk profile applies; assessment must defer to each individual technology's own scoring.",
+    "groups": [
+      6
+    ],
     "inherent_attack_surface_score": 4,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Miscellaneous",
     "placement": "mixed",
+    "priority": 10,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -573,11 +674,16 @@
     "business_function": "productivity",
     "confidence": 7,
     "description": "Editors are authoring tools used to produce or edit web content - in-browser code/text editors (Monaco, CodeMirror, Ace, Blockly), block-based site editors (Gutenberg), legacy site builders (DreamWeaver, FrontPage, iWeb) and online builder SaaS (Unbounce, CodeSandbox, BannerBoo). Most ship as JavaScript libraries that load inside an admin or builder UI rather than for end users; they touch authoring sessions and the site's underlying source.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Editors",
     "placement": "client",
+    "priority": 4,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -604,11 +710,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Learning Management Systems host courses, assessments, grades and student-teacher communications - examples include Moodle, Canvas, Open edX, Sakai, Ilias, Blackboard, plus creator-economy platforms (Teachable, Thinkific, Podia, LearnWorlds). They consolidate large quantities of student PII, learner progress, payment data and minor-protected records, making them high-value breach targets.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "LMS",
     "placement": "server",
+    "priority": 1,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -641,11 +752,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Web servers terminate HTTP(S) connections and dispatch requests to application code - nginx, Apache HTTP Server, Microsoft IIS, LiteSpeed, Tengine, Jetty, Tomcat / JBoss, Caddy, Cowboy, and WSGI/ASGI runtimes (Uvicorn, Gunicorn, Hypercorn). They are the first listener for every request, so misconfigurations and known CVEs become the perimeter risk for everything behind them.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 1,
+    "name": "Web servers",
     "placement": "infrastructure",
+    "priority": 8,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -675,11 +791,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Caching technologies store rendered HTML, API responses, object data or full pages closer to the client to reduce origin load - Varnish, nginx caches, LiteSpeed Cache, WP Rocket, W3 Total Cache, WordPress Super Cache, Redis Object Cache, Oracle Web Cache, plus edge-cache SaaS (NitroPack, QUIC.cloud, Azure CDN, Google PageSpeed). They sit between users and origin servers, transforming response routing and cache-key behaviour.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Caching",
     "placement": "infrastructure",
+    "priority": 7,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -710,11 +831,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Rich text / WYSIWYG editors let users author HTML content in the browser - TinyMCE, CKEditor, Quill, Froala, Editor.js, Trix, Tiptap, Etherpad, Summernote, Draft.js, Ace, Monaco. They convert user keystrokes into structured HTML/Markdown and persist it to the application backend, where it is later rendered to other users. They sit on the trust boundary between untrusted user input and rendered DOM.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Rich text editors",
     "placement": "client",
+    "priority": 5,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -743,11 +869,16 @@
     "business_function": "content",
     "confidence": 8,
     "description": "JavaScript graphics encompasses client-side libraries for charts, plots, data visualisation, animations, and interactive SVG/Canvas/WebGL rendering (e.g., D3, Chart.js, Highcharts, Three.js, Paper.js). These libraries run in the user's browser, transforming structured data into visual representations, and are typically bundled or loaded via CDN as third-party scripts.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "JavaScript graphics",
     "placement": "client",
+    "priority": 6,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -771,11 +902,16 @@
     "business_function": "developer-tool",
     "confidence": 7,
     "description": "Mobile frameworks covers toolkits used to build mobile web apps, hybrid apps, or cross-platform mobile applications detectable from a website (e.g., jQuery Mobile, Framework7, Onsen UI, Sencha Touch, Ionic/Cordova-related stacks, \"convert site to app\" services). They influence how a site renders on mobile and frequently wrap content in a WebView when packaged for app stores.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Mobile frameworks",
     "placement": "client",
+    "priority": 8,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -799,11 +935,16 @@
     "business_function": "developer-tool",
     "confidence": 8,
     "description": "Programming languages covers server-side and full-stack languages/runtimes detectable on a website (e.g., PHP, Python, Node.js, Ruby, Java, Go, Rust, TypeScript, Perl, Scala, Elixir) as well as markup/standards like GraphQL, WebAssembly, and XSLT. Detection usually comes from response headers, cookie names, error pages, or runtime fingerprints rather than user-visible content.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 2,
     "inherent_third_party_data_sharing_score": 1,
+    "name": "Programming languages",
     "placement": "server",
+    "priority": 5,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "pii-handling"
@@ -826,11 +967,16 @@
     "business_function": "infrastructure",
     "confidence": 8,
     "description": "Operating systems identifies the underlying server or device OS reachable behind a website (Linux distributions such as Debian/Ubuntu/RHEL/CentOS/Alpine, Windows Server, FreeBSD, Darwin, embedded systems such as Hirschmann HiOS, UniFi OS, Windows CE). It is inferred from banner strings, response headers, TLS/SSH fingerprints, or HTTP errors.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 2,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Operating systems",
     "placement": "infrastructure",
+    "priority": 6,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "pii-handling",
@@ -852,11 +998,16 @@
     "business_function": "content",
     "confidence": 8,
     "description": "Search engines covers on-site search and product-discovery technology embedded in a website: hosted SaaS (Algolia-style, Swiftype, Site Search 360, HawkSearch, Unbxd, Searchanise, Cludo, GroupBy, Attraqt), open-source backends (Elasticsearch-based suites, VuFind, Apisearch), and enterprise platforms (FAST ESP, FAST Search for SharePoint). Visitor queries and click-throughs flow to the search provider for indexing, ranking, and personalisation.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Search engines",
     "placement": "mixed",
+    "priority": 4,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -880,11 +1031,16 @@
     "business_function": "communication",
     "confidence": 9,
     "description": "Webmail covers browser-based email clients and hosted email suites detectable on a domain (Google Workspace, Microsoft 365/Outlook Web App, Apple iCloud Mail, Proton Mail, Zimbra, RoundCube, SquirrelMail, RainLoop, Open-Xchange App Suite). Detection usually comes from login portals at /mail, /owa, /webmail, MX records, or vendor-specific markup.",
+    "groups": [
+      4
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 10,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Webmail",
     "placement": "mixed",
+    "priority": 2,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -915,11 +1071,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "CDN (Content Delivery Network) covers providers that cache and proxy a site's traffic across globally distributed edge locations - Cloudflare, Akamai, Fastly, Azure CDN, CacheFly, StackPath, Incapsula, Microsoft Ajax CDN, plus regional players (ArvanCloud, Azion, GoCache). They terminate TLS at the edge, accelerate static assets, and frequently bundle DDoS mitigation and WAF features.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "CDN",
     "placement": "infrastructure",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -949,11 +1110,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Marketing automation platforms orchestrate email, SMS, push, lead-scoring, customer journeys and behavioural retargeting at scale. They centralise large volumes of identified customer PII (names, emails, phone numbers, purchase history) and deploy client-side tracking pixels, web beacons and identity resolution scripts to correlate user behaviour across sessions and channels. Vendors include HubSpot, Marketo, Mautic, Klaviyo and dozens of niche SaaS players, almost all of which transfer first-party data to their own cloud for processing and onward sharing with sub-processors.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Marketing automation",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -985,11 +1151,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Web server extensions are server-side modules that add functionality to HTTP servers such as Apache httpd, NGINX, IIS or LiteSpeed. The family includes mod_ssl, mod_dav, mod_rewrite, mod_php, mod_wsgi, mod_perl, mod_jk, mod_fcgid, OpenSSL bindings and similar plug-ins. They execute inside the request-handling process with high privileges, expand the server attack surface, and historically account for a large share of httpd/nginx CVEs (memory corruption, authentication bypass, request smuggling).",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 2,
     "inherent_third_party_data_sharing_score": 1,
+    "name": "Web server extensions",
     "placement": "server",
+    "priority": 7,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "pci-dss",
@@ -1011,11 +1182,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Databases are persistence and query engines that store the authoritative copies of an organisation's data: relational systems (PostgreSQL, MySQL, MariaDB, SQLite, Aurora, FileMaker), NoSQL (MongoDB, Redis, PouchDB, Firebase), search indexes (Solr, Lucene) and managed/data-platform stacks (Cloudera, Percona). They typically hold the most sensitive content in a stack, including credentials, customer PII, payment records, health and financial data. Any direct internet exposure or authentication misconfiguration leads to mass-data compromise.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Databases",
     "placement": "infrastructure",
+    "priority": 5,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1043,11 +1219,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Map technologies render interactive geographic content in the browser and serve geocoding, routing and tile APIs from the cloud. The category covers Google Maps, Apple MapKit JS, Azure Maps, HERE, TomTom, Mapbox, MapLibre, OpenLayers, ArcGIS, CARTO, Maptiler and many store-locator widgets. They typically load third-party JavaScript and tile requests, transmitting visitor IP address, viewport coordinates, search terms and (with consent) precise geolocation to the map vendor for processing in the United States or other jurisdictions.",
+    "groups": [
+      17
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Maps",
     "placement": "mixed",
+    "priority": 6,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1076,11 +1257,16 @@
     "business_function": "analytics",
     "confidence": 10,
     "description": "Advertising technologies place, auction, target, verify and measure display, video, native and search ads. The category encompasses ad networks, demand-side and supply-side platforms (DSP/SSP), data-management platforms (DMP), real-time-bidding exchanges, ad-fraud and verification vendors, attribution and pixel-based measurement systems. They embed client-side scripts that read cookies, device fingerprints and advertising IDs, then broadcast bidstream payloads with IP, geolocation, browsing history and inferred attributes to dozens of third-party bidders on every impression.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 10,
     "inherent_third_party_data_sharing_score": 10,
+    "name": "Advertising",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1113,11 +1299,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Network device technologies cover infrastructure monitoring, remote administration and management interfaces for routers, switches, firewalls and IT systems, such as Paessler PRTG, TeamViewer/Monitis, SolarWinds, Nagios-class agents and embedded device admin panels. They typically run as privileged services on internal hosts, expose web UIs and APIs, accept SNMP/WMI/SSH/RPC connections to managed assets, and store credentials for every device they manage.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Network devices",
     "placement": "infrastructure",
+    "priority": 2,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1148,11 +1339,17 @@
     "business_function": "media",
     "confidence": 9,
     "description": "Media servers are server-side platforms that ingest, transcode, package, protect and deliver audio and video to end users. The category includes Wowza Streaming Engine, Uplynk, Muvi, AzuraCast (web radio), Ausha and Fireside (podcast hosting), Odeum and Sardius (OTT/live), plus game-streaming portals such as BigPoint. They typically expose RTMP, RTSP, HLS, DASH and web-management interfaces, run as privileged processes, and integrate with CDNs, DRM and ad-insertion services.",
+    "groups": [
+      10,
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Media servers",
     "placement": "server",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1182,11 +1379,16 @@
     "business_function": "media",
     "confidence": 9,
     "description": "Webcams covers network-connected camera devices and their associated web interfaces, streaming endpoints, and management software (IP cameras, MJPEG/RTSP/ONVIF streamers, embedded CCTV web UIs, baby/security cameras, computer-vision/streaming-as-a-service offerings). Detection signals include exposed admin panels, ONVIF/RTSP service banners, MJPEG HTTP streams, and vendor-specific firmware fingerprints. Devices in this category are usually long-lived embedded systems with infrequent firmware updates, default credentials, and exposed management interfaces, which makes them a recurring target for IoT botnets such as Mirai, Persirai and Corona-Mirai, and a sensitive PII surface because they capture audio/video of people, homes, and workplaces.",
+    "groups": [
+      4
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Webcams",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1219,11 +1421,16 @@
     "business_function": "payment",
     "confidence": 9,
     "description": "Payment processors covers gateways, acquirers, orchestrators, tokenization vaults and BNPL/checkout providers that authorize, capture and settle card or alternative-payment transactions on websites and apps (e.g. Stripe, Adyen, PayPal/Braintree, Worldpay, plus regional players such as Conekta, Culqi, HiPay, Klasha and PCI-DSS-scope tooling like PCI Proxy and Feroot). Implementations span hosted iframes/Elements, drop-in widgets, redirect flows and full server-side APIs. The category is regulated by PCI-DSS and processes the most sensitive customer data on a typical site (PAN, CVV, billing identity, sometimes KYC documents).",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 10,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Payment processors",
     "placement": "mixed",
+    "priority": 8,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1255,11 +1462,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Tag managers covers client-side container/loader systems used to inject and orchestrate third-party JavaScript on websites and apps without redeploying the site (Google Tag Manager, Adobe Experience Platform Launch/DTM, Tealium, Matomo Tag Manager, Commanders Act, Ensighten, Yahoo! Tag Manager, etc.). The container itself is typically a small loader script; the real risk surface is the open-ended set of marketing, analytics, advertising and pixel tags fired through it (Meta Pixel, Google Ads, ad-network pixels) and the privileged ability for marketing users to ship arbitrary JS to production.",
+    "groups": [
+      8
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 10,
     "inherent_third_party_data_sharing_score": 10,
+    "name": "Tag managers",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1290,11 +1502,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "CI (continuous integration) covers build, test and pipeline orchestration platforms used to compile, test and ship code: Jenkins, GitLab CI/CD, GitHub Actions, CircleCI, TeamCity, Bamboo, Drone, Buildkite, Travis CI, plus code-quality bots such as Code Climate. Detection is mostly indirect on public-facing properties (status badges, footer attribution, headers on hosted runners or artifacts) but the systems themselves run server-side with broad access to source code, signing keys, deploy credentials, cloud IAM tokens and production environments.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "CI",
     "placement": "infrastructure",
+    "priority": 3,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1323,11 +1540,16 @@
     "business_function": "infrastructure",
     "confidence": 8,
     "description": "Control systems covers operational-technology (OT) and industrial-control-system style management interfaces: SCADA HMIs, BMS/BAS dashboards, PLC/RTU web UIs, energy/HVAC controllers, fleet- and asset-management consoles and similar IT-OT bridge tools. On the public web these tend to surface as exposed web admin panels, REST APIs, or vendor portals; the underlying systems run server-side or on embedded infrastructure. Even when the protected asset is a physical process, the web tier is increasingly an HTTP/HTTPS application reachable from the internet, and is the most common initial-access vector.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 10,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Control systems",
     "placement": "infrastructure",
+    "priority": 2,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "pii-handling",
@@ -1355,11 +1577,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Remote access covers tools that grant administrative or end-user access to remote machines/networks: RMM and remote-desktop products (TeamViewer, AnyDesk, ScreenConnect/ConnectWise, Atera, Netop, Impero, Glance), enterprise VPN/ZTNA gateways (Citrix/NetScaler, Palo Alto GlobalProtect, Pulse Secure), out-of-band hardware management (HP iLO, Intel AMT), co-browsing/screen-sharing widgets (Upscope, Cardina), and reverse web terminals (ShellInABox). On the web tier they surface as login portals, agent endpoints and management consoles; the underlying agents run with high or system privilege on the controlled hosts.",
+    "groups": [
+      4
+    ],
     "inherent_attack_surface_score": 10,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "Remote access",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1391,11 +1618,16 @@
     "business_function": "developer-tool",
     "confidence": 8,
     "description": "Development is a broad bucket of developer-facing tools surfaced on websites and SaaS portals: source-code browsers and forges (Forgejo, Gitiles, gitlist, Phabricator, Atlassian FishEye), cloud IDEs (Acquia Cloud IDE), low-code/no-code builders (Betty Blocks, genezio, MindStudio, Stammer.ai), front-end/runtime libraries (styled-components, Opal, MichiJS, CheerPJ), API and documentation tools (Apiary), and a long tail of niche dev SaaS. The category is heterogeneous; some entries are pure client-side libraries with minimal runtime exposure, while others are full developer platforms with code, secrets and customer data behind them.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Development",
     "placement": "mixed",
+    "priority": 2,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -1425,11 +1657,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Network storage encompasses Network Attached Storage (NAS) appliances, distributed file systems, and cloud file services (e.g., Synology DiskStation, QNAP, Amazon EFS, Red Hat Gluster, IPFS) that expose file shares over LAN or WAN protocols (SMB, NFS, S3, iSCSI). These systems hold the bulk of an organization's unstructured data, often including PII, intellectual property, and backups. They are infrastructure components rather than client-facing widgets, so tracker density is essentially zero, but they present a very high-value target for ransomware and credential-stuffing attacks—Synology and QNAP devices have a long history of CVE exploitation (eCh0raix, DeadBolt, CVE-2021-28799, multiple 2025 Pwn2Own zero-days). Internet-exposed admin panels remain the dominant breach vector.",
+    "groups": [
+      10
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Network storage",
     "placement": "infrastructure",
+    "priority": 2,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1458,11 +1695,16 @@
     "business_function": "content",
     "confidence": 8,
     "description": "Feed readers aggregate content from RSS, Atom, and JSON feeds so users can follow many sources from one interface. Examples in this taxonomy range from cloud platforms (Feedly, Inoreader, AnnounceKit, Beehiiv RSS, Blendle) to self-hosted aggregators (Planet, Miniflux-style projects). Cloud readers necessarily store users' subscription lists, reading history, and identity, which constitutes a behavioral profile. Most readers are server-side rendered with thin web/mobile clients; tracker injection is typically light. Self-hosted feed aggregators have a very small attack surface because they generally only make outbound HTTP fetches. The category overall is low-risk relative to other web technologies on the site.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 3,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Feed readers",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "low",
     "regulatory_relevance": [
       "gdpr",
@@ -1484,11 +1726,16 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Document Management Systems (DMS) ingest, store, version, and route business documents—contracts, HR files, financial records, medical records, scholarly assets—through workflows with role-based access, audit trails, and retention policies. The category includes academic repositories (DSpace, Invenio, Koha, Open Journal Systems), enterprise file/collaboration platforms (Clinked, Onehub), domain-specific systems (Paperless Pipeline for real estate, uKnowva HR), e-signature platforms (Clicksign), and knowledge tools (Evernote). DMS are predominantly server-side SaaS with browser/desktop clients. Their core value—centralized custody of sensitive documents—makes PII exposure a defining risk, while comprehensive audit and access controls are core features used to satisfy GDPR, HIPAA, and SOC 2.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "DMS",
     "placement": "server",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1517,11 +1764,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Page builders are visual, drag-and-drop tools that let non-developers compose websites and landing pages. The category spans WordPress builders (Elementor-adjacent, Oxygen, LiveCanvas, Etch, Level 5), hosted no-code platforms (Pagecloud, JouwWeb, Flexbe, MailerLite Website Builder, Heyflow), headless/composable builders (Stackbit, Netlify Create, Makeswift, Frontastic), and niche industry builders. Output is mixed: builders run server-side authoring tools but emit client-side HTML, JS, and a tag-laden rendering layer. The main inherent risk on the WordPress side is plugin sprawl—Elementor and Divi have repeatedly shipped critical RCE, XSS, and authorization-bypass vulnerabilities. SaaS builders bundle marketing trackers and frequently inject third-party widgets (forms, chat, analytics) into the published sites.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Page builders",
     "placement": "mixed",
+    "priority": 1,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1550,11 +1802,17 @@
     "business_function": "communication",
     "confidence": 9,
     "description": "Live chat is a client-side widget plus server-side messaging backend that lets website visitors converse with operators or AI agents in real time. The category covers generalist platforms (LiveChat, Zendesk Sunshine Conversations, Intercom-style tools, ClickDesk, WhosOn, Atlasmic), vertical solutions (Klara and Medchat for healthcare, ChatFood and Akia for hospitality, Glia for financial services), AI chatbots (MoinAI, Floatbot, Jenny, Solvemate, EliseAI, Gista), and messaging-app bridges (GetButton, Pancake, GetChat). The widget runs on the page, sets cookies, and ships visitor metadata plus full chat content to a third-party processor. Chats commonly contain unstructured PII—names, emails, phone numbers, account IDs, health details, payment hints—pasted by users with no redaction. This makes the category one of the highest-privacy-sensitivity client-side technologies.",
+    "groups": [
+      4,
+      16
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Live chat",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1585,11 +1843,17 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Customer Relationship Management (CRM) systems centralize contacts, accounts, deals, communications, and transaction history—the canonical store of an organization's customer PII. The taxonomy includes generalist CRMs (CiviCRM), vertical CRMs (Brivity, Gestim, MRI Box and Dice for real estate; Tessitura for arts; Klara, ClinicSense, TDO for healthcare; Arketa, Virtuagym for fitness; Roller for entertainment; Giveffect, Fluro for nonprofits; Ellucian for higher-ed), and AI-driven engagement layers (Bowtie, Proto AICX, EliseAI, Chatlyn). CRMs are predominantly server-side SaaS accessed via web and API. They concentrate highly sensitive identifiers (name, email, phone, address, sometimes SSN, DOB, payment-card hints, health context) and are repeatedly named in major breaches (Salesforce/Salesloft, Gainsight, Cisco). Because the data is both PII-rich and commercially valuable, CRMs are top-tier ransomware and credential-theft targets.",
+    "groups": [
+      2,
+      16
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "CRM",
     "placement": "server",
+    "priority": 5,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1623,11 +1887,16 @@
     "business_function": "analytics",
     "confidence": 8,
     "description": "Search Engine Optimization (SEO) covers the audit, content, and analytics tools that help sites rank in search engines and AI answer engines. The taxonomy mixes WordPress plugins (Yoast, RankMath, SEOPress, The SEO Framework, SEOmatic for Craft), audit/rank-tracking SaaS (BrightEdge, BrightLocal, Web CEO, Whitespark, SEOmator, Atomseo), local-listing managers (Synup, RioSEO, SiteBooster, On The Map), structured-data and AI-content tools (WordLift, WP SEO AI, Huckabuy, BlogHunch, Alli), and translation/internationalization tools (Linguana). Most ship a JavaScript snippet, a tracking pixel, or an injection of structured data into the host page; some maintain large clickstream pipelines built from ISP and browser-extension data. Tracker injection and third-party data sharing are the defining privacy concerns; attack surface is moderate.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "SEO",
     "placement": "mixed",
+    "priority": 8,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -1651,11 +1920,16 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Accounting technologies are software platforms and services used by businesses and accounting firms to manage bookkeeping, invoicing, payroll, tax preparation, expense tracking, financial reporting, equity management, and lending operations. Representative vendors include QuickBooks, Xero, Sage, Carta, Epicor, Akaunting, Taxdome, Ignition, Liscio, Tiller, and Iress. These systems are server-hosted SaaS or on-premise products that process highly sensitive financial records (bank accounts, ACH details, tax IDs, payroll, payment-card data, social-security numbers) and personally identifiable information for both businesses and individuals. They are heavily targeted by phishing, business-email-compromise, ACH-fraud, and credential-stuffing campaigns and are typically subject to SOC2, PCI-DSS, GDPR/CCPA, and (in the US) GLBA financial-privacy obligations.",
+    "groups": [
+      16
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 10,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Accounting",
     "placement": "server",
+    "priority": 1,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1684,11 +1958,16 @@
     "business_function": "infrastructure",
     "confidence": 10,
     "description": "Cryptominers in the web-technology context are in-browser JavaScript cryptocurrency-mining scripts (Coinhive, CoinHive Captcha, Crypto-Loot, Coinimp, JSEcoin, deepMiner, Minero.cc, Coinhave) and related mining-pool/management services (e.g., Minerstat). When embedded on a website they hijack visitor CPU/GPU to mine Monero, uPlexa or similar coins, almost always without informed consent, a practice known as cryptojacking. Coinhive (shut down March 2019) at its peak ran on hundreds of thousands of sites, and the technique resurged in 2025 with WebSocket-based, obfuscated variants compromising 3,500+ sites. Even after Coinhive shutdown, copy-cat services and supply-chain injections via compromised plugins, CDNs, and ad networks continue.",
+    "groups": [
+      5
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Cryptominers",
     "placement": "client",
+    "priority": 5,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1714,11 +1993,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "Static site generators (SSGs) are build-time tools that compile content (commonly Markdown plus templates) into plain HTML/CSS/JS that can be served directly from any web server or CDN. Mainstream examples include Hugo, Jekyll, Astro, Docusaurus, Next.js SSG, Zola, Lume, Bridgetown, Publii, Scully, Octopress, Cecil, Retype, Rspress, Saber and Sourcey. Because the output is a static bundle there is no application server, database, or user session at runtime, so the runtime attack surface is dramatically smaller than a dynamic CMS. SSGs are predominantly open-source, developer-tooling-grade software used for documentation sites, blogs, marketing pages, and Jamstack apps.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 2,
     "inherent_pii_exposure_score": 0,
     "inherent_privacy_risk_score": 1,
     "inherent_third_party_data_sharing_score": 1,
+    "name": "Static site generator",
     "placement": "server",
+    "priority": 1,
     "recommended_scrutiny_level": "low",
     "regulatory_relevance": [],
     "source_urls": [
@@ -1736,11 +2020,16 @@
     "business_function": "analytics",
     "confidence": 10,
     "description": "User-onboarding / digital-adoption platforms (DAPs) inject in-app tours, tooltips, checklists, surveys, NPS prompts, and in many cases full session-replay and behavioural analytics into customer-facing or workforce-facing web and mobile apps. Representative vendors include Pendo, Appcues, WalkMe, Whatfix, Userpilot, Chameleon, Userflow, Userlane, Stonly, Toonimo, Arengu, Elevio, Hansel, LOU, Instabot, Poper, Checkin, FintechOS, Canopy Connect, and PeerPal. They typically deploy as a third-party JavaScript SDK (or mobile SDK) loaded into the host application; events, page DOM, screen content and identifying attributes are streamed to the vendor cloud for product analytics, segmentation, A/B testing and replay.",
+    "groups": [
+      6
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "User onboarding",
     "placement": "client",
+    "priority": 8,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -1769,11 +2058,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "Generic client-side JavaScript libraries: utility, UI, animation, layout, charting/visualisation, templating, and helper packages such as Zepto, p5.js, Sigma.js, Pannellum, Muuri, Granim.js, Headroom.js, Darkmode.js, Goober, Enquire.js, Infinite Scroll, JsRender/JsViews/JsObservable, Mavo, SimplexNoise.js, Dynamics.js, Swiffy Slider and DHTMLX. These are open-source or commercial libraries developers add to a page (via bundlers or directly from a CDN) to provide visual or interactive functionality. They run entirely in the user's browser and, by themselves, do not phone home or collect analytics; their security profile is dominated by supply-chain risk (npm and CDN compromise) and known XSS-class vulnerabilities in unpatched versions.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 2,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "JavaScript libraries",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "cookie-law",
@@ -1798,11 +2092,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Container technologies package applications with their dependencies into portable, isolated runtime units. Representative entries include Docker (the de-facto container runtime), Proxmox VE (virtualisation/containerisation platform), Harbor (OSS image registry with vulnerability scanning, RBAC, and signing), and adjacent infrastructure platforms. Containers run server-side or in infrastructure roles and are not visible to website visitors directly; their security posture matters because they host the application stacks that process user data. Their canonical risks are mis-exposed Docker daemons (TCP socket on 2375), mounted /var/run/docker.sock inside untrusted containers, weak Kubernetes RBAC, exposed dashboards/API servers, and vulnerable base images.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Containers",
     "placement": "infrastructure",
+    "priority": 8,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "soc2",
@@ -1830,11 +2129,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Platform-as-a-Service (PaaS) offerings provide managed application runtimes, build pipelines, databases, and edge networking so customers can deploy code without operating servers directly. Representative vendors in this category include Heroku-style and modern PaaS (Acquia Cloud Platform for Drupal, WordPress VIP, wp.cloud, Lagoon for Kubernetes, Gigalixir for Elixir/Phoenix, Deta, 8base, PlatformOS, Zeabur, Brimble, Tiiny Host, Starhost, Bask Health, Mirus, Pxxl, Ocea, Chabokan), regional providers (UKFast, ANS, Nexcess, Bernet Cloud), specialty platforms (Akamai Connected Cloud, ThingPark Enterprise IoT, OXID eShop EE) and low-code PaaS (Betty Blocks). They are multi-tenant by default with optional isolated private spaces; customer workloads run on shared compute, storage, and networking managed by the provider.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "PaaS",
     "placement": "infrastructure",
+    "priority": 8,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1866,11 +2170,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Infrastructure-as-a-Service (IaaS) providers deliver foundational compute, storage, and networking primitives on which most of the modern web is built. The category spans hyperscalers (AWS, Google Cloud, Azure), regional clouds (Alibaba, Leaseweb, DigitalOcean), and niche/sovereign IaaS vendors. IaaS shifts the customer's responsibility upward in the shared-responsibility model: the provider secures the physical/host layer while the tenant remains accountable for IAM, object-storage ACLs, network egress rules, and OS-level hardening. Misconfiguration of these tenant-owned controls (open S3 buckets, over-permissive IAM, exposed management ports) is by far the dominant breach vector. Because IaaS hosts production workloads and persistent data, every other category in the stack inherits a dependency on IaaS posture.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "IaaS",
     "placement": "infrastructure",
+    "priority": 8,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -1900,11 +2209,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Reverse proxies sit between clients and backend applications, terminating TLS, routing, caching, applying WAF policies, and abstracting service topology. Members include Nginx, Envoy, HAProxy, F5 BIG-IP, IBM DataPower, Kong API Gateway, and EZproxy. They are pure infrastructure - they observe every request and response, including auth tokens, session cookies, and decrypted payloads, which makes them a high-value target. Vulnerabilities in this layer (e.g. NGINX CVE-2026-42945 'Rift' heap overflow with CVSS 9.2, HTTP request smuggling, FrontJacking, header-injection desyncs between proxy and origin) have produced critical mass-exploitation events. The plane carries no end-user identifiers of its own but mediates all traffic.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "Reverse proxies",
     "placement": "infrastructure",
+    "priority": 7,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -1930,11 +2244,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Load balancers distribute inbound traffic across backend pools to provide availability, performance, and elasticity. The category is dominated by cloud-native managed services (AWS ALB/ELB/NLB, Google Cloud Load Balancing, Azure Front Door, Application Request Routing for IIS). Functionally similar to reverse proxies but optimised for L4/L7 distribution, health checking, and cross-zone failover. They commonly perform SSL/TLS termination, which moves the trust boundary onto the LB and decrypts payloads at that hop; data between LB and backend may then traverse the cloud fabric unencrypted unless re-encryption is configured. Like reverse proxies, LBs see all auth headers, session identifiers, and request bodies but rarely embed any trackers.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 3,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "Load balancers",
     "placement": "infrastructure",
+    "priority": 7,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -1960,11 +2279,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "UI frameworks and component libraries provide pre-built CSS/JS primitives for building consistent user interfaces. The category is broad and mostly low-risk: minimal CSS toolkits (Milligram, Simple.css, siimple), government design systems (USWDS, GOV.UK, NSW), framework-specific kits (shadcn-svelte, MDUI, MetroUI, VKUI), and commercial component vendors. The vast majority are static assets - stylesheets and component code - that load no third-party endpoints and observe no user behaviour. The realistic risk surface is supply-chain: a compromised npm package, hijacked CDN, or malicious post-install script in the dependency tree. CSS itself can in rare cases be weaponised for clickjacking or exfiltration, but the framework code itself does not collect data.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 4,
     "inherent_pii_exposure_score": 2,
     "inherent_privacy_risk_score": 2,
     "inherent_third_party_data_sharing_score": 2,
+    "name": "UI frameworks",
     "placement": "client",
+    "priority": 7,
     "recommended_scrutiny_level": "low",
     "regulatory_relevance": [
       "gdpr"
@@ -1987,11 +2311,16 @@
     "business_function": "security",
     "confidence": 9,
     "description": "Cookie compliance / Consent Management Platforms (CMPs) are the banner-and-preference widgets that record GDPR/ePrivacy/CCPA consent and gate downstream tracker firing. Members include OneTrust, Cookiebot (Usercentrics), Axeptio, Consent Manager, CrownPeak, Clym, TrustCommander, TRUENDO, Evidon, Seers, and open-source equivalents (Spatie Cookie Consent, c15t, Yett). The category exhibits a structural irony: tools designed to implement privacy law themselves operate as third-party scripts that observe every page-view, capture consent-interaction telemetry, and frequently set their own cookies. Multiple academic and regulatory studies have documented dark patterns (pre-ticked boxes, asymmetric Accept/Reject buttons, hidden 'Reject all') across major CMPs, and France's CNIL fined Google EUR 150M in 2022 over such patterns.",
+    "groups": [
+      13
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Cookie compliance",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2018,11 +2347,16 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Accessibility tooling encompasses automated WCAG/ADA scanners, audit dashboards (Silktide, UsableNet, Allyant, Texthelp, Monsido), and the controversial 'accessibility overlay' widgets (AccessiBe, UserWay, EqualWeb, Recite Me, AccessiWay, All in One Accessibility, AdaSiteCompliance). Overlays inject a third-party JS bundle that attempts to rewrite the DOM/ARIA on the fly and present a user-facing toolbar. The disability community, WebAIM, and most accessibility consultants oppose overlays - they rarely fix underlying issues and have been linked to lawsuits, user-tracking concerns, and security incidents (e.g. Imperva-disclosed DOM XSS in EqualWeb affecting Fiverr, Bosch, Playtika, Avis; FTC fined accessiBe USD 1M in 2025 for deceptive marketing).",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "Accessibility",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2050,11 +2384,16 @@
     "business_function": "identity",
     "confidence": 9,
     "description": "Authentication encompasses the systems that establish who a user is: passwordless and WebAuthn providers (Passage/1Password, WWPass), social/federated logins (Apple Sign-in, Login with Amazon, Microsoft Auth, LINE Login), CIAM platforms (Azure AD B2C, Amazon Cognito, LoginRadius, JumpCloud, Auth0), identity-verification/KYC (Onfido, Socure, MetaMap), 2FA services (Authy/Twilio), and OSS frameworks (NextAuth.js, Apereo CAS, Userbase, Alliance Auth). It is the highest-stakes category in this batch: identity is now the primary attack surface, and a single compromised IdP exposes every downstream relying party. The category sees the most concentrated PII (email, phone, government IDs in KYC flows, biometric templates), the highest regulatory scrutiny (GDPR, CCPA, SOC2, plus sector overlays like HIPAA, GLBA, PCI-DSS for payment-bound auth), and persistent attacker focus (OAuth token theft, SSO bypass, MFA fatigue, federation misconfiguration, IDP supply-chain incidents like Okta 2023).",
+    "groups": [
+      11
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 10,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Authentication",
     "placement": "mixed",
+    "priority": 6,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2085,11 +2424,16 @@
     "business_function": "security",
     "confidence": 9,
     "description": "SSL/TLS certificate authorities (CAs) issue the digital certificates that bind public keys to verified identities, enabling HTTPS and authenticated TLS sessions across the web. The category spans free, automated DV-only authorities such as Let's Encrypt (operated by the nonprofit ISRG), commercial CAs such as DigiCert, Sectigo, GlobalSign, Entrust, and IdenTrust, and cloud-managed services like AWS Certificate Manager. CAs sit at the root of internet trust: every browser, OS, and TLS client ships a trust store of root CA certificates, and any single CA can technically issue a certificate for any domain. Modern operations are governed by the CA/Browser Forum Baseline Requirements, Mozilla and Microsoft root program policies, mandatory Certificate Transparency (CT) log submission, and automation via ACME. Although CAs themselves are infrastructure (server-side issuance and revocation, OCSP/CRL distribution) and rarely embed user-tracking code, mis-issuance incidents (DigiNotar 2011, Symantec 2017 distrust, TrustCor 2022, Entrust distrusted by Chrome in 2024) demonstrate that CA failures have systemic, internet-wide consequences.",
+    "groups": [
+      11
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 2,
     "inherent_privacy_risk_score": 2,
     "inherent_third_party_data_sharing_score": 3,
+    "name": "SSL/TLS certificate authorities",
     "placement": "infrastructure",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "soc2",
@@ -2120,11 +2464,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Affiliate program platforms and networks (impact.com, ShareASale, Awin, CJ Affiliate, Rakuten Advertising, Post Affiliate Pro, Tapfiliate, PartnerStack, Refersion, LeadDyno, AccessTrade, etc.) connect advertisers with publishers, influencers, and partners to drive performance-based marketing. They operate through client-side tracking scripts, conversion pixels, redirect/click-tracking domains, and cookies (typically 30–90 day attribution windows) to attribute sales and pay commissions. Most networks act as third parties on the publisher's site and as data processors on the advertiser's site. Tracking relies heavily on third-party cookies, fingerprinting fallbacks, server-to-server postbacks, and cross-domain identifiers; tracker density is consistently high. Under GDPR/ePrivacy, affiliate cookies almost always require prior opt-in consent because they are not strictly necessary, and a Data Processing Agreement is required with every affiliate. CNIL and other regulators have actively fined advertisers for non-consented affiliate pixels.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Affiliate programs",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2153,11 +2502,16 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Appointment scheduling platforms (Calendly, SavvyCal, Doodle, Acuity, Microsoft Bookings, Cal.com, Mews, HotDoc, Doctena, Skedify, Mangomint, Glofox, Squire, Zenoti, Kalix, etc.) let visitors book time slots with a person or business, typically embedded as a widget or hosted scheduling page. They collect booker identity data (name, email, phone), reason-for-meeting notes, calendar availability, time zone/IP, and frequently integrate with CRMs, video conferencing (Zoom, Teams, Meet), email/SMS providers, payment processors, and analytics. Healthcare- and finance-oriented variants handle especially sensitive PII and may need HIPAA/BAA (Kalix, HotDoc, CoconutSoftware) or financial-services controls. Most are hosted SaaS on US infrastructure, increasing cross-border transfer obligations under GDPR/Schrems II. Calendly explicitly relies on the EU-US Data Privacy Framework and SCCs. Tracking density is usually light but not negligible because many embed marketing analytics on the booking page.",
+    "groups": [
+      14
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Appointment scheduling",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2188,11 +2542,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Survey and feedback platforms (SurveyMonkey, Typeform, Qualtrics, Google Forms, Jotform, Survicate, Delighted, InMoment, Hotjar Surveys, Refiner, Iterate, etc.) collect structured responses, NPS/CSAT/CES scores, free-text feedback, and behavioural data through web embeds, intercept pop-ups, email links, and mobile SDKs. They are processors for response data and controllers for service-usage telemetry. Typical data items include name, email, demographic answers, opinions, and sometimes health, financial, or HR information depending on use case. Notable risk events include the 2018 Typeform breach (tens of thousands of customers' response data exfiltrated). Major vendors hold SOC 2 and ISO 27001 (SurveyMonkey ISO 27001 since 2019, SOC 2 since 2021); some offer HIPAA-eligible plans. Most store EU data in the US, relying on SCCs or the EU-US DPF, which remains under legal challenge.",
+    "groups": [
+      8
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Surveys",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2224,11 +2583,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "A/B testing and experimentation platforms (Optimizely, VWO, AB Tasty, Kameleoon, Convert, Google Optimize legacy, Statsig, LaunchDarkly experiments, Adobe Target, SiteSpect, ABLyft, Intellimize, Varify, Shoplift, etc.) split traffic between variants and measure conversion outcomes via client-side JavaScript \"snippets\", server-side SDKs, or edge workers. Client-side variants typically run a synchronous blocking script in the page head to avoid flicker, which has a long history of XSS-adjacent issues (Optimizely's visual editor and inline-execution of variant code). Platforms set cookies and/or localStorage to keep visitors in consistent variants and log events including URL, referrer, UA, IP, and outcome data. Most operate as third-party data processors and require GDPR/ePrivacy consent before assignment because the cookies are not strictly necessary; running experiments on opted-out visitors collects data without a legal basis. Modern alternatives push toward server-side and consent-gated experimentation.",
+    "groups": [
+      8
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "A/B Testing",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2259,11 +2623,17 @@
     "business_function": "communication",
     "confidence": 9,
     "description": "Email marketing, transactional, and bulk-send platforms (Mailchimp, SendGrid/Twilio, Mailgun, Postmark, Klaviyo, ActiveCampaign, Brevo/Sendinblue, Constant Contact, HubSpot Email, Bento, Bronto, Delivra, Robly, e-goi, INBOX, SmartEmailing, etc.) store subscriber lists, send campaigns and transactional messages, render templates, and track opens/clicks via tracking pixels and rewritten URLs. They are processors for subscriber data and often controllers for usage telemetry. The category sits at the intersection of CAN-SPAM, CASL, GDPR (Art. 6 lawful basis, ePrivacy direct-marketing consent), and CCPA. Mailchimp, Mailgun, and SendGrid suffered the 2022 mobile-API-key leak affecting ~54M users; Mailchimp had multiple social-engineering breaches in 2022–2023 affecting customer audiences and crypto-related lists; Twilio (SendGrid's parent) was breached in 2022. Most major vendors hold SOC 2 and ISO 27001 and rely on the EU-US DPF plus SCCs for transfers — still legally contested in the EU.",
+    "groups": [
+      4,
+      2
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Email",
     "placement": "server",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2296,11 +2666,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Website and app personalisation platforms (Dynamic Yield, Monetate, Adobe Target, Salesforce Personalization/Interaction Studio, Acquia Personalization/Lift, Bloomreach, Mutiny, Kibo Personalization, Intellimize, Karte, Kameleoon, Frosmo, Clerk.io, LimeSpot, Fresh Relevance, Attraqt, Breinify, Connectif, Loop54, Recombee, Epoq, Target2Sell, Linx Impulse, etc.) tailor content, product recommendations, banners, search results, and offers in real time based on visitor identifiers, behavioural history, segments, and ML models. They typically deploy a client-side script with high DOM privileges and stream event data to a vendor-hosted decisioning engine that also ingests CRM/CDP data. Cookies and device IDs persist user-level profiles across sessions and often across domains. Data flows resemble ad-tech: third-party identifiers, cross-property profile enrichment, and lookalike modelling. Under GDPR these activities almost always require consent (profiling, automated decisioning), Art. 22 disclosures, and granular opt-out; CCPA treats most personalisation data flows as a \"sale/share\" requiring opt-out signals (GPC).",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Personalisation",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2330,11 +2705,16 @@
     "business_function": "analytics",
     "confidence": 10,
     "description": "Retargeting (a.k.a. behavioural retargeting or remarketing) technologies track visitors who have interacted with a site and serve them personalised display, social, native, or programmatic ads on other properties to bring them back to convert. Implementations rely on a client-side pixel/SDK that drops a cookie or local identifier, exchanges hashed user data, and broadcasts events (page view, add-to-cart, purchase) to one or more demand-side platforms, supply-side platforms, and data brokers via real-time bidding (RTB). Audience lists are often enriched with third-party identity graphs and synced across multiple ad networks, making this category one of the most privacy-invasive client-side technology classes on the open web. Representative vendors in the catalog include Criteo, AdRoll, Yahoo Advertising, RTB House, MNTN, Captify, OptiMonk and many niche regional players. Under GDPR / ePrivacy and the U.S. state privacy laws (CCPA/CPRA, VCDPA, etc.), retargeting pixels are non-essential trackers requiring prior, opt-in, granular consent; misuse has produced some of the largest adtech enforcement actions to date, most notably the EUR 40 million CNIL fine against Criteo confirmed by the Conseil d'Etat.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 10,
     "inherent_third_party_data_sharing_score": 10,
+    "name": "Retargeting",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2362,11 +2742,16 @@
     "business_function": "developer-tool",
     "confidence": 10,
     "description": "Real User Monitoring (RUM) tools instrument production websites and apps with a client-side JavaScript SDK that captures per-session performance telemetry from actual end-user devices: Core Web Vitals (LCP, CLS, INP), navigation timing, resource timing, JS errors, AJAX/XHR/fetch latencies, route changes, console logs and, increasingly, full session-replay recordings of the DOM. Telemetry is shipped to a vendor-hosted ingestion endpoint (or self-hosted backend for OSS variants) and stitched into sessions via first-party cookies. Representative vendors in the catalog include New Relic Browser, Datadog RUM, Splunk RUM, Dynatrace RUM, Microsoft Application Insights, AppDynamics, Akamai mPulse, Amazon CloudWatch RUM, Cloudflare Browser Insights, Sentry, Raygun, SpeedCurve, Pingdom RUM, Instana, Elastic APM, Boomerang, and the OSS web-vitals library. While the primary purpose is observability rather than advertising, URL paths, query strings, click targets, form interactions and session replays routinely contain personal data, making RUM materially in-scope for GDPR/CCPA when masking and consent are not configured properly.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "RUM",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2394,11 +2779,16 @@
     "business_function": "infrastructure",
     "confidence": 10,
     "description": "Geolocation technologies map a visitor's IP address (or, less commonly, the HTML5 Geolocation API / GPS coordinates) to a country, region, city, ASN, time-zone, and proxy/VPN/Tor classification. They are used for content localisation, currency/language switching, fraud and abuse scoring, geo-blocking for export-control / licensing, marketing analytics, and security (e.g. impossible-travel detection). The category covers commercial geo-IP databases and REST APIs such as MaxMind GeoIP, IPinfo, ipstack, ip-api, ipapi, ipify, ipdata, ipgeolocation, ipbase, db-ip, IPInfoDB, IP2Location, BigDataCloud, and platform offerings like Microsoft Azure Maps, the Shopify Geolocation App, store-locator products (Bullseye, StoreRocket), and consent-aware solutions like Radar and Geo Targetly. Server-side lookups against a local database are the lowest-risk pattern; client-side calls to a third-party JSON endpoint expose the visitor IP and Referer to that vendor and create a tracker. The HTML5 Geolocation API additionally exposes precise lat/long which is unambiguously personal data under GDPR.",
+    "groups": [
+      17
+    ],
     "inherent_attack_surface_score": 3,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Geolocation",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2425,11 +2815,16 @@
     "business_function": "content",
     "confidence": 10,
     "description": "WordPress themes are PHP/HTML/CSS/JS template packages that render the front-end of a WordPress site and frequently bundle their own page builders, widgets, custom post types, font loaders, and integration scripts (Google Fonts, jQuery libraries, hosted icon sets, marketing tags). Because they run in the same PHP process as core WordPress and execute on every request, a vulnerable theme can lead to stored XSS, arbitrary file upload, SQL injection, privilege escalation, or full RCE on the host. Wordfence Intelligence and Patchstack track tens of thousands of WordPress ecosystem CVEs across plugins and themes (241 new vulnerabilities in a recent weekly report; ~64,000 total tracked as of 2026), and \"nulled\" (pirated) premium themes are a common vector for hidden backdoors, base64-obfuscated PHP malware, hidden admin users, SEO spam and traffic redirects. Catalog entries cover both reputable free/commercial themes (AndersNoren, GoDaddy Primer, Hestia, Kadence Virtue, Catch Themes, Cryout Creations) and small one-off niche products. Front-end tracker exposure is generally moderate; security risk is the dominant concern.",
+    "groups": [
+      15
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "WordPress themes",
     "placement": "server",
+    "priority": 7,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -2456,11 +2851,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Shopify themes are Liquid-templated storefronts (HTML/CSS/JS + Liquid + theme settings) that render on Shopify's hosted, multi-tenant infrastructure. Unlike WordPress, themes do not execute arbitrary server-side code: rendering happens inside Shopify's sandboxed Liquid engine, drastically reducing classic RCE/SQLi exposure. Risk is concentrated on the client side: Liquid output that does not properly escape user input can introduce DOM XSS; theme-bundled JS, third-party app embeds, trust-badge widgets, and review/conversion apps can fingerprint visitors, leak PII to ad networks, or be hijacked via supply-chain compromise of the loaded JS. Theme apps and \"conversion booster\" packs (e.g. Conversion Bear, Shoptimized in the catalog, plus mainstream themes such as Belliza) request OAuth scopes (read_customers, write_themes) that should be carefully reviewed. Because the storefront handles payment flows, Shopify themes also intersect PCI-DSS scope when a theme renders custom checkout or cart fields.",
+    "groups": [
+      15
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Shopify themes",
     "placement": "mixed",
+    "priority": 7,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -2489,11 +2889,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Drupal themes are Twig-templated front-end packages running inside Drupal's PHP application. Since Drupal 8 the theming layer uses Twig (replacing the legacy PHPTemplate engine) with auto-escaping, which materially reduced XSS exposure compared to early Drupal 6/7 themes. However, Twig itself has produced critical advisories in Drupal core: SA-CORE-2022-016 (multiple vulnerabilities including arbitrary code execution via render arrays in Twig), CVE-2022-39261 (arbitrary file read via crafted namespace path in the filesystem loader), and recurring guidance against the |raw filter and unquoted attribute output. Misuse of |raw, custom Twig extensions, and themes that allow user-supplied template fragments enable XSS, SSRF, or LFI. Because Drupal frequently powers government, university, and enterprise sites, themes also intersect strict regulatory regimes (GDPR, FERPA, public-sector accessibility). Front-end tracker density of stock Drupal themes is generally low; the dominant risk is security and the operator's own choice to embed marketing/analytics scripts.",
+    "groups": [
+      15
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Drupal themes",
     "placement": "server",
+    "priority": 7,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -2520,11 +2925,16 @@
     "business_function": "security",
     "confidence": 10,
     "description": "Browser fingerprinting derives a stable, cookie-less visitor identifier from a combination of passive browser/device attributes (User-Agent, screen geometry, time-zone, language, installed fonts, audio/canvas/WebGL rendering quirks, hardware concurrency, codec support, battery, gyroscope, etc.). Combining ~20 attributes yields uniqueness for over 95% of browsers (EFF Panopticlick research) and persists across incognito mode, cookie clearing, and most consent rejections, making it the canonical \"stealth\" or \"post-cookie\" tracking technique. Use cases split sharply: legitimate fraud prevention and bot defence (ThreatMetrix / LexisNexis Risk Solutions, TransUnion TruValidate / iovation, MaxMind minFraud, FingerprintJS Pro's Smart Signals and BotD library, ClientJS) versus covert cross-site advertising tracking that bypasses cookie banners. Under GDPR, ePrivacy, and the French CNIL's storage-and-access guidance, fingerprinting is treated equivalently to cookies and requires prior, freely-given consent for non-essential purposes; CNIL has fined adtech vendors for fingerprinting without consent. Academic studies (ACM WWW 2021 \"User Tracking in the Post-cookie Era\") document widespread bypass of consent through fingerprinting.",
+    "groups": [
+      8
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 10,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Browser fingerprinting",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2553,11 +2963,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Loyalty and rewards platforms manage points, tiers, referrals, gift cards, and cashback programs that brands embed in ecommerce and retail apps to drive repeat purchases. Vendors such as Yotpo Loyalty, Smile.io, LoyaltyLion, Antavo, Marsello, Extole, Talkable, and Kangaroo Rewards collect customer identifiers (email, phone, name, purchase history, device IDs) and exchange them with Shopify, Klaviyo, Salesforce, and POS systems via APIs, webhooks, and embedded JavaScript widgets. Programs frequently combine first-party CRM data with marketing automation, behavioral segmentation, and social-referral tracking, which means a single loyalty integration becomes a long-lived processor of consumer PII and transaction data subject to GDPR, CCPA, and PCI-adjacent obligations when payment and refund logic is exposed. Open-source point engines like MyCred are minority players; the category is overwhelmingly commercial SaaS.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Loyalty & rewards",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2587,11 +3002,16 @@
     "business_function": "developer-tool",
     "confidence": 9,
     "description": "Feature management platforms (LaunchDarkly, Split, Statsig, Flagsmith, Unleash, ConfigCat, AWS AppConfig) provide feature flags, remote configuration, gradual rollouts, kill switches, and A/B experimentation. Client and server SDKs evaluate flag rules against a user context (user ID, email, IP, country, custom attributes) that is sent to the vendor for targeting and exposure analytics. The same context powers experimentation pipelines, so each evaluation effectively becomes a behavioral event tied to a stable identifier. Customers also include LaunchNotes, Beamer, Featurebase, and Noticeable for product update/feedback workflows. Open-source options (Flagsmith, Unleash, OpenFeature) can be self-hosted, but the dominant deployment is SaaS with edge evaluation. The category sits in the request path of production traffic, making availability and integrity a security concern in addition to the privacy footprint of targeting attributes.",
+    "groups": [
+      9
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Feature management",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2618,11 +3038,16 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Audience segmentation platforms ingest first-party and third-party behavioral data to build user/cohort profiles for advertising, personalization, and analytics. Examples include Adobe Audience Manager, Salesforce Audience Studio / Interaction Studio, Tealium AudienceStream, Oracle BlueKai, Cxense, Sirdata, Omeda, Fixel, Bloom Labs, and Viafoura. The category overlaps with Data Management Platforms (DMPs) and Customer Data Platforms (CDPs) and historically depends on cross-site cookies, mobile ad IDs, device fingerprints, and partner audience marketplaces. Segments are then activated into Google Ads, Meta, DSPs, and email automation. Because the explicit goal is to enrich identity and predict behavior across properties, segmentation tools have among the highest tracker densities and third-party data-sharing risk in the entire ecosystem, with Oracle BlueKai having been a notable breach disclosure case.",
+    "groups": [
+      2
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 10,
+    "name": "Segmentation",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2648,11 +3073,16 @@
     "business_function": "content",
     "confidence": 10,
     "description": "WordPress plugins are PHP extensions installed into a WordPress site, executing inside the web application with full database, filesystem, and HTTP-request privileges. The ecosystem spans tens of thousands of plugins covering page builders (Elementor, Oxygen, LiveCanvas), forms, ecommerce add-ons (WooCommerce extensions, Stripe gateways), caching, embeds, galleries, multilingual, performance, and integrations. WordPress powers roughly 40% of the public web, and plugins are the single largest source of disclosed web-application vulnerabilities tracked by Wordfence, Patchstack, and the WPScan database — weekly bulletins typically include dozens of new CVEs including critical RCE, SQLi, auth-bypass, and unauthenticated arbitrary file upload. Many plugins are abandoned or sold to opaque maintainers who introduce backdoors. The category covers everything from minor widgets to plugins handling payments, PII, and admin authentication.",
+    "groups": [
+      15
+    ],
     "inherent_attack_surface_score": 10,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "WordPress plugins",
     "placement": "server",
+    "priority": 8,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2682,11 +3112,16 @@
     "business_function": "infrastructure",
     "confidence": 9,
     "description": "Web hosting providers operate the physical or virtualized infrastructure (shared hosting, VPS, dedicated servers, managed WordPress, static/headless) that serves websites to end users. The category covers regional and specialist providers such as Infomaniak, Hostpoint, Mittwald, ALL-INKL, UKFast, Nexcess, Acquia, Hostens, Sakura Internet, Niagahoster, REG.RU, idCloudHost, Strattic, Elementor Cloud, and wp.cloud — distinct from hyperscale IaaS (AWS/GCP/Azure) which is tracked separately. Providers control DNS, mail routing, TLS termination, server patching, backups, and often shared control panels (cPanel, Plesk). Their security posture sets a floor for every site they host; misconfigurations or breaches at the hoster propagate to thousands of tenants, and shared hosting has historically been a high-volume vector for malware injection and credential theft.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "Hosting",
     "placement": "infrastructure",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2714,11 +3149,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Website translation and localization tools render multilingual content via JavaScript widgets, server-side proxies, CMS plugins, or translation-management platforms. Examples include Google Translate widget, Weglot, GTranslate, ConveyThis, Linguise, Bablic, Easyling, Smartling, Crowdin, WPML, Polylang, Weblate, Transcy, and Shopify-specific apps like langify and LangShop. Client-side widgets typically inject a third-party script that POSTs page text or DOM segments to a translation backend and returns rendered HTML; some operate as full reverse proxies that re-serve the entire site from a vendor domain (SEO-friendly subdirectories or subdomains). Google Translate-derived widgets in particular load Google scripts that double as analytics/tracking endpoints. The category therefore mixes content infrastructure with potential third-party data flows whenever visitor URLs, headers, or page text are sent off-origin.",
+    "groups": [
+      3
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Translation",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2745,11 +3185,17 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Reviews platforms collect, moderate, and display user-generated ratings, written reviews, photos, and video testimonials on ecommerce, service, and B2B sites. The category covers Trustpilot-style independent platforms, ecommerce-integrated reviews (Yotpo, Junip, Feefo, Reevoo, Ali Reviews, HulkApps), reputation/aggregation tools (Grade.us, Reviewshake, ReviewPro), and feedback/insights products (Alchemer Mobile, Appzi, Fider). Implementations combine post-purchase email/SMS request flows, on-site widgets/badges that load third-party JS, schema.org rich-result markup, and APIs that exchange order data with Shopify, Magento, BigCommerce, Klaviyo, and Google Shopping. Because they process customer PII, purchase history, and publicly displayed UGC, reviews systems sit at the intersection of marketing automation, content moderation, and consumer-protection regulation, with risk of fake-review enforcement (FTC) and GDPR right-to-erasure conflicts.",
+    "groups": [
+      2,
+      18
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Reviews",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2777,11 +3223,16 @@
     "business_function": "payment",
     "confidence": 10,
     "description": "Buy now pay later (BNPL) platforms (Klarna, Affirm, Afterpay/Block, Sezzle, Zip, PayPal Pay-in-4, Shop Pay Installments, plus regional variants SeQura, Aplazame, Mobicred, PayBright, KueskiPay, LayBuy, Payflex, Mokka, Postpay, ViaBill, Scalapay, Atome, Paidy) provide short-term, mostly interest-free instalment financing at checkout. Their tags load on the merchant site to render widgets, perform soft credit checks, score the shopper and complete the loan-application flow. Sitting on the checkout path they ingest full order detail, billing/shipping address, email, phone, device fingerprint, IP and a real-time identity-verification (KYC) packet, then share that financial PII with credit bureaus, fraud-prevention vendors, ad networks and analytics partners. Incogni (2024) and Consumer Reports (2023) found the average BNPL app collected 14 categories of personal data and shared up to 17 with third parties; Klarna, Afterpay and Block have all suffered material data incidents. The CFPB's May 2024 interpretive rule classifies pay-in-4 BNPL as credit cards under Regulation Z (TILA/CARD Act): periodic statements, dispute rights and billing-error procedures now apply. GDPR, CCPA/CPRA, PCI-DSS, GLBA Safeguards Rule and UK FCA consumer-credit rules also apply.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 9,
     "inherent_pii_exposure_score": 10,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Buy now pay later",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2810,11 +3261,16 @@
     "business_function": "developer-tool",
     "confidence": 8,
     "description": "Performance technologies cover web acceleration, image/video optimisation, edge caching, lazy-loading plugins, prefetch primitives and real-user monitoring (RUM). The bulk of the category is browser/CMS-side libraries and dev-tools with no tracker behaviour: LazySizes, Lozad.js, Quicklink, Intersection Observer, Priority Hints, Modern Image Formats, Turbo/Turbolinks, Partytown, Speculative Loading, Web Worker Offloading, EWWW Image Optimizer, ShortPixel, WP Fastest Cache, WP-Optimize, Autoptimize, Cloudflare Rocket Loader, Google PageSpeed. A smaller tier sits in-line with checkout as edge-proxy / RUM SDKs: Yottaa, Edgemesh, Fasterize, Speed Kit, NitroPack, Gumlet, ImageEngine, SpeedSize, Piio, Quicq, plus RUM vendors (DebugBear, Calibre, SpeedCurve, Pingdom, Catchpoint, ThousandEyes, Naver RUA, OneAPM, Quicksprout, Request Metrics, SpeedOf.Me, StatusCake, Cronitor). RUM tools inject a client-side beacon SDK that captures page-load timings, Core Web Vitals, JS errors, navigation paths, device/OS/browser, IP-derived geo and network conditions; edge-proxy vendors additionally terminate TLS and see full URLs, referrers and cookies. Most items have no consumer-PII path; the RUM/edge tier is explicitly in GDPR/ePrivacy scope.",
+    "groups": [
+      7
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 3,
     "inherent_privacy_risk_score": 5,
     "inherent_third_party_data_sharing_score": 5,
+    "name": "Performance",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -2841,11 +3297,16 @@
     "business_function": "commerce",
     "confidence": 8,
     "description": "Reservations & delivery covers hospitality, restaurant, food-ordering and travel booking — restaurant table-reservation widgets (OpenTable, Resy, Tock, ResDiary, TableCheck, CoverManager, Formitable, Bookatable, Foratable, Guestonline, Tripleseat, Bottle), hotel/PMS and channel managers (Little Hotelier, Cubilis, Octorate, Eviivo, Clock PMS, Maxxton, LobbyPMS, Elina PMS, Revinate, Straiv, Guesty), short-term-rental platforms (BedBooking, HomHero, Booking Experts, Findigs), food-ordering and delivery (Lieferando, Olo, ChowNow, Menufy, Fleksa, Popmenu, Flipdish, DISH, EatStreet, BeyondMenu, Foodomaa, FoodBooking, GloriaFood) and activity/tour booking (Flybook, Aspio, Planyo, Firefly Reservations, KoobCamp). They embed booking widgets or iframes on the merchant site and on the server side hold guest profiles for the venue. Typical data captured: name, email, phone, postal/delivery address, party size, dietary or accessibility notes, arrival/departure times, room/table preferences, special-occasion flags and frequently payment cards or BNPL hand-offs. Hotel/PMS deployments additionally collect passport/ID numbers, nationality, date of birth and stay history (registration-form/police-report obligations in EU/UK/CN/AE). Channel managers replicate guest data to OTAs (Booking.com, Expedia, Airbnb), making cross-border transfer the default. Squarely in GDPR/CCPA scope and PCI-DSS scope wherever cards are stored or proxied.",
+    "groups": [
+      14
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Reservations & delivery",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2872,11 +3333,17 @@
     "business_function": "analytics",
     "confidence": 9,
     "description": "Referral marketing platforms (Mention Me, Extole, Friendbuy, ReferralCandy, Buyapowa, Talkable, SaaSquatch, Ambassador, Viral Loops, Aklamio, Flocktory, Lootly, EarlyParrot, SparkLoop, Coopt, Refericon, Tapfiliate, eBay Partner Network, Rise.ai) automate refer-a-friend and advocacy programs: they generate per-user share links/codes, attribute referrals across devices via cookies, fingerprints and email matching, distribute rewards and integrate with email service providers, e-commerce platforms and CDPs. They sit on the merchant site as a JS tag and operate a server-side attribution engine that stores both the referrer's and the referee's identifiers (name, email, sometimes social handle, IP, user-agent, purchase value). Because the friend has not transacted with the merchant yet, processing the referee's data is the most contested area legally under GDPR and ePrivacy — France's CNIL, the UK ICO and Spain's AEPD have all flagged refer-a-friend tooling for processing non-customer data without lawful basis, and the ICO's PECR guidance treats unconsented referee email as unlawful direct marketing. CloudSponge, which imports address books from Gmail/Yahoo/Outlook via OAuth, is an especially sensitive sub-case.",
+    "groups": [
+      2,
+      1
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Referral marketing",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -2902,11 +3369,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Digital asset management (DAM) platforms store, catalogue, transform and distribute brand creative — images, video, 3D, PDFs, brand guidelines, product copy and metadata — for marketing, e-commerce and editorial teams. Examples span enterprise DAMs (Aprimo, Censhare, Canto, Celum, Digizuite, THRON, CoreMedia Content Cloud, Picturepark, MediaValet, Widen, Bynder, Brandfolder, Frontify), PIM/DAM hybrids (Bluestone PIM, Salsify, Plytix), brand-portal tools (Frontify, Corebook), media-management for verticals (Aryeo for real-estate, PhotoShelter for Brands, GraphicsFlow for print, Threekit for 3D, Zmags Creator), image CDNs (Cloudinary, Imgix, Cloudimage), open-source/archival (CollectiveAccess, Mirador, Nextcloud, Keepeek, Archeevo) and file-pipeline services (Transloadit). On the public site DAMs typically appear only as a CDN that serves images/videos; the sensitive surface is the back-office portal where authenticated users upload, tag, approve, license and distribute assets. Tier-1 DAMs hold SOC 2 II + ISO 27001/27018. Some hold pre-release/embargoed material, personally-identifying creative (talent shoots, model releases, customer testimonials), EXIF/IPTC geolocation metadata, and contractual licensing data.",
+    "groups": [
+      10
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 4,
     "inherent_third_party_data_sharing_score": 4,
+    "name": "Digital asset management",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -2931,11 +3403,17 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Content curation covers tools that aggregate, filter and re-display third-party or user-generated content (UGC) on a brand's website — social-feed walls and shoppable galleries (Juicer, Tagboard, Tagembed, Foursixty, Covet.pics, Photoslurp, Olapic, Miappi, StoryStream, Postano, FeedMagnet, Cevoid, Bazaarvoice Curation, Pixlee TurnTo, Nosto Visual UGC, Emplifi UGC), content-discovery and editorial-curation tools (Scoop.it, ContentGems, Curated, Sniply, Contently, ContentStudio, Frase), publisher exchanges (CPEx, ePublishing), AI content-generation pipelines (ContentBot, Contents, Klangoo, Rock Content) and UGC commerce widgets (Letro, SnapSea, UGC Creative). They pull posts and media from Instagram, TikTok, X, Facebook and customer-review systems via API, store them server-side, and embed them as widgets/iframes on the merchant site. Because the embeds reference social CDNs and tracking scripts, and because curated posts contain personal data of the original posters (sometimes minors), the category pulls users into ePrivacy/cookie scope, UGC rights/consent obligations, and — in the EU since Feb 2024 — the Digital Services Act (Art 14/16 notice-and-takedown, Art 28 minors protection where applicable).",
+    "groups": [
+      2,
+      18
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 5,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Content curation",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -2962,11 +3440,17 @@
     "business_function": "analytics",
     "confidence": 10,
     "description": "Customer Data Platform (CDP) is the privacy boss-tier of the marketing stack. CDPs (Segment/Twilio, Tealium AudienceStream, mParticle, BlueConic, Adobe Experience Platform Identity Service, Acquia/AgilOne, Lytics, Hull, Simon, Ometria, Lexer, Custobar, Leadspace, SALESmanago, Squeezely, Spotler Activate, Datatrics, FirstHive, Antsomi CDP 365, Bread & Butter, Fueled, Gravito, Enkod, Aptania, Registria, CleverData, Cooladata, Fullpath, PriceSpider, June, Omeda, Optimove, Insider, Exponea, Emarsys, Listrak, Netcore Cloud, Salesforce Audience Studio, Sitecore Engagement Cloud, Treasure Data, Zeotap, Stibo, Rudderstack, Klaviyo Data Platform) ingest first- and third-party event streams from web, app, CRM, POS, email and ad platforms, resolve them to a unified person via identity-graph stitching (deterministic IDs + probabilistic matching on device/IP/email-hash), build segments and push audiences back out to dozens of downstream destinations (Meta, Google Ads, TikTok, email, SMS, push, ad-tech). The result is a centralised, high-fidelity profile of an identified consumer containing behavioural history, contact details, consent state, predicted-value scores and often sensitive attributes inferred via ML. Every major data-protection regime applies; CPRA explicitly treats CDP-to-ad-destination flows as \"sharing for cross-context behavioural advertising\".",
+    "groups": [
+      2,
+      8
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 10,
     "inherent_third_party_data_sharing_score": 10,
+    "name": "Customer data platform",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -2996,11 +3480,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Cart abandonment tools (Recart, Recapture, Barilliance, OptiMonk, Justuno, CartStack, CareCart, Jilt, BiteSpeed) detect when shoppers add items to a cart but leave without completing checkout, then attempt to recover the sale through email reminders, SMS, web push notifications, WhatsApp/Messenger, retargeting ads, and exit-intent popups. They typically rely on client-side tracking scripts, browser fingerprinting, cookie/local-storage identifiers, and integrations with email/ESP platforms (Klaviyo, Mailchimp), ad networks (Meta, Google), and ecommerce platforms (Shopify, WooCommerce, Magento). Because they need to associate an anonymous cart with a contactable identity (email, phone, push token), they aggressively capture and share PII with third-party messaging and advertising endpoints.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Cart abandonment",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3029,11 +3518,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Shipping carriers (DHL, UPS, FedEx, Hermes, DPD, SEUR, MRW, Chronopost, Budbee, Yodel, Österreichische Post, CTT, Trunkrs, Relais Colis, Track123 and regional postal operators) handle parcel pickup, transit, and last-mile delivery. From a web-tech perspective the category covers carrier APIs (label generation, rate quoting, tracking), tracking widgets embedded in merchant order pages, and customer-facing tracking portals. They process full shipping addresses, recipient names, phone numbers, email addresses, and order metadata, and often share that data across logistics partners, customs authorities, and notification providers (SMS/email).",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Shipping carriers",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -3061,11 +3555,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Shopify apps are third-party extensions distributed through the Shopify App Store that add functionality to merchant stores: upsells, reviews, page builders, custom fields, loyalty, returns, subscriptions, push, analytics, and more. Apps inject script tags (via ScriptTag or the Theme App Extension framework), embed Liquid snippets, register webhooks, and call the Shopify Admin/Storefront GraphQL APIs under broad OAuth scopes that frequently include read_customers, read_orders, and write_orders. Many also load their own remote JavaScript on storefront and checkout pages.",
+    "groups": [
+      15
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 9,
+    "name": "Shopify apps",
     "placement": "mixed",
+    "priority": 8,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -3095,11 +3594,17 @@
     "business_function": "productivity",
     "confidence": 10,
     "description": "Recruitment and staffing platforms (Greenhouse, Lever, Workable, JobAdder, Eploy, Jobylon, Comeet, Vincere, ApplicantStack, Hireology, Radancy, Ellucian CRM Recruit, HrFlow.ai, PCRecruiter, OTYS, onlyfy) are applicant tracking systems (ATS), career-site builders, and recruitment CRMs. They ingest highly sensitive applicant data: full names, contact details, work history, resumes/CVs, cover letters, references, salary expectations, and increasingly demographic, EEO/DEI, and right-to-work data, plus assessment and interview recordings. Many integrate AI screening/scoring, video interviewing, background-check vendors, and HRIS systems, and embed tracking pixels on public job pages.",
+    "groups": [
+      6,
+      16
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 10,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Recruitment & staffing",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3129,11 +3634,16 @@
     "business_function": "commerce",
     "confidence": 8,
     "description": "Returns management platforms (Loop Returns, Narvar, Happy Returns, AfterShip Returns Center, Returnly, ReturnGO, Return Prime, Seko OmniReturns, Reshop, Refundid, Seel, ParcelPanel, ShippyPro) provide branded return portals, RMA workflows, label generation, exchange/store-credit logic, and integrations with carriers and ecommerce platforms. They handle customer identity, order history, return reasons (sometimes including health/sizing context), refund routing, and in some cases instant-refund underwriting. Most operate as SaaS with embedded JS widgets on merchant storefronts and webhook integrations into Shopify/Magento/BigCommerce.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Returns",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -3160,11 +3670,17 @@
     "business_function": "media",
     "confidence": 8,
     "description": "Livestreaming platforms and SDKs (Cloudflare Stream, Kaltura, Loom, Vonage Video API, Dyte, Bambuser, Firework, Livescale, BigMarker, MediaPlatform, Klarna Virtual Shopping, Trovo, EasyWebinar, Conviva, Apizee) ingest, transcode, distribute, and analyse live or near-live video over HLS/DASH/WebRTC. Use cases include broadcast streaming, webinars, live-shopping, video customer service, and embedded player widgets. They collect device, network, geolocation, viewer identity, chat content, and detailed quality-of-experience telemetry; live-commerce variants additionally integrate cart and payment flows.",
+    "groups": [
+      1,
+      10
+    ],
     "inherent_attack_surface_score": 6,
     "inherent_pii_exposure_score": 6,
     "inherent_privacy_risk_score": 7,
     "inherent_third_party_data_sharing_score": 6,
+    "name": "Livestreaming",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "moderate",
     "regulatory_relevance": [
       "gdpr",
@@ -3193,11 +3709,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Ticket booking and event registration platforms (Etix, Ticketure, Tix, Tickera, SquadUP, PromoTix, HoldMyTicket, Race Roster, Haku, Droplabs, Ventrata, Beyonk, Saffire, Bileto, Cooltix, Asksuite, ClickBus, KKTIX, Invitario, Gevme, HelixPay, Planning Pod, Fatsoma, Starboard Suite) handle event discovery, seat/inventory selection, attendee registration, payment, and ticket delivery for concerts, tours, attractions, transport, and conferences. They process buyer and attendee identity, contact details, payment card data (usually via tokenised PSPs), and increasingly ID-verification, age-gating, and vaccination/health data, plus location and behavioural data for fraud and dynamic pricing.",
+    "groups": [
+      14
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Ticket booking",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3227,11 +3748,16 @@
     "business_function": "media",
     "confidence": 9,
     "description": "Augmented reality (AR) technologies overlay computer-generated content onto live camera feeds or environmental scans, enabling virtual try-on (eyewear, cosmetics, apparel, jewellery), product visualisation, 3D model viewing, and immersive ecommerce experiences. Vendors range from face-tracking SDKs (DeepAR, ModiFace, Perfect Corp, YouCam) and virtual fitting solutions (Fittingbox, Luna, Auglio, Tangiblee, mirrAR) to 3D viewer/configurator platforms (Threekit, Vectary, Cylindo, <model-viewer>, A-Frame). They typically require camera access, may capture facial geometry, body measurements, depth/spatial data, and run as client-side JavaScript/WebGL or native SDKs embedded in retailer storefronts and mobile apps.",
+    "groups": [
+      10
+    ],
     "inherent_attack_surface_score": 5,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Augmented reality",
     "placement": "client",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3258,11 +3784,16 @@
     "business_function": "commerce",
     "confidence": 8,
     "description": "Cross-border ecommerce platforms enable retailers to sell internationally by handling localised storefronts, multi-currency pricing, duty/tax calculation (DDP), VAT/IOSS registration, customs documentation, international shipping orchestration, fraud screening and global payment acceptance. Vendors include merchant-of-record providers (ESW, Global-e, Zonos, Borderfree, Passport), localisation specialists (Glopal, Localised), payments-led players (Flow, Reach) and region-specific gateways (Azoya for China, WorldShopping for Japan). They sit between the merchant store and the consumer, handling identity, address, payment and tax-ID data across many legal jurisdictions.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Cross border ecommerce",
     "placement": "mixed",
+    "priority": 6,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -3291,11 +3822,16 @@
     "business_function": "commerce",
     "confidence": 8,
     "description": "Fulfilment technologies handle the post-checkout supply-chain workflow: warehouse management (WMS), order routing, multi-carrier shipping label generation, inventory sync, returns processing and consumer-facing shipment tracking. Examples include WMS/order platforms (VeraCore, MapMyChannel, Bobgo, Enviopack), branded tracking & shipping protection (AfterShip, Malomo, Route, Extend), 3PL operators (Bleckmann, Deliverr, Planzer) and large logistics platforms (Descartes, ShopRunner). They process customer name, shipping address, phone, order contents and sometimes signed delivery proofs, integrating via API/webhooks with Shopify, Magento, NetSuite and carrier networks.",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 8,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 7,
+    "name": "Fulfilment",
     "placement": "mixed",
+    "priority": 6,
     "recommended_scrutiny_level": "high",
     "regulatory_relevance": [
       "gdpr",
@@ -3322,11 +3858,16 @@
     "business_function": "commerce",
     "confidence": 9,
     "description": "Ecommerce frontends are the storefront rendering layer of an online shop — themes, headless/PWA frameworks and frontend-as-a-service platforms that talk to a backend commerce engine (Magento, Shopify, BigCommerce, commercetools). Includes open-source themes/frameworks (Hyva, Breeze, ScandiPWA, Vue Storefront, PWA Studio, Front-Commerce, E-Com Plus), commercial FE platforms (Shogun Frontend, Makaira, Deco.cx, Platter) and product-customisers/UX add-ons (Aiden, Kickflip, Argento). They run primarily in the browser, render checkout pages, and load many third-party scripts (payment, analytics, tag managers, chat).",
+    "groups": [
+      1
+    ],
     "inherent_attack_surface_score": 8,
     "inherent_pii_exposure_score": 7,
     "inherent_privacy_risk_score": 6,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Ecommerce frontends",
     "placement": "client",
+    "priority": 6,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3355,11 +3896,16 @@
     "business_function": "content",
     "confidence": 9,
     "description": "Domain parking refers to the practice of monetising unused or registered-but-undeveloped domain names by serving them through a parking page — typically an auto-generated lander filled with pay-per-click (PPC) advertising, related-keyword links, \"Buy this domain\" forms, or affiliate redirects. Operators include registrar-attached parking services (GoDaddy CashParking, Arsys, Verisign-adjacent ecosystems), dedicated parking networks (Sedo, Bodis, Team Internet/Skenzo, Above.com) and free-subdomain offerings (JS.org). Parked pages are static or thin client pages and frequently use bidstream ad networks, server-side fingerprinting and conditional redirects (cloaking).",
+    "groups": [
+      6
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 4,
     "inherent_privacy_risk_score": 9,
     "inherent_third_party_data_sharing_score": 10,
+    "name": "Domain parking",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3385,11 +3931,16 @@
     "business_function": "productivity",
     "confidence": 9,
     "description": "Form builders are no-code/low-code platforms that let non-developers create web forms, surveys, quizzes, multi-step funnels, lead-capture pop-ups and registration flows that are embedded on third-party sites or hosted on the vendor's domain. Submissions are stored in the vendor's cloud and forwarded to email, CRMs and webhooks. Examples span SaaS giants and embedded niche tools (Typeform-like Heyflow, Formsite, Marquiz, Formaloo, Reform, Formless, NativeForms), backend-only services (Basin, Slapform), WordPress/Shopify plugins (Quform, Globo, HulkApps, Pabbly, Funnelforms) and HIPAA-specific (FormDr).",
+    "groups": [
+      8
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Form builders",
     "placement": "client",
+    "priority": 8,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "gdpr",
@@ -3421,11 +3972,16 @@
     "business_function": "payment",
     "confidence": 9,
     "description": "Fundraising & donations platforms enable charities, nonprofits, educational institutions, political campaigns and crowdfunding causes to accept online contributions. They provide donation forms, recurring-giving, peer-to-peer pages, text-to-give, mobile bidding/auctions, donor CRMs and receipt/tax-letter generation. Examples include Donorbox, GiveWP, Classy, Qgiv, Kindful, Raisely, GiveSmart, OneCause, FundRazr, iRaiser, GiveCampus, RaiseDonors, Vanco, Click & Pledge, Frontstream, Neon CRM and microlender Kiva. They embed widgets/iframes on charity sites or host donation pages on the vendor domain, integrating with Stripe, Braintree, PayPal and ACH processors.",
+    "groups": [
+      6
+    ],
     "inherent_attack_surface_score": 7,
     "inherent_pii_exposure_score": 9,
     "inherent_privacy_risk_score": 8,
     "inherent_third_party_data_sharing_score": 8,
+    "name": "Fundraising & donations",
     "placement": "mixed",
+    "priority": 9,
     "recommended_scrutiny_level": "critical",
     "regulatory_relevance": [
       "pci-dss",

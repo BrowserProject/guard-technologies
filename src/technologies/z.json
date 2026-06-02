@@ -2,8 +2,13 @@
   "Zabbix": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      19
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
+    "description": "Zabbix is an open-source monitoring tool that provides real-time monitoring, alerting, and reporting for IT infrastructure, including networks, servers, and applications.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -15,10 +20,24 @@
     "headquarters_country": "LV",
     "hipaa_compliant": false,
     "history": "Zabbix was created by Alexei Vladishev in 1998 as an internal monitoring tool and open-sourced in 2001. Zabbix LLC is based in Latvia and provides commercial support and enterprise versions. It is now a major open-source enterprise monitoring platform.",
+    "html": [
+      "<body[^>]+zbxCallPostScripts"
+    ],
+    "icon": "Zabbix.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "zbxCallPostScripts": ""
+    },
     "kind": "oss-project",
     "license_type": "agpl-3.0",
     "maintenance_status": "active",
+    "meta": {
+      "Author": "ZABBIX SIA\\;confidence:70"
+    },
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -33,14 +52,22 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zabbix has no notable abuse signal; it is a network monitoring platform deployed as internal infrastructure with no consumer-facing surface that fraudsters would target.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 7
+    "url": [
+      "\\/zabbix\\/\\;confidence:30"
+    ],
+    "vendor_stability_score": 7,
+    "website": "https://zabbix.com"
   },
   "Zad": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zad is an ecommerce platform designed to enable setup and management of secure online stores for businesses and entrepreneurs.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -52,6 +79,7 @@
     "headquarters_country": "JO",
     "hipaa_compliant": false,
     "history": "Zad is a Jordanian e-commerce platform designed to help businesses and entrepreneurs set up and manage secure online stores in the MENA region.",
+    "icon": "Zad.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -60,22 +88,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "zad\\.nyc3\\.digitaloceanspaces"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zad is a MENA-focused e-commerce platform with a free tier. As a hosted store builder it carries some inherent risk for scam storefronts, though no specific documented incidents are known.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zad.gg",
     "white_label_wrapper_likelihood": 3
   },
   "Zadarma": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      30
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zadarma is a VoIP service that provides cloud-based voice communications for businesses, supporting internet calling, virtual phone numbers, and call management features.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -87,6 +129,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Zadarma is a VoIP provider founded in 2006, offering cloud-based voice communications, virtual phone numbers, and cloud PBX services for businesses globally.",
+    "icon": "Zadarma.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -95,23 +138,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "my\\.zadarma\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zadarma is a VoIP service; VoIP providers can be used for spam calls and voice phishing (vishing). Zadarma provides virtual phone numbers that could be misused for SMS verification bypass, but no specific large-scale incidents are documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://zadarma.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zakeke": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zakeke is a product customisation tool compatible with services and apps mostly used to manage ecommerce store.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -123,7 +180,14 @@
     "headquarters_country": "IT",
     "hipaa_compliant": false,
     "history": "Zakeke was founded in 2017 in Milan, Italy, and provides live product personalization, 3D product configuration, and AR visualization tools for ecommerce. The company raised €2 million in October 2023 to expand its visual commerce capabilities globally. Investors include CDP Venture Capital, ComoNext, Polihub, and Berrier Capital. Zakeke has been presented at Italy's Ministry of Enterprises and Made in Italy as an Italian tech innovation.",
+    "icon": "Zakeke.png",
     "iso27001": false,
+    "js": {
+      "zakekeBoot": "",
+      "zakekeCustomizeLabel": "",
+      "zakekeLoading": "",
+      "zakekeProductPage": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -131,9 +195,14 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.eu-startups.com/2023/10/milan-based-zakeke-secures-e2-million-to-become-the-go-to-visual-commerce-partner-for-global-brands/"
@@ -142,14 +211,20 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.zakeke.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zakeke Interactive Product Designer": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87,
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zakeke Interactive Product Designer lets customers personalise any product and visualise how they’ll look before checking out.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -161,6 +236,10 @@
     "headquarters_country": "IT",
     "hipaa_compliant": false,
     "history": "Zakeke Interactive Product Designer is a product from the Italian Zakeke company, offering product personalization for online stores.",
+    "icon": "Zakeke.png",
+    "implies": [
+      "Zakeke"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -170,22 +249,39 @@
     "parent_company": "Zakeke",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "requires": [
+      "WooCommerce"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "/wp-content/plugins/zakeke-interactive-product-designer/.+\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zakeke Interactive Product Designer has no notable abuse signal; it is a product customization tool.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zakeke.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zakeke Visual Customizer": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      100,
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zakeke Visual Customizer is a cloud-connected visual ecommerce tool that allows brands and retailers to offer live, personalised, 2D, 3D, and augmented reality (AR) functionality for their products.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -197,6 +293,10 @@
     "headquarters_country": "IT",
     "hipaa_compliant": false,
     "history": "Zakeke Visual Customizer is a product from the Italian Zakeke company for 3D visual product customization in ecommerce.",
+    "icon": "Zakeke.png",
+    "implies": [
+      "Zakeke"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -206,22 +306,41 @@
     "parent_company": "Zakeke",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.zakeke\\.com/Scripts/integration/shopify/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zakeke Visual Customizer has no notable abuse signal; it is an ecommerce customization tool.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zakeke.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zakra": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      80
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zakra is flexible, fast, lightweight and modern multipurpose WordPress theme that comes with many starter free sites.",
+    "dom": [
+      "link#zakra-style-css"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -233,7 +352,12 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zakra is a WordPress theme developed by ThemeGrill, a Nepali/Indian WordPress theme shop, first released around 2019.",
+    "icon": "Zakra.svg",
     "iso27001": false,
+    "js": {
+      "zakraFrontend": "",
+      "zakraNavHelper.dimension": ""
+    },
     "kind": "commercial-product",
     "license_type": "gpl-2.0",
     "maintenance_status": "active",
@@ -241,23 +365,40 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring",
+      "onetime"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/themes/zakra/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zakra is a WordPress theme with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zakratheme.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zalify": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Zalify is a data-driven growth engine for Shopify merchants, designed to provide agility and precision in the ecommerce environment.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -268,7 +409,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Zalify is a data-driven growth and analytics platform for Shopify merchants; no notable founding date or ownership events are documented.",
+    "icon": "Zalify.svg",
     "iso27001": false,
+    "js": {
+      "zalify.render": "",
+      "zalifyCurrentScript": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -276,22 +422,42 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.zalify\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zalify is a Shopify analytics and growth platform with no notable abuse signal. It operates within the Shopify ecosystem.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.zalify.com",
     "white_label_wrapper_likelihood": 3
   },
   "Zammad": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      13
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "description": "Zammad is a web-based, open-source support and ticketing system designed for managing user inquiries and organizing customer service workflows.",
+    "dom": [
+      "script[id*='zammad_form_script']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -303,6 +469,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Zammad is a German open-source helpdesk and customer support ticketing system first released in 2016, built by Zammad GmbH in Berlin. It is available as self-hosted or cloud.",
+    "icon": "Zammad.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "agpl-3.0",
@@ -314,18 +481,24 @@
     "pricing_model": "dual-license",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zammad has no notable abuse signal; it is a helpdesk ticketing system with no consumer-facing surface that fraudsters would target.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://zammad.org"
   },
   "Zammit": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zammit is an ecommerce platform based in Egypt.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -345,19 +518,31 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "merchants\\.zammit\\.shop/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zammit is a MENA-focused e-commerce platform with a free tier. As a hosted store builder it carries some inherent risk for scam storefronts, though no specific documented incidents are known.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.zammit.shop",
     "white_label_wrapper_likelihood": 3
   },
   "Zanox": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
@@ -372,7 +557,14 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Zanox was a German affiliate marketing network founded in 2000. It was rebranded to Awin when the Awin and Zanox affiliate networks merged in 2017 under the Axel Springer / PubliGroupe structure.",
+    "html": [
+      "<img [^>]*src=\"[^\"]+ad\\.zanox\\.com"
+    ],
+    "icon": "Zanox.png",
     "iso27001": false,
+    "js": {
+      "zanox": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "deprecated",
@@ -384,19 +576,27 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 2,
     "privacy_score": 3,
+    "scriptSrc": [
+      "zanox\\.com/scripts/zanox\\.js$"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zanox (now Awin) was an affiliate marketing network. Affiliate networks can be used by bad actors for cookie stuffing, fraudulent click traffic, and fake conversion schemes, though this is industry-wide. The network has been rebranded and merged into Awin.",
     "technical_depth_score": 5,
     "tracker_density": "heavy",
     "vendor_stability_score": 7,
+    "website": "https://zanox.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zapiet": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zapiet is a store pickup and local delivery solution for ecommerce.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -408,7 +608,11 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Zapiet was founded in 2015 by Andrew Cargill in the United Kingdom. The company provides store pickup, local delivery, and shipping scheduling tools exclusively for Shopify merchants. What began as a simple pickup app has grown into a platform serving thousands of merchants across more than 150 countries, with a remote-first team.",
+    "icon": "Zapiet.svg",
     "iso27001": false,
+    "js": {
+      "Zapiet": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -416,9 +620,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.zapiet\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://zapiet.com/company"
@@ -427,14 +640,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.zapiet.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zapnito": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zapnito is a platform that enables B2B organizations to manage and scale digital engagement, education, and community-driven growth through integrated content and experience tools.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2014,
@@ -446,7 +664,12 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Zapnito was founded in 2014 by Charles Thiede and Jon Beer in London, UK. The company provides a B2B community and knowledge platform for enterprise clients, offering tools for digital engagement, content management, courses, events, and community building under branded domains. Zapnito raised a £3.3M Series A round from Octopus Ventures in June 2021.",
+    "icon": "Zapnito.svg",
     "iso27001": false,
+    "js": {
+      "webpackChunkzapnito_web": "",
+      "zapnito.abilities": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -454,9 +677,18 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.zapnito\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/zapnito/__m_I2tf1zWGVLvr14CzesvWhpqEQOv3u0h-KUcgoI-eg",
@@ -466,14 +698,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://zapnito.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zarla": {
     "abuse_score": 3,
     "ai_generated_likelihood": 7,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zarla is a website builder designed for small businesses, offering SEO optimization features to improve online visibility.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -485,6 +722,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zarla is an AI-powered website builder targeting small businesses with SEO-optimised content generation. It offers a free tier with a custom domain and paid plans starting at under $3/month.",
+    "icon": "Zarla.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -493,9 +731,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 9,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "cdn\\.zarlasites\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.zarla.com/",
@@ -506,14 +753,22 @@
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.zarla.com",
     "white_label_wrapper_likelihood": 3
   },
   "Zaxaa": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zaxaa is a sales funnel service designed to streamline the process of managing leads, nurturing prospects, and converting them into customers.",
+    "dom": [
+      "a[href*='.zaxaa.com'] > img[src*='www.zaxaa.com']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -525,6 +780,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zaxaa is a sales funnel and digital product delivery platform for online course creators and info-product sellers.",
+    "icon": "Zaxaa.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -533,22 +789,33 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zaxaa is a sales funnel platform with no notable abuse signal documented.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zaxaa.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zeabur": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      62
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zeabur is a platform for running full stack apps and databases.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -557,9 +824,13 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-Zeabur-Request-Id": ""
+    },
     "headquarters_country": "HK",
     "hipaa_compliant": false,
     "history": "Zeabur is a cloud deployment platform founded around 2022, targeting developers who want to deploy full-stack applications quickly without DevOps overhead.",
+    "icon": "zeabur.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -568,6 +839,10 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
@@ -577,14 +852,22 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zeabur.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zeald": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "ZES_BACKEND": "zeald"
+    },
     "dark_pattern_likelihood": 2,
+    "description": "Zeald is a full-service website design and digital marketing company.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -596,6 +879,7 @@
     "headquarters_country": "NZ",
     "hipaa_compliant": false,
     "history": "Zeald was founded in 2001 by three founders from Mangawhai Heads, New Zealand. The company has become New Zealand's largest website design and digital transformation agency, specializing in ecommerce. Over more than two decades, Zeald has served over 15,000 New Zealand businesses and processed more than NZ$2 billion through its proprietary ecommerce platform called ZEST. The company has offices in both New Zealand and Australia.",
+    "icon": "Zeald.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -604,9 +888,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "requires": [
+      "Cart Functionality"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.zeald.com/about/Our+History.html"
@@ -615,14 +905,22 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.zeald.com",
     "white_label_wrapper_likelihood": 1
   },
   "ZeeMaps": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      35
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "ZeeMaps is a custom map generation service that enables users to create personalized maps with location markers, regions, and annotations.",
+    "dom": [
+      "iframe[src*='www.zeemaps.com/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -634,7 +932,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "ZeeMaps is a custom map creation service founded around 2007, allowing users to create shareable maps with custom markers.",
+    "icon": "ZeeMaps.svg",
     "iso27001": false,
+    "js": {
+      "webpackChunkZeeMaps": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -642,23 +944,33 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "ZeeMaps is a mapping service with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.zeemaps.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zeleris": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      99
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zeleris provides door to door shipment delivery to Ireland, UK and the EU.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 1999,
@@ -682,19 +994,29 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "requiresCategory": [
+      6
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/zeleris/__C9YhVsHa4tW0RVeMyfPRwPD-B-vD90DgKpocILw53NE"
     ],
     "summary_abuse": "Zeleris is a logistics and delivery subsidiary of Telefónica with no notable abuse signal. The platform is a B2B shipping service used by businesses to ship parcels, with no consumer-facing surface that would attract phishing or fraud. No documented abuse incidents are associated with Zeleris.",
     "technical_depth_score": 5,
+    "text": [
+      "\\bZeleris\\b"
+    ],
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.zeleris.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zen Cart": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "enterprise_adoption": "none",
@@ -707,10 +1029,14 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Zen Cart was forked from osCommerce in 2003 by a group of developers who wanted a more user-friendly ecommerce platform. It remains community-maintained and is one of the oldest open-source ecommerce platforms still in use.",
+    "icon": "Zen Cart.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "gpl-2.0",
     "maintenance_status": "maintained",
+    "meta": {
+      "generator": "Zen Cart"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -725,14 +1051,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zen Cart is a self-hosted ecommerce platform. Older versions have had security vulnerabilities that fraudsters have exploited for card skimming attacks (Magecart-style), though these affect the installer rather than the software itself hosting abuse. Legitimate use dominates; abuse typically arises from unpatched installations.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://www.zen-cart.com"
   },
   "Zen Planner": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zen Planner is a software platform designed for fitness and wellness businesses, offering features such as membership management, class scheduling, and billing automation.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -744,7 +1075,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zen Planner is a fitness studio management software founded around 2006, primarily serving gyms, martial arts studios, and yoga studios. It is part of the Active Network fitness portfolio.",
+    "icon": "Zen Planner.svg",
     "iso27001": false,
+    "js": {
+      "zenplanner": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -753,22 +1088,50 @@
     "parent_company": "Active Network",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zenplanner\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zen Planner is a fitness studio management platform with no notable abuse signal.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://zenplanner.com",
     "white_label_wrapper_likelihood": 1
   },
   "ZenBasket": {
     "abuse_score": 3,
     "ai_generated_likelihood": 4,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "cookies": {
+      "zenbasket_session": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "ZenBasket is a modern e-commerce website builder that allows users to create, customize, and manage online stores with drag-and-drop features and integrated payment solutions.",
+    "dom": {
+      "img[src*='getzenbasket.com']": {
+        "attributes": {
+          "src": "(?:cdn\\.|assets\\.|[a-z]{2}\\.images\\.)getzenbasket\\.com\\;confidence:50"
+        }
+      },
+      "link[href*='getzenbasket.com']": {
+        "attributes": {
+          "href": "(?:cdn\\.|assets\\.|[a-z]{2}\\.images\\.)getzenbasket\\.com\\;confidence:50"
+        }
+      }
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -780,30 +1143,61 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "ZenBasket is a modern e-commerce website builder with drag-and-drop features and integrated payments for online stores.",
+    "icon": "ZenBasket.svg",
     "iso27001": false,
+    "js": {
+      "ZenBasket": ";confidence:25",
+      "ZenBasketApp": "",
+      "ZenBasketStore": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "ZenBasket\\;confidence:50",
+      "zenbasket-platform": ""
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "mid",
+      "recurring",
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.getzenbasket\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "ZenBasket is an e-commerce store builder with a free tier. Free hosted e-commerce platforms carry moderate risk for scam storefronts, though no specific documented incidents are known for ZenBasket.",
     "technical_depth_score": 4,
     "tracker_density": "light",
+    "url": [
+      "^https?//.+\\.getzenbasket\\.com"
+    ],
     "vendor_stability_score": 3,
-    "white_label_wrapper_likelihood": 3
+    "website": "https://getzenbasket.com",
+    "white_label_wrapper_likelihood": 3,
+    "xhr": [
+      "\\.getzenbasket\\.com"
+    ]
   },
   "Zenbooker": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zenbooker is a system that enables users to book appointments or reservations online.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -815,7 +1209,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zenbooker is an online appointment and reservation booking system for service businesses. No notable ownership changes are documented.",
+    "icon": "Zenbooker.svg",
     "iso27001": false,
+    "js": {
+      "Zenbooker.BadgeWidget": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -823,22 +1221,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zenbooker is an appointment booking system with no notable abuse signal.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zenbooker.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zenchef": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zenchef is a restaurant management software solution that simplifies the customer restaurant experience.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -850,6 +1258,7 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Zenchef was founded around 2010-2011 in Paris, France, originally as 1001 Menus before rebranding to Zenchef. The company provides restaurant management and reservation software used by restaurants across Northern Europe. In 2022 PSG Equity invested over €50 million in Zenchef. In July 2025 Zenchef and Spanish company CoverManager announced a merger to create a European leader in restaurant revenue management, with the combined entity having over 500 employees in 10 countries.",
+    "icon": "Zenchef.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -858,9 +1267,16 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "sdk\\.zenchef\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://psgequity.com/news/covermanager-and-zenchef-join-forces-to-create-a-leading-european-restaurant-revenue-management-platform",
@@ -871,14 +1287,23 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.zenchef.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zend": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "ZENDSERVERSESSID": ""
+    },
+    "cpe": "cpe:2.3:a:zend:zend_server:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
+    "description": "Zend is a company that provides PHP development tools and solutions, including frameworks, servers, and development environments, to help developers build, deploy, and manage PHP applications.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1999,
@@ -887,9 +1312,13 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-Powered-By": "Zend(?:Server)?(?:[\\s/]?([0-9.]+))?\\;version:\\1"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zend Technologies was founded in 1999 by Zeev Suraski and Andi Gutmans, the co-creators of PHP 3. It provided the Zend Engine (the PHP runtime) and commercial PHP tools. Zend was acquired by Rogue Wave Software in 2015, which was then acquired by Perforce Software in 2019.",
+    "icon": "Zend.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "mixed",
@@ -908,14 +1337,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://zend.com",
     "white_label_wrapper_likelihood": 0
   },
   "ZendApps": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "ZendApps is a tool designed to grow Shopify stores by streamlining operations and enhancing performance through automated features.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -926,6 +1360,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "ZendApps is a Shopify store optimization app suite; no notable founding date or ownership events are documented.",
+    "icon": "ZendApps.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -937,20 +1372,44 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.zend-apps\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "ZendApps is a Shopify app suite with no notable abuse signal. It operates within Shopify's app ecosystem.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zendapps.com",
     "white_label_wrapper_likelihood": 3
   },
   "Zendesk": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      4,
+      13,
+      52
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
+    "cookies": {
+      "_help_center_session": "",
+      "_zendesk_cookie": "",
+      "_zendesk_shared_session": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "Zendesk is a cloud-based help desk management solution offering customizable tools to build customer service portal, knowledge base and online communities.",
+    "dns": {
+      "TXT": [
+        "mail\\.zendesk\\.com"
+      ]
+    },
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -959,10 +1418,17 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": false,
+    "headers": {
+      "x-zendesk-user-id": ""
+    },
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Founded in 2007 in Copenhagen, Denmark by Mikkel Svane, Morten Primdahl, and Alexander Aghassipour, Zendesk moved its headquarters to San Francisco. The company went public on the NYSE in 2014 and grew to become a leading customer service platform. In 2022, a private equity consortium led by Hellman & Friedman and Permira acquired Zendesk for approximately $10.2 billion, taking the company private.",
+    "icon": "Zendesk.svg",
     "iso27001": true,
+    "js": {
+      "Zendesk": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -970,9 +1436,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "dominant",
+    "pricing": [
+      "low"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "static\\.zdassets\\.com"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Zendesk",
@@ -984,14 +1457,19 @@
     "technical_depth_score": 8,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://zendesk.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zendesk Chat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "Zendesk Chat is a live chat and communication widget.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -1003,6 +1481,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Zendesk Chat originated as Zopim, a live chat product founded in Singapore in 2008. Zendesk acquired Zopim in 2014 and rebranded it as Zendesk Chat, integrating it as the live chat component of the Zendesk platform. It is now part of the broader Zendesk messaging suite.",
+    "icon": "Zendesk.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1012,23 +1491,36 @@
     "parent_company": "Zendesk",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "v2\\.zopim\\.com"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zendesk Chat has no notable abuse profile. It is a B2B live chat widget deployed on business websites and does not provide consumer-facing content hosting or anonymous signups. The Zendesk platform's anti-abuse posture, including SOC 2 Type 2, GDPR compliance, and a published AUP, applies equally to this product. Legitimate enterprise use overwhelmingly dominates.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zendesk.com/service/messaging/live-chat-software/",
     "white_label_wrapper_likelihood": 0
   },
   "Zendesk Sunshine Conversations": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zendesk Sunshine Conversations lets you share a single, continuous conversation with every team in your business. With a unified API and native connectors to popular business applications like Zendesk and Slack, everyone in your organization can get access to a single view of the customer conversation.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -1040,6 +1532,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Zendesk Sunshine Conversations originated as Smooch, a messaging platform founded in 2013 in Montreal, Canada. Zendesk acquired Smooch in 2019 and rebranded it as Sunshine Conversations as part of its Zendesk Sunshine CRM platform launch. It provides a unified API for omnichannel customer conversations across multiple messaging channels.",
+    "icon": "Zendesk.svg",
+    "implies": [
+      "Zendesk"
+    ],
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1049,9 +1545,17 @@
     "parent_company": "Zendesk",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.smooch\\.io/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://www.zendesk.com/blog/zendesk-acquires-smooch/"
@@ -1060,14 +1564,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zendesk.com/platform/conversations",
     "white_label_wrapper_likelihood": 0
   },
   "Zenfolio": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      7
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zenfolio is a photography website builder.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2006,
@@ -1079,7 +1588,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zenfolio was founded around 2006 as a photography website builder for professional and hobbyist photographers. It offers portfolio hosting, client galleries, and print sales. The company has remained independent serving the photography market.",
+    "icon": "Zenfolio.png",
     "iso27001": false,
+    "js": {
+      "Zenfolio": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1096,14 +1609,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://zenfolio.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zenler": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      21
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zenler is a course creation platform that combines live classes, webinars, community building, and marketing tools in one system.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -1114,6 +1632,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Zenler is a course creation platform combining live classes, webinars, and community features. It is a small independent SaaS competing in the online course market with limited public history.",
+    "icon": "Zenler.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1122,23 +1641,36 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "webtracker\\.newzenler\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zenler has no notable abuse signal. It is a course creation and LMS platform where content is produced by registered instructors. No documented phishing or fraud patterns are associated with it.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.newzenler.com",
     "white_label_wrapper_likelihood": 1
   },
   "ZenMaid": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "ZenMaid is a residential cleaning scheduling software that helps manage appointments.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -1150,6 +1682,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "ZenMaid was founded in April 2013 by Amar Ghose in Palo Alto, California. Ghose founded the company after running his own maid service, Fast Friendly Spotless, in 2012 and identifying the lack of purpose-built scheduling software for cleaning businesses. The platform has grown to serve over 3,000 maid service owners.",
+    "icon": "ZenMaid.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1158,9 +1691,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "app\\.zenmaid\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://get.zenmaid.com/about",
@@ -1170,14 +1712,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://get.zenmaid.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zenoti": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zenoti is a cloud-based business software for spas, salons, and medspas, providing tools for managing appointment books, employee scheduling, and enabling online booking.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2010,
@@ -1189,30 +1736,47 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zenoti was founded in 2010 and provides cloud-based management software for spas, salons, and medspas. The company is headquartered in Bellevue, Washington, and has raised significant venture capital funding, growing to serve enterprise spa and salon chains globally.",
+    "icon": "Zenoti.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "Author": "^zenoti$"
+    },
     "overall_trust_score": 6,
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 2,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "\\.zenoti\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zenoti has no notable abuse signal. It is a B2B vertical SaaS for spa and salon management with no consumer-facing anonymous content hosting or features targeted by fraudsters.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.zenoti.com/",
     "white_label_wrapper_likelihood": 0
   },
   "Zenrez": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zenrez is a provider of sales and marketing software designed for boutique fitness studios, with a focus on revenue management.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -1224,6 +1788,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zenrez is a sales and marketing software provider targeting boutique fitness studios, offering tools to fill last-minute class openings. It is a small independent SaaS serving the fitness vertical.",
+    "icon": "Zenrez.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1235,18 +1800,27 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "widget\\.zenrez\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zenrez has no notable abuse signal. It is a niche marketing SaaS for boutique fitness studios with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zenrez.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zensical": {
     "abuse_score": 0,
     "ai_generated_likelihood": 3,
+    "cats": [
+      4
+    ],
     "company_size_bucket": "solo",
     "confidence": 3,
+    "description": "Zensical is an open-source platform that enables scalable technical-writing systems designed to maintain uninterrupted workflow.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1257,10 +1831,15 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Zensical is an open-source technical writing documentation platform focused on scalability; no notable founding date or ownership events are documented.",
+    "icon": "Zensical.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "zensical-([\\d\\.]+)\\;version:\\1"
+    },
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1272,14 +1851,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zensical is an open-source documentation platform with no abuse signal. It is a self-hosted tool with no consumer-facing content surface.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 2
+    "vendor_stability_score": 2,
+    "website": "https://zensical.org"
   },
   "Zentap": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zentap is a real estate marketing platform designed to create and manage marketing campaigns, track leads, and measure results.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -1291,30 +1875,45 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zentap is a real estate marketing platform offering tools for agents to create and manage marketing content including social media and video. It is a small independent SaaS in the real estate tech vertical.",
+    "icon": "Zentap.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "Zentap"
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zentap has no notable abuse signal. It is a marketing content tool for real estate agents, not a platform commonly exploited for fraud or phishing.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://zentap.com",
     "white_label_wrapper_likelihood": 3
   },
   "Zenu": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zenu is an all-in-one CRM solution designed to manage real estate operations, including client interactions, property listings, and sales processes.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -1326,7 +1925,12 @@
     "headquarters_country": "AU",
     "hipaa_compliant": false,
     "history": "Zenu was founded in 2016 in Cremorne, Victoria, Australia. The company is a 100% Australian-owned private company providing a real estate CRM and website builder platform. The platform serves over 6,000 real estate agents across Australia, offering CRM tools, property listing management, automation features, and custom website development.",
+    "icon": "Zenu.svg",
     "iso27001": false,
+    "js": {
+      "zenuDebug": "",
+      "zenuHp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1334,9 +1938,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "assets\\.zenu\\.com\\.au"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/zenu/__GbVUwRJ7a29x2YyiTUIZ6hFALB7Hejf35t4_RPRFd-o",
@@ -1346,14 +1955,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zenu.com.au",
     "white_label_wrapper_likelihood": 1
   },
   "Zenvia": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zenvia is a customer engagement platform that enables businesses to communicate with clients through multiple digital channels.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -1365,7 +1979,11 @@
     "headquarters_country": "BR",
     "hipaa_compliant": false,
     "history": "Zenvia was founded in 2001 in Brazil as a mobile messaging and customer communications platform. It went public on the Nasdaq in 2021, becoming one of Brazil's first tech companies to list in the US. The company provides SMS, WhatsApp, email, and omnichannel messaging APIs primarily to the Latin American market.",
+    "icon": "Zenvia.svg",
     "iso27001": false,
+    "js": {
+      "ZenviaChat": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1373,9 +1991,19 @@
     "ownership_type": "public",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "high",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "static\\.zenvia\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.zenvia.com"
@@ -1384,14 +2012,22 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.zenvia.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zenzzen": {
     "abuse_score": 2,
     "ai_generated_likelihood": 6,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Zenzzen is an ecommerce platform enabling businesses to build fully customizable online stores under their own brand, providing flexibility in managing products, processing payments, and enhancing the customer experience.",
+    "dom": [
+      "span[class*='zenzzen-store']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2020,
@@ -1402,6 +2038,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Zenzzen is a niche ecommerce SaaS platform focused on white-label store building; no notable ownership changes or founding year found in public records.",
+    "icon": "Zenzzen.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1410,22 +2047,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zenzzen is a small ecommerce platform with no documented abuse signal. Its white-label store focus is aimed at legitimate businesses and no fraud or phishing abuse patterns have been reported.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://zenzzen.com",
     "white_label_wrapper_likelihood": 4
   },
   "Zeotap": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      97
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zeotap is a customer intelligence platform that helps brands better understand their customers and predict behaviors.",
+    "dom": [
+      "link[href*='.zeotap.com']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2014,
@@ -1437,6 +2086,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Zeotap was founded in 2014 in Berlin, Germany as a customer intelligence and data platform (CDP). It helps brands unify first-party data and activate it across marketing channels. The company has raised venture capital funding and expanded to serve global enterprise clients.",
+    "icon": "Zeotap.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1445,22 +2095,34 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zeotap\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zeotap is a customer data platform used by enterprises to unify and activate customer data. As a data brokerage-adjacent platform, it handles substantial personal data but operates under GDPR as a data processor with enterprise clients. No specific phishing or fraud abuse patterns are documented for the platform itself, though the category generally carries privacy risk scrutiny.",
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://zeotap.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zepio": {
     "abuse_score": 2,
     "ai_generated_likelihood": 5,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Zepio is a platform that enables creating an online store with an integrated website and delivery system, requiring no coding.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1469,8 +2131,12 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "X-Powered-By": "^Zepio$"
+    },
     "hipaa_compliant": false,
     "history": "Zepio is a no-code ecommerce platform offering drag-and-drop store building with 0% commissions and integrated delivery; it appears to be a small independent startup with no notable ownership changes documented.",
+    "icon": "Zepio.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1479,23 +2145,33 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 15,
     "summary_abuse": "Zepio is a niche ecommerce builder primarily targeting small merchants. It supports custom storefronts which could theoretically host fake stores, but no documented abuse patterns or security incidents have been reported. The free trial is limited in scope, reducing typical phishing-kit risk.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zepio.io",
     "white_label_wrapper_likelihood": 3
   },
   "Zeppelin": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zeppelin is an internet marketing provider platform designed to support digital advertising and online promotional strategies.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1507,6 +2183,7 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Zeppelin (zeppelin-group.com) is a German internet marketing provider platform supporting digital advertising strategies for businesses.",
+    "icon": "Zeppelin.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1518,38 +2195,58 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "cloud\\.zeppelin-group\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zeppelin is a B2B digital marketing platform with no notable abuse signal.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://www.zeppelin-group.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zepto": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
     "enterprise_adoption": "limited",
     "founded_year": 2010,
     "history": "Zepto.js was created in 2010 by Thomas Fuchs as a lightweight jQuery-compatible JavaScript library designed for modern browsers and mobile. It was widely used in the early 2010s as a smaller alternative to jQuery for mobile web development, but fell out of favour as browser support for CSS and DOM APIs improved and jQuery itself became lighter.",
+    "icon": "Zepto.png",
+    "js": {
+      "Zepto": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "dormant",
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "zepto.*\\.js"
+    ],
     "source_urls": [
       "https://zeptojs.com"
     ],
     "summary_abuse": "Zepto.js has no notable abuse signal. It is a client-side JavaScript library with no consumer-facing surface or network services that fraudsters target.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://zeptojs.com"
   },
   "Zestard": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zestard is a provider of Shopify plugins, offering solutions that support ecommerce functionality and customization.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -1561,7 +2258,11 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zestard is a Shopify plugin provider offering ecommerce solutions for Shopify merchants. It is a small independent company, likely based in India, with limited public history.",
+    "icon": "Zestard.svg",
     "iso27001": false,
+    "js": {
+      "$zestard_easy": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1572,20 +2273,32 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "zestardshop\\.com/shopifyapp"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zestard has no notable abuse signal. It provides Shopify plugins to merchants with no consumer-facing hosting surface.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.zestardshop.com",
     "white_label_wrapper_likelihood": 3
   },
   "ZestMoney": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      91
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "ZestMoney is a fintech company that uses digital EMI without the need for a credit card or a credit score.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1597,7 +2310,13 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "ZestMoney was founded in 2015 in Bengaluru, India as a fintech company offering digital EMI (equated monthly installment) financing for online purchases without requiring a traditional credit card. It raised significant venture capital and became one of India's leading buy-now-pay-later platforms before facing financial difficulties in 2023 when Goldman Sachs backed out of an acquisition.",
+    "icon": "ZestMoney.svg",
     "iso27001": false,
+    "js": {
+      "ZestMoneyWidget": "",
+      "zestBind": "",
+      "zestMerchant": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1605,23 +2324,33 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "ZestMoney is an Indian BNPL fintech that handles consumer financial data including income and credit information. As a consumer credit product with embedded checkout flows, it is subject to phishing attacks targeting its users and impersonation of its brand. The BNPL category in India has attracted regulatory scrutiny over lending practices and consumer protection. No specific large-scale fraud incidents are documented but consumer-facing fintech products carry elevated abuse and impersonation risk.",
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 4,
+    "website": "https://www.zestmoney.in",
     "white_label_wrapper_likelihood": 0
   },
   "Zeta Producer": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:zeta-producer:zeta_producer:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
+    "description": "Zeta Producer is a professional homepage builder for Windows that enables users to create websites.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2000,
@@ -1633,31 +2362,45 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Zeta Producer is a Windows desktop website builder developed in Germany. It produces static HTML sites and has been serving small businesses and individuals since the early 2000s. It is a niche product popular in German-speaking markets.",
+    "icon": "ZetaProducer.svg",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^Zeta Producer ([\\d\\.]+)\\;version:\\1"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zeta Producer has no notable abuse signal. It is a desktop application for building static websites and does not host content itself.",
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 5,
+    "website": "https://www.zeta-producer.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zeus Technology": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zeus Technology is a media monetisation platform that levels the playing field for publishers and advertisers of all sizes.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1669,7 +2412,12 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Zeus Technology is a media monetisation platform designed to help publishers compete with large advertising networks. It provides header bidding and programmatic advertising tools for media companies.",
+    "icon": "Zeus Technology.svg",
     "iso27001": false,
+    "js": {
+      "zeus.version": "v([\\d\\.]+)\\;version:\\1",
+      "zeusAdUnitPath": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1677,22 +2425,34 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zeus Technology is an advertising and media monetisation platform. Like all ad-tech platforms, it serves third-party advertising code on publisher sites which carries inherent risk of malvertising. The platform is not known for hosting phishing pages or facilitating fraud directly, but ad-tech platforms are a common vector for malvertising campaigns.",
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 5,
+    "website": "https://www.zeustechnology.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zevi": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      29
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "cookies": {
+      "zevi-_zldt": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "Zevi is an AI-powered site search and discovery platform designed to enhance product discovery.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1704,6 +2464,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zevi is an AI-powered site search and discovery platform for ecommerce, founded around 2021. It provides neural search and product discovery features for online stores. The company is based in India and has raised venture funding.",
+    "icon": "Zevi.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1712,23 +2473,37 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zevi\\.ai/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zevi has no notable abuse signal. It is a B2B AI search platform for ecommerce sites with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zevi.ai",
     "white_label_wrapper_likelihood": 1
   },
   "Zevioo": {
     "abuse_score": 3,
     "ai_generated_likelihood": 5,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zevioo is an AI-powered platform that helps ecommerce stores improve conversions, customer loyalty, and revenue through automated optimization and data-driven personalization.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -1740,6 +2515,7 @@
     "headquarters_country": "GR",
     "hipaa_compliant": false,
     "history": "Zevioo is a user-generated content and AI-powered personalization platform for ecommerce, developed by Zampple, a Greek software company. It integrates with platforms like CS-Cart and OpenCart; no notable ownership changes or controversies found.",
+    "icon": "Zevioo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1752,19 +2528,29 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "zevioo\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zevioo is a marketing automation and UGC platform for ecommerce. As an ad-tech adjacent tool that collects customer behavior data and enables personalized marketing, it carries standard marketing-platform privacy considerations, but no specific abuse patterns or fraud incidents have been documented.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://zevioo.com",
     "white_label_wrapper_likelihood": 3
   },
   "Ziadah": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6,
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Ziadah is a specialist in enhancing ecommerce sales by increasing Average Order Value (AOV) through strategic inbound marketing, focusing on cross-selling and upselling techniques.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -1776,6 +2562,7 @@
     "headquarters_country": "SA",
     "hipaa_compliant": false,
     "history": "Ziadah is a Saudi Arabian-focused e-commerce marketing tool specialising in cross-selling and upselling to increase Average Order Value for Shopify and WooCommerce stores.",
+    "icon": "Ziadah.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1784,22 +2571,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.ziadah\\.app/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Ziadah is a MENA-focused e-commerce marketing tool with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://www.ziadah.app",
     "white_label_wrapper_likelihood": 3
   },
   "Ziber": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      21
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Ziber is an education platform that connects professionals, educators, and organizations involved in childcare and primary education through a centralized digital ecosystem.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -1811,31 +2611,52 @@
     "headquarters_country": "NL",
     "hipaa_compliant": false,
     "history": "Ziber is a European education platform connecting professionals, educators, and organizations for learning and development. It appears to be based in the Netherlands with limited public history.",
+    "icon": "Ziber.svg",
     "iso27001": false,
+    "js": {
+      "ZiberTracker.getTracker": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^ZIBER$"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Ziber has no notable abuse signal. It is an education and professional development platform with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://ziber.eu",
     "white_label_wrapper_likelihood": 2
   },
   "Zid": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
+    "cookies": {
+      "zid_catalog_session": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "Zid is an ecommerce SaaS that allows merchants to build and manage their online stores.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -1847,7 +2668,12 @@
     "headquarters_country": "SA",
     "hipaa_compliant": false,
     "history": "Zid was founded in 2017 in Saudi Arabia as an ecommerce platform for Arabic-speaking merchants in the Middle East and North Africa region. It raised significant venture capital and became a leading ecommerce SaaS in the Gulf Cooperation Council countries.",
+    "icon": "Zid.svg",
     "iso27001": false,
+    "js": {
+      "zid.store": "",
+      "zidTracking.sendGaProductRemoveFromCartEvent": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1855,22 +2681,32 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zid is an ecommerce platform primarily serving the MENA region. Like all ecommerce platforms that allow merchants to create storefronts, there is a general risk of fraudulent stores, but no specific documented abuse patterns are associated with Zid specifically. The platform serves verified merchants and has standard terms of service.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://zid.sa",
     "white_label_wrapper_likelihood": 0
   },
   "Zieny": {
     "abuse_score": 1,
     "ai_generated_likelihood": 6,
+    "cats": [
+      105
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "Zieny is a platform that enables businesses to integrate 3D and augmented reality (AR) into websites, providing an interactive product experience without complex implementation.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -1881,6 +2717,7 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Zieny is a niche SaaS platform enabling businesses to add 3D and augmented reality product viewers to their websites without complex implementation; no founding year or ownership history found in public records.",
+    "icon": "Zieny.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1892,23 +2729,41 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "ar-view-zieny\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zieny is a 3D and AR product visualization tool for ecommerce. It has no consumer-facing hosting surface and no documented abuse signal.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 2,
+    "website": "https://zieny.com",
     "white_label_wrapper_likelihood": 3
   },
   "Ziggy": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
+    "description": "Ziggy is a library that allows using Laravel named routes in JavaScript.",
     "enterprise_adoption": "limited",
     "founded_year": 2017,
     "history": "Ziggy is an open-source JavaScript library created by Tighten, a Laravel consultancy, that allows developers to use Laravel named routes directly in JavaScript. It is maintained by the Tighten team and the Laravel community.",
+    "icon": "Ziggy.png",
+    "implies": [
+      "Laravel",
+      "Inertia.js"
+    ],
+    "js": {
+      "Ziggy": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
@@ -1916,13 +2771,22 @@
       "https://github.com/tighten/ziggy"
     ],
     "summary_abuse": "Ziggy has no notable abuse signal. It is a Laravel utility library with no consumer-facing surface or network services.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://github.com/tighten/ziggy"
   },
   "Zimbra": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      30
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "ZM_TEST": "true"
+    },
+    "cpe": "cpe:2.3:a:zimbra:zimbra:*:*:*:*:*:*:*:*",
+    "description": "Zimbra is a provider of open-source email and collaboration software, offering solutions for email, calendar, contacts, and collaboration for both individual and enterprise use.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -1934,10 +2798,15 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zimbra was originally developed by Zimbra Inc., founded in 2005, and was acquired by Yahoo in 2007. Yahoo sold it to VMware in 2010, which later sold it to Telligent in 2013. Synacor acquired Zimbra in 2015 and subsequently sold it to Zeta Global in 2019. In 2020, Synacor reacquired Zimbra. The project now operates as an independent open-source email and collaboration suite.",
+    "icon": "Zimbra.svg",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "agpl-3.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1952,32 +2821,52 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zimbra is a self-hosted email and collaboration platform widely deployed by organizations. Its webmail interface has occasionally been targeted by spear-phishing attacks and there are documented vulnerabilities exploited by APT groups. Because organizations host their own instances, the abuse profile depends on individual instance security. CVE-tracked vulnerabilities in Zimbra have been actively exploited in the wild. Zimbra publishes security advisories and patches.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://www.zimbra.com/"
   },
   "ZingChart": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      25
+    ],
     "confidence": 6,
+    "description": "ZingChart is a open-source and free JavaScript library for building interactive and intuitive charts.",
     "enterprise_adoption": "limited",
     "founded_year": 2012,
     "history": "ZingChart is a JavaScript charting library developed by Ziff Davis, offering both a free open-source version and commercial enterprise editions. It provides a wide range of interactive chart types for web applications.",
+    "icon": "ZingChart.svg",
+    "js": {
+      "zingchart": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "mid"
+    ],
+    "saas": true,
     "source_urls": [
       "https://www.zingchart.com"
     ],
     "summary_abuse": "ZingChart has no notable abuse signal. It is a JavaScript charting library with no consumer-facing network surface.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://www.zingchart.com"
   },
   "Zinnia": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      11
+    ],
     "company_size_bucket": "solo",
     "confidence": 4,
+    "description": "Zimbra is a is a collaborative software suite that includes an email server and a web client.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1988,10 +2877,17 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Zinnia is an open-source Django blog application that was popular in the early-to-mid 2010s for adding blogging functionality to Django websites. The project appears to have been largely abandoned with minimal recent activity.",
+    "icon": "Zinnia.png",
+    "implies": [
+      "Django"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "bsd-3-clause",
     "maintenance_status": "abandoned",
+    "meta": {
+      "generator": "Zinnia"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2006,14 +2902,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zinnia has no notable abuse signal. It is a self-hosted Django blog application with no network services that fraudsters target.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 3
+    "vendor_stability_score": 3,
+    "website": "https://django-blog-zinnia.com"
   },
   "Zinrelo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      84
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zinrelo is an enterprise-grade, loyalty rewards platform.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2012,
@@ -2025,7 +2926,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zinrelo was founded around 2012 and provides an enterprise-grade loyalty rewards platform for ecommerce businesses. It is headquartered in the United States and serves mid-market and enterprise clients.",
+    "icon": "Zinrelo.svg",
     "iso27001": false,
+    "js": {
+      "zrl_mi": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2033,6 +2938,9 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 4,
@@ -2041,14 +2949,23 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 6,
+    "website": "https://www.zinrelo.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zip": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      41,
+      91
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Zip is a payment service that lets you receive your purchase now and spread the total cost over a interest-free payment schedule.",
+    "dom": [
+      "link[href*='widgets.quadpay.com/'], div[data-quadpay-src*='.quadpay.com/']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -2060,7 +2977,13 @@
     "headquarters_country": "AU",
     "hipaa_compliant": false,
     "history": "Zip (formerly Quadpay in the US) was founded in 2013 in Sydney, Australia as a buy now pay later service. It listed on the ASX in 2015 and expanded globally, acquiring Quadpay in 2020 to enter the US market and subsequently rebranding as Zip globally. The company operates as a publicly listed BNPL provider across multiple countries.",
+    "icon": "zip_pay.svg",
     "iso27001": false,
+    "js": {
+      "QuadPayShopify": "",
+      "checkout.enabledpayments.zip": "^true$",
+      "quadpayID": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2068,9 +2991,18 @@
     "ownership_type": "public",
     "pci_dss": true,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "quadpay\\.com",
+      "static\\.zipmoney\\.com\\.au",
+      "zip\\.co"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.zip.co/"
@@ -2080,14 +3012,19 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.zip.co/",
     "white_label_wrapper_likelihood": 0
   },
   "Zipchat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 5,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zipchat is an AI chatbot for ecommerce, designed to boost sales by automating customer interactions and assisting with purchasing decisions.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -2099,7 +3036,11 @@
     "headquarters_country": "IT",
     "hipaa_compliant": false,
     "history": "Zipchat is an Italian AI chatbot for e-commerce, founded around 2022, designed to automate customer interactions and assist with purchasing decisions in online stores.",
+    "icon": "Zipchat.svg",
     "iso27001": false,
+    "js": {
+      "zipchatWidgetLoaded": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2107,22 +3048,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "app\\.zipchat\\.ai"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zipchat is a B2B AI e-commerce chatbot with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zipchat.ai",
     "white_label_wrapper_likelihood": 5
   },
   "Zipify OCU": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      100
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "Zipify OCU allows you to add upsells and cross-sells to your checkout sequence.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -2134,6 +3088,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zipify OCU (One Click Upsell) is a Shopify app by Zipify, a company founded by Ezra Firestone around 2016. It adds post-purchase upsell and cross-sell offers to Shopify checkout flows. Zipify is an independent company serving Shopify merchants.",
+    "icon": "Zipify OCU.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2142,23 +3097,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "/zipify-oneclickupsell-vendor\\.js"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 49,
     "summary_abuse": "Zipify OCU has no notable abuse signal. It is a post-purchase upsell Shopify app. Dark pattern likelihood is slightly elevated because one-click upsell flows can be designed to confuse customers into unwanted purchases, though the platform itself is legitimate.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://zipify.com/apps/ocu/",
     "white_label_wrapper_likelihood": 1
   },
   "Zipify Pages": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      100,
+      51
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zipify Pages the first landing page builder uniquely designed for ecommerce.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -2170,7 +3139,14 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zipify Pages is a landing page builder Shopify app by Zipify, founded around 2016 by Ezra Firestone. It is designed specifically for ecommerce landing pages and integrates tightly with Shopify.",
+    "icon": "Zipify Pages.svg",
+    "implies": [
+      "Shopify"
+    ],
     "iso27001": false,
+    "js": {
+      "ZipifyPages": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2178,20 +3154,29 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "starting_price_usd_monthly": 19,
     "summary_abuse": "Zipify Pages has no notable abuse signal. It is a Shopify landing page builder serving legitimate ecommerce merchants. Pages created with it could theoretically be used for misleading offers, but no specific fraud incidents are documented.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://zipify.com/apps/pages/",
     "white_label_wrapper_likelihood": 1
   },
   "Zipkin": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "mega",
     "confidence": 5,
     "enterprise_adoption": "widespread",
@@ -2202,9 +3187,17 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "X-B3-Flags": "",
+      "X-B3-ParentSpanId": "",
+      "X-B3-Sampled": "",
+      "X-B3-SpanId": "",
+      "X-B3-TraceId": ""
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zipkin was originally developed at Twitter in 2012, inspired by Google's Dapper distributed tracing paper. Twitter open-sourced it and it became one of the first widely-adopted distributed tracing systems. The project is now maintained by the OpenZipkin community under an Apache 2.0 license and is widely used in microservices architectures.",
+    "icon": "Zipkin.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "apache-2.0",
@@ -2223,14 +3216,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zipkin has no notable abuse signal. It is an open-source distributed tracing system deployed internally by organizations with no consumer-facing surface.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://zipkin.io/"
   },
   "Zipleads": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zipleads is a lead conversion platform that helps businesses capture, manage, and convert potential customers through automated lead tracking and engagement tools.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -2242,30 +3240,47 @@
     "headquarters_country": "AU",
     "hipaa_compliant": false,
     "history": "Zipleads is an Australian lead conversion platform for businesses. It is a small independent SaaS with limited public history.",
+    "icon": "Zipleads.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "^ZipLeads$"
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scripts": [
+      "app\\.zipleads\\.com\\.au"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zipleads has no notable abuse signal. It is a B2B lead management tool with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zipleads.com.au",
     "white_label_wrapper_likelihood": 2
   },
   "Zipteams": {
     "abuse_score": 1,
     "ai_generated_likelihood": 4,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zipteams is a live chat solution.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2277,7 +3292,11 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zipteams is an Indian live chat and sales engagement platform. No notable ownership changes are documented.",
+    "icon": "Zipteams.png",
     "iso27001": false,
+    "js": {
+      "ZipteamsWidget": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2285,22 +3304,32 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zipteams is a live chat platform with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://zipteams.com",
     "white_label_wrapper_likelihood": 3
   },
   "ZipWP": {
     "abuse_score": 2,
     "ai_generated_likelihood": 5,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "ZipWP is a website builder that enables creation of professional sites with extensive customization options and no coding required.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2022,
@@ -2312,6 +3341,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "ZipWP is an AI-powered WordPress website builder that uses AI to generate entire WordPress sites from a text prompt. It is a recently founded product in the AI website building space.",
+    "icon": "ZipWP.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2320,22 +3350,39 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "onetime",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "requires": [
+      "WordPress"
+    ],
+    "saas": true,
+    "scripts": [
+      "app\\.zipwp\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "ZipWP is an AI website builder for WordPress. Like all website builders with free tiers, it carries some risk of being used to create spam or fraudulent sites, but no specific documented abuse patterns are associated with the platform.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zipwp.com",
     "white_label_wrapper_likelihood": 4
   },
   "ZK": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      18
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "description": "ZK is a framework for building rich, interactive web applications using Java, providing a set of tools and components to create dynamic user interfaces.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -2347,10 +3394,18 @@
     "headquarters_country": "TW",
     "hipaa_compliant": false,
     "history": "ZK is a Java web framework first released around 2005, offering Ajax-based UI components for building enterprise web applications in pure Java without JavaScript. It is available as Community Edition (LGPL) and Enterprise Edition (commercial).",
+    "html": [
+      "<!-- ZK [.\\d\\s]+-->"
+    ],
+    "icon": "ZK.svg",
+    "implies": [
+      "Java"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "lgpl-3.0",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2358,6 +3413,9 @@
     "pricing_model": "dual-license",
     "pricing_transparency_score": 6,
     "privacy_score": 8,
+    "scriptSrc": [
+      "zkau/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://github.com/zkoss/zk"
@@ -2365,14 +3423,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "ZK is a Java web framework with no notable abuse signal; it is a server-side development tool with no consumer-facing surface that fraudsters would target.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://zkoss.org"
   },
   "Zmags Creator": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      95
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zmags Creator enables marketers to design and publish endless types of interactive digital experiences without coding.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -2384,7 +3447,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zmags Creator is a content creation platform for interactive digital publications, shoppable experiences, and marketing content. The company was founded around 2007 and rebranded from Zmags to Creator by Zmags. It serves retailers and publishers.",
+    "icon": "Zmags Creator.png",
     "iso27001": false,
+    "js": {
+      "__zmags": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2392,22 +3459,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "c(?:reator)?\\.zmags\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zmags Creator has no notable abuse signal. It is a B2B content creation platform for branded marketing experiences with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.creatorbyzmags.com",
     "white_label_wrapper_likelihood": 1
   },
   "Znode": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Znode is a provider of enterprise .NET-based shopping cart systems for building and managing online commerce platforms.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2001,
@@ -2419,7 +3499,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Znode is a US-based provider of enterprise .NET ecommerce software, founded around 2001. It provides a headless commerce platform for B2B and enterprise clients looking to build custom ecommerce experiences on the Microsoft .NET stack.",
+    "icon": "Znode.svg",
     "iso27001": false,
+    "js": {
+      "ZnodeAjaxify": "",
+      "ZnodeBase": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2430,19 +3515,31 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "requires": [
+      "Microsoft ASP.NET"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Znode has no notable abuse signal. It is an enterprise .NET ecommerce platform deployed by B2B organizations on their own infrastructure.",
     "technical_depth_score": 7,
     "tracker_density": "none",
     "vendor_stability_score": 5,
+    "website": "https://www.znode.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zocdoc": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zocdoc is a New York City-based company offering an online service that allows people to find and book in-person or telemedicine appointments for medical or dental care.",
+    "dom": [
+      "a[href*='www.zocdoc.com'][target='_blank']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -2454,6 +3551,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Zocdoc was founded in 2007 in New York City by Cyrus Massoumi, Oliver Kharraz, and Nick Ganju as an online marketplace for booking doctor appointments. It raised significant venture capital and became a leading healthcare appointment scheduling platform in the US.",
+    "icon": "Zocdoc.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2462,24 +3560,39 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "offsiteschedule\\.zocdoc\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zocdoc is a healthcare appointment booking platform. As a consumer-facing healthcare service, it handles sensitive patient data and is subject to HIPAA regulations. The platform has been subject to standard healthcare data privacy scrutiny. Its brand may be impersonated in phishing campaigns targeting patients, though no specific large-scale incidents are documented. The platform requires provider credentialing and patient account creation.",
     "technical_depth_score": 8,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://www.zocdoc.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zoey": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zoey is a cloud-based ecommerce platform for B2B and wholesale businesses.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
+    "excludes": [
+      "Magento"
+    ],
     "founded_year": 2017,
     "gdpr_compliant": false,
     "has_bug_bounty": false,
@@ -2489,7 +3602,17 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zoey is a cloud-based B2B and wholesale ecommerce platform. It launched around 2017 with a focus on wholesale and distribution businesses that need more complex pricing and ordering capabilities than consumer ecommerce platforms provide.",
+    "icon": "Zoey.svg",
+    "implies": [
+      "PHP",
+      "MySQL"
+    ],
     "iso27001": false,
+    "js": {
+      "Zoey.module": "",
+      "zoey.developer": "",
+      "zoeyDev": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2500,19 +3623,32 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "scriptSrc": [
+      "cdna4\\.zoeysite\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zoey has no notable abuse signal. It is a B2B wholesale ecommerce platform serving established businesses with verified accounts, not a consumer platform with anonymous content hosting.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zoey.com/",
     "white_label_wrapper_likelihood": 1
   },
   "Zoho": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      53
+    ],
     "company_size_bucket": "mega",
     "confidence": 7,
     "dark_pattern_likelihood": 2,
+    "description": "Zoho is a web-based online office suite.",
+    "dns": {
+      "TXT": [
+        "\\.zoho\\.com"
+      ]
+    },
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2524,6 +3660,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": true,
     "history": "Zoho Corporation was founded in 1996 in Chennai, India (then as AdventNet) by Sridhar Vembu and Tony Thomas. The company rebranded as Zoho Corporation in 2009. It has grown into one of the world's largest independent software companies with over 50 business applications and 80+ million users globally. Uniquely, it has remained privately held and founder-controlled despite its scale.",
+    "icon": "Zoho.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2532,9 +3669,14 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "dominant",
+    "pricing": [
+      "low",
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": true,
     "source_urls": [
       "https://www.zoho.com/"
@@ -2544,14 +3686,19 @@
     "technical_depth_score": 8,
     "tracker_density": "moderate",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoho Commerce": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zoho Commerce is a cloud-based ecommerce platform by Zoho Corporation, facilitating online store creation and management.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2563,32 +3710,51 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zoho Commerce is an ecommerce platform product by Zoho Corporation, launched as part of the Zoho suite. It benefits from Zoho's 1996 founding heritage, global infrastructure, and the company's integration ecosystem.",
+    "icon": "Zoho Commerce.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^Zoho Commerce"
+    },
     "overall_trust_score": 7,
     "ownership_type": "subsidiary",
     "parent_company": "Zoho Corporation",
     "pci_dss": true,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zoho Commerce has no specific abuse profile beyond general Zoho platform risks. It is a business ecommerce platform with standard account requirements. Zoho Corporation maintains an AUP and compliance certifications across its suite.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/commerce/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoho Mail": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      75
+    ],
     "company_size_bucket": "mega",
     "confidence": 7,
     "dark_pattern_likelihood": 1,
+    "description": "Zoho Mail is an email hosting service for businesses.",
+    "dns": {
+      "TXT": [
+        "transmail\\.net"
+      ]
+    },
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2600,6 +3766,10 @@
     "headquarters_country": "IN",
     "hipaa_compliant": true,
     "history": "Zoho Mail is an email hosting service for businesses, part of the Zoho Corporation suite founded in 1996. It has grown into a popular alternative to Google Workspace and Microsoft 365 for organizations seeking a privacy-conscious, integrated productivity suite.",
+    "icon": "Zoho.svg",
+    "implies": [
+      "Zoho"
+    ],
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2618,14 +3788,20 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/mail/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoho PageSense": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      74,
+      76
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zoho PageSense is a conversion optimisation platform which combines the power of web analytics, A/B testing, and personalisation.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2637,7 +3813,15 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zoho PageSense is a conversion optimization and A/B testing platform by Zoho Corporation, part of the Zoho suite. It competes with tools like Hotjar and Optimizely.",
+    "icon": "Zoho.svg",
+    "implies": [
+      "Zoho"
+    ],
     "iso27001": true,
+    "js": {
+      "$pagesense": "",
+      "pagesense": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2646,23 +3830,36 @@
     "parent_company": "Zoho Corporation",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.pagesense\\.(?:cn|io)?"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zoho PageSense has no notable abuse signal. It is an analytics and A/B testing tool embedded in business websites, with no consumer-facing hosting surface.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/pagesense/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoho Recruit": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zoho Recruit is a recruitment platform that integrates an applicant tracking system (ATS) with customer relationship management (CRM) functionality.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2674,6 +3871,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Part of the Zoho Corporation suite, founded in 1996. Zoho Corporation is one of the largest independent software companies globally.",
+    "icon": "Zoho.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2683,23 +3881,37 @@
     "parent_company": "Zoho Corporation",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zohocdn\\.com/recruit/"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "No notable abuse signal specific to this Zoho product. It is a B2B business application with no consumer-facing anonymous content hosting, backed by Zoho's AUP and compliance certifications.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/recruit/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoho SalesIQ": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zoho SalesIQ is a digital customer engagement platform that provides marketing, sales, and support teams with tools to interact with site visitors at every stage of the customer lifecycle.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2711,7 +3923,11 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Part of the Zoho Corporation suite, founded in 1996. Zoho Corporation is one of the largest independent software companies globally.",
+    "icon": "Zoho.svg",
     "iso27001": true,
+    "js": {
+      "$zoho.salesiq": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2720,23 +3936,37 @@
     "parent_company": "Zoho Corporation",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "salesiq\\.zohopublic\\.com"
+    ],
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "No notable abuse signal specific to this Zoho product. It is a B2B business application with no consumer-facing anonymous content hosting, backed by Zoho's AUP and compliance certifications.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/salesiq",
     "white_label_wrapper_likelihood": 0
   },
   "Zoho Sites": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      51
+    ],
     "company_size_bucket": "mega",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zoho Sites is an all-in-one platform designed to help businesses create websites.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -2748,32 +3978,46 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Part of the Zoho Corporation suite, founded in 1996. Zoho Corporation is one of the largest independent software companies globally.",
+    "icon": "Zoho.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^Zoho Sites ([\\d\\.]+)\\;version:\\1"
+    },
     "overall_trust_score": 7,
     "ownership_type": "subsidiary",
     "parent_company": "Zoho Corporation",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": true,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "No notable abuse signal specific to this Zoho product. It is a B2B business application with no consumer-facing anonymous content hosting, backed by Zoho's AUP and compliance certifications.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.zoho.com/sites/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoko": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zoko is an all-in-one system that leverages the WhatsApp API to help you do business, on WhatsApp",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -2785,7 +4029,14 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zoko was founded around 2020 as a WhatsApp Business API platform, enabling merchants to use WhatsApp as a commerce and customer service channel. It is a small VC-backed startup.",
+    "icon": "Zoko.svg",
+    "implies": [
+      "WhatsApp Business Chat"
+    ],
     "iso27001": false,
+    "js": {
+      "__zoko_app_version": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2793,21 +4044,35 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "payg",
+      "mid"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "zoko-shopify-prod\\.web\\.app"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zoko provides WhatsApp API access for businesses. WhatsApp-based messaging platforms carry inherent risk of being used for spam or phishing if misused. Zoko requires Meta WhatsApp Business API access which has its own verification requirements, providing some control over abuse.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zoko.io/",
     "white_label_wrapper_likelihood": 2
   },
   "Zola": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      57
+    ],
     "company_size_bucket": "solo",
     "confidence": 4,
+    "description": "Zola is a static site engine that consolidates essential features in a single binary.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -2818,10 +4083,15 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "Zola is an open-source static site generator written in Rust, created around 2017 by Vincent Prouillet. It is a single binary SSG that generates fast static websites with no external dependencies. It has gathered a niche following among developers who prefer Rust-based tooling.",
+    "icon": "Zola.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "mit",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "^Zola(?:\\s[\\d\\.]+)?$"
+    },
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -2829,6 +4099,9 @@
     "pricing_model": "free",
     "pricing_transparency_score": 10,
     "privacy_score": 9,
+    "scriptSrc": [
+      "\\.getzola\\.org"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.getzola.org/"
@@ -2836,14 +4109,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zola has no notable abuse signal. It is an open-source static site generator that produces static files, with no consumer-facing service or network infrastructure.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 6
+    "vendor_stability_score": 6,
+    "website": "https://www.getzola.org/"
   },
   "Zola Planner": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zola Planner is a wedding registry system that allows couples to manage gift selections, track contributions, and coordinate registry details in one centralized platform.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -2855,7 +4133,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zola was founded in 2013 in New York City by Shan-Lyn Ma and Nobu Nakaguchi as a wedding registry and planning platform. It raised significant venture capital and became a leading US wedding planning and registry service, competing with The Knot and WeddingWire.",
+    "icon": "ZolaPlanner.svg",
     "iso27001": false,
+    "js": {
+      "ZolaWidget": "",
+      "zola.env": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2866,20 +4149,29 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "www\\.zola\\.com"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zola Planner handles consumer financial transactions for wedding registry purchases. As a consumer-facing platform handling gift payments, it is subject to occasional payment fraud and gift registry scams. No large-scale platform-specific fraud incidents are documented, but consumer wedding registry platforms are targets for social engineering scams targeting couples and guests.",
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 7,
+    "website": "https://www.zola.com/wedding-registry",
     "white_label_wrapper_likelihood": 0
   },
   "Zonal Bookings": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zonal Bookings is a reservations platform that enables hospitality businesses to centralize and manage all booking activities without charging commissions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 1990,
@@ -2891,6 +4183,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Zonal Bookings is a reservations management platform for UK hospitality businesses, developed by Zonal, a hospitality technology company founded around 1990. Zonal provides EPOS and operational software to the UK pub, restaurant, and hotel sector.",
+    "icon": "Zonal.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2899,23 +4192,41 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "saas": true,
+    "scripts": [
+      "\\.reservationDetails\\.zonalBookingReference"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zonal Bookings has no notable abuse signal. It is a B2B hospitality reservations platform serving UK businesses with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.zonal.co.uk/products/bookings",
     "white_label_wrapper_likelihood": 0
   },
   "Zone.js": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      12
+    ],
     "confidence": 7,
     "enterprise_adoption": "widespread",
     "founded_year": 2015,
     "history": "Zone.js is a JavaScript library that patches asynchronous APIs in the browser to enable Angular's change detection. It was created by the Angular team at Google around 2015 and shipped as part of the Angular framework. Efforts to make Angular work without Zone.js (zoneless) have been ongoing since 2022.",
+    "icon": "Angular.svg",
+    "implies": [
+      "Angular"
+    ],
+    "js": {
+      "Zone.root": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "active",
@@ -2926,14 +4237,19 @@
       "https://github.com/angular/angular/tree/master/packages/zone.js"
     ],
     "summary_abuse": "Zone.js has no notable abuse signal. It is a foundational JavaScript library for Angular applications with no consumer-facing surface.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://github.com/angular/angular/tree/master/packages/zone.js"
   },
   "Zonos": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      106
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zonos is a cross-border ecommerce software and app solution for companies with international business.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2009,
@@ -2945,7 +4261,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zonos was founded around 2009 and provides cross-border ecommerce solutions including duties and taxes calculation, international checkout, and customs compliance. It serves B2B merchants looking to expand internationally.",
+    "icon": "Zonos.svg",
     "iso27001": false,
+    "js": {
+      "Zonos": "",
+      "zonos": "",
+      "zonosCheckout": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -2953,22 +4275,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zonos\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zonos has no notable abuse signal. It is a B2B cross-border commerce platform providing compliance and duties calculation services for merchants.",
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://zonos.com",
     "white_label_wrapper_likelihood": 0
   },
   "ZoodPay": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      91
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "ZoodPay is a financial technology company that provides payment and financing solutions, including buy-now-pay-later (BNPL) services and point-of-sale financing, to facilitate transactions for consumers and businesses.",
+    "dom": [
+      "img[src*='zoodpay']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -2980,6 +4317,7 @@
     "headquarters_country": "AE",
     "hipaa_compliant": false,
     "history": "ZoodPay is a BNPL fintech founded around 2019, operating in the Middle East and Central Asia markets. It provides installment payment and financing solutions for consumers in markets including UAE, Jordan, and Kazakhstan.",
+    "icon": "ZoodPay.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2988,23 +4326,35 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "wp-content/plugins/zoodpay/(?:.+\\?ver=([\\d\\.]+))?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "ZoodPay is a BNPL fintech operating in the Middle East and Central Asia. Consumer lending services in emerging markets face elevated risks of identity fraud and synthetic identity attacks. As a consumer-facing financial service, its brand may be impersonated in phishing campaigns. No specific large-scale abuse incidents are documented.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zoodpay.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zoominfo": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 3,
+    "description": "ZoomInfo provides actionable B2B contact and company information for sales and marketing teams.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -3016,6 +4366,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "ZoomInfo was founded in 2007 (originally as DiscoverOrg) in Vancouver, Washington. It merged with ZoomInfo Technologies in 2019 and went public on the Nasdaq in 2020 under the ticker ZI. It has grown into the leading B2B contact database and go-to-market platform through multiple acquisitions including Chorus.ai and Insent.",
+    "icon": "Zoominfo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3027,6 +4378,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 2,
+    "saas": true,
+    "scriptSrc": [
+      "ws\\.zoominfo\\.com"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://www.zoominfo.com/"
@@ -3035,14 +4390,19 @@
     "technical_depth_score": 8,
     "tracker_density": "moderate",
     "vendor_stability_score": 9,
+    "website": "https://www.zoominfo.com/",
     "white_label_wrapper_likelihood": 0
   },
   "Zoominfo Chat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 2,
+    "description": "ZoomInfo chat is a live chat solution.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -3054,6 +4414,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "ZoomInfo Chat is a live chat product by ZoomInfo Technologies, offering AI-powered chat that leverages ZoomInfo's B2B data to identify and engage website visitors. It was developed as part of ZoomInfo's expansion beyond data intelligence into engagement tools.",
+    "icon": "Zoominfo.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3066,19 +4427,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "madstreetden\\.widget\\.insent\\.ai"
+    ],
     "soc2_type2": true,
     "summary_abuse": "ZoomInfo Chat has the same data privacy concerns as the parent ZoomInfo platform, as it identifies website visitors using B2B contact data. No specific phishing or fraud abuse is documented for the chat product itself. The parent company's data aggregation practices carry privacy risk.",
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 9,
+    "website": "https://www.zoominfo.com/chat",
     "white_label_wrapper_likelihood": 0
   },
   "Zoorate": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zoorate is a user-generated content sharing service tailored for retailers, facilitating the exchange of customer experiences and feedback.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -3090,7 +4460,11 @@
     "headquarters_country": "IT",
     "hipaa_compliant": false,
     "history": "Zoorate is a user-generated content and review platform for retailers, facilitating customer reviews and social proof. It appears to be an Italian company with limited public history.",
+    "icon": "Zoorate.svg",
     "iso27001": false,
+    "js": {
+      "zoorate_params": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3098,23 +4472,35 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "widget\\.zoorate\\.com/"
+    ],
     "soc2_type2": false,
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zoorate is a review platform. Like all user-generated review platforms, there is inherent risk of fake reviews being submitted. No specific fraud or phishing incidents are documented for Zoorate.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zoorate.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zoorix": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zoorix is a tool that helps businesses increase revenue by facilitating upselling and cross-selling.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -3126,7 +4512,11 @@
     "headquarters_country": "IL",
     "hipaa_compliant": false,
     "history": "Zoorix is a Shopify app focused on upselling and cross-selling to help merchants increase revenue per transaction.",
+    "icon": "Zoorix.svg",
     "iso27001": false,
+    "js": {
+      "Zoorix": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3134,21 +4524,39 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "requires": [
+      "Shopify"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "\\.zoorix\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zoorix is a Shopify upsell app with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.zoorix.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zope": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:zope:zope:*:*:*:*:*:*:*:*",
+    "description": "Zope is an open-source web application server and content management framework that helps developers build and manage complex web applications with features like object-oriented programming and scalable architecture.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 1998,
@@ -3157,13 +4565,21 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "Server": "^Zope/"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zope is one of the earliest Python web application servers, created by Zope Corporation in 1998. It pioneered many concepts in Python web development and served as the foundation for the Plone CMS. While largely superseded by modern Python frameworks like Django and Flask, Zope remains in active maintenance and is still used in legacy enterprise applications.",
+    "icon": "Zope.svg",
+    "implies": [
+      "Python"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "zpl-2.1",
     "maintenance_status": "maintained",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "foundation",
     "pci_dss": false,
@@ -3178,14 +4594,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zope has no notable abuse signal. It is a legacy Python web application server used in self-hosted enterprise deployments with no consumer-facing service surface.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://zope.org"
   },
   "Zotabox": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "Zotabox is marketing tool which includes popups, header bars, page/form builder, testimonial, live chat, etc.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -3197,7 +4618,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zotabox is a marketing tool suite for website owners that includes popups, header bars, page builders, and form builders. It has served small businesses and ecommerce sites since around 2013.",
+    "icon": "zotabox.svg",
     "iso27001": false,
+    "js": {
+      "Zotabox": "",
+      "Zotabox_Init": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3205,6 +4631,10 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
@@ -3214,14 +4644,23 @@
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://info.zotabox.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zowie": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52,
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Zowie is an AI-powered customer service suite tailored for ecommerce, aimed at cost-saving and revenue generation through value-driven interactions.",
+    "dom": [
+      "div#zowieChatbotWrapper"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2018,
@@ -3233,7 +4672,12 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "Zowie was founded in 2018 in Poland as an AI-powered customer service automation platform for ecommerce. It raised venture capital and expanded across Europe.",
+    "icon": "Zowie.svg",
     "iso27001": false,
+    "js": {
+      "Zowie": "",
+      "zowieJsonp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3241,22 +4685,31 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zowie has no notable abuse signal. It is a B2B AI customer service platform for ecommerce with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://getzowie.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zozi": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zozi is a bookings widget and calendar used to manage reservations, availability, and scheduling.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -3268,6 +4721,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zozi is a bookings and reservation management platform for activity and experience businesses. Founded around 2012, it provides scheduling and availability management tools for tours, activities, and experiences.",
+    "icon": "Zozi.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3279,21 +4733,38 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "a\\.zozi\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zozi has no notable abuse signal. It is a B2B booking management platform for activity businesses with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zozi.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zozo": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Zozo is a multi-channel ecommerce services provider from Vietnam.",
+    "dom": {
+      "a[href*='/zozo.vn/'][href*='footerurl'][target='_blank']": {
+        "text": "^Zozo"
+      }
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
+    "excludes": [
+      "OpenCart"
+    ],
     "founded_year": 2021,
     "gdpr_compliant": false,
     "has_bug_bounty": false,
@@ -3303,10 +4774,18 @@
     "headquarters_country": "VN",
     "hipaa_compliant": false,
     "history": "Zozo (zozo.vn) is a Vietnamese ecommerce and website-builder platform founded around 2021 in Hanoi, Vietnam. The company provides a multi-channel ecommerce platform for Vietnamese small businesses, including website creation, point-of-sale, and CRM features. Note: this is distinct from Japan's ZOZO, Inc. (ZozoTown), which is a separate major fashion ecommerce company.",
+    "icon": "Zozo.svg",
+    "implies": [
+      "PHP",
+      "MySQL"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "Zozo Ecommerce"
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -3314,6 +4793,9 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "scriptSrc": [
+      "zozo-main\\.min\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://tracxn.com/d/companies/zozo/__dV_IGSwxgyj6O42mXS44yG1LY7lF9jY3T_XL1spgNT8"
@@ -3322,14 +4804,22 @@
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://zozo.vn",
     "white_label_wrapper_likelihood": 3
   },
   "Zuberance": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      94
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zuberance is a platform that transforms enthusiastic customers into a marketing force, driving recommendations and sales for leading B2B and B2C brands.",
+    "dom": [
+      "link[href*='static.zuberance.com/']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": true,
     "founded_year": 2009,
@@ -3341,6 +4831,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zuberance was founded around 2009 as a brand advocacy and referral marketing platform. It helps companies identify and mobilize their enthusiastic customers as brand advocates.",
+    "icon": "Zuberance.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3352,18 +4843,27 @@
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zuberance\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zuberance has no notable abuse signal. It is a B2B brand advocacy platform used to collect and amplify customer testimonials. No specific fraud or phishing patterns are documented.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://zuberance.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zulip": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "description": "Zulip is a team chat platform that organizes conversations into topic-based threads to support asynchronous communication for distributed teams.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -3375,6 +4875,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zulip was originally created by Zulip Inc., founded in 2012, and acquired by Dropbox in 2014. Dropbox open-sourced Zulip in 2015 after shelving the commercial product. The original team later reacquired the project and formed Kandra Labs to continue development. It is now a popular open-source team chat platform known for its topic-threaded conversation model.",
+    "icon": "Zulip.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "apache-2.0",
@@ -3383,9 +4884,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "recurring",
+      "freemium"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 9,
     "privacy_score": 8,
+    "saas": true,
+    "scriptSrc": [
+      "zulip\\.futo\\.org"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://zulip.com/"
@@ -3393,14 +4902,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Zulip has a minimal abuse profile. It is a team chat platform used primarily by developer communities and organizations. Self-hosted instances are controlled entirely by the operator. The SaaS version has standard account requirements and AUP. No specific fraud or phishing patterns are documented.",
     "technical_depth_score": 8,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://zulip.com/"
   },
   "Zuora": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 6,
     "dark_pattern_likelihood": 1,
+    "description": "Zuora is a platform that offers subscription billing management software.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": true,
     "founded_year": 2007,
@@ -3412,6 +4926,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zuora was founded in 2007 in Redwood City, California by Tien Tzuo, K.V. Rao, and Cheng Zou. The company pioneered the subscription management and recurring billing space. It went public on the NYSE in 2018 and became the de facto standard for enterprise subscription billing.",
+    "icon": "Zuora.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3420,9 +4935,16 @@
     "ownership_type": "public",
     "pci_dss": true,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zuora\\.com/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://www.zuora.com"
@@ -3431,14 +4953,22 @@
     "technical_depth_score": 8,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.zuora.com",
     "white_label_wrapper_likelihood": 0
   },
   "Zuppler": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      93
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zuppler is a complete and branded online ordering solution for restaurants and caterers with multi-locations.",
+    "dom": [
+      "link[href*='.zuppler.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -3450,6 +4980,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zuppler was founded around 2010 as an online ordering platform for restaurants and catering businesses. It provides white-label ordering solutions that allow restaurants to accept orders on their own websites.",
+    "icon": "Zuppler.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3458,23 +4989,43 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zuppler has no notable abuse signal. It is a restaurant online ordering platform. While fake restaurant storefronts have been a fraud vector industry-wide, Zuppler's merchant verification processes reduce this risk.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.zuppler.com",
     "white_label_wrapper_likelihood": 1
   },
   "ZURB Foundation": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      66
+    ],
     "confidence": 6,
+    "description": "Zurb Foundation is used to prototype in the browser. Allows rapid creation of websites or applications while leveraging mobile and responsive technology. The front end framework is the collection of HTML, CSS, and Javascript containing design patterns.",
+    "dom": [
+      "link[href*='foundation'][href*='css']"
+    ],
     "enterprise_adoption": "common",
     "founded_year": 2011,
     "history": "ZURB Foundation is an open-source CSS framework first released in 2011 by ZURB, a product design company. It competes with Bootstrap for frontend grid systems and UI components.",
+    "html": [
+      "<link[^>]+foundation[^>\"]+css",
+      "<div [^>]*class=\"[^\"]*(?:small|medium|large)-\\d{1,2} columns"
+    ],
+    "icon": "ZURBFoundation.svg",
+    "js": {
+      "Foundation.version": "([\\d.]+)\\;version:\\1"
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
@@ -3482,14 +5033,19 @@
     "ownership_type": "independent",
     "popularity_tier": "mainstream",
     "summary_abuse": "ZURB Foundation is a frontend CSS framework with no notable abuse signal; it is a client-side design toolkit with no consumer-facing surface that fraudsters would target.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://foundation.zurb.com"
   },
   "Zurple": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zurple is a real estate marketing software that provides a solution for agents to manage leads, automate follow-ups, and optimize client engagement.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -3501,7 +5057,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zurple is a real estate marketing software founded around 2010, providing lead generation and nurturing tools for real estate agents. It uses behavioral tracking and automated emails to convert website visitors into leads.",
+    "icon": "Zurple.svg",
     "iso27001": false,
+    "js": {
+      "Zurple.Client": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3512,19 +5072,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "Zurple has no notable abuse signal. It is a real estate lead generation platform for agents with no consumer-facing anonymous content hosting, though its email nurturing features could potentially be misused for spam.",
     "technical_depth_score": 5,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://zurple.com",
     "white_label_wrapper_likelihood": 2
   },
   "Zwayam": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Zwayam is a recruitment software designed to manage the entire hiring process.",
+    "dom": [
+      "link[href*='/zwayam.min.css']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -3536,6 +5105,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Zwayam is an Indian recruitment software platform managing the end-to-end hiring process. It is a small independent SaaS serving primarily the Indian market.",
+    "icon": "Zwayam.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3547,19 +5117,28 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "/zwayam\\.min\\.js"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zwayam has no notable abuse signal. It is a B2B recruitment software platform with no consumer-facing anonymous content hosting.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.zwayam.com",
     "white_label_wrapper_likelihood": 1
   },
   "Zyratalk": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
+    "cats": [
+      90
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Zyratalk is a tool for handling customer conversations and managing reviews to support organized feedback tracking.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -3571,6 +5150,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Zyratalk is a customer review management and conversation tracking platform helping businesses organise customer feedback.",
+    "icon": "Zyratalk.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -3582,11 +5162,16 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.zyratalk\\.com"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Zyratalk is a reviews and customer conversation management platform with no notable abuse signal.",
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.zyratalk.com",
     "white_label_wrapper_likelihood": 2
   }
 }

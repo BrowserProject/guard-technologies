@@ -2,9 +2,14 @@
   "11Sight": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      52,
+      53
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "11Sight is an AI-powered, omnichannel platform enabling users to receive inbound video calls from any online channel, facilitating sales conversations and lead conversions.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -16,7 +21,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "11Sight is an AI-powered omnichannel video calling and CRM platform for sales teams. Founded approximately 2019. No notable ownership changes documented.",
+    "icon": "11Sight.svg",
     "iso27001": false,
+    "js": {
+      "elevensight": "",
+      "elevensightApp": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -24,22 +34,42 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "app\\.11sight\\.com/"
+    ],
     "soc2_type2": false,
     "summary_abuse": "11Sight has no notable abuse signal. It is a B2B video sales platform with no consumer-facing content hosting that would attract fraudsters.",
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.11sight.com",
     "white_label_wrapper_likelihood": 2
   },
   "1C-Bitrix": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1,
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "BITRIX_SM_GUEST_ID": "",
+      "BITRIX_SM_LAST_IP": "",
+      "BITRIX_SM_SALE_UID": ""
+    },
     "dark_pattern_likelihood": 2,
+    "description": "1C-Bitrix is a system of web project management, universal software for the creation, support and successful development of corporate websites and online stores.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 1998,
@@ -48,9 +78,17 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "Set-Cookie": "BITRIX_",
+      "X-Powered-CMS": "Bitrix Site Manager"
+    },
     "headquarters_country": "RU",
     "hipaa_compliant": false,
     "history": "1C-Bitrix was founded in 1998 in Russia and became one of the most popular CMS platforms in the Russian-speaking market. The company developed Bitrix Site Manager (the on-premise CMS product) and later launched Bitrix24, a cloud-based business suite. It has strong adoption in Russia, Ukraine, and CIS countries, with regional offices in multiple countries. The ongoing Russia-Ukraine conflict has created uncertainty for some international customers regarding data sovereignty.",
+    "icon": "1C-Bitrix.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
@@ -59,9 +97,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "onetime",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "bitrix(?:\\.info/|/js/main/core)"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.bitrix24.com"
@@ -70,14 +117,23 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.1c-bitrix.ru",
     "white_label_wrapper_likelihood": 1
   },
   "24nettbutikk": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "cookies": {
+      " _gat_24nb": "\\;confidence:50",
+      "24nb": "\\;confidence:50"
+    },
     "dark_pattern_likelihood": 1,
+    "description": "24nettbutikk is an ecommerce platform from Norway.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -89,6 +145,7 @@
     "headquarters_country": "NO",
     "hipaa_compliant": false,
     "history": "Founded in 2005 in Norway, 24nettbutikk is one of the leading ecommerce platforms for small and medium businesses in the Norwegian market. The company serves over 1,200 SMBs with a focus on Scandinavian payment and shipping integrations. No notable ownership changes or controversies documented.",
+    "icon": "24nettbutikk.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -97,9 +154,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "requires": [
+      "Cart Functionality"
+    ],
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.24nettbutikk.no"
@@ -109,14 +174,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.24nettbutikk.no",
     "white_label_wrapper_likelihood": 2
   },
   "2B Advice": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      67
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "2B Advice provides a plug-in to manage GDPR cookie consent.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2003,
@@ -128,7 +198,11 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Founded in 2003 in Bonn, Germany, 2B Advice GmbH specializes in data privacy consulting and compliance management software. The company developed the Ailance privacy management platform and offers external DPO services. It has expanded to offices in multiple European cities and the US. No notable ownership changes or controversies.",
+    "icon": "2badvice.png",
     "iso27001": true,
+    "js": {
+      "BBCookieControler": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -139,6 +213,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 8,
+    "saas": true,
+    "scriptSrc": [
+      "2badvice-cdn\\.azureedge\\.net"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://2b-advice.com/en/"
@@ -147,14 +225,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.2b-advice.com/en/data-privacy-software/cookie-consent-plugin/",
     "white_label_wrapper_likelihood": 2
   },
   "2ClickShop": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "2ClickShop is an ecommerce platform integrated with ERP systems, catering to both B2B and B2C transactions.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -166,31 +249,49 @@
     "headquarters_country": "PL",
     "hipaa_compliant": false,
     "history": "2ClickShop is a Polish e-commerce platform integrated with ERP systems, supporting both B2B and B2C transactions. Limited public history available.",
+    "icon": "2ClickShop.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "^Trol Intermedia / 2ClickShop$"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "2ClickShop has no notable abuse signal. It is a niche Polish B2B/B2C e-commerce platform with no documented fraud patterns.",
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://2click.pl",
     "white_label_wrapper_likelihood": 3
   },
   "30namaPlayer": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
+    "cats": [
+      14
+    ],
     "confidence": 3,
+    "description": "30namaPlayer is a modified version of Video.js to work with videos on HTML using javascript.",
+    "dom": [
+      "section[class*='player30nama']"
+    ],
     "enterprise_adoption": "none",
     "founded_year": 2018,
     "history": "30namaPlayer is a modified version of Video.js adapted for Persian/Farsi video content on HTML pages. It is maintained by the 30nama streaming service team.",
+    "icon": "30namaPlayer.png",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "dormant",
@@ -198,14 +299,19 @@
     "ownership_type": "independent",
     "popularity_tier": "niche",
     "summary_abuse": "30namaPlayer has no notable abuse signal. It is a niche JavaScript video player library used by a specific Iranian streaming platform.",
-    "technical_depth_score": 3
+    "technical_depth_score": 3,
+    "website": "https://30nama.com/"
   },
   "321 CMS": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 3,
     "dark_pattern_likelihood": 2,
+    "description": "321 CMS is a content management system that enables users to create and manage websites without requiring coding knowledge.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -217,30 +323,48 @@
     "headquarters_country": "CZ",
     "hipaa_compliant": false,
     "history": "321 CMS is a Czech no-code website builder and content management system by 321web.cz. Limited public history available.",
+    "icon": "321CMS.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "^321 CREATIVE CREW"
+    },
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "summary_abuse": "321 CMS has no notable abuse signal. It is a niche Czech website builder with no documented abuse patterns.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://www.321web.cz",
     "white_label_wrapper_likelihood": 3
   },
   "33Across": {
     "abuse_score": 4,
     "ai_generated_likelihood": 1,
+    "cats": [
+      36
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "33Across is a technology company focused on solving the challenge of consumer attention for automated advertising.",
+    "dom": [
+      "iframe[src*='.33across.com'], link[href*='.33across.com'], link[href*='.tynt.com']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2008,
@@ -252,7 +376,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2008 by Eric Wheeler and Greg Levitt in Sunnyvale, California, 33Across is a programmatic advertising and publisher monetization platform. The company raised $25.7 million across five funding rounds. It developed the Intent Signal Platform in 2014 to deliver audience-based advertising using machine learning.",
+    "icon": "33Across.svg",
     "iso27001": false,
+    "js": {
+      "Tynt": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -263,6 +391,11 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 1,
     "privacy_score": 2,
+    "saas": true,
+    "scriptSrc": [
+      "\\.33across\\.com/",
+      "\\.tynt\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.33across.com/about-us"
@@ -271,14 +404,27 @@
     "technical_depth_score": 6,
     "tracker_density": "heavy",
     "vendor_stability_score": 5,
-    "white_label_wrapper_likelihood": 1
+    "website": "https://www.33across.com",
+    "white_label_wrapper_likelihood": 1,
+    "xhr": [
+      "\\.33across\\.com"
+    ]
   },
   "34SP.com": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      88
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "34SP.com specialises in website hosting, discount domain names, low cost VPS servers and dedicated servers.",
+    "dns": {
+      "SOA": [
+        "ns(?:\\d+)?\\.34sp\\.com"
+      ]
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2000,
@@ -290,6 +436,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Founded in 2000 by Daniel Foster and Stuart Melling in Manchester, England, 34SP.com is a UK-based independent web hosting provider. The company has remained independently owned since founding, focusing on WordPress hosting and sustainable operations using 100% green energy. It holds ISO 9001 and 14001 accreditations and is known for UK-based human support.",
+    "icon": "34SP.com.svg",
     "iso27001": true,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -298,6 +445,10 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 8,
     "privacy_score": 7,
@@ -310,14 +461,24 @@
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 6,
+    "website": "https://www.34sp.com",
     "white_label_wrapper_likelihood": 1
   },
   "4-Tell": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "cookies": {
+      "4Tell": "",
+      "4TellCart": "",
+      "4TellSession": ""
+    },
     "dark_pattern_likelihood": 1,
+    "description": "4-Tell is an ecommerce software company for retailers with AI-powered personalisation and recommendations products.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2009,
@@ -329,7 +490,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2009 by Ken Levy and Neil Lofgren, 4-Tell developed an AI-driven ecommerce personalization platform called Smart Commerce. The company was acquired by Searchspring in August 2020 to enhance their product recommendation capabilities. Searchspring was subsequently acquired by Athos Commerce.",
+    "icon": "4-Tell.svg",
     "iso27001": false,
+    "js": {
+      "_4TellBoost": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -338,9 +503,16 @@
     "parent_company": "Searchspring",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 4,
+    "saas": true,
+    "scriptSrc": [
+      "4tellcdn\\.azureedge\\.net"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.businesswire.com/news/home/20200805005156/en/Searchspring-Boosts-Ecommerce-Personalization-Engine-with-4-Tell-Acquisition"
@@ -349,14 +521,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://4-tell.com",
     "white_label_wrapper_likelihood": 2
   },
   "42Chat": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "42Chat is a provider of conversational AI solutions and text-based chatbots designed to connect clients with their communities.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -368,6 +545,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2016 by Bob Caldwell, Chuck Elias, Chris Colleran and Kristi Colleran, 42Chat was originally named Sciensio. The company rebranded to 42Chat as it expanded its focus on curated AI chatbots for events and community organizations. Based in Draper, Utah, it has 14 employees as of 2024.",
+    "icon": "42Chat.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -379,6 +557,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "api\\.42chat\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.42chat.com/about"
@@ -387,14 +569,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.42chat.com",
     "white_label_wrapper_likelihood": 2
   },
   "42stores": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "42stores is a French SaaS ecommerce solution that was established in 2008. It offers a range of features such as monitoring, customer support, and regular updates. The platform is known for its flexibility and modularity, making it possible to integrate with various ERP systems.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -403,9 +590,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "Powered-By": "^42stores$"
+    },
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "Founded in 2008 in Rouen, France, 42stores is a French SaaS ecommerce platform specializing in multi-store management for B2B and B2C retailers. The company targets distribution, automotive parts, and industrial sectors. It has powered over 1,000 sites and maintains 20-49 employees.",
+    "icon": "42stores.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -414,9 +605,14 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.crunchbase.com/organization/42stores"
@@ -425,14 +621,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.42stores.com",
     "white_label_wrapper_likelihood": 2
   },
   "4Partners": {
     "abuse_score": 4,
     "ai_generated_likelihood": 3,
+    "cats": [
+      99
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "4Partners is an international dropshipping service that allows you to launch a ready-made online store.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -444,6 +645,7 @@
     "headquarters_country": "AE",
     "hipaa_compliant": false,
     "history": "Founded in 2017 in the UAE, 4Partners is a dropshipping and ecommerce enablement platform with warehouses in the UAE, Germany, USA, Turkey, and China. The company raised $3.6 million in 2024 to expand across the MENA region. It originated in Russia before relocating operations to the UAE.",
+    "icon": "4Partners.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -452,6 +654,9 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
@@ -463,14 +668,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://4partners.io/en/",
     "white_label_wrapper_likelihood": 4
   },
   "4Partners CMS": {
     "abuse_score": 4,
     "ai_generated_likelihood": 3,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 3,
+    "description": "4Partners CMS is a cloud-based solution designed for ecommerce shops.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -482,15 +692,27 @@
     "headquarters_country": "AE",
     "hipaa_compliant": false,
     "history": "4Partners CMS is a cloud-based ecommerce storefront platform developed by 4Partners, a UAE-based dropshipping company founded in 2017. The CMS provides access to millions of products and enables merchants to manage multi-country ecommerce operations. No separate corporate history from the parent 4Partners entity.",
+    "icon": "4Partners.svg",
+    "implies": [
+      "PHP",
+      "4Partners",
+      "Nginx"
+    ],
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "^4CMS$"
+    },
     "overall_trust_score": 4,
     "ownership_type": "subsidiary",
     "parent_company": "4Partners",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 4,
@@ -502,14 +724,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://4partners.io/en/4p-cms",
     "white_label_wrapper_likelihood": 4
   },
   "51.LA": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "51.LA is a Chinese based website visitor counter.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -521,7 +748,11 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "51.LA is a Chinese web analytics and visitor statistics platform that has been operating since approximately the mid-2000s. It serves websites primarily targeting the Chinese market, offering lightweight visitor counters and analytics. No notable ownership changes documented.",
+    "icon": "51.LA.png",
     "iso27001": false,
+    "js": {
+      "LA.config.ck": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -529,9 +760,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "recurring",
+      "payg"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 6,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://51degrees.com"
@@ -541,14 +778,19 @@
     "technical_depth_score": 4,
     "tracker_density": "moderate",
     "vendor_stability_score": 3,
+    "website": "https://www.51.la",
     "white_label_wrapper_likelihood": 2
   },
   "52Degrees": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "52Degrees is a data platform formerly known as Handset Detection, providing real-time device and data insights for digital businesses.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -560,6 +802,7 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "52Degrees (operating as 51Degrees at 51degrees.com) was formerly known as Handset Detection and pivoted to become a real-time device detection and data platform. The company is UK-based and serves digital businesses requiring device-level data insights. No major ownership changes documented.",
+    "icon": "52Degrees.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -568,9 +811,22 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 4,
+    "saas": true,
+    "scripts": [
+      "'api\\.handsetdetection\\.com"
+    ],
+    "scriptSrc": [
+      "api\\.handsetdetection\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://51degrees.com"
@@ -579,14 +835,22 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://51degrees.com",
     "white_label_wrapper_likelihood": 2
   },
   "5centsCDN": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      31
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "5centsCDN is a content delivery networks service provider.",
+    "dom": [
+      "link[href*='.5centscdn.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2012,
@@ -595,9 +859,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": false,
+    "headers": {
+      "x-cdn": "^5centsCDN$"
+    },
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Founded in 2012 in Edmonton, Canada by CEO Amru Rahiman Komalath, 5centsCDN is a budget-focused content delivery network and edge platform. The company targets live-streaming, IPTV, and VOD use cases with pricing starting at 5 cents per GB. It serves 300+ clients globally including government agencies and TV channels.",
+    "icon": "5centsCDN.svg",
     "iso27001": false,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -606,9 +874,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "recurring",
+      "low"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "scriptSrc": [
+      "\\.5centscdn\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.5centscdn.net/about-us/"
@@ -618,14 +893,20 @@
     "technical_depth_score": 6,
     "tracker_density": "none",
     "vendor_stability_score": 4,
+    "website": "https://www.5centscdn.net",
     "white_label_wrapper_likelihood": 1
   },
   "6sense": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
+    "cats": [
+      32,
+      76
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "6sense is a B2B predictive intelligence platform for marketing and sales.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2013,
@@ -634,9 +915,13 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": false,
+    "headers": {
+      "Content-Security-Policy": "\\.6sc\\.co/"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2013 in San Francisco by Viral Bajaria, Premal Shah, and Amanda Kahlow, 6sense is a B2B account-based marketing and revenue intelligence platform. The company raised $426 million, achieving a $5.2 billion valuation by 2022. It grew ARR past $200 million by 2024 with consistent triple-digit growth. No major ownership changes; remains VC-backed and independent.",
+    "icon": "6sense.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -645,9 +930,18 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "poa",
+      "high",
+      "recurring"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 1,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "\\.6sc\\.co/"
+    ],
     "soc2_type2": true,
     "source_urls": [
       "https://6sense.com/"
@@ -656,13 +950,22 @@
     "technical_depth_score": 7,
     "tracker_density": "moderate",
     "vendor_stability_score": 8,
+    "website": "https://6sense.com",
     "white_label_wrapper_likelihood": 1
   },
   "6Valley eCommerce CMS": {
     "abuse_score": 4,
     "ai_generated_likelihood": 2,
+    "cats": [
+      1,
+      6
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
+    "cookies": {
+      "6valley_session": ""
+    },
+    "description": "6Valley eCommerce CMS is a multi-vendor platform designed to facilitate business launches by providing tools for managing vendors, products, and transactions within an ecommerce ecosystem.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2021,
@@ -674,6 +977,7 @@
     "headquarters_country": "BD",
     "hipaa_compliant": false,
     "history": "6Valley eCommerce CMS is a multi-vendor ecommerce platform developed by 6am Tech, a Bangladeshi software company based in Dhaka. Built on Laravel and Flutter, it was launched around 2021 as a self-hosted solution sold on CodeCanyon. The product targets entrepreneurs wanting to build Amazon-like marketplaces in emerging markets.",
+    "icon": "6ValleyEcommerceCMS.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "proprietary",
@@ -682,9 +986,15 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "onetime"
+    ],
     "pricing_model": "one-time",
     "pricing_transparency_score": 7,
     "privacy_score": 4,
+    "scripts": [
+      "6valley_cookie_consent"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://6valley.app/"
@@ -692,14 +1002,20 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "6Valley is a self-hosted multi-vendor ecommerce script sold primarily on code marketplaces. Nulled (pirated) versions circulate widely online, which can result in installations with backdoors or malware. Self-hosted ecommerce scripts used without proper vetting are a common vector for compromised storefronts and payment fraud. Legitimate licensed installs carry standard ecommerce platform risks.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 3
+    "vendor_stability_score": 3,
+    "website": "https://6valley.app"
   },
   "7moor": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
+    "cats": [
+      32,
+      53
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "7moor is an integrated customer service marketing solution that combines communication, customer support, and marketing tools.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -711,7 +1027,11 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "RongLian 7Moor was founded in 2014 in Beijing, China as a cloud-based customer service platform. The company is part of Ronglian Group (Ronglian Qimo) and specializes in AI-driven customer service, cloud call center, and telemarketing solutions. It raised $5.4 million in funding.",
+    "icon": "7moor.svg",
     "iso27001": false,
+    "js": {
+      "moor7Source": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -723,6 +1043,7 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 3,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://developer.7moor.com/en/"
@@ -731,14 +1052,22 @@
     "technical_depth_score": 6,
     "tracker_density": "moderate",
     "vendor_stability_score": 5,
+    "website": "https://www.7moor.com",
     "white_label_wrapper_likelihood": 2
   },
   "7Shifts": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      101
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "7Shifts is an all-in-one team management platform designed to streamline restaurant operations, providing tools for scheduling, communication, and task management to simplify day-to-day activities for both managers and staff.",
+    "dom": [
+      "a[href*='7shifts.com/'] > img[src*='.7shifts.com/']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -750,6 +1079,7 @@
     "headquarters_country": "CA",
     "hipaa_compliant": false,
     "history": "Founded in 2014 in Saskatoon, Saskatchewan, Canada by Jordan Boesch, who was inspired by challenges his father faced scheduling employees at Quiznos restaurants. 7shifts grew to serve 50,000+ restaurants and 1 million users, raising over $150 million CAD including an $80 million USD Series C from SoftBank Vision Fund 2 in 2022. No ownership changes; remains independent.",
+    "icon": "7Shifts.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -758,9 +1088,15 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 8,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": true,
     "source_urls": [
       "https://www.7shifts.com/"
@@ -770,14 +1106,20 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://www.7shifts.com",
     "white_label_wrapper_likelihood": 1
   },
   "8base": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
+    "cats": [
+      3,
+      62
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "8base is a low-code development platform for building and running enterprise-grade digital products including SaaS solutions, marketplaces and other go-to-market applications.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -789,6 +1131,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2017 by Albert Santalo in Coral Gables, Florida, 8base provides a low-code development platform combining a serverless GraphQL backend-as-a-service with a visual app builder. The company raised $10.6 million Series A from Foundry Group, Techstars, and MongoDB Ventures. Previously Santalo founded CareCloud (NASDAQ: MTBC).",
+    "icon": "8base.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -797,9 +1140,15 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "freemium",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.8base.com/"
@@ -809,14 +1158,22 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 5,
-    "white_label_wrapper_likelihood": 2
+    "website": "https://8base.com",
+    "white_label_wrapper_likelihood": 2,
+    "xhr": [
+      "api\\.8base\\.com"
+    ]
   },
   "8x8": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "8x8 is a communication tool offering chat functionality for streamlined business communication.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 1987,
@@ -828,7 +1185,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": true,
     "history": "Founded in 1987 by Chi-Shin Wang and Y.W. Sing as Integrated Information Technology Inc., 8x8 went public in 1997 on Nasdaq (ticker: EGHT). The company pivoted from semiconductor and video conferencing hardware to become a cloud unified communications and contact center provider. It has grown into a major UCaaS platform serving enterprises globally.",
+    "icon": "8x8.svg",
     "iso27001": true,
+    "js": {
+      "Chat8x8": "",
+      "__8x8Chat": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -836,9 +1198,13 @@
     "ownership_type": "public",
     "pci_dss": true,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
     "soc2_type2": true,
     "source_urls": [
       "https://www.8x8.com/"
@@ -848,14 +1214,19 @@
     "technical_depth_score": 8,
     "tracker_density": "light",
     "vendor_stability_score": 9,
+    "website": "https://www.8x8.com",
     "white_label_wrapper_likelihood": 1
   },
   "91App": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "91App is a Taiwan-based platform that provides solutions for retail stores.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2013,
@@ -867,6 +1238,7 @@
     "headquarters_country": "TW",
     "hipaa_compliant": false,
     "history": "Founded in 2013 by Steven Ho in Taiwan, 91APP is Taiwan's first publicly listed SaaS company (Stock Code: 6741), pioneering D2C and OMO retail technology in Taiwan, Hong Kong, and Malaysia. Ho is recognized as the godfather of Taiwan ecommerce. The company operates retail and F&B brand solutions integrating commerce, marketing, POS, and payments.",
+    "icon": "91App.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -878,6 +1250,10 @@
     "pricing_model": "subscription",
     "pricing_transparency_score": 2,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.91app\\.com/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://91app.com/en/about-91app/"
@@ -886,14 +1262,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://91app.com",
     "white_label_wrapper_likelihood": 1
   },
   "99minds": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      84
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "99minds is an online platform for managing and scaling gift cards, store credit, digital wallets, and loyalty programs.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -905,7 +1286,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2019 in New York, 99minds is a B2B SaaS platform for gift cards, store credits, and omnichannel loyalty programs. The company was founded by Mrudul Tarwatkar and Pravin Kamble and serves 1,000+ businesses. It remains bootstrapped with no disclosed funding.",
+    "icon": "99minds.svg",
     "iso27001": false,
+    "js": {
+      "_99mindsDataLayer": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -913,9 +1298,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "\\.99minds\\.io"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.99minds.io/about-us"
@@ -925,34 +1319,55 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.99minds.io",
     "white_label_wrapper_likelihood": 2
   },
   "<model-viewer>": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      105
+    ],
     "confidence": 7,
+    "description": "<model-viewer> is an open-source web component developed by Google and maintained through GitHub. <model-viewer> aims at putting 3D content on the web easily with a few lines of HTML code. This was first introduced with Chrome 72 in July 2019 and enables users to view 3D in the browser and mobile devices.",
+    "dom": [
+      "model-viewer"
+    ],
     "enterprise_adoption": "common",
     "founded_year": 2019,
     "history": "model-viewer is an open-source web component released by Google in 2019, first introduced with Chrome 72. It enables declarative 3D and AR rendering in the browser using WebGL and model formats like glTF/GLB. Maintained by the Google model-viewer team on GitHub under Apache 2.0 license.",
+    "icon": "model-viewer.svg",
     "kind": "oss-library",
     "license_type": "apache-2.0",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 8,
     "ownership_type": "foundation",
     "popularity_tier": "growing",
+    "scriptSrc": [
+      "/model-viewer/dist/model-viewer\\.min\\.js"
+    ],
     "source_urls": [
       "https://github.com/google/model-viewer"
     ],
     "summary_abuse": "model-viewer is a Google-maintained open-source web component for 3D model display with no consumer-facing attack surface and no documented abuse history.",
-    "technical_depth_score": 7
+    "technical_depth_score": 7,
+    "website": "https://modelviewer.dev"
   },
   "@sulu/web": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 6,
     "enterprise_adoption": "limited",
     "founded_year": 2018,
     "history": "The @sulu/web JavaScript package is part of the Sulu CMS ecosystem, an open-source Symfony-based CMS developed by a community of European digital agencies. The web-js library provides frontend utilities for Sulu-powered websites. No notable ownership changes; remains community-maintained.",
+    "icon": "Sulu.svg",
+    "js": {
+      "web.startComponents": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "maintained",
@@ -963,25 +1378,39 @@
       "https://github.com/sulu/web-js"
     ],
     "summary_abuse": "@sulu/web is an open-source frontend JavaScript library for the Sulu CMS ecosystem with no consumer-facing surface and no documented abuse history.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://github.com/sulu/web-js"
   },
   "_hyperscript": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      59
+    ],
     "confidence": 7,
+    "description": "_hyperscript is a scripting language for adding interactivity to the front-end.",
     "enterprise_adoption": "none",
     "founded_year": 2020,
     "history": "_hyperscript is an open-source scripting language for adding interactivity to web frontends, created by Carson Gross around 2020. It is developed by the same team behind htmx as an alternative to JavaScript for front-end interactions, inspired by the HyperTalk language.",
+    "icon": "_hyperscript.png",
+    "js": {
+      "_hyperscript": ""
+    },
     "kind": "oss-library",
     "license_type": "bsd-2-clause",
     "maintenance_status": "active",
+    "oss": true,
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "//unpkg\\.com/hyperscript\\.org@([\\d\\.]+)\\;version:\\1"
+    ],
     "source_urls": [
       "https://hyperscript.org"
     ],
     "summary_abuse": "_hyperscript has no notable abuse signal. It is a client-side JavaScript scripting library with no consumer-facing network services.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://hyperscript.org"
   }
 }

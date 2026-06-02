@@ -1,42 +1,42 @@
 # guard-technologies
 
-The enrichment layer for [guard.ch](https://guard.ch) technology detection.
+The source of truth for [guard.ch](https://guard.ch) technology detection.
 
-This repository holds the **advanced metadata** for the technologies that the
-`chrome_guard` session-replay capture detects: trust / privacy / abuse scoring,
-vendor and ownership facts, compliance posture, pricing model, popularity, and
-prose summaries. It is the source of truth for that data, migrated out of the
-`guard_v6` Postgres database so it can be version-controlled, reviewed, and
-baked directly into the capture container.
+This repository holds **both** layers of the detection corpus in one place:
 
-## Relationship to webdetector
+- the **webappanalyzer / Wappalyzer fingerprint and basic fields** used to detect
+  which technologies are present (`cats`, `website`, `icon`, `js`, `dom`,
+  `scriptSrc`, `description`, `pricing`, …), and
+- the **guard.ch enrichment layer** used to explain and score what was detected:
+  trust / privacy / abuse scoring, vendor and ownership facts, compliance
+  posture, pricing model, popularity, and prose summaries.
 
-Detection is split across two repositories, joined by the technology name and
-the category id:
+Each technology record carries both kinds of fields. The data is consumed by the
+`chrome_guard` session-replay capture and baked directly into the capture
+container.
 
-| Repository | Holds | Used for |
-|------------|-------|----------|
-| [`BrowserProject/webdetector`](https://github.com/BrowserProject/webdetector) | Wappalyzer fingerprints + the basic webappanalyzer fields (`name`, `description`, `icon`, `cpe`, `oss`, `saas`, `pricing`, `cats`, `implies`, `requires`, `requiresCategory`, `excludes`, `website`; category `name` / `priority` / `groups`) | Detecting which technologies are present |
-| **`guard-technologies`** (this repo) | Everything beyond those basic fields: scores, company facts, compliance, summaries, etc. | Explaining/scoring what was detected |
-
-**There is no duplication.** Any field that already exists in webdetector is
-intentionally absent here. If you need a technology's description or icon, read
-it from webdetector; this repo only adds what webdetector does not have.
+> **History:** detection used to be split across two repositories — fingerprints
+> in [`BrowserProject/webdetector`](https://github.com/BrowserProject/webdetector)
+> and enrichment here — joined by technology name and category id. Those have
+> been **consolidated into this repository**, which is now the single source of
+> truth; `webdetector` is being retired.
 
 ## Layout
 
 ```
 src/
   technologies/        one file per first letter (a.json .. z.json, _.json for non-alpha)
-                       { "<webappanalyzer tech name>": { ...enrichment... } }
-  categories.json      { "<webappanalyzer category id>": { ...enrichment... } }
-schema.json            JSON Schema for both record shapes (technology + category)
-scripts/validate.py    structure / ordering / schema validator (run in CI)
+                       { "<technology name>": { ...fingerprint + enrichment... } }
+  categories.json      { "<category id>": { ...fingerprint + enrichment... } }
+  groups.json          { "<group id>": { "name": ... } }   category groupings
+  images/icons/        technology icons (<name>.svg / <name>.png), referenced by `icon`
+schema.json            JSON Schema for technology / category / group records
+scripts/validate.py    structure / ordering / schema / referential validator (run in CI)
 ```
 
-- Technology records are keyed by the **exact** webappanalyzer technology name
-  (case-sensitive key, matched case-insensitively by consumers).
-- Category records are keyed by the **webappanalyzer category id** (string).
+- Technology records are keyed by the **exact** technology name (case-sensitive
+  key, matched case-insensitively by consumers).
+- Category and group records are keyed by their integer **id** (as a string).
 - Within each file, keys are sorted alphabetically (case-insensitive); within
   each record, fields are sorted alphabetically.
 - Absent data is omitted rather than written as `null`.
@@ -46,6 +46,25 @@ scripts/validate.py    structure / ordering / schema validator (run in CI)
 ### Technology (`src/technologies/*.json`)
 
 Scores are integers `0-10`.
+
+#### Detection / basic fields (webappanalyzer)
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `cats` | number[] | category ids (required); must exist in `categories.json` |
+| `website` | string | vendor/project site (required) |
+| `description` | string | short description (≤ 550 chars) |
+| `icon` | string | filename in `src/images/icons/` (e.g. `Playwire.png`) |
+| `cpe` | string | CPE 2.3 identifier |
+| `oss`, `saas` | boolean | |
+| `pricing` | string[] | `low` / `mid` / `high` / `freemium` / `poa` / `payg` / `onetime` / `recurring` |
+| `implies`, `requires`, `excludes` | string[] | relationships to other technologies |
+| `requiresCategory` | number[] | required category ids |
+| `cookies`, `headers`, `meta`, `dns`, `js`, `dom`, `probe` | object | fingerprint patterns |
+| `scriptSrc`, `scripts`, `url`, `xhr`, `html`, `text`, `css`, `robots` | string[] | fingerprint patterns |
+| `certIssuer` | string | TLS certificate issuer pattern |
+
+#### Enrichment fields (guard.ch)
 
 | Field | Type | Notes |
 |-------|------|-------|
@@ -75,6 +94,9 @@ Scores are integers `0-10`.
 
 | Field | Type | Notes |
 |-------|------|-------|
+| `name` | string | category display name (webappanalyzer) |
+| `priority` | integer | webappanalyzer ordering priority |
+| `groups` | number[] | group ids; must exist in `groups.json` |
 | `description` | string | |
 | `placement` | enum | `client` / `server` / `mixed` / `infrastructure` |
 | `business_function` | enum | `analytics` / `commerce` / `communication` / `content` / `developer-tool` / `identity` / `infrastructure` / `media` / `payment` / `productivity` / `security` |
@@ -85,9 +107,17 @@ Scores are integers `0-10`.
 | `confidence` | score | |
 | `source_urls` | string[] | |
 
+### Group (`src/groups.json`)
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `name` | string | group display name |
+
 ## Editing
 
-1. Edit the relevant `src/technologies/<letter>.json` or `src/categories.json`.
+1. Edit the relevant `src/technologies/<letter>.json`, `src/categories.json`, or
+   `src/groups.json`. To add or change an icon, drop the file in
+   `src/images/icons/` and set the record's `icon` to its filename.
 2. Keep keys alphabetical (both the tech-name keys and the fields within a record).
 3. Run the validator: `python3 scripts/validate.py` (needs `pip install jsonschema`).
 4. Open a PR. CI runs the same validator.

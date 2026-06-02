@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "guard-technologies enrichment schema",
-  "description": "Advanced enrichment for guard.ch technology detection. This repository holds ONLY the enrichment layer: fields that are NOT part of the webappanalyzer fingerprint corpus (see BrowserProject/webdetector). Records are keyed by the exact webappanalyzer technology name (technologies/*.json) or webappanalyzer category id (categories.json). Basic identifiers already present in webdetector (name, description, icon, cpe, oss, saas, pricing, cats, implies, requires, requiresCategory, excludes, website, category name/priority/groups) are intentionally absent here to avoid duplication.",
+  "description": "Consolidated source of truth for guard.ch technology detection. Each technology record combines the webappanalyzer/Wappalyzer fingerprint and basic fields (cats, website, icon, js, dom, scriptSrc, etc.) with the guard.ch enrichment layer (trust/privacy/abuse scores, vendor and compliance facts, summaries). Records are keyed by the technology name (technologies/*.json) or category id (categories.json); groups.json holds category groups. This repository previously held only the enrichment layer and joined to BrowserProject/webdetector; it now contains both.",
   "$defs": {
     "score": {
       "type": "integer",
@@ -10,108 +10,497 @@
     },
     "url_list": {
       "type": "array",
-      "items": { "type": "string", "format": "uri" }
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "non-empty-non-blank-string": {
+      "type": "string",
+      "pattern": "^(?!\\s*$).+"
     },
     "technology": {
       "type": "object",
       "additionalProperties": false,
       "properties": {
-        "kind": {
-          "type": "string",
-          "enum": ["commercial-product", "commercial-saas", "infrastructure", "language", "oss-library", "oss-project", "protocol", "standard"]
+        "abuse_score": {
+          "$ref": "#/$defs/score"
         },
-        "technical_depth_score": { "$ref": "#/$defs/score" },
-        "privacy_score": { "$ref": "#/$defs/score" },
-        "vendor_stability_score": { "$ref": "#/$defs/score" },
-        "overall_trust_score": { "$ref": "#/$defs/score" },
-        "pricing_transparency_score": { "$ref": "#/$defs/score" },
-        "ai_generated_likelihood": { "$ref": "#/$defs/score" },
-        "white_label_wrapper_likelihood": { "$ref": "#/$defs/score" },
-        "dark_pattern_likelihood": { "$ref": "#/$defs/score" },
-        "abuse_score": { "$ref": "#/$defs/score" },
-        "confidence": { "$ref": "#/$defs/score" },
-        "founded_year": { "type": "integer", "minimum": 1900, "maximum": 2100 },
-        "headquarters_country": { "type": "string", "pattern": "^[A-Z]{2}$" },
+        "ai_generated_likelihood": {
+          "$ref": "#/$defs/score"
+        },
+        "cats": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 1
+        },
+        "certIssuer": {
+          "$ref": "#/$defs/non-empty-non-blank-string"
+        },
         "company_size_bucket": {
           "type": "string",
-          "enum": ["solo", "startup", "smb", "midmarket", "enterprise", "mega"]
+          "enum": [
+            "solo",
+            "startup",
+            "smb",
+            "midmarket",
+            "enterprise",
+            "mega"
+          ]
         },
-        "parent_company": { "type": "string" },
-        "ownership_type": {
-          "type": "string",
-          "enum": ["foundation", "independent", "public", "subsidiary", "vc-backed"]
+        "confidence": {
+          "$ref": "#/$defs/score"
         },
-        "license_type": { "type": "string" },
-        "maintenance_status": {
-          "type": "string",
-          "enum": ["abandoned", "active", "deprecated", "dormant", "maintained"]
+        "cookies": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^.+$": {},
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
         },
-        "pricing_model": {
+        "cpe": {
           "type": "string",
-          "enum": ["dual-license", "enterprise-only", "free", "freemium", "one-time", "subscription", "usage-based"]
+          "pattern": "^[Cc][Pp][Ee]:(/|\\d+\\.\\d+)[^:]*(:?[^:]*){0,11}$"
         },
-        "has_free_tier": { "type": "boolean" },
-        "has_self_hosted_option": { "type": "boolean" },
-        "enterprise_pricing_only": { "type": "boolean" },
-        "soc2_type2": { "type": "boolean" },
-        "iso27001": { "type": "boolean" },
-        "gdpr_compliant": { "type": "boolean" },
-        "hipaa_compliant": { "type": "boolean" },
-        "pci_dss": { "type": "boolean" },
-        "has_bug_bounty": { "type": "boolean" },
-        "has_responsible_disclosure_policy": { "type": "boolean" },
-        "starting_price_usd_monthly": { "type": "number", "minimum": 0 },
-        "tracker_density": {
-          "type": "string",
-          "enum": ["heavy", "light", "moderate", "none"]
+        "css": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
         },
-        "popularity_tier": {
+        "dark_pattern_likelihood": {
+          "$ref": "#/$defs/score"
+        },
+        "description": {
           "type": "string",
-          "enum": ["dominant", "growing", "mainstream", "niche"]
+          "pattern": "^.{0,550}$"
+        },
+        "dns": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^.+$": {}
+          }
+        },
+        "dom": {
+          "oneOf": [
+            {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/non-empty-non-blank-string"
+              }
+            },
+            {
+              "$ref": "#/$defs/non-empty-non-blank-string"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "patternProperties": {
+                "^.+$": {}
+              }
+            }
+          ]
         },
         "enterprise_adoption": {
           "type": "string",
-          "enum": ["common", "limited", "none", "widespread"]
+          "enum": [
+            "common",
+            "limited",
+            "none",
+            "widespread"
+          ]
         },
-        "summary_abuse": { "type": "string", "maxLength": 2000 },
-        "history": { "type": "string", "maxLength": 2000 },
-        "source_urls": { "$ref": "#/$defs/url_list" }
-      }
+        "enterprise_pricing_only": {
+          "type": "boolean"
+        },
+        "excludes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "founded_year": {
+          "type": "integer",
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "gdpr_compliant": {
+          "type": "boolean"
+        },
+        "has_bug_bounty": {
+          "type": "boolean"
+        },
+        "has_free_tier": {
+          "type": "boolean"
+        },
+        "has_responsible_disclosure_policy": {
+          "type": "boolean"
+        },
+        "has_self_hosted_option": {
+          "type": "boolean"
+        },
+        "headers": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^.+$": {},
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "headquarters_country": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "hipaa_compliant": {
+          "type": "boolean"
+        },
+        "history": {
+          "type": "string",
+          "maxLength": 2000
+        },
+        "html": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "icon": {
+          "$ref": "#/$defs/non-empty-non-blank-string"
+        },
+        "implies": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "iso27001": {
+          "type": "boolean"
+        },
+        "js": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^.+$": {},
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "commercial-product",
+            "commercial-saas",
+            "infrastructure",
+            "language",
+            "oss-library",
+            "oss-project",
+            "protocol",
+            "standard"
+          ]
+        },
+        "license_type": {
+          "type": "string"
+        },
+        "maintenance_status": {
+          "type": "string",
+          "enum": [
+            "abandoned",
+            "active",
+            "deprecated",
+            "dormant",
+            "maintained"
+          ]
+        },
+        "meta": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^.+$": {},
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "oss": {
+          "type": "boolean"
+        },
+        "overall_trust_score": {
+          "$ref": "#/$defs/score"
+        },
+        "ownership_type": {
+          "type": "string",
+          "enum": [
+            "foundation",
+            "independent",
+            "public",
+            "subsidiary",
+            "vc-backed"
+          ]
+        },
+        "parent_company": {
+          "type": "string"
+        },
+        "pci_dss": {
+          "type": "boolean"
+        },
+        "popularity_tier": {
+          "type": "string",
+          "enum": [
+            "dominant",
+            "growing",
+            "mainstream",
+            "niche"
+          ]
+        },
+        "pricing": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^(low|mid|high|freemium|poa|payg|onetime|recurring)$"
+          }
+        },
+        "pricing_model": {
+          "type": "string",
+          "enum": [
+            "dual-license",
+            "enterprise-only",
+            "free",
+            "freemium",
+            "one-time",
+            "subscription",
+            "usage-based"
+          ]
+        },
+        "pricing_transparency_score": {
+          "$ref": "#/$defs/score"
+        },
+        "privacy_score": {
+          "$ref": "#/$defs/score"
+        },
+        "probe": {
+          "type": "object",
+          "additionalProperties": false,
+          "patternProperties": {
+            "^.+$": {},
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "requires": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "requiresCategory": {
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        },
+        "robots": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "saas": {
+          "type": "boolean"
+        },
+        "scriptSrc": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "scripts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "soc2_type2": {
+          "type": "boolean"
+        },
+        "source_urls": {
+          "$ref": "#/$defs/url_list"
+        },
+        "starting_price_usd_monthly": {
+          "type": "number",
+          "minimum": 0
+        },
+        "summary_abuse": {
+          "type": "string",
+          "maxLength": 2000
+        },
+        "technical_depth_score": {
+          "$ref": "#/$defs/score"
+        },
+        "text": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "tracker_density": {
+          "type": "string",
+          "enum": [
+            "heavy",
+            "light",
+            "moderate",
+            "none"
+          ]
+        },
+        "url": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        },
+        "vendor_stability_score": {
+          "$ref": "#/$defs/score"
+        },
+        "website": {
+          "$ref": "#/$defs/non-empty-non-blank-string"
+        },
+        "white_label_wrapper_likelihood": {
+          "$ref": "#/$defs/score"
+        },
+        "xhr": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/non-empty-non-blank-string"
+          }
+        }
+      },
+      "required": [
+        "cats",
+        "website"
+      ]
     },
     "category": {
       "type": "object",
       "additionalProperties": false,
       "properties": {
-        "description": { "type": "string" },
-        "placement": {
-          "type": "string",
-          "enum": ["client", "infrastructure", "mixed", "server"]
-        },
         "business_function": {
           "type": "string",
-          "enum": ["analytics", "commerce", "communication", "content", "developer-tool", "identity", "infrastructure", "media", "payment", "productivity", "security"]
+          "enum": [
+            "analytics",
+            "commerce",
+            "communication",
+            "content",
+            "developer-tool",
+            "identity",
+            "infrastructure",
+            "media",
+            "payment",
+            "productivity",
+            "security"
+          ]
         },
-        "inherent_attack_surface_score": { "$ref": "#/$defs/score" },
-        "inherent_privacy_risk_score": { "$ref": "#/$defs/score" },
-        "inherent_third_party_data_sharing_score": { "$ref": "#/$defs/score" },
-        "inherent_pii_exposure_score": { "$ref": "#/$defs/score" },
-        "tracker_likelihood_score": { "$ref": "#/$defs/score" },
-        "confidence": { "$ref": "#/$defs/score" },
+        "confidence": {
+          "$ref": "#/$defs/score"
+        },
+        "description": {
+          "type": "string"
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          }
+        },
+        "inherent_attack_surface_score": {
+          "$ref": "#/$defs/score"
+        },
+        "inherent_pii_exposure_score": {
+          "$ref": "#/$defs/score"
+        },
+        "inherent_privacy_risk_score": {
+          "$ref": "#/$defs/score"
+        },
+        "inherent_third_party_data_sharing_score": {
+          "$ref": "#/$defs/score"
+        },
+        "name": {
+          "type": "string"
+        },
+        "placement": {
+          "type": "string",
+          "enum": [
+            "client",
+            "infrastructure",
+            "mixed",
+            "server"
+          ]
+        },
+        "priority": {
+          "type": "integer"
+        },
+        "recommended_scrutiny_level": {
+          "type": "string",
+          "enum": [
+            "critical",
+            "high",
+            "low",
+            "moderate"
+          ]
+        },
         "regulatory_relevance": {
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["ccpa", "cookie-law", "coppa", "ferpa", "gdpr", "glba", "hipaa", "pci-dss", "pii-handling", "soc2"]
+            "enum": [
+              "ccpa",
+              "cookie-law",
+              "coppa",
+              "ferpa",
+              "gdpr",
+              "glba",
+              "hipaa",
+              "pci-dss",
+              "pii-handling",
+              "soc2"
+            ]
           }
         },
-        "recommended_scrutiny_level": {
-          "type": "string",
-          "enum": ["critical", "high", "low", "moderate"]
+        "source_urls": {
+          "$ref": "#/$defs/url_list"
         },
-        "summary_security": { "type": "string", "maxLength": 1000 },
-        "summary_privacy": { "type": "string", "maxLength": 1000 },
-        "source_urls": { "$ref": "#/$defs/url_list" }
+        "summary_privacy": {
+          "type": "string",
+          "maxLength": 1000
+        },
+        "summary_security": {
+          "type": "string",
+          "maxLength": 1000
+        },
+        "tracker_likelihood_score": {
+          "$ref": "#/$defs/score"
+        }
       }
+    },
+    "group": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/non-empty-non-blank-string"
+        }
+      },
+      "required": [
+        "name"
+      ]
     }
   }
 }

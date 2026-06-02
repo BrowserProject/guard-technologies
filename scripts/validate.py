@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Validate the guard-technologies enrichment corpus.
+"""Validate the consolidated guard-technologies corpus.
+
+Each technology record carries both the webappanalyzer fingerprint/basic fields
+and the guard.ch enrichment layer; this validator covers the whole repository.
 
 Checks, per file:
   - valid JSON, no duplicate keys
@@ -8,6 +11,13 @@ Checks, per file:
     record validates against the `technology` definition in schema.json
   - categories.json: keys are integers, each record validates against the
     `category` definition in schema.json
+  - groups.json: keys are integers, each record validates against the `group`
+    definition in schema.json
+
+Referential integrity:
+  - every `icon` referenced by a technology exists in src/images/icons/
+  - every category id in a technology's `cats` exists in categories.json
+  - every group id in a category's `groups` exists in groups.json
 
 Run from the repo root:  python3 scripts/validate.py
 Requires: jsonschema  (pip install jsonschema)
@@ -24,6 +34,8 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = ROOT / "src"
 TECH_DIR = SRC / "technologies"
 CATS_FILE = SRC / "categories.json"
+GROUPS_FILE = SRC / "groups.json"
+ICONS_DIR = SRC / "images" / "icons"
 SCHEMA_FILE = ROOT / "schema.json"
 
 errors: list[str] = []
@@ -51,6 +63,13 @@ def main() -> int:
     schema = json.loads(SCHEMA_FILE.read_text(encoding="utf8"))
     tech_validator = Draft202012Validator({**schema, "$ref": "#/$defs/technology"})
     cat_validator = Draft202012Validator({**schema, "$ref": "#/$defs/category"})
+    group_validator = Draft202012Validator({**schema, "$ref": "#/$defs/group"})
+
+    icon_files = {p.name for p in ICONS_DIR.iterdir()} if ICONS_DIR.is_dir() else set()
+    referenced_cats: set[int] = set()
+    referenced_groups: set[int] = set()
+    category_ids: set[int] = set()
+    group_ids: set[int] = set()
 
     letters = list(string.ascii_lowercase) + ["_"]
     total_techs = 0
@@ -79,6 +98,10 @@ def main() -> int:
                 err(f"{path.name}: '{name}' belongs in {expected}.json")
             for v in tech_validator.iter_errors(rec):
                 err(f"{path.name}: '{name}': {v.message}")
+            icon = rec.get("icon")
+            if icon and icon not in icon_files:
+                err(f"{path.name}: '{name}': icon '{icon}' not found in src/images/icons/")
+            referenced_cats.update(int(c) for c in rec.get("cats", []))
         total_techs += len(data)
 
     if not CATS_FILE.exists():
@@ -89,13 +112,38 @@ def main() -> int:
             for cid, rec in cats.items():
                 if not cid.lstrip("-").isdigit():
                     err(f"categories.json: key '{cid}' is not an integer id")
+                else:
+                    category_ids.add(int(cid))
                 for v in cat_validator.iter_errors(rec):
                     err(f"categories.json: id {cid}: {v.message}")
+                referenced_groups.update(int(g) for g in rec.get("groups", []))
             print(f"categories: {len(cats)}")
         except ValueError as e:
             err(f"categories.json: {e}")
 
+    if not GROUPS_FILE.exists():
+        err("src/groups.json is missing")
+    else:
+        try:
+            groups = load(GROUPS_FILE)
+            for gid, rec in groups.items():
+                if not gid.lstrip("-").isdigit():
+                    err(f"groups.json: key '{gid}' is not an integer id")
+                else:
+                    group_ids.add(int(gid))
+                for v in group_validator.iter_errors(rec):
+                    err(f"groups.json: id {gid}: {v.message}")
+            print(f"groups: {len(groups)}")
+        except ValueError as e:
+            err(f"groups.json: {e}")
+
+    for cid in sorted(referenced_cats - category_ids):
+        err(f"technologies reference category id {cid} missing from categories.json")
+    for gid in sorted(referenced_groups - group_ids):
+        err(f"categories reference group id {gid} missing from groups.json")
+
     print(f"technologies: {total_techs}")
+    print(f"icons: {len(icon_files)}")
 
     if errors:
         print(f"\nFAILED with {len(errors)} error(s):", file=sys.stderr)

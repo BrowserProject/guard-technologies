@@ -2,8 +2,12 @@
   "X-Cart": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
+    "description": " X-Cart is an open source PHP shopping cart ecommerce software platform.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -15,10 +19,22 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "X-Cart was founded in 2001 by Ruslan Fazlyev and Yury Zaytsev and was among the first PHP-based ecommerce shopping cart platforms. In 2019 it was acquired by Seller Labs, a US-based Amazon seller software company.",
+    "icon": "X-Cart.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "xcart_web_dir": "",
+      "xliteConfig": ""
+    },
     "kind": "oss-project",
     "license_type": "GPL",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "X-Cart(?: (\\d+))?\\;version:\\1"
+    },
+    "oss": true,
     "overall_trust_score": 6,
     "ownership_type": "subsidiary",
     "parent_company": "Seller Labs",
@@ -34,31 +50,46 @@
     ],
     "summary_abuse": "X-Cart is an open source self-hosted ecommerce platform with no notable abuse signal. Like any self-hosted ecommerce software it could theoretically be deployed for fake storefronts, but there is no documented pattern of X-Cart specifically being exploited for fraud at scale.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 5
+    "vendor_stability_score": 5,
+    "website": "https://kb.x-cart.com"
   },
   "X-Clacks-Overhead": {
+    "cats": [
+      19
+    ],
     "confidence": 5,
+    "description": "X-Clacks-Overhead is a non-standard HTTP header used to transmit tribute messages within server responses.",
     "enterprise_adoption": "none",
     "founded_year": 2015,
+    "headers": {
+      "X-Clacks-Overhead": "^GNU Terry Pratchett$"
+    },
     "history": "X-Clacks-Overhead is a non-standard HTTP header created in 2015 as a community tribute to Terry Pratchett following his death. Inspired by the Discworld series' fictional clacks messaging system, it transmits the value 'GNU Terry Pratchett' in server responses, meaning the name is passed on indefinitely. The Clacks Overhead Working Group formed to seek IETF standardization.",
+    "icon": "XClacksOverhead.svg",
     "kind": "standard",
     "license_type": "public domain",
     "maintenance_status": "maintained",
     "overall_trust_score": 7,
     "popularity_tier": "niche",
+    "saas": true,
     "source_urls": [
       "https://www.vicchi.org/2015/03/17/x-clacks-overhead-and-gnu-terry-pratchett/",
       "https://xclacksoverhead.org/home/about"
     ],
     "summary_abuse": "X-Clacks-Overhead has no abuse signal. It is a novelty HTTP tribute header with no operational security relevance and no consumer-facing surface that could be exploited.",
-    "technical_depth_score": 1
+    "technical_depth_score": 1,
+    "website": "https://xclacksoverhead.org/home/about"
   },
   "X.ai": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "X.ai is a scheduling tool that organizes meeting times and improves lead conversion by adding embedded booking buttons to websites or within live chat applications.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -70,7 +101,12 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "X.ai was founded in 2014 as an AI-powered scheduling assistant. In June 2021 it was acquired by Bizzabo, an event management platform. Shortly after, Bizzabo shut down the standalone x.ai service, with service ending October 31, 2021, folding the technology into Bizzabo's platform.",
+    "icon": "X.ai.svg",
     "iso27001": false,
+    "js": {
+      "xdotaiAction": "",
+      "xdotaiButton": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "deprecated",
@@ -79,9 +115,17 @@
     "parent_company": "Bizzabo",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "(?:cdn)?x\\.ai/.*/xdotai-embed\\.js"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.bizzabo.com/blog/xai-sunset",
@@ -91,30 +135,43 @@
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 1,
+    "website": "https://x.ai",
     "white_label_wrapper_likelihood": 1
   },
   "Xajax": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      59
+    ],
     "confidence": 5,
+    "cpe": "cpe:2.3:a:xajax:xajax:*:*:*:*:*:*:*:*",
     "enterprise_adoption": "none",
     "founded_year": 2005,
     "history": "Xajax is an open source PHP library that allows developers to easily create Ajax-based web applications using PHP. It was popular in the mid-2000s before being superseded by modern JavaScript frameworks. The project is now largely abandoned.",
+    "icon": "Xajax.png",
     "kind": "oss-library",
     "license_type": "LGPL",
     "maintenance_status": "abandoned",
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "xajax_core.*\\.js"
+    ],
     "source_urls": [
       "https://xajax-project.org"
     ],
     "summary_abuse": "Xajax has no notable abuse signal. It is an abandoned server-side PHP AJAX library with no consumer-facing surface that fraudsters target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://xajax-project.org"
   },
   "XAMPP": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "enterprise_adoption": "limited",
@@ -128,10 +185,23 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "XAMPP was first released in 2002 by Apache Friends as a cross-platform web server solution stack. It packages Apache HTTP Server, MariaDB, PHP, and Perl for local development. It has become one of the most popular local development environments for PHP developers worldwide.",
+    "html": [
+      "<title>XAMPP(?: Version ([\\d\\.]+))?</title>\\;version:\\1"
+    ],
+    "icon": "XAMPP.png",
+    "implies": [
+      "Apache HTTP Server",
+      "MySQL",
+      "PHP",
+      "Perl"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "GPL",
     "maintenance_status": "active",
+    "meta": {
+      "author": "Kai Oswald Seidler\\;confidence:10"
+    },
     "overall_trust_score": 8,
     "ownership_type": "foundation",
     "pci_dss": false,
@@ -146,14 +216,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "XAMPP has no notable abuse signal. It is a local development stack used on developer machines and not deployed to public-facing servers in production. Its use case has no consumer-facing surface that fraudsters target.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 8
+    "vendor_stability_score": 8,
+    "website": "https://www.apachefriends.org/en/xampp.html"
   },
   "Xanario": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Xanario is an ecommerce platform that offers a comprehensive system for online shop solutions, including CMS, CRM, shop management, blog integration, POS system, and warehouse management.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -165,10 +240,14 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Xanario is a German ecommerce platform offering integrated shop, CMS, CRM, POS, and warehouse management capabilities. It targets small to mid-sized retailers in the German-speaking market.",
+    "icon": "Xanario.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "xanario shopsoftware"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -184,14 +263,19 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://xanario.de",
     "white_label_wrapper_likelihood": 2
   },
   "Xano": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      3
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 1,
+    "description": "Xano is a no-code backend development platform that allows users to build and manage databases, APIs, and server-side logic without writing code.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2014,
@@ -203,7 +287,13 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Xano was founded in 2014 as a no-code backend development platform allowing users to build databases, APIs, and server-side logic without writing code. It became prominent in the no-code movement in the early 2020s, with a freemium pricing model starting at $29/month.",
+    "icon": "Xano.svg",
     "iso27001": false,
+    "js": {
+      "XanoBaseStorage": "",
+      "XanoClient": "",
+      "XanoCookieStorage": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -211,9 +301,15 @@
     "ownership_type": "vc-backed",
     "pci_dss": false,
     "popularity_tier": "growing",
+    "pricing": [
+      "freemium",
+      "mid",
+      "recurring"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 9,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://www.xano.com",
@@ -224,30 +320,62 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://www.xano.com",
     "white_label_wrapper_likelihood": 1
   },
   "xCharts": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
+    "cats": [
+      25
+    ],
     "confidence": 5,
+    "dom": [
+      "link[href*='xcharts.css'], link[href*='xcharts.min.css']"
+    ],
     "enterprise_adoption": "none",
     "founded_year": 2013,
     "history": "xCharts is a D3-based JavaScript charting library created by the tenxer organization around 2013. It was hosted on GitHub at tenxer/xcharts and appears to have been abandoned with no meaningful activity for many years.",
+    "html": [
+      "<link[^>]* href=\"[^\"]*xcharts(?:\\.min)?\\.css"
+    ],
+    "implies": [
+      "D3"
+    ],
+    "js": {
+      "xChart": ""
+    },
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "xcharts\\.js"
+    ],
     "summary_abuse": "xCharts is an abandoned D3-based charting library with no notable abuse signal. It is a client-side visualization library with no consumer-facing surface that could be exploited for fraud.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://tenxer.github.io/xcharts/"
   },
   "XenForo": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      2
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cookies": {
+      "xf_csrf": "",
+      "xf_session": ""
+    },
+    "cpe": "cpe:2.3:a:xenforo:xenforo:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
+    "description": "XenForo is a PHP-based forum hosting program for communities that is designed to be deployed on a remote web server.",
+    "dom": [
+      "html[id*='XenForo'], html[id*='XF']"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -259,7 +387,19 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "XenForo was founded in 2010 in Reading, UK by Kier Darby and Mike Sullivan, former lead developers of vBulletin. It launched as a commercial forum software alternative after a dispute with Internet Brands over vBulletin. XenForo 1.0 shipped in March 2011 and the company remains independent.",
+    "html": [
+      "(?:jQuery\\.extend\\(true, XenForo|<a[^>]+>Forum software by XenForo™|<!--XF:branding|<html[^>]+id=\"XenForo\")",
+      "<html id=\"XF\" "
+    ],
+    "icon": "XenForo.svg",
+    "implies": [
+      "PHP",
+      "MySQL"
+    ],
     "iso27001": false,
+    "js": {
+      "XF.GuestUsername": ""
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -280,14 +420,19 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://xenforo.com",
     "white_label_wrapper_likelihood": 1
   },
   "Xenioo": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Xenioo is an omnichannel chatbot platform designed to create, manage, and deploy conversational agents across multiple messaging channels.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -298,7 +443,11 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Xenioo is an omnichannel chatbot platform for building conversational agents across messaging channels. It is a small independent SaaS vendor with no notable acquisitions or major events.",
+    "icon": "Xenioo.svg",
     "iso27001": false,
+    "js": {
+      "Xenioo": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -306,9 +455,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 6,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "static\\.xenioo\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.xenioo.com"
@@ -317,14 +473,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://www.xenioo.com",
     "white_label_wrapper_likelihood": 1
   },
   "Xeno Chat": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      52
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Xeno Chat is a messaging app that enables live responses to support customer attraction, conversion, and retention.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2016,
@@ -335,7 +496,12 @@
     "has_self_hosted_option": false,
     "hipaa_compliant": false,
     "history": "Xeno Chat is a live chat and messaging application for customer support and engagement. It is a small independent SaaS tool with no notable acquisitions or events.",
+    "icon": "Xeno.svg",
     "iso27001": false,
+    "js": {
+      "_xeno._Utils": "",
+      "_xenoLoader": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -343,9 +509,18 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "mid",
+      "recurring",
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 5,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.xeno\\.app"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://xenoapp.com"
@@ -354,33 +529,59 @@
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://xenoapp.com",
     "white_label_wrapper_likelihood": 1
   },
   "Xeora": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      18
+    ],
     "confidence": 4,
+    "dom": [
+      "input[type='hidden'][name^='_sys_bind_'][id^='_sys_bind_']"
+    ],
     "enterprise_adoption": "none",
     "founded_year": 2010,
+    "headers": {
+      "Server": "XeoraEngine",
+      "X-Powered-By": "XeoraCube"
+    },
     "history": "Xeora is an open source web framework. No notable ownership changes or events are documented.",
+    "html": [
+      "<input type=\"hidden\" name=\"_sys_bind_\\d+\" id=\"_sys_bind_\\d+\" />"
+    ],
+    "icon": "xeora.png",
+    "implies": [
+      "Microsoft ASP.NET"
+    ],
     "kind": "oss-library",
     "license_type": "MIT",
     "maintenance_status": "maintained",
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "/_bi_sps_v.+\\.js"
+    ],
     "source_urls": [
       "https://www.xeora.org"
     ],
     "summary_abuse": "Xeora has no notable abuse signal. It is an obscure web framework library with no consumer-facing surface that fraudsters target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://www.xeora.org"
   },
   "XGen Ai": {
     "abuse_score": 0,
     "ai_generated_likelihood": 2,
+    "cats": [
+      76
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "XGen Ai is a cloud-based customer journey mapping tool that helps businesses manage product recommendations via artificial intelligence (AI).",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2017,
@@ -392,6 +593,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "XGen Ai is a cloud-based AI-powered customer journey mapping and product recommendation platform. It is a small independent SaaS vendor with no notable acquisitions or major events on record.",
+    "icon": "XGen Ai.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -400,9 +602,16 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 4,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "//assets\\.xgen\\.dev/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://xgen.ai"
@@ -411,13 +620,18 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 5,
+    "website": "https://xgen.ai",
     "white_label_wrapper_likelihood": 2
   },
   "Xitami": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      22
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:xitami:xitami:*:*:*:*:*:*:*:*",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 1996,
@@ -426,8 +640,12 @@
     "has_free_tier": true,
     "has_responsible_disclosure_policy": false,
     "has_self_hosted_option": true,
+    "headers": {
+      "Server": "Xitami(?:/([\\d.]+))?\\;version:\\1"
+    },
     "hipaa_compliant": false,
     "history": "Xitami is a small, fast web server created in the mid-1990s. It was popular for lightweight deployments but has been largely abandoned as Apache and Nginx became dominant. The project is no longer actively maintained.",
+    "icon": "Xitami.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "other-permissive",
@@ -446,13 +664,20 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Xitami has no notable abuse signal. It is an abandoned lightweight web server with no consumer-facing surface that fraudsters target.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 2
+    "vendor_stability_score": 2,
+    "website": "https://xitami.com"
   },
   "Xiuno BBS": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1,
+      2
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:xiuno:xiunobbs:*:*:*:*:*:*:*:*",
+    "description": "Xiunobbs is an open-source, lightweight forum software designed for easy community management and customization.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -464,10 +689,18 @@
     "headquarters_country": "CN",
     "hipaa_compliant": false,
     "history": "Xiuno BBS (Xiunobbs) is a lightweight open source Chinese forum software designed for easy community management and customization. It was developed in China and targets Chinese-language online communities.",
+    "icon": "Xiuno BBS.svg",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "MIT",
     "maintenance_status": "maintained",
+    "meta": {
+      "author": "XiunoBBS\\s([\\d\\.]+)\\;version:\\1"
+    },
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -482,13 +715,21 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "Xiuno BBS has no notable abuse signal outside its niche. It is a self-hosted Chinese forum software with no documented pattern of exploitation by fraudsters.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://xiunobbs.cn"
   },
   "XMB": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      2
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cookies": {
+      "xmblva": "",
+      "xmblvb": ""
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -499,6 +740,10 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "XMB (Extreme Message Board) is an open source PHP/MySQL forum software first released in 2001. It is distributed under the GPL and has been maintained as a community project since its inception.",
+    "html": [
+      "<!-- Powered by XMB"
+    ],
+    "icon": "XMB.png",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "GPL",
@@ -518,11 +763,15 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "XMB has no notable abuse signal. It is a self-hosted forum software used by small communities with no documented pattern of exploitation by fraudsters.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://www.xmbforum.com"
   },
   "Xonic": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
@@ -537,10 +786,17 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "Founded in 2005 in Chemnitz, XONIC has been continuously developed as a German ecommerce platform; the product page highlights a 2024 update cycle and earlier major modernization milestones rather than any acquisition or deprecation event.",
+    "html": [
+      "Powered by <a href=\"http://www\\.xonic-solutions\\.de/index\\.php\" target=\"_blank\">xonic-solutions Shopsoftware</a>"
+    ],
+    "icon": "xonic.png",
     "iso27001": false,
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "keywords": "xonic-solutions"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -548,6 +804,9 @@
     "pricing_model": "one-time",
     "pricing_transparency_score": 7,
     "privacy_score": 5,
+    "scriptSrc": [
+      "core/jslib/jquery\\.xonic\\.js\\.php"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.xonic-solutions.de/",
@@ -559,13 +818,18 @@
     "technical_depth_score": 7,
     "tracker_density": "none",
     "vendor_stability_score": 6,
+    "website": "https://www.xonic-solutions.de",
     "white_label_wrapper_likelihood": 0
   },
   "XOOPS": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "solo",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:xoops:xoops:*:*:*:*:*:*:*:*",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2001,
@@ -576,10 +840,20 @@
     "has_self_hosted_option": true,
     "hipaa_compliant": false,
     "history": "XOOPS (Extensible Object Oriented Portal System) is an open source CMS/portal system written in PHP, first released around 2001. It gained popularity in the mid-2000s particularly in Asian web communities and remains an active community-maintained project.",
+    "icon": "XOOPS.png",
+    "implies": [
+      "PHP"
+    ],
     "iso27001": false,
+    "js": {
+      "xoops": ""
+    },
     "kind": "oss-project",
     "license_type": "GPL",
     "maintenance_status": "maintained",
+    "meta": {
+      "generator": "XOOPS"
+    },
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -594,13 +868,19 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "XOOPS has no notable abuse signal. It is a self-hosted CMS with no documented pattern of exploitation by fraudsters or malicious actors.",
     "technical_depth_score": 5,
-    "vendor_stability_score": 4
+    "vendor_stability_score": 4,
+    "website": "https://xoops.org"
   },
   "XpressEngine": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      1
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
+    "cpe": "cpe:2.3:a:xpressengine:xpressengine:*:*:*:*:*:*:*:*",
+    "description": "XpressEngine (XE) is an open-source content management system (CMS) designed for building and managing websites, blogs, and online communities.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -612,10 +892,15 @@
     "headquarters_country": "KR",
     "hipaa_compliant": false,
     "history": "Developed by Xehub Corp as a Korean-language open-source CMS built on Laravel PHP framework. XE3 released around 2020 as the third major version. Licensed under LGPL-3.0. Last stable release was version 3.1.1 in September 2023. Primarily used in the Korean web development community with limited international adoption.",
+    "icon": "XpressEngine.svg",
     "iso27001": false,
     "kind": "oss-project",
     "license_type": "lgpl-3.0",
     "maintenance_status": "dormant",
+    "meta": {
+      "generator": "XpressEngine"
+    },
+    "oss": true,
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "parent_company": "Xehub Corp",
@@ -631,14 +916,26 @@
     "starting_price_usd_monthly": 0,
     "summary_abuse": "XpressEngine is an open-source PHP CMS used for building websites and online communities. As a self-hosted CMS platform, abuse depends entirely on how site owners configure their installations, which is outside the project's control. The CMS itself does not host content or have a central service. No notable abuse incidents have been documented against the project itself. The low adoption level (236 GitHub stars) limits its overall abuse exposure.",
     "technical_depth_score": 6,
-    "vendor_stability_score": 3
+    "vendor_stability_score": 3,
+    "website": "https://www.xpressengine.com/"
   },
   "Xpresslane": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "startup",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Xpresslane is a checkout platform for ecommerce that focuses on increasing conversion during the checkout process.",
+    "dom": {
+      "link[href*='/assets/xpresslane.css']": {
+        "attributes": {
+          "href": "cdn\\.shopify\\.com/.+/assets/xpresslane\\.css"
+        }
+      }
+    },
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2021,
@@ -650,6 +947,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "Launched in 2021 by Bueno Labs Private Limited in Bengaluru as a universal 1-click checkout platform; no notable ownership changes or deprecation events are publicly visible.",
+    "icon": "Xpresslane.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -658,9 +956,16 @@
     "ownership_type": "independent",
     "pci_dss": true,
     "popularity_tier": "growing",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 3,
     "privacy_score": 5,
+    "saas": true,
+    "scriptSrc": [
+      "apps\\.xpresslane\\.in/"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://seal.panaceainfosec.com/index.php?certid=CERT78128037B2",
@@ -674,33 +979,51 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://www.xpresslane.in",
     "white_label_wrapper_likelihood": 2
   },
   "XRegExp": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      59
+    ],
     "confidence": 5,
     "enterprise_adoption": "limited",
     "founded_year": 2007,
     "history": "XRegExp is a JavaScript regex library that provides augmented, extensible JavaScript regular expressions. It was created by Steven Levithan and has been available as an open source library since the late 2000s.",
+    "icon": "XRegExp.png",
+    "js": {
+      "XRegExp.version": "^(.+)$\\;version:\\1"
+    },
     "kind": "oss-library",
     "license_type": "MIT",
     "maintenance_status": "maintained",
     "overall_trust_score": 7,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scriptSrc": [
+      "xregexp[.-]([\\d.]*\\d)[^/]*\\.js\\;version:\\1",
+      "/([\\d.]+)/xregexp(?:\\.min)?\\.js\\;version:\\1",
+      "xregexp.*\\.js"
+    ],
     "source_urls": [
       "https://xregexp.com"
     ],
     "summary_abuse": "XRegExp has no notable abuse signal. It is a JavaScript regex utility library with no consumer-facing surface that fraudsters target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://xregexp.com"
   },
   "Xretail": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Xretail is a subscription based product that enables the omni-channel ecommerce approach to its customers.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": true,
     "founded_year": 2011,
@@ -712,17 +1035,25 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2011 as a unified omnichannel commerce platform owned by Tecnologia LLC, based in New York City. No notable ownership changes, forks, or deprecation events since launch.",
+    "icon": "Xretail.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "author": "^Xretail team$"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 5,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://xretail.com",
@@ -732,14 +1063,24 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 6,
+    "website": "https://xretail.com",
     "white_label_wrapper_likelihood": 0
   },
   "Xserver": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
+    "cats": [
+      88
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Xserver engages in web hosting, web application and internet-related services.",
+    "dns": {
+      "SOA": [
+        "\\.xserver\\.jp"
+      ]
+    },
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -751,6 +1092,7 @@
     "headquarters_country": "JP",
     "hipaa_compliant": false,
     "history": "Launched in the early 2000s by XServer Inc. as a Japanese shared-hosting brand, and later expanded into business hosting, VPS, domains, and related services.",
+    "icon": "Xserver.svg",
     "iso27001": true,
     "kind": "infrastructure",
     "license_type": "proprietary",
@@ -759,6 +1101,10 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "low",
+      "recurring"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
@@ -777,13 +1123,22 @@
     "technical_depth_score": 6,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://www.xserver.ne.jp",
     "white_label_wrapper_likelihood": 0
   },
   "XSLT": {
+    "cats": [
+      27
+    ],
     "confidence": 7,
+    "description": "XSLT is designed for use as part of XSL, which is a stylesheet language for XML.",
     "enterprise_adoption": "common",
     "founded_year": 1999,
     "history": "XSLT (Extensible Stylesheet Language Transformations) was created by the W3C and first published as a Recommendation in November 1999 as part of XSL. XSLT 2.0 followed in 2007 and XSLT 3.0 in 2017. It is widely used in enterprise XML processing pipelines.",
+    "html": [
+      "<xsl[^>]* version=\"(.+)\"\\;version:\\1"
+    ],
+    "icon": "W3C.svg",
     "kind": "standard",
     "license_type": "W3C",
     "maintenance_status": "maintained",
@@ -793,14 +1148,19 @@
       "https://www.w3.org/TR/xslt-10"
     ],
     "summary_abuse": "XSLT is an XML transformation language standard with no abuse signal. It is a server-side or tooling-level technology with no consumer-facing surface and is not a vector for fraud or phishing.",
-    "technical_depth_score": 6
+    "technical_depth_score": 6,
+    "website": "https://www.w3.org/TR/xslt-10"
   },
   "Xsolla": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      41
+    ],
     "company_size_bucket": "midmarket",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Xsolla is a video game business system offering payment solutions and store management.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2005,
@@ -812,6 +1172,7 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 2005 by Aleksandr Agapitov as a games monetization and payments company; it later expanded into a global platform with Los Angeles as HQ and offices across multiple regions.",
+    "icon": "Xsolla.svg",
     "iso27001": true,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -823,6 +1184,10 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 7,
     "privacy_score": 6,
+    "saas": true,
+    "scriptSrc": [
+      "\\.xsolla\\.(com|net)"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://xsolla.com",
@@ -834,14 +1199,19 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 8,
+    "website": "https://xsolla.com",
     "white_label_wrapper_likelihood": 1
   },
   "xtCommerce": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      6
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "xtCommerce is an ecommerce platform offering a complete solution for online shop management, including SEO, mobile optimization, and integrated payment systems.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2003,
@@ -853,10 +1223,20 @@
     "headquarters_country": "DE",
     "hipaa_compliant": false,
     "history": "xtCommerce is a German ecommerce platform that originated as a PHP-based online store solution in the early 2000s, evolving from the open-source osCommerce codebase. It has been developed and maintained by xt:Commerce GmbH in Germany as a commercial product for small and mid-size online retailers, primarily in the German-speaking market.",
+    "html": [
+      "<div class=\"copyright\">[^<]+<a[^>]+>xt:Commerce"
+    ],
+    "icon": "xtCommerce.svg",
     "iso27001": false,
+    "js": {
+      "XT.version.version": "([\\d.]+)\\;version:\\1"
+    },
     "kind": "commercial-product",
     "license_type": "proprietary",
     "maintenance_status": "active",
+    "meta": {
+      "generator": "xt:Commerce"
+    },
     "overall_trust_score": 6,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -869,14 +1249,24 @@
     "technical_depth_score": 6,
     "tracker_density": "none",
     "vendor_stability_score": 4,
+    "website": "https://www.xt-commerce.com",
     "white_label_wrapper_likelihood": 1
   },
   "Xtime": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
+    "cats": [
+      72
+    ],
     "company_size_bucket": "enterprise",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "Xtime is a company that provides automotive service scheduling and management solutions primarily for car dealerships and automotive service centers.",
+    "dom": [
+      "a[data-modified-by='xtime']",
+      "iframe[src*='xtime.net.au']",
+      "iframe[src*='x-time']"
+    ],
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 1999,
@@ -885,10 +1275,17 @@
     "has_free_tier": false,
     "has_responsible_disclosure_policy": true,
     "has_self_hosted_option": false,
+    "headers": {
+      "Access-Control-Allow-Origin": "\\.xtime\\.net"
+    },
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Founded in 1999 as an independent automotive service CRM and scheduling platform; Cox Automotive acquired Xtime in November 2014.",
+    "icon": "Xtime.svg",
     "iso27001": false,
+    "js": {
+      "xtime": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -897,9 +1294,15 @@
     "parent_company": "Cox Automotive",
     "pci_dss": false,
     "popularity_tier": "mainstream",
+    "pricing": [
+      "poa"
+    ],
     "pricing_model": "enterprise-only",
     "pricing_transparency_score": 0,
     "privacy_score": 4,
+    "scriptSrc": [
+      "\\.xtime\\.com/scheduling"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.bvp.com/companies/xtime",
@@ -912,14 +1315,29 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 9,
-    "white_label_wrapper_likelihood": 0
+    "website": "https://xtime.com",
+    "white_label_wrapper_likelihood": 0,
+    "xhr": [
+      "xtime\\.net\\.au"
+    ]
   },
   "Xtra": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
+    "cats": [
+      80
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "Xtra is a creative, responsive, live drag and drop and easy-to-use WordPress theme for any kind of websites.",
+    "dom": {
+      "link[href*='/wp-content/themes/xtra/']": {
+        "attributes": {
+          "href": "/wp-content/themes/xtra/.+core(?:-laptop|-mobile)?\\.css(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+        }
+      }
+    },
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -931,6 +1349,7 @@
     "headquarters_country": "TR",
     "hipaa_compliant": false,
     "history": "Xtra is a WordPress theme from xtratheme.com offering responsive drag-and-drop page building. No notable ownership events are documented.",
+    "icon": "Xtra.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -939,22 +1358,37 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "onetime"
+    ],
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 6,
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/themes/xtra/.+custom\\.js(?:\\?ver=(\\d+(?:\\.\\d+)+))?\\;version:\\1"
+    ],
     "soc2_type2": false,
     "summary_abuse": "Xtra is a self-hosted WordPress theme with no notable abuse signal.",
     "technical_depth_score": 3,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://xtratheme.com",
     "white_label_wrapper_likelihood": 3
   },
   "Xtremepush": {
     "abuse_score": 4,
     "ai_generated_likelihood": 1,
+    "cats": [
+      32
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 3,
+    "description": "Xtremepush is a customer engagement, personalisation and data platform. It's purpose-built for multichannel and mobile marketing.",
     "enterprise_adoption": "common",
     "enterprise_pricing_only": true,
     "founded_year": 2014,
@@ -966,7 +1400,11 @@
     "headquarters_country": "IE",
     "hipaa_compliant": false,
     "history": "Founded in Dublin in 2014 by Tommy Kearns and Kevin Collins. Xtremepush later acquired Emailcenter in 2018 and Alchemetrics in 2019 as it expanded from mobile engagement into a broader customer data and messaging platform.",
+    "icon": "Xtremepush.svg",
     "iso27001": false,
+    "js": {
+      "xtremepush": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -990,34 +1428,49 @@
     "technical_depth_score": 7,
     "tracker_density": "light",
     "vendor_stability_score": 7,
+    "website": "https://xtremepush.com",
     "white_label_wrapper_likelihood": 2
   },
   "XtrixUI": {
     "abuse_score": 0,
     "ai_generated_likelihood": 8,
+    "cats": [
+      66
+    ],
     "confidence": 5,
+    "description": "XtrixUI is a CrossFramework UI library designed for building WebApps, regardless of design experience.",
     "enterprise_adoption": "none",
     "founded_year": 2024,
     "history": "Created in November 2024 as a GitHub organization repo for a GPL-licensed TypeScript UI library; no notable ownership changes or deprecation events are visible.",
+    "icon": "XtrixUI.svg",
     "kind": "oss-library",
     "license_type": "gpl-3.0",
     "maintenance_status": "dormant",
+    "oss": true,
     "overall_trust_score": 4,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "scripts": [
+      "XtrixUI"
+    ],
     "source_urls": [
       "https://api.github.com/repos/XtrixUI/XtrixUI",
       "https://github.com/XtrixUI/XtrixUI"
     ],
     "summary_abuse": "No notable abuse signal: this is a small OSS UI library with no consumer-facing hosting, messaging, or redirect surface that scammers typically target.",
-    "technical_depth_score": 4
+    "technical_depth_score": 4,
+    "website": "https://xtrixui.vercel.app"
   },
   "Xverify": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      75
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
     "dark_pattern_likelihood": 2,
+    "description": "Xverify is an intelligent email verification system that helps marketers eliminate hard bounces, reduce spam complaints, and minimize fraud to improve inbox deliverability.",
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2011,
@@ -1029,7 +1482,11 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Xverify was founded in 2011 by Robert Huey and is headquartered in Northbrook, Illinois. The company provides real-time email verification services for marketers to reduce bounce rates, spam complaints, and fraud. In February 2019 Xverify was acquired by TowerData, a leading email intelligence provider. TowerData subsequently merged with FreshAddress in 2021 and rebranded as AtData in May 2022, making Xverify a product under the AtData umbrella.",
+    "icon": "Xverify.svg",
     "iso27001": false,
+    "js": {
+      "user_xverify_my_domain": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -1038,9 +1495,16 @@
     "parent_company": "AtData",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "payg"
+    ],
     "pricing_model": "usage-based",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "saas": true,
+    "scriptSrc": [
+      "www\\.xverify\\.com"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://atdata.com/press-releases/towerdata-acquires-xverify/",
@@ -1050,15 +1514,27 @@
     "technical_depth_score": 5,
     "tracker_density": "none",
     "vendor_stability_score": 7,
+    "website": "https://www.xverify.com",
     "white_label_wrapper_likelihood": 1
   },
   "XWiki": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
+    "cats": [
+      8
+    ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
+    "description": "XWiki is a free wiki software platform written in Java.",
+    "dom": [
+      "html[data-xwiki-]"
+    ],
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
+    "excludes": [
+      "MediaWiki"
+    ],
     "founded_year": 2004,
     "gdpr_compliant": true,
     "has_bug_bounty": false,
@@ -1068,10 +1544,23 @@
     "headquarters_country": "FR",
     "hipaa_compliant": false,
     "history": "XWiki was created by Ludovic Dubost and first released in January 2004 under the GPL. The license changed to LGPL in 2006 to give developers greater flexibility. XWiki SAS, the French company behind the project, continues active development with enterprise hosting and support services.",
+    "html": [
+      "<html[^>]data-xwiki-[^>]>"
+    ],
+    "icon": "xwiki.svg",
+    "implies": [
+      "Java\\;confidence:99"
+    ],
     "iso27001": false,
+    "js": {
+      "XWiki.mainWiki": ""
+    },
     "kind": "oss-project",
     "license_type": "LGPL",
     "maintenance_status": "active",
+    "meta": {
+      "wiki": "xwiki"
+    },
     "overall_trust_score": 8,
     "ownership_type": "independent",
     "pci_dss": false,
@@ -1086,14 +1575,22 @@
     ],
     "summary_abuse": "XWiki has no notable abuse signal. It is a self-hosted enterprise wiki platform with no consumer-facing surface that fraudsters target. Its primary use case is internal knowledge management.",
     "technical_depth_score": 7,
-    "vendor_stability_score": 7
+    "vendor_stability_score": 7,
+    "website": "https://www.xwiki.org"
   },
   "XYZScripts": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
+    "cats": [
+      87
+    ],
     "company_size_bucket": "smb",
     "confidence": 4,
     "dark_pattern_likelihood": 2,
+    "description": "XYZScripts is a provider of PHP clone scripts and WordPress plugins. It offers top-quality PHP and MySQL scripts to help build online businesses, with ready-to-deploy solutions that enable website setup.",
+    "dom": [
+      "a[href*='xyzscripts.com/'] + a[href*='www.xyzscripts.com']"
+    ],
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2010,
@@ -1105,6 +1602,7 @@
     "headquarters_country": "IN",
     "hipaa_compliant": false,
     "history": "XYZScripts is a provider of PHP clone scripts and WordPress plugins targeting online entrepreneurs and small businesses. The company offers ready-to-deploy PHP and MySQL scripts for building various types of websites.",
+    "icon": "XYZScripts.svg",
     "iso27001": false,
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -1116,6 +1614,7 @@
     "pricing_model": "one-time",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
+    "saas": true,
     "soc2_type2": false,
     "source_urls": [
       "https://xyzscripts.com"
@@ -1124,14 +1623,19 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
+    "website": "https://xyzscripts.com",
     "white_label_wrapper_likelihood": 3
   },
   "Xzero Analytics": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
+    "cats": [
+      10
+    ],
     "company_size_bucket": "startup",
     "confidence": 4,
     "dark_pattern_likelihood": 1,
+    "description": "Xzero Analytics is a tool for monitoring user journeys, analysing visitor sessions, gathering heatmaps, and more, enabling the observation and evolution of site traffic.",
     "enterprise_adoption": "none",
     "enterprise_pricing_only": false,
     "founded_year": 2020,
@@ -1143,7 +1647,11 @@
     "headquarters_country": "GB",
     "hipaa_compliant": false,
     "history": "Xzero Analytics is a UK-based web analytics SaaS offering a privacy-focused, cookie-less alternative to Google Analytics. It provides features including visitor session replays, heatmaps, goal tracking, and real-time analytics. The service operates on a subscription model starting at GBP 10/month and serves over 200 businesses. No notable ownership changes, acquisitions, or deprecation events have been documented.",
+    "icon": "XZeroAnalytics.png",
     "iso27001": false,
+    "js": {
+      "xzero-analytics": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "maintained",
@@ -1151,9 +1659,17 @@
     "ownership_type": "independent",
     "pci_dss": false,
     "popularity_tier": "niche",
+    "pricing": [
+      "low",
+      "freemium"
+    ],
     "pricing_model": "subscription",
     "pricing_transparency_score": 7,
     "privacy_score": 7,
+    "saas": true,
+    "scriptSrc": [
+      "analytics\\.xzero\\.co\\.uk"
+    ],
     "soc2_type2": false,
     "source_urls": [
       "https://analytics.xzero.co.uk",
@@ -1164,26 +1680,39 @@
     "technical_depth_score": 5,
     "tracker_density": "light",
     "vendor_stability_score": 3,
+    "website": "https://analytics.xzero.co.uk",
     "white_label_wrapper_likelihood": 2
   },
   "Xzero JS": {
     "abuse_score": 0,
     "ai_generated_likelihood": 6,
+    "cats": [
+      25
+    ],
     "confidence": 5,
+    "description": "Xzero JS is a JavaScript library (ES6 module) for displaying 3D models, scenes and 360° panoramas on the web.",
     "enterprise_adoption": "limited",
     "founded_year": 2024,
     "history": "First published on npm in March 2024 by Xzero Entertainment; no notable forks, ownership changes, or deprecation events surfaced in the public record.",
+    "icon": "XzeroJS.svg",
     "kind": "oss-library",
     "license_type": "mit",
     "maintenance_status": "abandoned",
     "overall_trust_score": 5,
     "ownership_type": "independent",
     "popularity_tier": "niche",
+    "pricing": [
+      "freemium"
+    ],
+    "scriptSrc": [
+      "xzero-js@([\\d.]+)/xzero\\.min\\.js.*\\;version:\\1"
+    ],
     "source_urls": [
       "https://registry.npmjs.org/xzero-js",
       "https://xzerojs.org"
     ],
     "summary_abuse": "Xzero JS has no notable abuse signal; it is a self-hosted 3D rendering library with no consumer-facing service surface that scammers typically target.",
-    "technical_depth_score": 5
+    "technical_depth_score": 5,
+    "website": "https://xzerojs.org"
   }
 }
