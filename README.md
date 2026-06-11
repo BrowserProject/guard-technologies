@@ -15,9 +15,9 @@ Each technology record carries both kinds of fields. The data is consumed by the
 `chrome_guard` session-replay capture and baked directly into the capture
 container.
 
-> **History:** detection used to be split across two repositories — fingerprints
+> **History:** detection used to be split across two repositories: fingerprints
 > in [`BrowserProject/webdetector`](https://github.com/BrowserProject/webdetector)
-> and enrichment here — joined by technology name and category id. Those have
+> and enrichment here, joined by technology name and category id. Those have
 > been **consolidated into this repository**, which is now the single source of
 > truth; `webdetector` is being retired.
 
@@ -30,8 +30,13 @@ src/
   categories.json      { "<category id>": { ...fingerprint + enrichment... } }
   groups.json          { "<group id>": { "name": ... } }   category groupings
   images/icons/        technology icons (<name>.svg / <name>.png), referenced by `icon`
+i18n/
+  de/                  German prose overlay (description / history / summaries only);
+                       same layout as src/, English fallback for anything untranslated
 schema.json            JSON Schema for technology / category / group records
 scripts/validate.py    structure / ordering / schema / referential validator (run in CI)
+scripts/build.mjs      compile src/ (+ i18n overlays) into dist/<lang>/<slug>.json
+scripts/slug.mjs       canonical technology-name -> file/URL slug (shared with the frontend)
 ```
 
 - Technology records are keyed by the **exact** technology name (case-sensitive
@@ -112,6 +117,48 @@ Scores are integers `0-10`.
 | Field | Type | Notes |
 |-------|------|-------|
 | `name` | string | group display name |
+
+## Distribution: build and publish
+
+`scripts/build.mjs` compiles the corpus into one small JSON file per technology
+per language and the [`Publish`](.github/workflows/publish.yml) workflow syncs
+them to a public Hetzner Object Storage bucket on merge to `main`:
+
+```
+dist/
+  en/<slug>.json      one enrichment record per technology (English)
+  de/<slug>.json      same record, German prose where translated, English fallback
+  index.json          { count, langs, technologies:[{ name, slug }] }
+```
+
+The guard.ch `/replay` page builds the URL from a detected technology name and
+fetches the record in the active locale at render time:
+
+```
+<endpoint>/<bucket>/<lang>/<techSlug(name)>.json
+e.g. https://hel1.your-objectstorage.com/guard-technologies/de/cloudflare.json
+```
+
+`techSlug()` (in `scripts/slug.mjs`) is the single source of truth for that
+mapping and is re-implemented verbatim in the frontend so no index lookup is
+needed. Each `en/<slug>.json` is byte-compatible with the enrichment object the
+`chrome_guard` capture used to bake into `metadata.json` (the
+`GuardTechEnrichment` shape), so moving enrichment out of the session metadata
+and fetching it live is a drop-in: it also lets the corpus be corrected and
+localised without re-capturing sessions.
+
+Run it locally with `node scripts/build.mjs` (Node >= 18, no dependencies); the
+workflow needs the `GUARD_TECH_S3_ACCESS_KEY` / `GUARD_TECH_S3_SECRET_KEY`
+secrets (endpoint / bucket / region default to Hetzner `hel1` /
+`guard-technologies`).
+
+## Localisation
+
+Translations live under `i18n/<lang>/` as prose-only overlays and are merged
+over English by the build, with English fallback for anything untranslated.
+German (`i18n/de/`) is scaffolded but not yet written. The full translation
+workflow and house style are in [`AGENTS.md`](AGENTS.md) and
+[`i18n/README.md`](i18n/README.md).
 
 ## Editing
 

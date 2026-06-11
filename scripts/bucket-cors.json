@@ -1,0 +1,16 @@
+{
+  "CORSRules": [
+    {
+      "AllowedMethods": ["GET", "HEAD"],
+      "AllowedOrigins": [
+        "https://guard.ch",
+        "https://www.guard.ch",
+        "https://dev.guard.ch",
+        "http://localhost:3000"
+      ],
+      "AllowedHeaders": ["*"],
+      "ExposeHeaders": ["ETag"],
+      "MaxAgeSeconds": 86400
+    }
+  ]
+}
