@@ -29,8 +29,6 @@
       "https://strapi.io/blog/headless-cms-security",
       "https://www.wappalyzer.com/technologies/cms/"
     ],
-    "summary_privacy": "CMS sites frequently ship default analytics, social embeds, comment systems, and marketing plugins that drop third-party cookies and beacons before consent. Admin areas process editor PII and logged-in user data (forms, accounts, comments). Review the rendered tag list, cookie banner behavior, embedded fonts/CDNs, GDPR/CCPA disclosures, data-processor agreements, and whether the CMS hosts EU data in-region.",
-    "summary_security": "Treat any exposed CMS as a high-value target: ~90% of WordPress CVEs come from plugins/themes, with XSS, CSRF, SQLi, and arbitrary file upload dominating. Check for outdated cores (Drupalgeddon-class RCE), unauthenticated admin endpoints, weak/default admin credentials, exposed /wp-admin or /user/login, XML-RPC abuse, and writable upload directories. Verify auto-update, WAF, MFA on admin, and that backup/staging copies are not publicly indexed.",
     "tracker_likelihood_score": 6
   },
   "2": {
@@ -66,8 +64,6 @@
       "https://haveibeenpwned.com/breach/WhiteDate",
       "https://xenforo.com/community/threads/xenforo-vs-vbulletin-vs-invision-history-of-vulnerabilities-xenforo-the-clear-winner.220263/"
     ],
-    "summary_privacy": "Forums store user email addresses, IPs, password hashes, signatures, private messages, and often integrate Gravatar, OAuth, embedded YouTube/Twitter, or Disqus, all of which leak data to third parties. Public profiles can expose PII. Confirm GDPR/CCPA data-export and erasure flows, IP-logging retention, cookie-consent for embedded media, scrubbing of EXIF on uploads, and whether DMs are encrypted at rest. Forum DB dumps appear regularly on breach-trading sites.",
-    "summary_security": "Forums are historically high-CVE software (vBulletin CVE-2025-48827/48828 unauth RCE, XenForo CVE-2024-38457/38458, recurring phpBB ACP issues). Check version disclosure, outdated installs, unmaintained mods/plugins, SSRF in URL previews, BBCode/Markdown XSS, file-upload RCE, weak avatar handling, and exposed admin panels. Verify MFA on staff accounts, CAPTCHA on registration, rate-limited login, password hashing strength, and patch latency.",
     "tracker_likelihood_score": 4
   },
   "3": {
@@ -102,8 +98,6 @@
       "https://www.recordedfuture.com/blog/dangers-of-exposed-login-panels",
       "https://www.threatngsecurity.com/glossary/exposed-admin-panels"
     ],
-    "summary_privacy": "A database manager exposes the entire row-level data store, meaning every privacy regime that touches the underlying data (GDPR, CCPA, HIPAA, PCI-DSS for cardholder tables) is in scope. Unauthorized access here is a notifiable breach in most jurisdictions. Audit logging is usually absent or minimal, so exfiltration may be invisible. Should never be public; if discovered, treat as potential PII/PHI/PCI breach until proven otherwise.",
-    "summary_security": "Finding a database manager fingerprinted on a public site is a critical red flag. History: phpMyAdmin CVE-2018-12613 (LFI->RCE), recurring SQLi/XSS/CSRF (CVE-2022-0813), Adminer SSRF/arbitrary-file-read (CVE-2021-21311, pre-4.7.9). Shodan/Censys routinely surface thousands of exposed instances under default paths (/phpmyadmin, /adminer.php). Check for default creds, missing IP allow-list, no MFA/SSO, outdated version, and whether the panel is reachable over plain HTTP.",
     "tracker_likelihood_score": 1
   },
   "4": {
@@ -134,8 +128,6 @@
       "https://owasp.org/www-project-top-ten/",
       "https://www.algolia.com/policies/privacy"
     ],
-    "summary_privacy": "Docs sites typically collect little user data themselves, but often embed search providers (Algolia DocSearch), analytics (GA, Plausible), and feedback widgets that drop cookies and beacons. GitBook, Read the Docs, and similar SaaS hosts process visitor IPs and may log queries. Check for consent banners on EU visitors, third-party search/CDN data flows, and whether reader accounts (where applicable) are tied to email/SSO.",
-    "summary_security": "Static-rendered docs sites have small runtime attack surface, but watch for: secrets baked into client bundles (Docusaurus gists plugin CVE-2025-53624 leaked PATs), outdated React/webpack dependencies, MkDocs plugin path-traversal (CVE-2026-7159), and Jinja/PyYAML/Markdown transitive CVEs. Also check whether the docs reveal internal endpoints, staging URLs, API tokens, or admin paths. Self-hosted authoring backends (BookStack, GitBook on-prem) need normal app hardening.",
     "tracker_likelihood_score": 3
   },
   "5": {
@@ -168,8 +160,6 @@
       "https://cside.com/blog/best-practices-for-securing-third-party-scripts",
       "https://blog.rsisecurity.com/mitigating-third-party-javascript-tag-risks/"
     ],
-    "summary_privacy": "Widgets routinely read form fields, cookies, scroll/click events, and full DOM, then ship that data to the vendor's servers, often outside the EU. Most drop tracking cookies or local-storage IDs. Confirm consent-mode gating, that widgets defer load until consent is given, vendor's GDPR/CCPA posture (DPA, sub-processors, data residency), and disclosure in the privacy policy. Social embeds (YouTube, Twitter, Facebook) are notorious for setting third-party cookies pre-consent.",
-    "summary_security": "Every widget is a supply-chain dependency: a compromised vendor (Polyfill.io 2024, Magecart-style script injection) instantly compromises every embedding site. Verify use of Subresource Integrity (SRI), a strict Content-Security-Policy that restricts script-src, and that widget scripts are loaded over HTTPS from pinned origins. Watch for widgets that dynamically load further scripts (\"shadow scripts\"). Iframe-isolated widgets are materially safer than inline JS widgets.",
     "tracker_likelihood_score": 8
   },
   "6": {
@@ -205,8 +195,6 @@
       "https://securityboulevard.com/2025/01/magecart-attacks-surge-as-e-commerce-security-struggles-to-keep-pace-2/",
       "https://www.imperva.com/learn/application-security/magecart/"
     ],
-    "summary_privacy": "Stores hold names, addresses, phone numbers, order history, marketing consents, and often hashed passwords, with PCI-DSS strictly governing cardholder data. They typically embed many third-party tags (analytics, retargeting, A/B test, chat, reviews, fraud), each a data-flow to disclose. Check cookie banner, consent-mode, data residency for EU customers, retention of order PII, GDPR subject-access flows, child-purchase controls (COPPA where applicable), and breach-notification readiness.",
-    "summary_security": "Ecommerce sites are the #1 e-skimming target; Magecart activity surged ~103% in 2024-25. Magento/Adobe Commerce CosmicSting (CVE-2024-34102), CVE-2024-20720, SessionReaper (CVE-2025-54236) drove mass compromise. Verify PCI-DSS 4.0 reqs 6.4.3/11.6.1 (script inventory, SRI, tamper detection on payment pages), strict CSP, patched core+extensions, WAF on /checkout, admin MFA, and tokenised card capture via gateway rather than store backend.",
     "tracker_likelihood_score": 8
   },
   "7": {
@@ -240,8 +228,6 @@
       "https://cve.report/bid/33514",
       "https://www.wappalyzer.com/technologies/photo-galleries/"
     ],
-    "summary_privacy": "Image files routinely carry EXIF metadata (GPS, device serial, capture time, sometimes author/email). Confirm uploads are stripped server-side; otherwise downloads leak photographer or subject location. Portfolio SaaS galleries log viewer IPs; client-proofing collects buyer email/payment data. Children's photos invoke COPPA. Embedded lightboxes/CDNs may set cookies. Watch for indexable private albums and predictable share-URL patterns.",
-    "summary_security": "Image-handling code has a long history of upload/path-traversal/SSRF bugs. Piwigo: SQLi (CVE-2026-27634), missing-authz (CVE-2026-27833), repeated XSS; Coppermine: file-upload RCE, path traversal (CVE-2026-3013); NextGEN Gallery had unauth file-upload RCE (2017). Slider Revolution famously enabled mass WordPress compromise. Check for outdated gallery plugins, file-upload validation, image-library CVEs (ImageMagick, libwebp), EXIF stripping, and reachable admin paths.",
     "tracker_likelihood_score": 3
   },
   "8": {
@@ -276,8 +262,6 @@
       "https://nvd.nist.gov/vuln/detail/CVE-2023-22515",
       "https://nvd.nist.gov/vuln/detail/CVE-2022-26134"
     ],
-    "summary_privacy": "Public wikis log every edit with username or IP, often shown in page history forever. Confirm anonymous-edit IP masking, GDPR erasure on edit history, retention policy, and that private wikis don't publish indexable pages. SaaS wikis (Confluence Cloud) process org PII in a vendor's region: review DPA and data residency. Internal wikis routinely accumulate secrets, credentials, and customer data; access controls and search scoping matter as much as cookies.",
-    "summary_security": "Wikis are recurring high-severity CVE targets. Confluence CVE-2022-26134 (OGNL pre-auth RCE) and CVE-2023-22515 (privesc to admin) saw mass exploitation, cryptominers, and ransomware. MediaWiki ships 13-20 CVEs/year (Parsoid XSS, ext SSRF eg CVE-2025-32699); DokuWiki has repeated XSS in RSS/parser. Check version, exposed admin/API endpoints, extension patch level, anonymous-edit permissions, account-creation throttling, upload restrictions, SSO/MFA on admins.",
     "tracker_likelihood_score": 3
   },
   "9": {
@@ -314,8 +298,6 @@
       "https://owasp.org/www-community/Broken_Access_Control",
       "https://www.csoonline.com/article/4169957/cpanel-flaw-exposes-enterprises-to-hosting-supply-chain-risks.html"
     ],
-    "summary_privacy": "Panels concentrate tenant PII: domain owner data, billing, customer email/databases, server logs, backup contents. Not user trackers themselves, but a breach exposes everything they administer including downstream visitor data. Some panels phone home for license/update checks; commercial SaaS variants (billing panels, game-server hosts) may send analytics/telemetry. Data residency depends on the host operator, not the panel; GDPR controllership sits with the hosting provider.",
-    "summary_security": "High-value targets: a single auth bypass (e.g. cPanel CVE-2026-41940 CRLF/session injection, CVSS 9.8) or Plesk RCE (CVE-2025-66430) compromises every hosted tenant. Check for: public /cpanel, /whm, :2083, :8443 exposure; default/weak admin creds; outdated builds; missing 2FA; CSRF/XSS in subscription pages; SQL injection history; root-level privilege escalation; unpatched ImageMagick/PHP stacks. Restrict by IP, enable 2FA, monitor login logs.",
     "tracker_likelihood_score": 1
   },
   "10": {
@@ -351,8 +333,6 @@
       "https://www.cnil.fr/en/use-google-analytics-and-data-transfers-united-states-cnil-orders-website-manageroperator-comply",
       "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9782874"
     ],
-    "summary_privacy": "Highest-impact privacy category: transmits user behaviour to third parties, sets persistent IDs, often canvas/device fingerprints. EU DPAs ruled Google Analytics non-compliant post-Schrems II - Austrian DSB (Jan 2022), CNIL (Feb 2022), Italian Garante (June 2022), Danish, Norwegian, Hungarian followed. Requires prior opt-in under GDPR/ePrivacy; CCPA opt-out. Check IP anonymisation, EU residency, signed DPA, consent-mode, retention, and reuse for the vendor's own ad graph (Google Signals).",
-    "summary_security": "Client-side JS supply-chain risk: any compromised analytics tag becomes a Magecart vector (Polyfill.io 2024 hit 100k+ sites; axios npm RAT 2026). Check for unpinned third-party script tags without SRI, missing CSP, vendor domains loading sub-scripts, tag-manager containers that bypass review, custom event payloads leaking session tokens or order IDs in URLs. Beacons over GET leak referers and PII in query strings. GA tag injection via compromised GTM containers is a recurring pattern.",
     "tracker_likelihood_score": 10
   },
   "11": {
@@ -385,8 +365,6 @@
       "https://www.webpronews.com/substacks-security-breach-exposes-vulnerabilities-in-newsletter-platform-economy/",
       "https://blogherald.com/blogging-news/security-and-hacking-the-state-of-wordpress-blogs/"
     ],
-    "summary_privacy": "Self-hosted blogs collect author/subscriber emails, IPs in access logs, and comment metadata; many embed analytics, social widgets, ads, and CDN fonts that act as trackers. Hosted SaaS (Substack, Medium) profile readers, send newsletter open-tracking pixels, and may set marketing cookies. Subscription forms touch PII and trigger GDPR/ePrivacy consent and CCPA disclosures. Check for unconsented tracking pixels in email, IP logging duration, and third-party embed loads on article pages.",
-    "summary_security": "Long CVE tail dominated by plugin/theme ecosystems: unauth SQLi (CVE-2024-27956 WP Automatic CVSS 9.9, CVE-2025-9807 Events Calendar), stored XSS (CVE-2024-2194, CVE-2023-40000), Ghost unauth DB read (3.24-6.19) and CVE-2022-41654 auth bypass. Common findings: outdated core/plugin versions, exposed /wp-admin and /ghost without rate-limiting or 2FA, weak XML-RPC, file-upload bypasses leading to RCE/webshells, comment-spam and brute-force on login.",
     "tracker_likelihood_score": 4
   },
   "12": {
@@ -414,8 +392,6 @@
       "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
       "https://www.aikido.dev/blog/javascript-security-vulnerabilities"
     ],
-    "summary_privacy": "Frameworks themselves do not transmit user data; privacy impact is indirect via wired-in analytics, marketing SDKs, widgets, or public CDNs (unpkg, jsDelivr, Cloudflare) that log IPs. SSR frameworks may set first-party session cookies. No inherent regulatory trigger, but the runtime is where consent banners, fingerprinting, and tracker tags actually execute, so framework choice shapes how easy compliant patterns are.",
-    "summary_security": "Framework primitives mitigate but do not prevent XSS - dangerouslySetInnerHTML, v-html, [innerHTML], unsanitised SSR markup still inject. Recent: CVE-2024-6783 Vue prototype-pollution XSS, CVE-2025-55182 Next.js deserialisation RCE, Angular template injection. Dominant risk is npm supply-chain (axios 2026 RAT, Polyfill.io 2024, event-stream). Enforce lockfiles, SRI on CDN scripts, CSP with nonce, SCA tooling.",
     "tracker_likelihood_score": 1
   },
   "13": {
@@ -448,8 +424,6 @@
       "https://www.nightfall.ai/blog/identifying-and-securing-pii-leakage-in-2021",
       "https://medium.com/@omarahmed_13016/leaking-pii-at-scale-how-third-parties-can-unintentionally-put-your-data-at-risk-6101fcb3d5e0"
     ],
-    "summary_privacy": "Tickets accumulate PII: emails, names, addresses, screenshots with session cookies/JWTs, DOM form values, console logs with API tokens, IPs, free-text payment/health details. Error monitors auto-capture stack traces and request bodies that may include credentials unless scrubbed. Most SaaS vendors are US-based, raising GDPR transfer concerns; check DPA, data residency, retention, and PII-redaction settings.",
-    "summary_security": "Jira/Confluence pattern: SnakeYAML CVE-2022-1471 (CVSS 9.8), Email Templates RCE, workflow-import RCE, Velocity SSTI to deserialisation RCE - public-facing instances are scanned constantly. Self-hosted Bugzilla, Redmine, Phabricator carry their own XSS/CSRF history. Widget-based trackers (BugHerd, Marker, Ruttl) inject JS site-wide so a vendor compromise becomes a supply-chain vector. Restrict to SSO, patch promptly, lock /admin.",
     "tracker_likelihood_score": 2
   },
   "14": {
@@ -482,8 +456,6 @@
       "https://www.cvedetails.com/product/98769/Videojs-Video.js.html?vendor_id=25019",
       "https://wpscan.com/vulnerability/58f82e13-153e-41e8-a22b-a2e96b46a6dc/"
     ],
-    "summary_privacy": "YouTube iframes set VISITOR_INFO1_LIVE, YSC, PREF cookies and send IP, UA, referer to Google on first byte; even thumbnails transmit PII pre-consent under GDPR. youtube-nocookie / Vimeo DNT only partially mitigate. Commercial players (Brightcove, JW, Kaltura) ship view analytics, heatmaps, ad personalisation. COPPA applies for minors. Require consent before iframe load, prefer click-to-play placeholders.",
-    "summary_security": "Library XSS history: Video.js CVE-2021-23414 (track-tag src bypass), CVE-2022-3985 / CVE-2022-4786 / CVE-2023-6485 in WordPress player plugins, Flash legacy via Ruffle. Iframe embeds from third parties can bypass CSP if frame-src is permissive. Ad-tech-heavy players (Aniview, STN) carry SSAI/VPAID code with elevated abuse history. Audit playlist/manifest URL handling, DRM license-server origins, postMessage handlers, and CSP frame-src/script-src.",
     "tracker_likelihood_score": 8
   },
   "15": {
@@ -518,8 +490,6 @@
       "https://labs.detectify.com/crowdsource-community/stored-xss-ing-millions-of-sites-through-html-comment-box/",
       "https://commentby.com/blog/2025-10-18-gdpr-compliant-comment-systems-compared"
     ],
-    "summary_privacy": "Disqus was fined by Norwegian DPA in 2021 for unconsented tracking and ad-partner sharing; it remains a cross-site behavioural tracker logging IPs, UA, referers, and ad-IDs across every host. Vuukle, Cackle, IntenseDebate behave similarly. Self-hosted (Commento, Isso, utterances/Giscus) avoid third-party tracking but still touch commenter email and IP. GDPR/ePrivacy require prior consent before widget load; CCPA opt-out; COPPA if comments target minors.",
-    "summary_security": "Stored XSS dominates - HTML Comment Box bypass exposed ~2M sites; Disqus, Vuukle, Cackle have repeated injection findings via Markdown/BBCode renderers, image proxies, avatar URLs. Third-party widget = supply-chain risk: vendor JS compromise injects script into every host page. Spam, scraped emails, OAuth/magic-link account-enumeration common. Use iframe sandbox, CSP script-src vendor pin, SRI, moderation.",
     "tracker_likelihood_score": 7
   },
   "16": {
@@ -554,8 +524,6 @@
       "https://www.comparitech.com/net-admin/perimeterx-review/",
       "https://medium.com/@dimakynal/anti-bot-protection-and-how-detect-it-4027a9690fb5"
     ],
-    "summary_privacy": "Detection works by fingerprinting: reCAPTCHA collects IPs, mouse/keystroke timing, browser/device fingerprints, plugins, screenshots; CNIL fined Cityscoot EUR 125k for unconsented use. DataDome/HUMAN/Kasada gather 35+ behavioural signals per session. Data typically leaves the EU to US clouds, triggering Schrems II concerns. hCaptcha and Friendly Captcha collect less. Consent banners sit here and define how all other trackers fire.",
-    "summary_security": "Security tools are themselves targets: WAF/CDN bypass research, CAPTCHA-solving services, and a privileged client-side script footprint (full DOM, often eval). A compromise of a script-monitoring or bot SDK becomes a sitewide injection vector. Verify SOC2/ISO, SBOM, script-pinning, key rotation, fail-open vs fail-closed defaults, and that rules cannot be disabled by attacker headers. Plugins (CleanTalk, SiteGuard) have their own CVE history.",
     "tracker_likelihood_score": 6
   },
   "17": {
@@ -591,8 +559,6 @@
       "https://www.cnil.fr/en/cookies-and-other-tracking-devices",
       "https://edpb.europa.eu/our-work-tools/documents/public-consultations/2023/guidelines-22023-technical-scope-art-53-eprivacy_en"
     ],
-    "summary_privacy": "Each remote font fetch transmits visitor IP, User-Agent and Referer to the font host. LG Muenchen I (3 O 17493/20, Jan 2022) ruled embedding Google Fonts via fonts.googleapis.com without consent breaches GDPR Art. 6, awarding EUR 100 damages and triggering a German waves-of-claims industry; CNIL/DSK guidance is aligned. Typekit ties usage to Adobe accounts; MyFonts and Hoefler log usage analytics. Self-hosted woff2 or Bunny Fonts (no-log, EU) avoid the transfer and cookie-banner question.",
-    "summary_security": "Low direct attack surface: static glyph/woff2 delivery dominates and CVE history is thin. JS loaders (Cufon, sIFR, Font Awesome JS, Typekit kit.js) execute in-page and would amplify XSS if the CDN/account were compromised - every embedding site is affected. Pin versions, set SRI hashes, scope via CSP script-src/style-src, prefer self-hosted woff2 over remote JS loaders, and treat icon-JS bundles (Lucide React, Font Awesome JS) like any other npm dependency in SCA scanning.",
     "tracker_likelihood_score": 4
   },
   "18": {
@@ -633,8 +599,6 @@
       "https://nvd.nist.gov/vuln/detail/CVE-2025-29927",
       "https://csrc.nist.gov/Projects/ssdf"
     ],
-    "summary_privacy": "Frameworks rarely transmit data to third parties, but handle the highest-sensitivity flows: credentials, session cookies, form POSTs, server-side PII, payment fields. Default logging can persist tokens/PII; default error pages can leak stack traces and DB schema. GDPR Art. 32, PCI DSS 4.0 and HIPAA outcomes depend almost entirely on operator config (cookie flags, HSTS, log redaction, secret rotation, retention), not on the framework. Defaults matter: opt-ins age into liabilities.",
-    "summary_security": "Frameworks are the locus of OWASP Top 10 risk: injection, broken access control, SSRF, insecure deserialization, mass-assignment, template injection. Mature stacks ship CSRF, parameterised ORMs and output escaping by default; unsafe patterns (raw SQL, eval'd templates, debug-mode in prod) and outdated versions drive the CVE stream - Spring4Shell (CVE-2022-22965), Struts (CVE-2017-5638), Laravel (CVE-2021-3129), Next.js (CVE-2025-29927). Patch cadence, SCA and SSDF are essential.",
     "tracker_likelihood_score": 1
   },
   "19": {
@@ -666,8 +630,6 @@
       "https://datatracker.ietf.org/doc/html/rfc9000",
       "https://datatracker.ietf.org/doc/html/rfc9114"
     ],
-    "summary_privacy": "Many entries are third-party SaaS embeds (Gravatar email-hash avatars, member portals, address-verification, niche commerce widgets) that drop cookies, beacon visitors, or load further trackers; others are protocols/build tools handling no user data. Never infer privacy posture from this category alone - rely on per-Technology privacy_score, tracker_density, vendor DPA and EDPB SCC posture. Cross-check obscure entries for EOL/abandonment.",
-    "summary_security": "Heterogeneous catch-all: SaaS embeds (DocuSign, ServiceNow, Splunk, Apigee, Klaviyo Hub, Gravatar), build tools (Webpack, Vite, Babel), deprecated client plugins, and protocols (HTTP/2, HTTP/3, WebRTC, WebSocket). Blast radius varies extremely. Treat each detection as a trigger for individual review rather than a category-level signal: the presence of an unusual or end-of-life entry here is itself the indicator (supply-chain, missing updates, abandonment).",
     "tracker_likelihood_score": 3
   },
   "20": {
@@ -702,8 +664,6 @@
       "https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html",
       "https://edpb.europa.eu/news/news/2024/edpb-opinion-ai-models-gdpr-principles-support-responsible-ai_en"
     ],
-    "summary_privacy": "OSS editor libraries (Monaco, CodeMirror, Ace, Blockly) generally do not phone home. SaaS authoring platforms (CodeSandbox, Tiptap Cloud, Unbounce, Powtoon, Genially, BannerBoo) collect telemetry, drafts and load analytics/marketing trackers - sample tracker_density averages light to moderate. Drafts may include customer PII or unpublished business strategy; verify whether vendor AI/co-pilot features ingest content into training pipelines (sub-processor disclosures, EDPB AI guidance).",
-    "summary_security": "Editors operate on untrusted content inside privileged authoring contexts, so XSS-via-paste, prototype pollution and sandbox escape recur (Draft.js, Gutenberg blocks, CodeMirror via Drupal advisories). Where exposed to non-admin users (CMS comments, form builders) sanitization gaps become stored XSS. Online builders (CodeSandbox - phishing-kit hosting cases) and legacy desktop tools (FrontPage, Dreamweaver) compound risk via stale templates. Strict CSP and version pinning are required.",
     "tracker_likelihood_score": 3
   },
   "21": {
@@ -744,8 +704,6 @@
       "https://www.patchstack.com/database/vulnerability/?software=lifterlms",
       "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=8.&chapter=22.2.&part=&lawCode=BPC"
     ],
-    "summary_privacy": "LMS stores government-regulated minor data (FERPA in the US, GDPR in the EU; COPPA where under-13s are present; state laws like SOPIPA, SOPPA). Hosted SaaS LMS adds transfer questions and vendor-side analytics. Creator platforms (Thinkific, Teachable, Kiwify) ship light/moderate tracker density and marketing pixels. Schools should require DPAs, data residency, encryption at rest, breach SLAs (GDPR 72h) and disable optional analytics where lawful basis is missing.",
-    "summary_security": "LMS platforms are large multi-tenant web apps with file upload, plugin ecosystems, SSO/SAML, and grade-modification surfaces - classic injection / broken-access-control territory. The May 2026 Instructure Canvas / ShinyHunters breach (~275M users, 8,800+ institutions, 3.65 TB exfiltrated) is the watershed. Plugin marketplaces (Moodle, LifterLMS, Tutor LMS) widen the supply-chain surface; admin takeover cascades to every learner. SSO drift and OAuth token leakage are recurring root causes.",
     "tracker_likelihood_score": 4
   },
   "22": {
@@ -783,8 +741,6 @@
       "https://portswigger.net/research/http2",
       "https://kubernetes.io/blog/2025/03/24/ingress-nginx-cve-2025-1974/"
     ],
-    "summary_privacy": "Web servers do not phone home or set cookies, but access logs retain client IP, User-Agent and Referer in cleartext - personal data under GDPR Recital 30. Misconfigured directory listings, debug endpoints, source-disclosure CVEs (CVE-2024-38475, CVE-2024-39884) and exposed /server-status pages can leak environment, credentials and routing internals. Log redaction (strip IP last octet, rotate <=90 days), Apache LogFormat / nginx log_format tuning and retention policy define the privacy posture.",
-    "summary_security": "Web servers are recurring CVE targets: Apache (CVE-2024-38475 mod_rewrite, exploited in the wild; on CISA KEV), nginx (CVE-2025-23419 SSL session reuse, ingress-nginx CVE-2025-1974 unauth RCE), plus persistent IIS, LiteSpeed, Tomcat advisories. HTTP/2 and HTTP/3 parser bugs, request smuggling, banner exposure and outdated TLS configs remain the practical attack vectors. Patch cadence is the single most important control; ingress controllers belong on the same CVE pager as the kernel.",
     "tracker_likelihood_score": 0
   },
   "23": {
@@ -823,8 +779,6 @@
       "https://www.fastly.com/blog/cache-control-everyone-or-not",
       "https://owasp.org/www-community/attacks/Web_Cache_Deception"
     ],
-    "summary_privacy": "Caching layers can accidentally cache authenticated or per-user responses (Set-Cookie, session pages, PII JSON) and serve them to other visitors - a classic data-leak path. Edge-CDN SaaS (Cloudflare, Azure CDN, NitroPack, QUIC.cloud, Sitecore Edge) terminate TLS and process traffic in third-country regions, raising GDPR Chapter V transfer questions; vendor RUM/analytics cookies are not default but are commonly added. Cache keys must include auth state; never cache Set-Cookie responses.",
-    "summary_security": "Dominant risks are web-cache poisoning and cache deception (PortSwigger Kettle): unkeyed headers and path confusion let attackers persistently inject malicious responses served to all subsequent visitors. Object stores (Redis, Memcached) are routinely exposed unauthenticated - ~60k Redis instances and CVE-2025-49844 (RediShell, RCE) enable code execution. WordPress cache plugins are repeat offenders: LiteSpeed Cache CVE-2024-28000 (4M+ sites, privesc), W3TC and WP Super Cache stored-XSS.",
     "tracker_likelihood_score": 1
   },
   "24": {
@@ -861,8 +815,6 @@
       "https://www.patchstack.com/database/wordpress/plugin/tinymce-advanced/vulnerability",
       "https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html"
     ],
-    "summary_privacy": "Most rich text editors are local-only JavaScript and do not transmit content to third parties; SaaS variants (CKEditor Cloud, Tiptap Cloud, TinyMCE Cloud, Froala remote) transmit drafts, AI features and image uploads to vendor backends. Documents commonly contain PII or confidential business content, so sub-processors, data residency and EDPB SCC posture must be checked. Etherpad-style real-time collab broadens exposure to every pad participant; AI assistants raise training-data questions.",
-    "summary_security": "Signature risk is stored XSS: the editor round-trips HTML, so any sanitization gap becomes a stored-XSS vector against every user who later views that content. CVE history shows recurring high-severity issues across TinyMCE (CVE-2024-29881, CVE-2025-27144 paste XSS), CKEditor (CVE-2024-45613, Drupal advisories), Froala (repeated 0-days), Quill (CVE-2023-26149) and Etherpad (CVE-2021-34816 RCE, CVE-2021-34817 XSS). Defence: strict server-side HTML sanitization, strict CSP, prompt updates.",
     "tracker_likelihood_score": 1
   },
   "25": {
@@ -894,8 +846,6 @@
       "https://www.wappalyzer.com/technologies/javascript-graphics/",
       "https://www.aikido.dev/blog/javascript-security-vulnerabilities"
     ],
-    "summary_privacy": "Pure visualisation libraries rarely transmit data themselves, so inherent privacy risk is low-to-moderate. The exposure comes from the data fed into them: charts often render personal, financial, or health metrics that then sit in DOM/memory and may leak via screenshots, error telemetry, or session-replay tools. Some commercial chart SaaS (e.g., LocalFocus, Variance) phone home for analytics, so review network behaviour and data-processing terms before sending PII to hosted variants.",
-    "summary_security": "Client-side libraries that render untrusted data into the DOM, SVG, or Canvas, making DOM-based XSS the dominant risk (e.g., historical Highcharts XSS pre-v9 in tooltips/labels). Most are loaded from public CDNs without SRI, exposing supply-chain gaps. Verify versions against CVE feeds, sanitise chart inputs, pin via subresource-integrity, lock script-src/object-src in CSP, and avoid passing user HTML into chart options.",
     "tracker_likelihood_score": 2
   },
   "26": {
@@ -927,8 +877,6 @@
       "https://blog.ostorlab.co/testing-cordova-applications.html",
       "https://www.wappalyzer.com/categories/mobile-frameworks/"
     ],
-    "summary_privacy": "Hybrid wrappers and \"site-to-app\" SaaS (Mobify, starti.app, Napps) can access device sensors, contacts, location, push tokens, and unique mobile identifiers via plugins, far exceeding what a plain mobile website could collect. SaaS conversion tools often inject analytics or attribution SDKs and route traffic through vendor infrastructure. Audit requested permissions, disclose SDK presence to users, honour ATT/IDFA and GDPR/CCPA opt-outs, and avoid frameworks that ship default tracker plugins.",
-    "summary_security": "Mobile frameworks that wrap web content in a WebView (Cordova/PhoneGap-lineage, Framework7, Onsen UI hybrid mode) inherit browser-class risks plus mobile bridge risks: DOM/UXSS, JavaScript-to-native bridge abuse, weak whitelist/CSP, and historical issues such as Cordova WebViews ignoring TLS errors in debuggable builds. Apply OWASP MASVS controls, restrict WebView origins, enable CSP, pin certificates via plugins, and keep both the framework and Android System WebView current.",
     "tracker_likelihood_score": 3
   },
   "27": {
@@ -959,8 +907,6 @@
       "https://owasp.org/Top10/",
       "https://www.mend.io/most-secure-programming-languages/"
     ],
-    "summary_privacy": "A language fingerprint alone does not collect personal data, so inherent privacy and tracking risk is very low. Privacy exposure is entirely a function of what the application built on top of it does with PII, logging, and third-party libraries. Pay attention to ecosystem-specific telemetry defaults (e.g., Node.js diagnostics, .NET telemetry, Flutter/Dart crash reporting) and to legacy stacks like Flash that historically exfiltrated more aggressively.",
-    "summary_security": "The language syntax is not the threat; the runtime, stdlib, and ecosystem are. Memory-unsafe languages (C, C++, legacy PHP/Perl native extensions, Flash) drive ~70% of severe CVEs per CISA/NSA and Microsoft data, while managed languages (Go, Rust, Java, C#, Node/TS, Python) shift risk to injection, deserialisation, and dependency supply chain. Suppress X-Powered-By/Server banners, patch runtimes promptly, and track language-specific CVE feeds and EOL dates.",
     "tracker_likelihood_score": 0
   },
   "28": {
@@ -990,8 +936,6 @@
       "https://sternumiot.com/iot-blog/operating-system-vulnerabilities-understanding-and-mitigating-the-risk/",
       "https://www.wappalyzer.com/categories/operating-systems/"
     ],
-    "summary_privacy": "Operating systems themselves do not inherently collect end-user PII from website visitors, but they hold every log, secret, and cached personal record the site processes. A compromised or unpatched OS therefore becomes the largest PII-exposure event a site can suffer. Some vendor OSes phone home for telemetry (Windows Server, certain commercial Linux), so review opt-outs and ensure logs containing PII are access-controlled, retained per regulation, and not shipped to untrusted SaaS.",
-    "summary_security": "The server OS is the trust anchor for everything above it; kernel and userland CVEs (3,000+ Linux kernel CVEs in 2024, ~42% high severity) translate directly into RCE, privilege escalation, and ransomware exposure. Banner disclosure aids attackers; suppress Server/X-Powered-By, prefer hardened distros (Alpine, RHEL, minimal Debian), automate patching, apply CIS benchmarks, enable SELinux/AppArmor, and retire EOL releases (CentOS 7, Windows Server 2012).",
     "tracker_likelihood_score": 0
   },
   "29": {
@@ -1023,8 +967,6 @@
       "https://owasp.org/www-community/attacks/xss/",
       "https://gdpr-info.eu/"
     ],
-    "summary_privacy": "Site-search vendors typically receive query text, user tokens (cookie or hashed ID), obfuscated IP, referrer, and click analytics to power ranking and merchandising. Algolia for example retains userToken analytics 90 days by default (365 with add-ons). Queries themselves can be sensitive (health, legal, identity terms): disclose the vendor in the privacy notice, honour DSAR/erasure on userTokens, tune retention, and never put raw PII in query parameters.",
-    "summary_security": "Most modern site search is SaaS-backed and called from the browser with a public API key, so reflected/stored XSS via unsanitised result rendering, autocomplete injection, and over-privileged API keys (search keys that can list or write indices) recur. Restrict keys to query-only scope, use secured/short-lived keys for personalisation, sanitise highlight snippets, rate-limit, and review the vendor's SOC 2/ISO 27001 posture before exporting catalogues.",
     "tracker_likelihood_score": 6
   },
   "30": {
@@ -1063,8 +1005,6 @@
       "https://www.cisa.gov/news-events/cybersecurity-advisories",
       "https://owasp.org/www-project-top-ten/"
     ],
-    "summary_privacy": "Mailboxes hold the densest personal-data corpus most users have: contracts, ID documents, medical and financial records, intimate correspondence, and password-reset trails for every linked account. Mainstream providers (Google Workspace, Microsoft 365) scan content for spam, search, and AI features unless opted out; E2EE services (Proton Mail) cannot read content. GDPR plus HIPAA, GLBA, FERPA often apply: pick jurisdiction, sign DPA/BAA, encrypt at rest, gate AI training and add-ons.",
-    "summary_security": "Webmail is the highest-value ATO target online: one compromise yields password-reset capability for every linked service plus historical content. Self-hosted clients (RoundCube, SquirrelMail, RainLoop, Zimbra) carry long RCE/XSS/SSRF histories (Zimbra CVE-2022-27924, CVE-2024-45519; Outlook CVE-2024-21413). Enforce FIDO2/WebAuthn MFA, conditional access, disable IMAP/SMTP basic auth, enforce DMARC, gate OAuth add-ons, patch self-hosted clients behind a WAF.",
     "tracker_likelihood_score": 4
   },
   "31": {
@@ -1102,8 +1042,6 @@
       "https://www.ioriver.io/blog/security-risks-for-cdn-operations",
       "https://www.troyhunt.com/cloudflare-ssl-and-unhealthy-security-absolutism/"
     ],
-    "summary_privacy": "Because the CDN sees decrypted traffic it has visibility into IPs, URLs, headers, cookies, login bodies, any PII in transit, plus visit metadata. Jurisdiction is decisive: US CLOUD Act, MENA-region or sanctioned operators materially change a site's GDPR Art. 44 / Schrems II posture. Edge-injected scripts (Bot Management, Speed Brain, AB tests) may set IDs pre-consent, intersecting cookie-law. Disclose the CDN as processor, sign DPA with SCCs and TIA, prefer EU/Swiss PoPs.",
-    "summary_security": "CDNs are a deliberate MitM for every visitor: they terminate TLS and a single edge compromise cascades to every fronted site (Cloudbleed 2017, Fastly June 2021, Cloudflare R2 Nov 2024). Common risks are cache poisoning, host-header and Range smuggling, exposed origin IPs, weak origin-side TLS validation, and abuse of edge-injected scripts. Lock origins to CDN IPs, use authenticated origin pulls/mTLS, enforce strict cache keys, pin TLS at edge, monitor cache deception, document off-CDN failover.",
     "tracker_likelihood_score": 3
   },
   "32": {
@@ -1143,8 +1081,6 @@
       "https://www.klaviyo.com/blog/security-incident",
       "https://secureprivacy.ai/blog/first-party-data-collection-compliance-gdpr-ccpa-2025"
     ],
-    "summary_privacy": "Severe - critical scrutiny band. Platforms ingest identified PII (email, phone, address, purchase history, behavioural profiles, lead scores) and deploy first/third-party pixels with persistent identifiers joining the marketing graph across sessions and channels. Data is processed in vendor cloud, US-transferred under SCCs, shared with ad/analytics/enrichment sub-processors. GDPR opt-in + DPA, ePrivacy for trackers, CCPA opt-out, COPPA for minors; sensitive-category inference is routine.",
-    "summary_security": "Moderate-to-high attack surface for a SaaS class. Primary risks: vendor social engineering (Mailchimp Mar 2022 + Jan/Apr 2023, HubSpot Mar 2024, Klaviyo Aug 2022); customer pixel snippets and webhooks that enlarge the JS trust boundary on embedding sites; form-builder and merge-tag features producing template-injection, SSRF and XSS. Controls: vendor MFA/SSO, scoped rotating API keys, pixel CSP review, signed DPA with sub-processor list.",
     "tracker_likelihood_score": 9
   },
   "33": {
@@ -1174,8 +1110,6 @@
       "https://www.cyfirma.com/research/cve-2024-40725-and-cve-2024-40898-vulnerabilities-in-apaches-http-server-vulnerability-analysis-and-exploitation/",
       "https://owasp.org/Top10/2025/A02_2025-Security_Misconfiguration/"
     ],
-    "summary_privacy": "Low intrinsic privacy risk. Server extensions terminate or process HTTP traffic but do not, by themselves, profile end users. However, access and SSL handshake logs may contain IP addresses and request paths that qualify as personal data under GDPR, so retention, anonymisation and PCI/SOC2 logging discipline still apply.",
-    "summary_security": "High attack surface. These modules execute inside the web server with elevated privileges and have a long CVE history: CVE-2024-40898 mod_ssl auth bypass, CVE-2024-38475 mod_rewrite filesystem disclosure, CVE-2026-42945 nginx ngx_http_rewrite_module RCE, mod_dav crash and SSL session-resumption bugs. Recommended controls: minimal module set, prompt patching, hardened TLS configuration, WAF in front.",
     "tracker_likelihood_score": 0
   },
   "34": {
@@ -1211,8 +1145,6 @@
       "https://owasp.org/Top10/2025/A02_2025-Security_Misconfiguration/",
       "https://firecompass.com/shodan-dorks-to-find-exposed-it-assets/"
     ],
-    "summary_privacy": "Very high PII concentration. Databases hold the canonical record of personal, financial, health and payment data. Privacy risk derives less from active tracking and more from the magnitude and sensitivity of stored data: a single compromise can trigger GDPR Article 33 notification, HIPAA breach reporting and PCI penalties. Pseudonymisation, field-level encryption and access logging are core mitigations.",
-    "summary_security": "Critical attack surface. Internet-exposed databases are a top breach vector: tens of thousands of misconfigured MongoDB, Redis and Elasticsearch instances are visible on Shodan, and recent CVEs include MongoBleed (CVE-2025-14847) and routine privilege-escalation flaws across PostgreSQL/MySQL. Controls: never expose to the internet, enforce strong auth and TLS, least-privilege roles, encryption at rest, regular patching, and tested backup/restore.",
     "tracker_likelihood_score": 0
   },
   "35": {
@@ -1249,8 +1181,6 @@
       "https://www.lda.bayern.de/de/kennzahlen.html",
       "https://curia.europa.eu/juris/document/document.jsf?text=&docid=238589"
     ],
-    "summary_privacy": "High privacy impact. Google Maps and most commercial APIs transfer visitor IP, viewport, URL and (on permission) precise geolocation to the vendor in the US, often setting advertising or fingerprinting cookies. CJEU Schrems II and German LDA/LG Munchen rulings held loading Google Maps without prior opt-in violates GDPR. Precise geolocation is sensitive data under several US state laws. Mitigations: consent-gated lazy-load, prefer EU-tile Maptiler/MapLibre or self-hosted OSM, declare in DPA log.",
-    "summary_security": "Moderate attack surface. Hosted SaaS APIs bound risk to (1) JS supply-chain compromise of the map SDK, (2) leaked API tokens reused for service abuse or overage bills, (3) XSS via untrusted marker/info-window HTML. Self-hosted Leaflet/MapLibre/OpenLayers/OSM tile servers add the usual server-side surface. Controls: referrer/IP-scoped rotated keys, SRI-pinned SDKs, sanitised marker content, prefer EU-hosted MapLibre where sovereignty matters.",
     "tracker_likelihood_score": 6
   },
   "36": {
@@ -1291,8 +1221,6 @@
       "https://noyb.eu/en/cjeu-confirms-iab-tcfs-tc-string-personal-data-and-iab-europe-joint-controller",
       "https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-order-will-ban-inmarket-selling-precise-consumer-location-data"
     ],
-    "summary_privacy": "Severe - the canonical critical-band case. RTB broadcasts personal data (IP, precise geo, device IDs, URL, inferred interests, often health/sexuality/political signals) to thousands of bidders per impression. ICCL/Ryan shows users generate hundreds of broadcasts daily. Belgian Market Court May 2025 confirmed TC-strings are personal data; FTC InMarket/X-Mode 2024 banned precise-location sale. GDPR opt-in + per-bidder basis, ePrivacy, CCPA with GPC, COPPA bans behavioural ads to minors.",
-    "summary_security": "Elevated attack surface despite client placement. Risks: (1) JS supply-chain compromise of the bidder chain - polyfill.io (Jun 2024, ~380k hosts) and Magecart skimmers travel through ad networks since every bidder iframe extends the JS trust boundary; (2) malvertising creative-injection delivers drive-by exploits, miners and phishing with no per-bidder vetting; (3) ad-fraud tooling yields CSRF and ATO. Controls: server tagging, CSP+SRI, sandboxed iframes, ads.txt hygiene, bidder review.",
     "tracker_likelihood_score": 10
   },
   "37": {
@@ -1331,8 +1259,6 @@
       "https://www.wiz.io/vulnerability-database/cve/cve-2024-12833",
       "https://nvd.nist.gov/vuln/detail/CVE-2024-12833"
     ],
-    "summary_privacy": "Low intrinsic privacy impact for end users; data plane is mostly operational telemetry. However device logs, NetFlow/sFlow, DPI and remote-screen/session-recording features incidentally collect employee and visitor activity, triggering GDPR Article 88, EDPB Guidelines 5/2020 and labour-law consultation (DE Betriebsrat, FR CSE). Source IPs in firewall and admin-portal logs are personal data under GDPR. Mitigations: minimum retention, log RBAC, purpose limitation, works-council disclosure.",
-    "summary_security": "Critical attack surface - most-exploited per CISA KEV. Routers, firewalls, VPN gateways and privileged monitoring (PRTG, SolarWinds, TeamViewer) sit on the management plane and hold credentials to every managed asset. Mass-exploited zero-days: Cisco IOS XE CVE-2023-20198 (10.0), Citrix Bleed CVE-2023-4966, Palo Alto CVE-2024-3400 (10.0), Fortinet/Ivanti advisories, SolarWinds 2020, TeamViewer 2024 APT29. Controls: no internet-exposed admin UIs, MFA, segmented mgmt VLANs, fast patching.",
     "tracker_likelihood_score": 1
   },
   "38": {
@@ -1371,8 +1297,6 @@
       "https://www.wowza.com/blog/5-cdn-security-features-for-your-live-stream",
       "https://www.bleepingcomputer.com/news/security/plex-discloses-data-breach-warns-users-to-reset-passwords/"
     ],
-    "summary_privacy": "Moderate-to-elevated impact. Subscriber accounts hold names, emails, payment references and detailed watch/listen history exposing interests, schedule and household composition - the Plex Aug 2022 breach (~15M emails, usernames, hashed passwords) and role in 2022 LastPass compromise show the cost. Ad-insertion and recommendation features add cookies/device IDs and share telemetry; kids OTT and gaming portals attract COPPA. Mitigations: minimal fields, hashed history, opt-in personalisation.",
-    "summary_security": "High attack surface. Media servers parse complex container/transport/DRM formats, expose admin UIs plus RTMP/RTSP/HLS/DASH endpoints and run privileged. CVEs: Plex CVE-2020-5741 (auth RCE, CISA KEV after 2022 LastPass breach traced to un-patched home Plex); Wowza CVE-2024-52052+52053 chain (unauth XSS-to-root via Manager port 8088, ~18,500 servers exposed); parser bugs across Jellyfin/Emby/Icecast. Controls: no internet-exposed admin UIs, isolated transcoders, stream token auth.",
     "tracker_likelihood_score": 2
   },
   "39": {
@@ -1413,8 +1337,6 @@
       "https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cameras",
       "https://www.darktrace.com/blog/mirai-malware-infects-cctv-camera"
     ],
-    "summary_privacy": "Very high privacy risk: continuous audio/video of homes, workplaces and children, often streamed to vendor clouds. Footage typically qualifies as biometric/special-category data under GDPR Art.9. Misconfigured devices are indexed on Shodan/Insecam exposing live feeds. Vendor incidents (Verkada 2021, Ring police-sharing) and FTC consent decrees against Ring/Genie show platform-side failures. HIPAA, FERPA and COPPA attach in context. Companion apps add analytics SDKs.",
-    "summary_security": "Very high attack surface: embedded firmware, default/weak credentials, exposed RTSP/ONVIF/MJPEG and admin panels, and a long history of mass exploitation (Mirai, Persirai, Corona-Mirai, AVTECH CVE-2024-7029, Edimax CVE-2025-1316). Many devices reach end-of-life without patches and are routinely conscripted into DDoS/Telnet botnets. Treat any exposed camera endpoint as untrusted and assume RCE-grade exposure on the LAN it sits in.",
     "tracker_likelihood_score": 1
   },
   "41": {
@@ -1454,8 +1376,6 @@
       "https://developer.paypal.com/braintree/articles/risk-and-security/compliance/gdpr",
       "https://midrocket.com/en/guides/online-payment-security-pci/"
     ],
-    "summary_privacy": "Very high PII exposure: PAN, CVV, billing/shipping identity, device fingerprint, and increasingly biometric or government-ID data for KYC. Processors share data with card networks, issuers, fraud-scoring vendors and regulators; many also run analytics or anti-fraud telemetry on behaviour. Subject to GDPR/CCPA as joint or independent controllers and to PCI-DSS, GLBA and regional financial regulators. Vendor choice and field minimisation materially shift merchant exposure.",
-    "summary_security": "Critical: handles cardholder data under PCI-DSS plus fraud/KYC signals. Major processors are Level-1 PCI service providers, but client-side integrations are routinely abused by Magecart skimmers, malicious tag injection and rogue checkout scripts. PCI-DSS 4.0 now mandates script integrity and tamper monitoring on payment pages. Use hosted fields/iframes, strict CSP, SRI, 3DS2, server-side tokenization and continuous monitoring of any third-party JS on checkout.",
     "tracker_likelihood_score": 5
   },
   "42": {
@@ -1494,8 +1414,6 @@
       "https://www.wappalyzer.com/technologies/tag-managers/",
       "https://usercentrics.com/knowledge-hub/google-tag-manager-cookie-consent/"
     ],
-    "summary_privacy": "Critical: tag managers are the conduit for most third-party tracking, advertising and analytics, often firing before consent. The German Hanover court (2025) ruled GTM loading itself requires prior consent as it contacts Google and exposes IP/device data. Tags routinely leak hashed emails, form contents, URLs and behaviour to ad networks. HIPAA/health-sector use has produced enforcement and breach reports. Expect joint-controller obligations under GDPR.",
-    "summary_security": "Very high attack surface despite a benign loader: tag managers grant marketing users arbitrary-JS injection on every page, including checkout and authenticated areas. Recurring Magecart skimmer conduit; related to the 2024 Polyfill.io supply-chain compromise. Often shipped without CSP, SRI, server-side mode, change review or least-privilege containers. PCI-DSS 4.0 6.4.3 and 11.6.1 (effective 31 March 2025) mandate inventory, authorization and tamper monitoring of any script on payment pages.",
     "tracker_likelihood_score": 10
   },
   "44": {
@@ -1532,8 +1450,6 @@
       "https://www.rapid7.com/blog/post/2021/07/09/securing-the-supply-chain-lessons-learned-from-the-codecov-compromise/",
       "https://www.sonatype.com/blog/what-you-need-to-know-about-the-codecov-incident-a-supply-chain-attack-gone-undetected-for-2-months"
     ],
-    "summary_privacy": "Low direct privacy risk: CI systems normally process source code, test data and build artefacts rather than end-user PII, and do not run in the user's browser. However, repos and test fixtures sometimes contain real customer data, API tokens or PII, and hosted CI providers process developer identity data subject to GDPR. Logs and artefacts can persist secrets. Third-party plugins, actions and orbs are an opaque data-sharing channel that should be inventoried.",
-    "summary_security": "Very high attack surface and blast radius: CI holds long-lived secrets, signing keys and cloud credentials and executes arbitrary build code, making it a prime supply-chain target. Major incidents: SolarWinds (build tampering), Codecov bash uploader (2021), 2025 tj-actions/changed-files and reviewdog/action-setup GitHub Actions compromises leaking CI secrets. ~24% of supply-chain attacks abuse CI/CD. Controls: OIDC short tokens, pinned SHAs, isolated runners, SBOM, provenance.",
     "tracker_likelihood_score": 1
   },
   "45": {
@@ -1569,8 +1485,6 @@
       "https://www.mandiant.com/resources/blog/triton-actor-ttp-profile-custom-attack-tools-detections",
       "https://www.cisa.gov/news-events/ics-advisories/icsa-10-272-01"
     ],
-    "summary_privacy": "Low direct privacy footprint: mostly telemetry, sensor and process data, not consumer PII or behavioural tracking. Personal data, when present, is usually operator/employee accounts, building-access logs or camera feeds integrated into BMS, which can implicate GDPR. Trackers and third-party ad/analytics are rare on OT UIs. The dominant regulatory concern is not privacy law but sector cyber regulation (NIS2, NERC CIP, IEC 62443, CISA sector guidance).",
-    "summary_security": "Maximum attack surface: control-system web interfaces govern physical processes; compromise can yield kinetic damage or wide-area outage. Legacy stacks, default credentials, flat networks and exposed protocols are endemic. Stuxnet (2010) and Triton/Trisis (2017) remain canonical. CISA/FBI warn of state-aligned pre-positioning by Volt Typhoon in US water, energy and telecom OT (AA24-038A). Controls: Purdue segmentation, MFA, no direct internet exposure, ZTNA, IEC 62443.",
     "tracker_likelihood_score": 0
   },
   "46": {
@@ -1610,8 +1524,6 @@
       "https://www.ncsc.gov.uk/news/citrix-alert",
       "https://www.huntress.com/blog/vulnerability-reproduction-connectwise-screenconnect-authentication-bypass-cve-2024-1709"
     ],
-    "summary_privacy": "High risk by capability, not tracking: an unattended remote session can observe screen, files, webcam, keystrokes and stored credentials. Co-browsing/screen-share widgets in support flows may capture PII shown on the agent's view, including health and financial data. Vendor session-recording features can store screen snippets in the provider cloud. Trackers on operational endpoints are rare; mobile clients and marketing sites add the usual analytics SDKs.",
-    "summary_security": "Maximum attack surface: compromise yields full interactive control of remote endpoints. Incident history: 2024 AnyDesk source/cert breach (signed Agent Tesla), APT29 TeamViewer corporate breach, ConnectWise ScreenConnect CVE-2024-1708/1709 used by Storm-1175 for Medusa ransomware, Citrix NetScaler chain (CVE-2019-19781, 2023-3519, 2025-7775). CISA/FBI/MS-ISAC repeatedly warn of RMM abuse for initial access. Require MFA, allow-lists, JIT access, agent integrity and rapid patching.",
     "tracker_likelihood_score": 1
   },
   "47": {
@@ -1649,8 +1561,6 @@
       "https://www.ox.security/blog/four-vulnerabilities-expose-a-massive-security-blind-spot-in-ide-extensions/",
       "https://www.darkreading.com/application-security/malicious-vscode-extensions-target-developers-supply-chain"
     ],
-    "summary_privacy": "Moderate: most tools handle developer identity, code, issues and project metadata rather than end-user PII, but cloud IDEs and AI code assistants transmit proprietary code, prompts and editor context to vendor APIs, creating an exfiltration pathway. No-code platforms host customer-facing apps that themselves collect PII, inheriting GDPR/CCPA obligations downstream. Trackers on the marketing fronts of dev SaaS are common; operational interfaces usually run only first-party analytics.",
-    "summary_security": "Variable but materially elevated. Self-hosted forges (Phabricator, Gitiles, Forgejo, Gitea) expose source, secrets, tokens and carry RCE/auth-bypass CVEs. Cloud IDEs and AI editors broaden the surface: 2024-2025 saw critical flaws in popular VS Code and Cursor extensions (128M+ installs) and Cursor allowed silent code execution on cloned repos. AI coding agents introduce prompt-injection paths. Front-end libraries inherit npm supply-chain risk. Pin extensions, keep dev tools behind SSO/MFA.",
     "tracker_likelihood_score": 3
   },
   "48": {
@@ -1687,8 +1597,6 @@
       "https://www.bitdefender.com/en-gb/blog/hotforsecurity/poorly-protected-nas-devices-make-easy-targets-ransomware-attacks",
       "https://www.darkreading.com/vulnerabilities-threats/critical-vulnerabilities-qnap-synology-nas-rce"
     ],
-    "summary_privacy": "Privacy risk is moderate-to-high: stores typically hold large concentrations of PII, source code, HR, healthcare and finance records, and backups, yet the systems are not data brokers and embed virtually no trackers. SaaS variants (Amazon EFS, Azure Files) inherit the cloud provider's data-handling regime; self-hosted NAS keeps data on-prem. The dominant privacy threat is breach-driven disclosure, so encryption-at-rest, access logging, and prompt GDPR/CCPA/HIPAA breach notification are key.",
-    "summary_security": "Very high attack surface: internet-exposed NAS (Synology, QNAP, Asustor, TerraMaster) are repeatedly hit by ransomware (eCh0raix, DeadBolt, Checkmate) and chained at Pwn2Own. Pwn2Own Ireland 2025 burned seven QNAP zero-days (CVE-2025-62847/62848/62849 + HBS 3 chains) and two Synology DSM zero-days, all enabling unauthenticated RCE and full filesystem takeover. Weak admin creds, stale firmware, WAN-facing UIs remain primary vectors. Controls: patching, MFA, segmentation, immutable snapshots.",
     "tracker_likelihood_score": 1
   },
   "49": {
@@ -1718,8 +1626,6 @@
       "https://www.privacytools.io/privacy-rss-feed-readers",
       "https://selfh.st/alternatives/rss-readers/"
     ],
-    "summary_privacy": "Privacy exposure is modest. Cloud feed readers (Feedly, Inoreader, AnnounceKit) log subscription lists, IP, and reading patterns; some inject Google Analytics or Mixpanel and may share anonymized engagement data with ad networks. The data is interest-revealing but not financial or health-grade. Self-hosted aggregators eliminate third-party transfer entirely. GDPR and cookie-law apply to EU users, but PII exposure is limited to email/name plus reading behavior.",
-    "summary_security": "Low attack surface overall: feed readers mostly make outbound HTTP fetches with no inbound exposure. Server-side fetchers can be tricked into SSRF or XXE if XML parsers are misconfigured, and OPML uploads occasionally introduce parsing bugs, but documented exploits are rare and impact is generally limited to the reader's own account. Cloud accounts can leak via credential reuse; self-hosted instances inherit the operator's hardening posture.",
     "tracker_likelihood_score": 3
   },
   "50": {
@@ -1756,8 +1662,6 @@
       "https://www.grmdocumentmanagement.com/blog/navigating-compliance-requirements-the-role-of-document-management-systems/",
       "https://www.hipaajournal.com/is-dropbox-hipaa-compliant-8882/"
     ],
-    "summary_privacy": "Very high PII concentration: contracts, ID scans, medical records, HR files, financial statements. Vendors typically act as data processors under GDPR; cross-border transfers, sub-processor lists, and retention defaults need scrutiny. Third-party trackers are usually limited to marketing pages, not document views. Key controls are encryption at rest, field-level/document-level ACLs, granular audit logs, and configurable retention.",
-    "summary_security": "High attack surface: DMS expose authenticated upload/preview pipelines, search indexers, and document parsers (PDF, Office) with long RCE history, plus sharing links and OAuth integrations creating unauthorized access paths. 2024 Dropbox Sign breach and recurring SharePoint preview/ID-chain CVEs show even mature vendors are routinely exploited; self-hosted (DSpace, Koha, Invenio) inherit Java/PHP web-app risks. Breach impact is severe: DMS is the canonical store of sensitive documents.",
     "tracker_likelihood_score": 3
   },
   "51": {
@@ -1794,8 +1698,6 @@
       "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/",
       "https://developress.io/elementor-vulnerability-november-2025/"
     ],
-    "summary_privacy": "Privacy risk is moderate. Builders collect editor-account PII and visitor analytics, and typically encourage embedding Google Analytics, Meta Pixel, chat widgets, and form processors so the published site ships a non-trivial tracker payload. Visitor data captured by bundled form widgets is often forwarded to the vendor's SaaS endpoint without a clear DPA path. GDPR consent management is the site owner's responsibility, not the builder's, which routinely leads to non-compliance by default.",
-    "summary_security": "High attack surface in the WordPress builder ecosystem. Critical RCEs hit widely deployed builders yearly: CVE-2024-25600 Bricks unauth RCE 9.8 actively exploited within days; CVE-2025-6327/6325 King Addons for Elementor unauth upload + privesc; CVE-2025-30911 RomethemeKit subscriber RCE; CVE-2023-48777 Elementor template-import RCE. Divi has shipped CSRF and stored XSS. Hosted no-code builders are more contained but expose authoring APIs and form endpoints. Plugin sprawl compounds risk.",
     "tracker_likelihood_score": 6
   },
   "52": {
@@ -1835,8 +1737,6 @@
       "https://support.zendesk.com/hc/en-us/articles/4409155522330-Complying-with-Privacy-and-Data-Protection-Law-in-standalone-Chat-accounts",
       "https://www.moin.ai/en/chatbot-wiki/chatbots-data-protection-gdpr"
     ],
-    "summary_privacy": "Critical privacy exposure: visitors paste PII (sometimes credentials) into chats, and vendors retain transcripts, IP, UA, geo, and behavioural data for analytics and ML training. Transcripts are routinely shared with sub-processors for translation, sentiment, LLM summarisation, and ad enrichment with limited transparency. GDPR requires lawful basis, DPA, and explicit consent for non-essential cookies; many fall short. HIPAA chats need BAAs; generic widgets on healthcare sites are an HHS target.",
-    "summary_security": "High attack surface and very high blast radius. Chat widgets run with full DOM access on the host, so vendor compromise becomes supply-chain XSS / session theft across every embedding site. Aug 2025 Salesloft/Drift (UNC6395) abused Drift OAuth tokens to exfiltrate Salesforce data from 700+ orgs (Cloudflare, Google, Palo Alto, Proofpoint, Tanium, Zscaler), hunting AWS keys, Snowflake tokens, VPN creds in case fields. Agent consoles are phishing targets; OAuth/CRM integrations widen exposure.",
     "tracker_likelihood_score": 7
   },
   "53": {
@@ -1879,8 +1779,6 @@
       "https://www.rolustech.com/blog/ai-powered-crm-security-data-privacy",
       "https://www.strac.io/blog/crm-data-loss-prevention-in-salesforce"
     ],
-    "summary_privacy": "Critical privacy exposure: a CRM is by definition a PII database. GDPR rights (access, erasure, portability), CCPA opt-out, sector laws (HIPAA, GLBA, FERPA) apply directly. Vendors act as processors under detailed DPAs; sub-processor sprawl (enrichment, email, analytics, AI training, CS tools) is now the dominant breach vector, as the 2025 Salesloft/Drift and Gainsight incidents showed. Product-UI trackers are limited; the threat is downstream sharing, AI-training posture, and breach disclosure.",
-    "summary_security": "High attack surface, very high blast radius. CRMs expose REST/GraphQL APIs, OAuth marketplaces, complex permissions. 2025 saw two mass third-party-OAuth incidents on Salesforce: Aug 2025 Salesloft/Drift (UNC6395) exfiltrated 700+ tenants (Cloudflare, Google, Palo Alto, Proofpoint, Tanium, Zscaler); Oct-Nov 2025 Gainsight hit 200+ (ShinyHunters claims ~1000). Weaknesses: over-permissive tokens, broad-scope plugins, weak MFA, IDOR, unrestricted exports, secrets in case fields.",
     "tracker_likelihood_score": 4
   },
   "54": {
@@ -1912,8 +1810,6 @@
       "https://www.flyingvgroup.com/seotools/semrush-data-source/",
       "https://secureprivacy.ai/blog/post-cookies-seo"
     ],
-    "summary_privacy": "Privacy risk is moderate but tracker likelihood is high: most SaaS SEO tools embed marketing tags and syndicate clickstream data sourced from ISPs, browser extensions, and panel data (e.g., Semrush methodology). Injected snippets can persist cookies and beacon visitor identifiers to the vendor. PII is mostly limited to account holders plus aggregated visitor metrics, but cross-site behavioral profiling via clickstream partners triggers GDPR and ePrivacy/cookie-law obligations.",
-    "summary_security": "Moderate attack surface. WordPress SEO plugins (Yoast, RankMath, SEOPress) have produced multiple stored-XSS and privilege-escalation CVEs over the years; they run with admin-level access to post content and meta. SaaS dashboards expose Search Console / Google Analytics OAuth tokens, which become high-value targets. Site-injected snippets create a supply-chain XSS path on every page. Beyond that, SEO tools rarely process payments or core PII, so blast radius is contained.",
     "tracker_likelihood_score": 7
   },
   "55": {
@@ -1950,8 +1846,6 @@
       "https://www.malwarebytes.com/blog/scams/2025/04/tax-deadline-threat-quickbooks-phishing-scam-exploits-google-ads",
       "https://www.ispartnersllc.com/blog/soc-2-vs-pci-compliance/"
     ],
-    "summary_privacy": "Processes maximum-sensitivity PII: names, SSNs/tax IDs, addresses, bank account/routing numbers, payment-card data, salary, beneficial-ownership and client equity records. Falls under GDPR/CCPA, GLBA (US financial-privacy) and PCI-DSS where card data is present. Marketing trackers may appear but the application core should not share personal data with third parties without a DPA and sub-processor list. Verify data-residency, retention windows and sub-processor disclosures.",
-    "summary_security": "High-value attack target: stores bank credentials, ACH/wire details, tax IDs and payroll data. 2025 saw widespread credential-stuffing of QuickBooks Online with attackers adding fraudulent vendor ACH records, plus phishing impersonating UltraTax/Thomson Reuters. Breach economics severe (average finance breach >$6M). Required controls: SOC2 Type II, MFA, RBAC, encryption at rest/in transit, audit logging, restricted API tokens, anti-fraud monitoring on vendor/payroll changes.",
     "tracker_likelihood_score": 2
   },
   "56": {
@@ -1985,8 +1879,6 @@
       "https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html",
       "https://en.wikipedia.org/wiki/Cryptojacking"
     ],
-    "summary_privacy": "Direct PII collection is limited (IP, UA, site key) but the script is third-party JS in the first-party origin and can exfil cookies, local storage, session tokens and form data at will - observed doing so in 2025 campaigns. Consent is essentially never obtained, violating GDPR/ePrivacy lawful-basis requirements and consumer-protection laws. Browsers, AV and ad-blockers classify these scripts as malware; tracker/malware blocklist listing (uBlock, Disconnect, NoCoin) is standard.",
-    "summary_security": "Almost universally malicious. In-browser miners run attacker JS that exhausts visitor CPU/GPU and serves as a beachhead; many persist via pop-unders or WebSockets after tab close. 2025 campaigns (3500+ hijacked sites, cside research) chain miners with Magecart skimmers from the same domains. Injected via compromised npm packages, plugins, CDNs or stolen ad inventory. Presence signals cryptojacking or supply-chain compromise; immediate blocking and IR warranted.",
     "tracker_likelihood_score": 9
   },
   "57": {
@@ -2012,8 +1904,6 @@
       "https://www.assetnote.io/resources/research/exploiting-static-site-generators-when-static-is-not-actually-static",
       "https://discourse.gohugo.io/t/security-id-rather-use-a-static-site-generator/11134"
     ],
-    "summary_privacy": "Pure SSG output is informational HTML and does not, by itself, collect PII, set authentication cookies, or persist user data. Privacy exposure comes almost entirely from optional add-ons embedded into the generated pages (analytics, comments, fonts, CDNs, embedded forms, chat). Operators should review which third-party scripts are pulled into the static bundle and apply cookie-law/GDPR consent only where those embeds warrant it. As a category the SSG itself is privacy-neutral.",
-    "summary_security": "Runtime attack surface is minimal: no app server, database or auth at the served origin. Real risk shifts to the build pipeline and supply chain: malicious Jekyll plugins, compromised Hugo/Astro themes, GitHub-Action token exfiltration, leaked S3/CI credentials and unsanitised Markdown. Hugo and peers ship default renderer sandboxing. Sites should still enforce HTTPS, SRI for third-party scripts, security headers (CSP, HSTS) and a hardened pipeline (pinned deps, locked Actions).",
     "tracker_likelihood_score": 1
   },
   "58": {
@@ -2050,8 +1940,6 @@
       "https://docs.sentry.io/security-legal-pii/scrubbing/protecting-user-privacy/",
       "https://www.pendo.io/pendo-blog/the-top-8-in-app-guidance-tools-in-2025/"
     ],
-    "summary_privacy": "High-impact privacy category. Element names, button text, page titles and (with session replay) full screen video can capture PII unless masking is explicitly configured. Pendo/WalkMe/peers offer GDPR/CCPA/HIPAA support, but compliance depends on operators enabling masking, signing DPAs and honoring Do-Not-Process. Persistent visitor IDs/cookies are set; events stream to third-party SaaS. Consent banners, sub-processor disclosure and per-page replay scoping are essential.",
-    "summary_security": "Loads vendor JS with broad DOM access in the authenticated host app: same-origin XSS risk if vendor/CDN is compromised. Mature vendors (Pendo, WalkMe, Whatfix) hold SOC2 Type II with regional residency and Do-Not-Process flags. Risks concentrate on misconfig: unmasked replay fields, leaked app keys, over-broad identification. Pin SDKs, use SRI, enforce CSP. 2025 OCR HIPAA enforcement targets in-browser tracking/replay - healthcare use requires a BAA and verified masking.",
     "tracker_likelihood_score": 9
   },
   "59": {
@@ -2084,8 +1972,6 @@
       "https://fingerprint.com/blog/browser-fingerprinting-techniques/",
       "https://www.aikido.dev/blog/javascript-security-vulnerabilities"
     ],
-    "summary_privacy": "Most libraries do not by design collect personal data, set tracking cookies or contact remote servers at runtime. Exposure arises when (a) the page loads them from a third-party CDN (sees IP/referrer, may set cookies), (b) the library is compromised and turned into an exfil vector, or (c) the library is itself a fingerprinter (FingerprintJS, ClientJS) or perf-tracker (Boomerang). Self-hosting plus SRI eliminates most exposure; cookie-law transparency applies wherever CDN loads occur.",
-    "summary_security": "Mostly benign in isolation, but supply-chain risk dominates: 2024 polyfill.io takeover hit 100k+ sites; 2025 npm phishing trojanised chalk/debug/ansi-styles (2.6B weekly DLs) and axios (100M); Aug 2025 Nx s1ngularity used an LLM postinstall to exfil secrets; jQuery carries exploited XSS (CVE-2020-11023). Mitigate via pinned versions, SRI on CDN assets, lockfile verification, `npm ci --ignore-scripts`. The bucket also contains active fingerprinters (FingerprintJS, ClientJS).",
     "tracker_likelihood_score": 3
   },
   "60": {
@@ -2121,8 +2007,6 @@
       "https://www.aikido.dev/blog/docker-kubernetes-container-security",
       "https://nvd.nist.gov/vuln/detail/cve-2024-21626"
     ],
-    "summary_privacy": "Containers themselves do not collect or transmit end-user data; privacy obligations arise from the workloads they host. Image labels, env vars and registry logs can leak secrets but rarely PII. SOC2, HIPAA, PCI-DSS and GDPR apply transitively: the orchestration layer must enforce encryption at rest/in transit, isolate tenants/PHI workloads, retain audit logs and store secrets in a vault rather than env vars. Public registries can leak proprietary data but rarely personal data.",
-    "summary_security": "Attack surface is operator-driven. Common misconfigs: Docker daemon TCP exposed unauthenticated (host takeover), docker.sock mounted in workloads (root on host), privileged/host-network containers, exposed Kubernetes Dashboard or API server, over-broad RBAC and unpatched/untrusted images. Recent CVEs (Docker CVE-2026-34040 authz bypass) and image-supply-chain attacks demand image signing (Cosign), scanning (Harbor/Trivy), least-privilege RBAC, network policies and runtime monitoring.",
     "tracker_likelihood_score": 0
   },
   "62": {
@@ -2162,8 +2046,6 @@
       "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
       "https://www.heroku.com/blog/april-2022-incident-review/"
     ],
-    "summary_privacy": "PaaS itself typically processes only operational metadata (build/request logs, account info) but the hosted app can store arbitrary PII, payment data or PHI, making the PaaS a GDPR/CCPA processor or sub-processor. Require DPAs, sub-processor lists, regional residency, encryption at rest/in transit and retention policies. Env vars and CI/CD logs are an underrated exfil channel (2026 Vercel incident). Established platforms publish certifications and DPF/SCC; small/regional PaaS vary.",
-    "summary_security": "Shared-responsibility: provider secures platform, customer secures app/secrets/IAM. Multi-tenant runtimes carry noisy-neighbour and lateral-movement risk; reputable providers (Heroku, Vercel, Netlify, Akamai) offer private tiers and SOC2/PCI/HIPAA attestations. Platform-stored secrets are the lethal blast radius: Apr 2022 Heroku/Travis OAuth-token theft hit npm and GitHub orgs; Apr 2026 Vercel breach exposed unencrypted env vars (sold on BreachForums); Aug 2025 Nx s1ngularity LLM exfil.",
     "tracker_likelihood_score": 1
   },
   "63": {
@@ -2201,8 +2083,6 @@
       "https://www.flexera.com/blog/finops/iaas-security-5-threats-and-how-to-prevent-them/",
       "https://www.esecurityplanet.com/cloud/iaas-security/"
     ],
-    "summary_privacy": "IaaS providers act as processors, not trackers, and embed no third-party tags. They hold vast customer PII; lawful-access posture (US CLOUD Act, China cybersecurity law, Schrems II SCC) shapes compliance. Audit DPAs, region pinning, customer-managed keys (CMEK/BYOK), and sub-processor lists. Cross-border transfer is the dominant privacy concern, not behavioural tracking. Tenant misconfig (open buckets, public snapshots) is the realistic PII-leak vector.",
-    "summary_security": "IaaS is the substrate for nearly all customer data; misconfiguration drives the bulk of cloud breaches (public buckets, excessive IAM, open mgmt ports). IBM 2025 Cost of a Data Breach: multi-environment breaches average USD 5.05M. Shared-responsibility puts IAM, network ACLs, and KMS on the tenant. Platform-side: Azure ChaosDB (2021 Cosmos DB key leak), Snowflake 2024 (UNC5537 abused stolen creds against 165 tenants lacking MFA). SOC2/ISO27001 universal.",
     "tracker_likelihood_score": 1
   },
   "64": {
@@ -2236,8 +2116,6 @@
       "https://www.acunetix.com/blog/articles/a-fresh-look-on-reverse-proxy-related-attacks/",
       "https://cyesec.com/blog/frontjacking-new-attack-that-threatens-reverse-proxy-servers"
     ],
-    "summary_privacy": "Proxies do not embed marketing trackers, but they handle decrypted PII, auth cookies, and bearer tokens in memory and logs. Risk concentrates in access-log retention, log-shipping pipelines, and any SSL-bumping for security telemetry. Cloud-managed proxies (Cloudflare, Fastly, Akamai, Front Door) are third-party processors under DPA; anycast can route EU traffic through non-EU PoPs unless pinned (Schrems II). Privacy posture depends on operator config, not the proxy software.",
-    "summary_security": "Reverse proxies see every cleartext request after TLS termination - high-value targets and frequent critical CVE subjects. Recent: F5 BIG-IP CVE-2023-46747 (CVSS 9.8 AJP-smuggling RCE, mass-exploited by UNC5174); HAProxy CVE-2023-25725/25950 (request smuggling); NGINX CVE-2022-41741 (mp4). Cloudflare 18 Nov 2025 outage (~4h, bot-mgmt config) showed proxy control-plane blast radius without a CVE. Misconfig (CORS, headers, host validation) enables origin bypass.",
     "tracker_likelihood_score": 0
   },
   "65": {
@@ -2271,8 +2149,6 @@
       "https://xebia.com/blog/can-we-trust-google-cloud-load-balancing/",
       "https://www.thelasttech.com/post/load-balancer-security-in-network-security"
     ],
-    "summary_privacy": "Managed LBs are processors under provider DPAs and do not run third-party trackers. They terminate TLS and log client IP, user-agent, path, and request sizes - all PII under GDPR. Access logs typically land in cloud storage (S3, GCS) and need retention/encryption controls. Anycast LB topologies (Front Door, CloudFront, GCLB) can route EU traffic through non-EU PoPs unless region-pinned, raising Schrems II issues. Tenant configuration determines exposure.",
-    "summary_security": "Load balancers are central to availability; misconfig (legacy TLS, weak ciphers, open SGs) is the routine risk. SSL termination shifts trust onto the LB; cleartext flows downstream unless backend HTTPS is enforced. Appliance LBs carry severe CVE history: CitrixBleed (CVE-2023-4966) leaked NetScaler session tokens and was mass-exploited by LockBit 3.0 (Boeing, Comcast Xfinity; CISA AA23-325A). Cloud LBs inherit platform incidents; L7 features (sticky cookies, JWT/OIDC) raise exposure.",
     "tracker_likelihood_score": 0
   },
   "66": {
@@ -2303,8 +2179,6 @@
       "https://blog.secureflag.com/2025/11/17/front-end-security-best-practices/",
       "https://www.kodemsecurity.com/resources/security-issues-in-popular-full-stack-frameworks-next-js-react-vue-angular"
     ],
-    "summary_privacy": "Locally hosted UI frameworks have near-zero privacy implications: no network calls, no cookies, no identifiers. Risk emerges only when loaded from a third-party CDN (jsDelivr, unpkg, cdnjs), which sees client IP and Referer - a low-grade tracker. Some commercial kits phone home for telemetry/licence checks; OSS rarely does. Government design systems (USWDS, GOV.UK, NSW) are privacy-neutral. The category does not collect PII or share data with third parties under normal use.",
-    "summary_security": "UI frameworks are typically static client assets; the dominant 2025-2026 risk is npm supply-chain. Sep 2025 qix phishing cascaded into chalk/debug/ansi-styles (~2.6B weekly DLs); Shai-Hulud was the first self-propagating npm worm (500+ packages); CISA AA25-266A; late-2025 TanStack typo-squat. Libraries with dangerouslySetInnerHTML escape hatches can amplify XSS. CSS-only frameworks have minimal direct surface. SRI, lockfile pinning, npm provenance, and CSP mitigate most concerns.",
     "tracker_likelihood_score": 1
   },
   "67": {
@@ -2339,8 +2213,6 @@
       "https://lokker.com/dark-patterns-in-consent-management-deceptive-tactics-and-their-costly-consequences/",
       "https://secureprivacy.ai/blog/dark-pattern-compliance-how-to-stop-manipulative-cookie-banners"
     ],
-    "summary_privacy": "The CMP paradox: tools implementing consent themselves collect behavioural data (consent interactions, IP, fingerprint). Regulator action concrete: NoYB filed 226 GDPR complaints (Aug 2024) vs OneTrust banners with deceptive defaults; CA CPPA fined Honda USD 632,500 (Mar 2025) for asymmetric opt-in; CNIL fined Google EUR 150M (2022). EDPB Opinion 08/2024 rejects consent-or-pay. Many CMPs feed IAB TCF v2 to ad partners. Treat as third-party processor; require DPA; verify opt-out default.",
-    "summary_security": "CMPs are first-loading client-side scripts that gate every downstream tag - a compromised CMP is an XSS/skimmer foothold across thousands of sites. Supply-chain risk is significant (single CDN script across the customer base); ~80% of CMP cookies are XSS-susceptible per recent research. CVE history exists (auth bypass, IDOR exposing cookie inventories). SOC2 attestations are common. The script also creates an availability SPOF when banner load blocks the page.",
     "tracker_likelihood_score": 5
   },
   "68": {
@@ -2376,8 +2248,6 @@
       "https://shouldiuseanaccessibilityoverlay.com/",
       "https://www.accessibility.works/blog/avoid-accessibility-overlay-tools-toolbar-plugins/"
     ],
-    "summary_privacy": "Overlay widgets ask users to self-identify disabilities (vision, cognitive, motor, seizure-prone) and probe for assistive-tech - health-adjacent special-category data under GDPR Art 9 / CCPA sensitive PI. WebAIM and the disability community raise \"digital redlining\" concerns. Overlays often load analytics pixels. The European Commission has stated overlays do not deliver EAA compliance. Treat overlays as high-privacy processors needing explicit consent.",
-    "summary_security": "Overlay vendors inject third-party JS that reads and rewrites the DOM, opening an XSS-class supply-chain vector across every customer site. Imperva disclosed DOM XSS in EqualWeb (CVE-2022-42960) affecting Fiverr, Bosch, Playtika, Avis, Zara, YOTPO, IronSource. The widget CDN, build pipeline, and admin console are high-value targets; compromise propagates everywhere. FTC USD 1M settlement vs accessiBe (final order Apr 2025) signals scrutiny. Audit-only tools (Silktide, UsableNet) far lower risk.",
     "tracker_likelihood_score": 4
   },
   "69": {
@@ -2416,8 +2286,6 @@
       "https://securityscorecard.com/blog/oauth-vs-saml-identity-federation-showdown/",
       "https://www.oloid.com/blog/federated-identity-management"
     ],
-    "summary_privacy": "Auth platforms hold the densest PII on the web: email, phone, government IDs (KYC), biometric templates (Onfido, Socure, MetaMap, Vouched), device fingerprints, login geolocation, and user-to-site relationship graphs (federated login lets the IdP see every relying party visited). Apple Sign-in uniquely offers privacy-preserving relays. Login with Amazon/LINE/Microsoft leak audience. KYC vendors process Art 9 data. DPAs, data residency, sub-processor lists demand scrutiny.",
-    "summary_security": "Identity is the primary attack surface; one IdP compromise cascades to every federated service. Recent: Okta 2023 (HAR session tokens stolen, BeyondTrust + Cloudflare hijacked); Snowflake 2024 (UNC5537 abused stolen creds vs 165 tenants lacking MFA); Cisco Duo Apr 2024 (MFA SMS logs via telephony supplier); MS Midnight Blizzard Jan 2024 (SVR password-spray + legacy OAuth). Recurrent: OAuth/SAML flaws, JWT alg=none, MFA fatigue, SIM-swap, XSS token theft. FIDO2/WebAuthn baseline.",
     "tracker_likelihood_score": 3
   },
   "70": {
@@ -2456,8 +2324,6 @@
       "https://dl.acm.org/doi/10.1145/3338498.3358655",
       "https://en.wikipedia.org/wiki/DigiCert"
     ],
-    "summary_privacy": "PII exposure is low: CAs see domain names, requester contact and validation evidence, not browsing activity. However CT logs deliberately publish every issued FQDN, so internal naming routinely leaks (a known recon source); wildcards or CT redaction mitigate. OCSP historically exposed which site a user visited to the CA; Let's Encrypt ended OCSP Aug 2025 (replaced with CRLs) citing this privacy risk. No client-side tracker behaviour.",
-    "summary_security": "CAs are internet-scale trust anchors: a non-compliant CA can mis-issue for any domain, enabling MITM at huge scale (DigiNotar 2011; Symantec 2017; Entrust distrusted by Chrome/Mozilla/Apple Nov 2024 after 22+ incidents and 26k EV mis-issuances; DigiCert Jul 2024 revoked 83,267 certs over a CNAME-prefix DV defect). Risk concentrates in issuance pipelines, ACME/API keys, key custody, DV and CT compliance. Prefer CAs with strong WebTrust audits, public IR, automation and short-lived certs; use CAA.",
     "tracker_likelihood_score": 1
   },
   "71": {
@@ -2494,8 +2360,6 @@
       "https://www.mgid.com/blog/data-privacy-and-compliance-in-affiliate-marketing-what-you-need-to-know-to-protect-your-business-and-stay-competitive",
       "https://blog.youtarget.com/data-privacy-and-affiliate-marketing/"
     ],
-    "summary_privacy": "Critical: affiliate platforms are textbook third-party trackers — persistent cookies, cross-site click trails, many-to-many ID sharing with advertisers/publishers, and S2S forwarding of order/customer data. GDPR/ePrivacy require prior consent (not strictly necessary except user-requested cashback/loyalty) and a DPA per network. Awin uses legitimate-interest — a contested EU position. Payloads include order value, hashed email, customer ID, IP — often US-transferred. Heavy CCPA/CPRA \"sale/share\".",
-    "summary_security": "Affiliate networks add third-party JS, redirect chains and pixels that expand the supply-chain attack surface (script injection, rogue creatives, cookie stuffing, click fraud — prosecuted as US wire fraud 18 USC 1343). Attribution servers hold order value, customer IDs and email hashes — skimming targets. Smaller networks lack script governance; SRI and CMP gating rare. S2S postbacks (Impact, CJ, Awin, Rakuten) cut client risk but extend trust to backends. Treat tags as untrusted code.",
     "tracker_likelihood_score": 9
   },
   "72": {
@@ -2534,8 +2398,6 @@
       "https://www.accountablehq.com/post/appointment-scheduling-privacy-considerations-how-to-stay-compliant-and-keep-data-safe",
       "https://www.simpleanalytics.com/is-gdpr-compliant/calendly"
     ],
-    "summary_privacy": "PII-heavy: every booking captures contact details plus free-text health, legal or business context. Vendor is processor; controllers need DPA, lawful basis, retention limits and consent for recording. Most vendors US-hosted (SCCs/DPF for EU). HIPAA varies: Calendly refuses BAAs and forbids PHI; Acuity (Squarespace) signs BAAs only on Premium/Powerhouse and only Acuity is in-scope; Cal.com offers self-hosted and signed BAA on enterprise. Calendar metadata is over-retained.",
-    "summary_security": "Scheduling brokers calendar/email/video/CRM/payment integrations, so each connector enlarges attack surface (OAuth theft, webhook spoofing, misconfig). Booking links are heavily abused for impersonation phishing: an ongoing Calendly-themed AiTM campaign (2024-25) spoofs 75+ brands and steals Google/M365/Meta sessions, sometimes via Browser-in-the-Browser bypassing MFA. Public booking pages enumerate staff/email patterns. Require SOC 2 II, MFA, scoped OAuth, audit logs, DMARC.",
     "tracker_likelihood_score": 5
   },
   "73": {
@@ -2575,8 +2437,6 @@
       "https://privacy.commonsense.org/privacy-report/survey-monkey",
       "https://tripetto.com/blog/dont-trust-someone-else-with-your-form-data/"
     ],
-    "summary_privacy": "High PII exposure by design: surveys often capture identifiable, sensitive or special-category data (health, demographics, opinions, employee feedback). Even \"anonymous\" surveys carry re-identifying free text plus IP/UA. Customers are controllers; vendor is processor — DPA required, EU data needs SCCs/DPF (mostly US-hosted). Embed pixels and CRM integrations can re-broadcast to ad-tech. Healthcare/education needs HIPAA/FERPA variants and minimum-necessary design. Public result links leak.",
-    "summary_security": "Surveys aggregate large volumes of user content — high-value breach targets. Typeform's Jun 2018 unencrypted-backup theft exposed >100k records (Monzo ~20k, Revolut, Travelodge). Risks: public result links, weak ACLs, file-upload malware staging, embed XSS (CrowdSignal/Polldaddy CSRF/XSS incl. CVE-2024-43338), over-broad sharing. Embeds need CSP. Demand SOC 2 II, SSO/MFA, granular perms, encryption at rest. SurveyMonkey Enterprise/Qualtrics are HIPAA/ISO 27001; Typeform/Google Forms not.",
     "tracker_likelihood_score": 5
   },
   "74": {
@@ -2615,8 +2475,6 @@
       "https://secureprivacy.ai/blog/cookie-consent-ab-testing",
       "https://kukie.io/blog/consent-aware-ab-testing"
     ],
-    "summary_privacy": "A/B cookies are NOT strictly necessary under GDPR/ePrivacy — CNIL/ICO guidance names VWO, Convert, Optimizely, AB Tasty and Adobe Target as requiring prior opt-in. Running tests on opted-out users is a recurring enforcement finding; CNIL imposed >EUR 139M in cookie-banner fines 2022-24 (11 in 2024). Common failure: variants applied before CMP init. Events include URL, referrer, viewport, UA, IP — re-identifying. Integrations broadcast exposure to ad-tech. US-hosted (SCCs/DPF).",
-    "summary_security": "Client-side A/B platforms inject page-rewriting JS with broad DOM privileges — a high-impact supply-chain target. A compromised snippet can rewrite forms, exfiltrate inputs or stage skimming; visual editors allow arbitrary HTML/JS outside engineering review. Server-side/edge experimentation (GrowthBook, Split, LaunchDarkly, Optimizely Full Stack) shifts risk to flag misconfig, identity-graph leakage and SDK supply chain. Demand SOC 2 II, SSO/MFA, change audit, RBAC, CSP-compatible loading.",
     "tracker_likelihood_score": 8
   },
   "75": {
@@ -2658,8 +2516,6 @@
       "https://www.walturn.com/insights/top-smtp-clients-compliance-comparison",
       "https://maileon.com/blogs/is-mailchimp-still-gdpr-proof/"
     ],
-    "summary_privacy": "Email platforms process large volumes of identifiable PII — addresses, names, segmentation, behavioural and purchase data — and power identity resolution into the marketing stack. GDPR demands lawful basis (consent/soft opt-in), suppression portability, DPA; CAN-SPAM/CASL require unsubscribe. Open/click pixels are cookie-equivalent under ePrivacy and increasingly need EU consent; some DPAs treat pre-load pixels as unlawful. EU data mostly US-hosted (SCCs/DPF). Avoid special-category PII.",
-    "summary_security": "ESPs hold large, high-value subscriber datasets and are repeatedly breached. Mailchimp suffered three support-tool social-engineering attacks in <12 months: Apr 2022 (Trezor), Aug 2022 (DigitalOcean), Jan 2023 (WooCommerce, Statista, FanDuel). Twilio's Aug 2022 phishing also hit SendGrid. A 2022 Salt Labs leak exposed mobile-API keys across Mailchimp/Mailgun/SendGrid (~54M). Apr 2025 \"Satanic\" 849k SendGrid claim was disputed. Require SOC 2 II, ISO 27001, scoped API keys, SSO/MFA, DKIM/DMARC.",
     "tracker_likelihood_score": 6
   },
   "76": {
@@ -2697,8 +2553,6 @@
       "https://vwo.com/blog/web-personalization-tools/",
       "https://www.adtools.org/buyers-guide/bloomreach-vs-mutiny-vs-dynamic-yield-vs-optimizely-personalization-engines-buyer-s-guide-2"
     ],
-    "summary_privacy": "Profiling and automated content selection make this among the most privacy-sensitive client-side categories. Persistent IDs combine on-site behaviour with CRM, purchase and third-party data into long-lived profiles, raising GDPR Art. 6/9/22 — pricing, eligibility and ranking can be \"solely automated decisions with similarly significant effects\" requiring explicit consent, human review and contestability. CCPA/CPRA \"sharing\" and GPC required when IDs leave the controller. SCCs/DPF for EU/US.",
-    "summary_security": "Personalisation scripts inject content into the DOM with broad privileges and load decisions from vendor edge servers — a compromise can rewrite pages, prices and forms (Magecart blast radius). Many ingest CRM/CDP data, extending reach to first-party customer records. Visual editors and merchandiser rules bypass engineering review. Vendor ML can leak signal across tenants if isolation is weak. Require SOC 2 II, SSO/MFA, change audit, CSP-friendly loaders, scoped API keys, CDP egress controls.",
     "tracker_likelihood_score": 9
   },
   "77": {
@@ -2734,8 +2588,6 @@
       "https://www.edpb.europa.eu/news/national-news/2023/personalised-advertising-french-sa-fined-criteo-eur-40000000_en",
       "https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-enforcement-action-bar-goodrx-sharing-consumers-sensitive-health-info-advertising"
     ],
-    "summary_privacy": "Highest-risk privacy category: persistent cross-site tracking, identity-graph syncing and RTB broadcast. ePrivacy Art. 5(3) and EDPB Guidelines 2/2023 require prior opt-in consent; CCPA/CPRA require opt-out of sale/share. Conseil d'Etat upheld the CNIL EUR 40M Criteo fine on 4 March 2026, confirming hashed IDs are personal data. US healthcare Meta Pixel litigation exceeds USD 100M (Advocate Aurora 12.25M, Mass General Brigham 18.4M, Christ Hospital 7M, GoodRx FTC, BetterHelp FTC).",
-    "summary_security": "Third-party JavaScript pixels with broad DOM and form access; the RTB partner sprawl behind each retargeting tag (DSPs, SSPs, identity-graph vendors, data brokers) materially widens the supply-chain attack surface. Documented incidents include the Picreel mass skimmer, Magecart pivots through tag-manager misconfiguration, and silent exfiltration of form data. Enforce CSP, SRI, per-vendor tag governance, server-side tagging where possible, and inventory the long tail of downstream RTB recipients.",
     "tracker_likelihood_score": 10
   },
   "78": {
@@ -2771,8 +2623,6 @@
       "https://docs.datadoghq.com/data_security/real_user_monitoring/",
       "https://www.datadoghq.com/blog/identify-sensitive-data-leakage-in-apm-rum-with-sensitive-data-scanner/"
     ],
-    "summary_privacy": "Captures URLs (often containing IDs/tokens/emails), IP, UA, geolocation and, with session replay, DOM and keystrokes. Vendor docs (Datadog, Splunk, Raygun) place masking/consent burden on the customer; defaults leak. EDPB Guidelines 2/2023 (Oct 2024) bring URL tracking into ePrivacy Art. 5(3). US CIPA/wiretap class actions over session replay accelerated in 2025 (9th Cir. Mikulsky v. Bloomingdale's, June 2025). Mask PII, gate replay behind consent, sign DPAs.",
-    "summary_security": "Third-party JS SDKs with broad DOM/fetch/error and (with session replay) pixel-level capture; SDK or CDN compromise is equivalent to same-origin XSS on every instrumented page. Session-replay expands blast radius dramatically and requires strict masking/allow-deny lists. Pin SDK versions, enforce SRI and CSP, prefer self-hosted or vendor-pinned bundles, audit ingestion endpoints. Treat as high-privilege tag governance just like marketing pixels.",
     "tracker_likelihood_score": 7
   },
   "79": {
@@ -2807,8 +2657,6 @@
       "https://support.maxmind.com/hc/en-us/articles/4408936927515-Legal-Basis-Under-GDPR-to-Act-as-Data-Processor",
       "https://www.abstractapi.com/guides/ip-geolocation/understanding-privacy-risks-in-ip-geolocation"
     ],
-    "summary_privacy": "IP addresses are personal data under GDPR; combining IP with city/lat-long builds a trackable profile. EDPB Guidelines 2/2023 (Oct 2024) explicitly cover \"tracking based on IP only\" under ePrivacy Art. 5(3). Client-side calls to third-party geo APIs share visitor IP and Referer with the vendor and count as a tracker; server-side lookups against a local MaxMind/db-ip DB are the preferred pattern. MaxMind's July 2025 DPA forbids identifying households or individuals.",
-    "summary_security": "Offline DB lookups (MaxMind, db-ip, IP2Location) have minimal direct attack surface. Client-side fetch to a third-party JSON endpoint (ipapi.co, ip-api.com, ipinfo, ipgeolocation) is a remote dependency that, if compromised or DNS-hijacked, pivots to broader script injection: pin endpoints, enforce TLS, do not pass unrelated PII as query parameters. HTML5 Geolocation requires user permission and exposes precise lat/long. Treat any geo-IP key in client JS as low-secret.",
     "tracker_likelihood_score": 5
   },
   "80": {
@@ -2843,8 +2691,6 @@
       "https://solidwp.com/blog/wordpress-vulnerability-report-april-30-2025/",
       "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/"
     ],
-    "summary_privacy": "Themes themselves rarely set tracking cookies, but commonly load remote assets (Google Fonts, Gravatar, CDN icon sets, embedded YouTube/Maps) that leak visitor IP/UA to third parties and require cookie-consent gating under GDPR/ePrivacy and the EDPB's 2024 Art. 5(3) guidelines. Page-builder starter demos sometimes import marketing pixels (Meta, GA) by default; audit the active theme's outbound requests before relying on the consent banner.",
-    "summary_security": "Themes execute server-side PHP with full WordPress privileges and ship their own JS/CSS; common CVE classes are XSS, CSRF, file upload, SQLi, IDOR and PHP object injection. Patchstack 2025 mid-year disclosed 4,462 ecosystem CVEs (themes ~4-9%); Sucuri 2025 research shows >30% of nulled themes ship with hidden file managers, wp-vcd admin backdoors, base64 PHP shells, or SEO-spam injectors. Use only WordPress.org or vendor-signed builds, patch promptly, scan with Wordfence/Patchstack.",
     "tracker_likelihood_score": 4
   },
   "81": {
@@ -2881,8 +2727,6 @@
       "https://ultralabs.digital/blogs/ecom-insights/ultimate-guide-to-shopify-app-security",
       "https://resources.storetasker.com/blog/building-secure-shopify-apps-top-tips"
     ],
-    "summary_privacy": "Storefront themes routinely embed Meta Pixel, Google Ads, TikTok Pixel, plus reviews and chat widgets that share cart and customer data with third parties; EDPB Guidelines 2/2023 (final Oct 2024) bring all such pixels under ePrivacy Art. 5(3). EU storefronts must surface a compliant cookie/consent banner; checkout and customer-account flows handle PII subject to GDPR/CCPA, and custom checkout extensions can pull the theme into PCI-DSS scope.",
-    "summary_security": "Shopify's hosted Liquid runtime eliminates most server-side RCE/SQLi risk, but client-side XSS via unescaped Liquid output, malicious third-party app scripts, and over-broad OAuth scopes (write_themes, read_customers) remain the dominant CVE classes - e.g. CVE-2025-55998 (Smart Search & Filter App XSS) and HackerOne XSS reports in *.myshopify.com. Magecart skimmers target storefronts via compromised app JS. Enforce CSP, scope-minimise theme apps, use Shopify Store Health.",
     "tracker_likelihood_score": 6
   },
   "82": {
@@ -2917,8 +2761,6 @@
       "https://www.thedroptimes.com/34055/vulnerability-in-drupals-unified-twig-module-raises-cross-site-scripting-concerns",
       "https://github.com/advisories/GHSA-6w5j-j56x-jmm3"
     ],
-    "summary_privacy": "Default themes set few cookies and load few third-party assets; privacy risk is dominated by operator-added analytics/marketing modules and embedded media (YouTube, Google Maps, Fonts) which still require cookie-consent gating under GDPR/ePrivacy and the EDPB's 2024 Art. 5(3) guidelines. Many Drupal sites are public-sector (.gov, .edu) which intersects FERPA and public-sector accessibility/transparency obligations.",
-    "summary_security": "Twig auto-escaping mitigates most XSS, but misuse of |raw, unquoted attributes, custom Twig extensions, or render-array abuse leads to XSS, file read or RCE: SA-CORE-2022-016 (RCE via render arrays), CVE-2022-39261 (Twig namespace file read), CVE-2025-24374 (Twig null-coalesce gap, core not vulnerable), CVE-2025-3062 (XSS in Drupal Admin LTE). Restrict who can edit Twig templates, keep core and Twig patched, review contrib themes. Smaller attack surface than WordPress themes.",
     "tracker_likelihood_score": 3
   },
   "83": {
@@ -2955,8 +2797,6 @@
       "https://www.eff.org/deeplinks/2018/06/gdpr-and-browser-fingerprinting-how-it-changes-game-sneakiest-web-trackers",
       "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/"
     ],
-    "summary_privacy": "Highest-risk: stable cross-site, cross-incognito identifier that persists across cookie clearing and consent rejection. EDPB Guidelines 2/2023 (16 Oct 2024) treat fingerprinting equivalently to cookies under ePrivacy Art. 5(3); non-fraud uses require prior opt-in consent. EFF: fingerprinting on ~40% of Tranco top-10k. Google's 16 Feb 2025 reversal allowing fingerprinting for advertisers was called \"irresponsible\" by the UK ICO. CNIL has fined adtech vendors for fingerprinting without consent.",
-    "summary_security": "Defensive use cases (anti-fraud, ATO defence, bot mitigation by FingerprintJS Pro, ThreatMetrix, TruValidate/iovation, MaxMind minFraud, Sift, Forter) deliver real security value. Risk: the SDK reads high-entropy browser surfaces (canvas, WebGL, audio, fonts, battery, hardware concurrency) and ships a stable identifier off-domain; SDK/CDN compromise yields broad client-side observability. Treat as high-privilege third-party JS: pin versions, enforce SRI/CSP, restrict to fraud-only paths.",
     "tracker_likelihood_score": 10
   },
   "84": {
@@ -2994,8 +2834,6 @@
       "https://edpb.europa.eu/system/files/2023-05/edpb_guidelines_202301_cookie_pledge_en.pdf",
       "https://www.ftc.gov/business-guidance/blog/2024/08/ftc-announces-final-rule-banning-fake-reviews-testimonials"
     ],
-    "summary_privacy": "Loyalty programs build identity-bound profiles: email, SMS, phone, name, address, birthdate, lifetime purchase history, referral graph. They sync audiences to ad networks (Meta, Klaviyo, Google) and drop referral/conversion cookies, so GDPR Art. 6/7 consent, ePrivacy cookie consent, and CCPA sale/share apply. EU regulators have flagged referral cookies; require DPAs, sub-processor disclosure, EU residency, GPC/TCF propagation.",
-    "summary_security": "Loyalty widgets load in authenticated commerce flows with broad OAuth scopes for orders, customers, refunds, and discounts (Shopify/Magento/BigCommerce). Checkout-adjacent third-party JS is a Magecart skimming surface; Smile.io, LoyaltyLion, Yotpo, Antavo, Extole, ReferralCandy hold multi-tenant PII whose breach hits every merchant. Verify SOC2 Type 2, scoped rotatable app tokens, webhook HMAC signing, CSP isolation of widget origins, admin SSO+MFA.",
     "tracker_likelihood_score": 7
   },
   "85": {
@@ -3030,8 +2868,6 @@
       "https://openai.com/index/openai-acquires-statsig/",
       "https://gdpr.eu/article-28-processor/"
     ],
-    "summary_privacy": "Targeting contexts include user IDs, email, IP, geolocation, device fingerprint, plan, and custom attributes — giving vendors behavioural telemetry usable for re-identification. GDPR Art. 28 DPA, sub-processor disclosure, EU residency, and user-key pseudonymisation are the primary controls; CCPA service-provider language applies. Check experiment retention before forwarding PII as flag context and whether the vendor uses data for model training (Statsig/OpenAI).",
-    "summary_security": "Flag SDKs (LaunchDarkly, Statsig, Split, Flagsmith, Unleash, GrowthBook, ConfigCat) run in production with privileged config that can toggle security controls (MFA, geofencing, kill-switches) or dark-launch backdoors. A leaked SDK/env key is a direct production incident; rule contents leak business logic. Require regional failover, signed bootstrap, SOC2 Type 2, env isolation, RBAC+SSO, webhook signing, least-privilege keys. Statsig's 2025 OpenAI acquisition adds vendor-stability diligence.",
     "tracker_likelihood_score": 5
   },
   "86": {
@@ -3065,8 +2901,6 @@
       "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2023/07/ico-statement-in-response-to-google-data-protection-decision/",
       "https://www.tealium.com/trust/privacy/"
     ],
-    "summary_privacy": "Segmentation is the textbook target of GDPR Art. 4 profiling, Art. 22 ADM, CCPA sale/share, and ePrivacy cookie consent. Vendors enrich profiles via third-party marketplaces, run cross-context behavioural advertising, and transfer EU data to the US. TCF v2.2 and GPC must propagate into activations; without consent gating and EU residency, deployment is high regulatory risk. Reference: Schrems II, CNIL Criteo EUR40M, ICO ad-tech.",
-    "summary_security": "DMP/segmentation tags read cookies, localStorage, and DOM, so a compromised tag is a cross-site exfiltration vector — the failure mode of the 2020 Oracle BlueKai 4TB exposure and recurring audience-manager supply-chain audits. Server-side activation APIs fan customer lists to dozens of ad partners, multiplying skimming and credential-stuffing surface. Require TMS loading with strict CSP, partner allowlists, signed payloads, scoped keys, full DPA chains, runtime tag integrity.",
     "tracker_likelihood_score": 9
   },
   "87": {
@@ -3104,8 +2938,6 @@
       "https://www.cnil.fr/en/cookies-cnil-fines-meta-platforms-ireland-eu60-million",
       "https://gdprhub.eu/index.php?title=LG_M%C3%BCnchen_-_3_O_17493/20"
     ],
-    "summary_privacy": "Plugins collect PII via forms, comments, checkouts, reviews, analytics. Many silently send admin telemetry and load third-party CDNs (Google Fonts, gravatars) — repeatedly cited in EU enforcement against the embedding site (LG München Google Fonts 2022, CNIL Meta Pixel 2022-2024). Payment, review, chat, tracking, translation plugins create undisclosed cross-border transfers. Maintain plugin inventory, enforce per-plugin DPAs, gate marketing plugins behind consent, audit pixels.",
-    "summary_security": "The largest CVE class on the public web. Wordfence/Patchstack publish weekly criticals: unauth RCE, SQLi, privesc, arbitrary file upload across plugins with millions of installs. 2024 shipped CVE-2024-50550/44000 (LiteSpeed Cache), CVE-2024-25600 (Bricks RCE), CVE-2024-27956 (WP Automatic SQLi). Plugins run with full PHP/DB privileges; ownership transfers introduce malicious updates (Social Warfare, AccessPress). Require active maintenance, WAF, auto-updates, inventory, FIM.",
     "tracker_likelihood_score": 6
   },
   "88": {
@@ -3141,8 +2973,6 @@
       "https://www.bleepingcomputer.com/news/technology/fire-destroys-ovhcloud-sbg2-strasbourg-datacenter/",
       "https://www.databreaches.net/dreamhost-leaves-database-of-814-million-records-exposed-online/"
     ],
-    "summary_privacy": "Hosting providers are GDPR processors for all customer and visitor data on the platform, including server logs, mail, DB content, and backups. Data residency and EU-US transfers matter, especially for Swiss/EU vs US incumbents. Confirm DPA, sub-processor list (CDN, mail relay, backup, AV, anti-bot), region-locked storage, breach-notification SLAs, account-deletion. Admin-dashboard trackers and partner placements should be disclosed/opt-out. EU hosters default to better residency; verify.",
-    "summary_security": "Hosting providers are critical processors: a breach exposes customer data, source, DBs, mail, TLS keys, and admin creds for every tenant. Shared/managed-WP hosts are repeatedly cited in mass-defacement and skimming due to weak isolation and outdated PHP/CPanel — GoDaddy 2021 Managed WP (1.2M creds) and 2022 multi-year intrusion, Hostinger 2019 (14M), OVHcloud SBG2 fire 2021, DreamHost 814M-record exposure, recurring Bluehost takeovers. Evaluate ISO 27001, SOC 2 Type 2, isolation, DDoS, MFA+SSO.",
     "tracker_likelihood_score": 1
   },
   "89": {
@@ -3177,8 +3007,6 @@
       "https://gtranslate.io/privacy-policy",
       "https://www.bablic.com/privacy-policy"
     ],
-    "summary_privacy": "Translation traffic includes URLs, referrers, IPs, full DOM text (names, addresses, order info, tickets), and cookies — sent to the vendor and, for Google Translate, into Google's processing chain. GDPR requires lawful basis, sub-processor disclosure, EU residency, and Schrems II TIAs. EU regulators flagged Google-hosted scripts as requiring prior consent (LG München Google Fonts; noyb GA). Confirm exclusion of authenticated/checkout pages and translation-memory retention.",
-    "summary_security": "Client translation widgets are third-party scripts with full DOM access — CDN compromise yields XSS-equivalent control. Proxy-mode services (Weglot, Bablic, GTranslate, ConveyThis, Linguise, Smartling proxy) terminate TLS and rewrite every response, so the vendor sees URLs, headers, cookies, and form posts not excluded; key mgmt and IR SLAs become first-class controls. Google Translate pulls from Google domains that also serve tracking. Self-hosted WPML/Polylang/Weblate avoid that risk.",
     "tracker_likelihood_score": 6
   },
   "90": {
@@ -3215,8 +3043,6 @@
       "https://judge.me/privacy",
       "https://okendo.io/privacy-policy/"
     ],
-    "summary_privacy": "Reviews process buyer email, name, order/SKU, photos, video, IP — and publish portions publicly, creating durable, indexable, search-cached PII that conflicts with GDPR Art. 17 erasure and Art. 5(1)(e) storage limitation. Cross-merchant syndication (Yotpo, Trustpilot, Bazaarvoice Network) and Google Seller Ratings amplify sharing. Cookie consent applies to widgets/pixels. FTC 16 CFR Part 465 (2024) and EU Omnibus 2019/2161 require verification. Confirm DPA, retention, deletion SLAs.",
-    "summary_security": "Reviews widgets run third-party JS on PDP/checkout-adjacent pages with DOM and cookie access; vendor-script compromise yields cross-merchant XSS and skimming (Magecart). UGC moderation and image/video uploads add server-side parsing risk (XXE, SSRF, ImageMagick CVEs, malware). Post-purchase email/SMS uses order-scoped tokens that, if leaked, allow buyer impersonation and fake-review injection. Verify webhook HMAC, token rotation, SRI/CSP, image scanning, moderator RBAC, fake-review controls.",
     "tracker_likelihood_score": 6
   },
   "91": {
@@ -3253,8 +3079,6 @@
       "https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-to-ensure-consumers-can-dispute-charges-and-obtain-refunds-on-buy-now-pay-later-loans/",
       "https://www.federalregister.gov/documents/2024/05/31/2024-11800/truth-in-lending-regulation-z-use-of-digital-user-accounts-to-access-buy-now-pay-later-loans"
     ],
-    "summary_privacy": "Privacy-critical: BNPLs collect financial PII (name, DOB, address, phone, email, bank/card, income, fingerprint, precise location) and share with credit bureaus, fraud vendors, ad networks. Incogni 2024 found Afterpay shared 17 categories; Klarna and Affirm shipped precise-location to ad-tech. Soft credit pulls leave a bureau footprint without loan completion. CFPB May 2024 rule extends Reg Z to pay-in-4; GDPR, CPRA, GLBA Safeguards, ePrivacy apply. DSAR uneven.",
-    "summary_security": "High-value surface: checkout JS plus loan/KYC APIs, with credit-bureau and fraud-vendor integrations multiplying blast radius. Klarna (2022) and Block/Afterpay (2022, 2024) breaches leaked records. Magecart-class risk on the widget; ATO, synthetic-identity fraud and coupon-stuffing on the loan API. PCI-DSS scope flows to the merchant; SOC 2/ISO 27001 uneven — regional BNPLs (Mokka, Postpay, Spotii, Payflex) publish far less than Klarna/Affirm/Afterpay.",
     "tracker_likelihood_score": 8
   },
   "92": {
@@ -3289,8 +3113,6 @@
       "https://www.speedcurve.com/blog/rum-privacy/",
       "https://www.catchpoint.com/blog/what-is-real-user-monitoring"
     ],
-    "summary_privacy": "Most items are dev primitives with no tracker behaviour (40/71 sampled light or none, 0 heavy). The privacy-relevant tier is RUM: Core Web Vitals, click/scroll paths, JS error stacks, URLs, referrers, UA, device class and IP-derived geo are personal data under GDPR/ePrivacy and typically require consent. Tier-1 RUM (DebugBear, Calibre, SpeedCurve, Catchpoint) offers IP truncation and cookieless modes; the long tail (Naver RUA, OneAPM, Quicksprout, Website Speedy) is heavier.",
-    "summary_security": "Two risk profiles. (1) Libraries / WP plugins / browser primitives (LazySizes, Lozad, Quicklink, Autoptimize, ShortPixel, EWWW, Partytown, Turbo) have minimal third-party surface — risk is maintainer/npm side. (2) Edge-proxy + RUM tier (Yottaa, Edgemesh, Fasterize, Speed Kit, NitroPack, DebugBear, Calibre, SpeedCurve, Catchpoint) sits inside the trusted execution context: a compromised SDK propagates to every page (Magecart-class). Edge-proxy vendors terminate TLS. Few publish SOC 2.",
     "tracker_likelihood_score": 5
   },
   "93": {
@@ -3325,8 +3147,6 @@
       "https://www.ftc.gov/business-guidance/blog/2020/07/marriott-and-starwood-data-breach-settlement",
       "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-263a"
     ],
-    "summary_privacy": "High PII concentration: contact data, addresses, dietary/health hints, travel history and — for hotels — passport/ID, nationality and DOB collected for registration / police-report obligations. Under GDPR the venue is controller, platform processor; DPA, retention, special-category basis and DSAR required. Tracker moderate on tier-1 delivery (Lieferando heavy, Flipdish/DISH/Guesty moderate), light on long-tail PMS. Channel managers replicate to OTAs — cross-border transfer structural.",
-    "summary_security": "Booking platforms aggregate guest profiles, contact details and often stored cards — hospitality is among the most-breached sectors (Marriott 2018/2020, MGM 2019/2023, IHG 2022, Sabre 2017). Widgets and channel-manager APIs sit in multi-tenant flows; one compromise leaks many venues. PCI-DSS applies where cards are stored/proxied; tokenisation varies between tier-1 PMS (Cloudbeds, Guesty, Eviivo) and long-tail apps. Staff-dashboard auth and OTA-replication endpoints are weak points.",
     "tracker_likelihood_score": 6
   },
   "94": {
@@ -3361,8 +3181,6 @@
       "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/",
       "https://www.cnil.fr/en/cnil-publishes-guidelines-commercial-prospecting"
     ],
-    "summary_privacy": "High privacy risk: cross-device attribution via cookies, fingerprints, email hashes; referee data collected before any contractual relationship — a GDPR/ePrivacy hot spot. CNIL, ICO and AEPD have held unconsented referee processing has no lawful basis; ICO treats unconsented referral email as a PECR breach. Tracker moderate (Friendbuy, Mention Me, Extole, Talkable, ReferralCandy). Referrer -> platform -> ESP -> ad-tech flow makes sharing structural; CCPA disclosures required.",
-    "summary_security": "Moderate surface: small tags but they sit on conversion-critical pages and enable referral fraud, self-referrals, coupon stuffing and email harvesting. CloudSponge address-book imports require OAuth access to the user's mailbox — an attractive phishing vector. Server-side attribution endpoints handle email lists and reward payouts, so ATO or API leakage can spill many merchants' customer data at once. SOC 2 coverage uneven across the long tail (Aklamio, Flocktory, Refericon, Coopt, EarlyParrot).",
     "tracker_likelihood_score": 8
   },
   "95": {
@@ -3395,8 +3213,6 @@
       "https://www.bynder.com/en/blog/dam-security/",
       "https://www.frontify.com/en/security/"
     ],
-    "summary_privacy": "Privacy risk is moderate, not high: most assets are corporate creative, not consumer PII. Exposure rises when assets show identifiable people (talent, employees, customer testimonials) — GDPR image-consent / model-release applies — or when metadata holds contributor names, licensing terms or EXIF/IPTC geolocation. Public delivery via DAM CDNs (Cloudinary, Imgix, Cloudimage) rarely sets identifying cookies, so tracker density is light/none across the sample.",
-    "summary_security": "Primary risks: IP/asset leakage, unauthorised access to embargoed creative, ransomware on the asset store, abuse of public-share links and supply-chain compromise of image-processing pipelines (Transloadit, Cloudinary) decoding untrusted media (ImageMagick/libvips CVE history is long). Public CDN delivery is low-risk; the back-office is the soft target — credential stuffing, weak SSO/MFA, over-broad share links. Tier-1 DAMs (Aprimo, Frontify, Bynder, MediaValet, Widen) hold SOC 2 II + ISO 27001.",
     "tracker_likelihood_score": 3
   },
   "96": {
@@ -3432,8 +3248,6 @@
       "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
       "https://www.bazaarvoice.com/blog/ugc-and-content-curation-best-practices/"
     ],
-    "summary_privacy": "UGC contains personal data of the original poster (handle, photo, location, sometimes minors); GDPR/CCPA require lawful basis, documented rights-management and a takedown path. EU Digital Services Act (Feb 2024) adds Art 14/16 notice-and-action duties. Tier-1 (Bazaarvoice, Pixlee, Emplifi, Nosto, Flockler, CrowdRiff) provides consent and audit trails; long tail (Tagboard, Foursixty, Tagembed) often does not. Embeds load tracking from Instagram/TikTok/Facebook, triggering ePrivacy consent.",
-    "summary_security": "Widgets are third-party JS embedded on commerce pages — usual supply-chain risk (Magecart-style tampering, malicious update). They render user-uploaded media, adding image/SVG/HTML-injection and stored-XSS risk where sanitisation is weak. Link-shorteners like Sniply rewrite outbound traffic and are an explicit phishing/abuse vector. Few long-tail vendors publish SOC 2; assess CSP scope, iframe sandboxing and UGC moderation pipelines.",
     "tracker_likelihood_score": 6
   },
   "97": {
@@ -3472,8 +3286,6 @@
       "https://www.twilio.com/en-us/blog/august-2022-social-engineering-attack",
       "https://oag.ca.gov/privacy/ccpa"
     ],
-    "summary_privacy": "Worst-case privacy profile in the marketing stack: persistent identity stitching, deterministic + probabilistic matching, profile enrichment and audience export to many ad destinations. Routinely \"selling/sharing\" under CCPA/CPRA; lawful basis + granular consent required under GDPR. Tracker moderate-to-heavy (Emarsys, SALESmanago, Listrak, Salesforce Audience Studio, Tealium heavy). HIPAA rare — only Tealium private-cloud is HIPAA-suitable; Segment, mParticle, BlueConic refuse PHI.",
-    "summary_security": "CDPs centralise the customer-data lake — one compromise (token leak, misconfigured destination, malicious reverse-ETL connector, insider abuse) exposes profiles across every channel. Twilio's 2022 Segment-adjacent phishing is a precedent. Client SDKs (Segment analytics.js, Tealium utag.js, mParticle, BlueConic) are first-party-served with deep DOM access — Magecart targets. Server APIs handle identity-resolution and webhook fan-out, amplifying IAM mistakes. Tier-1 hold SOC 2 II + ISO 27001.",
     "tracker_likelihood_score": 9
   },
   "98": {
@@ -3510,8 +3322,6 @@
       "https://shopify.dev/docs/api/web-pixels-api",
       "https://oag.ca.gov/privacy/ccpa"
     ],
-    "summary_privacy": "Critical privacy impact: the model is to re-identify abandoning visitors and forward email/phone/cart contents to ESPs, SMS, push, Messenger/WhatsApp and ad-retargeting endpoints. Persistent cookies, local-storage IDs and fingerprinting are standard. ePrivacy/GDPR consent is commonly captured post-hoc, falling short of EDPB guidance, and CCPA \"sale/share\" obligations are routinely triggered by Meta/Google retargeting pixels. Global Privacy Control and opt-out signals are inconsistently honoured.",
-    "summary_security": "Moderate-to-high attack surface: third-party JS on cart/checkout plus webhook/API integrations with store, ESPs, ad networks and push/SMS gateways. Risks: Magecart supply-chain leakage of cart+PII, insecure session/cart-token linking, CSRF/replay in recovery URLs, weak rate limiting on identification endpoints. Mostly small-SaaS vendors with variable SOC2 maturity. Shopify Web Pixels / Checkout Extensibility sandboxes mitigate but do not remove exposure for legacy installs.",
     "tracker_likelihood_score": 9
   },
   "99": {
@@ -3547,8 +3357,6 @@
       "https://www.bleepingcomputer.com/news/security/royal-mail-confirms-ransomware-attack-by-lockbit/",
       "https://edpb.europa.eu/sme-data-protection-guide_en"
     ],
-    "summary_privacy": "High PII: full postal addresses, name, phone, email are unavoidable; metadata is shared with sub-carriers, customs/border authorities and SMS/email gateways. International transfers (SCCs/UK IDTA), GDPR Art. 28 terms and onward-transfer disclosure are central. Label/API tracker density is light, but consumer tracking portals (DHL/UPS/FedEx) load analytics/ad tags, triggering cookie-law/ePrivacy consent and CCPA opt-out. Tracking-number enumeration and smishing reuse are recurring risks.",
-    "summary_security": "Carriers run sprawling APIs (rating, labels, tracking), public tracking portals and merchant webhooks. Abuse: smishing impersonating tracking notices (FTC/postal advisories 2023-24), enumerable tracking-number lookups leaking recipient PII, OAuth/API-key leakage from store integrations, ATO of shipper dashboards. Majors (DHL/UPS/FedEx/USPS/Royal Mail) hold SOC2/ISO 27001; regional postal/last-mile are uneven. Royal Mail LockBit (Jan 2023) shows network-layer ransomware exposure.",
     "tracker_likelihood_score": 3
   },
   "100": {
@@ -3586,8 +3394,6 @@
       "https://www.shopify.com/legal/api-terms",
       "https://shopify.dev/docs/api/customer-privacy"
     ],
-    "summary_privacy": "Apps routinely receive customer name, email, shipping address, order history and behavioural events, often forwarded to their own analytics, marketing and ad partners under inconsistent DPAs. Sub-processor disclosure, international transfers and CCPA \"sale/share\" classification vary widely. CMP integration and GPC honouring are inconsistent; many apps load Meta/TikTok/Google pixels on storefront pages bypassing the merchant CMP. Shopify Customer Privacy API adoption is improving.",
-    "summary_security": "Very high attack surface, like WordPress plugins. Each app injects third-party JS (ScriptTag, Theme App Extension or, on checkout, Web Pixels/Checkout UI Extensions) plus OAuth with broad scopes (read_customers, read_orders, write_orders). Risks: Magecart/skimmers via compromised CDNs (Sansec 2020-24), vulnerable apps (XSS/IDOR/SSRF) leaking PII at scale, 2024 Polyfill.io attack, abandoned apps with live tokens, scope creep. BFS review and Web Pixels/Checkout sandboxes help, not remove.",
     "tracker_likelihood_score": 8
   },
   "101": {
@@ -3626,8 +3432,6 @@
       "https://oag.ca.gov/system/files/initiative/pdfs/21-0042A1A%20%28Consumer%20Privacy%20-%20Version%203%29_1.pdf",
       "https://www.lever.co/legal/privacy/"
     ],
-    "summary_privacy": "Among the most privacy-sensitive web categories. Resumes carry identity, location, education, work history, health hints and protected-class signals. GDPR Art. 9 special-category data (health, ethnicity via DEI forms) and lawful-basis are recurring issues. CCPA HR exemption expired 1 Jan 2023, putting applicant data fully in scope. Retention of unsuccessful applicants, automated rejection and US-vendor transfers (Schrems II / EU-US DPF) are persistent gaps. FERPA covers campus-recruiting data.",
-    "summary_security": "High-value targets holding resumes for entire applicant pools. Incidents: exposed S3 buckets of CVs, broken access on candidate portals, IDOR in ATS APIs, downstream exposure from BG-check vendors (MOVEit/PBI 2023). BG-check and ID-verification extend the trust chain into government databases. Career-site widget injection is a recurring XSS surface. Algorithmic screening and one-way video interviewing trigger EU AI Act Annex III high-risk status and NYC AEDT Local Law 144 annual bias audits.",
     "tracker_likelihood_score": 5
   },
   "102": {
@@ -3662,8 +3466,6 @@
       "https://www.seel.com/legal/privacy-policy",
       "https://www.shopify.com/blog/ecommerce-returns"
     ],
-    "summary_privacy": "Returns combine identity, address, order content and free-text return-reason fields that often carry sensitive context (health, sizing, complaints). Data is shared with carriers, the merchant, fraud-scoring (Riskified/Signifyd) and recommerce partners (Reshop, Recurate). GDPR data-minimisation and retention on reason text are weak. Branded portals inherit merchant analytics/CMP tags; tracker density is light on the core, heavier on embedding pages. CCPA \"sale/share\" can fire post-confirmation.",
-    "summary_security": "Moderate attack surface. Return portals expose order-number+email lookups enabling enumeration; weak rate limits, predictable RMA tokens and tokenless return links are recurring bugs. Carrier-label generation handles UPS/USPS/DHL/FedEx API keys; instant-refund (Seel, Refundid, Reshop) adds payment-routing and tokenised cards. Webhooks into Shopify/Magento/BigCommerce inherit OAuth exposure. Loop, Narvar, Happy Returns and AfterShip hold SOC2 Type II; long-tail Shopify-app vendors are uneven.",
     "tracker_likelihood_score": 4
   },
   "103": {
@@ -3701,8 +3503,6 @@
       "https://developers.cloudflare.com/stream/",
       "https://corp.kaltura.com/privacy-policy/"
     ],
-    "summary_privacy": "Players and analytics SDKs set persistent IDs and report telemetry to the vendor and to ad/analytics partners (Conviva, Google, Meta). Chat and engagement may carry identity. Live-shopping pulls in payment and identity. Kid audiences (gaming/creator, education) trigger COPPA and FTC 2024 amendments; very-large platforms also face EU DSA/AVMSD. Cookie-law/ePrivacy and CCPA opt-out signals on embedded players are inconsistently honoured; recording retention and transcript-AI add secondary risk.",
-    "summary_security": "Mixed attack surface: WebRTC/SFU services expose signalling endpoints and TURN creds; HLS/DASH/LL-HLS players are large JS bundles loaded across many origins. Risks: stream-key leakage enabling unauthorised broadcasts, DRM/token flaws, chat-XSS, recording-storage misconfig (open S3/GCS), credential-stuffing of creator dashboards. Cloudflare Stream, Kaltura, AWS IVS and Mux hold SOC2/ISO 27001; live-commerce and smaller WebRTC vendors are uneven. 2024 Snowflake compromises hit adjacent media.",
     "tracker_likelihood_score": 7
   },
   "104": {
@@ -3740,8 +3540,6 @@
       "https://www.pcisecuritystandards.org/document_library/?category=pcidss&document=pci_dss",
       "https://www.ticketmaster.com/privacy"
     ],
-    "summary_privacy": "High PII concentration: legal name, contact, payment, sometimes gov-ID and post-COVID health data, plus behavioural and location data used for dynamic pricing, demand modelling and re-marketing. Data is shared with promoters, venues, processors, fraud vendors, sponsor/list-rental and ad-retargeting; primary-to-secondary resale complicates consent. GDPR lawful-basis and retention are central; CCPA \"sale/share\" fires from Meta/Google pixels on events. COPPA for youth; EU DSA for large primaries.",
-    "summary_security": "Critical. Public checkout, huge attendee databases and QR/barcode issuance are heavily targeted by credential-stuffing, scalper bots (OWASP OAT-005/012), card-testing and ATO. Defining incident: Ticketmaster/Snowflake breach (May 2024) exposing ~560M records via a non-MFA Snowflake tenant; recurring breaches at See Tickets, AXS partners and smaller vendors. PCI-DSS scope is unavoidable; hosted PSP fields (Stripe, Adyen) reduce not remove it. WAF, MFA and signed rotating tickets are core.",
     "tracker_likelihood_score": 6
   },
   "105": {
@@ -3776,8 +3574,6 @@
       "https://iapp.org/news/a/virtual-try-on-tech-faces-biometric-privacy-scrutiny",
       "https://www.classaction.org/news/louis-vuitton-faces-class-action-over-virtual-try-on-feature-biometric-data-collection"
     ],
-    "summary_privacy": "AR/virtual try-on captures facial geometry, body measurements, depth maps, gaze and live video — biometric special-category data under GDPR Art. 9, BIPA, Texas CUBI, WA MHMDA and CCPA/CPRA sensitive-PI. Active BIPA class actions against Estee Lauder, Louis Vuitton, Warby Parker, Sephora and L'Oreal show real exposure. Many SDKs phone home, blend images into model-training pipelines and rely on third-party CDNs. Opt-in, on-device processing, retention caps and training opt-out are required.",
-    "summary_security": "AR SDKs run client-side with broad camera/sensor permissions and load heavy third-party JS/WebGL bundles; supply-chain compromise of the vendor script yields webcam hijack, MediaStream theft and facial-geometry exfiltration. Native SDKs ship as opaque binaries, rarely audited, and bundle telemetry to vendor CDNs. WebXR / USDZ / model-loader parsers see a steady CVE cadence. Attack surface is moderate but blast radius (live camera, depth sensor, DOM injection) is severe.",
     "tracker_likelihood_score": 7
   },
   "106": {
@@ -3814,8 +3610,6 @@
       "https://edpb.europa.eu/our-work-tools/our-documents/recommendations/recommendations-012020-measures-supplement-transfer_en",
       "https://www.pcisecuritystandards.org/document_library/?category=pcidss&document=pci_dss"
     ],
-    "summary_privacy": "Move PII across jurisdictions under GDPR, UK GDPR, FADP, CCPA/CPRA, LGPD, PIPL and post-Schrems II SCC + transfer-impact-assessment rules. PIPL's 2024 standard contract, India's DPDP, China/Russia data-localisation and IOSS/OSS VAT reporting force lawful but extensive sharing with carriers, customs, tax authorities and banks. Multi-jurisdiction consent (ePrivacy, GPC), DSAR and long tax retention are non-trivial. Customer ID-doc collection for customs is common and frequently mishandled.",
-    "summary_security": "Merchant-of-record platforms aggregate cardholder data, fraud scores, addresses, tax IDs and customs declarations across thousands of merchants — PCI-DSS L1 + SOC 2 high-value targets demanding tokenisation. MoR providers inject checkout JS and 3DS redirects, widening supply-chain attack surface (Magecart e-skimming on MoR scripts is documented). Cross-border traffic and varied IP geos complicate WAF tuning. A breach can leak millions of orders' PAN, address and ID-doc data.",
     "tracker_likelihood_score": 6
   },
   "107": {
@@ -3850,8 +3644,6 @@
       "https://www.intezer.com/blog/research/xe-group-from-credit-card-skimming-to-exploiting-zero-days/",
       "https://www.verizon.com/business/resources/reports/dbir/"
     ],
-    "summary_privacy": "Process high-volume shipping PII (name, address, phone, sometimes passport/national-ID for customs, GPS-tagged POD photos, signature capture) under GDPR, CCPA/CPRA and FADP; carriers and customs brokers receive onward transfers. Branded-tracking pages embed retargeting pixels requiring ePrivacy consent. Returns capture reason codes and damage photos. Retention is long (tax, customs — 7-10 years); breach-notification duties hit both merchant-controller and 3PL-processor.",
-    "summary_security": "3PL systems are a supply-chain choke point: millions of address/order pairs, carrier API keys, WMS access, EDI/ERP links. Third-party breaches drive ~30% of incidents (Verizon DBIR 2024); webhook/EDI integrations are prime targets for credential abuse and ransomware. VeraCore CVE-2024-57968 + CVE-2025-25181 were chained by XE Group 2024-25 for webshells. Branded-tracking pixels (AfterShip, Route, Malomo) inject post-purchase JS, adding e-skimming risk.",
     "tracker_likelihood_score": 6
   },
   "108": {
@@ -3888,8 +3680,6 @@
       "https://sansec.io/research/rekoobe-magento",
       "https://www.pcisecuritystandards.org/documents/PCI-DSS-v4_0_1.pdf"
     ],
-    "summary_privacy": "Storefronts collect identifiers, browsing behaviour, cart contents and checkout PII (name, email, address, phone) under GDPR, ePrivacy, CCPA/CPRA, LGPD. Heavy third-party scripts (analytics, ads, A/B, personalisation, reviews) make IAB TCF / GPC consent management load-bearing. CDPs profile users and fan data to marketing clouds; ad pixels (Meta, TikTok, Google) leak email hashes and order values. Card entry delegates to PCI iframes but every script stays in PCI 6.4.3 scope.",
-    "summary_security": "Frontends render the checkout — the prime Magecart / e-skimming target, hitting ~11k stores in 2024 (3x YoY per Sansec/Trustwave). CosmicSting (CVE-2024-34102) compromised ~75% of Adobe Commerce / Magento stores; CVE-2024-20720 and 2024 trojanised Magento extensions (21 vendors) followed. Headless PWAs (Hyva, Vue Storefront, PWA Studio) widen API surface; themes inherit CMS CVEs. Storefronts embed 10-30 scripts. PCI v4.0.1 6.4.3 + 11.6.1 require script inventory and tamper detection.",
     "tracker_likelihood_score": 7
   },
   "109": {
@@ -3923,8 +3713,6 @@
       "https://www.icann.org/en/system/files/files/sac-101-en.pdf",
       "https://www.spamhaus.org/news/article/824/parked-domains-malicious-use"
     ],
-    "summary_privacy": "Parking pages monetise traffic with dense ad-tech: RTB bidstream, canvas/audio fingerprinting, geo-IP profiling, cookie syncing across DSPs/SSPs and persistent IDs (UID2, RampID). They typically lack a privacy policy, fail GDPR/ePrivacy consent and pass visitor signals to unknown third parties with no DPA. Fingerprint-driven conditional redirects decide whether to show ads, scams or a placeholder, making DSAR and erasure effectively impossible. CCPA \"sale/share\" disclosures are absent.",
-    "summary_security": "Infoblox/Krebs (Dec 2025): over 90% of parked-domain visits now lead to malicious content — scams, drive-by malware, fake CAPTCHA / ClickFix, tech-support fraud, phishing kits — a tenfold rise since 2014. \"Direct search\" monetisation replaced AdSense for Domains after Google opted advertisers out, removing the last brand-safety controls. Landers cloak by IP, ASN, UA, cookie and TLS-fingerprint. Typosquats impersonate banks and SaaS; chains terminate in browser-RCE or stealer payloads.",
     "tracker_likelihood_score": 9
   },
   "110": {
@@ -3964,8 +3752,6 @@
       "https://www.wordfence.com/blog/2020/12/critical-vulnerability-fixed-in-contact-form-7/",
       "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/"
     ],
-    "summary_privacy": "Forms collect sensitive PII (name, email, phone, address, sometimes health, financial, government-ID, biometric, minors' data) triggering GDPR, CCPA/CPRA, HIPAA, COPPA and PCI. Vendors are processors requiring DPAs/BAAs/SCCs; many embed analytics, hCaptcha/reCAPTCHA, pixels and CRM webhooks fanning submissions to dozens of third parties. Consent, lawful basis, retention and DSAR are routinely missed by SMB users. Auto-save and partial submissions persist data respondents never meant to send.",
-    "summary_security": "Form builders run client-side (JS/iframes) and store free-text on vendor servers — targets for credential phishing, IDOR on submission URLs, SSRF via webhooks and supply-chain JS injection. Notable: 2018 Typeform breach (~16k customers), Gravity Forms July 2025 supply-chain compromise, Ninja Forms CVE-2023-37979/CVE-2024-13683, Contact Form 7 CVE-2020-35489. Uploads bypass at-rest encryption; webhook secrets leak in public repos. PCI 6.4.3 and HIPAA BAA scope creep with payment/health fields.",
     "tracker_likelihood_score": 6
   },
   "111": {
@@ -4004,8 +3790,6 @@
       "https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits/",
       "https://www.councilofnonprofits.org/tools-resources/donor-bill-rights"
     ],
-    "summary_privacy": "Process sensitive donor records — name, address, email, phone, payment instrument, gift amount, schedule, plus religious, political, health-cause or alumni affiliation often qualifying as GDPR Art. 9 / CCPA sensitive-PI. Tax-receipt rules drive 7+ year retention (IRS 8283, Gift Aid). Donor CRMs sync to email, ad-audiences and wealth-screening append (DonorSearch, WealthEngine, iWave), widening disclosure. Anonymous-giving, lawful basis, FERPA on alumni data and DPAs with sub-processors required.",
-    "summary_security": "Donation platforms touch card data, ACH/IBAN, recurring tokens and donor identity — direct fraud/skimming targets. Carding on donation forms is common (Donorbox). Critical vulns: GiveWP CVE-2024-5932 (unauth RCE via PHP object injection, 100k+ sites, Wordfence Aug 2024) + CVE-2021-24917 (SQLi); Blackbaud 2020 ransomware exposed ~6M records, $49.5M state-AG settlement. Most are PCI L1 via Stripe iframes, but merchants miss v4.0.1 6.4.3 script-inventory. Political platforms face FEC rules.",
     "tracker_likelihood_score": 5
   }
 }

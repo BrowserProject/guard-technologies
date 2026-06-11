@@ -477,14 +477,6 @@
         "source_urls": {
           "$ref": "#/$defs/url_list"
         },
-        "summary_privacy": {
-          "type": "string",
-          "maxLength": 1000
-        },
-        "summary_security": {
-          "type": "string",
-          "maxLength": 1000
-        },
         "tracker_likelihood_score": {
           "$ref": "#/$defs/score"
         }

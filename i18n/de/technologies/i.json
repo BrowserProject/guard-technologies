@@ -1,0 +1,998 @@
+{
+  "i-mobile": {
+    "description": "i-mobile ist eine Werbeplattform, über die Kunden ihre Produkte bewerben und Publisher ihre Online-Flächen monetarisieren können.",
+    "history": "i-mobile ist ein japanisches digitales Werbenetzwerk, das Anfang der 2000er-Jahre gegründet wurde und als Anzeigenplattform für japanische Publisher und Werbetreibende dient. Der Schwerpunkt liegt auf dem japanischen Binnenmarkt.",
+    "summary_abuse": "i-mobile ist ein japanisches Werbenetzwerk. Wie die meisten Anzeigenplattformen kann es ein Vektor für Malvertising gegen japanische Nutzer sein, es ist aber vor allem im japanischen Binnenmarkt aktiv und hat kein ausgeprägtes globales Missbrauchsprofil."
+  },
+  "i-motor": {
+    "description": "i-motor ist eine Plattform, die Websites von Autohändlern mit vernetzten Lösungen erweitert und so das Online-Erlebnis verbessert.",
+    "history": "i-motor ist eine australische Website-Plattform für Autohändler und bietet digitale Lösungen für Autohäuser. Es sind keine nennenswerten Eigentümerwechsel oder Abkündigungen dokumentiert.",
+    "summary_abuse": "i-motor ist eine Website-Plattform für Autohändler ohne auffälliges Missbrauchssignal; sie bedient lizenzierte Autohäuser und bietet keine anonyme öffentliche Registrierung."
+  },
+  "i-MSCP": {
+    "description": "i-MSCP (internet Multi Server Control Panel) ist Software zur Verwaltung von Shared-Hosting-Umgebungen auf Linux-Servern.",
+    "history": "i-MSCP (internet Multi Server Control Panel) ist ein Open-Source-Control-Panel für Shared Hosting auf Linux-Servern, das um 2010 als Community-Projekt entstand. Die Aktivität hat in den letzten Jahren nachgelassen, das Projekt wirkt weitgehend ruhend.",
+    "summary_abuse": "i-MSCP ist ein selbst gehostetes Hosting-Control-Panel ohne Endnutzeroberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "i30con": {
+    "description": "i30con ist ein Icon-Toolkit auf Basis von CSS und JavaScript.",
+    "history": "i30con ist ein CSS- und JavaScript-Icon-Toolkit mit Bezug zu 30nama.com. Es wirkt wie eine kleine Nischenbibliothek für Icons, ohne öffentlich dokumentierte Eigentümerwechsel oder Gründungsgeschichte.",
+    "summary_abuse": "i30con ist ein Frontend-Icon-Toolkit ohne gehostete Endnutzeroberfläche. Für diese Bibliothek ist kein dokumentiertes Missbrauchssignal bekannt."
+  },
+  "iAdvize": {
+    "description": "iAdvize ist eine Conversational-Marketing-Plattform, die ratsuchende Kunden rund um die Uhr per Messaging mit verfügbaren Experten verbindet.",
+    "history": "iAdvize wurde 2010 in Nantes, Frankreich, als Conversational-Marketing-Plattform gegründet, die Website-Besucher mit Produktexperten verbindet. Das Unternehmen nahm über 32 Millionen EUR an Venture-Finanzierung auf, unter anderem in Runden mit Bpifrance und Idinvest Partners, expandierte international und konzentrierte sich auf KI-gestütztes Messaging für Enterprise-Kundensupport.",
+    "summary_abuse": "iAdvize ist eine B2B-Plattform für Live-Chat und Conversational Marketing ohne auffälliges Missbrauchssignal. Die Enterprise-Zielgruppe, vertriebsbasierte Preisgestaltung und der Fokus auf markenverifizierte Supportkanäle bieten Betrügern kaum praktische Angriffsfläche."
+  },
+  "Iamport": {
+    "description": "Iamport ist ein Informationstechnologieunternehmen mit Sitz in Südkorea.",
+    "history": "Iamport wurde 2015 in Seoul, Südkorea, als Payment-Gateway-API gegründet, mit der koreanische E-Commerce-Entwickler mehrere Zahlungsanbieter integrieren konnten. Später wurde das Unternehmen mit PortOne verbunden, einem in Singapur ansässigen Anbieter globaler Zahlungsinfrastruktur, der den Dienst umbenannte und ausbaute.",
+    "summary_abuse": "Iamport ist eine legitime Payment-Gateway-API, die vor allem koreanische E-Commerce-Händler bedient. Payment-Gateways werden typischerweise nicht direkt missbraucht, können aber von betrügerischen Händlerkonten ins Visier genommen werden, die unautorisierte Transaktionen verarbeiten wollen. Öffentlich dokumentierte konkrete Missbrauchsfälle mit Iamport sind nicht bekannt."
+  },
+  "Ibexa DXP": {
+    "description": "Ibexa DXP ist ein quelloffenes Enterprise-PHP-Content-Management-System (CMS) und eine Digital Experience Platform (DXP), entwickelt vom Unternehmen Ibexa, früher eZ Systems.",
+    "history": "Ibexa DXP geht auf eZ Systems zurück, ein 1999 gegründetes norwegisches Unternehmen, das das CMS eZ Publish entwickelte. 2021 benannte sich das Unternehmen in Ibexa um und positionierte die Plattform als Digital Experience Platform. Das Projekt ist seit seinen frühen Tagen Open Source.",
+    "summary_abuse": "Ibexa DXP ist ein Enterprise-CMS ohne auffälliges Missbrauchssignal. Es ist eine selbst gehostete oder verwaltete Enterprise-Plattform für grosse Organisationen und bietet keine kostenlose Endnutzerstufe."
+  },
+  "IBM Carbon Design System": {
+    "description": "IBM Carbon Design System ist ein Open-Source-Designsystem zum Aufbau von Produkten und digitalen Erlebnissen.",
+    "history": "IBM Carbon Design System wurde von IBM entwickelt und etwa 2016 bis 2017 als Open Source veröffentlicht. Es ist ein umfassendes Designsystem und eine Komponentenbibliothek, die in IBMs digitalen Produkten eingesetzt und in der Enterprise-Frontend-Entwicklung breit genutzt wird. IBM pflegt das Projekt aktiv auf GitHub.",
+    "summary_abuse": "IBM Carbon Design System ist eine Open-Source-UI-Komponentenbibliothek von IBM ohne Missbrauchssignal. Es ist ein Frontend-Entwicklungswerkzeug ohne gehostete Endnutzeroberfläche."
+  },
+  "IBM Coremetrics": {
+    "history": "Coremetrics wurde 1999 in San Mateo, Kalifornien, als cloudbasierte Webanalyseplattform für Retail- und E-Commerce-Unternehmen gegründet. IBM übernahm Coremetrics im August 2010 zu einem nicht veröffentlichten Preis, um seine Analysefähigkeiten auszubauen. Nach der Übernahme wurde Coremetrics in IBM Digital Analytics umbenannt und in IBMs Marketinglösungsportfolio integriert. Später wurde das Produkt eingestellt, als IBM seine Analyseinvestitionen auf Cognos und Watson verlagerte.",
+    "summary_abuse": "IBM Coremetrics, später IBM Digital Analytics, ist eine eingestellte Enterprise-Webanalyseplattform ohne auffällige Missbrauchssignale. Als Enterprise-B2B-Analysewerkzeug grosser Händler hatte sie keine Endnutzeroberfläche, die für Missbrauch ausgenutzt werden konnte. IBM unterhält umfassende Sicherheitspraktiken über sein Portfolio hinweg."
+  },
+  "IBM DataPower": {
+    "description": "IBM DataPower Gateway ist ein einzelnes Multi-Channel-Gateway, das Sicherheit, Kontrolle, Integration und optimierten Zugriff für mobile, Web-, API-, SOA-, B2B- und Cloud-Workloads bereitstellen soll.",
+    "history": "IBM DataPower wurde ursprünglich von DataPower Technology entwickelt, einem 1999 gegründeten Unternehmen, und 2005 von IBM übernommen. Es bietet Hardware- und Software-Appliances für XML- und API-Gateways in Enterprise-Integration und Sicherheit. Später führte IBM eine cloudnative Version ein.",
+    "summary_abuse": "IBM DataPower Gateway ist ein Enterprise-API- und Integrationsgateway, das in grossen Finanz-, Behörden- und Gesundheitsorganisationen eingesetzt wird. Es ist kein Endnutzerprodukt und hat kein Missbrauchssignal."
+  },
+  "IBM HTTP Server": {
+    "history": "IBM HTTP Server basiert auf Apache HTTP Server und ist seit den späten 1990er-Jahren Teil von IBMs WebSphere Application Server Middleware-Stack. IBM bündelte und passte Apache für Enterprise-Java-Workloads an. Der Server wird vor allem in älteren Enterprise-Umgebungen mit IBM-Middleware eingesetzt.",
+    "summary_abuse": "IBM HTTP Server ist ein Enterprise-Webserver für grosse IBM-Middleware-Umgebungen. Er läuft auf privater Infrastruktur in Unternehmensrechenzentren und bietet keine Endnutzer-Angriffsfläche für Missbrauch."
+  },
+  "ICE": {
+    "description": "ICE ist integrierte Customer-Engagement-Software, die Kommunikation, Support und Interaktion über mehrere Kanäle für Unternehmen vereinheitlicht.",
+    "history": "ICE (Integrated Customer Engagement) ist eine Live-Chat- und Customer-Engagement-Plattform von Enterprise Technology Solutions, verfügbar unter enterice.com. Die Plattform richtet sich an Unternehmen, die browserbasierten Live-Chat mit SSL-verschlüsselter Kommunikation benötigen. Es ist ein Nischenprodukt mit begrenzter öffentlicher Geschichte und ohne dokumentierte Eigentümerwechsel.",
+    "summary_abuse": "ICE ist eine kleine Live-Chat- und CRM-Plattform ohne auffällige Missbrauchssignale. Als B2B-Tool für Kundeninteraktion, das in Unternehmenswebsites eingebettet wird, ist die Missbrauchsfläche begrenzt. Öffentliche Vorfälle oder Sicherheitsberichte zu Angriffen gegen diese Plattform sind nicht dokumentiert."
+  },
+  "Icegram": {
+    "description": "Icegram ist ein WordPress-Plugin, das Abonnentenwachstum und höhere Conversions unterstützen soll.",
+    "history": "Icegram wurde 2014 von Leap Ventures, einem Unternehmen aus Indien, als WordPress-Plugin-Suite für E-Mail-Opt-in-Popups, CTAs und Leadgenerierung gestartet. Das Produkt entwickelte sich zu einer Plugin-Familie (Icegram Engage, Icegram Express, Icegram Collect) für Betreiber kleiner WordPress-Websites.",
+    "summary_abuse": "Icegram ist ein WordPress-Plugin für Popups und Lead-Erfassung ohne auffälliges Missbrauchsprofil. Die Funktion zum Sammeln von E-Mail-Adressen könnte theoretisch von Website-Betreibern falsch konfiguriert werden, das Plugin selbst ist jedoch ein übliches Marketingwerkzeug ohne bekannte Nutzung als Waffe oder Verbindung zu Spam-Kampagnen."
+  },
+  "iCheck": {
+    "description": "iCheck ist eine Bibliothek für anpassbare Checkboxen und Radiobuttons.",
+    "history": "iCheck ist ein jQuery- und Zepto-Plugin für anpassbare Checkboxen und Radiobuttons, das um 2013 von Fronteed veröffentlicht wurde. Es wurde breit eingesetzt, die Entwicklung ist seit mehreren Jahren jedoch weitgehend inaktiv.",
+    "summary_abuse": "iCheck ist eine clientseitige UI-Bibliothek ohne Endnutzeroberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "iCIMS": {
+    "description": "iCIMS ist eine Plattform für Talentgewinnung und interne Mobilität, die Lösungen zum Aufbau, zur Bindung und zur Skalierung deiner Belegschaft bietet.",
+    "history": "iCIMS wurde 2000 von Colin Day als SaaS-Plattform für Talentgewinnung gegründet. Das Unternehmen wuchs zu einem grossen Enterprise-ATS-Anbieter heran, wurde im August 2018 von Vista Equity Partners übernommen, und TA Associates stieg 2022 als Co-Investor ein. iCIMS bedient Tausende Enterprise-Kunden, darunter einen erheblichen Anteil der Fortune 500.",
+    "summary_abuse": "iCIMS ist eine Enterprise-Plattform für Talentgewinnung ohne dokumentierte Missbrauchsfälle. Das reine B2B-Modell mit Enterprise-Zugang und etablierter Sicherheitslage bedeutet, dass kein nennenswertes Missbrauchsrisiko besteht."
+  },
+  "iClose": {
+    "description": "iClose ist ein Terminplanungstool, das Unternehmen hilft, Leadgenerierung und Meeting-Koordination ohne zusätzliche Werbekosten zu straffen.",
+    "history": "iClosed ist eine KI-gestützte Terminplanungs- und CRM-Plattform, die um 2022 bis 2023 von Ismael Esn und Jahanzaib Sohail gestartet wurde und sich an High-Ticket-Vertriebsteams richtet. Seit der Gründung sind keine nennenswerten Übernahmen oder Eigentümerwechsel bekannt.",
+    "summary_abuse": "iClosed hat kein auffälliges Missbrauchssignal. Es ist ein B2B-Nischentool für Terminplanung in Vertriebsteams und bietet keine endnutzerorientierten Content-Hosting-Funktionen, die Betrüger anziehen würden."
+  },
+  "icomm": {
+    "description": "icomm ist eine Plattform, mit der Unternehmen ihre Marketing-Automation-Strategie über KI-gestützte Werkzeuge verwalten können.",
+    "history": "icomm wurde 2006 in Buenos Aires, Argentinien, gegründet und ist eine Marketing-Automation-Plattform mit über 1'300 Kunden in 12 Ländern in Lateinamerika und Spanien. Es gab keine nennenswerten Übernahmen oder Eigentümerwechsel.",
+    "summary_abuse": "icomm ist eine E-Mail- und Marketing-Automation-Plattform für B2B-Kunden in Lateinamerika. Als E-Mail-Marketingwerkzeug könnte sie theoretisch für Spam genutzt werden, icomm ist jedoch ein verwalteter Dienst für bekannte Geschäftskunden ohne dokumentiertes Muster von Missbrauch oder Fehlverwendung."
+  },
+  "icomm - Notifications Hub": {
+    "description": "Notifications Hub ist eine omnichannel Marketing-Automation-Plattform mit KI-Unterstützung.",
+    "history": "icomm Notifications Hub ist ein Omnichannel-Marketing-Automation-Produkt von icomm, einem 2006 in Buenos Aires, Argentinien, gegründeten Unternehmen mit Kunden in Lateinamerika und Spanien.",
+    "summary_abuse": "icomm Notifications Hub ist eine verwaltete B2B-Plattform für Omnichannel-Messaging. Als Push-Notification- und E-Mail-Tool könnte sie für Spam missbraucht werden, ist aber ein Geschäftsdienst ohne dokumentiertes Missbrauchsmuster."
+  },
+  "Iconosquare": {
+    "description": "Iconosquare ist eine All-in-one-Plattform für Social-Media-Management, die SMMs mit mehreren Profilen die Arbeit erleichtert.",
+    "history": "Iconosquare wurde 2011 von Jérôme Boudot in Limoges, Frankreich, ursprünglich als Statigram gegründet, einem kostenlosen Instagram-Analysewerkzeug. 2014 erfolgte die Umbenennung in Iconosquare, danach wurde das Angebot zu einer umfassenden Social-Media-Management-Plattform für Analysen und Planung auf Instagram, Facebook, TikTok, LinkedIn und Twitter ausgebaut.",
+    "summary_abuse": "Iconosquare ist eine legitime Plattform für Social-Media-Management und Analysen ohne nennenswerte Missbrauchsgeschichte. Der Dienst richtet sich an Marketingfachleute und Marken, verlangt Kontoauthentifizierung und bietet keine Funktionen, die Phishing oder Spam-Aktivitäten wesentlich erleichtern würden."
+  },
+  "IconScout": {
+    "description": "IconScout ist eine Plattform mit einer vielfältigen Sammlung hochwertiger Icons und Designressourcen für Kreativprofis, die ihre Projekte visuell aufwerten wollen.",
+    "history": "IconScout wurde 2016 von Dalpat Prajapati in Surat, Indien, als Marktplatz für Design-Assets wie Icons, Illustrationen und Lottie-Animationen gegründet. Im Februar 2021 wurde das Unternehmen von LottieFiles übernommen, einer Plattform für schlanke Animationsdateien.",
+    "summary_abuse": "IconScout ist ein Marktplatz für Design-Assets ohne auffälliges Missbrauchsprofil. Als Content-Hosting-Plattform könnte er theoretisch rechtsverletzende Assets hosten, der Anbieter kuratiert Inhalte jedoch aktiv. Es sind keine dokumentierten Fälle bekannt, in denen die Plattform für Phishing, Malware oder andere schädliche Zwecke genutzt wurde."
+  },
+  "Icordis CMS": {
+    "description": "Icordis CMS ist ein proprietäres Content-Management-System von LCP nv zur Verwaltung individueller Geschäfts- und Institutionswebsites.",
+    "history": "Icordis CMS ist ein proprietäres Content-Management-System, entwickelt von LCP nv, einem belgischen IT-Dienstleister. Es ist für die Verwaltung individueller Unternehmenswebsites und Intranets konzipiert und bedient vor allem den belgischen Markt.",
+    "summary_abuse": "Icordis CMS ist ein belgisches Enterprise-Nischen-CMS ohne bekanntes Missbrauchsprofil. Es bedient eine kleine Zahl von Geschäftskunden mit individuellen Deployments und hat keine öffentliche Endnutzeroberfläche, die für Phishing oder Spam-Operationen ausgenutzt werden könnte."
+  },
+  "ID5": {
+    "description": "ID5 bietet eine Identitätslösung für digitale Werbung, mit einer Universal ID für datenschutzkonforme Nutzererkennung und Tracking über Websites hinweg ohne persönliche Informationen oder Third-Party-Cookies.",
+    "history": "ID5 wurde 2017 in London von Mathieu Roche und Pierre-Antoine Durgeat als cookieloser universeller Identifier für digitale Werbung gegründet. Das Unternehmen nahm eine Series B über 20 Millionen USD auf und übernahm im November 2025 TrueData, um seine Identitätsabdeckung zu erweitern.",
+    "summary_abuse": "ID5 ist ein Adtech-Dienst zur Identitätsauflösung, der Nutzer über Websites hinweg mit gehashten E-Mails, IPs und ML-Modellen für Werbetargeting verfolgt. Dieses Cross-Site-Tracking ist beabsichtigt und kann bei Endnutzern Datenschutzbedenken auslösen, auch wenn das Unternehmen GDPR-Konformität und ein einwilligungsbasiertes Modell angibt. Konkrete Betrugs- oder Malware-Missbrauchsmuster sind nicht dokumentiert."
+  },
+  "idCloudHost": {
+    "description": "idCloudHost ist ein lokaler Webdienstanbieter aus Indonesien, der unter anderem Domainregistrierung und Cloud-Hosting anbietet.",
+    "history": "idCloudHost ist ein indonesischer Anbieter von Webhosting und Cloud-Diensten mit Domainregistrierung, Shared Hosting, VPS und verwandten Services für den indonesischen Markt.",
+    "summary_abuse": "idCloudHost ist ein indonesischer Hostinganbieter. Shared-Hosting-Anbieter können missbräuchliche Inhalte hosten, konkrete Vorfälle mit idCloudHost sind jedoch nicht dokumentiert."
+  },
+  "Ideasoft": {
+    "description": "Ideasoft ist ein türkisches Softwareunternehmen, das webbasierte Softwarelösungen, Softwaredesign, E-Commerce-Lösungen und weitere Dienste anbietet.",
+    "history": "IdeaSoft wurde 2005 in der Türkei als Anbieter von E-Commerce-Software gegründet. Die Plattform betreibt heute über 45'000 türkische E-Commerce-Websites und gehört damit zu den führenden heimischen E-Commerce-Plattformen im türkischen Markt.",
+    "summary_abuse": "IdeaSoft ist eine legitime türkische E-Commerce-Plattform ohne auffälliges Missbrauchsprofil. Als E-Commerce-Infrastrukturanbieter könnten Shops für betrügerische Händleraktivitäten genutzt werden, dieses Risiko besteht jedoch bei allen E-Commerce-Plattformen. Es sind keine konkreten Fälle dokumentiert, in denen IdeaSofts Plattform als Waffe eingesetzt wurde."
+  },
+  "Identixweb iCart": {
+    "description": "Identixweb iCart ist eine Shopify-Upsell-App, die Vorabverkäufe und Conversions direkt im Warenkorb steigern soll, ohne das Einkaufserlebnis zu stören.",
+    "history": "Identixweb iCart ist eine Shopify-App von Identixweb, einer Shopify-Entwicklungsagentur mit Sitz in Indien. Die iCart-App bietet In-Cart-Upsell- und Cross-Sell-Funktionen für Shopify-Händler, um den durchschnittlichen Bestellwert zu erhöhen.",
+    "summary_abuse": "Identixweb iCart ist eine Shopify-App zur Warenkorboptimierung ohne auffälliges Missbrauchsprofil; sie ist ein übliches E-Commerce-Conversion-Werkzeug im Shopify-Ökosystem, das eigene Prüf- und Compliance-Prozesse hat. Mit dieser spezifischen App sind keine Missbrauchsvorfälle verbunden."
+  },
+  "Identrust": {
+    "description": "IdenTrust ist eine Lösung für digitale Identitätsauthentifizierung.",
+    "history": "IdenTrust wurde 1996 gegründet und ist eine etablierte digitale Certificate Authority, die Identitätsauthentifizierungszertifikate für Finanzinstitute, Gesundheitswesen und Behörden bereitstellt. Besonders bekannt ist IdenTrust für das Signieren des Root-Zertifikats von Let's Encrypt, das einen grossen Teil der kostenlosen TLS-Infrastruktur des Webs stützte.",
+    "summary_abuse": "IdenTrust ist eine vertrauenswürdige Certificate Authority mit langer Betriebsgeschichte im Identitätsmanagement für Finanz- und Regierungsumfelder. Es gibt kein auffälliges Missbrauchssignal. Die Zertifikate werden für sichere Authentifizierung in regulierten Branchen eingesetzt."
+  },
+  "Ideta": {
+    "description": "Ideta ist eine Plattform für Chatbots und Callbots, die Unternehmensabläufe mit KI und Automatisierung straffen soll.",
+    "history": "Ideta wurde 2017 in Frankreich als No-Code-Plattform für Chatbots und Callbots gegründet. Das Unternehmen nahm 1,7 Millionen EUR Seed-Finanzierung auf und positionierte sich als Multi-AI-Plattform mit Unterstützung für Modelle von OpenAI, Anthropic, Google und Mistral zur Automatisierung von Enterprise-Workflows.",
+    "summary_abuse": "Ideta ist eine No-Code-Chatbot-Plattform ohne bekanntes Missbrauchsprofil. Als Business-Automation-Tool erfordert sie Registrierung und ist kein Endnutzerdienst. Es wurden keine Vorfälle gemeldet, in denen die Plattform für Spam, Phishing oder Malware-Verbreitung ausgenutzt wurde."
+  },
+  "IdoSell Shop": {
+    "description": "IdoSell Shop ist eine voll funktionsfähige E-Commerce-Softwareplattform.",
+    "history": "IdoSell wurde 2000 in Szczecin, Polen, von IAI sp. z o.o. gegründet. Die Plattform entwickelte sich zu einer der führenden E-Commerce-Plattformen Polens und ist seit 2009 an der NewConnect-Börse kotiert. Das Unternehmen betreibt auch IdoBooking, ein Hotelmanagement- und Buchungssystem.",
+    "summary_abuse": "IdoSell ist eine legitime polnische E-Commerce-Plattform ohne auffälliges Missbrauchsprofil. Als cloudbasierte Shop-Plattform bedient sie geprüfte Händler und erfüllt polnische sowie EU-Regulierungsanforderungen. Mit der Plattform sind keine Fälle systematischen Missbrauchs verbunden."
+  },
+  "iEntry": {
+    "description": "iEntry ist eine Full-Service-E-Mail-Marketingplattform mit Kampagnenverwaltung, Listenaufbau, Analysen und zielgerichtetem Messaging für Unternehmen.",
+    "history": "iEntry ist eine US-amerikanische E-Mail-Marketingplattform, die seit den frühen 2000er-Jahren Kampagnenverwaltung und Tools zum Listenaufbau für Publisher und Unternehmen anbietet.",
+    "summary_abuse": "iEntry ist eine E-Mail-Marketingplattform. E-Mail-Plattformen bringen grundsätzlich Spam-Risiken mit sich, und die ältere Infrastruktur sowie der Nischenstatus von iEntry deuten auf begrenztere Missbrauchsüberwachung als bei grossen ESPs hin."
+  },
+  "iEXExchanger": {
+    "history": "iEXExchanger ist ein selbst gehostetes Kryptowährungsbörsen-Script auf Basis von PHP/Laravel und Angular vom iExBase-Team. Es wird als lizenzierte Software verkauft, mit der Betreiber eigene Krypto-Wechselstuben starten können. Weltweit sind etwa 15 aktive Deployments bekannt.",
+    "summary_abuse": "iEXExchanger ist ein Script zum Betrieb von Kryptowährungs-Wechselstuben. Software für Krypto-Exchanger trägt naturgemäss ein erhöhtes Missbrauchsrisiko, da einzelne Betreiber Geldwäsche, Erlöse aus Betrug oder unregulierte Transaktionen erleichtern können. Das Script selbst ist ein selbst gehostetes Produkt, daher hängt Missbrauch stark davon ab, wie einzelne Betreiber ihre Instanzen einrichten und regulieren. Eine dokumentierte Anti-Abuse-Durchsetzung auf Anbieterebene ist nicht bekannt."
+  },
+  "IFC Markets": {
+    "description": "IFC Markets ist ein Anbieter von Forex- und CFD-Handel.",
+    "history": "IFC Markets ist ein Online-Broker für Forex und CFDs im Retail-Handel. Öffentlich ist nur wenig verifizierbare Geschichte zum Gründungsjahr verfügbar.",
+    "summary_abuse": "IFC Markets ist ein Forex- und CFD-Broker in einem Sektor mit erhöhtem Betrugsrisiko. Retail-FX- und CFD-Broker werden häufig für Trading-Betrug, falsche Investments und unautorisierte Klone genutzt, bei denen Betrüger regulierte Broker imitieren. Die Plattform richtet sich an Privatanleger, eine Zielgruppe, die oft von Investmentbetrug betroffen ist."
+  },
+  "Ifdo": {
+    "description": "Ifdo ist ein Werkzeug für Marketing und Segmentierung.",
+    "history": "Ifdo ist ein koreanisches Werkzeug für Marketing und Kundensegmentierung. Zur Gründungsgeschichte oder Unternehmensstruktur sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "Ifdo ist ein koreanisches Nischenwerkzeug für Marketingsegmentierung ohne bekanntes Missbrauchsprofil. Die Plattform bedient Geschäftskunden für Marketing-Automation und hat keine öffentliche Endnutzeroberfläche, die für Phishing oder Spam-Missbrauch relevant wäre."
+  },
+  "Iframely": {
+    "description": "Iframely ist ein einheitlicher Auslieferungsdienst für Rich-Media-Embeds und URL-Metadaten über verschiedene Plattformen hinweg.",
+    "history": "Iframely wurde 2012 gestartet, um Rich-Media-Einbettungen im Web zu standardisieren. Der Open-Source-Kern ist auf GitHub verfügbar (itteco/iframely) und unterstützt über 1'900 Medienanbieter. Der Dienst bietet sowohl eine gehostete API als auch eine selbst gehostete Option für Entwickler, die URL-Metadaten und oEmbed-Antworten benötigen.",
+    "summary_abuse": "Iframely ist eine API für URL-Metadaten und Medien-Embeds ohne auffälliges Missbrauchsprofil. Der Dienst ruft Metadaten legitimer Medienanbieter ab, normalisiert sie und hostet keine Nutzerinhalte. Dokumentierte Fälle von Missbrauch für Phishing oder Malware-Auslieferung sind nicht bekannt."
+  },
+  "Ignition": {
+    "description": "Ignition ist eine All-in-one-Plattform, die Angebote, Abrechnung, Zahlungen und Workflows für Buchhaltungs- und professionelle Dienstleistungsfirmen vereinfacht.",
+    "history": "Ignition, früher Practice Ignition, wurde 2013 in Sydney, Australien, als Plattform für Angebots- und Abrechnungsautomatisierung für Buchhalter und professionelle Dienstleister gegründet. Um 2021 wurde die Marke zu Ignition geändert, um den breiteren Einsatz über Buchhaltungspraxen hinaus abzubilden.",
+    "summary_abuse": "Ignition ist eine Plattform für Abrechnung und Angebote in professionellen Dienstleistungen ohne auffälliges Missbrauchsprofil. Der Dienst richtet sich an Buchhaltungsfirmen und Dienstleistungsagenturen, erfordert verifizierte Geschäftskonten und bietet keine Endnutzeroberfläche, die anfällig für Phishing oder Spam-Missbrauch wäre."
+  },
+  "iGoDigital": {
+    "description": "iGoDigital bietet webbasierte Commerce-Werkzeuge, Personalisierung und Produktempfehlungen zur Steigerung der Kundeninteraktion.",
+    "history": "iGoDigital wurde 2004 gegründet und baute eine Plattform für Web-Personalisierung und Produktempfehlungen auf. Im Oktober 2012 wurde das Unternehmen für rund 21 Millionen USD von ExactTarget übernommen, um ExactTargets Web-Fähigkeiten mit Predictive Analytics zu stärken. ExactTarget wurde 2013 selbst von Salesforce übernommen, wodurch iGoDigital zu einer tief eingebetteten Salesforce-Tochter wurde und seine Technologie in die Marketing Cloud Suite aufging.",
+    "summary_abuse": "iGoDigital ist eine ältere B2B-Personalisierungsplattform, die in Salesforce Marketing Cloud aufgegangen ist, ohne auffälliges Missbrauchssignal. Das reine Enterprise-Deployment-Modell und die Integration in eine grosse Cloud-Suite lassen keine Endnutzeroberfläche für Betrüger zurück."
+  },
+  "iHomefinder IDX": {
+    "description": "iHomefinder bietet IDX-Immobiliensuche, integriertes CRM und Marketingwerkzeuge.",
+    "history": "iHomefinder wurde 2001 in Berkeley, Kalifornien, als Anbieter von IDX-Technologie (Internet Data Exchange) für Immobiliensuche und Websites für Immobilienmakler gegründet. Im Mai 2017 schloss FRONTSTEPS, früher Real Pro Systems, die Übernahme von iHomefinder ab und integrierte beide Plattformen unter der Marke iHomefinder. iHomefinder bleibt als Tochter von FRONTSTEPS aktiv und bietet IDX-Immobiliensuche, CRM und Leadgenerierung für Immobilienfachleute.",
+    "summary_abuse": "iHomefinder ist eine Plattform für Immobilien-IDX-Suche und CRM ohne auffälliges Missbrauchssignal; sie wird von lizenzierten Immobilienmaklern und Brokern genutzt und erfordert professionelle Registrierung. Dokumentierte Phishing-, Betrugs- oder Scam-Vorfälle mit iHomefinder sind nicht bekannt."
+  },
+  "iiQ Check": {
+    "description": "iiQ Check ist ein System zur Optimierung der Hotelgast-Kommunikation und zur Verwaltung der Bewertungsverteilung.",
+    "history": "iiQ Check ist eine deutsche SaaS-Plattform für Hotelgast-Kommunikation und Bewertungsmanagement, ausgerichtet auf die Hotellerie. Es sind keine nennenswerten Übernahmen oder Eigentümerwechsel dokumentiert.",
+    "summary_abuse": "iiQ Check hat kein auffälliges Missbrauchssignal. Es ist ein B2B-Nischenwerkzeug für Hotelbewertungsmanagement ohne endnutzerorientierte Hosting-Funktionen, die Betrug oder Scams anziehen."
+  },
+  "IIS": {
+    "description": "Internet Information Services (IIS) ist eine erweiterbare Webserver-Software von Microsoft für die Windows NT-Familie.",
+    "history": "Internet Information Services (IIS) wurde 1995 von Microsoft erstmals als Teil von Windows NT 3.51 veröffentlicht. IIS entwickelte sich zu einem der weltweit meistverbreiteten Webserver und wurde mit Windows Server gebündelt. Über zahlreiche Versionen hinweg wurde IIS kontinuierlich weiterentwickelt, unter anderem mit Unterstützung für moderne Protokolle und ASP.NET.",
+    "summary_abuse": "IIS ist Microsofts Webserver und häufig auf Windows-basierter Hosting-Infrastruktur zu finden. IIS selbst wird nicht missbraucht, aber Websites auf IIS unterliegen denselben Bedrohungen wie jeder öffentliche Webserver, darunter die Ausnutzung ungepatchter Schwachstellen. Historische IIS-Schwachstellen wie Code Red (2001) führten zu breitflächigen Kompromittierungen. Modernes IIS wird gut gepflegt und ist nicht stärker im Fokus als andere Webserver."
+  },
+  "Ikas": {
+    "description": "Ikas ist eine E-Commerce-Plattform der neuen Generation für kleine Unternehmen.",
+    "history": "Ikas wurde 2017 in der Türkei als E-Commerce-Plattform der nächsten Generation für kleine und mittlere Unternehmen gegründet. Im April 2024 nahm das Unternehmen 20 Millionen USD Series-A-Finanzierung auf, um seine Omnichannel-Retail-Management-Plattform in der Türkei und internationalen Märkten auszubauen.",
+    "summary_abuse": "Ikas ist eine legitime türkische E-Commerce-SaaS-Plattform ohne nennenswerte Missbrauchsgeschichte. Als E-Commerce-Infrastrukturanbieter könnten Händler-Shops auf der Plattform theoretisch für Betrug genutzt werden, dieses Risiko ist aber bei allen E-Commerce-Plattformen üblich. Dokumentierte Fälle systematischen Missbrauchs der Ikas-Plattform sind nicht bekannt."
+  },
+  "Ikeono": {
+    "description": "Ikeono ist ein All-in-one-Kommunikationstool mit Business-SMS-Lösungen für unabhängige Händler.",
+    "history": "Ikeono ist ein Tool für Business-SMS und Kommunikation, das für unabhängige Händler und Fachgeschäfte entwickelt wurde. Die Plattform integriert sich in Kassensysteme und ermöglicht SMS-basierte Kundenkommunikation für Bestellupdates und Support.",
+    "summary_abuse": "Ikeono ist eine Business-SMS-Kommunikationsplattform für unabhängige Händler ohne bekanntes Missbrauchsprofil. Der Dienst ermöglicht legitime Textnachrichten von Unternehmen an Kunden und ist keine Endnutzerplattform, die für Spam oder Phishing anfällig wäre."
+  },
+  "ikiwiki": {
+    "description": "ikiwiki ist eine freie und quelloffene Wiki-Anwendung.",
+    "history": "ikiwiki ist ein freier, quelloffener Wiki- und Blog-Compiler, erstellt von Joey Hess und erstmals 2006 veröffentlicht. Er kompiliert Wiki-Seiten zu statischem HTML und speichert sie in einem Versionskontrollsystem. Die Entwicklung hat sich in den letzten Jahren deutlich verlangsamt.",
+    "summary_abuse": "ikiwiki ist ein selbst gehosteter statischer Wiki-Generator ohne gehostete Endnutzeroberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Ilias": {
+    "description": "Ilias ist ein Open-Source-Lernmanagementsystem.",
+    "history": "ILIAS ist ein Open-Source-LMS, das 1998 von der Universität zu Köln in Deutschland erstmals veröffentlicht wurde. Es wird an deutschsprachigen Universitäten und in Corporate-Training-Umgebungen breit eingesetzt. Die Governance liegt bei der ILIAS Society, einem gemeinnützigen Verein.",
+    "summary_abuse": "ILIAS ist ein selbst gehostetes Open-Source-Lernmanagementsystem. Es bietet keinen gehosteten Endnutzerdienst und hat kein auffälliges Missbrauchssignal. Bildungseinrichtungen und Unternehmen betreiben es auf eigener Infrastruktur."
+  },
+  "Iluria": {
+    "description": "Iluria ist eine gehostete E-Commerce-Plattform aus Brasilien.",
+    "history": "Iluria ist eine brasilianische gehostete E-Commerce-Plattform, die um 2012 entstand und sich an kleine Unternehmen und unabhängige Marken in Brasilien richtet. Mit einem kleinen Team erzielte sie rund 2,7 Millionen USD Jahresumsatz und bediente brasilianische Händler in Mode, Design und Boutique-Retail.",
+    "summary_abuse": "Iluria ist eine legitime brasilianische E-Commerce-Plattform ohne auffälliges Missbrauchsprofil. Als Hostingdienst für Online-Shops könnte sie theoretisch von schlechten Akteuren zum Erstellen betrügerischer Shops genutzt werden, dieses Risiko ist jedoch bei allen gehosteten E-Commerce-Plattformen üblich. Dokumentierte Fälle systematischen Missbrauchs mit Iluria wurden nicht gemeldet."
+  },
+  "iMagaza": {
+    "description": "iMagaza ist ein E-Commerce-Website-System aus der Türkei.",
+    "history": "iMagaza (iMağaza Eticaret) wurde 2010 in Istanbul, Türkei, gegründet. Das Unternehmen bietet anpassbare E-Commerce-Website-Pakete für kleine und mittlere Unternehmen in der Türkei, einschliesslich Integrationen für Marktplätze, Versand und Buchhaltung. Die Plattform bedient vor allem den türkischen E-Commerce-Markt.",
+    "summary_abuse": "iMagaza ist eine türkische E-Commerce-Plattform mit moderatem Missbrauchsrisiko. E-Commerce-Plattformen in der Türkei können zum Aufbau gefälschter oder betrügerischer Shops genutzt werden, für iMagaza sind jedoch keine konkreten Vorfälle dokumentiert. Das begrenzte öffentliche Profil der Plattform erschwert die Einschätzung der Anti-Abuse-Haltung des Anbieters."
+  },
+  "Image Placeholders": {
+    "description": "Performance-Plugin des WordPress Performance Team, das die dominante Farbe neu hochgeladener Bilder in der Medienbibliothek ermittelt und speichert und diese beim Laden von Bildern im Frontend als Platzhalter-Hintergrund nutzt.",
+    "history": "Image Placeholders (Dominant Color Images) ist ein WordPress-Performance-Plugin des WordPress Performance Team, einer offiziellen Arbeitsgruppe im WordPress-Open-Source-Projekt. Es wurde um 2022 im Rahmen der Core-Performance-Initiative von WordPress eingeführt.",
+    "summary_abuse": "Image Placeholders ist ein WordPress-Performance-Plugin des offiziellen WordPress Performance Team. Es hat kein Missbrauchssignal und erfüllt einen legitimen Zweck zur Performance-Optimierung."
+  },
+  "Image Prioritizer": {
+    "description": "Performance-Plugin des WordPress Performance Team, das das Laden von Bildern optimiert, die das LCP-Element (Largest Contentful Paint) sind, einschliesslich img-Elementen und Elementen mit CSS-Hintergrundbildern.",
+    "history": "Image Prioritizer ist ein WordPress-Performance-Plugin des WordPress Performance Team, das um 2023 eingeführt wurde. Es optimiert das Laden von Largest-Contentful-Paint-Bildern, um Core-Web-Vitals-Werte zu verbessern.",
+    "summary_abuse": "Image Prioritizer ist ein WordPress-Performance-Plugin des offiziellen WordPress Performance Team. Es hat kein Missbrauchssignal und erfüllt einen legitimen Zweck zur Performance-Optimierung."
+  },
+  "Image Relay": {
+    "description": "Image Relay ist ein Digital-Asset-Management-System, mit dem Organisationen digitale Assets hochladen, verwalten, organisieren, überwachen und nachverfolgen können.",
+    "history": "Image Relay wurde 2002 in Burlington, Vermont, als Digital-Asset-Management-Plattform gegründet, mit der Unternehmen Marken-Assets organisieren und verteilen können. Im September 2024 wurde das Unternehmen von Canto, einer führenden DAM-Plattform, übernommen und die Marke Image Relay in Canto integriert.",
+    "summary_abuse": "Image Relay ist eine Digital-Asset-Management-Plattform ohne auffälliges Missbrauchsprofil. Der Dienst speichert und verteilt Marken-Assets für Enterprise-Kunden und erfordert authentifizierten Zugriff. Es gibt keine Endnutzeroberfläche oder Funktionspalette, die Phishing- oder Spam-Kampagnen begünstigen würde."
+  },
+  "ImageEngine": {
+    "description": "ImageEngine ist ein intelligentes Image Content Delivery Network. ImageEngine passt Bildinhalte an das Gerät der Endnutzer an und skaliert sie entsprechend.",
+    "history": "ImageEngine wurde 2015 von ScientiaMobile gestartet, einem Unternehmen aus Virginia, das für die WURFL-Geräteerkennungsbibliothek bekannt ist. Der Dienst bietet ein intelligentes Image-CDN, das Gerätefähigkeiten automatisch erkennt und Bilder entsprechend skaliert, wodurch das Seitengewicht für Endnutzer sinkt.",
+    "summary_abuse": "ImageEngine ist ein Image-CDN ohne auffälliges Missbrauchsprofil. Als Infrastruktur zur Auslieferung optimierter Bilder hostet es keine nutzergenerierten Inhalte in einer Form, die Phishing oder Spam erleichtern würde. Zugriff erfordert Authentifizierung, eine Endnutzeroberfläche gibt es nicht."
+  },
+  "Imagekit": {
+    "description": "ImageKit ist ein Server für Bildoptimierung und -transformation für Entwickler von Web- und Mobile-Apps.",
+    "history": "ImageKit wurde 2017 in Indien als CDN für Bildoptimierung und -transformation für Web- und Mobile-Entwickler gegründet. Das Unternehmen nahm Venture-Finanzierung auf und wuchs zu einem beliebten API-Dienst für Bildmanagement heran.",
+    "summary_abuse": "ImageKit ist ein Dienst für Bildoptimierung und CDN-Auslieferung. Er ist eine technische API-Schicht für Bildauslieferung und bietet kein endnutzerorientiertes Content-Hosting. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden."
+  },
+  "Imagely NextGEN Gallery": {
+    "description": "NextGEN Gallery ist ein WordPress-Galerie-Plugin, das von Imagely gepflegt wird.",
+    "history": "NextGEN Gallery ist eines der ältesten und beliebtesten WordPress-Galerie-Plugins. Es wurde ursprünglich von Alex Rabe erstellt und später von Imagely gepflegt. Das Plugin erreichte über 1,5 Millionen aktive Installationen und ist seit Langem ein fester Bestandteil des WordPress-Ökosystems für Fotografie- und Portfolio-Websites.",
+    "summary_abuse": "NextGEN Gallery von Imagely ist ein weit verbreitetes WordPress-Galerie-Plugin ohne auffälliges Missbrauchsprofil. Als selbst gehostetes WordPress-Plugin zur Anzeige von Bildern bietet es keine Endnutzer-Serviceoberfläche. Dokumentierte Fälle einer bösartigen Nutzung des Plugins sind nicht bekannt."
+  },
+  "imagesLoaded": {
+    "description": "imagesLoaded ist ein jQuery-Plugin, mit dem erkannt wird, ob Bilder geladen sind.",
+    "history": "imagesLoaded ist eine JavaScript-Bibliothek von David DeSandro, die erkennt, wann Bilder fertig geladen sind; sie ist seit etwa 2011 ein breit genutztes Hilfswerkzeug.",
+    "summary_abuse": "imagesLoaded ist ein clientseitiges JavaScript-Hilfswerkzeug ohne Endnutzeroberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Imba": {
+    "description": "Imba ist eine Web-Programmiersprache, die zu performantem JavaScript kompiliert und Sprachunterstützung zum Definieren, Erweitern, Subklassieren und Instanziieren bietet.",
+    "history": "Imba ist eine Programmiersprache, die zu JavaScript kompiliert und ursprünglich von Sindre Aarsaether entwickelt wurde; sie konzentriert sich auf den Aufbau reaktiver Weboberflächen mit geringem Overhead und bietet Sprachunterstützung für DOM-Manipulation und Reaktivität.",
+    "summary_abuse": "Imba ist eine zu JavaScript kompilierende Programmiersprache ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne gehosteten Endnutzerdienst."
+  },
+  "Imber": {
+    "description": "Imber ist eine All-in-one-Plattform für Marketing-Automation, Kundensupport (Live-Chat), Vertrieb und Marketing.",
+    "history": "Imber ist eine All-in-one-Plattform für Marketing-Automation und Live-Chat für Kundensupport, Vertrieb und Marketing. Nennenswerte Eigentümer- oder Übernahmeereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Imber ist eine SaaS-Plattform für Live-Chat und Marketing-Automation ohne dokumentiertes Missbrauchssignal."
+  },
+  "ImBox": {
+    "description": "Imbox ist eine Live-Chat-Plattform mit Co-Browsing-Funktionen.",
+    "history": "ImBox ist eine schwedische Live-Chat- und Co-Browsing-Plattform, die vor allem nordische Unternehmen bedient. Der Dienst bietet Werkzeuge für Echtzeit-Kundensupport, einschliesslich Co-Browsing-Funktionen, mit denen Supportmitarbeiter die Browser-Sitzungen von Kunden sehen können.",
+    "summary_abuse": "ImBox ist eine schwedische Live-Chat-Plattform ohne auffälliges Missbrauchsprofil; sie bietet authentifizierte Kommunikationswerkzeuge zwischen Unternehmen und Kunden und keine anonymen Endnutzerdienste, die für Phishing oder Spam-Operationen ausgenutzt werden könnten."
+  },
+  "Imgix": {
+    "description": "Imgix ist eine Visual-Media-Plattform zum Verwalten, Verarbeiten, Rendern, Optimieren und Ausliefern deiner bestehenden Bilder.",
+    "history": "Imgix wurde 2011 gegründet und durchlief Y Combinator. Das Unternehmen wurde zu einem führenden CDN für Echtzeit-Bildverarbeitung und -auslieferung und erzielte 2024 mit 59 Mitarbeitenden rund 10,4 Millionen USD Jahresumsatz. Die Plattform bedient Engineering-Teams grosser Consumer- und Enterprise-Websites.",
+    "summary_abuse": "Imgix ist eine Infrastrukturplattform für Bildverarbeitung und CDN-Auslieferung ohne auffälliges Missbrauchsprofil. Als entwicklerorientierte API mit Authentifizierung und Abrechnungseinrichtung bietet sie keine Endnutzeroberfläche, die für Phishing oder Content-Hosting-Missbrauch ausgenutzt werden könnte."
+  },
+  "immediaCMS": {
+    "description": "immediaCMS ist ein Content-Management-System, mit dem Nutzer digitale Inhalte über eine zentrale Plattform für Website- und Medienverwaltung erstellen, bearbeiten und organisieren können.",
+    "history": "immediaCMS ist ein Content-Management-System von immediac.com für Website- und Medienverwaltung. Öffentlich ist nur sehr wenig Geschichte verfügbar.",
+    "summary_abuse": "immediaCMS hat kein auffälliges Missbrauchssignal. Es ist ein kleines Nischen-CMS mit begrenzter öffentlicher Präsenz und ohne dokumentierte Missbrauchsgeschichte."
+  },
+  "Immerss": {
+    "description": "Immerss ist eine Plattform für 1:1 Digital Clienteling, mit der Kunden in Echtzeit per dynamischem Video, Chat und Messaging mit Unternehmen verbunden werden, um ein personalisiertes Einkaufserlebnis zu erhalten.",
+    "history": "Immerss ist eine Plattform für Digital Clienteling und Live Shopping, die persönliche Videoverbindungen zwischen Kunden und Verkaufsmitarbeitenden im Retail ermöglicht; sie richtet sich an Luxus- und Fachhändler, die Online-Erlebnisse nachbilden möchten, die einer Beratung im Laden ähneln.",
+    "summary_abuse": "Immerss ist eine Nischenplattform für Live-Video-Clienteling im Retail ohne bekanntes Missbrauchsprofil. Der Dienst verbindet Käufer mit authentifizierten Verkaufsmitarbeitenden und bietet keine endnutzerorientierten Hosting- oder anonymen Zugriffsfunktionen, die für Betrug ausgenutzt werden könnten."
+  },
+  "Immutable.js": {
+    "description": "Immutable.js ist eine von Facebook entwickelte JavaScript-Bibliothek, die unveränderliche Datenstrukturen für besser vorhersehbares State Management in Anwendungen bereitstellt.",
+    "history": "Immutable.js wurde von Facebook, heute Meta, erstellt und 2014 erstmals veröffentlicht. Die Bibliothek stellt unveränderliche Datenstrukturen für JavaScript bereit und wird häufig mit React- und Redux-Anwendungen genutzt. Das Projekt wird von Meta und der Open-Source-Community gepflegt.",
+    "summary_abuse": "Immutable.js ist eine JavaScript-Bibliothek für unveränderliche Datenstrukturen; sie bietet keinen gehosteten Endnutzerdienst und hat kein Missbrauchssignal; sie ist ein grundlegendes Entwicklungswerkzeug für State Management in JavaScript-Anwendungen."
+  },
+  "Impact": {
+    "description": "Impact hilft Unternehmen, Verträge mit Partnern abzuschliessen und diese zu bezahlen.",
+    "history": "Impact (impact.com) wurde 2008 gegründet und entwickelte sich zu einer der führenden Plattformen für Affiliate- und Partnerschaftsmanagement; sie bietet Marken Werkzeuge, um Affiliate-, Influencer- und B2B-Partnerprogramme im Enterprise-Massstab zu verwalten.",
+    "summary_abuse": "Impact.com ist eine Plattform für Affiliate- und Partnerschaftsmanagement. Affiliate-Marketing-Plattformen können für Provisionsbetrug, falschen Traffic und Coupon-Stacking-Missbrauch ausgenutzt werden. Impact bedient Enterprise-Kunden unter Verträgen und mit Betrugserkennung, Affiliate-Netzwerke sind jedoch grundsätzlich anfällig für Missbrauch durch Publisher in böser Absicht. Für Impact selbst ist kein konkreter grossflächiger Vorfall dokumentiert."
+  },
+  "imperia CMS": {
+    "description": "imperia CMS ist ein Headless-Content-Management-System für grosse Redaktionsteams.",
+    "history": "imperia CMS ist ein deutsches Enterprise-Content-Management-System mit Wurzeln bis in die Mitte der 1990er-Jahre. Es wird von pirobase imperia GmbH entwickelt und verkauft und bedient grosse Redaktionsteams vor allem in Deutschland und der DACH-Region.",
+    "summary_abuse": "imperia CMS ist ein Enterprise-CMS ohne Endnutzeroberfläche und ohne dokumentierte Missbrauchsfälle."
+  },
+  "Impero": {
+    "description": "Impero bietet Kunden aus Bildung und Unternehmen eine besonders sichere Möglichkeit, aus der Ferne auf Geräte zuzugreifen.",
+    "history": "Impero Software wurde 2002 in Nottingham, UK, als Remote-Access- und Geräteverwaltungslösung für den Bildungsbereich gegründet. Das Unternehmen wurde von Investcorp übernommen und im Juni 2024 in Ativion umbenannt. 2020 übernahm Ativion Netop, ein dänisches Unternehmen für Remote-Access-Software, und erweiterte damit sein Edtech-Portfolio.",
+    "summary_abuse": "Impero, heute Ativion, ist eine Edtech- und Remote-Access-Plattform ohne auffälliges Missbrauchsprofil. Die Software wird von Schulen und Corporate-IT-Teams zur Geräteüberwachung und -verwaltung genutzt. Dokumentierte Fälle, in denen die Plattform für bösartige Zwecke ausgenutzt wurde, sind nicht bekannt."
+  },
+  "Imperva": {
+    "description": "Imperva ist ein Cybersicherheitsunternehmen für Software und Dienste in Netzwerk-, Daten- und Anwendungssicherheit.",
+    "history": "Imperva wurde 2002 gegründet und ging 2011 an die Börse. Das Unternehmen ist ein grosser Cybersicherheitsanbieter mit WAF-, DDoS-Mitigation-, CDN- und Datensicherheitsprodukten. 2023 wurde Imperva von Thales Group übernommen, vermittelt über Francisco Partners.",
+    "summary_abuse": "Imperva ist ein Enterprise-Anbieter für Cybersicherheit und CDN mit Fokus auf Schutz vor Angriffen statt deren Ermöglichung. Seine WAF- und DDoS-Mitigation-Produkte werden breit von Finanzinstituten, E-Commerce- und Regierungsorganisationen eingesetzt. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden."
+  },
+  "Importify": {
+    "description": "Importify ist eine Dropshipping-App, die Produkte von Hunderten Lieferanten bezieht und deren Integration in deinen Online-Shop für den Verkauf erleichtert.",
+    "history": "Importify ist eine Shopify-Dropshipping-App von Importify Limited, mit der Händler Produkte von AliExpress, Alibaba, Etsy und anderen Lieferanten beziehen und importieren können. Die App läuft im Shopify-Ökosystem und richtet sich an kleine E-Commerce-Unternehmer, die ins Dropshipping einsteigen.",
+    "summary_abuse": "Importify ist ein Dropshipping-Werkzeug mit erhöhtem Missbrauchspotenzial gegenüber typischen SaaS-Tools. Dropshipping-Plattformen wurden mit gefälschten Waren, Markenrechtsverletzungen und irreführenden Versandpraktiken durch unseriöse Händler in Verbindung gebracht. Das Werkzeug selbst erleichtert Betrug nicht aktiv, sein Ökosystem, insbesondere AliExpress-Dropshipping, hat jedoch eine dokumentierte Geschichte von Verbrauchertäuschung mit gefälschten Produkten und langen Lieferzeiten, die als inländische Erfüllung dargestellt werden."
+  },
+  "Impresee": {
+    "description": "Impresee verbessert E-Commerce mit einer handlungsorientierten Suchleiste, die Produktsuche und Navigation erleichtert.",
+    "history": "Impresee ist eine KI-gestützte Plattform für E-Commerce-Suche und Navigation aus Chile; sie bietet visuelle Suche per Foto, Skizze oder Hashtag, Textsuche und Verhaltensanalysen für Händler auf Shopify, Magento, WooCommerce und anderen Plattformen. Das Unternehmen arbeitet unabhängig und bedient Händler in Lateinamerika und weltweit. Nennenswerte Übernahmen oder Rebrandings sind nicht dokumentiert.",
+    "summary_abuse": "Impresee ist ein Backend-Plugin für Suchleisten und Navigation in E-Commerce-Shops. Es bietet keine endnutzerorientierte Hosting-Oberfläche und hat kein dokumentiertes Missbrauchssignal."
+  },
+  "ImpressCMS": {
+    "description": "ImpressCMS ist ein Open-Source-Content-Management-System (CMS) zum Erstellen und Verwalten dynamischer Websites.",
+    "history": "ImpressCMS ist ein Open-Source-PHP-CMS, das 2008 nach Differenzen innerhalb der XOOPS-Entwicklergemeinschaft von XOOPS abgespalten wurde. Seither wird es von einer kleinen Freiwilligen-Community gepflegt.",
+    "summary_abuse": "ImpressCMS ist ein selbst gehostetes Open-Source-CMS ohne auffälliges Missbrauchssignal auf Plattformebene. Veraltete Installationen können für Exploits anfällig sein, was für jedes ältere PHP-CMS typisch ist."
+  },
+  "ImpressPages": {
+    "description": "ImpressPages ist ein Open-Source-Content-Management-System (CMS), mit dem Nutzer Websites einfach erstellen und verwalten können, mit benutzerfreundlicher Oberfläche und anpassbaren Vorlagen.",
+    "history": "ImpressPages wurde 2009 von drei litauischen Entwicklern als Open-Source-PHP-CMS erstellt. Das Projekt gewann 2011 den Packt Most Promising Open-Source Project Award und nahm 200'000 EUR auf. Nach Version 5.0.3 wurde es 2018 wegen fehlender Ressourcen eingestellt.",
+    "summary_abuse": "ImpressPages ist ein aufgegebenes Open-Source-CMS ohne auffälliges Missbrauchsprofil. Als eingestelltes selbst gehostetes PHP-CMS können ältere Installationen ungepatchte Schwachstellen aufweisen, das Projekt ist jedoch nicht mit Missbrauchskampagnen verbunden."
+  },
+  "Impressure": {
+    "description": "Impressure ist eine Plattform zum Erstellen und Veröffentlichen von Offer Paths, dynamischen Formularen und Umfragen über eine benutzerfreundliche Oberfläche.",
+    "history": "Impressure ist ein kleines Startup, das Werkzeuge zum Erstellen von Landingpages und Offer Paths für Performance-Marketer und Leadgenerierungskampagnen anbietet. Die Plattform erlaubt es Nutzern, Umfragen und Formulare auf bereitgestellten Domains oder eigenen Domains zu hosten.",
+    "summary_abuse": "Impressure hat wegen seiner Offer-Path- und Landingpage-Funktionen mit Custom-Domain-Unterstützung und kostenloser Testphase ein moderates Missbrauchspotenzial. Diese Kombination wird häufig für Phishing-Landingpages und irreführende Leadgenerierung ausgenutzt. Die Plattform bedient Performance-Marketer, und legitime Nutzung ist verbreitet, die Werkzeugeigenschaften entsprechen jedoch Mustern aus Scam-Funnel-Operationen. Konkrete dokumentierte Vorfälle wurden nicht gefunden."
+  },
+  "Imunify360": {
+    "description": "Imunify360 ist eine umfassende Sicherheitsplattform für Linux-Webserver, die Machine Learning und andere fortgeschrittene Techniken nutzt, um vor verschiedenen Cyberbedrohungen wie Malware, Viren und anderen Angriffen zu schützen.",
+    "history": "Imunify360 ist eine Sicherheitsplattform für Linux-Webserver, entwickelt von CloudLinux, einem Unternehmen mit Fokus auf Linux-basierte Shared-Hosting-Umgebungen. CloudLinux ist seit 2010 tätig, und Imunify360 wurde als Sicherheitsproduktlinie gestartet.",
+    "summary_abuse": "Imunify360 ist ein Sicherheitswerkzeug zum Schutz von Webservern vor Malware und Angriffen. Es ist ein defensives Produkt ohne endnutzerorientierte Angriffsfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Imweb": {
+    "description": "Imweb ist eine Software zum Erstellen von E-Commerce-Websites.",
+    "history": "Imweb (아임웹) wurde 2010 in Seoul, Südkorea, als E-Commerce-Website-Builder für koreanische Kleinunternehmen und Unternehmer gegründet. Die Plattform entwickelte sich zu einem beliebten koreanischen Website- und Online-Shop-Builder mit ähnlicher Funktionalität wie Wix oder Squarespace.",
+    "summary_abuse": "Imweb ist ein koreanischer E-Commerce-Website-Builder ohne auffälliges Missbrauchsprofil. Als Website-Builder-Plattform für authentifizierte koreanische Unternehmen verfügt sie über übliche Händlerprüfungen. Dokumentierte Fälle systematischen Missbrauchs mit Imweb-Shops wurden nicht gemeldet."
+  },
+  "In Cart Upsell & Cross-Sell": {
+    "description": "In Cart Upsell & Cross-Sell ist eine Shopify-App von InCart Upsell, die gezielte Upsells und Cross-Sells direkt im Warenkorb und auf der Produktseite bereitstellt.",
+    "history": "In Cart Upsell & Cross-Sell ist eine Shopify-App von InCart Upsell, die gezielte Upsell- und Cross-Sell-Angebote im Warenkorb bereitstellt, um den durchschnittlichen Bestellwert für Shopify-Händler zu erhöhen.",
+    "summary_abuse": "In Cart Upsell & Cross-Sell ist eine Shopify-App zur Warenkorboptimierung ohne auffälliges Missbrauchsprofil; sie läuft im geprüften App-Ökosystem von Shopify und bietet übliche E-Commerce-Conversion-Funktionen. Mit dieser App sind keine Missbrauchsvorfälle verbunden."
+  },
+  "Inblog": {
+    "description": "Inblog ist ein für SEO entwickeltes Content-Management-System mit CTAs und Analysen zur Umsatzoptimierung.",
+    "history": "Inblog wurde 2023 gegründet und hat seinen Hauptsitz in Seoul, Südkorea. Es ist ein SEO-fokussiertes Blogging-CMS auf Basis von Next.js und Supabase für Content-Marketing-Teams.",
+    "summary_abuse": "Inblog ist eine gehostete CMS-Plattform mit kostenloser Stufe. Nutzer können Inhalte unter eigenen Domains veröffentlichen, die Plattform richtet sich jedoch an legitimes Content Marketing. Bedeutende Missbrauchsmuster sind nicht dokumentiert."
+  },
+  "INBOX": {
+    "description": "INBOX ist ein E-Mail-Marketing-System zum Erstellen, Verwalten und Nachverfolgen von E-Mail-Kampagnen für Kommunikation, Aktionen oder Newsletter.",
+    "history": "Inbox.lv ist der grösste E-Mail-Dienst in Lettland, wurde 1998 gegründet und startete das Projekt Inbox.lv 2001. Der Dienst expandierte 2007 nach Litauen, ergänzte 2011 Domain-E-Mail-Dienste über inbox.eu und 2014 den estnischen Dienst mail.ee. Die Server stehen in Lettland und erfüllen die GDPR.",
+    "summary_abuse": "INBOX (Inbox.lv) ist ein legitimer lettischer E-Mail-Anbieter. Kostenlose E-Mail-Dienste können für Spam- oder Phishing-Kampagnen genutzt werden, Inbox.lv ist jedoch vor allem ein regionaler Endnutzer-E-Mail-Dienst und keine Bulk-Mailing-Plattform. Mit diesem Anbieter sind keine grossen dokumentierten Missbrauchsvorfälle verbunden."
+  },
+  "Incapsula": {
+    "description": "Incapsula ist eine cloudbasierte Plattform für Application Delivery; sie nutzt ein globales Content Delivery Network für Web Application Security, DDoS-Mitigation, Content-Caching, Application Delivery, Load Balancing und Failover-Dienste.",
+    "history": "Incapsula wurde 2009 gegründet und 2014 von Imperva übernommen. Es ist Impervas cloudbasierte CDN-, WAF- und DDoS-Mitigation-Plattform. Nach der Übernahme von Imperva durch Thales Group im Jahr 2023 läuft Incapsula weiterhin unter dem Imperva-Dach.",
+    "summary_abuse": "Incapsula ist eine Enterprise-CDN- und Web-Application-Security-Plattform von Imperva; sie ist dafür gebaut, Websites vor Angriffen zu schützen, nicht um sie zu ermöglichen. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden."
+  },
+  "Incident.io": {
+    "description": "Incident.io ist ein in Slack integriertes Incident-Management-Tool, mit dem alle Incidents in einem einzigen Channel angekündigt, verwaltet und gelöst werden.",
+    "history": "Incident.io wurde 2021 in London von Chris Evans, Stephen Whitworth und Pete Hamilton gegründet. Die Plattform gewann schnell Anklang in der DevOps- und SRE-Community als Slack-natives Incident-Management-Werkzeug und nahm erhebliche Venture-Finanzierung auf.",
+    "summary_abuse": "Incident.io ist ein B2B-Incident-Management-Tool für Engineering-Teams. Es arbeitet innerhalb von Enterprise-Slack-Workspaces unter vertraglichen Vereinbarungen und hat kein auffälliges Missbrauchssignal."
+  },
+  "Includable": {
+    "history": "Includable ist eine kleine Entwicklungsagentur und Beratung aus den Niederlanden, die Webanwendungen, APIs und Mobile Apps für Sozialunternehmen und Startups baut. Bedeutende Eigentümer- oder Abkündigungsereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Includable ist eine kleine Entwicklungsagentur ohne auffälliges Missbrauchssignal; sie bietet individuelle Softwareentwicklung und keine gehostete Endnutzerplattform, die von schlechten Akteuren ausgenutzt werden könnte."
+  },
+  "Indeed": {
+    "description": "Indeed ist eine Plattform, die eingebetteten Code zur Nachverfolgung jobbezogener Klicks bereitstellt und Jobsuchfunktionen unterstützt.",
+    "history": "Indeed wurde 2004 von Paul Forster und Rony Kahan in Austin, Texas, gegründet. Die Plattform wurde zur weltweit grössten Jobbörse. 2012 übernahm Recruit Holdings aus Japan eine Mehrheitsbeteiligung, 2013 wurde Indeed vollständig zu einer Tochtergesellschaft von Recruit.",
+    "summary_abuse": "Indeed bindet Tracking-Pixel auf Arbeitgeber-Websites ein, um Klicks auf Stellenanzeigen zuzuordnen. Die Plattform selbst ist legitim, doch Jobbörsen ziehen wegen ihrer Grösse gefälschte Stellenanzeigen für Phishing, Lebenslauf-Sammlung und Jobbetrug an. Indeed unterhält AUP-Regeln und Betrugserkennung, Stellenanzeigenbetrug bleibt aber auf allen grossen Jobbörsen ein dauerhaftes Branchenproblem."
+  },
+  "Index Exchange": {
+    "description": "Index Exchange ist eine anpassbare Exchange-Technologie, mit der Sell-Side-Medienunternehmen Werbeinventar programmatisch und in Echtzeit monetarisieren können.",
+    "history": "Index Exchange wurde 2003 in Kanada ursprünglich als Casale Media gegründet. 2015 erfolgte die Umbenennung in Index Exchange, danach entwickelte sich das Unternehmen zu einer führenden unabhängigen programmatischen Ad Exchange. Es ist weiterhin unabhängig und betreibt eine Supply-Side Platform, die Publisher mit Werbetreibenden verbindet.",
+    "summary_abuse": "Index Exchange ist eine programmatische Werbebörse. SSPs und Ad Exchanges sind zentrale Bestandteile des Ad-Tech-Ökosystems und ermöglichen Real-Time Bidding; sie tauchen regelmässig in Malvertising-Kampagnen auf, weil Werbemittel über den Bietprozess in Publisher-Seiten eingeschleust werden können. Index Exchange ist eine legitime grosse Exchange, doch die Struktur programmatischer Werbung bedeutet, dass schädliche Anzeigen trotz AUP-Durchsetzung durch das System gelangen können."
+  },
+  "Indexhibit": {
+    "history": "Indexhibit ist ein minimalistisches CMS, das um 2005 von Vaska für Künstler und Designer entwickelt wurde, damit sie ihre Arbeiten präsentieren können. Es war in der Kreativszene weit verbreitet, wird aber seit dem Aufstieg moderner Portfolio-Plattformen immer weniger genutzt.",
+    "summary_abuse": "Indexhibit ist ein selbst gehostetes Nischen-CMS für kreative Portfolios ohne auffälliges Missbrauchssignal."
+  },
+  "Indexic": {
+    "description": "Indexic ist eine Buchungsmanagement-Plattform für Touren, Aktivitäten und Vermietungsbetriebe.",
+    "history": "Indexic wurde 2010 gegründet und hat den Hauptsitz in Mount Pleasant, South Carolina. Das Unternehmen bietet Buchungsmanagement-Software für Touren, Aktivitäten und Vermietungsbetriebe unter Marken wie aReservation und aWaiver an. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Indexic ist eine spezialisierte B2B-Buchungsplattform für Touren- und Vermietungsanbieter ohne auffälliges Missbrauchssignal; sie verarbeitet Zahlungen und verwaltet Reservierungen für legitime Unternehmen und hat keine Endkundenoberfläche, die Betrüger typischerweise anziehen würde."
+  },
+  "Indi": {
+    "description": "Indi ist ein soziales Video-Netzwerk, in dem Künstler, Marken, Händler, Nonprofits, Prominente und Einzelpersonen über eigens erstellte Video Challenges und Video Threads direkt mit Fans und Unterstützern interagieren können.",
+    "history": "Indi ist eine soziale Video-Plattform, die Künstler, Marken und Prominente über Video Challenges und Threads mit Fans verbindet. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Indi ist eine Nischenplattform für soziale Videos. Funktionen für nutzergenerierte Inhalte bringen grundsätzlich Moderationsaufwand mit sich, es sind jedoch keine auffälligen Missbrauchsmuster durch Betrüger oder Scammer dokumentiert."
+  },
+  "Indico": {
+    "description": "Indico ist ein Open-Source-System für Eventmanagement, das für die Organisation wissenschaftlicher Konferenzen und Workshops entwickelt wurde.",
+    "history": "Indico wurde am CERN in der Schweiz entwickelt und 2002 erstmals veröffentlicht. Das Open-Source-System für Event- und Konferenzmanagement wird weltweit von wissenschaftlichen Institutionen, Universitäten und Forschungsorganisationen eingesetzt.",
+    "summary_abuse": "Indico ist ein von CERN entwickeltes Open-Source-System für Konferenzmanagement, das von wissenschaftlichen Institutionen genutzt wird. Es hat keinen verbraucherorientierten gehosteten Dienst und kein auffälliges Missbrauchssignal."
+  },
+  "Indy": {
+    "history": "Indy ist ein Open-Source-Webserver und eine Bibliothek für Internet-Komponenten, ursprünglich für Delphi und C++ Builder entwickelt. Das IndyProject wird seit vielen Jahren von der Community gepflegt, auch wenn die Aktivität deutlich nachgelassen hat.",
+    "summary_abuse": "Indy (IndyProject) ist ein Open-Source-Webserver und eine Bibliothek für Internet-Komponenten für Delphi. Es ist ein älteres Entwicklerwerkzeug ohne Endkundenoberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Inertia.js": {
+    "description": "Inertia.js ist ein Protokoll zum Erstellen monolithischer Single-Page-Anwendungen.",
+    "history": "Inertia.js wurde von Jonathan Reinink entwickelt und 2019 erstmals veröffentlicht. Es bietet ein Protokoll, mit dem Single-Page-Anwendungen mit serverseitigem Routing und Controllern gebaut werden können, als Brücke zwischen klassisch servergerenderten Apps und modernen SPA-Frameworks. Besonders in der Laravel-Community wurde es schnell populär.",
+    "summary_abuse": "Inertia.js ist eine Open-Source-JavaScript-Bibliothek für SPA-Frameworks ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne verbraucherorientierten gehosteten Dienst."
+  },
+  "InEvent": {
+    "description": "InEvent ist Eventmanagement-Software, die Planung, Organisation und Durchführung virtueller, hybrider und physischer Events vereinfacht.",
+    "history": "InEvent wurde 2013 in Brasilien gegründet und durchlief Y Combinator. Das Unternehmen bietet Enterprise-Software für Präsenz-, Hybrid- und virtuelle Events. Es bedient Fortune-500-Unternehmen und hat seine Plattform auf den gesamten Event-Lebenszyklus von der Planung bis zur Analyse nach dem Event ausgeweitet.",
+    "summary_abuse": "InEvent ist eine Enterprise-Plattform für Eventmanagement ohne auffälliges Missbrauchsprofil. Der Dienst richtet sich an Firmen- und Enterprise-Kunden mit authentifizierter Kontoerstellung und vertraglichen Vereinbarungen. Es gibt keine Endkundenoberfläche, die für Phishing oder Spam-Operationen ausgenutzt werden könnte."
+  },
+  "InfernoJS": {
+    "description": "InfernoJS ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, bekannt für hohe Performance und eine React.js-ähnliche API und Struktur.",
+    "history": "InfernoJS wurde von Dominic Gannaway entwickelt, der später zum React-Core-Team bei Facebook wechselte, und um 2016 veröffentlicht. Die React-ähnliche Bibliothek konzentriert sich auf kleine Bundle-Grössen und maximale Rendering-Geschwindigkeit.",
+    "summary_abuse": "InfernoJS ist eine Open-Source-JavaScript-Bibliothek für Benutzeroberflächen ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne verbraucherorientierten gehosteten Dienst."
+  },
+  "Infinite Scroll": {
+    "description": "jQuery-Plugin für unendliches Scrollen.",
+    "history": "Infinite Scroll ist ein jQuery-Plugin, das von Paul Irish erstellt und später von David DeSandro gepflegt wurde. Es implementiert automatische Paginierung und unendliches Scrollen für Webseiten. Verfügbar ist es seit etwa 2011.",
+    "summary_abuse": "Infinite Scroll ist eine JavaScript-Bibliothek zur Umsetzung von Infinite-Scroll-Paginierung; sie hat kein Missbrauchssignal und ist eine gängige Frontend-Bibliothek für UI-Muster."
+  },
+  "Infinity": {
+    "description": "Infinity ist ein All-in-one-Workspace zur zentralen Organisation von Projekten, Aufgabenverfolgung und Teamzusammenarbeit.",
+    "history": "Infinity (startinfinity.com) wurde 2018 als anpassbarer All-in-one-Workspace für Projektmanagement und Teamzusammenarbeit gegründet. Seit dem Start sind keine nennenswerten Eigentümerwechsel dokumentiert.",
+    "summary_abuse": "Infinity ist ein Projektmanagement-SaaS ohne auffälliges Missbrauchssignal. Es ist ein Backend-Produktivitätstool ohne Endkundenoberfläche, die Scammer typischerweise ausnutzen würden."
+  },
+  "Influence": {
+    "description": "Influence ist ein Conversion-Optimierungstool für E-Commerce, das Social Proof in Echtzeit nutzt.",
+    "history": "Influence wurde 2018 von Kirti Prakash als Social-Proof-Conversion-Tool für E-Commerce-Websites gegründet und hilft Unternehmen, Benachrichtigungen zu Kundenaktivitäten in Echtzeit anzuzeigen.",
+    "summary_abuse": "Influence bindet Social-Proof-Benachrichtigungswidgets in E-Commerce-Seiten ein. Solche conversion-orientierten Hinweise könnten grundsätzlich auf betrügerischen Shops genutzt werden, um erfundene Aktivitätszahlen anzuzeigen, konkrete Missbrauchsfälle sind jedoch nicht dokumentiert."
+  },
+  "Influenster": {
+    "description": "Influenster ist ein Widget für Produktbewertungen, das Feedback und Bewertungen von Käufern auf Websites anzeigt.",
+    "history": "Influenster wurde 2010 von Aydin Acar und Elizabeth Scherle in New York als Plattform für Produktentdeckung und Bewertungen gegründet. 2019 wurde sie von Bazaarvoice übernommen und zu einer Tochtergesellschaft des in Austin ansässigen Unternehmens für Bewertungen und Reviews.",
+    "summary_abuse": "Influenster ist eine Plattform für Produktbewertungen und Produktentdeckung, heute im Besitz von Bazaarvoice; sie sammelt nutzergenerierte Bewertungen und Produktfeedback. Es gibt keine auffällige Geschichte als Plattform für Betrug oder Scam-Hosting, auch wenn gefälschte Reviews bei jedem Produkt für Verbraucherbewertungen ein allgemeines Risiko darstellen."
+  },
+  "Influx CMS": {
+    "description": "Influx CMS ist eine medizinische Marketingplattform, die sich auf individuelles Webdesign und Marketing für Ärzte, Chirurgen und Medical Spas spezialisiert.",
+    "history": "Influx CMS (Influx Marketing) ist eine US-amerikanische medizinische Marketingplattform, die Website- und CMS-Lösungen speziell für Gesundheitsfachleute wie Ärzte, Chirurgen und Medical Spas anbietet.",
+    "summary_abuse": "Influx CMS bedient eine Nische im medizinischen Marketing ohne auffälliges Missbrauchssignal. Die Plattform richtet sich an Gesundheitsanbieter und hat keine nennenswerte Vorgeschichte der Ausnutzung durch böswillige Akteure."
+  },
+  "Infogram": {
+    "description": "Infogram ist eine webbasierte Plattform für Datenvisualisierung und Infografiken.",
+    "history": "Infogram wurde im Februar 2012 in Riga, Lettland, von Uldis Leiterts, Raimonds Kaže und Alise Dīrika als webbasiertes Tool für Datenvisualisierung und Infografiken gegründet. Im Mai 2017 wurde es von Prezi, dem Anbieter von Präsentationssoftware, übernommen und war damit Prezis erste Akquisition.",
+    "summary_abuse": "Infogram ist ein SaaS für Datenvisualisierung und Infografiken ohne auffälliges Missbrauchssignal. Es wird für legitime Diagramme und Berichte genutzt und hat keine Endkundenoberfläche, die Scammer typischerweise ins Visier nehmen."
+  },
+  "Infolinks": {
+    "description": "Infolinks ist eine Online-Werbeplattform für Publisher und Werbetreibende.",
+    "history": "Infolinks wurde 2007 von Oren Dobronsky und Yariv Davidovich in Palo Alto, Kalifornien, mit R&D in Tel Aviv, Israel, gegründet. Das Unternehmen gehörte zu den Pionieren der In-Text-Werbung, bei der keywordgesteuerte Anzeigenblöcke in Website-Inhalte eingefügt werden. 2018 wurde es für weniger als das insgesamt eingeworbene Eigenkapital übernommen. Die Plattform bedient Publisher mit mehreren Anzeigenformaten, darunter inText, inFrame, inSearch und inTag.",
+    "summary_abuse": "Infolinks ist ein Netzwerk für In-Text- und Display-Werbung, das JavaScript-basierte Anzeigenblöcke in Publisher-Websites einfügt. Als Werbenetzwerk verarbeitet es grosse Mengen verhaltensbezogener Tracking-Daten von Besuchern auf Hunderttausenden Websites. Die Plattform wurde von manchen Publishern wegen aufdringlicher Anzeigenformate und langsamer Zahlungen kritisiert. In-Text-Werbenetzwerke tauchen gelegentlich in Malvertising-Ketten auf, ein grosser öffentlich dokumentierter Infolinks-spezifischer Malvertising-Vorfall ist jedoch nicht bekannt. Die Tracker der Plattform verfolgen Nutzer über das Web hinweg."
+  },
+  "Infomaniak": {
+    "description": "Infomaniak ist ein Hosting-Unternehmen mit Sitz in Genf, Schweiz.",
+    "history": "Infomaniak wurde 1994 in Genf, Schweiz, gegründet und gehört zu den führenden unabhängigen Schweizer Anbietern für Webhosting und Cloud-Dienste. Bekannt für Datenschutzorientierung und Schweizer Datensouveränität, ist das Unternehmen ohne externe Investitionen organisch gewachsen.",
+    "summary_abuse": "Infomaniak ist ein Schweizer Webhosting-Anbieter mit geringem Missbrauchssignal. Als legitimes europäisches Hosting-Unternehmen mit starken Datenschutzversprechen und Schweizer Datenschutzrecht unterhält es eine AUP und reagiert auf Abuse-Meldungen. Shared Hosting birgt immer ein gewisses Risiko, für schädliche Inhalte genutzt zu werden, doch das Schweizer Rechtsumfeld von Infomaniak schafft mehr Verbindlichkeit als Offshore-Alternativen."
+  },
+  "INFOnline": {
+    "history": "INFOnline ist ein deutscher Anbieter für Online-Reichweitenmessung und Digital Analytics mit Fokus auf den deutschsprachigen Medienmarkt. Das Unternehmen betreibt das agof-Messsystem (Arbeitsgemeinschaft Online-Forschung), das von deutschen Publishern genutzt wird.",
+    "summary_abuse": "INFOnline ist ein deutscher Dienst für Webanalyse und Reichweitenmessung für Publisher. Als Tracking-Pixel- und Analytics-Anbieter sammelt er Nutzerdaten über Publisher-Seiten hinweg, arbeitet aber unter deutschem und EU-Datenschutzrecht. Betrugs- oder Malware-Missbrauchsmuster sind nicht dokumentiert."
+  },
+  "Infor": {
+    "description": "Infor ist eine Ressourcenplanungs-Lösung, die Geschäftsabläufe strafft, Workflows verwaltet und datenbasierte Entscheidungen über verschiedene Unternehmensfunktionen hinweg unterstützt.",
+    "history": "Infor entstand 2002 durch die Fusion von GEAC Computer Corporation und Intentia und bündelte verschiedene ERP-Softwaregeschäfte. Koch Industries übernahm 2017 eine Mehrheitsbeteiligung, 2020 ging Infor vollständig in Koch auf. Das Unternehmen zählt weiterhin zu den weltweit grössten Enterprise-Softwareanbietern mit Fokus auf branchenspezifische Cloud-ERP-Lösungen.",
+    "summary_abuse": "Infor hat kein auffälliges Missbrauchssignal. Es ist eine grosse Enterprise-ERP- und CRM-Plattform, die von Fortune-500-Unternehmen genutzt wird, ohne Endkundenoberfläche, die Betrüger ins Visier nehmen. Das Enterprise-Vertriebsmodell und die grosse Firmenkundschaft verhindern weitgehend den spontanen Missbrauch, wie er bei Self-Service-Plattformen vorkommt."
+  },
+  "Informa Markets": {
+    "description": "Informa Markets ist eine Plattform, die Handel, Innovation und Wachstum in verschiedenen Branchen und Fachmärkten ermöglicht.",
+    "history": "Informa Markets ist die Sparte für Fachveranstaltungen und B2B-Messen von Informa plc, einem FTSE-100-Unternehmen, das 1998 durch die Fusion von IBC Group und LLP Group entstand. Die Sparte betreibt weltweit über 450 B2B-Marken und jährlich 500 Live-Events in spezialisierten Branchen.",
+    "summary_abuse": "Informa Markets ist eine grosse B2B-Plattform für Fachveranstaltungen unter Informa plc ohne auffälliges Missbrauchssignal; sie ermöglicht legitime Branchenmessen und Events, statt verbraucherorientiertes Hosting bereitzustellen, das Scammer ausnutzen würden."
+  },
+  "Informizely": {
+    "description": "Informizely ist eine Kundenfeedback-Plattform, mit der Websites und Anwendungen Umfragen ausspielen, Nutzerverhalten verstehen und handlungsrelevante Erkenntnisse gewinnen können.",
+    "history": "Informizely wurde 2014 von Diderik Broos in Amsterdam, Niederlande, gegründet. Zuvor war das Unternehmen als Insitez bekannt. Es ist weiterhin bootstrapped und ohne externe Finanzierung. Die Plattform bietet gezielte Website-Umfragen und Feedback-Tools für Kunden wie Bose, Domino's Pizza, EMC2 und Scout24.",
+    "summary_abuse": "Informizely ist eine Website-Umfrageplattform ohne auffällige Missbrauchssignale. Das Produkt sammelt Besucherantworten im Auftrag seiner Kunden und bietet keine Funktionen für Datei-Hosting oder URL-Weiterleitungen, die ausgenutzt werden könnten. Als niederländisches Unternehmen unterliegt es GDPR und EU-Datenschutzrecht. Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "InforUMobile": {
+    "description": "InforUMobile ist ein von der Shamir Systems Group entwickeltes Multichannel-System für digitale Kundenkommunikation mit verschiedenen Kanälen zur Interaktion und Bindung von Nutzern.",
+    "history": "InforUMobile, unter Shamir Systems betrieben, ist eine israelische Multichannel-Plattform für digitales Marketing mit Sitz in Rishon LeZion, Israel, und seit mindestens 2001 im Mobile-Marketing-Umfeld aktiv. Die Plattform bietet SMS, E-Mail, WhatsApp-Nachrichten, Chatbots, Landing Pages, Umfragen und digitale Kataloge, vor allem für den israelischen Geschäftsmarkt. Nennenswerte Übernahmen oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "InforUMobile bietet Bulk-SMS, E-Mail- und WhatsApp-Messaging. Massenversandplattformen tragen ein inhärentes Spam-Risiko, da sie für unerwünschtes Marketing oder Phishing-Nachrichten in grossem Umfang genutzt werden können. InforUMobile bedient den israelischen Markt und arbeitet unter israelischen Kommunikationsregeln. Konkrete hochkarätige Missbrauchsfälle sind nicht dokumentiert, doch Bulk-SMS- und E-Mail-Plattformen brauchen generell Überwachung, um Spam-Kampagnen durch Kunden zu verhindern."
+  },
+  "Infoset": {
+    "description": "Infoset bietet fortschrittliche Kommunikations- und Supportlösungen.",
+    "history": "Infoset wurde 2020 in Istanbul, Türkei, von Samed und Sercan Düzçay als All-in-one-Omnichannel-Plattform für Kundenkommunikation in Unternehmen gegründet. Das Startup erhielt Seed-Finanzierung vom französischen IT-Unternehmen IT Task Force. Im März 2023 wurde Infoset von Eliptik Yazilim ve Ticaret übernommen.",
+    "summary_abuse": "Infoset ist eine B2B-SaaS-Plattform für Kundensupport ohne auffällige öffentliche Missbrauchsvorfälle. Als geschäftsorientiertes Tool mit Registrierungspflicht ist die Angriffsfläche für Missbrauch begrenzt. Dokumentierte Fälle von Nutzung für Spam, Phishing oder Betrug sind nicht bekannt."
+  },
+  "Infront": {
+    "description": "Infront ist ein Sportmarketing-Unternehmen, das sich auf Management, Vermarktung und Vertrieb von Sportmedienrechten und Events spezialisiert und weltweit Sportverbände, Ligen, Clubs und Medienpartner bedient.",
+    "history": "Infront Sports & Media wurde im Oktober 2002 in der Schweiz durch den Zusammenschluss der Sportmarketingunternehmen CWL und Prisma Sports & Media gegründet. 2015 wurde das Unternehmen von der chinesischen Dalian Wanda Group übernommen und dadurch eine Tochter der Wanda Sports Group.",
+    "summary_abuse": "Infront ist ein Unternehmen für Sportrechte-Management und Medien ohne auffälliges Missbrauchssignal. Es arbeitet als B2B-Dienstleister für Sportverbände und Broadcaster, nicht als verbraucherorientierte Plattform."
+  },
+  "InkSoft": {
+    "description": "InkSoft ist eine umfassende Plattform mit Online-Designer-Tools und E-Commerce-Lösungen für Druckunternehmen.",
+    "history": "InkSoft wurde um 2009 gegründet und hat seinen Sitz in den USA. Die Plattform bietet E-Commerce- und Web-to-Print-Software für die Branche für veredelte Bekleidung und Werbeartikel. Das Unternehmen arbeitete mit alphabroder zusammen und integriert sich mit Printavo für Auftragsmanagement. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "InkSoft ist eine spezialisierte B2B-E-Commerce- und Designplattform für Druckereien, mit der Unternehmen kundenorientierte Onlineshops erstellen. Obwohl die Plattform Kunden-Shops hostet, richtet sie sich an die Druckbranche mit verifizierten Geschäftskonten. Bedeutende Missbrauchsvorfälle oder Betrugsberichte sind nicht dokumentiert."
+  },
+  "InMoment": {
+    "description": "InMoment bietet SaaS-basierte Lösungen für Kundenumfragen und Enterprise Feedback Management.",
+    "history": "InMoment wurde 2002 in Salt Lake City, Utah, gegründet. Durch Übernahmen wie Wootric, ReviewTrackers und Lexalytics wuchs das Unternehmen zu einer umfassenden Enterprise-Plattform für Customer-Experience-Intelligence (CX).",
+    "summary_abuse": "InMoment ist eine Enterprise-Plattform für Customer Experience und Umfragen; sie sammelt Feedbackdaten von Kunden unter vertraglichen Enterprise-Vereinbarungen und hat kein auffälliges Missbrauchssignal."
+  },
+  "Innervate": {
+    "description": "Innervate bietet eine Plug-and-play-Lösung für dynamische Customer-Experience-Orchestrierung über verschiedene Formate und Kanäle hinweg und nutzt bestehende Systeme, Daten und Teams, um Kundeninteraktionen zu verbessern und zu straffen.",
+    "history": "Innervate wurde 2014 als RevJet von Serge Ioffe, Mitchell Weisman und Craig Z in San Carlos, Kalifornien, gegründet. Das Unternehmen fokussierte auf Dynamic Creative Optimization für digitale Werbung. LendingTree übernahm RevJet im Dezember 2017. Im Mai 2023 startete das Unternehmen als Innervate neu und positionierte sich als Plattform für dynamische Content-Orchestrierung für Enterprise-Werbetreibende über Display, Video, Social und Mobile hinweg.",
+    "summary_abuse": "Innervate ist eine Dynamic-Creative-Optimization-Plattform für Enterprise-Werbetreibende ohne auffällige direkte Missbrauchssignale. Als Werbetechnologie verarbeitet sie Zielgruppen- und Verhaltensdaten, um personalisierte Werbemittel auszuliefern, was übliche Datenschutzfragen aufwirft. Dokumentierte Missbrauchsvorfälle oder Security-Research-Berichte zu dieser Plattform sind nicht bekannt."
+  },
+  "InnoShop": {
+    "description": "InnoShop ist eine Open-Source-E-Commerce-Plattform mit flexiblen Werkzeugen zum Aufbau und Betrieb von Onlineshops.",
+    "history": "InnoShop ist eine auf Laravel basierende Open-Source-E-Commerce-Plattform, entwickelt vom innocommerce-Team, das auf 15 Jahre Branchenerfahrung verweist. Das Projekt wird aktiv auf GitHub gepflegt und unterstützt Mehrsprachigkeit, mehrere Währungen sowie eine Plugin- und Theme-Architektur.",
+    "summary_abuse": "InnoShop ist ein selbst gehostetes Open-Source-E-Commerce-Framework. Wie jede Open-Source-E-Commerce-Plattform könnte es für gefälschte Shops eingesetzt werden, doch das Tool selbst hat kein spezifisches Missbrauchssignal und das Projekt betreibt keine zentrale gehostete Infrastruktur."
+  },
+  "Innovid Advertising Measurement": {
+    "description": "Innovid Advertising Measurement ist eine Lösung zur Bewertung und Analyse der Leistung von Werbekampagnen über verschiedene Plattformen und Geräte hinweg.",
+    "history": "Innovid wurde 2007 von Zvika Netter, Tal Chalozin und Zack Zigdon als unabhängige Plattform für CTV- und Video-Ad-Serving gegründet. 2021 ging das Unternehmen durch eine SPAC-Fusion mit ION Acquisition Corp 2 an die Börse (NYSE: CTV). Im November 2024 kündigte Mediaocean die Übernahme von Innovid für rund 500 Millionen Dollar an und nahm das Unternehmen von der Börse.",
+    "summary_abuse": "Innovid ist eine Enterprise-Plattform für Ad Serving und Messung in CTV-Werbung. Als Ad-Tech-Infrastruktur liegt sie nahe an Tracking und Profiling, arbeitet aber im legitimen B2B-Werbeumfeld. Auffälliger Betrugs- oder Scam-Missbrauch ist nicht dokumentiert."
+  },
+  "Innovorder": {
+    "description": "Innovorder ist eine Point-of-Sale-Lösung für Gastronomen, die KI nutzt, um Bestellmanagement und Abläufe im Betrieb zu unterstützen.",
+    "history": "Innovorder wurde 2014 in Paris, Frankreich, von Jérôme Varnier, Romain Melloul und Olivier Loverde gegründet, die sich an der HEC Business School kennengelernt hatten. 2016 sammelte Innovorder 1 Million Euro ein und übernahm La Caisse Tactile, ein POS-Software-Startup. Im Juli 2019 folgte eine Series-A-Runde über 10 Millionen Euro mit Bpifrance, Kreaxi und FJ Labs. Die Gesamtfinanzierung erreichte 16,4 Millionen Dollar. Die Plattform bedient grosse französische Food-Service-Ketten wie KFC, Quick und Courtepaille.",
+    "summary_abuse": "Innovorder ist eine SaaS-Plattform für Restaurant-POS und Betriebsabläufe, genutzt von verifizierten Food-Service-Unternehmen. Die Plattform verarbeitet Zahlungs- und Bestelldaten in kontrollierten B2B-Umgebungen. Bedeutende Missbrauchsvorfälle sind nicht dokumentiert, und die Plattform hat nur begrenzte Endkundenexponierung, die Betrug ermöglichen könnte."
+  },
+  "Inplayer": {
+    "description": "Inplayer ist eine Plattform für skalierbares Video-Streaming, Zielgruppenerweiterung über Geräte hinweg und Monetarisierung von Inhalten.",
+    "history": "InPlayer wurde 2010 ursprünglich als Invideous Limited in Mazedonien als Plattform für Video-Paywalls und Monetarisierung gegründet. Das Unternehmen wurde von JW Player übernommen, um dessen Angebot für Monetarisierung und Audience Insights zu erweitern.",
+    "summary_abuse": "InPlayer ist eine Plattform für Video-Paywalls und Streaming-Monetarisierung ohne auffälliges Missbrauchssignal; sie bedient Medienunternehmen und Content-Eigentümer mit authentifiziertem Streaming, was die Exponierung gegenüber Inhaltsmissbrauch begrenzt."
+  },
+  "Inputflow": {
+    "description": "Inputflow ist ein Tool zum Erstellen vollständig anpassbarer mehrstufiger Formulare in Webflow.",
+    "history": "Inputflow ist ein kleines SaaS-Tool, mit dem sich mehrstufige Formulare in Webflow ohne Code erstellen lassen. Nennenswerte Geschichte oder Eigentumsereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Inputflow ist ein Webflow-Formularbaukasten ohne auffälliges Missbrauchssignal. Er richtet sich an Designer, die Formulare in Webflow bauen, und hat keine Endkundenoberfläche, die böswillige Akteure typischerweise ins Visier nehmen."
+  },
+  "inSales": {
+    "description": "inSales ist eine SaaS-E-Commerce-Plattform mit Multichannel-Integration.",
+    "history": "inSales ist eine russische SaaS-E-Commerce-Plattform mit Multichannel-Integrationsfunktionen; sie bedient den russischen E-Commerce-Markt seit den späten 2000er-Jahren.",
+    "summary_abuse": "inSales ist eine russische SaaS-E-Commerce-Plattform ohne dokumentierte auffällige Missbrauchsfälle."
+  },
+  "inSided": {
+    "description": "inSided ist eine Customer-Success-Community-Plattform, die SaaS-Unternehmen dabei hilft, Kundenerfolg und Kundenbindung zu verbessern.",
+    "history": "inSided wurde 2012 in Amsterdam als Customer-Success-Community-Plattform für SaaS-Unternehmen gegründet. Im Januar 2022 übernahm Gainsight inSided, um Community-Funktionen in seine Customer-Success-Suite zu integrieren.",
+    "summary_abuse": "inSided ist eine B2B-Community-Plattform für SaaS-Unternehmen ohne dokumentierte Missbrauchsfälle."
+  },
+  "Insider": {
+    "description": "Insider ist eine integrierte Growth-Management-Plattform, mit der Digital Marketers Wachstum über den gesamten Funnel hinweg fördern, von Acquisition über Activation und Retention bis Revenue, auf einer einheitlichen Plattform mit Artificial Intelligence und Machine Learning.",
+    "history": "Insider wurde 2012 in Istanbul, Türkei, von Hande Çilingir und Mitgründern gegründet. Ursprünglich eine Marketing-Automation-Plattform, expandierte Insider weltweit und verlegte den Hauptsitz nach Singapur. Im März 2022 erreichte das Unternehmen nach einer Series D über 121 Millionen Dollar von QIA mit einer Bewertung von 1,22 Milliarden Dollar Unicorn-Status. 2024 nahm es in einer von General Atlantic geführten Series E 500 Millionen Dollar auf und erreichte eine Bewertung von 2 Milliarden Dollar. Ende 2025 benannte sich das Unternehmen in Insider One um.",
+    "summary_abuse": "Insider ist eine grosse B2B-Plattform für Kundendaten und Marketing-Automation, die von Unternehmen genutzt wird. Als Martech-Tool verarbeitet sie Verhaltensdaten von Besuchern in grossem Umfang und sammelt Browsing- und Interaktionsdaten über Kunden-Websites hinweg, was übliche Datenschutzfragen aufwirft. Die Plattform unterliegt GDPR und verfügt über Compliance-Kontrollen. Dokumentierte Fälle von Plattformmissbrauch für Betrug oder Phishing sind nicht gemeldet."
+  },
+  "Insightly CRM": {
+    "description": "Insightly CRM ist eine cloudbasierte Customer-Relationship-Management-Software, mit der Unternehmen Leads, Kontakte und Opportunities verwalten, Kundeninteraktionen nachverfolgen, individuelle Reports erstellen, Workflows automatisieren und Drittanbieteranwendungen integrieren können, um Kundenbeziehungen zu verbessern und Geschäftsprozesse zu straffen.",
+    "history": "Insightly wurde 2009 in Perth, Australien, von Anthony Smith als mit Google Apps integriertes CRM gegründet. 2012 zog das Unternehmen nach San Francisco und nahm 3 Millionen Dollar von Emergence Capital auf. Insightly wuchs zu einem CRM- und Projektmanagement-Tool für SMBs mit Freemium-Modell. Im Juli 2024 übernahm die Private-Equity-Firma Crest Rock Partners Insightly und fusionierte es mit Unbounce, einer Plattform für Landing-Page-Optimierung.",
+    "summary_abuse": "Insightly CRM ist eine Cloud-CRM-Plattform für kleine und mittlere Unternehmen. Als B2B-Tool mit Registrierungspflicht ist sie nur begrenzt externem Missbrauch ausgesetzt. Dokumentierte Fälle der Nutzung für Phishing, Betrug oder andere bösartige Zwecke sind nicht gemeldet."
+  },
+  "Insignal": {
+    "description": "Insignal ist eine cloudbasierte Anwendung für Website-Traffic, Heatmaps, Timelines, Feedback, Session Recordings und Umfragen.",
+    "history": "Insignal ist ein cloudbasiertes Tool für Webanalyse und Session Recording, das Website-Traffic, Heatmaps, Feedback und Umfragen erfasst. Nennenswerte Eigentümer- oder Abschaltungsereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Insignal ist ein SaaS für Webanalyse und Session Recording ohne auffälliges Missbrauchssignal. Es sammelt Website-Besucherdaten für Website-Betreiber und arbeitet ähnlich wie andere Analytics-Tools mit üblicher Telemetrieerfassung."
+  },
+  "Inso": {
+    "description": "Inso ist eine Anwendung für Kindergärten und Kitas, die die Kommunikation mit Eltern erleichtert und die automatische Vorbereitung von Abrechnungsinformationen unterstützt.",
+    "history": "Inso ist eine polnische SaaS-Anwendung für Kindergärten und Kitas, die Elternkommunikation und automatisierte Abrechnung unterstützt. Nennenswerte Eigentümer- oder Übernahmeereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Inso ist ein geschlossenes B2B-SaaS für die Verwaltung von Kinderbetreuung ohne dokumentiertes Missbrauchssignal. Zielgruppe sind Vorschulen und Kitas."
+  },
+  "Inspectlet": {
+    "history": "Inspectlet ist ein Tool für Session Recording und Heatmap-Analytics, das um 2011 in den USA gestartet wurde. Das Unternehmen blieb unabhängig und bootstrapped. 2026 ergänzte die Plattform KI-gestützte Session-Analyse. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Inspectlet zeichnet vollständige Besuchersitzungen auf, einschliesslich Mausbewegungen, Klicks und Tastatureingaben auf Kunden-Websites. Aus Datenschutzsicht ist das besonders sensibel, weil Keystroke Logging versehentlich Formulareingaben einschliesslich Passwörtern erfassen kann. Das Unternehmen bietet GDPR-Hinweise und Maskierungsoptionen, doch die Kategorie Session Recording birgt generell ein erhöhtes Risiko, PII zu erfassen. Dokumentierte Fälle aktiven Plattformmissbrauchs für Betrug sind nicht bekannt, Betreiber sind aber für korrekte Konfiguration verantwortlich."
+  },
+  "Instabot": {
+    "description": "Instabot ist ein Conversion-Chatbot, der Nutzer versteht, Informationen kuratiert, Fragen beantwortet, Kontakte erfasst und Meetings sofort bucht.",
+    "history": "Instabot wurde um 2016 in New York, USA, gegründet. Die Plattform bietet KI-Chatbot-Software für Leadgenerierung und Kundeninteraktion auf Websites. Das Unternehmen bietet White-Label-Lösungen für Marketingagenturen an. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Instabot ist eine Chatbot-Plattform für Lead-Erfassung und Kundeninteraktion auf Websites. Als Chat-Oberfläche auf Unternehmenswebsites sammelt sie Kontaktdaten von Besuchern. Die White-Label- und Agenturfunktionen bedeuten, dass sie auf vielen Websites eingesetzt werden kann. Dokumentierte Fälle der Nutzung für Phishing oder Betrug sind nicht gemeldet, auch wenn Chatbot-Plattformen allgemein AUP-Durchsetzung brauchen."
+  },
+  "Instafeed": {
+    "description": "Instafeed ist eine offizielle Instagram-App.",
+    "history": "Instafeed ist eine Shopify-App, die Instagram-Feeds in Shopify-Storefronts einbettet; sie ist eine offiziell mit Instagram verbundene App, die über den Shopify App Store vertrieben wird.",
+    "summary_abuse": "Instafeed ist eine Shopify-App zum Einbetten von Instagram-Inhalten; sie hat kein auffälliges Missbrauchssignal und wird über Shopifys geprüften App-Marktplatz vertrieben."
+  },
+  "Instafeed.js": {
+    "description": "Eine Möglichkeit, Instagram-Fotos zu deiner Website hinzuzufügen.",
+    "history": "Instafeed.js wurde ursprünglich 2012 von Steven Schobert als einfache Vanilla-JavaScript-Bibliothek geschrieben, um Instagram-Fotos auf Websites anzuzeigen; sie erreichte Version 2.1.0. Änderungen an der Instagram API durch Meta haben die Token-Verwaltung erschwert und erfordern serverseitige Komponenten, die die Bibliothek allein nicht bereitstellen kann.",
+    "summary_abuse": "Instafeed.js hat kein auffälliges Missbrauchssignal. Es ist eine Frontend-JavaScript-Bibliothek zum Anzeigen von Instagram-Fotos ohne serverseitige oder Hosting-Komponente, die Betrüger typischerweise ins Visier nehmen würden."
+  },
+  "Instagram Feed for WordPress": {
+    "description": "Zeigt Instagram-Fotos von beliebigen nicht privaten Instagram-Konten an.",
+    "history": "Instagram Feed for WordPress (Smash Balloon Social Photo Feed) wurde 2013 von Smash Balloon erstellt. Das Plugin ist auf über 1,75 Millionen aktive Nutzer gewachsen und gehört zu den am weitesten verbreiteten Social-Media-Feed-Plugins für WordPress.",
+    "summary_abuse": "Dieses WordPress-Plugin bettet Instagram-Feeds in Websites ein. Es ruft öffentliche Instagram-Daten über die offizielle API ab und hat kein auffälliges Missbrauchssignal. Als weit verbreitetes WordPress-Plugin könnte es theoretisch auf Scam-Seiten erscheinen, das Plugin selbst ist aber kein Missbrauchswerkzeug."
+  },
+  "Instamojo": {
+    "description": "Instamojo ist ein Unternehmen aus Bangalore, das eine Plattform für den Verkauf digitaler Güter und das Online-Einziehen von Zahlungen bereitstellt.",
+    "history": "Instamojo wurde 2012 in Bangalore, Indien, von Sampad Swain, Akash Gehani und Aditya Sengupta gegründet. Es wuchs auf über 2 Millionen indische MSMEs und bietet Zahlungslinks, Payment Gateway und Online-Shop-Tools. Das VC-finanzierte Unternehmen blieb eines der führenden Payment Gateways für indische Kleinunternehmen.",
+    "summary_abuse": "Instamojo trägt ein geringes Missbrauchsrisiko, wie es Zahlungsplattformen grundsätzlich eigen ist. Payment Gateways können für betrügerische Transaktionen oder Scam-Shops genutzt werden. Instamojo ist PCI-DSS-zertifiziert und richtet sich an legitime indische MSMEs. Grössere dokumentierte Betrugsvorfälle speziell zur Plattform sind nicht verzeichnet."
+  },
+  "Instana": {
+    "description": "Instana ist ein Kubernetes-natives APM-Tool für moderne Stacks wie Microservices und neuerdings Serverless, unterstützt aber auch bestehende VM-basierte Stacks und mehrere unterstützte Technologien.",
+    "history": "Instana wurde 2015 von Mirko Novakovic, Pete Abrams und Fabian Lange in Deutschland gegründet, mit Büros in Chicago. Das Unternehmen spezialisierte sich auf automatisiertes APM für cloud-native und Microservices-Anwendungen und nahm über mehrere Finanzierungsrunden 57 Millionen Dollar auf, darunter eine Series C im Jahr 2018. IBM übernahm Instana im November 2020, um sein Hybrid-Cloud-Observability-Portfolio zu stärken. Nach der Übernahme wurde daraus IBM Instana Observability.",
+    "summary_abuse": "IBM Instana ist eine Enterprise-Plattform für APM und Observability ohne Missbrauchssignale; sie wird innerhalb von Enterprise-Cloud-Infrastrukturen für Application Performance Monitoring eingesetzt und hat keine Endkundenoberfläche. IBM unterhält umfassende Sicherheits- und Compliance-Programme für alle Produkte."
+  },
+  "Instant": {
+    "description": "Instant ist ein visueller No-Code-Page-Builder für Shopify, mit dem Nutzer über eine Drag-and-drop-Oberfläche individuelle Landing Pages und Sections erstellen können, ohne programmieren zu müssen.",
+    "history": "Instant ist ein visueller No-Code-Page-Builder für Shopify, mit dem Nutzer Landing Pages per Drag-and-drop ohne Code erstellen können. Nennenswerte Ereignisse in der Geschichte sind nicht dokumentiert.",
+    "summary_abuse": "Instant ist ein Shopify-Page-Builder, mit dem Händler individuelle Landing Pages erstellen können. Zwar könnte jeder Page Builder in einem betrügerischen Storefront genutzt werden, für dieses Tool sind aber keine spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "Instant.Page": {
+    "description": "Instant.Page ist eine JavaScript-Bibliothek, die Websites durch Just-in-time-Preloading schneller macht.",
+    "history": "Instant.Page wurde um 2018 von Alexandre Dieulot erstellt und ist ein kleines MIT-lizenziertes JavaScript-Snippet, das Seiten vorlädt, wenn Nutzer über Links fahren, um die wahrgenommene Ladezeit zu verkürzen. Es wird unabhängig gepflegt und hat keine kommerzielle Trägerschaft.",
+    "summary_abuse": "Instant.Page ist eine kleine Open-Source-Bibliothek für Prefetching ohne gehosteten Dienst oder Endkundenoberfläche; sie hat kein auffälliges Missbrauchssignal."
+  },
+  "InstantClick": {
+    "description": "InstantClick ist eine JavaScript-Bibliothek, die deine Website beschleunigt und die Navigation schneller macht.",
+    "history": "InstantClick wurde von Alexandre Dieulot erstellt und 2014 erstmals veröffentlicht. Die Bibliothek lädt Links beim Hover vor, ähnlich wie das später von Dieulot entwickelte Instant.Page; sie ist MIT-lizenziert und auf GitHub verfügbar, wurde aber seit mehreren Jahren nicht mehr aktiv weiterentwickelt, da sich der Maintainer auf Instant.Page konzentriert.",
+    "summary_abuse": "InstantClick ist eine kleine Open-Source-Bibliothek für Prefetching ohne gehosteten Dienst und ohne Endkundenoberfläche; sie hat kein auffälliges Missbrauchssignal."
+  },
+  "InstantCMS": {
+    "history": "InstantCMS wurde in Russland als Open-Source-CMS mit Fokus auf Social-Networking-Portale und Dating-Seiten entwickelt. Es basiert auf PHP und MySQL, nutzt eine MVC-Architektur mit Bootstrap und wird auf GitHub unter der Organisation instantsoft gepflegt. Ursprünglich um 2008 entstanden, blieb es eine Nischenplattform, die vor allem von russischsprachigen Communities genutzt wird.",
+    "summary_abuse": "InstantCMS ist ein selbst gehostetes Open-Source-CMS mit kleiner Nutzerbasis, vor allem für Social-Portale und Dating-Seiten. Dating- und Social-Networking-Seiten auf dieser Plattform können Spam, Fake-Profile oder Scam-Aktivität anziehen. Für die Plattform selbst ist kein Anti-Abuse-Programm dokumentiert, und das kleine Entwicklerteam kann zu langsamer Security-Reaktion führen."
+  },
+  "InstantGeo": {
+    "description": "InstantGeo ist ein Dienst, der IP-Geolokalisierung für Webseiten bereitstellt.",
+    "history": "InstantGeo ist ein kleiner Dienst für IP-Geolokalisierung, der Standortdaten für Webseiten liefert. Eine nennenswerte Eigentümergeschichte ist nicht dokumentiert.",
+    "summary_abuse": "InstantGeo stellt IP-Geolokalisierungsdaten für Webseiten bereit. IP-Geolokalisierungsdienste können von Scammern genutzt werden, um geozielgerichtete Phishing-Seiten auszuspielen, dieser Dienst ist jedoch sehr klein und ohne dokumentierte Missbrauchsvorfälle."
+  },
+  "Instapage": {
+    "description": "Instapage ist eine cloudbasierte Landing-Page-Plattform für Marketingteams und Agenturen.",
+    "history": "Instapage wurde 2012 in San Francisco, Kalifornien, von Tyson Quick gegründet, nachdem er niedrige Landing-Page-Conversion-Rates als zentrales Marketingproblem erkannt hatte. Das Unternehmen nahm 2 Millionen Dollar Seed-Finanzierung und 2018 eine Series A über 15 Millionen Dollar von Morgan Stanley Expansion Capital auf, insgesamt 34,6 Millionen Dollar. Instapage bediente über 16'000 Kunden und erzielte 2017 einen Umsatz von 19,2 Millionen Dollar.",
+    "summary_abuse": "Landing-Page-Builder wie Instapage werden regelmässig in Phishing-Kampagnen genutzt, weil damit fast jeder mit wenig technischem Aufwand überzeugende markenähnliche Seiten unter eigenen Domains erstellen kann. Instapage hat eine AUP und entfernt betrügerische Seiten, doch die einfache Erstellung realistischer Lookalike-Seiten macht die Plattform gelegentlich attraktiv für Credential-Harvesting-Angriffe. Die Nutzung ist überwiegend legitim und marketingbezogen, aber Phishing-Missbrauch ist ein dokumentiertes branchenweites Problem bei Landing-Page-Tools."
+  },
+  "Instatus": {
+    "description": "Instatus ist ein Tool für Statusseiten und Vorfallkommunikation.",
+    "history": "Instatus ist ein von einem Indie-Developer entwickelter Statusseiten-Dienst, der um 2020 startete. Die Plattform wurde von einem Solo-Entwickler erstellt und wird weiterhin unabhängig betrieben; sie bedient SaaS-Unternehmen wie cloudconvert, Linear, Podium und Restream. Übernahmen oder grössere Eigentümerwechsel gab es nicht.",
+    "summary_abuse": "Instatus stellt gehostete Statusseiten für Softwaredienste bereit. Die Ergebnisse sind normalerweise öffentliche Informationsseiten zur Service-Verfügbarkeit. Dokumentierte Fälle von Missbrauch für Phishing oder Betrug sind nicht gemeldet. Der einfache Zweck als Statusseite bietet nur minimale Angriffsfläche für Fehlgebrauch."
+  },
+  "InSyncai": {
+    "description": "InSyncai bietet eine Conversational Platform, mit der Unternehmen Chatbots für Kundensupport und Services entwerfen und bauen können.",
+    "history": "InSyncai wurde um 2015, früher bekannt als ShopInSync, von Raj Ramaswamy und Ashish Parnami in San Jose, Kalifornien, als KI-gestützte Conversational Platform für Enterprise-Kundensupport und E-Commerce gegründet.",
+    "summary_abuse": "InSyncai ist eine Enterprise-Chatbot-Plattform ohne auffälliges Missbrauchssignal; sie richtet sich mit vertriebsgebundenen Preisen an Mid-Market- und Enterprise-Kunden, was sie für böswillige Akteure als Missbrauchsziel unwahrscheinlich macht."
+  },
+  "Intaker": {
+    "description": "Intaker ist ein Dienst, mit dem Kanzleien Textnachrichten mit Mandanten senden und empfangen können, einschliesslich automatisierter Follow-up-Nachrichten.",
+    "history": "Intaker ist eine US-amerikanische Legal-Tech-SaaS-Plattform für KI-gestützten Chat, Lead-Erfassung und Intake-Automation speziell für Kanzleien. Das Unternehmen bietet vorgefertigte Chat-Skripte für über 1'400 rechtliche Falltypen und integriert sich mit wichtiger Legal-Software wie Filevine. Gegründet in den späten 2010er-Jahren, richtet es sich an Kanzleien für Personenschäden, Familienrecht und andere kleine bis mittlere US-Kanzleien.",
+    "summary_abuse": "Intaker ist ein Tool für Legal Intake Automation ohne auffällige Missbrauchssignale. Die Plattform ist speziell für US-Kanzleien gebaut und verarbeitet Kontaktdaten potenzieller Mandanten. Wegen des Fokus auf Kanzlei-Intake ist Missbrauch für Spam oder Phishing unwahrscheinlich, da die Mandanten aktiv rechtliche Dienstleistungen suchen."
+  },
+  "Integral Ad Science": {
+    "description": "Integral Ad Science ist ein börsennotiertes amerikanisches Technologieunternehmen, das den Wert digitaler Werbeplatzierungen analysiert.",
+    "history": "Integral Ad Science wurde 2009 als AdSafe Media von sechs Mitgründern, darunter Will Luttrell, gegründet und 2012 in Integral Ad Science umbenannt. 2014 erhielt das Unternehmen eine grosse Investition von Vista Equity Partners. Im Juni 2021 folgte der IPO an der NASDAQ unter dem Ticker IAS. Im November 2025 schloss NovaCap eine Übernahme über 1,9 Milliarden Dollar ab und nahm das Unternehmen von der Börse.",
+    "summary_abuse": "Integral Ad Science ist eine Plattform für Ad Verification und Brand Safety, die tief im digitalen Werbeökosystem verankert ist. Als Ad-Tech-Infrastruktur verarbeitet sie enorme Mengen an Zielgruppendaten und Web-Browsing-Verhalten, was Datenschutzbedenken aufwirft. Grosse Werbetreibende nutzen sie zur Prüfung von Ad Viewability und Brand Safety; sie wird nicht direkt missbraucht, doch die zugrunde liegende Tracking-Infrastruktur kann im weiteren Werbeökosystem von böswilligen Akteuren zweckentfremdet werden."
+  },
+  "Integrately": {
+    "description": "Integrately ist eine Click-Automation-Software, die mehrere Anwendungen miteinander verbindet.",
+    "history": "Integrately wurde 2020 von Karan Thakkar in Nashik, Indien, gegründet. Die Plattform bietet Workflow-Automation durch die Verbindung von über 1'000 Apps mit vorgefertigten Automationsvorlagen und positioniert sich als benutzerfreundliche Alternative zu Zapier. Das Unternehmen blieb unabhängig und bootstrapped. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Integrately ist eine Workflow-Automation-Plattform, die Business-Apps verbindet. Wie ähnliche Automatisierungstools kann sie missbraucht werden, wenn legitime Konten kompromittiert werden, um Spam zu versenden oder Daten über verbundene App-Integrationen abzufliessen. Die Plattform verlangt Kontoauthentifizierung und hat eine AUP. Spezifische dokumentierte Vorfälle breitflächigen Missbrauchs sind nicht gemeldet."
+  },
+  "Intel Active Management Technology": {
+    "description": "Intel Active Management Technology (AMT) ist ein proprietäres System für Fernverwaltung und Fernsteuerung von PCs mit Intel-CPUs.",
+    "history": "Intel AMT ist Hardware und Firmware für Out-of-band-Fernverwaltung von Intel-vPro-Geschäftscomputern und wurde um 2006 mit Intel Core 2 Duo vPro-Plattformen eingeführt. 2017 wurde eine kritische Remote-Code-Execution-Schwachstelle (CVE-2017-5689) entdeckt, die AMT von 2008 bis 2017 Kaby Lake betraf. Die FSF kritisierte AMT als backdoor-ähnliche Funktion, die ausserhalb der Kontrolle des Betriebssystems läuft. Intel aktualisiert AMT weiterhin mit jeder Prozessorgeneration.",
+    "summary_abuse": "Intel AMT ermöglicht hardwarebasierte Fernzugriffe auf Enterprise-PCs und läuft ausserhalb des OS auf Intels Management Engine. Eine kritische Schwachstelle von 2017 erlaubte unauthenticated Remote Code Execution auf Millionen Geschäftsrechnern. Nation-State-Akteure und anspruchsvolle Threat Groups haben AMT für Persistenz ausgenutzt, weil AV-Tools und OS-Level-Abwehr ME-residenten Code nicht erkennen oder blockieren können. Die FSF bezeichnete AMT als potenzielle Backdoor."
+  },
+  "Intelligems": {
+    "description": "Intelligems ist ein Tool zur Gewinnoptimierung für E-Commerce-Unternehmen, mit dem Preise, Rabatte und Versandkosten einfach getestet werden können, um Margen zu maximieren.",
+    "history": "Intelligems wurde um 2020 als Shopify-orientiertes SaaS für A/B-Testing und Preisoptimierung gegründet. Es richtet sich an DTC-E-Commerce-Marken und hat eine deutliche Präsenz im Shopify App Store aufgebaut. Grössere Eigentümerwechsel oder nennenswerte Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "Intelligems ist eine Shopify-Plattform für A/B-Testing ohne bedeutendes Missbrauchssignal; sie verarbeitet E-Commerce-Preis- und Conversion-Daten für legitime Marken und es sind keine Missbrauchsmuster dokumentiert."
+  },
+  "Intellimize": {
+    "description": "Intellimize ist eine Plattform, die Machine Learning nutzt, um Website-Erlebnisse in Echtzeit zu optimieren und Conversions zu erhöhen.",
+    "history": "Intellimize wurde 2016 in San Mateo, Kalifornien, von Guy Yalif, Brian Webb und Jin Lim gegründet, Veteranen von Yahoo, Twitter und BrightRoll. Das Unternehmen nahm über vier Finanzierungsrunden insgesamt 52 Millionen Dollar auf, darunter eine Runde über 30 Millionen Dollar. Es bot KI-gestützte Website-Personalisierung und Optimierung. Webflow übernahm Intellimize und benannte es in Webflow Optimize um.",
+    "summary_abuse": "Intellimize ist eine B2B-Plattform für Website-Optimierung, genutzt von Enterprise-Marketingteams. Als Teil von Webflow verarbeitet sie Verhaltensdaten von Besuchern für Personalisierungszwecke. Dokumentierte Missbrauchsvorfälle sind nicht gemeldet. Die Plattform hat nur minimale Endkundenexponierung, die für Betrug ausgenutzt werden könnte."
+  },
+  "IntenseDebate": {
+    "description": "IntenseDebate ist ein Blog-Kommentarsystem für Typepad-, Blogger- und Wordpress-Blogs. Es ermöglicht Blogbetreibern, Kommentare zentral zu verfolgen und zu moderieren, mit Funktionen wie Threading, Kommentar-Analytics, Nutzerreputation und Kommentaraggregation.",
+    "history": "IntenseDebate startete Ende 2007 als erweiterte Plattform für Blogkommentare. Automattic, das Unternehmen hinter WordPress, übernahm IntenseDebate im September 2008. Es lief unter Automattic als eigenständige Marke weiter, erhielt seitdem aber wenig Entwicklungsinvestitionen und ist weitgehend inaktiv.",
+    "summary_abuse": "IntenseDebate ist ein gehostetes Kommentarsystem im Besitz von Automattic. Kommentarplattformen können Spam und missbräuchliche Inhalte anziehen, doch IntenseDebate ist weitgehend inaktiv und hat eine kleine Nutzerbasis, was die Exponierung begrenzt. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "Interact": {
+    "description": "Interact ist ein Tool zum Erstellen von Online-Quizzen.",
+    "history": "Interact (tryinteract.com) wurde 2013 als Quiz-Builder-Plattform mit Fokus auf Leadgenerierung gegründet. Über die Plattform wurden mehr als 100 Millionen Leads generiert. Das Unternehmen wird unabhängig geführt, ohne bekannte Übernahmen oder grössere Eigentümerwechsel.",
+    "summary_abuse": "Interact ist eine Quiz-Marketing-Plattform für Leadgenerierung. Quiz-Plattformen können für phishing-ähnliches Social Engineering genutzt werden, wenn Ergebnis-Seiten schädliche Links oder falsche Gewinnversprechen enthalten, aber spezifische dokumentierte Missbrauchsmuster zu Interact sind nicht bekannt."
+  },
+  "InteractiveCalculator": {
+    "description": "InteractiveCalculator ist eine Plattform, mit der Nutzer individuelle Rechner erstellen und auf ihrer Website einbetten können.",
+    "history": "InteractiveCalculator ist eine SaaS-Plattform, mit der Nutzer einbettbare individuelle Rechner für ihre Websites erstellen können. Eine nennenswerte Eigentümergeschichte ist nicht dokumentiert.",
+    "summary_abuse": "InteractiveCalculator ist eine Plattform für einbettbare Rechner-Widgets ohne auffälliges Missbrauchssignal. Es ist ein Hilfswerkzeug für Websites und hat keine Endkundenoberfläche, die Betrüger typischerweise ausnutzen."
+  },
+  "Interago": {
+    "description": "Interago ist eine brasilianische Plattform, die moderne digitale Werkzeuge bündelt, um Online-Geschäftsabläufe zu unterstützen und zu straffen.",
+    "history": "Interago ist eine brasilianische digitale Plattform von Eco Webdesign mit Werkzeugen zum Erstellen von Websites, E-Commerce-Angeboten und Nachrichtenportalen für den brasilianischen SMB-Markt. Die Plattform bündelt CMS, CRM, E-Mail- und WhatsApp-Marketing sowie Analytics. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Interago ist eine brasilianische Nischenplattform für Websites ohne auffälliges Missbrauchssignal und ohne gemeldete Missbrauchsmuster."
+  },
+  "Interakt": {
+    "description": "Interakt ist eine Messaging-Plattform für Geschäftskommunikation mit Funktionen wie sicherem Messaging, Dateifreigabe und Kundensupport.",
+    "history": "Interakt wurde im Oktober 2021 von Jio Haptik Technologies gestartet, einer Tochtergesellschaft von Reliance Industries. Haptik selbst wurde 2013 gegründet und 2019 für rund 100 Millionen Dollar von Reliance Jio übernommen. Interakt entstand als WhatsApp Business API-Plattform für indische KMU und D2C-Marken. Die Plattform bedient über 5'000 Unternehmen und integriert sich direkt mit der offiziellen WhatsApp Business Platform.",
+    "summary_abuse": "Interakt ist eine WhatsApp-Business-Plattform mit begrenztem Missbrauchsrisiko. Als offizieller WhatsApp Business Solution Provider arbeitet sie unter Metas strengen API-Nutzungsregeln. Die Plattform richtet sich vor allem an indische KMU für legitime Geschäftskommunikation. Spezifische dokumentierte Missbrauchsvorfälle zu Interakt sind nicht bekannt. Bulk-WhatsApp-Messaging-Plattformen tragen allgemein ein gewisses Spam-Risiko, doch Interakts API-basierter Ansatz und BSP-Status bedeuten, dass die Plattform Metas Anti-Spam-Durchsetzung folgt."
+  },
+  "Intercom": {
+    "description": "Intercom ist ein amerikanisches Softwareunternehmen, das eine Messaging-Plattform anbietet, mit der Unternehmen mit potenziellen und bestehenden Kunden in ihrer App, auf ihrer Website, über Social Media oder per E-Mail kommunizieren können.",
+    "history": "Intercom wurde im Oktober 2011 in San Francisco von vier irischen Unternehmern gegründet: Eoghan McCabe, Des Traynor, Ciaran Lee und David Barrett, die zuvor die Designberatung Contrast betrieben hatten. Das Unternehmen prägte In-App-Kundenmessaging und wuchs zu einer umfassenden AI-first-Plattform für Kundenservice. Intercom nahm insgesamt 291,9 Millionen Dollar VC-Finanzierung auf und wurde 2018 mit einer Bewertung von 1,28 Milliarden Dollar zum Unicorn. Der Umsatz erreichte 2024 283 Millionen Dollar. Im März 2026 nahm das Unternehmen 250 Millionen Dollar Venture Debt von Hercules Capital auf.",
+    "summary_abuse": "Intercom ist eine weit verbreitete Kundenmessaging-Plattform mit niedrigem, aber nicht null Missbrauchsprofil. Das auf Kunden-Websites eingebettete JavaScript-Widget kann in Phishing-Kampagnen nachgeahmt werden, und Intercoms Chat-Infrastruktur wurde gelegentlich für unerwünschte Nachrichten genutzt. Das Unternehmen unterhält ein Responsible-Disclosure-Programm und setzt seine Nutzungsbedingungen aktiv durch. Insgesamt dominiert legitime Nutzung klar, und Intercom verfügt über starke Sicherheitszertifizierungen."
+  },
+  "Intercom Articles": {
+    "description": "Intercom Articles ist ein Tool zum Erstellen, Organisieren und Veröffentlichen von Hilfeartikeln.",
+    "history": "Intercom wurde 2011 in Dublin von Eoghan McCabe, Des Traynor, Ciarán Lee und David Barrett gegründet. Das Unternehmen nahm über 500 Millionen Dollar VC-Finanzierung auf, darunter 125 Millionen Dollar Series D von Kleiner Perkins im Jahr 2018 und 250 Millionen Dollar Fremdkapital von Hercules Capital im März 2026. Im Mai 2026 benannte das Unternehmen sein Kernprodukt in Fin um, behielt Intercom aber als Muttereinheit. Articles ist das Wissensdatenbank- und Help-Center-Modul.",
+    "summary_abuse": "Intercom Articles ist Teil der Intercom-Plattform für Kundenmessaging. Die Plattform hat kein auffälliges Missbrauchssignal. Intercoms Infrastruktur könnte theoretisch für Phishing-E-Mails genutzt werden, die Marken imitieren, welche die Messaging-Funktionen verwenden, das Unternehmen setzt jedoch Nutzungsrichtlinien durch."
+  },
+  "Internet Brands": {
+    "description": "Internet Brands ist ein Technologieunternehmen, das verschiedene Webportale und Online-Communities betreibt und Verbraucher sowie Unternehmen in mehreren Branchen mit Informationen und Diensten versorgt.",
+    "history": "Internet Brands wurde 1998 als CarsDirect.com aus Idealab heraus gegründet, wurde 2005 zu Internet Brands und ging 2007 an der NASDAQ an die Börse. 2010 wurde das Unternehmen von Hellman & Friedman für 640 Millionen Dollar und 2014 von KKR für 1,1 Milliarden Dollar übernommen. 2017 folgte die grosse Übernahme von WebMD und Medscape für 2,8 Milliarden Dollar. 2022 wurde es mit KKR, Temasek und Warburg Pincus bei einer Bewertung von über 12 Milliarden Dollar rekapitalisiert.",
+    "summary_abuse": "Internet Brands betreibt ein grosses Portfolio vertikaler Medienwebsites, darunter WebMD. Einige Foren und Community-Seiten des Unternehmens wurden mit Spam oder minderwertigen Inhalten in Verbindung gebracht. Als grosses Mediennetzwerk können einzelne Angebote schwache Inhaltsmoderation haben. Spezifische systemische Missbrauchsvorfälle sind nicht gut dokumentiert."
+  },
+  "InterRed": {
+    "description": "InterRed ist eine Softwareplattform für integrierte, zukunftssichere Publishing-Lösungen im digitalen und gedruckten Medienmanagement.",
+    "history": "InterRed GmbH ist ein deutscher Anbieter von CMS- und Redaktionssystemen mit Hauptsitz in Siegen, Deutschland, der vor allem deutschsprachige Printverlage und Medienunternehmen bedient. Zu den Kunden gehören Axel Springer, CHIP Online und ZEIT Sprachen. Axel Springer hält eine Minderheitsbeteiligung von 24,9 Prozent. Das Unternehmen blieb auf den deutschen Publishing-Markt fokussiert.",
+    "summary_abuse": "InterRed ist ein B2B-Redaktions-CMS für professionelle Publisher ohne Endkundenoberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Intersection Observer": {
+    "description": "Intersection Observer ist eine Browser API, mit der die Sichtbarkeit und Position eines DOM-Elements relativ zum umgebenden Root-Element oder Viewport beobachtet werden kann.",
+    "history": "Die Intersection Observer API wurde von Google-Ingenieuren vorgeschlagen und 2016 erstmals in Chrome implementiert; sie wurde zu einer W3C Candidate Recommendation, gepflegt von der Web Applications Working Group. Breite Browserunterstützung wurde bis März 2019 erreicht; sie ersetzte teure, polling-basierte Ansätze zur Sichtbarkeitserkennung.",
+    "summary_abuse": "Intersection Observer ist ein Browser-API-Standard ohne gehosteten Dienst und ohne Missbrauchssignal."
+  },
+  "Intershop": {
+    "description": "Intershop ist eine E-Commerce-Plattform, zugeschnitten auf komplexe Geschäftsprozesse und grosse Organisationen.",
+    "history": "Intershop wurde 1992 in Jena, Deutschland, als NetConsult von Stephan Schambach, Karsten Schneider und Wilfried Beeck gegründet. Das Unternehmen benannte sich in Intershop um und erstellte 1995 den ersten deutschen Onlineshop. Während der Dotcom-Blase erreichte es eine Bewertung von 11 Milliarden Dollar, fiel danach aber auf Penny-Stock-Niveau. Es überlebte als Anbieter von B2B-E-Commerce-Plattformen, ist an der Frankfurter Börse gelistet und bedient Enterprise-Kunden wie HP, BMW und Deutsche Telekom.",
+    "summary_abuse": "Intershop ist eine Enterprise-B2B-E-Commerce-Plattform ohne auffälliges Missbrauchssignal; sie wird von grossen Unternehmen genutzt und ist nicht mit verbraucherorientierten Betrugs- oder Scam-Mustern verbunden."
+  },
+  "Intervo": {
+    "description": "Intervo ist eine Plattform zum Aufbau und Betrieb von Enterprise-Voice-Agents in grossem Umfang, mit zuverlässiger Sprachautomatisierung, Systemintegration und Deployment in grossen Organisationen.",
+    "history": "Intervo ist eine Plattform für AI Voice Agents zum Aufbau und Betrieb von Enterprise-Sprachautomatisierung; sie ist sowohl Open Source als auch gehostet und richtet sich an gross angelegte Enterprise-Deployments.",
+    "summary_abuse": "Intervo ist eine Plattform für Sprachautomatisierung. AI Voice Agents könnten theoretisch für Voice-Phishing (Vishing) genutzt werden, für diesen Dienst sind jedoch keine spezifischen Missbrauchsvorfälle dokumentiert. Der Enterprise-Fokus reduziert das verbraucherorientierte Risiko."
+  },
+  "Intiaro": {
+    "description": "Intiaro ist ein Anbieter von Home-Decor- und Möbelprodukten, die beim Gestalten stilvoller Wohnräume unterstützen.",
+    "history": "Intiaro bietet 3D-Produktkonfiguration, Visualisierung und AR-Technologie für die Möbel- und Einrichtungsbranche. Der Hauptsitz liegt in Greensboro, North Carolina, mit Technologieteams in Polen. Im Oktober 2025 wurde Configurator 3.0 eingeführt. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Intiaro ist eine B2B-Plattform für 3D-Produktvisualisierung für Möbelmarken ohne auffälliges Missbrauchssignal."
+  },
+  "Intice": {
+    "description": "Intice ist ein Lead-Conversion-Tool für die Automobilbranche, das Kundeninteraktion und den Conversion-Prozess von Anfragen bis Verkäufen verbessert.",
+    "history": "intice wurde 2011 gegründet und ist ein auf die Automobilbranche fokussiertes Unternehmen für Lead Conversion und Incentive-Marketing-Technologie mit Sitz in Wesley Chapel, Florida. Das Unternehmen bietet patentierte Lead-Capture-Overlays und Digital-Retailing-Tools für Autohändler, einschliesslich Integrationen mit dem Honda Digital Solutions Program. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Intice ist ein spezialisiertes B2B-SaaS für Autohändler ohne auffälliges Missbrauchssignal. Lead-Capture-Overlays können aggressiv wirken, aber dokumentierte Dark Patterns oder Betrugsmuster speziell zu Intice sind nicht bekannt."
+  },
+  "Invenio": {
+    "description": "Invenio ist ein Open-Source-Softwareframework für grosse digitale Repositorien und bietet Werkzeuge zur Verwaltung digitaler Assets in institutionellen Repositorien und Forschungsdatenmanagement-Systemen.",
+    "history": "Invenio wurde am CERN erstellt und betreibt Zenodo, CERNs Open-Access-Forschungsrepositorium. Es ist ein MIT-lizenziertes Python-Framework für grosse digitale Repositorien und Forschungsdatenmanagement-Systeme. Genutzt wird es unter anderem bei SLAC, Fermilab, EPFL und weiteren Institutionen. 2019 schlossen sich Institutionen zusammen, um InvenioRDM als institutionsunabhängige Distribution zu entwickeln.",
+    "summary_abuse": "Invenio ist ein am CERN entwickeltes Open-Source-Framework für digitale Repositorien, das in akademischen und Forschungseinrichtungen genutzt wird. Es hat keine Endkundenoberfläche und kein bekanntes Missbrauchssignal."
+  },
+  "Inventrue": {
+    "description": "Inventrue erstellt Websites für Händler von Wohnmobilen, Motorsportfahrzeugen und Anhängern.",
+    "history": "Inventrue ist eine Website-Plattform für Händler von Wohnmobilen, Motorsportfahrzeugen und Anhängern; sie stellt Händler-Websites mit Bestandsverwaltung und Funktionen zur Lead-Generierung bereit. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Inventrue ist eine Nischenplattform für Händler-Websites im Wohnmobil- und Motorsportsektor ohne auffälliges Missbrauchssignal."
+  },
+  "Inveon": {
+    "description": "Inveon ist ein Technologieunternehmen, das E-Commerce-Infrastruktursoftware und M-Commerce-Anwendungen bereitstellt.",
+    "history": "Inveon wurde 2006 in Istanbul, Türkei, gegründet und ist eine Enterprise-E-Commerce-Plattform für digitalen B2B- und B2C-Handel mittelgrosser bis grosser Retail-Marken. Das Unternehmen betreibt über 500 Enterprise-Projekte in 15 Ländern und erschien von 2017 bis 2021 durchgehend in den Deloitte Technology Fast 50 für die Türkei.",
+    "summary_abuse": "Inveon ist eine Enterprise-Plattform für E-Commerce-Infrastruktur ohne auffälliges Missbrauchssignal; sie bedient legitime mittelgrosse bis grosse Retail-Marken in der Türkei und international."
+  },
+  "Inveterate": {
+    "description": "Inveterate ist eine Loyalty-Plattform für flexible, skalierbare Treueprogramme in verschiedenen Branchen.",
+    "history": "Inveterate wurde um 2021 in Greenville, South Carolina, als Shopify-native Plattform für Loyalty und Mitgliedschaften gegründet; sie richtet sich an DTC-Marken mit bezahlten Mitgliedschaften und Store-Credit-Programmen als Alternative zu klassischen punktbasierten Treuesystemen.",
+    "summary_abuse": "Inveterate ist ein Shopify-SaaS für Loyalty und Mitgliedschaften ohne auffälliges Missbrauchssignal."
+  },
+  "Invision Community": {
+    "description": "Invision Community ist eine skalierbare und anpassbare Plattform zum Aufbau und Wachstum von Online-Communities.",
+    "history": "Invision Power Services (IPS) wurde 2002 von Charles Warner und Matt Mecham gegründet, nachdem sie die Jarvis Entertainment Group verlassen hatten, der Ikonboard gehörte. Die Software hiess ursprünglich Invision Power Board (IPB). Version 4.0 war eine vollständige Neuentwicklung und erschien im April 2015. Die Suite wurde später in Invision Community umbenannt und ist heute sowohl als Cloud-Hosting- als auch als Self-Hosting-Option verfügbar.",
+    "summary_abuse": "Invision Community ist Forum- und Community-Software, die von vielen legitimen Websites genutzt wird. Auf der Plattform betriebene Foren können Spam-Bots oder missbräuchliche Nutzer anziehen, die Plattform selbst bietet jedoch Moderationswerkzeuge und zeigt kein systemisches Missbrauchsmuster."
+  },
+  "Invision Power Board": {
+    "description": "Invision Power Board ist eine kommerzielle Internetforum-Software, entwickelt von Invision Community, ehemals Invision Power Services.",
+    "history": "Invision Power Board war der ursprüngliche Name der Forumsoftware, die Invision Power Services (Charles Warner und Matt Mecham) 2002 entwickelte. Der Name wurde später zu Invision Community geändert, als das Produkt 2015 als vollständige Community-Suite neu positioniert wurde. IPB-Versionen unter 4.0 sind veraltet, aktiv weiterentwickelt wird nur noch die Marke Invision Community.",
+    "summary_abuse": "Invision Power Board ist der frühere Name der Forumsoftware Invision Community. Ältere IPB-Installationen können ungepatchte Schwachstellen enthalten und dadurch Missbrauchsrisiken schaffen, das Produkt selbst ist aber legitime Community-Software ohne systemisches Missbrauchsmuster."
+  },
+  "Invitario": {
+    "description": "Invitario ist eine Event-Marketing-Plattform für digitale Einladungen und Gästemanagement bei Business-Events.",
+    "history": "Invitario ist eine deutsche Plattform für Eventmanagement und RSVP, die sich an mittelgrosse Unternehmen und Grossunternehmen richtet. Die von Christoph Hütter und Stefan Grossek geführte Plattform betont GDPR-Konformität und unterstützt Live-, Hybrid- und virtuelle Events. Übernahmen oder grössere Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "Invitario ist ein B2B-SaaS für Corporate-Eventmanagement ohne auffälliges Missbrauchssignal."
+  },
+  "Invoca": {
+    "description": "Invoca ist ein Unternehmen für KI-gestütztes Call Tracking und Conversation Analytics.",
+    "history": "Invoca wurde 2008 in Santa Barbara, Kalifornien, gegründet. Das Unternehmen war ein früher Anbieter von KI-gestütztem Call Tracking und Conversation Intelligence, damit Marketer Offline-Telefonabschlüsse aus digitalen Kampagnen messen können. Insgesamt wurden 184 Mio. USD eingeworben, darunter 2022 eine Series F über 83 Mio. USD bei einer Bewertung von 1,1 Mrd. USD unter Führung von Silver Lake Waterman. 2024 erreichte Invoca 103,8 Mio. USD Umsatz.",
+    "summary_abuse": "Invoca ist eine Plattform für Call Tracking und Conversation Intelligence, die von Enterprise-Marketern genutzt wird. Call-Tracking-Systeme können für Caller-ID-Spoofing missbraucht werden, konkrete Vorfälle mit Invoca sind jedoch nicht dokumentiert. Das Unternehmen verarbeitet umfangreiche Telefonkonversationsdaten, was Datenschutzfragen aufwirft."
+  },
+  "Ionic": {
+    "description": "Ionic ist ein Open-Source-Framework, mit dem Entwickler plattformübergreifende Mobile-, Web- und Desktop-Anwendungen mit Webtechnologien wie HTML, CSS und JavaScript erstellen können.",
+    "history": "Ionic wurde 2013 von Max Lynch, Ben Sperry und Adam Bradley von Drifty Co. entwickelt. Die finale Version v1 erschien im Mai 2015, v4 führte im Januar 2019 Web Components und ein framework-agnostisches Design ein. Ionic wurde im November 2022 von OutSystems übernommen und wird weiterhin aktiv als Open-Source-Projekt entwickelt.",
+    "summary_abuse": "Ionic ist ein Open-Source-Framework für mobile Apps ohne auffälliges Missbrauchssignal. Es ist eine etablierte Technologie, die von Hunderttausenden Entwicklern für legitime plattformübergreifende Anwendungen genutzt wird."
+  },
+  "Ionicons": {
+    "description": "Ionicons ist ein Open-Source-Iconset für Web-, iOS-, Android- und Desktop-Apps.",
+    "history": "Ionicons ist eine kostenlose Open-Source-Iconbibliothek, die vom Ionic-Team entwickelt und gepflegt wird, heute unter OutSystems; sie bietet über 1'300 SVG-Icons mit Material-Design- und iOS-Varianten. Die Bibliothek erschien um 2013 zusammen mit dem Ionic-Framework unter MIT License.",
+    "summary_abuse": "Ionicons ist eine statische Open-Source-SVG-Iconbibliothek ohne gehosteten Dienst und ohne Missbrauchssignal."
+  },
+  "IONOS": {
+    "description": "IONOS ist ein Webhosting- und Cloud-Partner für kleine und mittlere Unternehmen.",
+    "history": "IONOS, früher 1&1, wurde 1988 in Deutschland gegründet. Das Unternehmen ist eine Tochtergesellschaft der United Internet AG. Ursprünglich als 1&1 Internet bekannt, wurde es 2018 in IONOS umbenannt, um die europäischen und US-amerikanischen Hosting-Marken zu vereinheitlichen. IONOS gehört zu den grössten Webhosting-Anbietern Europas.",
+    "summary_abuse": "IONOS ist ein grosser europäischer Webhosting-Anbieter. Wegen der hohen Skalierung und breiten Kundenbasis hostet die Plattform auch einzelne schädliche Inhalte, IONOS betreibt jedoch Abuse-Meldewege und arbeitet bei Takedown-Anfragen mit. Der Anbieter hatte historisch einen besseren Ruf bei der Abuse-Reaktion als manche Billiganbieter. Niedrige Einstiegspreise können dennoch Missbrauch anziehen."
+  },
+  "ip-api": {
+    "history": "ip-api.com ist seit 2012 als kostenlose und kommerzielle IP-Geolocation-API in Betrieb. Der Dienst verarbeitet über 1 Milliarde Anfragen pro Tag und wird von Tausenden Unternehmen weltweit genutzt. Das Unternehmen betreibt Server in den Regionen USA, EU und APAC. Gründungsorganisation und Hauptsitz sind nicht öffentlich offengelegt.",
+    "summary_abuse": "ip-api.com ist eine IP-Geolocation-API, die gelegentlich in Malware, Phishing-Kits und Betrugswerkzeuge eingebunden wird, um Opfer zu geolokalisieren und Angriffe nach Standort anzupassen. Die kostenlose Stufe verlangt keinen API-Key und keine Kontoregistrierung, wodurch Angreifer den Dienst leicht ohne Zuordnung in schädliche Tools einbetten können. Die grosse Mehrheit der Nutzer sind legitime Entwickler, dennoch gehört ip-api zu den häufiger gefundenen Geolocation-APIs in Phishing-Kits und Credential-Stealing-Malware."
+  },
+  "ip-label": {
+    "history": "ip-label ist ein französisches Unternehmen für Digital-Performance-Monitoring und Web Analytics, gegründet 1997. Es bietet Messungen der Netzwerk- und Anwendungsperformance für Enterprise-Kunden.",
+    "summary_abuse": "ip-label ist eine Enterprise-Plattform für digitale Performance-Analysen ohne auffälliges Missbrauchssignal; sie wird von grossen Organisationen zur Überwachung ihrer digitalen Dienste eingesetzt."
+  },
+  "IP2Location.io": {
+    "description": "IP2Location.io ist ein Webdienst, der über seine API Geolocation-Daten auf Basis von IP-Adressen bereitstellt, damit Entwickler genaue physische Standortinformationen in Anwendungen integrieren können.",
+    "history": "IP2Location wurde um 2002 in Malaysia als Anbieter von Geolocation-Datenbanken gegründet. Die Marke IP2Location.io ist das API-first-Angebot auf Basis der langjährigen IP2Location-Datenprodukte und richtet sich an Entwickler, die IP-basierte Geolocation-Daten über eine REST API benötigen.",
+    "summary_abuse": "IP2Location.io ist ein Geolocation-API-Dienst ohne auffälligen Missbrauch als Threat-Actor-Werkzeug. Geolocation-APIs können theoretisch von Betrugsakteuren für Footprinting genutzt werden, IP2Location.io selbst ist jedoch eine legitime Daten-API ohne bekannte Weaponization-Historie. Der Dienst verlangt API-Keys und bietet keinen anonymen Zugriff."
+  },
+  "iPaper": {
+    "description": "iPaper ist eine Plattform, die gedruckte Materialien in interaktive digitale Kataloge umwandelt, um Kundenbindung und Verkauf zu unterstützen.",
+    "history": "iPaper wurde 2006 in Aarhus, Dänemark, von Mark S. Rasmussen und Jesper Holm Joensen gegründet und 2008 offiziell als eigenes Unternehmen ausgegliedert. Das bootstrapped SaaS wandelt PDFs in interaktive digitale Kataloge um und ist organisch auf über 1'200 Marken weltweit gewachsen.",
+    "summary_abuse": "iPaper ist ein B2B-SaaS für digitale Kataloge ohne auffälliges Missbrauchssignal. Marken und Händler nutzen es zum Hosten von Produktkatalogen, und es bietet kein frei zugängliches Consumer-Hosting, das Phishing- oder Scam-Betreiber anziehen würde."
+  },
+  "ipapi": {
+    "description": "ipapi ist eine Echtzeit-REST-API für Geolocation und Reverse-IP-Lookups.",
+    "history": "ipapi ist ein API-Dienst für IP-Geolocation und Reverse Lookup. Ein auffälliges Gründungsdatum, Eigentümerwechsel oder grössere Ereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "ipapi ist eine IP-Geolocation-API mit kostenloser Stufe. Wie ähnliche Dienste kann sie von Angreifern genutzt werden, um Ziele zu lokalisieren oder Phishing-Seiten anzupassen, legitime Nutzung überwiegt jedoch und konkrete Vorfälle sind nicht dokumentiert."
+  },
+  "ipapi.co": {
+    "description": "ipapi.co ist ein Web-Analytics-Anbieter mit API für IP-Adress-Lookup und Standortdaten.",
+    "history": "ipapi.co wird von Kloudend, Inc., einem US-Unternehmen, entwickelt und betrieben. Der Dienst bietet IP-Adress-Lookup und Geolocation ohne Registrierung in der kostenlosen Stufe und wird von Fortune-500-Unternehmen genutzt.",
+    "summary_abuse": "ipapi.co ist eine IP-Geolocation-API, die vor allem von Backend-Systemen genutzt wird. Wie alle IP-Lookup-APIs kann sie von schädlichen Scripts für standortbasiertes Targeting abgefragt werden, dieses Muster ist jedoch begrenzt und legitime Nutzung überwiegt deutlich."
+  },
+  "IPB": {
+    "history": "Invision Power Board (IPB) wurde um 2002 von Charles Warner und Matt Mecham geschaffen und entwickelte sich zu einer der führenden kommerziellen Forumplattformen der 2000er-Jahre. In den 2010er-Jahren wurde das Produkt in Invision Community umbenannt, um die erweiterten Funktionen über Foren hinaus abzubilden, behielt aber kommerzielle Self-Hosted- und SaaS-Bereitstellungsoptionen bei.",
+    "summary_abuse": "Invision Community (IPB) ist eine legitime Plattform für Foren und Communities ohne auffälliges Missbrauchsprofil. Als Forumsoftware kann sie gelegentlich Spam oder problematische Inhalte in nutzerbetriebenen Communities hosten, das gilt jedoch für alle Forumplattformen und ist kein prägendes Merkmal. Der Anbieter setzt Nutzungsbedingungen durch."
+  },
+  "ipbase": {
+    "description": "ipbase bietet eine API mit Unterstützung für IPv4 und IPv6, die genaue Standortdaten aus IP-Adressen liefert.",
+    "history": "ipbase.com ist ein IP-Geolocation-API-Dienst, der vom everapihq-Team auf Laravel aufgebaut wurde. Er bietet 150 kostenlose Anfragen pro Monat und kostenpflichtige Pläne ab 9.99 USD pro Monat. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "ipbase.com ist eine IP-Geolocation-API ohne auffälliges Missbrauchssignal. Wie alle IP-Lookup-Dienste kann sie von automatisierten Scripts abgefragt werden, legitime Entwicklernutzung überwiegt jedoch."
+  },
+  "ipdata": {
+    "description": "ipdata ist eine JSON-API für IP-Adress-Geolocation, mit der sich der Standort von IPv4- und IPv6-Adressen abfragen lässt.",
+    "history": "ipdata.co ist eine API für IP-Geolocation und Threat Intelligence, die über 20 Milliarden Anfragen bedient hat; sie läuft in 11 AWS-Rechenzentren weltweit und wird von Kunden wie NASA und Disney genutzt. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "ipdata.co ist eine API für IP-Geolocation und Threat Intelligence. Wie alle IP-Datendienste kann sie von automatisierten Threat Actors abgefragt werden, dies ist jedoch nebensächlich gegenüber der primär legitimen Nutzung. Der Dienst enthält selbst Threat-Intelligence-Funktionen, mit denen Kunden Missbrauch erkennen können."
+  },
+  "IPFS": {
+    "description": "IPFS ist ein Peer-to-Peer-Hypermedia-Protokoll für ein verteiltes Hypermedia-Web.",
+    "history": "IPFS (InterPlanetary File System) wurde von Juan Benet bei Protocol Labs entworfen und 2014 veröffentlicht. Es ist ein inhaltsadressiertes Peer-to-Peer-Protokoll für Dateispeicherung. Protocol Labs hat das Ökosystem weiterentwickelt, darunter Filecoin für incentivierten Speicher.",
+    "summary_abuse": "IPFS wird stark zum Hosten von Phishing-Seiten, Malware und illegalen Inhalten missbraucht, weil seine verteilte Architektur Takedowns extrem erschwert. Sobald Inhalte gepinnt und verbreitet sind, ist eine Entfernung durch eine einzelne Partei praktisch kaum möglich. Sicherheitsforscher dokumentieren IPFS regelmässig als bevorzugte Hosting-Plattform für Phishing-Kits gegen Finanzinstitute und Kryptowährungsnutzer. Schädliche IPFS-Gateway-URLs umgehen häufig Blocklists."
+  },
+  "ipgeolocation": {
+    "description": "ipgeolocation ist eine IP-Geolocation-API und genaue IP-Lookup-Datenbank.",
+    "history": "ipgeolocation.io wurde Ende 2017 konzipiert und im Mai 2018 von JFreaks Software Solutions mit Sitz in Lahore, Pakistan, erstmals veröffentlicht. Der Dienst bietet eine kostenlose und kostenpflichtige IP-Geolocation-API sowie Datenbank mit Informationen zu IP-Standort, ISP, Zeitzone, Währung und Sicherheitsflags. Bis 2020 hatte der Dienst 700 Kunden und rund 290'000 USD Jahresumsatz erreicht.",
+    "summary_abuse": "ipgeolocation.io ist eine IP-Geolocation-API, die wie ähnliche Dienste in Malware und Phishing-Kits eingebunden werden kann, um Opfer zu geolokalisieren und Angriffe anzupassen. Die kostenlose Stufe nutzt API-Keys und begrenzte Quoten, was im Vergleich zu Diensten ohne Key etwas Zuordnung ermöglicht. Öffentlich sind keine spezifischen Missbrauchskampagnen oder Sicherheitsvorfälle dokumentiert, die ipgeolocation.io selbst zugeschrieben werden."
+  },
+  "ipify": {
+    "description": "ipify ist ein Dienst mit Produkten für Public-IP-Address-API, IP-Geolocation-API sowie VPN- und Proxy-Erkennung.",
+    "history": "ipify ist eine weit verbreitete Public-IP-Address-API mit einem einfachen Endpoint, der die öffentliche IP des Aufrufers zurückgibt. Der Dienst startete um 2014, hat Milliarden Anfragen bedient und wurde um Geolocation- und Proxy-Erkennungsdienste erweitert.",
+    "summary_abuse": "ipify ist eine API für öffentliche IP-Adressen und Geolocation mit kostenloser, nicht authentifizierter Stufe; sie wird sowohl in legitimen Anwendungen als auch in Phishing-Kits genutzt, die die IP eines Besuchers kennen müssen. Legitimer Einsatz überwiegt den Missbrauch deutlich."
+  },
+  "IPinfo": {
+    "description": "IPinfo ist ein Anbieter von IP-Adressdaten.",
+    "history": "IPinfo wurde um 2013 gegründet und gilt als vertrauenswürdiger globaler Anbieter für IP-Adressdaten und Intelligence. Das Unternehmen bietet Geolocation-, ASN-, VPN-Erkennungs-, Carrier- und Privacy-Detection-APIs, die von über 500'000 Entwicklern genutzt werden. Die kostenlose Stufe IPinfo Lite bietet unbegrenzte Anfragen für Daten auf Länder- und ASN-Ebene. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "IPinfo ist eine API für IP-Geolocation und Intelligence. Als Datenanreicherungsdienst wird sie breit für legitime Betrugserkennung und Sicherheitszwecke eingesetzt. Die bereitgestellten Daten zu IP-Adressen, darunter VPN-Erkennung und ASN-Informationen, werden selbst von Sicherheitsteams zur Bekämpfung von Missbrauch genutzt. Dokumentierte Vorfälle, in denen die Plattform für schädliche Zwecke weaponized wurde, sind nicht gemeldet."
+  },
+  "IPInfoDB": {
+    "description": "IPInfoDB ist eine API, die den Standort einer IP-Adresse zurückgibt.",
+    "history": "IPInfoDB ist eine kostenlose IP-Geolocation-Datenbank und API, die seit etwa 2009 betrieben wird; sie bietet herunterladbare Geolocation-Datenbanken und einen kostenlosen API-Key-basierten Lookup-Dienst ohne Anfragebegrenzung. Der Dienst wurde von Entwicklern und Netzwerktools wie Nmap breit für IP-Geolocation genutzt. Das Unternehmen scheint in kleinem Massstab unabhängig betrieben zu werden.",
+    "summary_abuse": "IPInfoDB ist ein IP-Geolocation-Lookup-Dienst, der Daten zu IP-Adressen bereitstellt. Wie alle Geolocation-Dienste können diese Daten von legitimen Sicherheitsteams genutzt oder in Kombination mit anderen Daten für gezielte Angriffe missbraucht werden. Die kostenlose API ohne Anfragebegrenzung senkt die Zugangshürden. Dokumentierte Vorfälle, in denen die Plattform aktiv für schädliche Zwecke weaponized wurde, sind nicht gemeldet."
+  },
+  "iPresta": {
+    "history": "iPresta wurde am 1. Mai 2011 in Mashhad, Iran, gegründet. Das Unternehmen ist offizielle PrestaShop-Premium-Agentur und Partner im Iran und bietet PrestaShop-Module, Themes und Entwicklungsleistungen mit RTL-Unterstützung (right-to-left). Das Unternehmen hat auch mit einem Büro in den VAE expandiert (iPresta UAE). iPresta ist insbesondere für das PrestaShop-RTL-Projekt auf GitHub verantwortlich und hat sich wegen internationaler Zahlungsbeschränkungen im Iran auf iran-spezifische Zahlungsintegrationen spezialisiert.",
+    "summary_abuse": "iPresta ist eine iranische PrestaShop-Agentur, die E-Commerce-Lösungen in einem Markt mit eingeschränktem Zugang zu internationalen Zahlungssystemen anbietet. Das Unternehmen selbst ist ein legitimer PrestaShop-Partner, der iranische Kontext wirft für Käufer ausserhalb Irans jedoch Fragen zu alternativen internationalen Zahlungen und möglicher Sanktions-Compliance auf. Konkrete dokumentierte Betrugs- oder Missbrauchsvorfälle im Zusammenhang mit Modulen oder Diensten von iPresta sind nicht bekannt."
+  },
+  "ipstack": {
+    "description": "ipstack ist eine Echtzeit-API für IP-zu-Geolocation, die Standortdaten auswertet und Sicherheitsbedrohungen von riskanten IP-Adressen einschätzt.",
+    "history": "ipstack ist eine Echtzeit-API für IP-Geolocation und Sicherheitsbedrohungen von apilayer, einem API-Marktplatz mit Sitz in Wien; sie ist eine von mehreren APIs im apilayer-Portfolio und hat Millionen Entwickleranfragen bedient.",
+    "summary_abuse": "ipstack ist eine Geolocation-API, die in Betrugs-Toolkits für geografisches Targeting integriert werden kann. Die kostenlose Stufe ist ohne KYC zugänglich. Legitimer Entwicklereinsatz überwiegt. Konkrete Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "iRaiser": {
+    "description": "iRaiser ist eine Plattform, die Hilfsorganisationen mit passenden Lösungen zur Optimierung und Verwaltung von Fundraising-Aktivitäten unterstützt.",
+    "history": "iRaiser ist eine niederländische Fundraising-Plattform, die Hilfsorganisationen angepasste Werkzeuge zur Verwaltung und Optimierung von Online-Spenden bietet; sie bedient vor allem Nonprofits in Europa.",
+    "summary_abuse": "iRaiser ist ein Fundraising-SaaS für Nonprofits ohne dokumentierte Missbrauchsfälle. Das auf Wohltätigkeitsorganisationen ausgerichtete Modell und die moderate Grösse bedeuten ein minimales Missbrauchsrisiko."
+  },
+  "Iress": {
+    "description": "Iress ist eine Plattform, die Softwarelösungen für die Finanzdienstleistungsbranche bereitstellt.",
+    "history": "Iress wurde 1993 in Australien von Peter Dunai, Neil Detering und Hung Do als Dunai Financial Systems gegründet. 1997 übernahm Bridge Information Systems 80 Prozent. Im Jahr 2000 erfolgte die Kotierung an der ASX als BridgeDFS. 2001 wurde das Unternehmen in Iress Market Technology und 2012 in Iress Limited umbenannt. Durch Übernahmen expandierte es global. Die Software wird von über 500'000 Nutzern in Finanzdienstleistungen eingesetzt.",
+    "summary_abuse": "Iress ist Enterprise-Software für Finanzdienstleistungen, die von regulierten Institutionen genutzt wird; sie hat keine Consumer-facing Oberfläche und kein auffälliges Missbrauchssignal."
+  },
+  "IrisLMS": {
+    "description": "IrisLMS ist ein umfassendes Bildungsmanagementsystem zur Unterstützung von E-Learning und zur Durchführung von Online- und Offline-Kursen mit passenden Funktionen.",
+    "history": "IrisLMS ist ein iranisches E-Learning- und Bildungsmanagementsystem für die Verwaltung von Online- und Offline-Kursen. Die Plattform wird unter irislms.ir gehostet und richtet sich an den iranischen Bildungsmarkt. Eine relevante öffentliche Eigentümer- oder Entwicklungsgeschichte ist nicht dokumentiert.",
+    "summary_abuse": "IrisLMS ist eine iranische LMS-Nischenplattform ohne auffälliges dokumentiertes Missbrauchssignal."
+  },
+  "Irroba": {
+    "history": "Irroba ist eine der ersten E-Commerce-Plattformen Brasiliens und wurde 1998 in Franca, Brasilien, gegründet. Das Unternehmen ist bootstrapped, wuchs bis 2024 auf 5,6 Mio. USD Jahresumsatz und ein Team von 67 Personen und hat über 21'000 Shops aktiviert. Es integriert sich mit wichtigen brasilianischen Marktplätzen und Zahlungsanbietern.",
+    "summary_abuse": "Irroba ist eine brasilianische E-Commerce-Plattform ohne spezifisch dokumentiertes Missbrauchssignal. E-Commerce-Plattformen können betrügerische Shops hosten, für Irroba sind jedoch keine spezifischen Muster von Scam-Shop-Hosting dokumentiert."
+  },
+  "ISAY": {
+    "description": "ISAY (Internet Pages Management) ist ein CMS-Dienst des türkischen Innenministeriums für Gouverneursämter, Bezirksgouverneursämter und verschiedene offizielle Websites.",
+    "history": "ISAY (Internet Sayfaları Yönetimi, also Internet Pages Management) ist ein proprietäres CMS, das vom türkischen Innenministerium und für dieses entwickelt wurde. Es verwaltet offizielle Regierungswebsites für Gouverneursämter, Bezirksgouverneursämter und verwandte Behörden in der Türkei.",
+    "summary_abuse": "ISAY ist ein regierungsinternes CMS, das ausschliesslich für türkische Staatswebsites genutzt wird. Es hat keine Consumer-facing Oberfläche, keine öffentliche Registrierung und ist ausserhalb offizieller Regierungsabläufe nicht zugänglich. Ein bekanntes Missbrauchsprofil zu diesem System gibt es nicht."
+  },
+  "iScripts": {
+    "description": "iScripts ist ein PHP-basiertes CMS-System für mehrere Produkttypen.",
+    "history": "iScripts ist ein US-amerikanischer Anbieter von PHP-CMS und Scripts, gegründet in den frühen 2000er-Jahren. Das Unternehmen bietet Web-Scripts für Community-Sites, Kleinanzeigen und soziale Netzwerke.",
+    "summary_abuse": "iScripts ist ein Nischenanbieter von PHP-CMS-Scripts. Die Scripts können zum Aufbau sozialer oder klassifizierter Plattformen genutzt werden, die missbraucht werden könnten, auffällige Missbrauchsvorfälle sind jedoch nicht dokumentiert."
+  },
+  "iSET": {
+    "description": "iSET ist eine E-Commerce-Plattform mit Werkzeugen zum Starten, Ausbauen und Skalieren von Online-Shops.",
+    "history": "iSET ist eine brasilianische E-Commerce-Plattform mit Werkzeugen für Erstellung und Verwaltung von Online-Shops; sie bedient den brasilianischen Markt seit vielen Jahren.",
+    "summary_abuse": "iSET ist ein brasilianisches E-Commerce-SaaS ohne dokumentierte auffällige Missbrauchsfälle."
+  },
+  "iSina Chat": {
+    "description": "iSina Chat ist ein Live-Chat-Dienst, der Online-Support und FAQ für Kunden bereitstellt.",
+    "history": "iSina Chat ist ein Live-Chat- und FAQ-Supportdienst der iSina agency. Auffällige Eigentümerwechsel oder eine öffentliche Geschichte sind nicht verfügbar.",
+    "summary_abuse": "iSina Chat zeigt kein auffälliges Missbrauchssignal. Es ist ein kleines Live-Chat-Tool mit begrenzter öffentlicher Präsenz und ohne dokumentierte Missbrauchshistorie."
+  },
+  "Isotope": {
+    "description": "Isotope.js ist eine JavaScript-Bibliothek, mit der sich Elemente auf einer Webseite einfach sortieren, filtern und in Masonry-Layouts anordnen lassen.",
+    "history": "Isotope ist eine JavaScript-Bibliothek für Filter-, Sortier- und Layoutfunktionen, erstellt von David DeSandro von Metafizzy und aufbauend auf seiner früheren Masonry-Layoutbibliothek; sie erschien um 2011 und nutzt ein duales Lizenzmodell: GPLv3 für Open-Source-Projekte und eine kommerzielle Lizenz für bezahlte Nutzung; sie wird weiterhin unabhängig von DeSandro gepflegt.",
+    "summary_abuse": "Isotope ist eine kleine Open-Source-JavaScript-Layoutbibliothek ohne gehosteten Dienst und ohne Missbrauchssignal."
+  },
+  "Isso": {
+    "description": "Isso ist ein leichtgewichtiger Kommentarserver in Python und JavaScript, dessen Name auf das deutsche \"Ich schrei sonst\" verweist.",
+    "history": "Isso ist ein leichtgewichtiges, selbst gehostetes Kommentarsystem in Python mit SQLite-Backend, entwickelt als datenschutzfreundliche Alternative zu Disqus. Es wurde zunächst von Martin Zimmermann entwickelt und später von Community-Beitragenden unter der GitHub-Organisation isso-comments gepflegt. Es steht unter MIT License und speichert alle Daten lokal.",
+    "summary_abuse": "Isso ist ein selbst gehostetes Kommentarsystem mit vollständiger Kontrolle durch den Betreiber. Es hat keine gehostete SaaS-Oberfläche und keine Infrastruktur zur Missbrauchsverfolgung, daher müssen Betreiber Spam selbst verwalten. Auffällige Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "Issuu": {
+    "description": "Issuu ist eine digitale Discovery- und Publishing-Plattform.",
+    "history": "Issuu wurde 2006 in Kopenhagen von Michael und Rubyn Bjerg Hansen, Mikkel Jensen und Martin Ferro-Thomsen gegründet. 2009 wurde es von Time zu einer der 50 besten Websites gezählt. 2013 zog der Hauptsitz nach Palo Alto. Insgesamt wurden 51,3 Mio. USD eingeworben. Am 19. Juli 2024 wurde Issuu von Bending Spoons, einem italienischen Mobile-App-Unternehmen, übernommen.",
+    "summary_abuse": "Issuu ist eine digitale Publishing-Plattform, auf der Nutzer Dokumente öffentlich hochladen und teilen können. Wegen der kostenlosen Stufe mit öffentlich zugänglichen Dokumenten wurde sie zur Verbreitung von raubkopierten Inhalten, spamlastigen E-Books und Phishing-Lockdokumenten genutzt. Die Plattform erhielt DMCA-Takedown-Anfragen und setzt Content-Moderation ein, die grosse Menge an Uploads begrenzt jedoch die Durchsetzung."
+  },
+  "It'seeze": {
+    "description": "It’seeze ist eine Website-Design-Plattform mit eigenem CMS für einfache Website-Aktualisierung und Verwaltung.",
+    "history": "it'seeze wurde 2003 im Vereinigten Königreich von Peter Campbell gegründet, ursprünglich als Druckunternehmen namens Spoton.net. Später entwickelte es sich zu einem Franchise-basierten Webdesign- und Hosting-Unternehmen für kleine Unternehmen im Vereinigten Königreich und Irland. Das Franchise-Modell hat ein Netzwerk lokaler Berater für Webdesign-Dienstleistungen geschaffen.",
+    "summary_abuse": "it'seeze ist ein britischer Franchise-Website-Builder für kleine Unternehmen ohne auffälliges Missbrauchssignal. Als Website-Hosting-Anbieter könnte die Plattform minderwertige oder spamartige Sites hosten, dokumentierte Muster systematischen Missbrauchs sind jedoch nicht bekannt."
+  },
+  "Italiaonline": {
+    "description": "Italiaonline ist eine Webplattform mit Werkzeugen und Diensten zum Erstellen und Verwalten von Websites.",
+    "history": "Italiaonline geht auf die italienischen Webportale Libero.it und Virgilio.it zurück. Das heutige Unternehmen entstand im Februar 2013 durch den Zusammenschluss von Matrix S.p.A. und Libero S.r.l. Im April 2014 wurde es in den Status einer S.p.A. überführt. Es ist Italiens führende Internetplattform und der wichtigste E-Mail-Dienst des Landes mit über 100 Mio. EUR Jahresumsatz.",
+    "summary_abuse": "Italiaonline betreibt die grossen italienischen Webportale Libero.it und Virgilio.it mit kostenlosen E-Mail- und Webdiensten. Kostenlose E-Mail- und Webhosting-Dienste italienischer Portale wurden historisch für Spam-Kampagnen genutzt, und insbesondere Libero.it-Adressen tauchten in Phishing- und Spam-Berichten auf, auch wenn die Plattform AUP-Durchsetzung betreibt."
+  },
+  "iTCHYROBOT": {
+    "description": "iTCHYROBOT ist eine Plattform, die Schulwebsites entwickelt und Marketingstrategien bereitstellt, um Kommunikation, Branding und digitales Engagement von Bildungseinrichtungen zu unterstützen.",
+    "history": "iTCHYROBOT ist eine CMS-Plattform aus dem Vereinigten Königreich, spezialisiert auf Schulwebsites und digitales Marketing für Bildungseinrichtungen.",
+    "summary_abuse": "iTCHYROBOT ist eine britische Nischenplattform für Schulwebsites ohne dokumentierte Missbrauchsfälle."
+  },
+  "Iterable": {
+    "description": "Iterable ist eine Cross-Channel-Marketingplattform für einheitliche Kundenerlebnisse.",
+    "history": "Iterable wurde 2013 in San Francisco von Andrew Boni und Justin Zhu, beide früher bei Twitter, gegründet, nachdem sie gesehen hatten, wie schwierig E-Mail-Personalisierung für Marketer war. Das Unternehmen nahm 343 Mio. USD in 10 Runden von Investoren wie Silver Lake, Viking Global, Capital One und CRV auf. Es erreichte eine Bewertung von 2 Mrd. USD. Aktueller CEO ist Sam Allen.",
+    "summary_abuse": "Iterable ist eine Enterprise-Plattform für Cross-Channel-Marketing-Automation. Massen-E-Mail-Plattformen wie Iterable könnten zum Versand von Spam genutzt werden, wenn Kontrollen versagen, Iterable setzt jedoch Anti-Spam-Richtlinien durch und verlangt Unternehmensverifikation. Konkrete dokumentierte Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "Iteras": {
+    "description": "Iteras ist ein Abonnentenverwaltungssystem, das Nutzerkonten organisiert, Abo-Aktivitäten verfolgt und kontrollierten Zugang zu digitalen Diensten unterstützt.",
+    "history": "Iteras wurde 2007 gegründet und bietet Aboverwaltungssoftware für nordische Medienunternehmen, darunter Zeitungen, Magazine und digitale Medien. Die Plattform wird vollständig in Europa entwickelt und gehostet. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Iteras ist eine B2B-Plattform für Abonnementverwaltung bei Medienunternehmen ohne auffälliges Missbrauchssignal."
+  },
+  "Iterate": {
+    "description": "Iterate ist ein Customer-Insights-Manager (CIM), der Website- und E-Mail-Umfragen ermöglicht, um Kundenerkenntnisse im ganzen Unternehmen zu nutzen.",
+    "history": "Iterate wurde 2016 in New York als leichtgewichtige Plattform für Customer Insights und Umfragen gegründet, die Startups hilft, Nutzerfeedback über Website-, E-Mail- und In-App-Umfragen zu sammeln. Das Unternehmen arbeitet unabhängig mit öffentlichen Preisen von einer kostenlosen Stufe bis zu bezahlten Plänen bis 99 USD pro Monat. Auffällige Finanzierungsrunden, Übernahmen oder Rebrandings sind nicht dokumentiert.",
+    "summary_abuse": "Iterate ist ein Tool für Umfragen und Customer Insights. Umfrageplattformen können gelegentlich genutzt werden, um Phishing-Links über Einladungs-E-Mails zu versenden, aber die kleine Skalierung und entwicklerorientierte Positionierung von Iterate begrenzen die relevante Missbrauchsfläche. Konkrete Vorfälle sind nicht dokumentiert."
+  },
+  "iThemes Security": {
+    "description": "iThemes Security, früher Better WP Security, ist ein Plugin zur Verbesserung von Sicherheit und Schutz deiner WordPress-Website.",
+    "history": "iThemes Security, ursprünglich Better WP Security, ist ein WordPress-Sicherheitsplugin, das um 2008 entstand. iThemes wurde 2018 von Liquid Web übernommen und 2023 im Rahmen der StellarWP-Markenfamilie in SolidWP umbenannt.",
+    "summary_abuse": "iThemes Security ist ein WordPress-Sicherheitsplugin ohne auffälliges Missbrauchssignal. Als defensives Werkzeug wird es typischerweise nicht von Angreifern ausgenutzt, veraltete Installationen jedes WordPress-Plugins können jedoch ein Schwachstellenvektor sein."
+  },
+  "Itoris": {
+    "description": "Itoris ist ein Entwickler von Widgets für E-Commerce-Plattformen und erstellt Werkzeuge, die die Funktionalität von Online-Shops erweitern.",
+    "history": "ITORIS Inc. ist ein kanadischer Entwickler von Magento-Erweiterungen, gegründet 2007 und ansässig in Dundas, Ontario. Das Unternehmen entwickelt seit über 15 Jahren Open-Source-Erweiterungen für Magento 1.x und Magento 2.x. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Itoris ist ein Marktplatz für Magento-Erweiterungen ohne auffälliges Missbrauchssignal. Er bietet legitime E-Commerce-Softwarewerkzeuge für Händler."
+  },
+  "iubenda": {
+    "description": "iubenda ist Compliance-Software, die Unternehmen für ihre Websites und Apps nutzen.",
+    "history": "iubenda wurde 2011 in Bologna, Italien, als Compliance-Softwareplattform gegründet, die Websites beim Erstellen rechtlich konformer Datenschutzerklärungen und Cookie-Banner unterstützt. Das Unternehmen wuchs auf über 150'000 Kunden weltweit. In den letzten Jahren schloss sich iubenda mit team.blue, einer europäischen Webservices-Gruppe, zusammen, blieb dabei aber operativ unabhängig.",
+    "summary_abuse": "iubenda ist ein Tool für Compliance und Cookie Consent ohne auffälliges Missbrauchssignal. Als Hilfsmittel für rechtliche Compliance wird es typischerweise von legitimen Unternehmen eingesetzt, die regulatorische Vorgaben erfüllen wollen, und es bietet keine Consumer-facing Oberfläche, die Betrüger gezielt ausnutzen würden."
+  },
+  "iugu": {
+    "description": "iugu ist eine Finanzmanagementplattform, mit der Unternehmen Zahlungen, Billing und Rechnungsstellung über ein einheitliches System abwickeln können.",
+    "history": "iugu ist eine brasilianische Fintech-Plattform, gegründet um 2012, die Infrastruktur für Zahlungsabwicklung, Billing und Rechnungsstellung für Unternehmen in Brasilien bereitstellt; sie bedient den brasilianischen Markt als Stripe-ähnliche Payments API.",
+    "summary_abuse": "iugu ist eine brasilianische Zahlungsplattform. Zahlungsabwickler haben Betrug und Chargebacks als normale operative Risiken, für iugu sind jedoch keine spezifischen dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "Ivory Search": {
+    "description": "Ivory Search ist ein WordPress-Suchplugin, das die WordPress-Suche mit erweiterten Optionen zum Ausweiten der Suche oder Ausschliessen bestimmter Inhalte verbessert.",
+    "history": "Ivory Search ist ein WordPress-Plugin, das die Standardsuche von WordPress durch erweiterte Filter- und Ausschlussoptionen ersetzt. Es wird über das WordPress.org-Plugin-Repository verteilt.",
+    "summary_abuse": "Ivory Search ist ein WordPress-Plugin zur Verbesserung der Suche ohne auffälliges Missbrauchssignal. Es erweitert die Site-Suche und hat keine Consumer-facing Oberfläche, die Betrüger ausnutzen würden."
+  },
+  "iWeb": {
+    "description": "iWeb ist ein Werkzeug zum Erstellen von Websites.",
+    "history": "iWeb war eine von Apple entwickelte Anwendung zur Website-Erstellung, die 2006 erstmals als Teil der iLife-Suite veröffentlicht wurde. Apple stellte iWeb 2011 ein und schaltete 2012 den Hosting-Dienst MobileMe ab, womit das Produkt faktisch endete.",
+    "summary_abuse": "iWeb war eine eingestellte Apple-Desktopanwendung zum Erstellen von Websites; sie hat keine Consumer-facing Oberfläche und kein dokumentiertes Missbrauchssignal."
+  },
+  "iWiki": {
+    "description": "iWiki ist ein niederländischer Anbieter von Content-Management-Systemen, früher bekannt als Kirra.",
+    "history": "iWiki ist eine niederländische CMS-Plattform, früher bekannt als Kirra, betrieben von der niederländischen Agentur iwink.nl. Neben dem Rebranding sind keine auffälligen Eigentümerwechsel oder Deprecation-Ereignisse dokumentiert.",
+    "summary_abuse": "iWiki ist eine niederländische CMS-Plattform ohne auffälliges Missbrauchssignal."
+  },
+  "iyzico": {
+    "description": "iyzico ist eine Plattform zur Verwaltung von Zahlungsbelegen, die E-Payment-Lösungen anbietet.",
+    "history": "iyzico wurde 2013 in Istanbul, Türkei, als Anbieter von Online-Zahlungslösungen gegründet. PayU, im Besitz von Naspers/Prosus, übernahm iyzico im Juni 2019 für 65 Millionen und machte es zu einem zentralen Teil der türkischen PayU-Aktivitäten. iyzico bedient in der Türkei grosse Händler wie Amazon, Nike, H&M und Zara.",
+    "summary_abuse": "iyzico ist eine legitime türkische Zahlungsplattform im Besitz von PayU. Zahlungsabwickler haben Betrug und Chargebacks als Standardrisiken, iyzico arbeitet jedoch unter den Compliance-Standards von PayU und es sind keine spezifischen dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "Izooto": {
+    "description": "iZooto ist ein Tool für Nutzerbindung und Retention, das Web-Push-Benachrichtigungen nutzt, um Unternehmen zu wiederkehrendem Traffic, Leads und Verkäufen zu verhelfen.",
+    "history": "iZooto wurde 2016 in Noida, Indien, von Vivek Khandelwal, Neel Kothari und Sachin Grover gegründet. Es ist eine Plattform für Web- und Mobile-Push-Benachrichtigungen mit Fokus auf Publisher und digitale Medienunternehmen. Das Unternehmen ist auf über 15'000 Unternehmen in mehr als 100 Ländern und über 1 Mio. USD ARR gewachsen, finanziert mit nur 100'000 USD von 17 Investoren.",
+    "summary_abuse": "iZooto ist eine Web-Push-Benachrichtigungsplattform für Publisher. Push-Notification-Dienste werden häufig von unseriösen Websites missbraucht, um Spam-Benachrichtigungen zu senden oder Nutzer auf schädliche Seiten zu locken. Websites mit iZooto können unerwünschte werbliche oder irreführende Benachrichtigungen verschicken. Da die Plattform auf Publisher zielt, hängt das Missbrauchsrisiko stark vom Site-Betreiber ab und weniger direkt von iZooto."
+  }
+}

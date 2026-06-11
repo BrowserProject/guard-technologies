@@ -1,0 +1,377 @@
+{
+  "YaBB": {
+    "history": "YaBB (Yet another Bulletin Board) erschien im Jahr 2000, SourceForge führt das Projekt mit Registrierung am 30.07.2000. Es blieb ein von Freiwilligen gepflegtes Forumprojekt ohne nennenswerte Übernahmen oder Rebrandings.",
+    "summary_abuse": "YaBB hat kaum eigenständige Missbrauchssignale. Es ist selbst gehostete Forumsoftware, daher hängt Missbrauch vom jeweiligen Betreiber ab und zeigt sich meist als gewöhnlicher Spam oder betrügerische Beiträge, nicht als plattformweiter Missbrauch. Es bietet keine zentrale Hosting-, Kurzlink- oder Custom-Domain-SaaS-Fläche, die Betrüger typischerweise anzieht."
+  },
+  "YachtSys": {
+    "description": "YachtSys ist ein System zur Verwaltung von Buchungen.",
+    "history": "YachtSys wird von S.C. IOmundo S.R.L. in Iași, Rumänien, betrieben. Das Unternehmen ist mindestens seit 2011 aktiv. Das Produkt wird seit vielen Jahren unter der Marke YachtBooker vermarktet, ohne dass auf der öffentlichen Website ein nennenswerter Eigentümerwechsel oder eine Einstellung erkennbar ist.",
+    "summary_abuse": "YachtSys hat kein nennenswertes Missbrauchssignal. Es ist ein spezialisiertes Booking-Management-SaaS für Yachtcharter-Unternehmen, keine verbrauchernahe Plattform, die Betrüger typischerweise gezielt nutzen. Die öffentliche Website zeigt normale Geschäftsfunktionen und Supportkontakte statt beliebigem Content-Hosting oder besonders riskanten Missbrauchsfunktionen."
+  },
+  "Yahoo Advertising": {
+    "description": "Yahoo Advertising umfasst eine breite Suite von Web-, Mobile- und Video-Werbeprodukten für Native Ads, Zielgruppenansprache und Premium-Display, zugänglich über eine neue Buying-Plattform.",
+    "history": "Yahoo wurde 1994 von den Stanford-Studenten Jerry Yang und David Filo gegründet. Das Werbegeschäft blieb auch nach späteren Eigentümerwechseln Teil der Marke Yahoo, darunter Apollos Übernahme von Yahoo von Verizon Media im Jahr 2021.",
+    "summary_abuse": "Yahoo Ads ist eine etablierte Ad-Tech-Plattform. Das Risiko liegt daher eher bei Malvertising, betrügerischen Werbemitteln und Traffic-Fraud als bei einer ausschliesslich missbräuchlichen Nutzung. Yahoo veröffentlicht Materialien zu Transparenz und Sicherheit, und The Paranoids betreiben ein öffentliches Bug-Bounty- und Disclosure-Programm. Das Werbenetzwerk-Modell macht die Plattform dennoch wiederholt zu einem Ziel für täuschende Kampagnen."
+  },
+  "Yahoo! Ecommerce": {
+    "history": "Der Dienst startete Ende der 1990er-Jahre als Yahoo! Store für E-Commerce von Kleinunternehmen. Später wechselte er zu Yahoo Small Business und wird heute als Turbify von Aabaco Small Business, LLC betrieben, einem Teil von Infinite Computer Solutions.",
+    "summary_abuse": "Als gehostete E-Commerce-Storefront-Plattform überwiegt legitime Nutzung, sie kann aber für Fake-Shops, gefälschte Angebote und betrügerische Storefronts missbraucht werden. Die Bedingungen und Website-Richtlinien von Turbify verbieten Spam, Betrug, Identitätsmissbrauch, gefälschte oder schädliche Waren und sehen Sperrung oder Kündigung mit Missbrauchsprüfungen vor. Das hilft, Missbrauch einzudämmen. Da es keinen Free Tier gibt, passt das klassische Freemium-Phishing-Modell weniger gut."
+  },
+  "Yahoo! Tag Manager": {
+    "history": "Yahoo! Tag Manager gehört zum Werbe-Stack von Yahoo Japan und wird nach der Reorganisation von Yahoo Japan und LINE im Jahr 2023 unter LY Corporation betrieben. LY Corporation wurde 1996 gegründet, der Dienst bleibt als gehostetes Tag-Management-Tool aktiv.",
+    "summary_abuse": "Yahoo! Tag Manager hat ein begrenztes Missbrauchssignal. Er wird vor allem legitim genutzt, um Analytics- und Werbe-Tags auf Websites zu verwalten. Das Hauptrisiko liegt in kompromittierten Konten oder unbefugter Script-Injektion auf einer Website, die den Container nutzt, nicht in eigenständiger Scam-Nutzung. LY Corporation hat eine unternehmensweite Cybersecurity-Policy, dieses Produkt ist aber nicht als häufige Missbrauchsplattform bekannt."
+  },
+  "Yahoo! Web Analytics": {
+    "history": "Yahoo! Web Analytics startete 2008, nachdem Yahoo IndexTools übernommen und umbenannt hatte. Yahoo stellte den Dienst 2012 ein.",
+    "summary_abuse": "Kein nennenswertes Missbrauchssignal: Yahoo! Web Analytics war ein legitimes SaaS zur Website-Messung für Marketing- und E-Commerce-Seiten, kein Dienst, der üblicherweise von Betrügern gezielt genutzt wurde. Das Hauptrisiko war gewöhnliches Analytics-Tracking auf eingebundenen Websites, nicht Phishing, Malware-Hosting oder Spam-Infrastruktur."
+  },
+  "YalinHost": {
+    "description": "YalinHost ist ein Anbieter von Webhosting-Diensten.",
+    "history": "YalinHost wurde 2021 als YalinHost Internet Hizmetleri von Yunus Emre Özeren in Bursa, Türkei, gegründet. Seit dem Start blieb es beim gleichen Inhaber und öffentlichen Auftritt, ohne auffindbare nennenswerte Übernahmen oder Rebrandings.",
+    "summary_abuse": "Standard-Hosting und VPS-Dienste haben eine gewisse Missbrauchsfläche, weil Kunden beliebige Websites hosten können und günstige Infrastruktur für Phishing oder Scam-Landingpages genutzt werden kann. Es gibt aber kein starkes öffentliches Signal, dass YalınHost besonders missbrauchslastig ist. Der sichtbare Schwerpunkt liegt auf legitimem Shared Hosting, Reseller-Hosting, Domains und VPS, mit öffentlich auffindbaren Support- und Billing-Kontakten auf der Website."
+  },
+  "Yamada UI": {
+    "description": "Yamada UI ist eine vielseitige React-Komponentenbibliothek.",
+    "history": "Yamada UI startete mit v1.0.0 am 25.12.2023 und veröffentlichte später v2.0.0 am 17.10.2025. Die Bibliothek wird von Hirotomo Yamada und Mitwirkenden gepflegt.",
+    "summary_abuse": "Yamada UI hat kein relevantes Missbrauchssignal. Es ist eine Open-Source-React-Komponentenbibliothek ohne gehosteten Dienst, Kontosystem oder Custom-Domain-Fläche, die Betrüger direkt ausnutzen könnten. Missbrauch wäre höchstens indirekt möglich, über schädliche Websites, die mit der Bibliothek gebaut wurden, nicht über die Bibliothek selbst."
+  },
+  "Yampi Checkout": {
+    "description": "Yampi Checkout ist ein Zahlungsabwickler aus Brasilien.",
+    "history": "Yampi wurde 2011 von Lucas Colette als BUBB gegründet, einem Webentwicklungsunternehmen in Ibitinga, Brasilien. 2014 startete der erste virtuelle Shop, 2016 der transparente Checkout. 2019 erfolgte das Rebranding von BUBB zu Yampi als vollständige E-Commerce-Plattform. Seit 2020 arbeitet das Unternehmen remote-first. Seit der Gründung sind keine nennenswerten Eigentümerwechsel oder Übernahmen bekannt.",
+    "summary_abuse": "Yampi Checkout ist ein brasilianischer Zahlungsabwickler ohne breit dokumentiertes Missbrauchsprofil. Als Checkout-Plattform für über 170'000 Händler sind einzelne betrügerische Storefronts möglich, sie bilden aber kein auffälliges Muster im Verhältnis zur legitimen Nutzung. Der Anbieter zeigt PCI-Zertifizierung und verweist auf robuste Betrugsprävention. Das Missbrauchsrisiko ist der Kategorie Zahlungsabwicklung inhärent, nicht spezifisch für Yampi."
+  },
+  "Yampi Virtual store": {
+    "description": "Yampi Virtual store ist eine E-Commerce-Plattform aus Brasilien.",
+    "history": "Yampi wurde 2011 in Ibitinga, Brasilien, von Lucas Colette als BUBB gegründet und baute zunächst Unternehmenswebsites. 2014 startete die erste Plattform für virtuelle Shops. 2019 erfolgte das Rebranding zu Yampi mit vollständiger E-Commerce- und Checkout-Plattform. Das Unternehmen wuchs auf über 170'000 Shops und wurde 2020 remote-first. Seitdem sind keine nennenswerten Eigentümerwechsel oder Einstellungen bekannt.",
+    "summary_abuse": "Yampi ist ein brasilianisches E-Commerce-SaaS. Wie die meisten gehosteten Storefront-Plattformen wird es gelegentlich für Fake-Shops und betrügerische Produktangebote genutzt, legitime KMU-Nutzung dominiert aber klar. Der Anbieter verlangt KYC (CPF/CNPJ und Kreditkartenregistrierung), veröffentlicht in den Nutzungsbedingungen eine AUP gegen gefälschte und illegale Waren, zeigt PCI-Sicherheitskonformität und bietet eine öffentlich erreichbare Beschwerdeseite (denuncias). Es sind keine breit dokumentierten Missbrauchskampagnen oder nennenswerten Sicherheitsvorfälle mit der Plattform verbunden."
+  },
+  "Yandex SmartCaptcha": {
+    "description": "Yandex SmartCaptcha ist ein Dienst zur Prüfung von Anfragen, um Nutzeranfragen zu erkennen und Bots zu blockieren.",
+    "history": "Yandex SmartCaptcha wurde um 2020 als Teil von Yandex Cloud gestartet, der Public-Cloud-Plattform des russischen Internetunternehmens Yandex. Der Dienst entwickelte sich aus Yandexs früherer Captcha-Technologie, die in eigenen Angeboten genutzt wurde. Im Juli 2024 verkaufte die niederländische Mutter Nebius Group Yandexs russische Vermögenswerte einschliesslich Yandex Cloud wegen Sanktionen im Zusammenhang mit Russlands Invasion der Ukraine für 5,3 Milliarden US-Dollar an ein Konsortium russischer Investoren.",
+    "summary_abuse": "Yandex SmartCaptcha ist ein Sicherheitsdienst zur Verhinderung automatisierten Missbrauchs und dient selbst nicht als Missbrauchsvektor. Als Captcha-Anbieter hat er kein relevantes Missbrauchssignal ausser den allgemeinen Datenschutzbedenken rund um Yandex und Datenverarbeitung unter russischem Recht."
+  },
+  "Yandex.Cloud": {
+    "description": "Yandex.Cloud ist eine Public-Cloud-Plattform, auf der Unternehmen Projekte mit Yandexs skalierbarer Rechenleistung, fortgeschrittenen Technologien und Infrastruktur erstellen und weiterentwickeln können.",
+    "history": "Yandex.Cloud startete im April 2018 als Closed Beta von Yandex, mit allgemeiner Verfügbarkeit später im selben Jahr. Im Oktober 2020 wurde es eine eigenständige Yandex-Geschäftseinheit. Im Rahmen der breiteren Unternehmensumstrukturierung von Yandex wurde das Cloud-Geschäft 2024 in den Verkauf der russischen Aktivitäten an ein Investorenkonsortium einbezogen.",
+    "summary_abuse": "Yandex Cloud ist eine Public-Cloud-Plattform mit IaaS- und PaaS-Diensten. Wie alle grossen Cloud-Anbieter kann sie für Phishing-Seiten, Malware-C2-Infrastruktur und Cryptomining missbraucht werden, doch Missbrauch macht nur einen kleinen Teil der Gesamtnutzung aus. Yandex veröffentlicht eine Acceptable Use Policy, bietet DDoS-Schutzdienste und unterhält übliche Kanäle für Abuse-Meldungen. Es sind keine öffentlichen Vorfälle bekannt, die im Vergleich zu ähnlichen Cloud-Plattformen auf erhöhten Missbrauch hinweisen."
+  },
+  "Yandex.Cloud CDN": {
+    "description": "Yandex.Cloud CDN hilft dir, die Auslieferung statischer Inhalte für deinen Webdienst zu optimieren.",
+    "history": "Yandex Cloud einschliesslich des CDN-Dienstes startete 2018 als Public-Cloud-Plattform von Yandex, mit Closed Beta im April 2018 und Technical Preview im September 2018. Yandex selbst wurde 2000 von Arkady Volozh und Ilya Segalovich gegründet und wuchs zum grössten Technologieunternehmen Russlands. Im Juli 2024 verkaufte die niederländische Holding Yandex N.V. (umbenannt in Nebius Group) die russischen Aktivitäten einschliesslich Yandex Cloud wegen internationaler Sanktionen für 5,3 Milliarden US-Dollar an ein Konsortium russischer Investoren. Yandex Cloud CDN läuft unter der neuen Eigentümerstruktur weiter.",
+    "summary_abuse": "Yandex.Cloud CDN ist ein von Yandex betriebenes Content Delivery Network, das vor allem russische und GUS-Märkte bedient. Als CDN-Infrastrukturdienst mit nutzungsbasierter Abrechnung und ohne kostenlosen Custom-Domain-Tier ist die Missbrauchsfläche im Vergleich zu verbrauchernahen Plattformen begrenzt. Yandex veröffentlicht eine Acceptable Use Policy, DDoS-Schutz ist enthalten. Der Dienst nutzt EdgeCenters Infrastruktur für CDN-Knoten und berechnet Traffic pro GB, wodurch kein wirtschaftlicher Anreiz für Missbrauchs-Hosting entsteht. Für Yandex Cloud CDN selbst sind keine erheblichen öffentlichen Missbrauchsvorfälle dokumentiert. Yandex betreibt ein Bug-Bounty-Programm und pflegt Richtlinien für Responsible Disclosure."
+  },
+  "Yandex.Direct": {
+    "description": "Yandex Direct ist die Plattform zur Verwaltung gesponserter Anzeigen.",
+    "history": "Yandex.Direct startete 2001 als kontextbezogene Werbeplattform für Yandex Search, die dominierende Suchmaschine Russlands. Es gehörte zu den ersten Pay-per-Click-Werbesystemen im russischen Markt. Im Juli 2024 verkaufte die niederländische Mutter Nebius Group (früher Yandex N.V.) nach internationalen Sanktionen wegen des Ukraine-Kriegs alle russischen Vermögenswerte einschliesslich Yandex.Direct für 5,3 Milliarden US-Dollar an ein Konsortium russischer Investoren. Yandex LLC ist heute ein privat gehaltenes russisches Unternehmen im Besitz eines Konsortiums, zu dem Lukoil und das Senior Management gehören.",
+    "summary_abuse": "Yandex.Direct ist eine Werbeplattform mit dokumentierten Missbrauchsmustern, wie sie bei grossen Werbenetzwerken typisch sind. Ein Bericht des Bureau of Investigative Journalism aus dem Jahr 2022 fand, dass Yandex-Anzeigen Falschinformationen über Russlands Krieg in der Ukraine bewarben. Die Plattform nutzt umfangreiches Nutzertracking über Yandex.Metrica für Werbetargeting. Als russisches Unternehmen unterliegt Yandex dem Yarovaya-Gesetz, das Datenweitergabe an Behörden verlangt, und war mit Forderungen des FSB nach Verschlüsselungsschlüsseln und Nutzerdaten konfrontiert. Werbetreibende können Nutzer mit relativ detaillierten demografischen und verhaltensbezogenen Profilen ansprechen. Click-Fraud, irreführende Angebote und Scam-Landingpages sind typische Missbrauchsvektoren in regionalen Werbemärkten. Die Missbrauchsbekämpfung wird durch russischen Regierungsdruck auf Content-Moderation erschwert. Die Plattform bietet keine anonyme Registrierung, Werbetreibende müssen Unternehmensregistrierungsdaten angeben."
+  },
+  "Yandex.Messenger": {
+    "description": "Yandex.Messenger ist eine Instant-Messaging-Anwendung.",
+    "history": "Yandex.Messenger ist eine Instant-Messaging- und Live-Chat-Anwendung von Yandex, dem russischen Technologieunternehmen, das 1997 von Arkady Volozh und Ilya Segalovich gegründet wurde. Die eigenständige Messenger-App erschien um 2020 und baute auf früheren Kommunikations- und Dialogplattformen von Yandex auf. Im Juli 2024 wurden Yandexs russische Aktivitäten aus der niederländischen Holding Nebius Group herausgelöst und an ein Konsortium russischer Investoren verkauft, wodurch Yandex LLC zu einer eigenständig besessenen Einheit wurde.",
+    "summary_abuse": "Yandex.Messenger hat ein niedriges Missbrauchsprofil. Als Live-Chat- und IM-Plattform, die vor allem in Russland und GUS-Märkten genutzt wird, ist sie kein bevorzugtes Werkzeug für globale Phishing- oder Scam-Operationen. Yandex pflegt eine Acceptable Use Policy und betreibt ein Bug-Bounty-Programm. Der wichtigste Missbrauchsvektor wäre Social Engineering über eingebettete Live-Chat-Widgets, ein generisches Risiko aller solchen Kundenkommunikationsplattformen. Für dieses Produkt sind keine grossen öffentlichen Vorfälle systematischen Missbrauchs dokumentiert."
+  },
+  "Yandex.Metrika": {
+    "description": "Yandex.Metrica ist ein kostenloser Webanalyse-Dienst, der Website-Traffic erfasst und auswertet.",
+    "history": "Yandex.Metrika wurde 2008 von Yandex gestartet und 2009 als kostenloser Webanalyse-Dienst öffentlich verfügbar. Die Plattform wuchs zur weltweit drittmeistgenutzten Webanalyse-Lösung und erreichte in russischsprachigen Märkten eine dominante Stellung; sie führte innovative Funktionen wie die Webvisor-Session-Replay-Technologie ein. Später kam mit Metrika Pro ein kostenpflichtiger Tier für Enterprise-Nutzer mit höheren Datenlimits und erweiterten Funktionen hinzu. Die Integration mit der Werbeplattform Yandex.Direct ist eng.",
+    "summary_abuse": "Yandex.Metrica ist ein JavaScript-basierter Webanalyse-Dienst, der auf Millionen Websites eingesetzt wird, um Besucherverkehr und Verhaltensdaten zu erfassen. Wie alle Analytics-Plattformen verarbeitet er erhebliche Mengen an Besucherdaten, was Datenschutzfragen zu Tracking und Datenverarbeitung aufwirft. Yandex stellt Opt-out-Mechanismen und Kontrollen zur Datenverarbeitung bereit. Es sind keine nennenswerten Vorfälle dokumentiert, bei denen Yandex.Metrica gezielt für grossflächigen Missbrauch ausgenutzt wurde, auch wenn die breitere Webanalyse-Kategorie wegen Cross-Site-Tracking und Datenaufbewahrung dauerhaft unter Datenschutzbeobachtung steht."
+  },
+  "Yapla": {
+    "description": "Yapla ist eine webbasierte Softwareplattform mit Lösungen für Eventmanagement und Fundraising für Non-Profit-Organisationen, Vereine und Eventplaner.",
+    "history": "Yapla wurde 2013 in Frankreich gegründet, um Non-Profit-Organisationen All-in-one-Software für Verwaltung, Fundraising und Zahlungen bereitzustellen. Das Unternehmen expandierte nach Kanada, Italien und Belgien. Seit der Gründung sind keine nennenswerten Eigentümerwechsel, Übernahmen oder Einstellungen bekannt.",
+    "summary_abuse": "Yapla ist eine Plattform für Non-Profit-Management und Zahlungen mit minimalem Missbrauchssignal; sie arbeitet vor allem in regulierten EU-Märkten, verarbeitet Zahlungen für geprüfte Vereine und bietet einen Free Tier mit Website-Baukasten. Der vereinsorientierte Zielmarkt und die französische Regulierung verringern die Missbrauchsfläche. In öffentlicher Sicherheitsforschung fanden sich keine dokumentierten Muster von Phishing- oder Scam-Missbrauch."
+  },
+  "Yaws": {
+    "description": "Yaws (Yet Another Web Server) ist ein Open-Source-Webserver für effiziente Auslieferung dynamischer Inhalte. Er wurde von Claes (klacke) Wikström entwickelt und ist in Erlang geschrieben, einer funktionalen Programmiersprache.",
+    "history": "Yaws wurde um 2002 von Claes (klacke) Wikstrom als hochgradig nebenläufiger Webserver in Erlang geschaffen. Aufmerksamkeit erhielt er durch einen Benchmark von 2002 im SICS-Labor, bei dem 80'000 gleichzeitige Verbindungen gegenüber 4'000 bei Apache verarbeitet wurden. Das Projekt wird von der Erlang-Community unter der GitHub-Organisation erlyaws gepflegt, die Lead-Maintenance ging an Steve Vinoski über. Es gab keine grossen Forks oder Eigentümerwechsel.",
+    "summary_abuse": "Yaws ist ein selbst gehosteter Open-Source-Webserver ohne nennenswertes Missbrauchssignal. Er hat keine verbrauchernahe Oberfläche, keine kostenlose Hosting-Plattform und keinen anonymen Registrierungsfluss, den Betrüger ausnutzen könnten. Als Backend-Infrastrukturkomponente auf eigenen Servern hängt das Missbrauchsrisiko von Konfiguration und Betrieb ab, nicht von der Software selbst."
+  },
+  "Yay! Forms": {
+    "description": "Yay! Forms ist ein KI-gestütztes Tool zum Erstellen von Formularen und Umfragen, das Stimmungen der Zielgruppe erfassen soll.",
+    "history": "Yay! Forms entstand um 2022 als US-basierter KI-gestützter Form Builder und Alternative zu Typeform und Jotform. Anfangs zielte es auf brasilianische und LATAM-Märkte, mit brasilianisch-portugiesischen und spanischen Admin-Oberflächen seit November 2023. Es ist ein kleines unabhängiges Startup ohne offengelegte Finanzierung.",
+    "summary_abuse": "Yay! Forms ist ein Form-Builder-SaaS mit inhärenten Missbrauchsrisiken: Custom-Subdomain ab dem Plus-Tier, Custom Domain ab dem Professional-Tier, eine 7-tägige kostenlose Testphase ohne Kreditkarte sowie integriertes Facebook Pixel, GA4 und GTM in höheren Plänen. Diese Merkmale können für Phishing-Hosting attraktiv sein. Der Anbieter ergänzte im Oktober 2024 automatischen Bot-Schutz. Es sind keine nennenswerten öffentlichen Vorfälle breiten Missbrauchs dokumentiert, und die Plattform bleibt relativ klein (44'000 Nutzer)."
+  },
+  "Ybug": {
+    "description": "Ybug ist ein visuelles Feedback- und Bug-Tracking-Tool für Nutzer und Kunden, mit dem Probleme erkannt und gemeldet werden können.",
+    "history": "Ybug wurde um 2018 als Ybug s.r.o. gegründet, ein tschechisches SaaS für visuelles Feedback und Bug Tracking. Es wuchs auf über 1'000 Teams mit Integrationen in Jira, Slack, GitHub, ClickUp und Asana und erhielt G2 High Performer Awards. Es sind keine nennenswerten Eigentümerwechsel oder Übernahmen bekannt.",
+    "summary_abuse": "Ybug ist ein visuelles Feedback-Widget, das auf Kunden-Websites für Bug Tracking eingebettet wird. Die Erfassung annotierter Screenshots könnte theoretisch missbraucht werden, dokumentierte Fälle gibt es aber nicht. Der Anbieter sitzt in der EU, ist GDPR-konform und bietet EU-gehostete Infrastruktur. Das Tool erfordert bewusste Website-Integration und bietet kein anonymes Content-Hosting, keine URL-Kürzung und keine Massenkommunikationsfunktionen, die typischerweise Missbrauch anziehen."
+  },
+  "Yclas": {
+    "description": "Yclas ist eine Plattform, mit der Nutzer anpassbare Online-Kleinanzeigenseiten erstellen und verwalten können, sowohl als gehosteter Dienst als auch als selbst gehostete Open-Source-Lösung.",
+    "history": "Yclas hiess ursprünglich Open Classifieds und wurde 2009 als kostenloses Open-Source-PHP-Script für Kleinanzeigen erstellt. Später wurde es zu Yclas umbenannt und um ein Angebot aus selbst gehosteter Open-Source-Version und cloudgehostetem SaaS erweitert.",
+    "summary_abuse": "Yclas ist eine Kleinanzeigenplattform, auf der Nutzer Anzeigen veröffentlichen können. Kleinanzeigenseiten können für Scam-Angebote genutzt werden, etwa gefälschte Verkaufsartikel oder Mietbetrug, wobei das Risiko dem anderer Marktplatzplattformen entspricht. Durch die selbst gehostete Open-Source-Natur hängt Missbrauch stark davon ab, wie einzelne Betreiber ihre Communities moderieren."
+  },
+  "Ycode": {
+    "description": "Ycode ist eine No-Code-Entwicklungsplattform, mit der Nutzer Web- und Mobile-Anwendungen ohne Programmierkenntnisse erstellen können.",
+    "history": "Ycode startete um 2020 als No-Code-Builder für Websites und Web-Apps, der visuelles Frontend-Design mit Backend-CMS-Funktionen verbindet und sich als Webflow-Alternative mit Workflow Builder positioniert.",
+    "summary_abuse": "Ycode ist ein No-Code-Website-Builder ohne nennenswertes Missbrauchssignal. Er bietet gehostete Websites unter eigenen Domains, doch legitime Nutzung dominiert klar und es sind keine bedeutenden Phishing- oder Scam-Hosting-Vorfälle dokumentiert."
+  },
+  "Yektanet": {
+    "description": "Yektanet ist das grösste und fortschrittlichste Native-Advertising-Netzwerk im Iran.",
+    "history": "Yektanet wurde 2016 gegründet und wuchs zum grössten Native-Advertising-Netzwerk im Iran. Es erreicht monatlich über 25 Millionen Unique User und arbeitet mit mehr als 500 grossen persischsprachigen Medienpartnern zusammen.",
+    "summary_abuse": "Yektanet ist ein iranisches Werbenetzwerk, das vor allem innerhalb des iranischen Internet-Ökosystems arbeitet. Als Ad-Tech-Plattform sammelt es Verhaltensdaten für Targeting und liefert Tracking-Pixel aus. Es sind keine spezifischen internationalen Missbrauchsberichte dokumentiert, die Plattform operiert jedoch ausserhalb der GDPR-Jurisdiktion und bietet begrenzte Transparenz."
+  },
+  "Yell eCommerce": {
+    "description": "Yell eCommerce ist ein Dienst für E-Commerce-Website-Design mit Fokus auf Kundengewinnung und Umsatzsteigerung.",
+    "history": "Yell ist die britische Branchenverzeichnis-Marke, historisch bekannt als Yellow Pages. Yell eCommerce ist ein Managed-Website- und Online-Shop-Produkt für kleine Unternehmen im Vereinigten Königreich, das über eine Partnerschaft von 2023 heute auf Wix-Technologie basiert.",
+    "summary_abuse": "Yell eCommerce hat kein nennenswertes Missbrauchssignal. Es ist ein Managed-Website-Dienst für britische Kleinunternehmen ohne verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "yellow.ai": {
+    "description": "yellow.ai bietet Chatbot- und Automatisierungsdienste an.",
+    "history": "yellow.ai wurde 2016 in Bangalore, Indien, von Raghu Ravinutala und Jaya Kishore Reddy gegründet. Ursprünglich auf Chatbot-Automatisierung ausgerichtet, entwickelte es sich zu einer vollständigen Conversational-AI-Plattform für Enterprise-Kundendienst über Messaging-Kanäle. Das Unternehmen nahm rund 102 Millionen US-Dollar Finanzierung auf, darunter 2021 eine Series C über 78,15 Millionen US-Dollar, und bedient weltweit grosse Enterprise-Kunden.",
+    "summary_abuse": "yellow.ai ist eine Enterprise-Plattform für Conversational AI und Chatbots ohne nennenswertes Missbrauchssignal; sie wird Enterprise-Kunden für Kundendienstautomatisierung verkauft und ist keine verbrauchernahe Plattform, die Phishing- oder Scam-Aktivität anziehen würde."
+  },
+  "Yelp Reservations": {
+    "description": "Yelp Reservations ist ein cloudbasiertes Restaurant-Management-System.",
+    "history": "Yelp Reservations, heute als Yelp Guest Manager vermarktet, ist ein Produkt von Yelp Inc. (gegründet 2004, NYSE: YELP) für Tischmanagement und Online-Reservierungen in Restaurants. Das Produkt entwickelte sich von einfachen Reservierungs-Widgets zu einem vollständigen Gästemanagementsystem im Wettbewerb mit OpenTable und Resy.",
+    "summary_abuse": "Yelp Reservations hat kein nennenswertes Missbrauchssignal. Es ist ein Restaurant-Management-SaaS ohne verbrauchernahe Fläche, die Betrüger typischerweise gezielt nutzen."
+  },
+  "Yelp Review Badge": {
+    "description": "Yelp Review Badges zeigen Unternehmensbewertungen von Yelp auf Websites an.",
+    "history": "Yelp Review Badge ist ein kostenloses einbettbares Widget von Yelp Inc. (gegründet 2004, NYSE: YELP), mit dem Unternehmen ihre Yelp-Sternebewertungen und die Anzahl Bewertungen auf eigenen Websites anzeigen können.",
+    "summary_abuse": "Yelp Review Badge ist ein einbettbares Anzeige-Widget ohne nennenswertes Missbrauchssignal. Das Widget zeigt nur Bewertungsdaten von Yelps Plattform und bietet weder nutzergehostete Inhalte noch anonyme Registrierungswege, die Betrüger anziehen würden."
+  },
+  "Yepcomm": {
+    "history": "Yepcomm ist eine E-Commerce-Plattform. Zur Geschichte oder Eigentümerschaft sind nur wenige öffentliche Informationen verfügbar.",
+    "summary_abuse": "Auf Basis der verfügbaren Informationen hat Yepcomm kein nennenswertes Missbrauchssignal."
+  },
+  "Yeps": {
+    "description": "Yeps ist eine minimalistische Leiste, die oben oder unten auf deiner Website eingebunden werden kann, um E-Mail-Adressen von Besuchern zu sammeln und Inhalte zu bewerben.",
+    "history": "Yeps ist ein E-Mail-Opt-in-Bar-Tool, mit dem über ein minimalistisches Website-Banner E-Mail-Abonnenten gesammelt werden. Es sind kein nennenswertes Gründungsdatum und keine Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Yeps ist ein Widget zur E-Mail-Erfassung. Tools zur E-Mail-Erfassung können zum Sammeln von Adressen für Spam missbraucht werden, für Yeps sind aber keine spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "YesWiki": {
+    "description": "YesWiki ist freie Software unter der AGPL-Lizenz zur kollaborativen Erstellung und Verwaltung von Websites; sie ermöglicht Webnutzern, Seiten mit unbegrenzt vielen Bearbeitern oder Seiten zu erstellen, zu löschen, zu bearbeiten oder zu kommentieren.",
+    "history": "YesWiki ist eine französische Open-Source-Wiki-Software, die um 2012 als Fork von WakkaWiki entstand; sie richtet sich an gemeinschaftliche Zusammenarbeit und partizipative Werkzeuge für Vereine und Kollektive.",
+    "summary_abuse": "YesWiki ist ein selbst gehostetes Open-Source-Wiki ohne nennenswertes Missbrauchssignal. Der Einsatzzweck ist Community-Zusammenarbeit, ohne verbrauchernahe Betrugsfläche."
+  },
+  "Yett": {
+    "description": "Yett ist eine kleine Webseitenbibliothek zur Steuerung der Ausführung von Scripts Dritter, etwa Analytics.",
+    "history": "Yett ist eine kleine Open-Source-JavaScript-Bibliothek von Julien Blatecky (elbywan auf GitHub); sie ermöglicht Entwicklern, die Ausführung von Drittanbieter-Scripts zu steuern und so GDPR-konforme Workflows mit Einwilligung vor Analytics umzusetzen. Es sind keine nennenswerten Eigentümerwechsel oder Forks bekannt.",
+    "summary_abuse": "Yett hat kein Missbrauchssignal. Es ist eine kleine OSS-Bibliothek, die Script-Ausführung bis zur Nutzereinwilligung blockiert, ohne verbrauchernahe Oberfläche."
+  },
+  "Yever": {
+    "description": "Yever ist eine digitale Zahlungs- und Checkout-Plattform, die sichere Online-Transaktionen für Unternehmen und Kunden ermöglicht.",
+    "history": "Yever ist ein brasilianisches Fintech-Startup mit Sitz in Belo Horizonte. Es bietet ein integriertes Payment Gateway und eine intelligente Checkout-Plattform für kleine und mittlere E-Commerce-Unternehmen in Brasilien. Bis 2024 hatte das Unternehmen Transaktionen im Wert von über R$400 Millionen verarbeitet.",
+    "summary_abuse": "Yever ist eine Zahlungs- und Checkout-Plattform für brasilianische E-Commerce-Händler mit üblichen KYC- und Händlerprüfungen. Zahlungsabwickler tragen ein inhärentes Betrugsrisiko durch betrügerische Händler, doch Yevers Fokus auf brasilianische KMU und Anti-Fraud-Funktionen sprechen für eine legitime Ausrichtung. Es sind keine spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "Yext": {
+    "description": "Yext ist ein Technologieunternehmen mit einer cloudbasierten Plattform zur Verwaltung von digitalem Wissen und Online-Reputation.",
+    "history": "Yext wurde 2006 von Howard Lerman, Brian Distelburger und Brent Metz gegründet. Es begann als lokale Werbeplattform, wechselte durch mehrere Geschäftsmodelle und fokussierte sich schliesslich auf Digital Knowledge Management. 2017 ging das Unternehmen an die NYSE unter dem Ticker YEXT.",
+    "summary_abuse": "Yext hat kein nennenswertes Missbrauchssignal. Es ist eine Enterprise-Plattform für digitales Präsenzmanagement, die von Marken mit vielen Standorten genutzt wird, ohne verbrauchernahe Fläche, die Betrüger typischerweise gezielt nutzen."
+  },
+  "Yieldify": {
+    "description": "Yieldify ist eine Plattform zur Optimierung der Customer Journey, die Personalisierung über die gesamte Kundenreise bringt.",
+    "history": "Yieldify wurde 2013 in London gegründet und ist eine Plattform für Customer-Journey-Optimierung und Personalisierung. Das Unternehmen wurde von Epsilon übernommen, einem Daten- und Marketingunternehmen im Besitz der Publicis Groupe.",
+    "summary_abuse": "Yieldify ist eine On-Site-Personalisierungsplattform, die Tracking-Pixel und Verhaltensanalyse einbindet; sie sammelt Daten zur Customer Journey für Personalisierungszwecke. Es sind keine spezifischen Phishing- oder Betrugsvorfälle dokumentiert, auch wenn die Plattform ad-tech-nah ist und umfangreiches Tracking ausliefert."
+  },
+  "Yieldlab": {
+    "description": "Yieldlab ist ein deutsches Unternehmen, das Programmatic-Advertising-Technologie zur Optimierung der Anzeigenleistung und Maximierung digitaler Werbeausgaben anbietet.",
+    "history": "Yieldlab ist eine deutsche Supply-Side Platform (SSP) und ein Anbieter von Programmatic-Advertising-Technologie, gegründet um 2008 und mit Sitz in Hamburg. Das Unternehmen gehört zur Virtual Minds Group, die als europäischer Ad-Tech-Stack-Anbieter tätig ist.",
+    "summary_abuse": "Yieldlab ist eine Enterprise-SSP für Programmatic Advertising, die europäische Premium-Publisher bedient. Wie alle SSPs liefert sie Anzeigeninventar aus, das gelegentlich Malvertising enthalten kann. Durch den Fokus auf Premium-Publisher ist die Prüfung aber stärker als bei offenen Exchanges. Es sind keine grossen Missbrauchsvorfälle dokumentiert."
+  },
+  "Yii": {
+    "description": "Yii ist ein quelloffenes, objektorientiertes und komponentenbasiertes MVC-Webanwendungsframework für PHP.",
+    "history": "Yii wurde von Qiang Xue erstellt und erstmals im Oktober 2006 als Alpha veröffentlicht, Version 1.0 folgte im Dezember 2008. Yii 2.0 war eine komplette Neuentwicklung und erschien im Oktober 2014. Yii 1.1 hat sein End of Life erreicht, erhält aber weiterhin Sicherheitspatches.",
+    "summary_abuse": "Yii hat kein nennenswertes Missbrauchssignal. Es ist ein serverseitiges PHP-Framework ohne verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "YM Cart": {
+    "description": "Ymcart ist eine grenzüberschreitende E-Commerce-Plattform, die chinesischen E-Commerce-Verkäufern ein One-Stop-SaaS-System zum Aufbau unabhängiger Online-Shops bietet.",
+    "history": "YM Cart wurde 2007 gegründet und wird unter 厦门中恒天下网络科技有限公司 betrieben. Es wurden keine nennenswerten Eigentümerwechsel oder Einstellungen gefunden.",
+    "summary_abuse": "YM Cart ist ein legitimes E-Commerce-Storefront-SaaS, kann aber wie ähnliche gehostete Shop-Builder für Fake-Shop-Scams oder phishingartige Storefronts missbraucht werden. Die öffentliche Website hebt Templates, Migrationstools und eine kostenlose Testregistrierung hervor. Ein deutlich publiziertes Abuse-Reporting- oder Security-Programm fand sich auf der Marketingseite nicht."
+  },
+  "YMQ Product Options Variant Option": {
+    "description": "YMQ Product Options Variant Option hilft, unbegrenzt viele Produktoptionen zu Artikeln hinzuzufügen, damit du nicht auf Shopifys Limit von 3 Optionen und 100 Varianten beschränkt bist.",
+    "history": "YMQ Product Options Variant Option ist eine Shopify-App von YMQ, einem kleinen Entwicklungsstudio aus Nanjing, China. Die App wurde am 23. März 2021 im Shopify App Store veröffentlicht und bietet unbegrenzte Produktoptionen und Variantenfunktionen über Shopifys native Limits hinaus; sie hat 348 Bewertungen mit einer Bewertung von 5,0 und wird aktiv gepflegt.",
+    "summary_abuse": "YMQ Product Options hat kein nennenswertes Missbrauchssignal. Es ist eine Shopify-App, die Händler-Shops um Produktanpassungsfunktionen ergänzt und weder nutzergenerierte Inhalte hostet noch Custom Domains oder verbrauchernahe Hosting-Funktionen anbietet. Das Missbrauchsrisiko ist auf Shopifys bestehende Händlerprüfung und Zahlungssysteme begrenzt."
+  },
+  "YNAP Ecommerce": {
+    "description": "YNAP bietet eine Suite von B2B-Luxusdiensten, darunter Entwicklung von Online- und Mobile-Stores, Omnichannel-Logistik, Customer Care, digitales Marketing, datengetriebenes Merchandising und globale Strategieentwicklung.",
+    "history": "YNAP entstand 2015 als YOOX Net-a-Porter Group aus der Fusion von YOOX und Net-a-Porter. Im Mai 2025 wurde die börsenkotierte Muttergesellschaft in LuxExperience B.V. umbenannt.",
+    "summary_abuse": "Kein nennenswertes Missbrauchssignal. Legitime Luxus-E-Commerce-Nutzung dominiert, und es gibt keine kostenlose oder anonyme Hosting-Fläche für Scam-Inhalte. Missbrauch wäre vor allem Markenimitation oder Phishing gegen den Händler, nicht plattformweiter Missbrauch wie nutzergehosteter Spam, Kurzlinks oder beliebiges Datei-Hosting."
+  },
+  "Yo!Coach": {
+    "description": "Yo!Coach ist eine Nachhilfe- und Beratungsplattform, die Lernende für Einzelsitzungen mit Experten verbindet.",
+    "history": "Yo!Coach ist eine Nachhilfe- und Beratungsplattform, die Lernende für Einzelsitzungen mit Experten verbindet. Es ist ein kleines unabhängiges SaaS im Bereich Online-Bildung und Marktplätze, zu dem nur begrenzt öffentliche Geschichte verfügbar ist.",
+    "summary_abuse": "Yo!Coach hat kein nennenswertes Missbrauchssignal. Es ist eine Marktplatzplattform, die Lernende mit Tutoren verbindet und in einer überwachten Umgebung arbeitet, in der Sitzungsteilnehmer bekannt sind. Mit dieser Plattform sind keine dokumentierten Betrugs- oder Phishing-Muster verbunden."
+  },
+  "YOAPress": {
+    "description": "YOAPress ist eine SaaS-Plattform mit Website-Baukastenlösungen für Immobilienfachleute.",
+    "history": "Die Domain yoapress.com wurde 2013 registriert. Öffentliche Seiten zeigen die Marke Your Online Agents, und die Datenschutzerklärung wurde zuletzt 2018 geändert. Es fanden sich keine nennenswerten Übernahmen oder Einstellungen.",
+    "summary_abuse": "YOAPress hat kein nennenswertes Missbrauchssignal über das generische Risiko hinaus, dass jeder Managed-Website-Builder für Scam-Landingpages oder täuschende Lead-Gen-Seiten genutzt werden kann. Die öffentliche Website zeigt einen spezialisierten Dienst für Immobilien, ohne sichtbaren Free Tier oder klaren anonymen Registrierungsfunnel. Öffentliche Berichte über anhaltenden Missbrauch oder ungewöhnlich langsame Takedowns fanden sich nicht."
+  },
+  "Yoast Duplicate Post": {
+    "description": "Yoast Duplicate Post ist ein WordPress-Plugin, mit dem Nutzer Beiträge beliebiger Typen klonen oder zur weiteren Bearbeitung in neue Entwürfe kopieren können.",
+    "history": "Yoast Duplicate Post entstand ursprünglich als unabhängiges WordPress-Plugin und wurde später in die Yoast-Plugin-Familie aufgenommen.",
+    "summary_abuse": "Yoast Duplicate Post ist ein WordPress-Hilfsplugin ohne nennenswertes Missbrauchssignal."
+  },
+  "Yoast SEO": {
+    "description": "Yoast SEO ist ein Plugin zur Suchmaschinenoptimierung für WordPress und andere Plattformen.",
+    "history": "Yoast SEO wurde von Joost de Valk entwickelt. Das erste Plugin erschien 2007 unter dem Namen WordPress SEO und wurde 2012 in Yoast SEO umbenannt. Yoast BV wurde im August 2021 von Newfold Digital, dem Eigentümer von Bluehost, übernommen und arbeitet weiter eigenständig.",
+    "summary_abuse": "Yoast SEO ist ein Backend-Plugin für WordPress ohne nennenswertes Missbrauchssignal. Es verarbeitet SEO-Metadaten und hat keine verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "Yoast SEO for Shopify": {
+    "description": "Yoast SEO for Shopify optimiert Shopify-Shops.",
+    "history": "Yoast SEO for Shopify wurde nach Yoasts Übernahme durch Newfold Digital im Jahr 2021 eingeführt und erweiterte die Marke Yoast SEO als native Shopify-App auf die Shopify-Plattform.",
+    "summary_abuse": "Yoast SEO for Shopify hat kein nennenswertes Missbrauchssignal. Es ist eine SEO-Optimierungs-App für Shopify ohne verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "Yoast SEO Premium": {
+    "description": "Yoast SEO Premium ist ein Plugin zur Suchmaschinenoptimierung für WordPress und andere Plattformen.",
+    "history": "Yoast SEO Premium ist der kostenpflichtige Tier des WordPress-Plugins Yoast SEO und wird als jährliches Abonnement pro Website verkauft. Yoast BV wurde im August 2021 von Newfold Digital übernommen.",
+    "summary_abuse": "Yoast SEO Premium hat kein nennenswertes Missbrauchssignal. Es ist ein WordPress-SEO-Plugin ohne verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "Yodel": {
+    "description": "Yodel ist ein Lieferunternehmen für B2B- und B2C-Bestellungen im Vereinigten Königreich.",
+    "history": "Yodel ist ein britisches Paketliefer- und Logistikunternehmen. Seine Webplattform bietet Sendungsverfolgung und Lieferverwaltung für B2B- und B2C-Kunden.",
+    "summary_abuse": "Yodel hat kein nennenswertes Missbrauchssignal auf Softwareebene. Es ist eine Lieferplattform für Sendungsverfolgung. Paketmarken werden manchmal in Phishing imitiert, das betrifft aber Markenimitation und nicht die Plattform selbst."
+  },
+  "YogaTrail": {
+    "description": "YogaTrail ist eine Softwareplattform zur Verwaltung von Yoga-Unternehmen.",
+    "history": "YogaTrail ist eine Business-Management-Softwareplattform für Yogastudios. Es sind keine nennenswerten Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "YogaTrail ist eine spezialisierte Studiomanagement-Plattform ohne nennenswertes Missbrauchssignal."
+  },
+  "Yola": {
+    "description": "Yola ist ein Website-Builder und Website-Hosting-Unternehmen mit Hauptsitz in San Francisco.",
+    "history": "Yola ist ein Website-Builder, der 2007 als Synthasite gegründet und 2009 in Yola umbenannt wurde, mit Hauptsitz in San Francisco. Er richtet sich an Kleinunternehmen, die einfache Website-Erstellung benötigen.",
+    "summary_abuse": "Yola ist ein Website-Builder mit Free Tier, der Nutzern erlaubt, Websites unter eigenen Domains zu erstellen. Kostenlose Hosting-Plattformen dieser Art können gelegentlich für Phishing- oder Scam-Landingpages genutzt werden, Yola ist jedoch ein kleinerer Anbieter ohne prominente dokumentierte Vorfälle."
+  },
+  "Yomdel": {
+    "description": "Yomdel ist ein vollständig verwalteter Live-Chat-Dienst, der Website-Gespräche übernimmt und qualifizierte Sales-Leads direkt an Unternehmen liefert.",
+    "history": "Yomdel ist ein britischer vollständig verwalteter Live-Chat-Dienst, bei dem menschliche Chat-Agenten Website-Gespräche führen und qualifizierte Leads für Unternehmen generieren. Der Dienst wurde um 2012 gegründet und bleibt ein unabhängiger, auf KMU ausgerichteter Anbieter im britischen Markt.",
+    "summary_abuse": "Yomdel hat kein nennenswertes Missbrauchssignal. Es ist ein Managed-Live-Chat-Dienst, bei dem menschliche Agenten Gespräche im Auftrag von Kundenunternehmen führen, wodurch nur eine minimale Fläche für Betrug oder Phishing bleibt."
+  },
+  "Yonder": {
+    "description": "Yonder ist eine Buchungsautomatisierungslösung, die Tourismusbetrieben hilft, Buchungen zu steigern, Feedback zu sammeln, positive Bewertungen zu erhalten, Website-Besucher zu konvertieren, FAQs mit einem KI-Chatbot zu automatisieren und mit Kunden zu kommunizieren.",
+    "history": "Yonder ist eine Buchungsautomatisierungsplattform für Tourismus- und Aktivitätsunternehmen; sie bietet Buchungsverwaltung, Feedback-Erfassung, Bewertungsgenerierung und einen KI-Chatbot für FAQs. Es ist ein kleines unabhängiges SaaS aus Neuseeland mit begrenzter öffentlicher Geschichte.",
+    "summary_abuse": "Yonder hat kein nennenswertes Missbrauchssignal. Es ist ein spezialisiertes Tool für Buchungs- und Bewertungsautomatisierung in Tourismusbetrieben, ohne verbrauchernahes anonymes Content-Hosting oder Funktionen, die häufig für Betrug genutzt werden."
+  },
+  "YooMoney": {
+    "description": "YooMoney ist ein IT-Unternehmen für elektronische Zahlungen im Internet, das Finanzdienste für Privatpersonen und Unternehmen entwickelt und betreibt.",
+    "history": "YooMoney startete ursprünglich 2002 als Yandex.Money, eine Partnerschaft zwischen Yandex und PayCash. 2020 übernahm Sberbank den Dienst vollständig und benannte ihn in YooMoney um.",
+    "summary_abuse": "YooMoney ist ein russisches E-Wallet und ein Zahlungsabwickler im Besitz von Sberbank. Als russische Zahlungsplattform ist der Dienst von Sanktionen betroffen und ausserhalb Russlands und der GUS geofenced. Zahlungsabwickler können indirekt in Geldwäsche oder Betrug verwickelt sein. Für YooMoney selbst wurden keine spezifisch dokumentierten Vorfälle gefunden, die Jurisdiktion erhöht aber das Risiko für internationale Betreiber."
+  },
+  "Yoori": {
+    "description": "Yoori ist ein Multi-Vendor-PWA-E-Commerce-CMS.",
+    "history": "Yoori ist ein Multi-Vendor-PWA-E-Commerce-CMS, das von SpaGreen in Bangladesch entwickelt wird. Es wird als selbst gehostete E-Commerce-Lösung für Marktplatz-Shops verkauft.",
+    "summary_abuse": "Yoori ist ein selbst gehostetes E-Commerce-CMS ohne nennenswertes Missbrauchssignal."
+  },
+  "Yopify": {
+    "description": "Yopify ist eine E-Commerce-App-Suite zur Steigerung von Verkäufen, Erhöhung von Conversions und Verbesserung der Kundenerfahrung.",
+    "history": "Yopify ist eine E-Commerce-App-Suite für Shopify-Shops mit Fokus auf Conversion und Kundenerfahrung. Es sind kein nennenswertes Gründungsdatum und keine Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Yopify ist eine Shopify-App-Suite ohne nennenswertes Missbrauchssignal; sie läuft innerhalb von Shopifys App-Ökosystem."
+  },
+  "YoPlanning": {
+    "description": "YoPlanning ist eine Online-Software für Buchung und Planung von Aktivitäten.",
+    "history": "YoPlanning ist ein Online-Booking- und Aktivitätsplanungs-SaaS für Freizeit- und Tourismusunternehmen. Es ist ein kleines unabhängiges Produkt mit begrenzter öffentlich verfügbarer Geschichte.",
+    "summary_abuse": "YoPlanning hat kein nennenswertes Missbrauchssignal. Es ist ein spezialisiertes Buchungsmanagement-Tool für Aktivitätsunternehmen ohne verbrauchernahes anonymes Content-Hosting."
+  },
+  "Yotpo Loyalty & Referrals": {
+    "description": "Yotpo ist eine Marketingplattform für nutzergenerierte Inhalte.",
+    "history": "Yotpo Loyalty & Referrals ist ein Produkt von Yotpo, einer Plattform für nutzergenerierte Inhalte und E-Commerce-Marketing, die 2011 in Israel gegründet wurde und ihren US-Hauptsitz hat. Yotpo hat über 400 Millionen US-Dollar Venture-Capital-Finanzierung aufgenommen.",
+    "summary_abuse": "Yotpo Loyalty & Referrals hat kein nennenswertes Missbrauchssignal. Es verwaltet Kundenbindungs- und Empfehlungsprogramme für E-Commerce-Marken ohne erhebliche Betrugsfläche."
+  },
+  "Yotpo Reviews": {
+    "description": "Yotpo ist eine Marketingplattform für nutzergenerierte Inhalte.",
+    "history": "Yotpo Reviews ist das Kernprodukt von Yotpo, das 2011 in Israel gegründet wurde. Es wurde zu einer der führenden Plattformen für nutzergenerierte Inhalte im E-Commerce und nahm über 400 Millionen US-Dollar Venture-Capital-Finanzierung auf.",
+    "summary_abuse": "Yotpo Reviews sammelt und zeigt Kundenbewertungen. Bewertungsplattformen können gelegentlich Ziel von Fake-Review-Injektion oder Scraping werden, doch Yotpo hat Anti-Spam-Massnahmen und legitime Nutzung dominiert klar."
+  },
+  "Yotpo SMSBump": {
+    "description": "SMS Bump ist eine SMS-Marketing- und Automatisierungs-App, die von Yotpo übernommen wurde.",
+    "history": "SMSBump wurde 2018 als unabhängige SMS-Marketing-Plattform für Shopify gegründet und später von Yotpo übernommen, um Teil der E-Commerce-Marketing-Suite zu werden.",
+    "summary_abuse": "Yotpo SMSBump ist eine SMS-Marketing-Plattform. Massen-SMS-Plattformen tragen bei Fehlgebrauch ein inhärentes Spam-Risiko. Yotpo hat Compliance-Richtlinien, die eine Einwilligungsprüfung der Händler verlangen, doch SMS-Marketing-Tools können bei unzureichenden Kontrollen für Spam genutzt werden."
+  },
+  "Yotpo Subscriptions": {
+    "description": "Yotpo Subscriptions ist eine Shopify-App, mit der Händler ihren Kunden Abonnementdienste anbieten können.",
+    "history": "Yotpo Subscriptions ist eine Shopify-App zur Abonnementverwaltung, die von Yotpo als Teil der E-Commerce-Retention-Suite entwickelt wird.",
+    "summary_abuse": "Für Yotpo Subscriptions ist kein nennenswertes Missbrauchssignal dokumentiert. Es ist eine App zur Abonnementverwaltung für Shopify-Händler."
+  },
+  "Yottaa": {
+    "description": "Yottaa ist eine E-Commerce-Optimierungsplattform, die bei Conversions, Performance und Sicherheit hilft.",
+    "history": "Yottaa wurde 2009 in Waltham, Massachusetts, als Unternehmen für Web- und E-Commerce-Performance-Optimierung gegründet. Es betreibt eine Multi-CDN-Beschleunigungsplattform für Retail- und E-Commerce-Marken.",
+    "summary_abuse": "Yottaa ist eine E-Commerce-Performance- und CDN-Plattform ohne nennenswertes Missbrauchssignal; sie dient als Infrastruktur für Retail-Websites ohne verbrauchernahe Betrugsfläche."
+  },
+  "YouCam Makeup": {
+    "description": "YouCam Makeup ist eine plattformübergreifende virtuelle Make-up-Lösung für Omnichannel-E-Commerce.",
+    "history": "YouCam Makeup ist eine Virtual-Try-on- und Augmented-Reality-Beauty-Plattform von Perfect Corp, einem taiwanischen Unternehmen; sie bietet KI-gestützte virtuelle Make-up- und Kosmetikvisualisierung für E-Commerce-Marken.",
+    "summary_abuse": "YouCam Makeup ist ein Virtual-Try-on-SaaS für Beauty-Marken ohne nennenswertes Missbrauchssignal. Es wird von Händlern zur Produktvisualisierung eingebettet."
+  },
+  "YouCan": {
+    "description": "YouCan ist eine integrierte Plattform für E-Commerce mit einem breiten Angebot an Diensten, die Händler und Unternehmer benötigen.",
+    "history": "YouCan ist eine auf MENA ausgerichtete E-Commerce-Plattform, die Unternehmern in der arabischen Welt beim Aufbau von Online-Shops hilft.",
+    "summary_abuse": "Für YouCan ist kein nennenswertes Missbrauchssignal dokumentiert. Es ist eine E-Commerce-Plattform."
+  },
+  "YouCan Pay": {
+    "description": "YouCan Pay ist eine entwickelte elektronische Zahlungsplattform, die wirksame Lösungen für das Payment-Gateway-Problem im E-Commerce in Marokko bereitstellt.",
+    "history": "YouCan Pay ist das Payment-Gateway-Produkt von YouCan, einer marokkanischen E-Commerce-Plattform, die 2019 von Mohamed El Ghaissani in Rabat, Marokko, gegründet wurde. YouCan startete seine Storefront-Plattform 2020 und wuchs schnell auf über 753 Millionen US-Dollar GMV im Jahr 2023 mit 100'000 aktiven Shops, vor allem in Marokko und der MENA-Region. YouCan Pay wurde entwickelt, um die Payment-Gateway-Lücke im marokkanischen E-Commerce zu schliessen, mit Unterstützung für marokkanische Karten, internationale Karten und CashPlus-Barzahlungen.",
+    "summary_abuse": "YouCan Pay ist ein marokkanisches Payment Gateway mit moderatem Missbrauchsrisiko. Payment Gateways in Märkten mit noch entstehender KYC-Durchsetzung können betrügerische Händlerregistrierungen sehen, und im marokkanischen Online-Markt sind Fälle von gefälschtem Storefront-Betrug dokumentiert. YouCan Pay selbst werden öffentlich keine spezifischen Sicherheitsvorfälle oder Betrugsberichte direkt zugeschrieben, doch das relativ reibungsarme Onboarding und der Fokus auf den MENA-Markt rechtfertigen eine leichte Vorsicht."
+  },
+  "youCMS": {
+    "description": "youCMS ist ein in Dänemark entwickeltes Enterprise-Content-Management-System für Organisation und Auslieferung digitaler Inhalte in grossem Massstab.",
+    "history": "youCMS ist ein dänisches Enterprise-CMS, das von einem dänischen Unternehmen entwickelt wurde und für gross angelegtes Content Management ausgelegt ist. Es ist ein gehostetes SaaS-Produkt für Organisationen in Dänemark und dem breiteren skandinavischen Markt. Es sind keine nennenswerten Eigentümerwechsel oder Einstellungen dokumentiert.",
+    "summary_abuse": "youCMS ist ein spezialisiertes dänisches Enterprise-CMS ohne nennenswertes Missbrauchssignal. Es ist ein gehostetes Content-Management-System für legitime Enterprise-Kunden und bietet keine verbrauchernahen Funktionen, die Phishing oder Betrug anziehen würden."
+  },
+  "Youform": {
+    "description": "Youform ist ein No-Code-Form-Builder zum Erstellen dialogartiger Formulare für Leads, Umfragen und Feedback.",
+    "history": "Youform ist ein No-Code-Builder für dialogartige Formulare zum Sammeln von Leads und Umfragen und entstand 2023 als Alternative zu Typeform.",
+    "summary_abuse": "Youform ist ein Form Builder. Formular-Tools können für Phishing missbraucht werden, etwa für gefälschte Formulare zum Abgreifen von Zugangsdaten, für Youform sind jedoch keine spezifischen Vorfälle dokumentiert."
+  },
+  "YouLead": {
+    "description": "YouLead ist ein Vertriebs- und Marketingautomationssystem aus Polen, das Unternehmen hilft, Leads zu verwalten, Kundeninteraktion zu straffen und Marketing-Workflows mit integrierten digitalen Tools zu optimieren.",
+    "history": "YouLead ist eine polnische Plattform für Vertriebs- und Marketingautomation, die Unternehmen beim Verwalten von Leads und beim Straffen der Kundeninteraktion mit integrierten digitalen Tools unterstützt.",
+    "summary_abuse": "YouLead ist eine B2B-Marketingautomationsplattform ohne nennenswertes Missbrauchssignal."
+  },
+  "YouPay": {
+    "description": "YouPay ist eine alternative Zahlungsmethode, mit der du jemand anderem ermöglichen kannst, deinen Warenkorb ohne Gebühren oder Zinsen zu bezahlen.",
+    "history": "YouPay ist eine australische E-Commerce-Zahlungsinnovation, die Gifting und Zahlungen durch Dritte im Namen von Käufern ermöglicht.",
+    "summary_abuse": "YouPay ist ein neuartiger Gifting-Zahlungsdienst ohne dokumentiertes nennenswertes Betrugsmissbrauchssignal."
+  },
+  "YourGPT": {
+    "description": "YourGPT ist eine Plattform für anpassbare KI- und GPT-Tools, die die Integration grosser Sprachmodelle für unterschiedliche operative Anforderungen ermöglicht und effizientere Geschäftsprozesse unterstützt.",
+    "history": "YourGPT ist eine nach 2022 entstandene Plattform mit anpassbaren GPT-basierten Tools und Chatbots für Unternehmen; sie gehört zu den vielen LLM-API-Wrapper-Produkten, die nach dem Start von ChatGPT entstanden.",
+    "summary_abuse": "YourGPT ist eine Plattform zur Anpassung von KI-Chatbots auf Basis von LLM APIs. Wie bei ähnlichen Tools seit 2022 besteht theoretisch ein Risiko für Missbrauch im Social Engineering, spezifische dokumentierte Vorfälle gibt es aber nicht."
+  },
+  "YouTrack": {
+    "description": "YouTrack ist ein browserbasierter Bug Tracker, ein Issue-Tracking-System und eine Projektmanagementsoftware.",
+    "history": "YouTrack wurde 2008 erstmals von JetBrains veröffentlicht, dem tschechischen Softwareunternehmen hinter IntelliJ IDEA. Es ist sowohl als Cloud-SaaS als auch als selbst gehostetes Serverprodukt verfügbar und für bis zu 10 Nutzer kostenlos.",
+    "summary_abuse": "YouTrack hat kein nennenswertes Missbrauchssignal. Es ist ein entwicklerorientiertes Projektmanagement-Tool ohne verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "YouTube": {
+    "description": "YouTube ist ein Video-Sharing-Dienst, auf dem Nutzer eigene Profile erstellen, Videos hochladen, andere Videos ansehen, liken und kommentieren können.",
+    "history": "YouTube wurde im Februar 2005 von Chad Hurley, Steve Chen und Jawed Karim gegründet. Google übernahm die Plattform im Oktober 2006 für 1,65 Milliarden US-Dollar; sie wurde zur weltweit grössten Videoplattform mit über 2 Milliarden monatlich eingeloggten Nutzern. Wiederkehrende Kontroversen betreffen Content-Moderation und Werbesicherheit.",
+    "summary_abuse": "YouTubes eingebetteter Player und API werden auf Millionen Websites legitim genutzt. Als Plattform hat YouTube dokumentierte Probleme mit Scam-Anzeigen, gefälschten Giveaway-Streams und Kanälen zur Markenimitation, Google investiert jedoch stark in automatisierte Moderation. Missbrauch des Einbettungsmechanismus, etwa Iframing von Scam-Inhalten, kommt gelegentlich vor, die Reaktion des Anbieters ist aber aktiv."
+  },
+  "Youzan": {
+    "description": "Youzan ist eine chinesische Shopping-Plattform, die Unternehmen Werkzeuge für E-Commerce, Online-Shop-Management und Kundenbindung bereitstellt.",
+    "history": "Youzan wurde 2012 in Hangzhou, China, als grösste Drittanbieter-WeChat-E-Commerce-Plattform gegründet und hilft Händlern, Social-Commerce-Shops auf WeChat und Kuaishou einzurichten. Tencent investierte 2019 in das Unternehmen.",
+    "summary_abuse": "Youzan ist eine grosse chinesische E-Commerce-SaaS-Plattform innerhalb Chinas regulierter Internetumgebung. Spezifische Betrugsvorfälle sind nicht dokumentiert, allerdings gibt es im chinesischen E-Commerce-Ökosystem allgemeine Bedenken zu gefälschten Waren und Social-Commerce-Scams, die breit für Händlerplattformen gelten."
+  },
+  "YUI": {
+    "description": "YUI ist eine JavaScript- und CSS-Bibliothek mit mehr als 30 eigenen Komponenten, darunter Low-Level-DOM-Utilities und High-Level-User-Interface-Widgets.",
+    "history": "YUI begann 2005 bei Yahoo und wurde 2006 öffentlich veröffentlicht. Die aktive Entwicklung endete im August 2014, danach blieb das Projekt nur noch im Maintenance-Modus und wurde faktisch aufgegeben.",
+    "summary_abuse": "YUI hat kein relevantes Missbrauchssignal. Es ist eine Frontend-JavaScript/CSS-Bibliothek ohne verbrauchernahes Hosting, Messaging oder Redirect-Fläche, die Betrüger typischerweise gezielt nutzen."
+  },
+  "YUI Doc": {
+    "description": "YUI Doc ist eine Node.js-Anwendung, die zur Build-Zeit API-Dokumentation erzeugt.",
+    "history": "YUI Doc war Teil der YUI Library (Yahoo! User Interface Library), einer Open-Source-JavaScript-Bibliothek, die Yahoo im Februar 2006 erstmals veröffentlichte. YUI Doc ist ein Node.js-Dokumentationsgenerator für die Build-Zeit. Yahoo beendete die aktive Entwicklung von YUI im August 2014. Die letzte YUI-Doc-Version war v0.10.0 im Januar 2016.",
+    "summary_abuse": "YUI Doc ist ein Dokumentationsgenerator zur Build-Zeit ohne Missbrauchssignal. Er hat keine verbrauchernahe Oberfläche, die Betrüger ausnutzen könnten."
+  },
+  "Yuno": {
+    "description": "Yuno ist ein globaler Payment-Orchestrator, der von Checkout-Plattformen genutzt wird, um Zahlungsabwicklung zu optimieren und Transaktionsleistung zu verbessern.",
+    "history": "Yuno ist eine in Kolumbien gegründete globale Payment-Orchestration-Plattform, die um 2021 startete; sie hilft Enterprise-Checkout-Plattformen, Zahlungsakzeptanz über mehrere Anbieter hinweg zu optimieren.",
+    "summary_abuse": "Yuno ist eine Payment-Orchestration-Plattform ohne nennenswertes Missbrauchssignal; sie dient als B2B-Infrastruktur und hat keine verbrauchernahe Fläche, die Betrüger direkt gezielt nutzen würden."
+  },
+  "YunoHost": {
+    "description": "YunoHost ist ein freies und quelloffenes Serverbetriebssystem, mit dem Nutzer eigene Webanwendungen, E-Mail-Dienste und andere Online-Tools hosten können. Es basiert auf Debian GNU/Linux.",
+    "history": "YunoHost ist ein Open-Source-Serverbetriebssystem französischen Ursprungs, das Self-Hosting für nicht technische Nutzer vereinfachen soll und um 2012 erstmals erschien. Es ermöglicht die Ein-Klick-Bereitstellung von Apps wie Nextcloud, Mastodon und WordPress auf persönlichen Servern.",
+    "summary_abuse": "YunoHost ist ein Self-Hosting-Betriebssystem ohne nennenswertes Missbrauchssignal. Es ist Infrastruktur für persönliche Server und hat keine verbrauchernahe Fläche, die Betrüger gezielt nutzen würden."
+  },
+  "Yupop": {
+    "description": "Yupop ist eine Plattform, mit der Nutzer einen Online-Shop erstellen können, ohne monatliches Abonnement und mit Gebühren nur bei Verkäufen.",
+    "history": "Yupop ist eine provisionsfreie Online-Shop-Plattform ohne monatliches Abonnement. Es sind kein nennenswertes Gründungsdatum und keine Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Yupop ist ein kostenloser Online-Shop-Builder. Kostenlose E-Commerce-Plattformen ohne KYC-Anforderungen können zum Erstellen von Fake-Storefronts genutzt werden, für Yupop gibt es aber keine spezifisch dokumentierten Vorfälle."
+  },
+  "Yxper": {
+    "description": "Yxper ist eine Plattform für Echtzeit-Business-Analytics und Einblicke, mit denen Organisationen Leistung überwachen, Abläufe optimieren und die Kundenerfahrung verbessern können.",
+    "history": "Yxper ist eine Echtzeit-Business-Analytics-Plattform für organisatorisches Monitoring. Es sind kein nennenswertes Gründungsdatum und keine Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Yxper ist eine B2B-Business-Analytics-Plattform ohne dokumentiertes nennenswertes Missbrauchssignal."
+  }
+}

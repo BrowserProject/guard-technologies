@@ -41,7 +41,7 @@ const I18N = path.join(ROOT, "i18n");
  *  enums, booleans, dates, vendor facts) is locale-independent and is rendered
  *  by the frontend through its own next-intl message catalogue. */
 export const TECH_PROSE_FIELDS = ["description", "history", "summary_abuse"];
-export const CATEGORY_PROSE_FIELDS = ["description", "summary_security", "summary_privacy"];
+export const CATEGORY_PROSE_FIELDS = ["description"];
 
 /** Languages we publish. "en" is the source; every other entry is an overlay
  *  directory under i18n/<lang>/ that may be partial or absent. */
@@ -106,8 +106,6 @@ function buildCategoryRow(id, cats) {
     tracker_likelihood_score: c.tracker_likelihood_score != null ? c.tracker_likelihood_score : null,
     regulatory_relevance: c.regulatory_relevance != null ? c.regulatory_relevance : null,
     recommended_scrutiny_level: c.recommended_scrutiny_level != null ? c.recommended_scrutiny_level : null,
-    summary_security: c.summary_security != null ? c.summary_security : null,
-    summary_privacy: c.summary_privacy != null ? c.summary_privacy : null,
     ai_confidence: c.confidence != null ? c.confidence : null,
     source_urls: c.source_urls != null ? c.source_urls : null,
   };

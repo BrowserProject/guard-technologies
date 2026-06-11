@@ -1,0 +1,1037 @@
+{
+  "Oat++": {
+    "description": "Oat++ ist ein Open-Source-Webframework für C++.",
+    "history": "Oat++ ist ein Open-Source-Webframework für C++, das 2018 veröffentlicht wurde. Es bietet leistungsfähige HTTP-Serverfunktionen für den Aufbau von APIs und Microservices in C++.",
+    "summary_abuse": "Für Oat++ gibt es kein Missbrauchssignal. Es ist eine C++-Bibliothek für Webframeworks ohne Oberfläche für Endnutzer."
+  },
+  "Obsidian Incentivize": {
+    "description": "Obsidian Incentivize soll den durchschnittlichen Bestellwert durch Upsells im Warenkorb, Cross-Sells und personalisierte Produktempfehlungen erhöhen.",
+    "history": "Obsidian Incentivize ist eine Shopify-App, die den durchschnittlichen Bestellwert über Anreizmechaniken erhöhen soll. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Obsidian Incentivize ist eine Shopify-App für Kaufanreize ohne dokumentiertes Missbrauchssignal. Solche Mechaniken können zu Dark Patterns beitragen, konkrete Vorfälle sind jedoch nicht dokumentiert."
+  },
+  "Obsidian Publish": {
+    "description": "Obsidian Publish ist ein offizielles, kostenpflichtiges Plugin für Obsidian, mit dem Nutzer ausgewählte Notizen in einem Verzeichnis auf der Domain publish.obsidian.md veröffentlichen können.",
+    "history": "Obsidian Publish ist ein kostenpflichtiger Zusatzdienst für die Notiz-App Obsidian, entwickelt von den Dynalist Inc.-Mitgründern Shida Li und Erica Xu. Obsidian startete im März 2020 als öffentliche Beta, Publish wurde als gehosteter Dienst zum Teilen von Notizen angeboten. Das Unternehmen ist unabhängig finanziert und hat seinen Sitz in Kanada.",
+    "summary_abuse": "Obsidian Publish erlaubt Nutzern, Notizen öffentlich unter der Domain publish.obsidian.md zu hosten. Die Veröffentlichung mit nutzergesteuerten Unterpfaden könnte theoretisch für Phishing-Landingpages missbraucht werden, entsprechende Fälle sind jedoch nicht dokumentiert und der Dienst erfordert ein kostenpflichtiges Abonnement."
+  },
+  "Obviyo": {
+    "description": "Obviyo ist eine Ecommerce-Intelligence-Plattform, die Händlern hilft, Einkaufserlebnisse zu personalisieren und zu optimieren.",
+    "history": "Obviyo wurde 2021 als Rebranding von HiConversion eingeführt, einer Ecommerce-Personalisierungs- und A/B-Testing-Plattform der Seriengründer Zee Aganovic und David Henrickson aus Boca Raton, Florida. Die Gründer hatten zuvor Startups aufgebaut, die von Fortune-50-Unternehmen wie Ricoh und Microsoft übernommen wurden. Das Rebranding markierte die stärkere Ausrichtung auf Hyperpersonalisierung und Optimierung für Ecommerce-Händler.",
+    "summary_abuse": "Obviyo ist eine Plattform für Ecommerce-Personalisierung und -Optimierung ohne dokumentierte Missbrauchsgeschichte; sie integriert sich in Händler-Websites, um Einkaufserlebnisse zu personalisieren, ist aber ein B2B-Aboprodukt und nicht für anonyme oder betrügerische Nutzung zugänglich."
+  },
+  "Occasion": {
+    "description": "Occasion ist ein Online-Buchungssystem.",
+    "history": "Occasion ist eine SaaS-Plattform für Online-Buchungen und Terminplanung. Ein auffälliges Gründungsjahr oder eine Unternehmensgeschichte sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Occasion gibt es kein auffälliges Missbrauchssignal. Es ist eine Online-Buchungsplattform für legitime Dienstleistungsbetriebe ohne Funktionen für anonymes Content-Hosting."
+  },
+  "Ocea": {
+    "description": "Ocea ist ein Webdienst für die Erstellung von Websites und Apps auf Basis von Cloud-Infrastruktur.",
+    "history": "Ocea ist ein cloudbasiertes PaaS-Angebot für die Erstellung von Websites und Anwendungen. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Ocea ist eine PaaS-Plattform ohne dokumentiertes Missbrauchssignal."
+  },
+  "OceanWP": {
+    "description": "OceanWP ist ein schnell ladendes WordPress-Theme mit guter Unterstützung für Drittanbieter-Plugins und Drag-and-Drop-Page-Builder.",
+    "history": "OceanWP entstand 2016 als kostenloses Open-Source-Mehrzweck-Theme für WordPress. OceanWP LLC ist ein kleines unabhängiges Unternehmen, das das kostenlose Theme und kostenpflichtige Erweiterungen anbietet. Es wurde zu einem der beliebtesten WordPress-Themes mit Millionen aktiver Installationen.",
+    "summary_abuse": "OceanWP hat als WordPress-Theme kein auffälliges Missbrauchssignal. Es wird auf legitimen Websites als Designgrundlage installiert. Wie alle beliebten kostenlosen WordPress-Themes kann es in nulled Theme-Paketen auftauchen, das offizielle Theme selbst ist jedoch nicht mit Betrug verbunden."
+  },
+  "Ochanoko": {
+    "description": "Ochanoko bietet Ecommerce-Warenkorblösungen und Hosting für Ecommerce-Websites.",
+    "history": "Ochanoko (ocnk.com) ist eine japanische Ecommerce-Warenkorb- und Webhosting-Plattform, betrieben von Ochanoko-net Inc. mit Sitz in Kobe, Japan. Ein auffälliges Gründungsjahr oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Ochanoko gibt es ausserhalb Japans kein auffälliges Missbrauchssignal. Es ist eine gehostete Ecommerce-Plattform für japanische Händler ohne dokumentierte Nutzung in internationalen Betrugs- oder Phishing-Kampagnen."
+  },
+  "Oclocher": {
+    "description": "Oclocher ist eine App für Pfarreikommunikation, mit der Pfarreien und Diözesen den Kontakt zwischen Gemeindemitgliedern von Sonntag zu Sonntag pflegen.",
+    "history": "Oclocher ist eine französische Kommunikationsplattform für katholische Pfarreien und Diözesen. Ein auffälliges Gründungsjahr oder eine Unternehmensgeschichte sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Oclocher gibt es kein auffälliges Missbrauchssignal. Es ist eine spezialisierte Kommunikationsplattform für katholische Pfarreigemeinschaften ohne für Betrug relevante Content-Hosting-Funktionen für Endnutzer."
+  },
+  "ocStore": {
+    "description": "ocStore ist ein Open-Source-Onlineshop auf Basis von OpenCart.",
+    "history": "ocStore ist ein von der ukrainischen Community gepflegter Fork von OpenCart, einer Open-Source-Ecommerce-Plattform. Er wird vor allem in russisch- und ukrainischsprachigen Märkten genutzt und folgt eng der Upstream-Codebasis von OpenCart.",
+    "summary_abuse": "ocStore ist ein Open-Source-Ecommerce-Fork, der vor allem in osteuropäischen Märkten genutzt wird. Wie jede Ecommerce-Plattform könnte er von Betrügern für gefälschte Shops eingesetzt werden, ein systematisches Missbrauchsmuster speziell für ocStore ist jedoch nicht dokumentiert."
+  },
+  "Oct8ne": {
+    "description": "Oct8ne ist eine visuelle Kundenservice-Software.",
+    "history": "Oct8ne ist eine Plattform für visuellen Kundenservice und Live-Chat aus Spanien, mit Co-Browsing- und Produktvisualisierungswerkzeugen für Ecommerce. Auffällige Unternehmensereignisse oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Für Oct8ne gibt es kein auffälliges Missbrauchssignal. Es ist ein visuelles Kundenservice-Tool für Ecommerce-Unternehmen ohne Content-Hosting für Endnutzer oder anonyme Zugriffsfunktionen."
+  },
+  "Octane": {
+    "description": "Octane ist eine Finanzierungslösung für Motorräder, ATVs, Rasenmäher und weitere Powersport- und Outdoor-Geräte.",
+    "history": "Octane wurde 2014 als Fintech-Kreditplattform für Verbraucherfinanzierungen in den Bereichen Powersports, Motorräder, ATVs und Outdoor-Geräte gegründet. Das Unternehmen arbeitet über den eigenen Kreditgeber Roadrunner Financial und hat bedeutende VC-Finanzierungen erhalten, darunter eine Fazilität über 500 Millionen USD.",
+    "summary_abuse": "Octane ist eine Verbraucher-Kreditplattform für Powersport-Käufe. Kreditplattformen können für betrügerische Kreditanträge oder Identitätsdiebstahl ausgenutzt werden. Octane unterliegt üblichen KYC- und Kredit-Compliance-Anforderungen. Konkrete dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Octane AI": {
+    "description": "Octane AI bietet eine All-in-one-Plattform für interaktive Quizze, Datenerfassung sowie personalisierte Facebook Messenger- und SMS-Automatisierung.",
+    "history": "Octane AI wurde 2016 gegründet und wuchs als Shopify-orientierte Plattform für Quizze und Produktempfehlungen, unterstützt von General Catalyst, Bullpen Capital und Boost VC. 2021 wurde sie als Shopify's Best Storefront App ausgezeichnet.",
+    "summary_abuse": "Für Octane AI gibt es kein auffälliges Missbrauchssignal. Es ist ein Quiz- und Personalisierungstool für Ecommerce-Händler ohne Funktionen für anonymes Content-Hosting."
+  },
+  "Octipulse": {
+    "description": "Octipulse hilft Unternehmen, zugeschnittene Inhalte über digitale Plattformen hinweg zu verwalten und zu veröffentlichen, um personalisierte Cross-Channel-Erlebnisse zu schaffen.",
+    "history": "Octipulse ist eine Plattform für Content-Management und Cross-Channel-Publishing für Unternehmen. Ein auffälliges Gründungsjahr oder eine Unternehmensgeschichte sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Octipulse gibt es kein auffälliges Missbrauchssignal. Es ist ein Content-Management-SaaS für Unternehmenskommunikation ohne Hosting-Funktionen für Endnutzer."
+  },
+  "October CMS": {
+    "description": "October ist eine kostenlose, selbst gehostete Open-Source-CMS-Plattform auf Basis des Laravel PHP Framework.",
+    "history": "October CMS wurde von Alexey Bobkov und Samuel Georges entwickelt und 2014 erstmals als kostenloses Open-Source-CMS auf Basis des Laravel PHP Framework veröffentlicht. Es baute eine kleine, aber loyale Community auf und ergänzte einen Marktplatz für Plugins. 2021 führte das Projekt für neue Versionen ein kostenpflichtiges Lizenzmodell ein, während ältere Versionen Open Source blieben, was in der Community für Diskussionen sorgte.",
+    "summary_abuse": "October CMS ist ein selbst gehostetes Open-Source-CMS mit nur gering dokumentiertem Missbrauch als Plattform. Wie jedes selbst hostbare CMS könnte es auf eigenen Servern für schädliche Inhalte installiert werden, October CMS selbst ist jedoch kein gehosteter Dienst und bietet keine Endnutzeroberfläche, die Betrüger direkt angreifen."
+  },
+  "Octopress": {
+    "description": "Octopress ist ein Framework für statische Blogs.",
+    "history": "Octopress wurde um 2009 von Brandon Mathis als Blogging-Framework auf Basis von Jekyll entwickelt. Es wurde bei Entwicklern beliebt, die statische Blogs auf GitHub Pages veröffentlichen wollten. Nach 2015 wurde das Projekt weitgehend inaktiv, Mathis erklärte 2015 zwar, Octopress 3 sei in Entwicklung, tatsächlich wurde das Projekt aber aufgegeben. Gleichzeitig reifte Jekyll stark weiter, wodurch der Bedarf an Octopress als zusätzlicher Schicht sank.",
+    "summary_abuse": "Octopress ist ein aufgegebener Generator für statische Websites ohne auffälliges Missbrauchssignal. Er erzeugt statische HTML-Dateien, die auf einem Hosting nach Wahl des Nutzers bereitgestellt werden, ohne zentral gehostete Endnutzeroberfläche."
+  },
+  "Octorate": {
+    "description": "Octorate ist ein Hotelbuchungssystem und Channel Manager zur Verwaltung von Reservierungen über verschiedene Plattformen hinweg.",
+    "history": "Octorate wurde 2012 gegründet und hat seinen Sitz in Rom, Italien. Das Unternehmen bietet eine All-in-one-Suite für Hotelmanagement mit PMS, RMS, Channel Manager und Booking Engine und verarbeitet über 500'000 Buchungen pro Monat in mehr als 100 Ländern. Octorate gehört zur Dylog Buffetti Group, einem führenden italienischen Technologieunternehmen, das der Plattform stabile Enterprise-Infrastruktur bietet.",
+    "summary_abuse": "Octorate ist ein italienischer Hotel-Channel-Manager und eine PMS-Plattform für Hospitality-Unternehmen. Eine Missbrauchsgeschichte ist nicht dokumentiert. Das B2B-Abomodell verlangt verifizierte Hotelbetreiberkonten, wodurch Phishing- oder Betrugsaktivitäten unwahrscheinlich sind."
+  },
+  "Ocuco FitMix": {
+    "description": "Ocuco bietet seinen Kunden inzwischen FittingBox FitMix an, ein Tool zum virtuellen Anprobieren von Brillenfassungen.",
+    "history": "Ocuco ist ein irisches Softwareunternehmen mit Fokus auf Praxismanagement für Optik und Augenversorgung. FitMix ist das Produkt für virtuelle Brillenanprobe, aufgebaut in Partnerschaft mit der Technologie von FittingBox und in Ocuco Suite für Optikhändler integriert.",
+    "summary_abuse": "Für Ocuco FitMix gibt es kein auffälliges Missbrauchssignal. Es ist ein virtuelles Anprobe-Tool für Optikhändler ohne Content-Hosting für Endnutzer oder anonyme Zugriffsfunktionen."
+  },
+  "Ocular": {
+    "description": "Ocular ist eine Video-Ecommerce- und Live-Commerce-Plattform, die Transaktionen und Einkaufserlebnisse über Live-Übertragungen und interaktive Funktionen ermöglicht.",
+    "history": "Ocular ist eine Plattform für Video- und Live-Commerce für Ecommerce-Marken. Ein auffälliges Gründungsjahr oder eine Unternehmensgeschichte sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Ocular gibt es kein auffälliges Missbrauchssignal. Es ist eine Live-Commerce-Plattform für legitime Ecommerce-Marken ohne anonymes Content-Hosting für Endnutzer."
+  },
+  "Oculizm": {
+    "description": "Oculizm ist ein Conversion-Optimierungstool, das nutzergenerierte Inhalte und Kundenbewertungen nutzt, um das Vertrauen bei Händlern zu stärken und Umsatz sowie Engagement zu erhöhen.",
+    "history": "Oculizm ist ein Conversion-Optimierungstool, das nutzergenerierte Inhalte und Bewertungen einsetzt. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Oculizm ist ein Tool für Bewertungen und UGC-basierte Conversion-Optimierung ohne dokumentiertes Missbrauchssignal."
+  },
+  "Oddcast": {
+    "description": "Oddcast ist eine Plattform für massgeschneiderte Video- und Avatar-basierte Marketingprodukte für kleine und mittlere Unternehmen sowie Konsumenten.",
+    "history": "Oddcast ist eine US-Plattform für Avatar-basierte Video- und Marketingprodukte für KMU und ist seit den frühen 2000er-Jahren aktiv. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Für Oddcast gibt es kein auffälliges Missbrauchssignal. Es ist ein Video- und Avatar-Marketingtool für KMU ohne Content-Hosting für Endnutzer, das Betrüger typischerweise anziehen würde."
+  },
+  "Oddle": {
+    "description": "Oddle ist ein Online-Bestellsystem zur Vereinfachung von Restaurantabläufen.",
+    "history": "Oddle ist eine SaaS-Plattform für Online-Bestellungen und Restaurantmanagement mit Sitz in Singapur. Ein auffälliges Gründungsjahr oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Oddle gibt es kein auffälliges Missbrauchssignal. Es ist ein Restaurant-Bestell-SaaS für F&B-Unternehmen ohne anonymes Content-Hosting für Endnutzer."
+  },
+  "Odeum": {
+    "description": "Odeum ist eine SaaS-Plattform zum Aufbau eines videobasierten Abodienstes mit vollständig gebrandeter Website und App-Paket.",
+    "history": "Odeum ist eine SaaS-Plattform für gebrandete Video-Abodienste. Ein auffälliges Gründungsjahr oder eine Unternehmensgeschichte sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Odeum gibt es kein auffälliges Missbrauchssignal. Es ist eine Video-Abo-Plattform für Content-Ersteller und Unternehmen mit der bei Videohosting-Plattformen üblichen Content-Moderation."
+  },
+  "Odoo": {
+    "description": "Odoo ist eine Unternehmenssoftware mit CRM, Ecommerce, Fakturierung, Buchhaltung, Fertigung, Lagerverwaltung, Projektmanagement und Bestandsverwaltung.",
+    "history": "Odoo wurde 2005 in Belgien von Fabien Pinckaers als TinyERP gegründet, 2009 in OpenERP umbenannt und 2014 schliesslich zu Odoo rebrandet. Es entwickelte sich zu einer der weltweit meistgenutzten Open-Source-ERP-Plattformen, mit einem Dual-Lizenzmodell aus kostenloser Community Edition und kostenpflichtiger Enterprise Edition. Das Unternehmen erhielt bedeutende Finanzierungen und hat weltweit über 7 Millionen Nutzer.",
+    "summary_abuse": "Odoo ist eine weit verbreitete Open-Source-ERP-Plattform ohne auffälliges Missbrauchssignal als Produkt. Durch die selbst gehostete Nutzung liegt das Missbrauchsrisiko bei den Websites, die Odoo einsetzen, nicht bei Odoo selbst. Es sind keine Kampagnen dokumentiert, die gezielt Odoo-Infrastruktur ausnutzen."
+  },
+  "Offline.js": {
+    "description": "Offline.js ist eine Bibliothek, die Nutzer automatisch benachrichtigt, wenn ihre Internetverbindung unterbrochen ist.",
+    "history": "Offline.js wurde von HubSpot entwickelt und um 2013 als Open-Source-JavaScript-Bibliothek veröffentlicht, die automatisch erkennt und meldet, wenn Nutzer die Internetverbindung verlieren. Das Projekt hatte in den letzten Jahren nur begrenzte Aktivität, bleibt aber auf vielen Websites im Einsatz.",
+    "summary_abuse": "Offline.js ist eine einfache clientseitige JavaScript-Bibliothek ohne Missbrauchssignal; sie erkennt nur im Browser den Verbindungsstatus und hat keine serverseitige Oberfläche, die Betrüger angreifen könnten."
+  },
+  "Offset": {
+    "description": "Offset ist eine Plattform mit spezialisierten Lösungen für Wein-Ecommerce.",
+    "history": "Offset ist eine Wein-Ecommerce-Plattform mit spezialisierten Lösungen für Weinhändler und Direct-to-Consumer-Weingüter. Ein auffälliges Gründungsjahr oder eine Unternehmensgeschichte sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Offset gibt es kein auffälliges Missbrauchssignal. Es ist eine spezialisierte Ecommerce-Plattform für Weinhändler, mit Altersprüfung und Compliance-Anforderungen, die das Missbrauchsrisiko senken."
+  },
+  "Oh Dear": {
+    "description": "Oh Dear ist ein All-in-one-Monitoring-Tool für deine gesamte Website. Es überwacht Uptime, SSL-Zertifikate, defekte Links, geplante Tasks, Application Health, DNS, Domainablauf und mehr.",
+    "history": "Oh Dear wurde in Belgien von Freek Van der Herten und Mattias Geniar gegründet und startete um 2017. Es ist ein entwicklerfreundliches Website-Monitoring-SaaS für Uptime, SSL, defekte Links, geplante Tasks, DNS und Domainablauf. Der Dienst blieb bootstrapped und unabhängig betrieben.",
+    "summary_abuse": "Oh Dear ist ein B2B-Tool für Website-Monitoring ohne dokumentiertes Missbrauchssignal. Es überwacht externe URLs im Auftrag zahlender Kunden und bietet weder Content-Hosting für Endnutzer noch eine anonyme Signup-Oberfläche."
+  },
+  "Ohava": {
+    "description": "Ohava ist eine Plattform zur Verwaltung von Business-Websites und Marketing.",
+    "history": "Ohava ist eine Plattform für Website- und Marketingmanagement von Unternehmen. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Ohava ist ein SaaS für Business-Website-Management ohne dokumentiertes Missbrauchssignal."
+  },
+  "Okendo": {
+    "description": "Okendo ist eine Kundenmarketing-Plattform mit Produktbewertungen, Rezensionen sowie Kundenfotos und -videos zur Personalisierung von Erlebnissen.",
+    "history": "Okendo wurde 2016 in Sydney, Australien, als Kundenbewertungs- und Loyalty-Plattform für Shopify-Händler gegründet. Die Plattform erhielt den Built for Shopify-Status und bedient über 18'000 Marken, darunter SKIMS und Rhode.",
+    "summary_abuse": "Für Okendo gibt es kein auffälliges Missbrauchssignal. Es ist eine Plattform für Kundenbewertungen und Loyalty, die auf legitimen Ecommerce-Websites eingesetzt wird und keine anonymen Content-Hosting-Funktionen für Endnutzer bietet."
+  },
+  "OkMenu": {
+    "description": "OkMenu ist ein Anbieter eines All-in-one-QR-Menüs für Restaurants.",
+    "history": "OkMenu ist ein SaaS für Restaurant-QR-Menüs, das um 2020 lanciert wurde und auf den Wandel der Gastronomie zu digitalen Speisekarten ausgerichtet ist. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OkMenu ist ein SaaS für Restaurant-QR-Menüs ohne dokumentiertes Missbrauchssignal. Der Anwendungsfall ist auf Gastronomiebetriebe beschränkt."
+  },
+  "Okta": {
+    "description": "Okta ist eine Plattform in der Kategorie Identity-as-a-Service (IDaaS). Zu den Funktionen gehören Provisioning, Single Sign-On (SSO), Active Directory (AD)- und LDAP-Integration, zentrale Deprovisionierung von Nutzern, Multi-Factor Authentication (MFA) und Mobile Identity Management.",
+    "history": "Okta wurde 2009 in San Francisco von Todd McKinnon und Frederic Kerrest als Plattform für Enterprise Identity and Access Management gegründet. 2017 ging das Unternehmen an die NASDAQ (OKTA). 2021 übernahm Okta Auth0 für 6,5 Milliarden USD, um das Entwickler-Identity-Geschäft auszubauen. Im Oktober 2023 meldete Okta einen Einbruch in ein Support-System, bei dem Angreifer auf Kundensupport-Tickets zugriffen und eine erhebliche Zahl von Enterprise-Kunden betroffen war.",
+    "summary_abuse": "Okta ist eine dominierende Identity-Plattform, die von Tausenden Unternehmen genutzt wird; sie ist Ziel anspruchsvoller Angreifer, die Corporate SSO kompromittieren wollen, und hatte auffällige Vorfälle wie den Support-System-Kompromiss 2023 und den LAPSUS$-Vorfall 2022, bei dem auf einen internen Laptop zugegriffen wurde. Legitime Nutzung überwiegt klar, und Okta unterhält umfassende Sicherheitszertifizierungen, ein Bug-Bounty-Programm und ein öffentliches Trust Portal. Das Missbrauchsrisiko liegt bei Okta als Ziel, nicht bei Okta als missbrauchtem Werkzeug."
+  },
+  "Olapic": {
+    "description": "Olapic ist ein Content-Marketing-Tool mit Fokus auf visuelle Marketinginhalte.",
+    "history": "Olapic wurde 2010 in New York von Jose De Cabo als visuelle UGC-Marketingplattform gegründet. 2016 wurde das Unternehmen für rund 130 Millionen USD von Monotype übernommen und im September 2020 an Social Native verkauft.",
+    "summary_abuse": "Olapic ist eine Plattform zur Kuratierung von UGC und visuellem Marketing. Es gibt kein auffälliges Missbrauchssignal; die Plattform unterstützt Enterprise-Retail-Marken beim Aggregieren nutzergenerierter Inhalte und bietet keine Funktionen für Endnutzer, die Betrüger typischerweise anziehen."
+  },
+  "Olark": {
+    "description": "Olark ist eine cloudbasierte Live-Chat-Lösung.",
+    "history": "Olark wurde 2009 von Ben Congleton, Zach Steindler, Matt Pizzimenti und Roland Osborne über Y Combinator gegründet. Das Unternehmen blieb unabhängig und selbstfinanziert bis zu Millionenumsätzen im ARR. Auffällige Übernahmen oder Rebrandings gab es nicht.",
+    "summary_abuse": "Olark ist eine Live-Chat-Plattform für Kundensupport auf Websites. Es gibt kein auffälliges Missbrauchssignal; sie wird von Unternehmen genutzt, um mit Website-Besuchern zu kommunizieren, und ist nicht mit Phishing, Spam oder betrügerischen Anwendungsfällen verbunden."
+  },
+  "Oleoshop": {
+    "description": "Oleoshop ist eine Plattform, mit der Unternehmen eigene Onlineshops erstellen und verwalten können.",
+    "history": "Die Entwicklung begann 2011 in Barcelona, Spanien, die erste öffentliche Version erschien im April 2014. Oleoshop ist eine spanischsprachige SaaS-Ecommerce-Plattform für KMU in Spanien und Lateinamerika. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Oleoshop ist eine spanische Ecommerce-Plattform für KMU. Es gibt kein auffälliges Missbrauchssignal; Ecommerce-Plattformen bergen allgemein das Risiko gefälschter Shops, aber für Oleoshop sind keine Vorfälle dokumentiert und die Plattform wird vor allem legitim von kleinen Unternehmen genutzt."
+  },
+  "Olvy": {
+    "description": "Olvy ist eine Feedback-Management-Plattform, mit der nutzerzentrierte Teams Erkenntnisse analysieren, Produktentwicklung straffen und Stakeholder informiert halten können.",
+    "history": "Olvy wurde um 2021 als SaaS für Nutzerfeedback-Management für Produktteams gegründet. Im November 2024 kündigte der Gründer an, dass die Plattform eingestellt und der Dienst offiziell deprecatet werde.",
+    "summary_abuse": "Olvy ist ein Produktfeedback-Management-Tool ohne auffälliges Missbrauchssignal. Es hostet keine beliebigen Nutzerinhalte, bietet keine Massenmail- oder File-Hosting-Funktionen und stellt keine Funktionen bereit, die Betrüger typischerweise ausnutzen. Der Dienst ist seit Ende 2024 deprecatet."
+  },
+  "Omacro": {
+    "description": "Omacro ist eine Plattform zur Steigerung digitaler Interaktion, indem sie Verbindungen erleichtert und Conversion Rates erhöht.",
+    "history": "Omacro ist eine SaaS-Plattform für Händlerfinder und Where-to-buy-Funktionen für Marken und Lieferanten. Die öffentliche Unternehmensgeschichte ist nur begrenzt dokumentiert; auffällige Übernahmen oder Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "Omacro ist eine Händlerfinder-Plattform, die Käufer mit autorisierten Händlern verbindet. Es gibt kein auffälliges Missbrauchssignal; es ist ein B2B-Marketingtool ohne Endnutzerfunktionen, die häufig für Betrug missbraucht werden."
+  },
+  "Omeda": {
+    "description": "Omeda ist eine Plattform, mit der neue Produkte ausgehend von präziser Zielgruppensegmentierung und Zielgruppenansprache aufgebaut werden können.",
+    "history": "Omeda wurde 1978 in Chicago, Illinois, gegründet. Das Unternehmen bietet Audience-Data- und Marketing-Automation-Lösungen für Medienunternehmen und Verlage. Omeda erhielt eine Wachstumsinvestition von Sverica Capital Management.",
+    "summary_abuse": "Omeda ist eine Enterprise-Plattform für Audience Data und Marketing Automation für Medienunternehmen. Es gibt kein auffälliges Missbrauchssignal; sie bedient B2B-Kunden aus der Medienbranche und hat keine Endnutzerfunktionen, die typischerweise für Betrug ausgenutzt werden."
+  },
+  "Omega Commerce": {
+    "description": "Omega Commerce ist eine Suite von Ecommerce-Tools, darunter Omega Instant Search, Shopping Feeds und Mipler Advanced Reports, die Produktentdeckung, Datensynchronisierung und Performance-Reporting für Online-Unternehmen unterstützen.",
+    "history": "Omega Commerce wurde 2015 in Hanoi, Vietnam, als eines der ersten Shopify-App-Entwicklungsunternehmen Vietnams gegründet. Das Unternehmen entwickelt Apps für Shopify-Händler, darunter Such-, Shopping-Feed- und Reporting-Tools. Auffällige Übernahmen oder Eigentümerwechsel gab es nicht.",
+    "summary_abuse": "Omega Commerce ist eine Suite von Apps im Shopify-Ökosystem für Produktentdeckung und Reporting. Es gibt kein auffälliges Missbrauchssignal; der Anbieter stellt B2B-Werkzeuge für Shopify-Händler bereit und bietet keine Endnutzerfunktionen, die häufig für Betrug missbraucht werden."
+  },
+  "Omeka": {
+    "description": "Omeka ist ein kostenloses Content Management System (CMS), das Archive, historische Gesellschaften, Bibliotheken, Museen und einzelne Forschende zur Veröffentlichung digitaler Sammlungen nutzen.",
+    "history": "Omeka wurde vom Roy Rosenzweig Center for History and New Media an der George Mason University entwickelt. Die Entwicklung wurde ab 2007 vom Institute of Museum and Library Services finanziert, die erste Version erschien im Februar 2008. Seit 2016 wird das Omeka-Projekt als unabhängige Einheit unter der fiskalischen Trägerschaft von Digital Scholar geführt, einer Nonprofit-Organisation zur Erhaltung von Open-Source-Infrastruktur für Digital Humanities. Die Plattform wurde über 500'000 Mal heruntergeladen und wird weltweit von Bibliotheken, Archiven und Museen genutzt.",
+    "summary_abuse": "Omeka ist eine Open-Source-Plattform für digitale Sammlungen und Ausstellungen, genutzt von akademischen Einrichtungen, Bibliotheken und Museen. Es gibt kein auffälliges Missbrauchssignal, sie wird primär selbst gehostet und bietet keine Endnutzerfunktionen für Content-Hosting, Massenmail oder anonyme Registrierung, die Betrüger anziehen."
+  },
+  "Ometria": {
+    "description": "Ometria ist eine Plattform für Customer Insight und Marketing Automation.",
+    "history": "Ometria wurde 2013 in London von Ivan Mazour, Djalal Lougouev, James Dunford Wood und Alastair James gegründet. Das Unternehmen nahm 2017 6 Millionen USD auf, danach 2021 eine Series C über 40 Millionen USD unter Führung von InfraVia. Ometria richtet sich mit KI-gestütztem Kundenmarketing an Retail-Marken.",
+    "summary_abuse": "Ometria ist eine B2B-Plattform für Kundendaten und Marketing Automation für Retail-Marken. Es gibt kein auffälliges Missbrauchssignal; sie wird von Händlern zur Verwaltung von Kundendaten und für zielgerichtete Kommunikation genutzt und bietet keine Endnutzerfunktionen, die häufig für Betrug missbraucht werden."
+  },
+  "Ometrics": {
+    "description": "Ometrics ist eine KI-Chatbot-Lösung, die Website-Besucher einbindet, Anfragen versteht und hilfreiche Antworten liefert.",
+    "history": "Ometrics wurde von Greg Ahern gegründet, einem CRO-Berater, der seit 1994 im digitalen Marketing aktiv ist. Das Unternehmen entwickelte das Ochatbot-KI-Chatbot-Produkt und bietet Exit-Popups, A/B-Testing und Umfragen an. Auffällige Übernahmen oder Eigentümerwechsel gab es nicht.",
+    "summary_abuse": "Ometrics ist eine CRO- und KI-Chatbot-Plattform für KMU-Websites. Exit-Popups und Lead-Capture-Slider sind leicht aufdringlich, aber in der CRO-Branche üblich. Dokumentierte Missbrauchsfälle gibt es nicht. Die Plattform wird nicht typischerweise mit Betrug oder Phishing verbunden."
+  },
+  "Omie": {
+    "description": "Omie ist ein kombiniertes Content-Management- und Ecommerce-System aus Brasilien.",
+    "history": "Omie wurde 2013 von Marcelo Lombardo und Rafael Olmos in Sao Paulo, Brasilien, gegründet. Es ist eine cloudbasierte ERP- und CRM-Plattform für brasilianische KMU. Das Unternehmen nahm 160 Millionen USD unter Führung von Partners Group auf und bedient inzwischen Zehntausende kleine Unternehmen in Brasilien.",
+    "summary_abuse": "Omie ist eine brasilianische ERP- und CRM-Plattform für KMU. Es gibt kein auffälliges Missbrauchssignal; es handelt sich um ein Backend-System für Unternehmensverwaltung ohne Endnutzerfunktionen, die typischerweise für Betrug oder Phishing ausgenutzt werden."
+  },
+  "Omise": {
+    "description": "Omise ist ein Payment Gateway für Thailand, Japan und Singapur und bietet Händlern Online- und Offline-Zahlungslösungen.",
+    "history": "Omise wurde im Juni 2013 von Jun Hasegawa und Ezra Don Harinsut in Thailand gegründet. Das Unternehmen ist ein Payment Gateway für Thailand, Japan und Singapur. Später wurde es zu OpnPayments rebrandet, um die breitere Marktexpansion abzubilden.",
+    "summary_abuse": "Omise ist ein südostasiatisches Payment Gateway. Zahlungsabwickler bergen allgemein das Risiko, für betrügerische Transaktionen genutzt zu werden, für Omise sind jedoch keine systematischen Missbrauchsfälle dokumentiert. PCI DSS-Compliance und übliche Betrugserkennungskontrollen gelten."
+  },
+  "Omni CMS": {
+    "description": "Omni CMS (früher OU Campus) ist ein Web Content Management System von Modern Campus. Modern Campus ist eine SaaS-basierte Software für Student Lifecycle Management zur Verwaltung von Weiterbildungs- und Non-Degree-Programmen.",
+    "history": "OU Campus wurde ursprünglich von Omni Update als CMS speziell für Hochschulen entwickelt. Modern Campus übernahm Omni Update und benannte das Produkt zuerst in Omni CMS und später in Modern Campus CMS um, wobei es in eine breitere Plattform für Student Lifecycle Management integriert wurde.",
+    "summary_abuse": "Omni CMS ist ein CMS für Hochschulen ohne auffälliges Missbrauchssignal. Es wird von Colleges und Universitäten für institutionelles Webmanagement genutzt und bietet keine Endnutzeroberfläche, die Betrüger typischerweise angreifen."
+  },
+  "Omniconvert": {
+    "description": "Omniconvert ist eine preisgekrönte Software für Conversion Rate Optimisation (CRO), die für A/B-Testing, Online-Umfragen und Traffic-Segmentierung eingesetzt werden kann.",
+    "history": "Das Unternehmen wurde um 2013 in Rumänien unter dem Namen Marketizator gegründet, später zu Omniconvert rebrandet und erhielt eine Investition von 1 Million EUR von Catalyst Romania. Es gilt als eine der ersten CRO-Plattformen, die A/B-Testing, Umfragen und Web-Personalisierung in einem Tool bündelten.",
+    "summary_abuse": "Omniconvert ist eine CRO- und A/B-Testing-Plattform ohne auffälliges Missbrauchssignal; sie wird vor allem von Ecommerce-Unternehmen zur Website-Optimierung genutzt und hat keine Endnutzer-Hosting-Oberfläche, die Betrüger anziehen würde."
+  },
+  "Omnikick": {
+    "description": "Omnikick ist eine Plattform, mit der Unternehmen ihre Kundenbasis über gezielte digitale Marketingstrategien ansprechen, konvertieren und ausbauen können.",
+    "history": "Omnikick ist eine Plattform für Marketing Automation und Kundeninteraktion. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Omnikick ist eine Marketing-Automation-Plattform. Wie alle Tools dieser Art kann sie potenziell für Spam-Kampagnen genutzt werden, konkrete dokumentierte Missbrauchsfälle sind jedoch nicht bekannt."
+  },
+  "Omnisend": {
+    "description": "Omnisend ist eine Ecommerce-Marketing-Automation-Plattform, die Unternehmen eine Omnichannel-Marketingstrategie ermöglicht.",
+    "history": "Omnisend wurde 2014 als Soundest von Rytis Lauris und Justas Kriukas in Litauen gegründet und im November 2017 zu Omnisend rebrandet, um den Fokus auf Omnichannel-Marketing abzubilden. Nach fünf bootstrapped Jahren nahm das Unternehmen 2019 seine erste Seed-Runde über 1,6 Millionen USD auf und wuchs bis 2024 auf 55 Millionen USD Umsatz und 100'000 Kunden.",
+    "summary_abuse": "Omnisend ist eine etablierte E-Mail- und SMS-Marketingplattform, die vor allem Ecommerce-Händler bedient. Wie alle Bulk-E-Mail-Anbieter birgt sie ein gewisses Missbrauchsrisiko für Spam-Kampagnen, die Plattform setzt jedoch Anti-Spam-Richtlinien durch und verlangt Zustimmung für Listen. Grössere Missbrauchsfälle sind öffentlich nicht dokumentiert."
+  },
+  "Omnisend Email Marketing & SMS": {
+    "description": "Omnisend Email Marketing & SMS ist ein Omnichannel-Marketing-Automation-Kanal, mit dem Shopify-Shopbetreiber SMS, Web-Push-Benachrichtigungen, WhatsApp, Facebook Messenger, Pop-ups, Segmentierung sowie dynamische Facebook- und Google-Ad-Integrationen verwalten können.",
+    "history": "Dies ist der Vertriebskanal im Shopify App Store für Omnisend, die E-Mail- und SMS-Marketing-Automation-Plattform, die 2014 als Soundest gegründet und 2017 rebrandet wurde. Die Shopify-App richtet sich speziell an Shopify-Händler mit Omnichannel-Marketingtools.",
+    "summary_abuse": "Als in Shopify integriertes E-Mail- und SMS-Marketingtool trägt Omnisend Email Marketing & SMS das typische Bulk-Sender-Missbrauchsrisiko von Marketing-Automation-Plattformen. Der Freigabeprozess des Shopify App Store und Omnisends eigene Anti-Spam-Richtlinien begrenzen Missbrauch, beseitigen ihn aber nicht vollständig. Grössere dokumentierte Missbrauchsfälle gibt es nicht."
+  },
+  "Omny Studio": {
+    "description": "Omny Studio ist eine Podcast-Hosting-Lösung, mit der Radiosender und Unternehmen Audioepisoden verwalten, monetarisieren, veröffentlichen, teilen, bearbeiten und analysieren können.",
+    "history": "Omny Studio wurde 2012 in Melbourne von Andrew Armstrong, Ed Hooper und Long Zheng gegründet und startete 2015 seine Enterprise-Plattform für Podcast-Hosting nach früheren Audioprojekten. Triton Digital ging 2017 eine strategische Partnerschaft mit Omny ein und schloss im Juni 2019 die Übernahme ab, wodurch Omny in Tritons Audiotechnologie-Portfolio integriert wurde.",
+    "summary_abuse": "Omny Studio ist eine Enterprise-Plattform für Podcast-Hosting und Audiomanagement, die vor allem von Radiosendern und Broadcastern genutzt wird. Es gibt kein auffälliges Missbrauchssignal und keine kostenlose Endnutzer-Hosting-Stufe, die betrügerische Inhalte anziehen würde."
+  },
+  "Omurga Sistemi": {
+    "history": "Omurga Sistemi ist eine türkische CMS- und Weblösungsplattform, betrieben von OS Bilisim. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Omurga Sistemi ist eine türkische CMS-Plattform ohne dokumentiertes Missbrauchssignal."
+  },
+  "On The Map": {
+    "description": "On The Map ist ein lokales Unternehmensmarketing-System, das Firmen hilft, ihre Sichtbarkeit zu erhöhen, ihre Online-Präsenz zu verwalten und mit gezielten digitalen Strategien sowie datenbasierten Tools Kunden in der Nähe zu gewinnen.",
+    "history": "On The Map, Inc. wurde im Herbst 2009 von Rick Hoskins in Miami, Florida, als Digitalmarketing-Agentur gegründet und bot SEO, Online-Marketing und Website-Entwicklung für Unternehmen in den USA an. Das Unternehmen entwickelte sich von einer lokalen SEO-Agentur zu einer breiteren Digitalmarketing-Plattform für lokale Sichtbarkeit und Multi-Location-Präsenzmanagement.",
+    "summary_abuse": "On The Map ist eine US-Digitalmarketing-Agentur und Plattform für lokale Sichtbarkeit. Eine Missbrauchsgeschichte ist nicht dokumentiert. Als Agentur für Brancheneinträge und SEO hat sie nur eine minimale Endnutzer-Angriffsfläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "OnChat": {
+    "description": "OnChat ist eine Plattform, die mit einem KI-Chatbot Kundensupport-Interaktionen übernimmt und zugleich vertriebsbezogene Anfragen sowie Kundenkommunikation unterstützt.",
+    "history": "OnChat ist ein SaaS für KI-Chatbot-basierten Kundensupport. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OnChat ist ein KI-Live-Chat-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "Ondestek": {
+    "description": "Ondestek ist eine Live-Chat-Software für Echtzeit-Kundenkommunikation über Websites.",
+    "history": "Ondestek ist eine türkische Software für Live-Chat und Kundensupport. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Ondestek ist ein Live-Chat-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "One.com": {
+    "description": "One.com ist ein Unternehmen aus Dänemark, das günstige WordPress- und Shared-Webhosting-Pakete anbietet.",
+    "history": "One.com wurde 2002 von Jacob Jensen in Dänemark als B-One gegründet, später zu One.com rebrandet und wuchs innerhalb von 20 Jahren auf über 1,5 Millionen Kunden in 149 Ländern. Das Unternehmen expandierte auf Büros in fünf europäischen Ländern mit über 300 Mitarbeitenden.",
+    "summary_abuse": "One.com ist ein Shared-Webhosting-Anbieter mit Millionen Kunden. Wie bei allen günstigen Shared-Hosting-Anbietern kann die gemeinsame Infrastruktur zum Hosten von Phishing-Seiten oder Malware genutzt werden, wenn Missbrauchskontrollen auf Kontoebene nicht ausreichen. Grössere öffentliche Vorfälle sind nicht bekannt, Shared Hosting in grossem Umfang bringt aber immer ein gewisses Missbrauchsrisiko mit sich."
+  },
+  "OneAll": {
+    "description": "OneAll ist eine Social-Login-Lösung, mit der sich Nutzer auf deiner Website oder mobilen App mit ihren Zugangsdaten von Social-Networking-Seiten anmelden können.",
+    "history": "OneAll ist ein Social-Login- und Identity-Aggregation-API-Dienst. Er stellt Social-Authentication-Verbindungen für Websites bereit, sodass Nutzer sich über Drittanbieter-Identitätsprovider anmelden können. Zur Gründungsgeschichte ist öffentlich nur wenig verfügbar.",
+    "summary_abuse": "OneAll ist eine Social-Login-API ohne auffälliges Missbrauchssignal. Social-Login-Vermittler können theoretisch für Credential Harvesting missbraucht werden, OneAll arbeitet jedoch als standardmässiger OAuth-Proxy ohne dokumentierte Missbrauchsfälle."
+  },
+  "OneAPM": {
+    "description": "OneAPM ist eine Plattform für durchgängiges Application Performance Management mit Echtzeitüberwachung, Anomalieerkennung und Datenanalyse zur Optimierung des IT-Betriebs.",
+    "history": "OneAPM wurde 2008 in Peking von He XiaoYang und Huang Dong unter dem Namen 蓝海讯通 (Lanhai Xuntong) gegründet und nahm über mehrere Finanzierungsrunden hinweg 37,9 Millionen USD auf, darunter eine Series C. Das Unternehmen richtet sich mit APM- und IT-Operations-Monitoring-Lösungen an chinesische Enterprise-Kunden.",
+    "summary_abuse": "OneAPM ist eine Plattform für Application Performance Monitoring ohne auffälliges Missbrauchssignal. Es ist ein Backend-Infrastruktur-Monitoring-Tool ohne Endnutzeroberfläche, die Betrüger angreifen würden."
+  },
+  "OneCause": {
+    "description": "OneCause ist eine Fundraising-Plattform für Nonprofits zur Verwaltung verschiedener Arten von Spendenkampagnen.",
+    "history": "OneCause wurde 2008 in Indianapolis als BidPal gegründet und gehörte zu den Pionieren des mobilen Bietens für Nonprofit-Galas. Später wurde das Unternehmen zu OneCause rebrandet, um das breitere Fundraising-Angebot abzubilden. Bis 2024 half es Nonprofits, über 8 Milliarden USD in 90'000 Events zu sammeln.",
+    "summary_abuse": "OneCause ist eine Fundraising-Plattform für Nonprofits ohne auffälliges Missbrauchssignal; sie wird ausschliesslich von registrierten Nonprofits für wohltätiges Fundraising mit Zahlungsabwicklung genutzt und ist keine Oberfläche, die Betrüger typischerweise angreifen."
+  },
+  "OneCommerce": {
+    "description": "OneCommerce ist eine Ecommerce-Lösungsplattform, die Conversion Rates verbessert, Marketing Automation unterstützt und Social Proof nutzt.",
+    "history": "OneCommerce ist ein SaaS für Ecommerce-Conversion-Optimierung. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OneCommerce ist ein Ecommerce-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "Onehub": {
+    "description": "Onehub ist eine cloudbasierte Plattform, die sichere Dateifreigabe und Zugriffskontrolle für Unternehmen und Teams ermöglicht.",
+    "history": "Onehub wurde 2007 in Seattle als Plattform für sichere Dateifreigabe und virtuelle Datenräume für Unternehmen gegründet. Über 1 Million Kunden haben sie genutzt, um mehr als 4 Milliarden Dateien zu teilen. Grössere Übernahmen oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Onehub ist ein sicherer Business-Dienst für Dateifreigabe und virtuelle Datenräume. Die geschäftsorientierten Zugriffskontrollen und das auf Verschlüsselung ausgerichtete Design bedeuten geringe Endnutzerexponierung und kein dokumentiertes Missbrauchssignal."
+  },
+  "Onepage": {
+    "description": "Onepage ist eine Page-Building-Software, die die Erstellung und Verwaltung von Webseiten produktiver macht.",
+    "history": "Onepage ist ein Page-Builder-SaaS zur Erstellung von Landingpages und One-Page-Websites. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Onepage ist ein SaaS-Page-Builder. Wie alle gehosteten Page Builder könnte er theoretisch zum Hosten von Phishing- oder Scam-Landingpages genutzt werden, konkrete dokumentierte Vorfälle sind jedoch nicht bekannt."
+  },
+  "OnePage Express": {
+    "description": "OnePage Express ist ein ansprechendes WordPress-Theme, mit dem sich per Drag and Drop in wenigen Minuten eine One-Page-Website erstellen lässt.",
+    "history": "OnePage Express ist ein WordPress-Theme zur Erstellung von One-Page-Websites mit Freemium- und kostenpflichtigen Stufen. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OnePage Express ist ein WordPress-Theme ohne dokumentiertes Missbrauchssignal."
+  },
+  "OnePress Social Locker": {
+    "description": "Social Locker sperrt die wertvollsten Inhalte deiner Website hinter Social Buttons, bis Besucher deine Seite liken, teilen, +1 geben oder tweeten.",
+    "history": "OnePress Social Locker ist ein WordPress-Plugin, das Inhalte hinter Social-Sharing-Buttons verbirgt und genutzt wird, um Social-Media-Reichweite zu erhöhen, indem ein Tweet, Like oder Share zum Freischalten verlangt wird. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OnePress Social Locker ist ein WordPress-Plugin mit Social-Share-Gate. Es kann genutzt werden, um soziale Interaktionen zu erzwingen, bevor Inhalte sichtbar werden, ein Muster, das als manipulativ gilt. Auf Plattformebene sind keine Missbrauchsfälle dokumentiert, der Mechanismus selbst liegt jedoch nahe bei Dark Patterns."
+  },
+  "OneSignal": {
+    "description": "OneSignal ist eine Messaging-Lösung für Customer Engagement.",
+    "history": "OneSignal wurde 2015 von George Deglin und Long Vo gegründet, nachdem sie von einem durch Y Combinator unterstützten Mobile-Game-Studio umgeschwenkt hatten, und wurde Marktführer für Push-Benachrichtigungen. Das Unternehmen nahm 2019 eine Series B über 25 Millionen USD und 2022 eine Series C über 50 Millionen USD auf und erreichte bis 2024 1,3 Millionen Kunden bei insgesamt 84 Millionen USD Funding.",
+    "summary_abuse": "OneSignal ist eine Plattform für Push-Benachrichtigungen und Messaging, die breit und legitim für App-Engagement genutzt wird. Der kostenlose Tarif mit grosser Reichweite macht sie gelegentlich attraktiv für Spam-Push-Benachrichtigungen. Die Plattform setzt AUP durch und überwacht missbräuchliche Versandmuster, Push-Notification-Spam ist jedoch ein dokumentierter Missbrauchsvektor für Engagement-Bait-Kampagnen."
+  },
+  "OneStat": {
+    "history": "OneStat ist ein Webanalyse-Dienst, der in den frühen 2000er-Jahren aktiv war. Der Dienst scheint stark an Bedeutung verloren zu haben und ist heute möglicherweise weitgehend inaktiv.",
+    "summary_abuse": "OneStat ist ein Legacy-Webanalyse-Dienst ohne auffälliges Missbrauchssignal."
+  },
+  "OneTag": {
+    "description": "OneTag ist eine Werbeplattform, die den Kauf und Verkauf von Online-Werbeflächen automatisiert.",
+    "history": "OneTag wurde 2015 von Daniel Pirchio und Arnaldo Resega in Italien gegründet und wuchs als programmatische Werbeplattform mit SSP/DSP-Funktionen. Im September 2022 wurde das Unternehmen von Wise Equity übernommen. 2026 übernahm Onetag das italienische Ad-Tech-Unternehmen Aryel, um in immersive Werbung zu expandieren.",
+    "summary_abuse": "OneTag ist eine programmatische Werbeplattform. Ad-Tech-Plattformen sind ein häufiger Vektor für Malvertising, bei dem schädliche Anzeigen über legitime Werbenetzwerke ausgeliefert werden. Als SSP/DSP-Plattform kann OneTags Inventar Drittanbieter-Publisherseiten umfassen, deren Anzeigenqualitätskontrollen variieren, wodurch das für programmatische Werbenetzwerke typische inhärente Malvertising-Risiko entsteht."
+  },
+  "OneTrust": {
+    "description": "OneTrust ist eine cloudbasierte Compliance-Plattform für Datenschutzmanagement.",
+    "history": "OneTrust wurde 2016 von Kabir Barday in Atlanta mit Fokus auf GDPR-Compliance-Tools gegründet. Nach der Series A 2019 erreichte OneTrust mit einer Bewertung von 1,3 Milliarden USD Unicorn-Status, nahm insgesamt 1,13 Milliarden USD auf und wuchs nach der Series C 2020 auf eine Bewertung von 5,1 Milliarden USD. 2021 übernahm das Unternehmen Convercent, um den Bereich Ethik und Compliance auszubauen, und erhielt 2023 eine Series D über 150 Millionen USD.",
+    "summary_abuse": "OneTrust ist eine Plattform für Datenschutz- und Compliance-Management, die von grossen Unternehmen genutzt wird. Es gibt kein auffälliges Missbrauchssignal, ihre Tools für Consent Management, Privacy und Data Governance werden von Organisationen eingesetzt, um regulatorische Risiken zu senken, nicht als Oberflächen, die Betrüger ausnutzen."
+  },
+  "Oney": {
+    "description": "Oney ist eine App, die Konsumenten wieder mehr Kontrolle über ihre Ausgaben gibt und Ratenzahlungen allgemein verfügbar macht.",
+    "history": "Oney wurde 1983 in Frankreich von Gérard Mulliez aus der Auchan Group gegründet, gehörte zu den Pionieren für Ratenzahlungslösungen in Europa und lancierte 2008 die Zahlungsmethode 3x/4x. Das Unternehmen ist in 10 europäischen Ländern tätig und gehört gemeinsam Groupe BPCE (50,1 %) und ELO (49,9 %).",
+    "summary_abuse": "Oney ist ein regulierter europäischer Zahlungs- und Konsumfinanzierungsanbieter. Als lizenzierte Banktochter mit Tätigkeit in Europa hat Oney kein auffälliges Missbrauchssignal und unterliegt der üblichen Finanzaufsicht."
+  },
+  "Onfido": {
+    "description": "Onfido ist ein Technologieunternehmen, das Unternehmen hilft, die Identität von Personen mit einem Foto-Ausweisdokument, einem Selfie und Algorithmen für künstliche Intelligenz zu verifizieren.",
+    "history": "Onfido wurde im Juli 2012 von den Oxford-Absolventen Husayn Kassai, Eamon Jubbawy und Ruhul Amin gegründet und gehörte zu den Pionieren der KI-gestützten Ausweisdokumentenprüfung. Nach über 200 Millionen USD Funding, mehr als 500 Mitarbeitenden und über 140 Millionen USD ARR wurde das Unternehmen im April 2024 für 650 Millionen USD vollständig in bar von Entrust Corporation übernommen.",
+    "summary_abuse": "Onfido ist eine Plattform zur Identitätsprüfung, die Betrug verhindern und nicht ermöglichen soll. Es gibt kein auffälliges Missbrauchssignal; Onfido ist ein zentraler Bestandteil von Anti-Fraud-Infrastruktur für Finanzinstitute und Fintechs."
+  },
+  "ONiAD": {
+    "description": "ONiAd ist eine Softwareplattform, die Marken über Omnichannel-Werbung mit ihrem Publikum verbindet.",
+    "history": "ONiAD wurde 2017 gegründet, hat seinen Sitz in Saragossa, Spanien, und bietet digitale Omnichannel-Werbetechnologie für Formate wie Display, Native, Video, Audio und DOOH. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "ONiAD ist eine digitale Werbeplattform, die wie andere Werbenetzwerke für Malvertising-Kampagnen oder betrügerischen Anzeigenverkehr missbraucht werden könnte. Konkrete Missbrauchsfälle sind öffentlich nicht dokumentiert, die Rolle als Ad Broker platziert sie aber in einer moderaten Risikokategorie im Vergleich zu reinen SaaS-Tools."
+  },
+  "Onicon": {
+    "description": "Onicon ist eine in Russland entwickelte Live-Chat-Software von Megagroup.",
+    "history": "Onicon ist eine russische Live-Chat-Software, entwickelt von Megagroup, einem Webdienstleistungsunternehmen. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Onicon ist ein in Russland entwickeltes Live-Chat-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "Onlim": {
+    "description": "Onlim ist eine Softwareplattform für Chatbots, Social-Media-Management und intelligente persönliche Assistenten.",
+    "history": "Onlim wurde 2015 von Alexander Wahler, Corneliu Valentin Stanciu und Ioan Toma in Telfs, Österreich, als Spin-off der Universität Innsbruck gegründet. Das Unternehmen ist auf wissensgetriebene Conversational AI spezialisiert und baut Chatbots sowie Sprachassistenten für Unternehmen in der DACH-Region, mit besonderer Expertise in der Verbindung von Knowledge Graphs und NLP.",
+    "summary_abuse": "Onlim ist eine österreichische Enterprise-Plattform für Conversational AI ohne dokumentierte Missbrauchsgeschichte; sie bietet Chatbot- und Sprachassistentenlösungen für Unternehmen; die Plattform ist nicht öffentlich oder anonym nutzbar und hat keine bekannten Verbindungen zu Phishing oder Betrug."
+  },
+  "Online Chat Centers": {
+    "description": "Online Chat Centers ist eine Live-Chat-Softwareplattform zur Integration in Websites, die Echtzeit-Kundenkommunikation und Support über verschiedene Online-Umgebungen ermöglicht.",
+    "history": "Online Chat Centers ist ein Live-Chat-SaaS für die Integration von Website-Kundensupport. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Online Chat Centers ist ein Live-Chat-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "Online Succes": {
+    "description": "Online Succes ist eine niederländische Plattform für Marketing Automation und Website-Besuchertracking.",
+    "history": "Online Succes ist eine niederländische Plattform für Marketing Automation und Website-Besuchertracking, die sich an niederländische KMU richtet und Lead-Identifikation sowie Marketing Automation bietet, um Website-Traffic in qualifizierte Leads umzuwandeln.",
+    "summary_abuse": "Online Succes ist ein niederländisches B2B-Tool für Marketing Automation und Besuchertracking. Es sammelt Verhaltensdaten von Website-Besuchern und hat damit eine moderate Datenschutzoberfläche. Eine Missbrauchsgeschichte ist nicht dokumentiert, und als B2B-Aboprodukt für niederländische Unternehmen ist anonyme oder betrügerische Nutzung unwahrscheinlich."
+  },
+  "onlyfy Application Manager": {
+    "description": "onlyfy Application Manager ist eine Bewerbermanagement- und Recruiting-Software, früher bekannt als Prescreen, zur Verwaltung von Einstellungsprozessen und Bewerbungen.",
+    "history": "onlyfy Application Manager hiess früher Prescreen und war ein Applicant Tracking System. Es wurde von XING, heute New Work SE, dem deutschsprachigen beruflichen Netzwerk, übernommen und im Rahmen von XINGs HR-Produktsuite zu onlyfy rebrandet.",
+    "summary_abuse": "onlyfy Application Manager ist ein ATS, das Arbeitgeber für Recruiting nutzen, ohne auffälliges Missbrauchssignal. Es verarbeitet personenbezogene Daten von Bewerbern in Übereinstimmung mit GDPR und bietet keine Endnutzerfunktionen, die Betrüger anziehen würden."
+  },
+  "onpublix": {
+    "description": "onpublix ist eine Web Content Management System (CMS)-Plattform für eBusinesses.",
+    "history": "onpublix ist ein deutsches Web-CMS für eBusinesses; auffällige Eigentümerwechsel oder Deprecation-Ereignisse sind nicht dokumentiert.",
+    "summary_abuse": "onpublix ist eine deutsche CMS-Plattform ohne auffälliges Missbrauchssignal."
+  },
+  "Onsen UI": {
+    "description": "Onsen UI ist ein Open-Source-Framework für hybride HTML5-Apps und bietet mobile UI-Komponenten für die Entwicklung mit PhoneGap und Cordova.",
+    "history": "Onsen UI wurde 2013 von der Asial Corporation (Monaca) in Japan als Open-Source-Framework für mobile UIs in hybriden Cordova- und PhoneGap-Apps entwickelt. Version 2.0 erschien 2016 mit einer auf Web Components basierenden Architektur, die nicht mehr an bestimmte JS-Frameworks gebunden war.",
+    "summary_abuse": "Onsen UI ist eine Open-Source-Bibliothek für mobile UI-Komponenten ohne Missbrauchssignal. Es ist ein Frontend-Framework für Entwickler und bietet keine verbrauchernahe Oberfläche, die Betrüger gezielt ausnutzen würden."
+  },
+  "OnShop": {
+    "description": "OnShop ist eine E-Commerce-Plattform für Onlinehändler.",
+    "history": "OnShop ist eine Nischenplattform für E-Commerce, die sich an Onlinehändler richtet und keine öffentlichen Preise ausweist. Es sind keine auffälligen Eigentümerwechsel oder Übernahmen dokumentiert.",
+    "summary_abuse": "OnShop ist ein E-Commerce-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "OnSip": {
+    "description": "OnSip ist eine gehostete VoIP-Lösung mit Website-Chat-Funktionen für die Geschäftskommunikation.",
+    "history": "Das Unternehmen wurde 2004 als Junction Networks gegründet, benannte sich später in OnSIP um und bietet seit über 20 Jahren gehostete VoIP- und Cloud-PBX-Dienste auf Basis patentierter Technologie an. Grössere Übernahmen oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "OnSip ist eine legitime Plattform für geschäftliche VoIP- und Live-Chat-Kommunikation ohne auffälliges Missbrauchssignal. VoIP-Dienste bergen allgemein ein gewisses Risiko für Robocalls oder Gebührenbetrug, für OnSip ist aber keine dokumentierte Geschichte bekannt, solche Aktivitäten in grossem Umfang ermöglicht zu haben."
+  },
+  "Onsite Support": {
+    "description": "Onsite Support ist eine Plattform mit KI-gestützten Helpdesk-Werkzeugen, die Betriebskosten senken, Produktrückgaben reduzieren und Antwortzeiten im Kundendienst verkürzen sollen.",
+    "history": "Onsite Support ist eine KI-gestützte Helpdesk- und Live-Chat-Plattform. Es sind keine auffälligen Eigentümerwechsel oder Übernahmen dokumentiert.",
+    "summary_abuse": "Onsite Support ist ein KI-Helpdesk-SaaS ohne dokumentiertes Missbrauchssignal."
+  },
+  "OnUniverse": {
+    "description": "OnUniverse ist der erste Website-Builder und die erste Commerce-Plattform, die für mobile Geräte entwickelt wurde.",
+    "history": "OnUniverse wurde 2014 von Joseph Cohen gegründet, nachdem er sein Ed-Tech-Startup Lore verkauft hatte. Universe, vermarktet als OnUniverse, gilt als erster mobil-nativer Website-Builder für iPhone und iPad. Das Unternehmen war Teil des Y-Combinator-Jahrgangs W18 und erhielt 2020 eine Series-A-Finanzierung über 10 Millionen Dollar von Google Ventures sowie 2021 eine Series-B-Finanzierung über 30 Millionen Dollar.",
+    "summary_abuse": "OnUniverse ist ein mobiler Website-Builder mit Gratisstufe, über die Nutzer öffentlich erreichbare Websites erstellen können. Dadurch besteht ein moderates Risiko für betrügerische Landingpages oder Phishing-Websites, auch wenn der rein mobile Bearbeitungsansatz für professionellere Angreifer weniger attraktiv ist. Grössere Missbrauchsfälle sind öffentlich nicht dokumentiert."
+  },
+  "Ookla Speedtest Custom": {
+    "description": "Speedtest Custom ist eine robuste und genaue Testlösung von Ookla, die auf HTML5 basiert, ohne Flash auskommt und mobile sowie Desktop-Browser unterstützt.",
+    "history": "Ookla wurde 2006 in Seattle von Mike Apgar und Doug Suttles gegründet und machte Speedtest.net zum faktischen Standard für Internet-Geschwindigkeitstests. Ziff Davis übernahm Ookla 2014. Das Produkt Speedtest Custom ersetzte 2016 das Flash-basierte Speedtest Mini. 2026 kündigte Accenture die Übernahme von Ookla von Ziff Davis für 1,2 Milliarden Dollar an.",
+    "summary_abuse": "Ookla Speedtest Custom ist ein Widget für Netzwerk-Geschwindigkeitstests, das auf Websites von ISPs und Unternehmen eingebettet wird. Es hat kein auffälliges Missbrauchssignal, da es eine klar abgegrenzte Diagnosefunktion erfüllt und keine Oberfläche für Hosting oder Content-Veröffentlichung bietet."
+  },
+  "Oopy": {
+    "description": "Oopy bietet dir eine einfache Möglichkeit, deine Notion-Seite in eine performante Website zu verwandeln.",
+    "history": "Oopy ist ein südkoreanisches SaaS-Produkt, das Notion-Seiten mit eigenen Domains in Websites umwandelt. Es wurde um 2020 gegründet und ermöglicht Nutzern, ohne Programmierung einfache öffentliche Websites aus Notion-Dokumenten zu erstellen.",
+    "summary_abuse": "Oopy ermöglicht es Nutzern, öffentliche Websites aus Notion-Seiten mit eigenen Domains zu veröffentlichen. Dadurch entsteht ein gewisses Risiko für Phishing-Landingpages oder betrügerische Inhalte. Die einfache Einrichtung und die Unterstützung eigener Domains könnten ausgenutzt werden, konkrete dokumentierte Missbrauchsfälle sind jedoch nicht bekannt."
+  },
+  "Opal": {
+    "description": "Opal ist ein Ruby-zu-JavaScript-Compiler, der Ruby-Code durch Umwandlung in JavaScript im Webbrowser lauffähig macht.",
+    "history": "Opal ist ein Open-Source-Transpiler von Ruby nach JavaScript, mit dem Ruby-Code in Webbrowsern ausgeführt werden kann. Das Projekt wird seit etwa 2012 von der Community gepflegt, ohne auffällige Unternehmensfinanzierung oder Eigentümerwechsel.",
+    "summary_abuse": "Opal ist ein Ruby-zu-JavaScript-Transpiler ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne verbrauchernahe Oberfläche, die Betrüger gezielt angreifen würden."
+  },
+  "Open AdStream": {
+    "history": "Open AdStream ist eine Ad-Serving-Plattform, die unter WPP Teil des programmatischen Werbeökosystems von Xaxis wurde. Ursprünglich ein eigenständiger Ad Server, ging sie später im programmatischen Angebot von Xaxis auf.",
+    "summary_abuse": "Open AdStream ist eine Ad-Serving-Plattform. Wie alle Werbenetzwerke trägt sie ein grundsätzliches Malvertising-Risiko, wenn Angreifer versuchen, schädliche Anzeigen über die programmatische Lieferkette einzuschleusen. Das ist ein Standardrisiko von Ad-Tech-Plattformen und kein spezifisch dokumentierter Vorfall."
+  },
+  "Open Classifieds": {
+    "history": "Open Classifieds ist eine Open-Source-Plattform für Kleinanzeigen auf PHP-Basis, mit der Betreiber Kleinanzeigen-Websites betreiben können. Eine CPE-Registrierung weist darauf hin, dass das Projekt historisch in Schwachstellendatenbanken erfasst wurde. Auffällige Übernahmen oder grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Open Classifieds ist eine selbst gehostete Kleinanzeigenplattform. Wie jedes offene Kleinanzeigensystem kann sie zum Hosten illegaler Secondhand-Angebote eingesetzt werden, die Software selbst ist jedoch ein neutrales Werkzeug, und Missbrauch auf Plattformebene ist nicht dokumentiert."
+  },
+  "Open edX": {
+    "description": "Die Open edX Plattform ist ein freies und quelloffenes Kursverwaltungssystem.",
+    "history": "Open edX wurde 2012 als Joint Venture von MIT und Harvard University gestartet und bildete das Open-Source-Rückgrat von edX, einer der grössten Online-Lernplattformen. edX wurde 2021 von 2U übernommen, die Open edX Plattform blieb jedoch ein gemeinschaftliches Open-Source-Projekt unter der gemeinnützigen Open edX Organisation.",
+    "summary_abuse": "Open edX ist ein Open-Source-Lernmanagementsystem ohne auffälliges Missbrauchssignal. Es wird von Universitäten und Unternehmen für Onlinekurse eingesetzt und bietet keine verbrauchernahe Oberfläche, die Betrüger typischerweise ins Visier nehmen."
+  },
+  "Open eShop": {
+    "history": "Open eShop ist eine kleine Open-Source-E-Commerce-Plattform auf PHP-Basis. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert, und das Projekt scheint nur geringe Aktivität zu haben.",
+    "summary_abuse": "Open eShop ist ein nischiges Open-Source-E-Commerce-Skript ohne dokumentiertes Missbrauchssignal."
+  },
+  "Open Graph": {
+    "description": "Open Graph ist ein Protokoll, mit dem beliebige Webseiten in den Social Graph integriert werden können.",
+    "history": "Das Open Graph Protokoll wurde 2010 von Facebook eingeführt, damit jede Webseite als reichhaltiges Objekt in einem Social Graph erscheinen kann. Heute wird es allgemein für Linkvorschauen in sozialen Medien eingesetzt.",
+    "summary_abuse": "Open Graph ist ein Web-Metadatenstandard ohne Missbrauchssignal."
+  },
+  "Open Journal Systems": {
+    "description": "Open Journal Systems (OJS) ist eine Open-Source-Software zum Verwalten und Veröffentlichen wissenschaftlicher Zeitschriften.",
+    "history": "Open Journal Systems wurde vom Public Knowledge Project (PKP) an der Simon Fraser University in Kanada entwickelt und erschien erstmals 2001. Es ist die weltweit am weitesten verbreitete Open-Source-Plattform für wissenschaftliche Zeitschriften und wird global von Tausenden Journals genutzt.",
+    "summary_abuse": "Open Journal Systems ist eine Plattform für akademische Zeitschriften ohne auffälliges Missbrauchssignal; sie wird von Universitäten und Forschungseinrichtungen für peer-reviewte Journalverwaltung genutzt und bietet keine verbrauchernahe Oberfläche, auf die Betrüger abzielen."
+  },
+  "Open Web Analytics": {
+    "description": "Open Web Analytics ist ein Open-Source-Webanalysewerkzeug für selbst gehostetes, anpassbares Tracking und Reporting von Website-Traffic und Nutzerverhalten.",
+    "history": "Open Web Analytics ist eine selbst gehostete Open-Source-Alternative zu Google Analytics, die seit etwa 2006 von Peter Adams entwickelt und gepflegt wird. Das Projekt blieb klein und communitygetrieben, ohne auffällige Unternehmensunterstützung.",
+    "summary_abuse": "Open Web Analytics ist ein selbst gehostetes Webanalysewerkzeug ohne auffälliges Missbrauchssignal. Durch den Self-Hosting-Ansatz bleiben mögliche Risiken auf die Infrastruktur des jeweiligen Betreibers beschränkt."
+  },
+  "Open-Props": {
+    "description": "Open-Props ist eine Sammlung von CSS Custom Properties, die adaptives und konsistentes Design beschleunigt.",
+    "history": "Open-Props ist eine Open-Source-Bibliothek für CSS Custom Properties, die Adam Argyle, Mitglied des Google Chrome Teams, um 2021 entwickelt hat, um Designkonsistenz mit CSS-Variablen schneller umzusetzen.",
+    "summary_abuse": "Open-Props ist eine CSS-Utility-Bibliothek ohne Missbrauchssignal. Es ist ein Designwerkzeug für Entwickler ohne verbrauchernahe Oberfläche."
+  },
+  "Open-Xchange App Suite": {
+    "description": "Open-Xchange ist eine webbasierte Software-Suite für Kommunikation, Zusammenarbeit und Office-Produktivität.",
+    "history": "Open-Xchange wurde 2005 in Deutschland als webbasierte Groupware- und E-Mail-Plattform gegründet und wird von europäischen ISPs und Hosting-Anbietern stark als White-Label-Suite für E-Mail und Zusammenarbeit genutzt. Später kamen Dokumentbearbeitung mit OX Text und ein Angebot für souveräne Clouds hinzu.",
+    "summary_abuse": "Open-Xchange App Suite ist eine Plattform für geschäftliche E-Mail und Zusammenarbeit. Als gehostete E-Mail-Plattform trägt sie das übliche Spam-Risiko, wird aber vor allem von ISPs und Unternehmen mit entsprechenden Abuse-Kontrollen betrieben. Auffällige dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "OpenBSD httpd": {
+    "history": "OpenBSD httpd ist der integrierte Webserver des Betriebssystems OpenBSD. Er wurde mit OpenBSD 5.6 im Jahr 2014 als sicherheitsorientierte Alternative zu externen Webservern eingeführt und wird vom OpenBSD-Projekt gepflegt.",
+    "summary_abuse": "OpenBSD httpd ist ein in OpenBSD enthaltener Webserver, der für sein sicherheitsorientiertes Design bekannt ist. Er hat kein auffälliges Missbrauchssignal und wird vor allem von sicherheitsbewussten Administratoren eingesetzt."
+  },
+  "OpenCart": {
+    "description": "OpenCart ist eine freie und quelloffene E-Commerce-Plattform zum Erstellen und Verwalten von Onlineshops; sie ist in PHP geschrieben und nutzt eine MySQL-Datenbank zur Speicherung von Informationen.",
+    "history": "OpenCart wurde von Christopher G. Mann entwickelt und 2005 erstmals veröffentlicht. Eine umfassende Neufassung erschien 2008 unter der GPL-3.0-Lizenz. Die Plattform entwickelte sich weltweit zu einer der verbreiteteren Open-Source-E-Commerce-Lösungen auf PHP-Basis, besonders bei kleinen und mittleren Unternehmen.",
+    "summary_abuse": "OpenCart-Shops werden wegen ihrer Zahlungsfunktionen gelegentlich Ziel von Magecart-ähnlichen Card-Skimming-Angriffen. Die Software selbst hat jedoch kein auffälliges Profil als Werkzeug böswilliger Akteure. Betreiber veralteter Versionen waren historisch von SQL-Injection-Schwachstellen betroffen. Legitime Nutzung überwiegt deutlich."
+  },
+  "OpenChat": {
+    "description": "OpenChat ist eine gemeinschaftlich besessene Chat-Anwendung, die Datenschutz, Sicherheit und Anonymität priorisiert.",
+    "history": "OpenChat (oc.app) ist eine datenschutzorientierte Community-Chat-Anwendung. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OpenChat ist eine datenschutzorientierte Chat-Anwendung. Gemeinschaftlich betriebene Chat-Plattformen können zur Koordination illegaler Aktivitäten genutzt werden, konkrete dokumentierte Missbrauchsfälle für diese Plattform sind jedoch nicht bekannt."
+  },
+  "OpenCities": {
+    "description": "OpenCities ist ein Content-Management-System für Behörden und staatliche Organisationen.",
+    "history": "OpenCities war ein australischer CMS-Anbieter mit Fokus auf Behörden und wurde von Granicus übernommen, einem US-Unternehmen für Verwaltungstechnologie. Unter Granicus wurde es Teil der GovAccess-Produktsuite für digitale Verwaltungsdienste.",
+    "summary_abuse": "OpenCities ist eine CMS-Plattform für Behörden ohne auffälliges Missbrauchssignal; sie richtet sich an staatliche Organisationen mit kontrollierten Beschaffungsprozessen und bietet keine öffentliche Gratisstufe oder anonyme Registrierung, die ausgenutzt werden könnte."
+  },
+  "OpenCms": {
+    "history": "OpenCms wurde von Alkacon Software in Deutschland entwickelt, die erste Version erschien 2000. Es ist ein Java-basiertes Open-Source-CMS mit stabiler Nutzerbasis im europäischen Enterprise-Markt, wobei Alkacon neben der freien Community Edition kommerziellen Support anbietet.",
+    "summary_abuse": "OpenCms hat kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Java-CMS, das vor allem von Unternehmen und Behörden in Europa genutzt wird und keine verbrauchernahe Gratisstufe bietet, die böswillige Akteure anziehen würde."
+  },
+  "OpenCV": {
+    "description": "OpenCV (Open Source Computer Vision Library) ist eine quelloffene Softwarebibliothek für Computer Vision und maschinelles Lernen.",
+    "history": "OpenCV wurde 1999 von Intel Research initiiert, mit Gary Bradski als Leiter. Die erste Alpha-Version wurde 2000 an der IEEE-CVPR-Konferenz veröffentlicht. Die Unterstützung wechselte von Intel zu Willow Garage, danach zu Itseez, das später wieder von Intel übernommen wurde. 2012 ging die Trägerschaft an die gemeinnützige OpenCV.org Foundation über.",
+    "summary_abuse": "OpenCV ist eine grundlegende Computer-Vision-Bibliothek ohne Missbrauchssignal; sie wird von Forschern, Unternehmen und Behörden für legitime Vision-Anwendungen eingesetzt."
+  },
+  "OpenElement": {
+    "description": "OpenElement ist eine kostenlose Anwendung zum Erstellen von Websites mit WYSIWYG-Oberfläche.",
+    "history": "OpenElement ist ein kostenloser WYSIWYG-Website-Builder und CMS auf PHP-Basis. Es ist ein kleines Open-Source-Projekt mit begrenzter Community-Aktivität und scheint vor allem von einem kleinen Team im Vereinigten Königreich gepflegt worden zu sein.",
+    "summary_abuse": "OpenElement hat kein auffälliges Missbrauchssignal. Es ist ein kleiner selbst gehosteter Website-Builder mit geringer Verbreitung und ohne verbrauchernahe gehostete Dienstleistung, die ausgenutzt werden könnte."
+  },
+  "OpenGrok": {
+    "history": "OpenGrok ist eine Open-Source-Engine für Quellcode-Suche und Querverweise, die ursprünglich um 2005 bei Sun Microsystems entwickelt und unter der CDDL-Lizenz veröffentlicht wurde. Nach der Übernahme von Sun durch Oracle im Jahr 2010 wurde das Projekt zu GitHub übertragen und wird weiterhin von einer kleinen Community gepflegt. Es wird vor allem in grossen Engineering-Organisationen zur Code-Navigation eingesetzt.",
+    "summary_abuse": "OpenGrok ist ein selbst gehostetes Entwicklerwerkzeug für Code-Suche ohne verbrauchernahe Oberfläche und ohne Missbrauchssignal."
+  },
+  "OpenGSE": {
+    "description": "OpenGSE ist eine Testsuite zur Prüfung der Servlet-Konformität; sie wird über WAR-Dateien auf der Server-Engine bereitgestellt.",
+    "history": "OpenGSE war ein Open-Source-Projekt von Google, das eine Java-Servlet-Engine und eine Konformitätstestsuite bereitstellte und ursprünglich auf Google Code gehostet wurde. Das Projekt scheint seit den frühen 2010er-Jahren aufgegeben zu sein und wird nicht mehr aktiv entwickelt.",
+    "summary_abuse": "OpenGSE ist eine eingestellte Entwicklertestsuite ohne Verbraucheroberfläche und ohne Missbrauchssignal."
+  },
+  "OpenLayers": {
+    "description": "OpenLayers ist eine Open-Source-JavaScript-Bibliothek zur Darstellung von Kartendaten im Webbrowser.",
+    "history": "OpenLayers ist eine Open-Source-JavaScript-Bibliothek für Webkarten, die 2006 erstmals von MetaCarta veröffentlicht wurde. Seitdem wird sie von der Open-Source-Geospatial-Community gepflegt und gehört zu den Standardbibliotheken für Web-Mapping-Anwendungen.",
+    "summary_abuse": "OpenLayers ist eine JavaScript-Kartenbibliothek ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug zum Bau von Web-Mapping-Anwendungen."
+  },
+  "OpenNemas": {
+    "history": "OpenNemas ist ein spanisches CMS, vermutlich mit Fokus auf Nachrichten und digitales Publizieren. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OpenNemas ist ein nischiges spanisches CMS ohne dokumentiertes Missbrauchssignal."
+  },
+  "OpenPanel": {
+    "description": "OpenPanel ist eine Open-Source-Analytics-Bibliothek, mit der Entwickler Nutzerverhalten verfolgen und analysieren sowie Echtzeit-Einblicke und Datenvisualisierungen für bessere Entscheidungen über verschiedene Plattformen hinweg erhalten können.",
+    "history": "OpenPanel ist eine Open-Source-Analytics-Bibliothek für Entwickler zum Erfassen von Anwendungsereignissen; sie wurde um 2023 als datenschutzorientierte Alternative zu kommerziellen Analytics-SDKs gestartet.",
+    "summary_abuse": "OpenPanel ist eine Entwicklerbibliothek für Analytics ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne verbrauchernahe Oberfläche."
+  },
+  "OpenPay": {
+    "description": "Openpay ist eine innovative Online- und In-Store-Zahlungslösung, mit der du sofort kaufen und später zinsfrei bezahlen kannst.",
+    "history": "Openpay ist eine australische Buy-now-pay-later-Zahlungslösung, die um 2013 gegründet wurde und vor allem den australischen und britischen Einzelhandelsmarkt bediente. Das Unternehmen geriet in finanzielle Schwierigkeiten und stellte Anfang 2023 den Betrieb im britischen Markt ein, blieb aber in Australien aktiv.",
+    "summary_abuse": "Openpay ist ein BNPL-Zahlungsabwickler mit den üblichen Betrugskontrollen für Finanzdienste. Anbieter dieser Art sehen gelegentlich Friendly Fraud, also falsche Rückbuchungen, aber es gibt kein auffälliges Phishing- oder Scam-Infrastruktur-Signal, das speziell mit diesem Anbieter verbunden ist."
+  },
+  "OpenResty": {
+    "description": "OpenResty ist eine auf nginx basierende Webplattform, die über ihre LuaJIT-Engine Lua-Skripte ausführen kann.",
+    "history": "OpenResty wurde von Yichun Zhang (agentzh) entwickelt und 2009 erstmals als Erweiterung von nginx veröffentlicht, die LuaJIT für das Scripting leistungsstarker Webanwendungen integriert. Es setzte sich breit für API-Gateways und Edge-Computing-Dienste durch. OpenResty Inc. wurde gegründet, um kommerziellen Support anzubieten.",
+    "summary_abuse": "OpenResty ist eine selbst gehostete, auf nginx basierende Webplattform ohne inhärente Missbrauchsoberfläche. Als Server-Infrastrukturwerkzeug hängt das Missbrauchsprofil vollständig von der Konfiguration durch Betreiber ab. Es gibt kein auffälliges dokumentiertes Signal, dass es ein bevorzugtes Werkzeug böswilliger Akteure wäre."
+  },
+  "OpenSSL": {
+    "description": "OpenSSL ist eine Softwarebibliothek für Anwendungen, die Kommunikation über Computernetzwerke gegen Abhören schützen oder die Gegenstelle identifizieren müssen.",
+    "history": "OpenSSL entstand im Dezember 1998 als Fork von SSLeay, das von Eric Young und Tim Hudson entwickelt wurde. Nachdem die Heartbleed-Schwachstelle 2014 eine kritische Unterfinanzierung offenlegte, stellte die Core Infrastructure Initiative Mittel bereit und die Governance wurde verbessert. 2024 wurde die Verwaltung zwischen der OpenSSL Foundation für Open Source und der OpenSSL Corporation für kommerziellen Support aufgeteilt.",
+    "summary_abuse": "OpenSSL ist eine grundlegende Kryptografie- und TLS-Bibliothek ohne Missbrauchssignal in dem Sinn, dass Betrüger sie gezielt ausnutzen würden; sie ist Infrastruktur. Schwachstellen in OpenSSL wie Heartbleed hatten historisch breite Auswirkungen, die Bibliothek selbst wird jedoch nicht von Scammern missbraucht."
+  },
+  "OpenStreetMap": {
+    "description": "OpenStreetMap ist eine freie, bearbeitbare Karte der ganzen Welt, die von Freiwilligen weitgehend von Grund auf erstellt und unter einer Open-Content-Lizenz veröffentlicht wird.",
+    "history": "OpenStreetMap wurde 2004 von Steve Coast im Vereinigten Königreich als crowdsourcingbasierte Alternative zu proprietären Kartendaten gegründet. Die OpenStreetMap Foundation entstand 2006 zur Unterstützung des Projekts. Heute ist es die führende offene Geodatenbank weltweit und bildet die Grundlage für kommerzielle Dienste von Apple, Facebook, Amazon und vielen anderen.",
+    "summary_abuse": "OpenStreetMap weist als crowdsourcingbasiertes Geodatenprojekt nur ein minimales Missbrauchssignal auf. Gelegentlicher Vandalismus an Kartendaten durch böswillige Akteure kam vor, wird aber von der aktiven Community rückgängig gemacht. Die Daten selbst bieten keine verbrauchernahe Gratis-Hosting- oder Custom-Domain-Funktion, die Scammer typischerweise ausnutzen."
+  },
+  "OpenSwoole": {
+    "description": "OpenSwoole ist ein leistungsstarkes, asynchrones, eventgetriebenes PHP-Framework auf Coroutine-Basis.",
+    "history": "OpenSwoole wurde 2021 von einer Gruppe von Community-Beitragenden aus dem Swoole-Projekt geforkt, die ein offeneres und stärker communitygetriebenes Governance-Modell wollten. Das ursprüngliche Swoole-Projekt wird von einem chinesischen Unternehmen gepflegt. OpenSwoole arbeitet als unabhängiger Fork unter Apache-2.0.",
+    "summary_abuse": "OpenSwoole ist ein PHP-Coroutine-Framework ohne verbrauchernahe Oberfläche und ohne Missbrauchssignal."
+  },
+  "OpenTable": {
+    "description": "OpenTable ist ein Online-Dienst für Restaurantreservierungen, der am 2. Juli 1998 von Sid Gorham, Eric Moe und Chuck Templeton gegründet wurde und seinen Sitz in San Francisco, Kalifornien, hat.",
+    "history": "OpenTable wurde 1998 in San Francisco von Sid Gorham, Eric Moe und Chuck Templeton als eine der ersten Online-Plattformen für Restaurantreservierungen gegründet. Das Unternehmen ging 2009 an die Börse und wurde 2014 von Priceline, heute Booking Holdings, für 2,6 Milliarden Dollar übernommen.",
+    "summary_abuse": "OpenTable verarbeitet Restaurantreservierungen von Verbrauchern und PII wie E-Mail-Adressen und Essenspräferenzen. Ein erheblicher Missbrauch der Plattform als Betrugsinfrastruktur ist nicht dokumentiert, sie taucht jedoch als Verbraucherdatenplattform in Phishing-Ködern auf, die Reservierungsbestätigungen nachahmen. Die Muttergesellschaft Booking Holdings verfügt über eine übliche Anti-Abuse-Ausrichtung auf Enterprise-Niveau."
+  },
+  "opentelemetry": {
+    "description": "OpenTelemetry ist ein Observability-Framework mit standardisierten APIs, Bibliotheken und Agents zur Erfassung von Telemetriedaten.",
+    "history": "OpenTelemetry entstand 2019 durch die Zusammenführung von OpenCensus von Google und OpenTracing, zwei zuvor konkurrierenden Observability-Frameworks. Das Projekt wird von der Cloud Native Computing Foundation (CNCF) gehostet und wurde rasch zum Branchenstandard für Distributed Tracing, Metriken und Logs in cloud-nativen Anwendungen.",
+    "summary_abuse": "OpenTelemetry hat kein auffälliges Missbrauchssignal. Es ist ein Backend-Observability-Framework ohne verbrauchernahe Oberfläche und wird von Entwicklern genutzt, um Anwendungen für Monitoring zu instrumentieren."
+  },
+  "OpenText Web": {
+    "description": "OpenText Web ist eine Web-Content-Management-Plattform für hybride Headless-Umgebungen; sie erlaubt Entwicklern die Nutzung bevorzugter Werkzeuge und unterstützt Marketer beim nahtlosen Erstellen, Testen und Veröffentlichen von Inhalten mit Fokus auf Performance, Skalierbarkeit und Compliance.",
+    "history": "OpenText ist ein kanadisches Enterprise-Softwareunternehmen, das 1991 gegründet wurde. Das CMS-Produkt OpenText Web entwickelte sich aus verschiedenen Übernahmen, darunter Recommind, HP Autonomy IDOL und weitere. OpenText ist an NASDAQ und TSX börsenkotiert.",
+    "summary_abuse": "OpenText Web CMS ist ein Enterprise-Content-Management-Produkt für grosse Organisationen. Es hat keine verbrauchernahe Oberfläche und kein auffälliges Missbrauchssignal."
+  },
+  "OpenText Web Solutions": {
+    "history": "OpenText Web Solutions ist ein Web-Content-Management-Produkt der OpenText Corporation, einem kanadischen Enterprise-Softwareunternehmen, das 1991 gegründet wurde und an NASDAQ und TSX börsenkotiert ist. Die Produktlinie Web Solutions konzentriert sich auf ASP.NET-basierte CMS für Unternehmenswebsites.",
+    "summary_abuse": "OpenText Web Solutions ist ein Enterprise-CMS ohne verbrauchernahe Oberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "OpenTiendas": {
+    "description": "OpenTiendas ist eine gehostete No-Code-All-in-One-E-Commerce-Technologie, mit der jeder Onlineshops mit erweiterten Funktionen ohne Plugins erstellen kann.",
+    "history": "OpenTiendas ist eine spanische, gehostete No-Code-E-Commerce-Plattform. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OpenTiendas ist ein gehostetes E-Commerce-SaaS. Wie alle gehosteten Shop-Builder könnte es potenziell zur Erstellung betrügerischer Shops genutzt werden, konkrete dokumentierte Fälle sind jedoch nicht bekannt."
+  },
+  "Opentracker": {
+    "description": "Opentracker ist ein Echtzeit-Analytics-Werkzeug, das Website-Traffic, Nutzerverhalten und Engagement verfolgt.",
+    "history": "Opentracker ist ein kleines niederländisches Webanalyse-SaaS, das um 2001 gegründet wurde und Echtzeit-Besuchertracking sowie Verhaltensanalysen für Websites anbietet. Auffällige Eigentümerwechsel oder Einstellung des Produkts sind nicht dokumentiert.",
+    "summary_abuse": "Opentracker ist eine Webanalyseplattform ohne auffälliges Missbrauchssignal. Es ist ein nischiges B2B-SaaS für Website-Besuchertracking, ohne verbrauchernahe Content-Hosting- oder anonyme Registrierungsfunktionen, die Betrüger anziehen würden."
+  },
+  "OpenUI5": {
+    "description": "OpenUI5 ist ein JavaScript-UI-Framework, das SAP unter der Apache-2.0-Lizenz veröffentlicht hat.",
+    "history": "OpenUI5 wurde 2013 von SAP SE als Open-Source-Gegenstück zum proprietären Framework SAPUI5 unter der Apache-2.0-Lizenz veröffentlicht. Es bietet eine umfassende JavaScript-Bibliothek mit UI-Komponenten für Enterprise-Webanwendungen und wird im SAP-Ökosystem breit genutzt.",
+    "summary_abuse": "OpenUI5 hat kein auffälliges Missbrauchssignal. Es ist ein UI-Framework für die Entwicklung von Enterprise-Anwendungen ohne verbrauchernahe Oberfläche, auf die Betrüger abzielen würden."
+  },
+  "OpenWeb": {
+    "description": "OpenWeb ist eine Social-Engagement-Plattform, die Online-Communities rund um digitale Inhalte aufbaut.",
+    "history": "OpenWeb wurde 2012 in Israel ursprünglich als Spot.IM gegründet und bot eine Kommentar- und Community-Engagement-Plattform für Publisher an. Um 2021 benannte sich das Unternehmen in OpenWeb um und verlagerte den Fokus auf Social Engagement und Werbetechnologie für Medienunternehmen.",
+    "summary_abuse": "OpenWeb ist eine Ad-Tech- und Community-Engagement-Plattform. Wie die meisten Werbetechnologien sammelt sie Verhaltensdaten von Nutzern für Ad Targeting. Der Einsatz in Kommentarbereichen von Nachrichtenseiten schafft ein gewisses Potenzial für Kommentarspam und koordinierte unauthentische Aktivitäten. Auffälliger dokumentierter Missbrauch der Plattform für Phishing oder Betrug ist jedoch nicht bekannt."
+  },
+  "OpenX": {
+    "description": "OpenX ist ein Unternehmen für programmatische Werbetechnologie.",
+    "history": "OpenX wurde 2008 als programmatische Werbebörse und Ad Server gegründet. 2020 erklärte sich OpenX bereit, 2 Millionen Dollar zur Beilegung von FTC-Vorwürfen zu zahlen, die sich auf die rechtswidrige Erhebung von Kinderdaten und den Verkauf von Standortdaten bezogen. Das Unternehmen blieb unabhängig und betreibt weiterhin eine grosse programmatische Werbeplattform.",
+    "summary_abuse": "OpenX ist eine programmatische Werbeplattform, die als Teil des Ad-Tech-Ökosystems detaillierte Verhaltens- und Standortdaten über Nutzer sammelt. 2020 belegte die FTC OpenX wegen der Erhebung von Kinderdaten und des Verkaufs präziser Standortdaten mit einer Zahlung von 2 Millionen Dollar. Werbenetzwerke wie OpenX werden gelegentlich für Malvertising-Kampagnen genutzt, bei denen schädliche Anzeigen über legitime Ad-Exchange-Infrastruktur ausgeliefert werden. Die Plattform bietet keine verbrauchernahe Registrierungsoberfläche, die Betrüger direkt ausnutzen könnten."
+  },
+  "OperateBeyond": {
+    "description": "OperateBeyond ist ein Softwareentwicklungsunternehmen, das Website-Design, automatisierte Bestandsverwaltung, CRM, Händler-Websites und DMS anbietet.",
+    "history": "OperateBeyond ist ein kleines Softwareunternehmen mit CRM-, Bestandsverwaltungs- und Händler-Website-Lösungen für Autohändler. Auffällige Eigentümerwechsel oder Meilensteine sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "OperateBeyond ist eine nischige CRM- und Händler-Website-Plattform ohne auffälliges Missbrauchssignal."
+  },
+  "Opesta": {
+    "description": "Opesta ist eine Marketing-Automation-Plattform für Facebook Messenger.",
+    "history": "Opesta ist eine kleine Marketing-Automation-Plattform mit Fokus auf Facebook-Messenger-Chatbots und Lead-Nurturing; sie bedient kleine Unternehmen, die Facebook-Werbekampagnen durchführen.",
+    "summary_abuse": "Opesta ist ein Werkzeug für Marketing-Automation in Facebook Messenger. Messaging-Automation-Plattformen dieser Art können für unerwünschte Nachrichtenkampagnen missbraucht werden, Opesta richtet sich jedoch an legitime Kleinunternehmen im Marketing und erfordert für den Zugang ein Facebook-Konto."
+  },
+  "Opigno LMS": {
+    "description": "Opigno LMS ist ein Open-Source-Learning-Management-System (LMS) auf Drupal-Basis zum Erstellen und Bereitstellen von Onlinekursen und Bildungsinhalten.",
+    "history": "Opigno LMS wurde 2013 erstmals von Connect-i, einem belgischen IT-Beratungsunternehmen, veröffentlicht. Es baut auf dem Drupal-CMS-Framework auf und stellt ein Open-Source-Lernmanagementsystem zum Erstellen und Ausliefern von Onlinekursen bereit. Auffällige Eigentümerwechsel oder Einstellung des Produkts sind nicht dokumentiert.",
+    "summary_abuse": "Opigno LMS hat kein auffälliges Missbrauchssignal. Es ist ein Open-Source-Lernmanagementsystem für selbst gehostete Installationen und bietet keine verbrauchernahe gehostete Dienstleistung, auf die Betrüger abzielen würden."
+  },
+  "OpinionBar": {
+    "description": "OpinionBar ist eine Plattform für Feedbackformulare und Umfragen, die Barauszahlungen anbietet.",
+    "history": "OpinionBar ist eine kleine SaaS-Plattform für einbettbare Umfrage- und Feedbackformulare mit einem Barauszahlungsmodell als Anreiz für Teilnehmende.",
+    "summary_abuse": "OpinionBar ist eine Umfrage- und Feedbackplattform mit Barauszahlungsanreizen für Teilnehmende. Incentivierte Umfrageplattformen können betrügerische Teilnehmende anziehen, die Zahlungen erhalten wollen, ohne echtes Feedback zu liefern. Das Missbrauchsrisiko der Plattform gegenüber Dritten ist jedoch gering."
+  },
+  "OpinionLab": {
+    "description": "OpinionLab ist ein Anbieter von Omnichannel-Lösungen für Kundenfeedback.",
+    "history": "OpinionLab wurde 1999 als Omnichannel-Plattform für Kundenfeedback gegründet und etablierte sich im Bereich Enterprise-Voice-of-Customer-Lösungen. Das Unternehmen wurde um 2016 von Verint Systems übernommen, einem Anbieter für Customer Engagement Intelligence.",
+    "summary_abuse": "OpinionLab hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-B2B-Plattform für Kundenfeedback ohne verbrauchernahe Content-Hosting-Funktion oder anonymen Zugang, auf die Betrüger abzielen würden."
+  },
+  "OpnForm": {
+    "description": "OpnForm ist ein webbasiertes Werkzeug zum Erstellen und Teilen von Formularen ohne Programmierkenntnisse, mit dem Nutzer Formulare gestalten und verbreiten können.",
+    "history": "OpnForm ist ein von Open Source inspirierter Formular-Builder, der um 2022 gestartet wurde und sowohl eine gehostete SaaS-Stufe als auch eine selbst hostbare Version anbietet. Es ist ein Produkt eines kleinen Teams und positioniert sich als Alternative zu Typeform.",
+    "summary_abuse": "OpnForm ist ein Formular-Builder mit Gratisstufe, über die Formulare erstellt und gehostet werden können. Formular-Builder mit Gratisstufen können für Phishing-Formulare zum Abgreifen von Zugangsdaten genutzt werden, OpnForm ist jedoch eine kleine Plattform ohne die Grösse, die typischerweise systematischen Missbrauch anzieht. Konkrete dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Ops Calendar": {
+    "description": "Ops Calendar ist ein Marketingkalender zur Verwaltung von Content Marketing, Social Media und weiteren Aufgaben.",
+    "history": "Ops Calendar ist ein kleines SaaS-Werkzeug für Marketingkalender, mit dem Content- und Social-Media-Publishing-Workflows verwaltet werden.",
+    "summary_abuse": "Ops Calendar ist ein Marketingplanungswerkzeug ohne verbrauchernahe Oberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Optibase": {
+    "description": "Optibase ist eine A/B-Testing-App für Webflow, mit der datenbasierte Entscheidungen durch Tests von Elementen wie Texten, Design oder ganzen Seiten zur Verbesserung der Website-Conversions getroffen werden können.",
+    "history": "Optibase ist ein kleines SaaS-Produkt für A/B-Tests, das speziell für Webflow-Websites entwickelt wurde und um 2022 gestartet ist.",
+    "summary_abuse": "Optibase ist ein nischiges A/B-Testing-Werkzeug für Webflow ohne auffälliges Missbrauchssignal."
+  },
+  "Optimise": {
+    "description": "Optimise Media Group ist ein im Vereinigten Königreich ansässiges Netzwerk für Performance Advertising.",
+    "history": "Optimise Media Group wurde 2004 im Vereinigten Königreich als Performance-Advertising- und Affiliate-Netzwerk gegründet. Das Unternehmen blieb unabhängig und ist vor allem in der Region Asien-Pazifik und in Europa tätig. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Optimise Media ist ein Affiliate- und Performance-Advertising-Netzwerk. Affiliate-Netzwerke können für Provisionsbetrug, Cookie Stuffing und die Bewerbung minderwertiger oder betrügerischer Angebote missbraucht werden, was typische Missbrauchsvektoren im Performance-Marketing sind. Spezifische auffällige Vorfälle zu Optimise Media sind jedoch nicht dokumentiert."
+  },
+  "Optimization Detective": {
+    "description": "Optimization Detective ist ein Performance-Plugin des WordPress Performance Team. Es erfasst echte Nutzermetriken dazu, welche Elemente auf Seiten über verschiedene Gerätetypen hinweg angezeigt werden, etwa Desktop, Tablet und Smartphone, um Ladeoptimierungen anzuwenden.",
+    "history": "Optimization Detective ist ein WordPress-Plugin des offiziellen WordPress Performance Team, das 2023 erstmals veröffentlicht wurde. Es erfasst echte Nutzermetriken zu Seitenelementen über Gerätetypen hinweg, um Ladeoptimierungen wie Lazy Loading und Ressourcenpriorisierung anzuwenden.",
+    "summary_abuse": "Optimization Detective hat kein Missbrauchssignal. Es ist ein vom WordPress-Core-Team gepflegtes Performance-Optimierungsplugin, das vollständig serverseitig arbeitet und keine verbrauchernahe Oberfläche bietet, auf die Betrüger abzielen würden."
+  },
+  "Optimizely": {
+    "description": "Optimizely ist eine Experimentierplattform, mit der Entwickler A/B-Tests auf Websites erstellen und durchführen können.",
+    "history": "Optimizely wurde 2010 von Dan Siroker und Pete Koomen, beide ehemalige Google-Mitarbeiter, als wegweisende Plattform für A/B-Tests und Experimente gegründet. 2017 übernahm es das CMS-Geschäft von Episerver, und 2019 übernahm Episerver, damals im Besitz von Insight Partners, Optimizely. Das zusammengeführte Unternehmen benannte sich 2021 in Optimizely um und integrierte die Episerver-Produktlinie in eine einheitliche Digital-Experience-Plattform.",
+    "summary_abuse": "Optimizely hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für A/B-Tests und Experimente, mit der grosse Organisationen kontrollierte Experimente auf digitalen Angeboten durchführen; sie bietet keine verbrauchernahe Content-Hosting-Oberfläche, auf die Betrüger abzielen würden."
+  },
+  "Optimizely Commerce": {
+    "description": "Optimizely Commerce ist eine vollständige Suite für digitalen E-Commerce und Content Management, die künstliche Intelligenz nutzt, um personalisierte Erlebnisse, individualisierte Suchrankings und Produktempfehlungen auszuliefern.",
+    "history": "Optimizely Commerce ist das B2C-E-Commerce-Produkt innerhalb der Digital-Experience-Plattform von Optimizely. Es entstand aus dem Episerver-Commerce-Modul, das 2021 nach der Übernahme von Optimizely durch Episerver, im Besitz von Insight Partners, in die Marke Optimizely integriert wurde.",
+    "summary_abuse": "Optimizely Commerce hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für E-Commerce und Content Management, die von etablierten Unternehmen betrieben wird. Die Plattform bietet kein verbrauchernahes Hosting, das Scammer für Phishing oder Betrug nutzen würden."
+  },
+  "Optimizely Content Management": {
+    "description": "Optimizely Content Management, früher EPiServer, ist eine Lösung für digitales Content-, E-Commerce- und Marketing-Management, die für Redakteure und Marketer entwickelt wurde.",
+    "history": "Optimizely Content Management entstand aus EPiServer, das 1994 in Schweden als eine der frühen Enterprise-CMS-Plattformen gegründet wurde. EPiServer übernahm später 2015 Ektron und wurde 2021 nach der Übernahme durch Insight Partners unter der Marke Optimizely mit der Experimentierplattform Optimizely zusammengeführt. Das Produkt wird heute als Optimizely CMS vermarktet.",
+    "summary_abuse": "Optimizely Content Management hat kein auffälliges Missbrauchssignal. Es ist ein Enterprise-CMS, das von etablierten Organisationen betrieben wird, und bietet kein verbrauchernahes Hosting, das Betrüger ausnutzen würden."
+  },
+  "Optimole": {
+    "description": "Optimole ist eine cloudbasierte Plattform für Medienoptimierung, Echtzeit-Bildtransformationen und Digital Asset Management zur Verbesserung von Website-Performance und Auslieferung.",
+    "history": "Optimole wurde um 2018 von Themeisle gestartet, einem rumänischen Unternehmen für WordPress-Themes und Plugins. Es bietet cloudbasierte Bildoptimierung und Auslieferung für WordPress-Websites. Auffällige Eigentümerwechsel ausserhalb der Beziehung zur Muttergesellschaft sind nicht dokumentiert.",
+    "summary_abuse": "Optimole hat kein auffälliges Missbrauchssignal. Es ist ein CDN für Bildoptimierung auf WordPress-Websites und bietet kein verbrauchernahes Content Hosting, auf das Betrüger abzielen würden."
+  },
+  "OptiMonk": {
+    "description": "OptiMonk ist ein Toolkit für On-Site-Nachrichten, mit dem Conversions über aktionsbasierte Popups und Leisten verbessert werden.",
+    "history": "OptiMonk wurde 2014 in Ungarn als Werkzeug für Conversion-Optimierung und Exit-Intent-Popups gegründet. Es entwickelte sich zu einer breiter genutzten On-Site-Messaging-Plattform für E-Commerce-Unternehmen weltweit. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "OptiMonk ist eine Popup- und On-Site-Messaging-Plattform für E-Commerce. Popup- und Warenkorbabbruch-Werkzeuge können aggressive oder an Dark Patterns grenzende Nutzererlebnisse erzeugen, etwa schwer schliessbare Overlays oder manipulative Dringlichkeitsbotschaften. Das sind jedoch Designentscheidungen der einsetzenden Unternehmen und kein Missbrauch durch OptiMonk selbst. Dokumentierte Fälle, in denen die Plattform für Phishing oder Betrug genutzt wurde, sind nicht bekannt."
+  },
+  "Optimove": {
+    "description": "Optimove ist ein Relationship-Marketing-Hub, der auf fortgeschrittenem Customer Modeling, prädiktiver Mikrosegmentierung und Kampagnenautomatisierung basiert.",
+    "history": "Optimove wurde 2009 in Israel als Customer-Data-Plattform und Relationship-Marketing-Werkzeug gegründet und nutzt prädiktive Mikrosegmentierung sowie KI-gestützte Kampagnenautomatisierung. Das Unternehmen sammelte umfangreiche VC-Finanzierung ein und entwickelte sich zu einer verbreiteten CDP. Grössere Übernahmen oder Rebrandings sind nicht dokumentiert.",
+    "summary_abuse": "Optimove hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Customer-Data-Plattform und ein Marketing-Automation-Werkzeug, mit dem Marken ihre eigenen Kunden personalisiert ansprechen. Es gibt keine anonyme Registrierungsoberfläche oder verbrauchernahes Content Hosting, das Betrüger ausnutzen würden."
+  },
+  "Optimx Sports": {
+    "description": "OptimX Sports ist eine Plattform, die professionelle Website-Designs für Hockey-, Rugby- und Lacrosse-Teams mit einem modernen Erstellungssystem bereitstellt.",
+    "history": "OptimX Sports ist eine kleine SaaS-Plattform mit Website-Baukastenwerkzeugen für Amateur- und halbprofessionelle Sportteams, insbesondere in Hockey, Rugby und Lacrosse.",
+    "summary_abuse": "OptimX Sports ist ein nischiger Website-Builder für Sportteams ohne auffälliges Missbrauchssignal."
+  },
+  "Optimy": {
+    "description": "Optimy ist eine All-in-One-CSR-Plattform, die soziale und geschäftliche Wirkung durch die Straffung sozialer Programme verbessert.",
+    "history": "Optimy ist eine belgische Plattform für CSR- und Social-Impact-Management, die um 2012 gegründet wurde; sie bietet Unternehmenskunden Werkzeuge zur Verwaltung von Fördergeldern, Sponsoring, Freiwilligenarbeit und CSR-Programmen.",
+    "summary_abuse": "Optimy ist eine B2B-Plattform für CSR-Management, die von Unternehmen zur Verwaltung sozialer Programme eingesetzt wird; sie hat keine verbrauchernahe Oberfläche und kein auffälliges Missbrauchssignal."
+  },
+  "OptinMonster": {
+    "description": "OptinMonster ist ein Werkzeug zur Conversion-Optimierung, mit dem du deine E-Mail-Liste vergrössern kannst.",
+    "history": "OptinMonster wurde 2013 von Syed Balkhi und Thomas Griffin als Plattform für Lead-Generierung und Wachstum von E-Mail-Listen gegründet. Es wurde Teil der Awesome-Motive-Familie von WordPress-Produkten. Das Unternehmen trug zur Verbreitung von Exit-Intent-Popup-Technologie im E-Commerce bei und bedient inzwischen Millionen von Websites.",
+    "summary_abuse": "OptinMonster ist eine Popup-Plattform für Lead-Generierung. Popup-Werkzeuge können zu manipulativen UX-Mustern beitragen, etwa aggressiven Overlays zur E-Mail-Erfassung und schwer schliessbaren Modals. Diese Nutzung ist jedoch eine Entscheidung der Website-Betreiber und kein Missbrauch auf Plattformebene. Die Plattform sammelt Verhaltensdaten von Besuchern für Segmentierung. Auffällige Fälle, in denen OptinMonster direkt für Phishing oder Betrug genutzt wurde, sind nicht bekannt."
+  },
+  "OptinMonster plugin": {
+    "description": "OptinMonster ist ein Lead-Generation-Plugin für WordPress.",
+    "history": "Das OptinMonster WordPress Plugin ist das kostenlose Begleitplugin auf WordPress.org für das OptinMonster Lead-Generation-SaaS. Es wurde um 2013 von Awesome Motive gestartet und verbindet WordPress-Websites mit dem OptinMonster-Dienst zur Verwaltung von Popups und Lead-Erfassung.",
+    "summary_abuse": "Das OptinMonster WordPress Plugin verbindet Websites mit dem Lead-Generation-Dienst OptinMonster und hat für sich genommen kein auffälliges Missbrauchssignal. Popup-Werkzeuge zur Lead-Generierung können für aggressive oder irreführende Opt-in-Erlebnisse missbraucht werden, das Plugin selbst ist jedoch ein weit verbreitetes legitimes Werkzeug mit aktivem Support auf WordPress.org."
+  },
+  "Optinopoli": {
+    "description": "Optinopoli ist eine Lead-Capture- und Sales-Conversion-Technologie der nächsten Generation, die Informationen potenzieller Kunden über digitale Kontaktpunkte hinweg erfassen, verwalten und konvertieren soll.",
+    "history": "Optinopoli ist ein kleines SaaS-Produkt für Lead-Erfassung und Marketing-Conversion ohne auffällige öffentliche Geschichte oder Eigentümerwechsel.",
+    "summary_abuse": "Optinopoli ist eine Plattform zur Lead-Erfassung. Solche Werkzeuge können eingesetzt werden, um E-Mail-Adressen in grossem Umfang für Spam-Zwecke zu sammeln, Optinopoli ist jedoch ein kleiner Nischenanbieter ohne dokumentierte Missbrauchshistorie."
+  },
+  "OpTuNE": {
+    "description": "OpTuNE ist eine Online-Plattform zum Buchen und Verwalten von Veranstaltungen, entwickelt für Künstler, Veranstaltungsorte und Promoter.",
+    "history": "OpTuNE ist eine Plattform für Eventbuchung und -verwaltung für Künstler und Entertainer. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "OpTuNE ist ein nischiges Eventbuchungs-SaaS für Künstler ohne dokumentiertes Missbrauchssignal."
+  },
+  "Oracle Application Express": {
+    "description": "Oracle Application Express (APEX) ist eine Enterprise-Low-Code-Entwicklungsplattform der Oracle Corporation. APEX ist eine vollständig unterstützte, kostenlose Funktion von Oracle Database.",
+    "history": "Oracle APEX (Application Express) hiess ursprünglich HTML DB und wurde 2004 erstmals als Enterprise-Low-Code-Entwicklungsplattform veröffentlicht, die in Oracle Database integriert ist. Oracle benannte sie in Application Express (APEX) um und pflegt sie seither als kostenlose Funktion von Oracle Database, wodurch sie in Oracle-Datenbankumgebungen für schnelle Anwendungsentwicklung breit eingesetzt wird.",
+    "summary_abuse": "Oracle APEX hat kein auffälliges Missbrauchssignal. Es ist eine in Oracle Database integrierte Enterprise-Low-Code-Entwicklungsplattform, die von Entwicklungsteams innerhalb von Organisationen genutzt wird; sie bietet kein anonymes verbrauchernahes Content Hosting, das Betrüger ausnutzen würden."
+  },
+  "Oracle Application Server": {
+    "history": "Oracle Application Server (OAS, auch Oracle iAS genannt) war Oracles J2EE-Anwendungsserverprodukt und erschien um 2000 als Antwort auf IBM WebSphere und Suns Java-EE-Stack. Oracle hat OAS inzwischen zugunsten von Oracle WebLogic Server abgekündigt, nachdem BEA Systems 2008 übernommen wurde.",
+    "summary_abuse": "Oracle Application Server hat kein auffälliges Missbrauchssignal. Es ist ein eingestelltes Enterprise-Anwendungsserverprodukt, das in Rechenzentren von Organisationen betrieben wurde und keine verbrauchernahe Oberfläche bietet, auf die Betrüger abzielen würden."
+  },
+  "Oracle BlueKai": {
+    "description": "Oracle BlueKai ist eine cloudbasierte Big-Data-Plattform, mit der Unternehmen Online-, Offline- und Mobile-Marketingkampagnen personalisieren können.",
+    "history": "BlueKai wurde 2007 als unabhängige Data-Management-Plattform (DMP) und Marktplatz für Werbedaten gegründet. Oracle übernahm BlueKai 2014 für rund 400 Millionen Dollar und benannte es in Oracle Data Cloud und später Oracle BlueKai um. 2020 legte ein Sicherheitsvorfall eine Datenbank mit Milliarden Datensätzen persönlicher Verbraucherdaten offen, die über die Tracking-Infrastruktur gesammelt worden waren.",
+    "summary_abuse": "Oracle BlueKai ist eine Data-Management-Plattform, die Nutzerverhalten im Web für Werbetargeting verfolgt. 2020 legte ein grosser Sicherheitsvorfall Milliarden persönlicher Datensätze aus der Tracking-Datenbank offen, weil ein Server ungesichert war. Als Datenbroker und Ad-Tech-Plattform erstellt BlueKai detaillierte Verhaltensprofile von Verbrauchern ohne direkte Einwilligung und wirft erhebliche Datenschutzbedenken auf. Die Plattform wird nicht typischerweise von externen Angreifern für Betrug genutzt, ist aber selbst Gegenstand von Datenschutzkritik."
+  },
+  "Oracle Commerce": {
+    "description": "Oracle Commerce ist eine einheitliche E-Commerce-Plattform für B2B und B2C.",
+    "history": "Oracle Commerce entstand aus ATG (Art Technology Group) Web Commerce, das 1991 gegründet wurde und börsenkotiert war, bevor Oracle ATG 2011 übernahm. Oracle integrierte die Plattform in seine Customer-Experience-Suite und verband sie mit Endeca, das ebenfalls 2011 übernommen wurde, zu Oracle Commerce für einheitliche B2B- und B2C-E-Commerce-Szenarien.",
+    "summary_abuse": "Oracle Commerce hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-E-Commerce-Plattform, die von etablierten Unternehmen auf eigener Infrastruktur oder in der Oracle Cloud betrieben wird und kein anonymes verbrauchernahes Content Hosting bietet, das Betrüger ausnutzen würden."
+  },
+  "Oracle Commerce Cloud": {
+    "description": "Oracle Commerce Cloud ist eine cloud-native, vollständig ausgestattete und erweiterbare SaaS-E-Commerce-Lösung, die in der Oracle Cloud bereitgestellt wird und B2C- sowie B2B-Modelle auf einer Plattform unterstützt.",
+    "history": "Oracle Commerce Cloud ist die cloud-native SaaS-Version von Oracles E-Commerce-Angebot und wurde um 2015 als Teil von Oracle Cloud gestartet; sie baut auf der Oracle-Commerce-Plattform, ursprünglich ATG, auf und wird als vollständig verwalteter SaaS-Dienst für B2C- und B2B-Szenarien auf Oracle Cloud Infrastructure bereitgestellt.",
+    "summary_abuse": "Oracle Commerce Cloud hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-E-Commerce-SaaS-Plattform für etablierte Händler und B2B-Organisationen, ohne anonymes verbrauchernahes Content Hosting, das Betrüger ausnutzen würden."
+  },
+  "Oracle Content Management": {
+    "description": "Oracle Content Management ist eine cloudbasierte Plattform, mit der Organisationen digitale Inhalte erstellen, speichern, verwalten und ausliefern können; sie unterstützt strukturierte Inhaltsorganisation, Zusammenarbeit und nahtlose Integration mit anderen Anwendungen.",
+    "history": "Oracle Content Management ist eine cloudbasierte CMS- und Digital-Asset-Management-Plattform, die Oracle um 2018 als Teil von Oracle Cloud startete; sie richtet sich an Enterprise-Organisationen, die strukturiertes Content Management und Integration mit anderen Oracle-Cloud-Anwendungen benötigen.",
+    "summary_abuse": "Oracle Content Management hat kein auffälliges Missbrauchssignal. Es ist ein Enterprise-CMS, das von Organisationen innerhalb von Oracle Cloud betrieben wird, ohne verbrauchernahes Content Hosting, das Betrüger ausnutzen würden."
+  },
+  "Oracle Dynamic Monitoring Service": {
+    "description": "Oracle Dynamic Monitoring Service ist eine Funktion von Oracle WebLogic Server, die Echtzeit-Monitoring und Diagnosefunktionen für Java-Anwendungen auf dem WebLogic Server bereitstellt.",
+    "history": "Oracle Dynamic Monitoring Service (DMS) ist eine integrierte Funktion von Oracle WebLogic Server, die Echtzeit-Performance-Metriken und Diagnosen für Java-EE-Anwendungen bereitstellt; sie ist mindestens seit den frühen 2010er-Jahren Teil der WebLogic-Plattform.",
+    "summary_abuse": "Oracle Dynamic Monitoring Service hat kein Missbrauchssignal. Es ist eine interne Monitoring-Komponente von Oracle WebLogic Server für Performance-Diagnosen in Enterprise-Umgebungen und bietet keine verbrauchernahe Oberfläche."
+  },
+  "Oracle HTTP Server": {
+    "history": "Oracle HTTP Server ist Oracles Enterprise-Webserver auf Basis des Apache HTTP Server Codebase. Er wurde Ende der 1990er-Jahre als Teil von Oracle Application Server eingeführt und später in Oracle Fusion Middleware integriert. Er dient als Frontend-Listener für Oracle-WebLogic-Server-Deployments und folgte über die Produktgenerationen 11g und 12c den Apache HTTP Server Releases. Eigentümerwechsel gab es keine, er gehörte immer der Oracle Corporation.",
+    "summary_abuse": "Oracle HTTP Server hat kein auffälliges Missbrauchssignal. Es ist ein Backend-Enterprise-Webserver für On-Premises-Umgebungen mit Oracle Fusion Middleware und bietet keine verbrauchernahe Hosting-Oberfläche, die Phishing- oder Scam-Betreiber anziehen würde."
+  },
+  "Oracle Infinity": {
+    "description": "Oracle Infinity ist eine Digital-Analytics-Plattform zur Erfassung, Messung und Optimierung der Performance und des Besucherverhaltens von Enterprise-Websites und mobilen Apps.",
+    "history": "Oracle übernahm die Big-Data-Analytics-Plattform Infinity und integrierte sie als Oracle Infinity Behavioral Intelligence in seine Marketing Cloud, mit Rebranding und Erweiterung für Enterprise Digital Analytics; sie bleibt Teil von Oracle CX Marketing und wird als SaaS-Angebot aktiv gepflegt.",
+    "summary_abuse": "Oracle Infinity ist eine Enterprise-Analytics-Plattform ohne auffälliges Missbrauchssignal. Es ist ein B2B-SaaS-Werkzeug, das an grosse Unternehmen für das Tracking von Website-Besucherverhalten verkauft wird und keine verbrauchernahe Oberfläche bietet, auf die Phishing- oder Betrugsakteure abzielen würden."
+  },
+  "Oracle Maxymiser": {
+    "description": "Oracle Maxymiser ist eine Plattform für Echtzeit-Verhaltenstargeting, In-Session-Personalisierung und Produktempfehlungen.",
+    "history": "Maxymiser wurde 2006 als Unternehmen für A/B-Tests und multivariate Optimierung gegründet und ursprünglich in der Ukraine entwickelt. Oracle übernahm Maxymiser im September 2015, um eine Lücke in seiner Marketing Cloud gegenüber Adobe Target und Salesforce-Personalisierungswerkzeugen zu schliessen. Oracle fährt Maxymiser seither zugunsten anderer Personalisierungsansätze innerhalb der CX-Suite zurück.",
+    "summary_abuse": "Oracle Maxymiser hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Personalisierung und A/B-Tests, die von Enterprise-Marketingteams genutzt wird, ohne verbrauchernahe Oberfläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "Oracle Moat Measurement": {
+    "description": "Oracle Moat liefert Lösungen zur Messung der Werbewirkung, darunter Verifizierung und Aufmerksamkeit, Reichweite und Frequenz sowie Sales-Lift-Messung.",
+    "history": "Moat wurde 2010 in New York als Unternehmen für Werbemessung und Aufmerksamkeitsanalysen gegründet. Oracle übernahm Moat im April 2017 für rund 850 Millionen US-Dollar und integrierte es als Oracle Moat Measurement in Oracle Data Cloud. Damit erhielt Oracle erstmals eine eigene Fähigkeit für die Messung digitaler Werbung.",
+    "summary_abuse": "Oracle Moat Measurement zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-Plattform für Werbemessung und Analysen, die Marken, Agenturen und Publisher zur Prüfung von Sichtbarkeit und Wirksamkeit von Werbung nutzen, ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
+  },
+  "Oracle Recommendations On Demand": {
+    "history": "Oracle Recommendations On Demand ist eine cloudbasierte Produktempfehlungs-Engine, die Teil der Oracle ATG Commerce-Plattform war und Collaborative Filtering sowie personalisierte Vorschläge für E-Commerce-Shops bereitstellte; sie wurde durch native Empfehlungsfunktionen in Oracle Commerce Cloud abgelöst und wird nicht mehr aktiv als eigenständiges Produkt vermarktet.",
+    "summary_abuse": "Oracle Recommendations On Demand zeigt kein nennenswertes Missbrauchssignal. Es ist eine Backend-Empfehlungs-Engine für E-Commerce, die in Oracle ATG Commerce-Installationen eingebettet ist, ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
+  },
+  "Oracle Web Cache": {
+    "description": "Oracle Web Cache ist ein Browser- und Content-Management-Server, der die Leistung von Websites verbessert.",
+    "history": "Oracle Web Cache war ein Content-Caching-Server in Oracle Application Server und frühen Oracle Fusion Middleware-Versionen, der die Performance von Websites beschleunigen sollte. Oracle hat ihn in Fusion Middleware 12c abgekündigt und entfernt, wobei 11.1.1.9 die letzte unterstützte Version war.",
+    "summary_abuse": "Oracle Web Cache zeigt kein nennenswertes Missbrauchssignal. Es ist ein abgekündigter Backend-Caching-Server, der in Oracle-Unternehmens-Middleware eingesetzt wurde, ohne verbraucherseitige Angriffsfläche mit Relevanz für Phishing oder Betrug."
+  },
+  "Oracle WebLogic Server": {
+    "description": "Oracle WebLogic Server ist ein Java-basierter Application Server, der eine Plattform zum Entwickeln, Bereitstellen und Betreiben von Java-Anwendungen auf Unternehmensebene bietet.",
+    "history": "Oracle WebLogic Server stammt von BEA Systems, das WebLogic Mitte der 1990er-Jahre als einen der ersten Java Application Server auf den Markt brachte. BEA WebLogic wurde zum führenden Java EE Application Server für Unternehmen, bevor Oracle BEA Systems 2008 für 8,5 Milliarden US-Dollar übernahm, das Produkt in Oracle WebLogic Server umbenannte und als zentrale Laufzeitumgebung in Oracle Fusion Middleware integrierte.",
+    "summary_abuse": "Oracle WebLogic Server zeigt kein nennenswertes verbraucherseitiges Missbrauchssignal, ist aber historisch ein besonders wertvolles Ziel für Exploits. Mehrere kritische Deserialisierungs- und Remote-Code-Execution-Schwachstellen (CVE-2017-10271, CVE-2019-2725 und weitere) wurden aktiv von Ransomware-Gruppen und Kryptowährungs-Mining-Malware ausgenutzt, um Unternehmensserver zu kompromittieren. Oracle patcht diese Schwachstellen aktiv, Unternehmen sind aber für zeitnahes Patchen verantwortlich."
+  },
+  "Orama": {
+    "description": "Orama ist eine Plattform für Volltext- und Vektorsuche an 300 globalen Standorten.",
+    "history": "Orama wurde um 2022 zunächst als Lyra veröffentlicht, eine in TypeScript geschriebene Open-Source-Volltextsuchmaschine. Das Projekt wurde in Orama umbenannt und um Vektorsuche, hybride Suche sowie eine über ein globales Edge-Netzwerk bereitgestellte Cloud-Hosting-Plattform (Orama Cloud) erweitert. Der Open-Source-Kern bleibt unter Apache-2.0 lizenziert und hat eine aktive Community.",
+    "summary_abuse": "Orama zeigt kein nennenswertes Missbrauchssignal. Es ist eine Open-Source-Suchmaschinenbibliothek mit zugehöriger Cloud-Plattform, die Entwickler nutzen, um Anwendungen um Suchfunktionen zu erweitern, ohne verbraucherseitige Hosting-Fläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "Orankl": {
+    "description": "Orankl bietet E-Mail-Marketing- und Bewertungsdienste an.",
+    "history": "Orankl ist ein kleines SaaS-Unternehmen aus San Francisco, das E-Mail-Marketing-Automatisierung und das Sammeln von Kundenbewertungen für E-Commerce-Händler anbietet. Bis 2021 wuchs es ohne bekannt gegebene externe Finanzierung auf über 1'000 Kunden.",
+    "summary_abuse": "Orankl zeigt kein nennenswertes Missbrauchssignal. Es ist eine kleine Plattform für E-Commerce-E-Mail-Marketing und Bewertungen, die kleine Onlinehändler nutzen, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "Orbit Slider": {
+    "description": "Orbit ist ein jQuery-Slider.",
+    "history": "Orbit ist ein von ZURB als Playground-Projekt entwickelter jQuery-Bildslider, der um 2010 veröffentlicht wurde. Er war in der Ära jQuery-basierter Karussells weit verbreitet, wurde aber inzwischen abgekündigt, nachdem moderne CSS- und JavaScript-Alternativen ihn ersetzt haben.",
+    "summary_abuse": "Orbit Slider zeigt kein nennenswertes Missbrauchssignal. Es ist eine abgekündigte jQuery-Slider-Bibliothek ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
+  },
+  "OrbitFox": {
+    "description": "OrbitFox ist ein vielseitiges WordPress-Plugin von Themeisle, das mit den Site-Buildern Elementor, Beaver Builder und Gutenberg zusammenarbeitet.",
+    "history": "OrbitFox ist ein kostenloses WordPress-Begleitplugin von Themeisle, einem rumänischen Unternehmen für WordPress-Themes und -Plugins. Es bietet Integrationen und Widgets für Elementor, Beaver Builder und Gutenberg und wird neben Themeisles Premium-Theme-Angebot aktiv gepflegt.",
+    "summary_abuse": "OrbitFox zeigt kein nennenswertes Missbrauchssignal. Es ist ein kostenloses WordPress-Plugin für Page-Builder-Integrationen, das über WordPress.org verteilt wird und der üblichen Sicherheitsprüfung des Plugin-Verzeichnisses unterliegt."
+  },
+  "Orchard Core": {
+    "description": "Orchard Core ist ein modulares, mandantenfähiges Open-Source-Anwendungsframework auf Basis von ASP.NET Core und zugleich ein Content-Management-System (CMS).",
+    "history": "Orchard Core ist eine vollständige Neuentwicklung von Orchard CMS, das 2011 unter der .NET Foundation erstmals veröffentlicht wurde, auf ASP.NET Core. Die Arbeit daran begann um 2014. Es ist ein Community-getriebenes Open-Source-Projekt mit Unterstützung der .NET Foundation und als modulares, mandantenfähiges CMS sowie Anwendungsframework für ASP.NET Core-Entwickler konzipiert.",
+    "summary_abuse": "Orchard Core zeigt kein nennenswertes Missbrauchssignal. Es ist ein Open-Source-CMS-Framework, das Entwicklerteams selbst hosten, ohne SaaS-Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "Orckestra": {
+    "description": "Orckestra bietet cloudbasierte Lösungen für Unified und Omnichannel Commerce für Einzelhandel und Fertigungsindustrie.",
+    "history": "Orckestra ist eine cloudbasierte Commerce-Plattform aus Montreal, die um 2012 gegründet wurde und sich auf Omnichannel-Retail-Commerce für Enterprise- und Mid-Market-Händler konzentriert. 2017 wurde sie von Mediagrif Interactive Technologies übernommen. Die Plattform läuft auf Microsoft Azure und hat eine Microsoft-Partnerschaft.",
+    "summary_abuse": "Orckestra zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-Cloud-Commerce-Plattform für Enterprise-Händler, ohne verbraucherseitige Hosting-Fläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "Order Deadline": {
+    "description": "Order Deadline ist eine Shopify-App für geschätzte Liefertermine, Countdown-Timer und Versanddaten.",
+    "history": "Order Deadline ist eine kleine Shopify-App, die E-Commerce-Shops geschätzte Liefertermine und Countdown-Timer bereitstellt.",
+    "summary_abuse": "Order Deadline ist eine Shopify-App zur Anzeige von Lieferprognosen. Countdown-Timer dieser Art werden manchmal genutzt, um künstliche Dringlichkeit zu erzeugen (Dark Pattern), die App selbst zeigt aber kein nennenswertes Missbrauchssignal als Betrugsplattform."
+  },
+  "OrderCast": {
+    "description": "OrderCast ist eine B2B-E-Commerce-Plattform zur Vereinfachung des Grosshandelsbetriebs, mit SKU-Verwaltung, Bestellabwicklung und anpassbaren Online-Shop-Funktionen für ein besseres Kundenerlebnis.",
+    "history": "OrderCast ist eine B2B-Grosshandels-E-Commerce-SaaS-Plattform, die um 2020 gestartet wurde und sich an Hersteller und Distributoren richtet.",
+    "summary_abuse": "OrderCast ist eine B2B-Grosshandels-E-Commerce-Plattform ohne nennenswertes Missbrauchssignal."
+  },
+  "Ordergroove": {
+    "description": "Ordergroove bietet eine SaaS-basierte Commerce-Plattform für Abonnements und Mitgliedschaften.",
+    "history": "Ordergroove wurde 2010 in New York City als Commerce-Plattform für Abonnements und Mitgliedschaften für Marken und Händler gegründet. Das Unternehmen hat mehrere Venture-Capital-Runden aufgenommen und bedient Marken wie Constellation Brands und Dollar Shave Club mit Funktionen für wiederkehrende Bestellungen und Abonnementverwaltung.",
+    "summary_abuse": "Ordergroove zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-Plattform für Subscription Commerce, die etablierte Verbrauchermarken nutzen, ohne verbraucherseitige Hosting-Fläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "Ordering": {
+    "description": "Ordering ist eine Online-Bestell- und Lieferplattform für mehrere Standorte, mit Marketing- und Loyalty-Werkzeugen sowie nativen Apps für Unternehmen.",
+    "history": "Ordering.co ist eine Online-Bestell- und Lieferplattform für mehrere Standorte, die weltweit White-Label-Bestelllösungen, native Mobile-Apps und Marketing-Tools für Gastronomie- und Lieferunternehmen bereitstellt.",
+    "summary_abuse": "Ordering.co zeigt kein nennenswertes Missbrauchssignal. Es ist eine White-Label-Plattform für Essensbestellung und Lieferung für kleine Unternehmen, ohne dokumentierte Nutzung in Phishing- oder Betrugsoperationen."
+  },
+  "OrderLogic app": {
+    "description": "OrderLogic app ermöglicht dir, Mindest- und Höchstmengen für alle Produkte in deinem Shopify-Shop festzulegen.",
+    "history": "OrderLogic app ist eine kleine Shopify-Hilfsapp zum Festlegen von Mindest- und Höchstmengenregeln für Produkte in Shopify-Shops.",
+    "summary_abuse": "OrderLogic app ist ein kleines Shopify-Tool für Mengenverwaltung ohne nennenswertes Missbrauchssignal."
+  },
+  "OrderMyGear": {
+    "description": "OrderMyGear ist eine Online-Shop-Plattform, die Händlern, Veredlern und Distributoren hilft, individuelle Webshops zu erstellen.",
+    "history": "OrderMyGear wurde um 2008 als Plattform für Online-Gruppenbestellungen und individuelle Webshops für Händler, Veredler und Distributoren von Sport- und Werbeartikeln gegründet. Das Unternehmen ist gewachsen und bedient heute Tausende Händler in der nordamerikanischen Sport- und Werbeartikelbranche.",
+    "summary_abuse": "OrderMyGear zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-E-Commerce-Plattform, mit der Händler für Sport- und Werbeartikel individuelle Gruppenbestell-Shops für ihre Kunden erstellen, ohne dokumentierte Nutzung in Phishing- oder Betrugsoperationen."
+  },
+  "OrderPort": {
+    "description": "OrderPort ist eine auf Weingüter zugeschnittene E-Commerce-Plattform mit Online-Verkauf, Wine Clubs und Point-of-Sale-Integration.",
+    "history": "OrderPort ist eine E-Commerce- und Point-of-Sale-Plattform speziell für Weingüter, mit Online-Weinverkauf, Wine-Club-Verwaltung, POS für Degustationsräume und Compliance-Tools. Es ist ein unabhängiges US-SaaS-Unternehmen für die Weinbranche.",
+    "summary_abuse": "OrderPort zeigt kein nennenswertes Missbrauchssignal. Es ist eine weingutspezifische E-Commerce- und POS-Plattform mit engem Branchenfokus, die legitime Weinbetriebe bedient und keine dokumentierten Betrugsfälle aufweist."
+  },
+  "Ordersify Product Alerts": {
+    "description": "Ordersify Product Alerts ist eine Shopify-App, die Produktbestände automatisch erkennt und Kontakte sofort per E-Mail benachrichtigt, wenn Produkte wieder verfügbar sind.",
+    "history": "Ordersify Product Alerts ist eine Shopify-App für automatische E-Mail-Benachrichtigungen, wenn ausverkaufte Produkte wieder auf Lager sind.",
+    "summary_abuse": "Ordersify Product Alerts ist eine Shopify-App für Lagerbestandsbenachrichtigungen ohne nennenswertes Missbrauchssignal."
+  },
+  "OrderYOYO": {
+    "description": "OrderYOYO bietet Softwarelösungen für Online-Bestellung, Zahlungen und Marketing.",
+    "history": "OrderYOYO ist ein dänisches SaaS-Unternehmen, das um 2013 gegründet wurde und vor allem Restaurants und Gastronomiebetrieben in Europa Online-Bestellung, Zahlungsabwicklung und Marketinglösungen bereitstellt.",
+    "summary_abuse": "OrderYOYO zeigt kein nennenswertes Missbrauchssignal. Es ist eine Online-Bestell- und Zahlungsplattform für Restaurants, die legitime Gastronomiebetriebe mit üblicher Zahlungsabwicklung bedient."
+  },
+  "Oreed": {
+    "description": "Oreed ist eine All-in-one-Learning-Experience-Plattform, die alle Lern-, Schulungs- und Entwicklungsaktivitäten einer Organisation bündelt.",
+    "history": "Oreed ist eine Learning Experience Platform (LXP) mit Wurzeln im Nahen Osten und in der Golfregion und bietet Werkzeuge für Corporate Training und HR-Entwicklung.",
+    "summary_abuse": "Oreed ist eine Corporate-LMS/LXP-Plattform ohne nennenswertes Missbrauchssignal."
+  },
+  "Orimon.ai": {
+    "description": "Orimon.ai ist eine Plattform, die mit KI-gestützten Lösungen Leads generiert, Kundensupport automatisiert und den Verkauf unterstützt.",
+    "history": "Orimon.ai ist eine um 2023 gestartete SaaS-Plattform für KI-gestützte Chatbots und Lead-Generierung, die GPT-basierten Kundensupport und Vertriebsautomatisierung anbietet.",
+    "summary_abuse": "Orimon.ai ist eine KI-Chatbot-Plattform mit Gratisstufe. KI-Chatbot-Tools mit Gratisstufen können genutzt werden, um automatisierte spamartige oder täuschende Chat-Interaktionen zu erstellen, Orimon.ai ist jedoch ein kleiner Anbieter ohne dokumentierte Missbrauchsvorfälle."
+  },
+  "OroCommerce": {
+    "description": "OroCommerce ist eine Open-Source-B2B-E-Commerce-Plattform für die Anforderungen von B2B-Unternehmen, mit Funktionen wie erweiterter Produktverwaltung, Kundensegmentierung und komplexen Preisstrukturen.",
+    "history": "OroCommerce wurde 2012 von Yoav Kutner und weiteren ehemaligen Magento-Mitgründern gegründet, nachdem Magento an eBay verkauft worden war. Oro Inc. veröffentlichte zuerst OroPlatform und OroCRM, bevor 2017 OroCommerce 1.0 als dedizierte Open-Source-B2B-E-Commerce-Plattform erschien. Das Unternehmen nahm im Januar 2023 13 Millionen US-Dollar auf.",
+    "summary_abuse": "OroCommerce zeigt kein nennenswertes Missbrauchssignal. Es ist eine Open-Source-B2B-E-Commerce-Plattform, die von Unternehmenskäufern und Distributoren selbst gehostet wird, ohne verbraucherseitige Fläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "Ortto": {
+    "description": "Ortto ist eine Marketing-Automation- und Customer-Data-Plattform, die Daten, Messaging und Analysen in einem einheitlichen System zusammenführt.",
+    "history": "Ortto wurde ursprünglich in Australien als Autopilot gegründet, eine visuelle Marketing-Automation-Plattform, etwa zwischen 2012 und 2015. 2021 benannte sich das Unternehmen in Ortto um, als es sein Produkt neben den bestehenden journey-basierten Marketing-Automation-Tools um eine Customer-Data-Plattform und Analysen erweiterte.",
+    "summary_abuse": "Ortto zeigt kein nennenswertes Missbrauchssignal. Es ist eine Marketing-Automation- und Customer-Data-Plattform, die legitime SaaS- und E-Commerce-Unternehmen nutzen, ohne dokumentierte Verwendung in Phishing- oder Spam-Kampagnen über das bei E-Mail-Marketing-Plattformen Übliche hinaus."
+  },
+  "Osano": {
+    "description": "Osano ist eine Datenschutzplattform, die deiner Website hilft, Gesetze wie GDPR und CCPA einzuhalten.",
+    "history": "Osano wurde 2018 in Austin, Texas, mit Unterstützung von LiveOak Ventures gegründet. Im Oktober 2019 brachte das Unternehmen seine Datenschutz- und Compliance-Plattform öffentlich auf den Markt, um Firmen bei der Einhaltung von GDPR, CCPA und weiteren globalen Datenschutzgesetzen zu unterstützen. Seither wurde das Angebot um Cookie-Consent-Management, Data Mapping, Vendor Risk Management und Workflows für Betroffenenanfragen erweitert.",
+    "summary_abuse": "Osano zeigt kein nennenswertes Missbrauchssignal. Es ist eine Datenschutz-Compliance-Plattform, die ausdrücklich darauf ausgelegt ist, Verstösse gegen Datenschutzrecht zu reduzieren und Einwilligungen zu verwalten, und damit eher ein datenschutzförderndes Werkzeug als ein Missbrauchsvehikel."
+  },
+  "osCommerce": {
+    "description": "OsCommerce ist eine Open-Source-Software für E-Commerce und Online-Shop-Verwaltung.",
+    "history": "osCommerce wurde 2000 von Harald Ponce de Leon als eine der frühesten Open-Source-E-Commerce-Plattformen geschaffen. Anfang der 2000er-Jahre war sie weit verbreitet, verlor später aber gegenüber WooCommerce, Magento und Shopify an Boden. Die Plattform ist in den letzten Jahren weitgehend inaktiv, viele Legacy-Installationen laufen jedoch weiterhin ohne nennenswerte neue Entwicklung.",
+    "summary_abuse": "osCommerce-Installationen werden wegen der grossen Zahl veralteter, ungepatchter Deployments häufig von Angreifern ins Visier genommen. Bekannte Schwachstellen in alten Versionen wurden für Card Skimming, Malware-Injektion und gefälschte Shops ausgenutzt. Die Plattform selbst ist harmlose Software, Legacy-Installationen sind jedoch ein häufiges Ziel für Web-Skimmer."
+  },
+  "OSI Tracker": {
+    "description": "OSI Tracker ist eine Software für Affiliate-Marketing und Tracking.",
+    "history": "OSI Tracker ist eine SaaS-Plattform für Affiliate-Marketing und Tracking. Ein nennenswertes Gründungsjahr oder eine Unternehmensgeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "OSI Tracker ist eine Tracking-Plattform für Affiliate-Marketing. Affiliate-Marketing-Tools werden gelegentlich missbraucht, um betrügerische Affiliate-Programme oder Cookie Stuffing zu steuern. Für OSI Tracker sind keine spezifisch dokumentierten Missbrauchsvorfälle bekannt, die Kategorie trägt aber ein moderates inhärentes Risiko."
+  },
+  "Osterreichische Post": {
+    "description": "Österreichische Post ist ein österreichischer Anbieter von Logistik- und Postdienstleistungen.",
+    "history": "Osterreichische Post AG ist der nationale Postdienstleister Österreichs, als Aktiengesellschaft organisiert und an der Wiener Börse kotiert. Die Versanddienstleister-Integration erscheint in E-Commerce-Plattformen für österreichische Paketzustellung und Sendungsverfolgung.",
+    "summary_abuse": "Osterreichische Post zeigt als Technologie kein nennenswertes Missbrauchssignal. Es ist der nationale österreichische Postdienstleister, der in E-Commerce-Versandabläufe integriert ist, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "osTicket": {
+    "description": "osTicket ist ein Open-Source-Support-Ticketsystem, mit dem Unternehmen Kundenanfragen zentral verwalten und straffen können, einschliesslich Funktionen für Ticketverfolgung, Automatisierung und Reporting.",
+    "history": "osTicket ist ein Open-Source-Support-Ticketsystem, das um 2003 entstand. Es gehört zu den am weitesten verbreiteten selbst gehosteten Helpdesk-Plattformen und wird von Enhancesoft gepflegt, das neben der kostenlosen selbst gehosteten Version auch eine Cloud-Version anbietet.",
+    "summary_abuse": "osTicket ist eine Helpdesk-Plattform ohne nennenswertes Missbrauchssignal in Bezug auf Phishing oder Betrug. Es wird gelegentlich von Angreifern ins Visier genommen, die Schwachstellen in ungepatchten Installationen ausnutzen wollen, was aber für weit verbreitete Webanwendungen typisch ist."
+  },
+  "ostr.io": {
+    "description": "ostr.io ist eine Plattform für Website-Monitoring und Analytics, mit der Leistungs- und Nutzungsdaten gesammelt und ausgewertet werden können.",
+    "history": "ostr.io ist eine 2015 von VeliOV Group gegründete Web-Services-Plattform mit Uptime-Monitoring, SEO-Prerendering, Web Analytics und Sicherheitsfunktionen; sie richtet sich an JavaScript-Entwickler und kleine Webteams.",
+    "summary_abuse": "ostr.io ist eine entwicklerorientierte Monitoring- und Analytics-Plattform ohne nennenswertes Missbrauchssignal."
+  },
+  "otrs": {
+    "history": "OTRS (Open Ticket Request System) wurde 2001 in Deutschland als Open-Source-Plattform für Helpdesk und IT Service Management geschaffen. Die OTRS GmbH wurde 2003 formell gegründet. Die Software hatte eine Community Edition (OTRS Free) und eine kommerzielle Version; sie wird breit im IT Service Management eingesetzt, besonders in Europa.",
+    "summary_abuse": "OTRS ist eine Helpdesk- und ITSM-Plattform ohne nennenswertes Missbrauchssignal. Organisationen nutzen sie für internes Ticketmanagement und Kundensupport, ohne verbraucherseitige Hosting-Funktionen, die Betrüger anziehen würden."
+  },
+  "Otter Blocks": {
+    "description": "Otter Blocks ist ein Gutenberg-Blocks-Page-Builder-Plugin, das dem WordPress Block Editor zusätzliche Funktionen hinzufügt.",
+    "history": "Otter Blocks ist ein kostenloses WordPress-Gutenberg-Blocks-Plugin von Themeisle, einem rumänischen Unternehmen für WordPress-Themes und -Plugins. Es stellt zusätzliche Blocktypen und Patterns für den WordPress Block Editor bereit und wird neben Themeisles Premium-Produktlinie aktiv gepflegt.",
+    "summary_abuse": "Otter Blocks zeigt kein nennenswertes Missbrauchssignal. Es ist ein kostenloses WordPress-Gutenberg-Plugin, das über WordPress.org mit üblicher Plugin-Verzeichnisprüfung verteilt wird und Website-Erstellern zusätzliche Inhaltsblöcke bietet."
+  },
+  "OtterText": {
+    "description": "OtterText ist eine Plattform für SMS-Marketing und Automatisierung, die Kommunikation verbessern und Marketingkampagnen vereinfachen soll.",
+    "history": "OtterText ist eine kleine SaaS-Plattform für SMS-Marketing und Automatisierung mit Massenversand, automatisierten Kampagnen und Abonnentenverwaltung für Unternehmen.",
+    "summary_abuse": "OtterText ist eine SMS-Marketing-Plattform mit Massenversandfunktionen. SMS-Marketing-Tools können für unerwünschte Massennachrichten und Spam-Kampagnen missbraucht werden, seriöse SMS-Plattformen setzen jedoch TCPA-Compliance durch und verlangen Einwilligung der Abonnenten. Es sind keine spezifischen Missbrauchsvorfälle mit OtterText dokumentiert."
+  },
+  "Otto": {
+    "description": "Otto ist eine Workflow-Plattform für Tierarztpraxen, die Terminplanung, Kommunikation und Zahlungsprozesse in einem System strafft.",
+    "history": "Otto ist eine SaaS-Workflow-Plattform für Tierarztpraxen mit Werkzeugen für Terminplanung, Kundenkommunikation und Zahlungsabwicklung, die Kliniken hilft, ihre Abläufe in einem System zu vereinfachen.",
+    "summary_abuse": "Otto zeigt kein nennenswertes Missbrauchssignal. Es ist eine spezialisierte SaaS-Plattform für Praxismanagement in der Veterinärmedizin mit engem Branchenfokus und ohne verbraucherseitige Hosting-Fläche, die Betrugsakteure anziehen würde."
+  },
+  "OTYS": {
+    "description": "OTYS ist ein niederländisches Unternehmen, das Recruiting- und Personaldienstleistungsagenturen Softwarelösungen zur Verwaltung ihrer Workflows anbietet, darunter Applicant-Tracking-Systeme, Jobbörsen-Integrationen und Tools für Kandidatensuche.",
+    "history": "OTYS wurde 2001 von Jorrit Blok in Veenendaal, Niederlande, als Applicant-Tracking-System für Recruiting gegründet. Das Unternehmen wuchs auf über 1'000 Kunden mit mehr als 15'000 Recruitern in 25 europäischen Ländern, bevor es von Mysolution übernommen wurde, um dessen Recruiting-Software-Portfolio zu stärken.",
+    "summary_abuse": "OTYS zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-Recruiting-Plattform für Personalagenturen ohne verbraucherseitige Content-Hosting-Funktionen."
+  },
+  "Outbrain": {
+    "description": "Outbrain ist eine Web-Werbeplattform, die Linkboxen, sogenannte Chumboxes, auf Seiten innerhalb von Websites anzeigt.",
+    "history": "Outbrain wurde 2006 in New York als Netzwerk für Content-Empfehlungen und Native Advertising gegründet. Es wuchs zu einer der grössten Empfehlungsplattformen im Open Web heran, oft als Chumbox-Netzwerk bezeichnet, und bedient grosse Publisher-Websites. 2024 fusionierte Outbrain mit Teads zu einer grösseren Werbegruppe.",
+    "summary_abuse": "Outbrain ist ein Netzwerk für Native Advertising und Content-Empfehlungen, das historisch mit minderwertigem Clickbait, irreführenden Anzeigenformaten und gelegentlich schädlichen Anzeigen (Malvertising) in Verbindung gebracht wurde. Das Chumbox-Format wird breit dafür kritisiert, sensationelle und täuschende Inhalte zu fördern. Outbrains Anzeigenprüfung wurde öffentlich dafür kritisiert, irreführende Werbung für Gesundheits- und Finanzprodukte zuzulassen. Die hohe Tracker-Dichte spiegelt das Kerngeschäft im Ad-Tech-Bereich mit seitenübergreifendem Nutzerprofiling wider."
+  },
+  "Outfindo": {
+    "description": "Outfindo ist eine Plattform, die Produktauswahl-Guides für Websites bereitstellt, um Einkaufserlebnisse zu verbessern und Conversions zu steigern.",
+    "history": "Outfindo ist eine kleine SaaS-Plattform mit Produktauswahl-Guides und Einkaufsberatern für E-Commerce-Websites, die Kunden bei Produktentscheidungen unterstützen und Conversion Rates verbessern sollen.",
+    "summary_abuse": "Outfindo zeigt kein nennenswertes Missbrauchssignal. Es ist ein Widget für Produktauswahl-Guides in E-Commerce-Shops, ohne eigenständige verbraucherseitige Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "Outfunnel": {
+    "description": "Outfunnel ist eine Plattform, die Vertriebs- und Marketingdaten verbindet, um Workflows zu straffen und Daten über Tools hinweg besser abzugleichen.",
+    "history": "Outfunnel ist ein estnisches SaaS-Unternehmen, das um 2018 gegründet wurde und CRM- und Marketing-Tools verbindet, um Datenworkflows zwischen Vertrieb und Marketing abzustimmen, mit Integrationen für Plattformen wie HubSpot, Pipedrive und Mailchimp.",
+    "summary_abuse": "Outfunnel zeigt kein nennenswertes Missbrauchssignal. Es ist ein Datenintegrationstool, das CRM- und Marketingplattformen für legitime B2B-Vertriebsteams verbindet, ohne verbraucherseitige Hosting-Fläche, die Betrugsakteure anziehen würde."
+  },
+  "Outlook Web App": {
+    "description": "Outlook on the web ist eine Web-App für Informationsverwaltung; sie umfasst einen webbasierten E-Mail-Client, Kalender, Kontaktverwaltung und Aufgabenverwaltung.",
+    "history": "Outlook on the Web, ursprünglich Outlook Web Access, ist Microsofts browserbasierter E-Mail- und Kalenderclient, der mit Exchange Server und Microsoft 365 ausgeliefert wird. Er ist seit den späten 1990er-Jahren verfügbar und wird als Teil des Microsoft 365-Ökosystems laufend aktualisiert.",
+    "summary_abuse": "Outlook Web App ist ein Ziel für Credential-Phishing-Kampagnen: Angreifer erstellen häufig gefälschte OWA-Login-Seiten, um Microsoft 365-Zugangsdaten von Unternehmensnutzern abzugreifen. Der legitime Dienst selbst ist nicht missbräuchlich, aber Marke und Login-Oberfläche gehören weltweit zu den am häufigsten imitierten Elementen in Phishing-Kits. Microsoft verfolgt Phishing-Sites aktiv und betreibt umfangreiche Anti-Phishing-Infrastruktur in Microsoft 365."
+  },
+  "Outplay": {
+    "description": "Outplay ist eine Sales-Engagement-Plattform, die KI nutzt, um Interaktionen zu optimieren und schnell wachsende kleine und mittlere Unternehmen zu unterstützen.",
+    "history": "Outplay ist eine KI-gestützte Sales-Engagement-Plattform, die um 2019 gegründet wurde und sich an kleine und mittlere Vertriebsteams richtet, mit Multi-Channel-Outreach-Automatisierung über E-Mail, Telefon und LinkedIn-Sequenzen.",
+    "summary_abuse": "Outplay zeigt kein nennenswertes Missbrauchssignal. Es ist eine Sales-Engagement-Plattform für legitime B2B-Vertriebsteams, kann aber wie alle Multi-Channel-Outreach-Tools bei Missbrauch durch schlechte Akteure für Spam genutzt werden. Spezifische Vorfälle sind nicht dokumentiert."
+  },
+  "OutSystems": {
+    "description": "OutSystems ist eine Low-Code-Plattform mit Werkzeugen, mit denen Unternehmen Omnichannel-Unternehmensanwendungen entwickeln, bereitstellen und verwalten können.",
+    "history": "OutSystems wurde 2001 in Lissabon, Portugal, gegründet und prägte die Kategorie der Low-Code-Plattformen für Unternehmensanwendungen früh mit. Das Unternehmen hat über 1 Milliarde US-Dollar Private-Equity-Finanzierung aufgenommen und bedient weltweit Tausende Unternehmenskunden, darunter viele Fortune-500-Unternehmen. Es ist weiterhin privat gehalten, mit Hauptsitz in Lissabon und globaler Expansion.",
+    "summary_abuse": "OutSystems zeigt kein nennenswertes Missbrauchssignal. Es ist eine Enterprise-Low-Code-Entwicklungsplattform, die grosse Organisationen zum Bau interner Anwendungen nutzen, ohne verbraucherseitige Hosting-Fläche, die Phishing- oder Betrugsakteure anziehen würde."
+  },
+  "OutTheBoxThemes Panoramic": {
+    "description": "Panoramic ist ein vollständig responsives WordPress-Theme mit Homepage-Slider von OutTheBoxThemes.",
+    "history": "Panoramic ist ein kostenloses WordPress-Theme von OutTheBoxThemes, einem kleinen britischen WordPress-Theme-Entwickler. Es wird auf WordPress.org mit einer Premium-Upgrade-Option verteilt.",
+    "summary_abuse": "Panoramic ist ein WordPress-Theme ohne nennenswertes Missbrauchssignal. WordPress-Themes haben selbst keine verbraucherseitige gehostete Fläche, die Betrüger ausnutzen könnten."
+  },
+  "Ova": {
+    "description": "Ova ist eine Website-Builder-Plattform aus Australien.",
+    "history": "Ova ist eine australische Website-Builder-Plattform für kleine Unternehmen, mit Drag-and-drop-Werkzeugen zur Website-Erstellung und Hosting.",
+    "summary_abuse": "Ova zeigt kein nennenswertes dokumentiertes Missbrauchssignal. Es ist ein kleiner australischer Website Builder. Website Builder mit kostenlosen oder günstigen Stufen können zum Hosten von Phishing-Seiten genutzt werden, spezifische Vorfälle mit Ova sind jedoch nicht dokumentiert."
+  },
+  "Overblog": {
+    "description": "Overblog ist eine französische Blog-Plattform, auf der Nutzer Inhalte erstellen und teilen können.",
+    "history": "Overblog ist eine französische Verbraucher-Blogging-Plattform, die um 2004 gegründet wurde und kostenlose Blog-Erstellung sowie Hosting bietet; sie gehörte zu den frühen grossen französischsprachigen Blogging-Plattformen und wurde im Laufe der Jahre mehrfach übernommen, wobei sie unter verschiedenen Muttergesellschaften betrieben wurde.",
+    "summary_abuse": "Overblog ist eine kostenlose Blogging-Plattform für Verbraucher, die wie die meisten offenen Hosting-Plattformen mit Gratisstufen einem gewissen Risiko durch Spam und minderwertige Inhalte auf ihrer Subdomain-Infrastruktur ausgesetzt ist. Die kostenlose Stufe mit Content-Hosting schafft ein gewisses Missbrauchsrisiko für Phishing oder SEO-Spam, grössere dokumentierte Missbrauchskampagnen speziell mit Overblog sind jedoch nicht bekannt."
+  },
+  "Overfull": {
+    "description": "Overfull ist ein Reservierungsmanagementsystem für Restaurants, mit dem sie Buchungen bearbeiten, Tische verwalten und Gästeplanung vereinfachen können.",
+    "history": "Overfull ist ein französisches Reservierungsmanagementsystem für Restaurants mit Werkzeugen für Tischbuchung und Gästeplanung.",
+    "summary_abuse": "Overfull zeigt kein nennenswertes Missbrauchssignal. Es ist ein Reservierungsmanagementsystem für Restaurants ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "Overheat": {
+    "description": "Overheat ist ein Conversion-Optimierungspaket, das Website-Leistung durch bessere Nutzererfahrung, datengetriebene Strategien und zugeschnittene Lösungen steigern soll.",
+    "history": "Overheat ist eine italienische SaaS-Plattform für Conversion-Optimierung, die A/B-Testing und Werkzeuge zur Verbesserung der Nutzererfahrung auf Websites anbietet.",
+    "summary_abuse": "Overheat zeigt kein nennenswertes Missbrauchssignal. Es ist ein Tool für Conversion-Optimierung und A/B-Testing für Website-Betreiber, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "Overloop": {
+    "description": "Overloop ist eine KI-gestützte Sales-Prospecting-Plattform, die Lead-Generierung, Outreach und Engagement automatisiert, um Kundengewinnung und Conversion zu optimieren.",
+    "history": "Overloop ist eine belgische KI-gestützte Plattform für Sales Prospecting und Outreach-Automatisierung, die um 2016 gegründet wurde und Vertriebsteams Lead-Generierung sowie Multi-Channel-Engagement-Werkzeuge bietet.",
+    "summary_abuse": "Overloop zeigt kein nennenswertes Missbrauchssignal über das inhärente Risiko jeder Plattform für Vertriebs-Outreach-Automatisierung hinaus. Wie ähnliche Tools könnte es theoretisch für Spam-Prospecting missbraucht werden, es gibt jedoch keine spezifisch dokumentierten Vorfälle und legitime Nutzung überwiegt."
+  },
+  "Overwolf": {
+    "description": "Overwolf ist eine Plattform zum Erstellen, Teilen und Monetarisieren von In-Game-Apps und Mods.",
+    "history": "Overwolf wurde 2012 in Israel als Plattform gegründet, über die Entwickler In-Game-Overlays und Mods erstellen, verbreiten und monetarisieren können. Das Unternehmen nahm beträchtliche VC-Finanzierung auf und wuchs zur führenden Plattform für In-Game-Apps. 2021 übernahm es CurseForge von Twitch/Amazon und wurde damit zu einem wichtigen Hub für Gaming-Mod-Distribution.",
+    "summary_abuse": "Overwolf hat ein moderates Missbrauchsrisikoprofil. Als In-Game-Overlay-Plattform und App Store war es ein Vektor für potenziell unerwünschte Programme (PUPs) und Adware, die mit Mods oder Apps gebündelt wurden. Die Plattform sammelt umfangreiche Nutzungsdaten für Werbezwecke. CurseForge, heute unter Overwolf, erlebte 2023 einen nennenswerten Supply-Chain-Angriff, bei dem Schadcode in beliebte Minecraft-Mods eingeschleust wurde, um Malware auszuliefern."
+  },
+  "OVHcloud": {
+    "description": "OVHcloud ist ein globaler Cloud-Anbieter für Hosted Private Cloud, Public Cloud und Dedicated-Server-Lösungen.",
+    "history": "OVHcloud wurde im November 1999 von Octave Klaba in Roubaix, Frankreich, als Webhosting-Anbieter gegründet. Das Unternehmen wuchs zum grössten Cloud-Anbieter Europas. Im Oktober 2021 ging OVHcloud an die Euronext Paris, nahm 400 Millionen Euro auf und startete mit einer Marktkapitalisierung von 3,48 Milliarden Euro. Im März 2021 zerstörte ein grosses Feuer im Rechenzentrum Strasbourg Infrastruktur und verursachte erhebliche Dienstunterbrüche.",
+    "summary_abuse": "OVHcloud zeigt ein moderates Missbrauchssignal, wie es bei grossen Cloud-Infrastrukturanbietern üblich ist. Dedizierte Server und VPS-Hosting wurden historisch für Botnets, Spam-Operationen und Phishing-Infrastruktur genutzt, besonders wegen der wettbewerbsfähigen Preise. OVHcloud veröffentlicht eine AUP und hat ein Abuse-Team, dessen Reaktionsgeschwindigkeit im Vergleich zu Hyperscalern jedoch kritisiert wurde. Gemessen an seiner Marktgrösse wird der Anbieter nicht unverhältnismässig stark von Betrügern bevorzugt."
+  },
+  "Owids": {
+    "description": "Owids ist ein Widget-Set zur Verbesserung von Website-Conversion-Rates und Besucherbindung über Plattformen hinweg, ohne dass Programmierkenntnisse nötig sind.",
+    "history": "Owids ist eine kleine SaaS-Widget-Plattform für Conversion-Optimierung, die um 2020 gestartet wurde.",
+    "summary_abuse": "Owids ist ein kleines Conversion-Widget-Tool ohne nennenswertes Missbrauchssignal."
+  },
+  "OWL Carousel": {
+    "description": "OWL Carousel ist ein jQuery-Plugin, mit dem sich responsive Karussell-Slider erstellen lassen.",
+    "history": "OWL Carousel ist ein jQuery-basiertes responsives Karussell-Plugin, das ursprünglich um 2013 erstellt wurde. OWL Carousel 2 erschien als Neuentwicklung, das letzte grössere Update folgte 2017. Das Projekt ist seither weitgehend aufgegeben, bleibt aber auf älteren Websites breit eingebettet.",
+    "summary_abuse": "OWL Carousel zeigt kein Missbrauchssignal. Es ist eine clientseitige JavaScript-Karussell-Bibliothek ohne verbraucherseitige Angriffsfläche."
+  },
+  "ownCloud": {
+    "history": "ownCloud wurde 2010 von Frank Karlitschek als Open-Source-Plattform für Dateisynchronisierung und -freigabe gegründet. 2016 verliess Karlitschek das Projekt und gründete Nextcloud als Fork, wodurch sich die Community teilte. Die ownCloud GmbH setzte die Entwicklung fort, auch wenn Nextcloud seither breiter angenommen wurde.",
+    "summary_abuse": "ownCloud ist eine selbst gehostete Plattform für Dateisynchronisierung und -freigabe. Exponierte oder falsch konfigurierte Instanzen wurden gelegentlich von Angreifern ins Visier genommen, das ist aber nicht spezifisch auf das Design von ownCloud zurückzuführen. Die Software selbst hat keine Funktionen, die Betrug oder Phishing direkt erleichtern würden."
+  },
+  "Ownpage": {
+    "description": "Ownpage ist ein Technologiedienstleister, der Publishern ermöglicht, Newsletter, Websites und Anwendungen zu personalisieren und so die Inhaltsauslieferung für Medienplattformen zu verbessern.",
+    "history": "Ownpage ist eine französische B2B-SaaS-Plattform, mit der Medienpublisher Newsletter und digitale Inhalte über Zielgruppensegmentierung und Content-Delivery-Tools personalisieren können.",
+    "summary_abuse": "Ownpage zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-Personalisierungsplattform für Medienpublisher, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "Oxatis": {
+    "description": "Oxatis ist eine cloudbasierte E-Commerce-Lösung, mit der Nutzer eigene Online-Shops erstellen und verwalten können.",
+    "history": "Oxatis ist eine französische cloudbasierte E-Commerce-Plattform, die um 2001 gegründet wurde und kleinen und mittleren Unternehmen Werkzeuge zum Erstellen und Verwalten von Online-Shops bietet; sie bedient vor allem den französischsprachigen europäischen Markt.",
+    "summary_abuse": "Oxatis zeigt kein nennenswertes Missbrauchssignal. Es ist eine französische E-Commerce-Plattform für legitime KMU-Händler. Wie alle E-Commerce-Plattformen kann sie theoretisch gefälschte Shops hosten, es sind jedoch keine dokumentierten Missbrauchskampagnen speziell gegen Oxatis-Infrastruktur bekannt."
+  },
+  "Oxi Social Login": {
+    "description": "Oxi Social Login ermöglicht Ein-Klick-Login mit Diensten wie Facebook, Google und vielen weiteren.",
+    "history": "Oxi Social Login ist ein Social-Login-Plugin beziehungsweise Widget von OxiApps, einem kleinen indischen Softwareentwickler, das Ein-Klick-OAuth-Login über Facebook, Google und weitere Anbieter ermöglicht.",
+    "summary_abuse": "Oxi Social Login ist ein Tool für Social-OAuth-Integration. Social-Login-Widgets, die OAuth-Tokens weitergeben, können bei schlechter Umsetzung Datenschutzrisiken schaffen, für diesen Anbieter sind jedoch keine spezifisch dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "OXID eShop": {
+    "description": "OXID eShop ist eine kostenlose Open-Source-E-Commerce-Lösung, die mit objektorientierter Programmierung und PHP gebaut ist.",
+    "history": "OXID eSales AG wurde 2003 von Roland Fesenmayr in Freiburg im Breisgau, Deutschland, gegründet. OXID eShop startete 2005 als PHP-basierte Open-Source-E-Commerce-Plattform. Seit über 20 Jahren gehört sie zu den führenden deutschen E-Commerce-Lösungen für B2B- und B2C-Anwendungsfälle.",
+    "summary_abuse": "OXID eShop zeigt kein nennenswertes Missbrauchssignal. Es ist eine selbst gehostete Open-Source-E-Commerce-Plattform, die vor allem legitime deutsche Unternehmen nutzen, ohne zentralisierte Hosting-Fläche, auf die Betrüger gezielt aus wären."
+  },
+  "OXID eShop Community Edition": {
+    "description": "OXID eShop Community Edition ist eine kostenlose Open-Source-E-Commerce-Lösung, die mit objektorientierter Programmierung und PHP gebaut ist.",
+    "history": "OXID eShop Community Edition ist die kostenlose, GPL-lizenzierte Stufe der von OXID eSales AG entwickelten OXID eShop-Plattform, gegründet 2003 in Freiburg, Deutschland; sie bietet dieselbe zentrale PHP-E-Commerce-Funktionalität wie die kostenpflichtigen Editionen, jedoch ohne Enterprise-Support.",
+    "summary_abuse": "OXID eShop Community Edition zeigt kein nennenswertes Missbrauchssignal. Es ist eine selbst gehostete Open-Source-E-Commerce-Plattform, die von legitimen deutschen Unternehmen genutzt wird."
+  },
+  "OXID eShop Enterprise Edition": {
+    "description": "OXID eShop Enterprise Edition ist eine B2B- oder B2C-E-Commerce-Lösung, die mit objektorientierter Programmierung und PHP gebaut ist.",
+    "history": "OXID eShop Enterprise Edition ist das kommerzielle Spitzenangebot von OXID eSales AG, 2003 in Freiburg, Deutschland, gegründet, und für grosse B2B- und B2C-Installationen mit hohen Anforderungen an Skalierbarkeit und Enterprise-Support ausgelegt.",
+    "summary_abuse": "OXID eShop Enterprise Edition zeigt kein nennenswertes Missbrauchssignal. Es ist eine lizenzierte Enterprise-E-Commerce-Plattform für grosse deutsche Unternehmen."
+  },
+  "OXID eShop Professional Edition": {
+    "description": "OXID eShop Professional Edition ist eine E-Commerce-Plattform für kleine Start-ups und erfahrene Onlinehändler, mit breitem Funktionsumfang, Softwarewartung und Support.",
+    "history": "OXID eShop Professional Edition ist das mittlere kommerzielle Angebot von OXID eSales AG, gegründet 2003 in Freiburg, Deutschland, und richtet sich mit erweiterten Funktionen und Software-Support an kleine bis mittelgrosse Onlinehändler.",
+    "summary_abuse": "OXID eShop Professional Edition zeigt kein nennenswertes Missbrauchssignal. Es ist eine kommerzielle E-Commerce-Plattform für legitime Unternehmen."
+  },
+  "Oxygen": {
+    "description": "Oxygen Builder ist ein Werkzeug zum Erstellen von WordPress-Websites.",
+    "history": "Oxygen Builder ist ein Premium-WordPress-Page-Builder-Plugin, das um 2016 gestartet wurde und sich als entwicklerorientierte Alternative zu Elementor und Divi positioniert. Es nutzt einen visuellen Designansatz ohne Shortcodes und gibt Entwicklern dadurch mehr Kontrolle über das ausgegebene HTML.",
+    "summary_abuse": "Oxygen Builder zeigt kein nennenswertes Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Page-Builder-Plugin für Webentwickler, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+  },
+  "oXyShop": {
+    "description": "oXyShop ist eine Plattform zum Erstellen und Verwalten von Online-Shops.",
+    "history": "oXyShop ist eine tschechische E-Commerce-Plattform zum Erstellen und Verwalten von Online-Shops. Es sind keine nennenswerten Eigentümerwechsel oder Abkündigungen dokumentiert.",
+    "summary_abuse": "oXyShop ist eine tschechische E-Commerce-Plattform ohne nennenswertes Missbrauchssignal."
+  }
+}

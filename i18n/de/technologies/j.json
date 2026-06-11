@@ -1,0 +1,535 @@
+{
+  "J2Store": {
+    "description": "J2Store ist eine Joomla-Erweiterung für Warenkorb- und E-Commerce-Funktionen.",
+    "history": "J2Store ist eine Open-Source-E-Commerce-Erweiterung für das Joomla CMS und wurde etwa 2012 erstmals veröffentlicht. Entwickelt und gepflegt wird sie von Techjoomla, einem indischen Unternehmen. Mit der Erweiterung können Joomla-Websites Warenkorb- und E-Commerce-Funktionen hinzufuegen; sie wird unter der GPL-Lizenz vertrieben, mit zusätzlich verfuegbaren kostenpflichtigen Erweiterungen.",
+    "summary_abuse": "J2Store ist ein Joomla-E-Commerce-Plugin für kleine und mittlere Websites. Wie bei allen E-Commerce-Plattformen können falsch konfigurierte oder veraltete Installationen Ziel von Credit-Card-Skimming werden. Durch den Open-Source-Charakter haengt die Sicherheit der Installationen stark davon ab, ob Seitenbetreiber Updates einspielen. Im Vergleich zu groesseren Plattformen sind keine breit dokumentierten Kampagnen gegen J2Store bekannt."
+  },
+  "Jabmo": {
+    "description": "Jabmo ist eine Softwareplattform, die Lead-Generierung durch Tracking und Analyse der Aktivität von Website-Besuchern automatisiert.",
+    "history": "Jabmo wurde um 2015 als B2B-Plattform für Account-Based Marketing (ABM) gegründet, mit Schwerpunkt auf Unternehmen aus Fertigung und Life Sciences. Im Dezember 2022 wurde Jabmo im Gartner Magic Quadrant for ABM Platforms genannt. Im Februar 2023 ging das Unternehmen in die Insolvenzverwaltung. Die britische Expandi Group übernahm Jabmos Vermögenswerte im Juli 2023 und rettete Marke und Plattform aus der Insolvenz. Im Dezember 2023 startete Expandi die Jabmo ABM-Plattform neu und integrierte sie in sein breiteres MarTech-Portfolio.",
+    "summary_abuse": "Jabmo ist eine B2B-ABM-Plattform, die anonyme Website-Besucher verfolgt und Unternehmensaccounts zuordnet, um gezielte Werbung auszuspielen. Die Kernfunktion umfasst Third-Party-Tracking von Website-Besuchern ohne direkte Einwilligung, was unter GDPR ein Datenschutzthema ist. Die Plattform ist nicht für Phishing, Betrug oder Malware-Hosting bekannt. Das wichtigste Missbrauchsrisiko liegt im intensiven Ad-Tech-Tracking als Kernfunktion, nicht in beilaufiger Datenerhebung."
+  },
+  "Jacklist": {
+    "description": "Jacklist ist ein in Japan entwickeltes Website-Builder-System.",
+    "history": "Jacklist ist ein japanischer Website-Builder und Webdesign-Dienstleister mit Sitz in Osaka, Japan. Unter den Domains jacklist.ltd und jacklist.co.jp bietet das Unternehmen gehostete Website-Erstellung an, vor allem für kleine japanische Unternehmen. Vermarktet wird ein abonnementbasiertes Modell für kleine Unternehmenswebsites ohne Einrichtungsgebuehr. Öffentlich sind neben Firmeneinträgen nur wenige historische Informationen verfuegbar.",
+    "summary_abuse": "Jacklist ist ein kleiner japanischer Website-Builder ohne dokumentiertes Missbrauchssignal in westlicher Sicherheitsforschung. Als gehosteter Website-Builder könnte die Plattform theoretisch betrügerische Websites hosten, es sind aber keine bekannten Vorfälle bekannt, die Jacklist mit Phishing, Betrug oder Malware-Kampagnen verbinden. Die sehr begrenzte geografische Praesenz in Japan und die kleine Nutzerbasis reduzieren die Missbrauchsfläche zusätzlich."
+  },
+  "Jade": {
+    "description": "Jade ist eine Template-Engine, die vor allem für serverseitiges Templating in NodeJS verwendet wird.",
+    "history": "Jade wurde um 2010 von TJ Holowaychuk als whitespace-sensitive HTML-Template-Engine für Node.js entwickelt, inspiriert von Haml; sie wurde zu einer der am weitesten verbreiteten serverseitigen Template-Engines im Node.js-Oekosystem. Im Dezember 2015 wurde das Paket von jade in pug umbenannt, nachdem bekannt wurde, dass \"Jade\" eine eingetragene Marke ist. Die aktive Entwicklung findet seither unter dem Paketnamen pug statt, während das npm-Paket jade aus Gründen der Rueckwaertskompatibilitaet erhalten blieb.",
+    "summary_abuse": "Jade, heute Pug, ist eine serverseitige Template-Engine ohne auffaelliges Missbrauchssignal; sie ist ein Build- beziehungsweise Server-Tool ohne Endnutzeroberfläche und ohne Hosting-Funktionen. Es sind keine dokumentierten Missbrauchsmuster bekannt."
+  },
+  "Jadu": {
+    "description": "Die Jadu Digital Platform bildet die Grundlage für zugängliche, responsive und ausgezeichnete Lösungen für Websites, Forms, CRM und Portale.",
+    "history": "Jadu wurde 1999 von Suraj Kika und Richard Chamberlain im Vereinigten Koenigreich gegründet. 2001 entwickelte das Unternehmen seine Plattform auf PHP und MySQL neu und setzte sie für die britische Regierung und lokale Behoerden ein. 2012 wurde Jadu bevorzugter Lieferant im UK Government CloudStore. Der groesste Kunde ist Birmingham City Council, die groesste lokale Behoerde Europas. 2016 führte Jadu für seine fortlaufend veröffentlichte Plattform den Markennamen Continuum ein. Das Unternehmen hat Niederlassungen im Vereinigten Koenigreich, in Nordamerika und Australien.",
+    "summary_abuse": "Jadu ist eine britische CMS-Plattform für Regierung und öffentlichen Sektor ohne auffaelliges Missbrauchssignal. Die Kundschaft besteht vor allem aus britischen lokalen Behoerden, Hochschulen und anderen öffentlichen Organisationen. Die Plattform wird nicht mit Phishing, Betrug oder Malware-Hosting in Verbindung gebracht. Als Enterprise-CMS für geprüfte Regierungskunden ist das Missbrauchsrisiko minimal."
+  },
+  "Jadu Central Content": {
+    "description": "Jadu Central Content ist ein Low-Code-Publishing-Tool zum Erstellen, Veröffentlichen und Verwalten von Website-Inhalten und digitalen Assets.",
+    "history": "Jadu Central Content ist ein Low-Code-Werkzeug für Content Management und Publishing von Jadu Ltd, einem britischen Unternehmen, das 1999 gegründet wurde. Es gehoert zur breiteren Jadu Digital Platform, zu der auch Produkte für Formulare, CRM und Portale zaehlen. Historisch bediente das Produkt britische Organisationen des öffentlichen Sektors, darunter lokale Behoerden und Universitaeten, unter dem 2016 eingeführten Plattformnamen Jadu Continuum.",
+    "summary_abuse": "Jadu Central Content ist ein britisches CMS für den öffentlichen Sektor ohne auffaelliges Missbrauchssignal. Es wird von geprüften Regierungs- und Bildungskunden im Vereinigten Koenigreich genutzt. Es gibt keine dokumentierten Faelle von Missbrauch, Phishing oder Betrug im Zusammenhang mit der Plattform."
+  },
+  "Jahia DX": {
+    "history": "Jahia wurde 2002 in Genf, Schweiz, als Unternehmen für Java-basierte Enterprise-CMS gegründet. Auf Basis von Apache Jackrabbit JCR entwickelte sich Jahia zu einer der führenden Java-basierten Open-Source-Plattformen für Content Management. 2015 erhielt Jahia 20 Millionen Euro von Invus, um seine Enterprise-Kundschaft auszubauen. Die Produktlinie entwickelte sich vom CMS zu einer vollständigen Digital Experience Platform (DXP). 2018 spendete Jahia seine Customer Data Platform (CDP) an die Apache Software Foundation, woraus 2019 Apache Unomi wurde. Der Produktname DX bezieht sich auf die Digital-Experience-Edition der Plattform.",
+    "summary_abuse": "Jahia DX ist ein Enterprise-Java-CMS beziehungsweise eine DXP ohne auffaelliges Missbrauchssignal. Die Plattform wird von grossen Organisationen wie Unternehmen und Regierungsstellen in kontrollierten Umgebungen betrieben. Es sind keine dokumentierten Faelle von Missbrauch, Phishing oder Betrugskampagnen im Zusammenhang mit Jahia-Deployments bekannt."
+  },
+  "JAlbum": {
+    "description": "jAlbum ist eine plattformübergreifende Software für Foto-Websites, mit der Galerien aus Bildern und Videos erstellt und hochgeladen werden können.",
+    "history": "jAlbum wurde 2002 vom schwedischen Programmierer David Ekholm als plattformübergreifende Java-Software für Fotoalben entwickelt. Nutzer können damit Website-Galerien aus Fotos und Videos erstellen und auf jalbum.net oder eigenem Hosting veröffentlichen. Mit der Software wurden mehr als 32 Millionen Galerien erstellt.",
+    "summary_abuse": "jAlbum ist eine Desktop-Software für Fotogalerien mit optionalem Hosting-Dienst. Es gibt kein auffaelliges Missbrauchssignal."
+  },
+  "Jalios": {
+    "description": "Jalios bietet Digital-Workplace-Lösungen, darunter kollaborative Intranets, Enterprise Social Networks und Dokumentenmanagementsysteme, um Kommunikation und Produktivitaet in Organisationen zu verbessern.",
+    "history": "Jalios wurde 2001 in Frankreich von Vincent Bouthors und Olivier Dedieu gegründet, beide promovierte Informatiker und zuvor Forscher bei Bull und INRIA. Das Unternehmen entwickelte die JCMS-Plattform, eine umfassende Digital-Workplace-Lösung für Intranets, Extranets und Enterprise Social Networks. Jalios bedient mehr als 500 Organisationen. 2021 trat Jalios dem Fabulous-8-Kollektiv franzoesischer Cloud-Anbieter bei, als souveraene Alternative zu Microsoft 365.",
+    "summary_abuse": "Jalios ist eine Enterprise-Plattform für Intranets und digitale Arbeitsplaetze, die vor allem von franzoesischen Organisationen genutzt wird. Als geschlossenes, vertragsbasiertes Enterprise-Produkt hat sie nur sehr begrenzte Aussenwirkung für Missbrauch. Es sind keine dokumentierten Vorfälle bekannt, in denen die Plattform für Betrug oder Phishing genutzt wurde."
+  },
+  "Jameda": {
+    "description": "Jameda ist ein Online-Terminbuchungssystem für Aerzte, über das Patienten medizinische Konsultationen buchen können.",
+    "history": "Jameda wurde 2007 in Muenchen, Deutschland, als Online-Plattform für Arztbewertungen und Terminbuchungen gegründet. Hubert Burda Media übernahm Jameda 2015. Im November 2021 kaufte die Docplanner Group, ein in Warschau ansaessiger Healthcare-Marketplace-Unicorn, Jameda von Hubert Burda Media. Die Übernahme wurde am 1. Januar 2022 abgeschlossen. Docplanner kuendigte an, über Jameda in den folgenden zwei bis drei Jahren 250 Millionen Euro in den deutschen Markt zu investieren.",
+    "summary_abuse": "Jameda ist eine deutsche Plattform für Arzttermine und Arztbewertungen; sie verarbeitet personenbezogene Patientendaten und Informationen zu medizinischen Terminen, wodurch Datenschutz das zentrale Thema ist. Es sind keine dokumentierten Phishing-, Malware- oder Betrugskampagnen bekannt, die gezielt Jameda betreffen oder von dort ausgehen. Die Plattform unterliegt deutschen Anforderungen an Gesundheitsdaten und GDPR. Das Hauptrisiko liegt in Patientendatenverarbeitung und Compliance, nicht in der Ermöglichung von Missbrauch."
+  },
+  "JamFeed": {
+    "description": "JamFeed ist eine webbasierte Plattform, mit der Nutzer automatisierte Musik-Websites erstellen können.",
+    "history": "JamFeed wurde im Maerz 2015 mitgegründet und hat seinen Sitz in Austin, Texas. Die Plattform ermöglicht unabhängigen Musikern, automatisierte Websites zu erstellen, die sich mit neuen Releases, Tourdaten, Videos und Social Content selbst aktualisieren. Das Unternehmen erhielt 580'000 US-Dollar Finanzierung von Investoren wie Softeq Venture Studio und Newchip. Die Plattform haelt mehrere Patente auf ihre automatisierte Website-Technologie.",
+    "summary_abuse": "JamFeed ist eine Plattform zum Erstellen von Musik-Websites mit minimal dokumentiertem Missbrauch. Als CMS für Musiker könnten gehostete Sites theoretisch für gefaelschte Kuenstlerseiten, Ticketbetrug oder Merchandise-Betrug genutzt werden, es sind aber keine Kampagnen im Zusammenhang mit JamFeed dokumentiert. Die Plattform ist klein und nischig, was die Missbrauchsfläche begrenzt."
+  },
+  "JANet": {
+    "description": "JANet ist ein Affiliate-Marketing-Netzwerk.",
+    "history": "JANet (ジャネット) ist ein japanisches Affiliate-Marketing-Netzwerk von Adways Inc., einem der führenden japanischen Anbieter für Affiliate-Werbung. Es hat etwa 100'000 Affiliates und ist im Web und mobil aktiv. Neben der Zugehoerigkeit zu Adways sind keine groesseren Eigentümeränderungen bekannt.",
+    "summary_abuse": "JANet ist ein japanisches Affiliate-Netzwerk. Affiliate-Marketing-Netzwerke werden häufig für Spam-Link-Injection, Cookie Stuffing und taeuschende Werbung ausgenutzt. Als CPA-Netzwerk können sich Affiliates anmelden und Angebote mit aggressiven oder irreführenden Methoden bewerben. Wie weit die Anti-Fraud-Kontrollen im JANet-Netzwerk reichen, ist öffentlich nicht dokumentiert."
+  },
+  "Jarvis Analytics": {
+    "description": "Jarvis Analytics ist eine Analytics-Plattform für Zahnarztpraxen, die Dentaldaten sammelt, verarbeitet und visualisiert, um klinische Entscheidungen und betriebliche Erkenntnisse zu unterstützen.",
+    "history": "Jarvis Analytics ist eine Business-Intelligence-Plattform für Zahnarztpraxen, die sich mit Praxisverwaltungssystemen integriert und KPI-Dashboards, Produktionsanalysen und Recall-Auswertungen für Dentalpraxen und DSOs bereitstellt. Die Plattform gehoert zu Henry Schein One und damit zum Dentalsoftware-Portfolio von Henry Schein; sie integriert sich mit wichtigen Praxisverwaltungssystemen wie Dentrix, Open Dental und Eaglesoft.",
+    "summary_abuse": "Jarvis Analytics ist eine Analytics-Plattform für Zahnarztpraxen ohne auffaelliges Missbrauchssignal; sie verarbeitet Betriebsdaten von Praxen und Informationen zur Patiententerminierung. Als spezialisierte Branchen-SaaS für geprüfte Zahnarztpraxen wird sie nicht mit Phishing, Betrug oder Malware-Verteilung in Verbindung gebracht. Der Umgang mit Gesundheitsdaten ist das wichtigste Compliance-Thema."
+  },
+  "Java": {
+    "description": "Java ist eine klassenbasierte, objektorientierte Programmiersprache, die mit möglichst wenigen Implementierungsabhängigkeiten entworfen wurde.",
+    "history": "Java wurde von James Gosling und einem Team bei Sun Microsystems entwickelt und 1995 erstmals veröffentlicht. Urspruenglich für interaktives Fernsehen entworfen, wurde Java Ende der 1990er- und in den 2000er-Jahren zur dominierenden Enterprise-Programmiersprache. 2010 übernahm Oracle Corporation Sun Microsystems und damit die Verantwortung für Java. Oracle stellte die OpenJDK-Referenzimplementierung unter GPLv2 als Open Source bereit. Für kommerzielle Nutzung veröffentlichte Oracle Java spaeter unter einem umstrittenen Lizenzmodell, weshalb viele Unternehmen OpenJDK-Distributionen einsetzen. Java bleibt eine der weltweit meistgenutzten Programmiersprachen.",
+    "summary_abuse": "Java als Programmiersprache hat für sich genommen kein direktes Missbrauchssignal; sie ist grundlegende Enterprise-Infrastruktur. Angreifer schreiben Malware und Exploit-Tools in Java, und Deserialisierungs-Schwachstellen in Java-Anwendungen wurden umfassend ausgenutzt. Log4Shell (CVE-2021-44228) betraf Java-Anwendungen mit der Logging-Bibliothek Log4j und wurde zu einer der kritischsten Schwachstellen der letzten Jahre. Das sind jedoch nachgelagerte Anwendungsprobleme, keine dem Sprachkern innewohnenden Eigenschaften."
+  },
+  "Java Servlet": {
+    "history": "Java Servlet ist eine serverseitige Java-Technologiespezifikation, die 1997 von Sun Microsystems als Teil von Java EE (Enterprise Edition) eingeführt wurde; sie definiert eine Standardschnittstelle für Java-Komponenten, die in einer Webserver-Umgebung HTTP-Anfragen verarbeiten und Antworten erzeugen. Die Servlet API bildet die Grundlage wichtiger Java-Webframeworks wie Spring MVC, JavaServer Faces und Struts. Als Oracle Java EE 2017 an die Eclipse Foundation übergab, wurde die Spezifikation von javax.servlet in jakarta.servlet (Jakarta EE) umbenannt. Aktuelle Versionen werden unter dem Jakarta-EE-Dach von der Eclipse Foundation gepflegt.",
+    "summary_abuse": "Java Servlet ist eine serverseitige Spezifikation ohne direktes Missbrauchssignal; sie ist Backend-Infrastruktur, die nur in von Entwicklern kontrollierten Serverumgebungen eingesetzt wird. Es gibt keine Endnutzeroberfläche. Servlet-basierte Anwendungen waren historisch Ziele von Webangriffen wie SQLi, XSS oder Deserialisierungs-Exploits, doch das sind Probleme auf Anwendungsebene und nicht der Servlet-Spezifikation selbst."
+  },
+  "Javadoc": {
+    "description": "Javadoc ist ein Werkzeug, das aus Java-Quellcode Java-Code-Dokumentation im HTML-Format erzeugt.",
+    "history": "Javadoc ist der Dokumentationsgenerator für Java und wurde 1995 von Sun Microsystems zusammen mit Java geschaffen. Das Tool nutzt spezielle Dokumentationskommentare im Java-Quellcode, um HTML-Dokumentation zu erzeugen. Sun Microsystems wurde 2010 von Oracle übernommen, und Javadoc wird seither als Teil des JDK gepflegt, mit regelmaessigen Aktualisierungen zu jeder Java-Version.",
+    "summary_abuse": "Javadoc ist ein mit dem Java Development Kit gebuendeltes Dokumentationswerkzeug und hat keine Endnutzeroberfläche oder bekannten Missbrauchsmuster. Es ist ein reines Entwicklerwerkzeug, das API-Dokumentation aus Java-Quellcode erzeugt."
+  },
+  "JavaScript Infovis Toolkit": {
+    "history": "Das JavaScript InfoVis Toolkit (JIT) ist eine Open-Source-Bibliothek für Datenvisualisierung von Nicolas Garcia Belmonte. Version 1.0 erschien um 2009, Version 2.0 folgte im Juni 2010. Die Bibliothek wurde von Mozilla und Al Jazeera für interaktive Visualisierungen eingesetzt. Seit etwa 2014 ist die Entwicklung weitgehend eingeschlafen. Der Quellcode liegt unter der MIT-Lizenz auf GitHub.",
+    "summary_abuse": "Das JavaScript InfoVis Toolkit ist eine clientseitige Datenvisualisierungsbibliothek ohne Backend- oder Hosting-Komponente; sie sammelt keine Daten und führt keine eigenstaendigen Netzwerkaufrufe aus. Für diese Bibliothek ist kein Missbrauchsrisiko oder dokumentierter Fehlgebrauch bekannt."
+  },
+  "JavaServer Faces": {
+    "history": "JavaServer Faces wurde 2004 im Rahmen des Java Community Process als Teil von Java EE veröffentlicht, urspruenglich von Sun Microsystems und spaeter Oracle entwickelt. 2017 übergab Oracle Java EE an die Eclipse Foundation, wo JSF unter Jakarta EE in Jakarta Faces umbenannt wurde. Das Framework erreichte 2025 Version 4.1 unter der Apache-2.0-Lizenz.",
+    "summary_abuse": "JavaServer Faces ist ein serverseitiges Java-Webframework ohne Endnutzeroberfläche und ohne dokumentierte Missbrauchsmuster. Es wird von Enterprise-Java-Entwicklern zum Bau von Webanwendungen genutzt und hat keine auffaellige Geschichte als Werkzeug für boesartige Zwecke."
+  },
+  "JavaServer Pages": {
+    "history": "JavaServer Pages wurde 1999 von Sun Microsystems als Teil von Java EE eingeführt, um serverseitigen Java-Code in HTML-Seiten einzubetten. Die Technologie entwickelte sich über mehrere Versionen weiter und wurde 2017 als Jakarta Server Pages an die Eclipse Foundation übertragen. Heute liegt sie unter Jakarta EE bei Version 3.1 und wird weiterhin in Legacy-Enterprise-Java-Anwendungen genutzt.",
+    "summary_abuse": "JavaServer Pages ist eine serverseitige Java-Templating-Technologie ohne Endnutzeroberfläche. Es sind keine dokumentierten Muster bekannt, in denen JSP selbst missbraucht wird. Die Technologie laeuft auf Enterprise-Java-Anwendungsservern."
+  },
+  "JazzHR": {
+    "description": "JazzHR ist SaaS-Recruiting-Software zum Finden von Talenten, Durchführen von Interviews und Einstellen von Mitarbeitenden.",
+    "history": "JazzHR wurde 2009 von Pete Lamson in Pittsburgh, Pennsylvania, als The Resumator gegründet und bot erschwingliche Applicant-Tracking-Software für KMU an. 2015 erfolgte die Umbenennung in JazzHR. Volition Capital investierte 2014. Im April 2021 wurde JazzHR von Jobvite übernommen, das spaeter mit weiteren HR-Tech-Unternehmen zu Employ Inc. fusionierte.",
+    "summary_abuse": "JazzHR ist eine Recruiting- und ATS-Plattform ohne auffaellige Missbrauchsgeschichte; sie sammelt HR- und Bewerberdaten, was Datenschutzpflichten mit sich bringt, aber es sind keine dokumentierten Muster für Fehlgebrauch oder Ausnutzung bekannt."
+  },
+  "JBoard": {
+    "description": "JBoard ist eine Plattform zum Erstellen und Verwalten von Jobboersen ohne Programmierung, mit der Nutzer Stellenanzeigen veröffentlichen, organisieren und pflegen können.",
+    "history": "JBoard ist eine No-Code-Plattform zum Erstellen von Jobboersen und Verwalten von Stellenanzeigen. Es sind keine auffaelligen Eigentumsereignisse dokumentiert.",
+    "summary_abuse": "JBoard ist eine Plattform zum Erstellen von Jobboersen. Jobboersen können gelegentlich für gefaelschte Stellenanzeigen, Betrug oder Phishing genutzt werden, für JBoard selbst sind jedoch keine spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "JBoss Application Server": {
+    "history": "JBoss Application Server wurde 1999 von Marc Fleury gestartet. JBoss Inc. wurde 2001 gegründet und 2006 von Red Hat für 350 Millionen US-Dollar übernommen. Die Community-Edition wurde im April 2013 in WildFly umbenannt, um sie vom kommerziell unterstützten JBoss EAP zu unterscheiden. JBoss AS selbst ist eingestellt, WildFly ist das fortgeführte Upstream-Projekt.",
+    "summary_abuse": "JBoss Application Server ist ein Java-EE-Anwendungsserver ohne nennenswerte Endnutzeroberfläche und ohne dokumentiertes Missbrauchssignal. Die Umbenennung zu WildFly im Jahr 2013 spiegelt die Weiterentwicklung des Projekts wider, nicht eine Kontroverse."
+  },
+  "JBoss Web": {
+    "history": "Red Hat JBoss Web Server ist eine kommerziell unterstützte Distribution von Apache HTTP Server und Apache Tomcat, basierend auf dem JBoss-Projekt, das 1999 entstand und 2006 von Red Hat übernommen wurde, heute über Red Hat im Besitz von IBM. Version 6.0 erschien im November 2023 mit Apache Tomcat 10.1 und Unterstützung für Jakarta EE 10.",
+    "summary_abuse": "JBoss Web ist Red Hats Enterprise-Distribution von Apache Tomcat für grosse Organisationen; sie hat keine Endnutzeroberfläche und kein auffaelliges Missbrauchssignal."
+  },
+  "jComponent": {
+    "description": "jComponent ist eine Plattform mit Open-Source-Webkomponenten und Icons für die einfache Integration in Webprojekte.",
+    "history": "jComponent ist eine Open-Source-Bibliothek mit Webkomponenten und Icons für Webprojekte, die unabhängig gepflegt wird. Es sind keine auffaelligen Ereignisse dokumentiert.",
+    "summary_abuse": "jComponent ist eine kleine Open-Source-Bibliothek für Webkomponenten ohne Endnutzeroberfläche und ohne auffaelliges Missbrauchssignal."
+  },
+  "Jeeng": {
+    "description": "Jeeng ist eine Plattform für personalisierte Benachrichtigungen, die gezielte Updates anhand von Nutzerpraeferenzen und Interaktionsmustern ausliefert.",
+    "history": "Jeeng war urspruenglich eine Plattform für Push-Benachrichtigungen. Im Mai 2020 übernahm PowerInbox Jeeng, um seine Messaging-Plattform für Publisher-Abonnenten um personalisierte Push-Benachrichtigungen zu erweitern. Jeeng laeuft unter der Marke PowerInbox und stellt monatlich mehr als 2 Milliarden Benachrichtigungen an Publisher-Zielgruppen zu.",
+    "summary_abuse": "Jeeng liefert Web-Push-Benachrichtigungen für Publisher aus. Push-Benachrichtigungsplattformen können für Spam oder unerwuenschtes Re-Engagement missbraucht werden, und die Naehe zu Ad-Tech führt zu moderater Tracker-Dichte. Es sind keine grossen, Jeeng-spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "Jekyll": {
+    "description": "Jekyll ist ein blogfähiger Static-Site-Generator für persönliche Websites sowie Projekt- und Organisationsseiten.",
+    "history": "Jekyll wurde von GitHub-Mitgründer Tom Preston-Werner entwickelt und 2008 veröffentlicht. Als Engine hinter GitHub Pages gewann das Projekt stark an Verbreitung. Es ist Open Source unter der MIT-Lizenz und wird vom Jekyll-Team mit Beitraegen der Community gepflegt. Obwohl neuere Static-Site-Generatoren wie Hugo und Next.js an Popularitaet gewonnen haben, bleibt Jekyll weit verbreitet.",
+    "summary_abuse": "Jekyll ist ein Static-Site-Generator ohne gehosteten Dienst und ohne Endnutzeroberfläche. Für das Werkzeug selbst sind keine Missbrauchsmuster dokumentiert. Die erzeugten statischen Websites können theoretisch beliebige Inhalte hosten, das liegt aber in der Verantwortung des Seitenbetreibers, nicht bei Jekyll."
+  },
+  "Jenkins": {
+    "description": "Jenkins ist ein in Java geschriebenes Open-Source-Automatisierungswerkzeug mit Plugins für Continuous Integration (CI).",
+    "history": "Jenkins begann 2004 als Hudson, entwickelt von Kohsuke Kawaguchi bei Sun Microsystems als Continuous-Integration-Werkzeug. Nachdem Oracle Sun 2010 übernommen hatte und die Marke Hudson schützen wollte, forkten Community-Mitglieder das Projekt 2011 als Jenkins. Kawaguchi gründete InfraDNA, das mit CloudBees fusionierte, dem wichtigsten kommerziellen Unterstützer. Jenkins feierte 2024 sein 20-jähriges Bestehen und bleibt der am weitesten verbreitete CI/CD-Automatisierungsserver.",
+    "summary_abuse": "Jenkins ist selbst gehostete CI/CD-Software ohne SaaS-Oberfläche. Das wichtigste Missbrauchsrisiko sind Sicherheitsluecken in exponierten Jenkins-Instanzen, die historisch für Cryptomining und laterale Bewegung ausgenutzt wurden. Veraltete, öffentlich erreichbare Instanzen sind ein bekanntes Ziel. Das Projekt hat ein aktives Security-Team und veröffentlicht regelmaessig CVE-Patches."
+  },
+  "Jenny": {
+    "description": "Jenny ist eine Chatbot-Plattform für den Kundendienst.",
+    "history": "GetJenny ist eine finnische Chatbot-Plattform, die um 2016 in Helsinki gegründet wurde. Das Unternehmen entwickelt NLP-gestützte Kundendienst-Chatbots, vor allem für nordische Enterprise-Kunden. JennyBot ist das Kernprodukt. Das Unternehmen wird von EU-basierten Investoren unterstützt. Durch den finnischen Standort ist GDPR-Konformitaet ein zentrales Designmerkmal.",
+    "summary_abuse": "Es sind keine Missbrauchsprobleme bekannt. GetJenny ist ein kleines finnisches Chatbot-Unternehmen für Enterprise-Kundendienst. Öffentlich sind nur begrenzte Daten verfuegbar. Das Unternehmen sitzt in der EU und vermarktet GDPR-Konformitaet als Vorteil."
+  },
+  "JET Enterprise": {
+    "history": "JET Enterprise ist eine brasilianische SaaS-E-Commerce-Plattform mit mehr als 20 Jahren Erfahrung, betrieben als Omnichannel-Lösung für Web, Mobile und Marktplatzanbindungen. Die Plattform bedient brasilianische Händler im Mid-Market- und Enterprise-Segment. Es sind keine auffaelligen Eigentümeränderungen dokumentiert.",
+    "summary_abuse": "JET Enterprise ist eine B2B-E-Commerce-Plattform für brasilianische Händler ohne auffaelliges Missbrauchssignal."
+  },
+  "Jetboost": {
+    "description": "Jetboost ist ein Werkzeug, das Echtzeitsuche, dynamisches Filtern und weitere Funktionen für Webflow-Sites ohne Programmierung ermöglicht.",
+    "history": "Jetboost wurde 2021 von Chris Spagnuolo in San Diego, Kalifornien, gegründet. Das Unternehmen erhielt eine Investition vom Calm Company Fund. Das Produkt ergaenzt Webflow-CMS-Sites um No-Code-Suche, Filter und Interaktivität. Es betreibt Tausende Webflow-Sites und ist als Webflow App verfuegbar.",
+    "summary_abuse": "Jetboost ist ein No-Code-Werkzeug zur Erweiterung von Webflow-Sites. Es sind keine Missbrauchsmuster dokumentiert. Das Tool ist nischig und entwicklernah, mit geringem Endnutzerrisiko."
+  },
+  "JetEngine": {
+    "description": "JetEngine ist ein Content-Plugin für WordPress, mit dem Nutzer Custom Post Types, Taxonomien und Meta Boxes erstellen können, um komplexe Websites flexibel und ohne Programmierkenntnisse zu bauen.",
+    "history": "JetEngine ist ein WordPress-Plugin für dynamische Inhalte von Crocoblock, einem ukrainischen WordPress-Plugin-Unternehmen. Es erschien um 2019 und arbeitet mit Page Buildern wie Elementor, Gutenberg, Bricks und Divi. Version 3.8.5 wurde Anfang 2026 veröffentlicht, was auf aktive Weiterentwicklung hinweist.",
+    "summary_abuse": "JetEngine ist ein WordPress-Plugin zum Aufbau dynamischer Content-Sites. Es sind keine plugin-spezifischen Missbrauchsmuster dokumentiert. Als selbst installiertes WordPress-Plugin haengt seine Sicherheit davon ab, ob der Seitenbetreiber Updates einspielt."
+  },
+  "Jetpack": {
+    "description": "Jetpack ist ein beliebtes WordPress-Plugin von Automattic, dem Unternehmen hinter WordPress.com.",
+    "history": "Jetpack wurde 2011 von Automattic gestartet, um Funktionen von WordPress.com auf selbst gehostete WordPress.org-Sites zu bringen. Es entwickelte sich zu einem umfassenden Plugin mit Sicherheits-, Backup-, Performance- und Marketingfunktionen. 2022 begann Automattic, Jetpack in einzelne spezialisierte Plugins aufzuteilen. Das Plugin hat mehr als 5 Millionen aktive Installationen.",
+    "summary_abuse": "Jetpack ist ein weit verbreitetes WordPress-Plugin von Automattic. Kritisiert wurde es dafür, WordPress.org-Sites von WordPress.com-Infrastruktur abhängig zu machen und viele Daten zu sammeln. Einige Datenschutzvertreter stören sich an Analytics- und Kontaktformular-Daten, die über Automattic-Server laufen. Dem Plugin selbst werden keine grossen Sicherheitsvorfälle zugeschrieben."
+  },
+  "Jetpack Boost": {
+    "description": "Jetpack Boost bietet Website-Geschwindigkeit, Performance und Critical CSS.",
+    "history": "Jetpack Boost wurde 2021 von Automattic als eigenstaendiges WordPress-Performance-Plugin gestartet, getrennt vom Haupt-Plugin Jetpack. Der Fokus liegt auf Core Web Vitals: Erzeugung von Critical CSS, Image CDN und Zurückstellen von JS. Es gibt eine kostenlose Stufe. Premium-Funktionen starten bei 9.95 US-Dollar pro Monat.",
+    "summary_abuse": "Es gibt keine Missbrauchsbedenken. Jetpack Boost wird von Automattic entwickelt, dem Unternehmen hinter WordPress.com. Das Projekt ist transparent, Open Source und gut angesehen."
+  },
+  "Jetshop": {
+    "history": "Jetshop wurde 2003 in Goeteborg, Schweden, gegründet. Bis 2013 wurde das Unternehmen nach der Übernahme von E-butik zum groessten nordischen Anbieter von E-Commerce-Plattformen und bediente etwa ein Drittel der aktiven schwedischen Webshops. In den 2020er-Jahren fusionierte Jetshop mit Storm Commerce. 2013 wurden über die Plattform mehr als 2 Milliarden SEK Umsatz abgewickelt.",
+    "summary_abuse": "Es gibt keine bedeutenden Missbrauchsprobleme. Jetshop ist eine regionale nordische E-Commerce-Plattform und wurde in Storm Commerce konsolidiert. Die globale Praesenz ist begrenzt."
+  },
+  "JetTabs": {
+    "description": "JetTabs ist ein Plugin für Elementor, mit dem anpassbare Tabs und Accordion-Widgets zur Strukturierung von Inhalten auf Webseiten erstellt werden können.",
+    "history": "JetTabs ist ein WordPress-Plugin von Crocoblock aus der Ukraine, das um 2017 als Teil der Elementor-Plugin-Suite des Unternehmens erschien. Es ergaenzt Websites um Tab-Inhalte, Accordions und Toggles. Crocoblock bietet mehr als 25 JetPlugins einzeln oder im Bundle an.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. JetTabs ist ein normales WordPress-Elementor-Plugin des ukrainischen Entwicklers Crocoblock, GPL-lizenziert und in der Community gut aufgenommen."
+  },
+  "Jetty": {
+    "description": "Jetty ist ein Open-Source-Webserver und Servlet-Container, bekannt für Skalierbarkeit und Effizienz, mit Unterstützung für Protokolle wie HTTP und WebSocket für Anwendungen von Entwicklungswerkzeugen bis zu Cloud-Diensten.",
+    "history": "Jetty wurde 1995 von Greg Wilkins bei Mort Bay Consulting als Java-HTTP-Server entwickelt. Von 2000 bis 2005 wurde das Projekt bei SourceForge gehostet, wechselte 2005 zu Codehaus und trat 2009 ab Jetty 9 der Eclipse Foundation bei. Heute unterstützt Jetty HTTP/3, HTTP/2 und WebSocket. Jetty 10 und 11 erreichten am 1. Januar 2024 das Ende des Community-Supports.",
+    "summary_abuse": "Eclipse Jetty ist ein grundlegender Java-Webserver und Servlet-Container, der eingebettet in Anwendungen und Servern genutzt wird. Es gibt keine Endnutzeroberfläche und keine dokumentierten Missbrauchsmuster. Als Serverbibliothek wuerde Missbrauch auf Anwendungsebene stattfinden, nicht in Jetty selbst."
+  },
+  "Jibres": {
+    "description": "Jibres ist eine E-Commerce-Lösung mit Online-Store-Builder und Point-of-Sale-Software (PoS).",
+    "history": "Jibres ist eine kleine kostenlose E-Commerce-Plattform; sie bietet einen Online-Store-Builder, Mobile Store, POS-Software und Zahlungswerkzeuge. Die Marktpraesenz ist sehr begrenzt und die Traktion minimal. Die Plattform nutzt Cloudflare-Infrastruktur. Öffentlich sind nur sehr wenige Informationen verfuegbar.",
+    "summary_abuse": "Es sind nur sehr begrenzte Informationen verfuegbar. Es wurden keine grossen Missbrauchsvorfälle gefunden. Jibres ist eine kleine, wenig bekannte E-Commerce-Plattform mit geringem Marktanteil. Fehlende Zertifizierungen oder Transparenz sind für sensible Nutzung bedenklich."
+  },
+  "Jiglu": {
+    "description": "Jiglu ist eine Suite für Zusammenarbeit und Communities, die Unternehmensinhalte mit Unterhaltungen verbindet und so die Kommunikation verbessern soll.",
+    "history": "Jiglu ist eine Enterprise-Plattform für Wissensmanagement und Zusammenarbeit, entwickelt von Dynamic Discovery Limited, einem Londoner Unternehmen, das um 2008 gegründet wurde. Zu den Funktionen gehoeren semantisches Auto-Tagging und Content-Aggregation. Das öffentliche Profil ist gering, die Kundenbasis scheint begrenzt zu sein.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Jiglu ist ein sehr nischiges britisches Enterprise-Collaboration-Tool. Öffentlich sind nur wenige Informationen verfuegbar. Die geringe Marktpraesenz spricht für ein minimales Risiko."
+  },
+  "Jilt App": {
+    "description": "Jilt App hilft E-Commerce-Shopbetreibern, abgebrochene Bestellungen zu verfolgen und zurückzugewinnen. Die App funktioniert nahtlos mit Shopify und WooCommerce.",
+    "history": "Jilt war eine E-Mail-Marketing-Plattform von SkyVerge für die Warenkorbrueckgewinnung in WooCommerce. GoDaddy übernahm SkyVerge 2021 und stellte Jilt am 30. April 2022 ein, wobei Kunden auf alternative Plattformen verwiesen wurden. Der Dienst lief rund acht Jahre, bevor er eingestellt wurde.",
+    "summary_abuse": "Der Dienst ist eingestellt. Es gab keine grossen Missbrauchsvorfälle. GoDaddy schaltete Jilt nach der Übernahme von SkyVerge im Jahr 2021 ab. Nutzer wurden angewiesen, zu Klaviyo, Mailchimp oder Omnisend zu migrieren."
+  },
+  "Jilt plugin": {
+    "description": "Jilt plugin hilft E-Commerce-Shopbetreibern, abgebrochene Bestellungen zu verfolgen und zurückzugewinnen. Es funktioniert nahtlos mit Shopify und WooCommerce.",
+    "history": "Das Jilt WordPress-Plugin war die WooCommerce-Integrationskomponente der E-Mail-Marketing-Plattform Jilt von SkyVerge. Nachdem GoDaddy SkyVerge 2021 übernommen hatte, wurden sowohl der SaaS-Dienst als auch das Plugin am 30. April 2022 eingestellt. Zuvor war es für die Rueckgewinnung abgebrochener Warenkoerbe beliebt.",
+    "summary_abuse": "Das WordPress-Plugin ist eingestellt. Es wurde im April 2022 abgeschaltet. Es gibt keine Missbrauchsbedenken. Vor der Einstellung war es ein legitimes E-Mail-Marketing-Werkzeug für WooCommerce."
+  },
+  "Jimdo": {
+    "description": "Jimdo ist ein Website-Builder und eine All-in-one-Hosting-Lösung, mit der Nutzer eigene Websites erstellen können.",
+    "history": "Jimdo wurde 2007 von Matthias Henze, Fridtjof Detzner und Christian Springub in einem Bauernhaus in Norddeutschland gegründet. Die Plattform ist auf mehr als 30 Millionen gehostete Websites gewachsen und beschaeftigt über 230 Personen.",
+    "summary_abuse": "Jimdo ist ein Website-Builder mit kostenloser Stufe, über die Nutzer Websites auf jimdo.com-Subdomains hosten können. Kostenlose Website-Builder werden gelegentlich für Phishing-Landingpages oder gefaelschte Shops genutzt. Jimdo setzt uebliche AUP-Regeln durch, ist aber wie die meisten Free-Hosting-Anbieter diesem Risiko teilweise ausgesetzt."
+  },
+  "Jirafe": {
+    "history": "Jirafe wurde 2010 in New York gegründet. Das Unternehmen nahm insgesamt 9 Millionen US-Dollar auf, davon 2 Millionen Seed-Finanzierung und 7 Millionen Series A von Foundry Group und FirstMark. Die E-Commerce-Analytics-Plattform bediente 80'000 Händler. 2015 startete Jirafe Predictive Analytics, scheint aber 2016 bis 2017 eingestellt worden zu sein, nachdem die Aktivität ausblieb.",
+    "summary_abuse": "Jirafe wirkt eingestellt beziehungsweise abgeschaltet. Es war ein E-Commerce-Analytics-Tracker, der detailliertes Nutzerverhalten erfasste. Es gab kein bedeutendes Fehlverhalten, aber die Erhebung von Verhaltensdaten der Kunden von Händlern bringt grundsaetzliche Datenschutzrisiken mit sich."
+  },
+  "Jitsi": {
+    "description": "Jitsi ist eine freie und Open-Source-Suite für plattformübergreifende Sprache (VoIP), Videokonferenzen und Instant Messaging im Web.",
+    "history": "Jitsi begann 2003 an der Universitaet Strassburg als SIP Communicator von Emil Ivov. 2011 erfolgte die Umbenennung in Jitsi. 2013 wurde Jitsi Videobridge eingeführt und brachte WebRTC-Mehrparteienvideo. Atlassian übernahm Jitsi 2015, und 8x8 kaufte es im Oktober 2018 von Atlassian, wobei es Open Source blieb. 8x8 bietet Jitsi als Enterprise-Produkt Jitsi as a Service (JaaS) an.",
+    "summary_abuse": "Jitsi Meet wird gelegentlich für unautorisierte Meetings oder datenschutzinvasive Konferenzen genutzt, da anonymer Zugriff standardmaessig möglich ist. Durch den selbst gehosteten Charakter kann jede Partei einen Jitsi-Server mit unterschiedlichen Sicherheitsrichtlinien betreiben. Meet.jit.si, die öffentliche Instanz, hatte ähnliche Meeting-Bombing-Vorfälle wie Zoom. Der von 8x8 gehostete Dienst hat uebliche Missbrauchskontrollen."
+  },
+  "Jive": {
+    "history": "Jive Software wurde 2001 von Matt Tucker und Bill Lynch als soziale Enterprise-Collaboration-Plattform gegründet. Im Dezember 2011 ging das Unternehmen an die NASDAQ und nahm 161.3 Millionen US-Dollar ein. Nachdem das Wachstum ins Stocken geriet, wurde Jive im Juni 2017 für 462 Millionen US-Dollar von Aurea Software aus ESW Capital übernommen. Aurea pflegt das Produkt für bestehende Enterprise-Kunden weiter.",
+    "summary_abuse": "Jive ist eine soziale Enterprise-Collaboration-Plattform für grosse Organisationen. Es sind keine bedeutenden öffentlichen Missbrauchsvorfälle dokumentiert. Das Produkt laeuft in gesicherten Unternehmensumgebungen mit ueblichen Enterprise-Zugriffskontrollen."
+  },
+  "JivoChat": {
+    "description": "JivoChat ist eine Live-Chat-Lösung für Websites mit anpassbaren Web- und Mobile-Chat-Widgets.",
+    "history": "JivoChat wurde 2012 von Timur Valishev in Moskau, Russland, als Live-Chat-Plattform gegründet. Im Juni 2021 wurde das Unternehmen für rund 20.5 Millionen US-Dollar von Sberbank übernommen und wurde eine Tochtergesellschaft der groessten russischen Bank.",
+    "summary_abuse": "JivoChat ist ein Live-Chat-Widget, das weltweit auf Websites eingesetzt wird. Da die Kommunikationsplattform seit 2021 russisch kontrolliert ist und zu Sberbank gehoert, sollten Unternehmen Datenresidenz und digitale Souveraenitaet beachten. Für den Dienst selbst sind keine spezifischen Betrugs- oder Scam-Missbraeuche dokumentiert."
+  },
+  "Jivox": {
+    "description": "Jivox ist eine cloudbasierte, datengetriebene Plattform für personalisierte digitale Werbung und Marketing-Erlebnisse in grossem Massstab.",
+    "history": "Jivox wurde 2009 in San Mateo, Kalifornien, gegründet, um Dynamic Creative Optimization (DCO) und personalisierte Werbung anzubieten. 2024 benannte das Unternehmen sein Kernangebot in DaVinci um und konzentrierte sich auf KI-gestützte Commerce-Media-Kampagnen. Zu den Enterprise-Kunden zaehlen Marken wie Marriott, Toyota, Sony und Pepsi.",
+    "summary_abuse": "Jivox ist eine Plattform für Werbepersonalisierung und Dynamic Creative Optimization. Als Ad-Tech-Werkzeug, das über viele Websites hinweg arbeitet, beinhaltet es von Natur aus intensives Nutzertracking und Profiling. Die Plattform wird für zielgerichtete Werbung eingesetzt, was Datenschutzbedenken auslöst, auch wenn sie sich an Enterprise-Kunden mit Compliance-Anforderungen richtet."
+  },
+  "Job Board Fire": {
+    "description": "JobBoardFire ist eine Plattform mit Software für den Betrieb von Jobboersen, die Unternehmer und Community-Mitglieder verbindet.",
+    "history": "Job Board Fire wurde 2018 gegründet und hat seinen Sitz in Los Angeles. Das Unternehmen bietet eine SaaS-Plattform, mit der Communities Jobboersen starten können. Es gibt eine 14-taegige kostenlose Testphase und abonnementbasierte Preise. Das kleine Unternehmen mit 11 bis 50 Mitarbeitenden fokussiert auf Nischen- und Community-Jobboersen.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Job Board Fire ist eine kleine, nischige Jobboersen-SaaS ohne grosse Sicherheitsvorfälle. Öffentliche Daten sind begrenzt."
+  },
+  "JobAdder": {
+    "description": "JobAdder ist eine cloudbasierte Recruiting-Management-Plattform für Personalagenturen und interne Hiring-Teams in Unternehmen.",
+    "history": "JobAdder wurde 2006 in Sydney von Brett Iredale gegründet. SEEK (ASX: SEK), Australiens groesste Jobboerse, wurde Mehrheitsbesitzer. 2023 stellte SEEK zusätzliches Kapital für Produktentwicklung bereit. JobAdder hat weltweit 27'000 Nutzer in 4'500 Kundenaccounts im Recruiting- und Staffing-Bereich.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. JobAdder ist ein von SEEK unterstütztes Recruiting-ATS/CRM mit solider Praesenz im australischen Markt. Es verarbeitet Kandidaten- und Arbeitgeberdaten mit ueblichen Datenschutzpraktiken."
+  },
+  "JobberBase": {
+    "description": "Jobberbase ist eine Open-Source-Jobboersenplattform zum Erstellen von Job-Websites.",
+    "history": "JobberBase war eine frühe Open-Source-Jobboersen-Software auf PHP/MySQL-Basis, veröffentlicht um 2008. Die letzte Version war v1.9 im Jahr 2010. Eine v2.0-Beta wurde teilweise entwickelt, aber nie veröffentlicht. Einst galt JobberBase als WordPress der Jobboersen, ist heute aber faktisch aufgegeben und wird nicht mehr aktiv gepflegt.",
+    "summary_abuse": "JobberBase ist aufgegebene Open-Source-Jobboersen-Software. Seit 2010 gibt es keine aktive Entwicklung. Ein Betrieb auf einer Live-Site wuerde erhebliche Sicherheitsrisiken durch ungepatchte PHP-Schwachstellen aus mehr als 15 Jahren mit sich bringen."
+  },
+  "Jobiqo": {
+    "description": "Jobiqo ist eine Jobboersenplattform, mit der Publisher ihre Reichweite ausbauen und Umsaetze aus Recruiting-Werbung steigern können.",
+    "history": "Jobiqo GmbH ist ein oesterreichisches Unternehmen aus Wien und Oberoesterreich, das Drupal-basierte Jobboersen-Software und KI-gestütztes Matching anbietet. Es bedient seit mehr als 10 Jahren Publisher, Nischen-Jobboersen, Berufsverbaende und Career Centers von Universitaeten. Das Unternehmen hat rund 32 Mitarbeitende.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Jobiqo ist ein kleines oesterreichisches Unternehmen für White-Label-Jobboersen-Software. Durch den EU-Standort ist GDPR-Konformitaet naheliegend."
+  },
+  "Jobvite": {
+    "description": "Jobvite ist eine Applicant-Tracking-Software und Recruiting-Plattform.",
+    "history": "Jobvite wurde 2003 in Indianapolis, Indiana, als Recruiting- und Applicant-Tracking-Plattform gegründet. Das Unternehmen wuchs mit Kunden im Mid-Market- und Enterprise-Segment und übernahm Talemetry, NXTThing RPO und Canvas. 2021 fusionierte Jobvite mit JazzHR und Lever zu Employ Inc., das eine Suite von ATS- und Recruiting-Werkzeugen für Unternehmen verschiedener Groessen anbietet.",
+    "summary_abuse": "Jobvite ist eine Enterprise-Recruiting-Plattform, die HR-Abteilungen zur Verwaltung von Einstellungen nutzen. Es gibt keine auffaelligen Missbrauchsvorfälle. Als ATS verarbeitet Jobvite sensible personenbezogene Bewerberdaten, die Datenschutzvorgaben und angemessene HR-Datenprozesse erfordern."
+  },
+  "Jobylon": {
+    "description": "Jobylon ist eine flexible Talent-Acquisition-Plattform, die führenden Arbeitgebern hilft, Recruiting zu straffen und Einstellungsprozesse zu verwalten.",
+    "history": "Jobylon wurde 2011 in Stockholm, Schweden, von Aref Abedi und Jorn Lyseggen gegründet. Bis 2024 wuchs das Unternehmen auf 4 Millionen US-Dollar Umsatz und 53 Mitarbeitende. Am 1. Juni 2024 wurde Jobylon von Meltwater übernommen. Die Plattform bietet Recruiting-Software für den nordischen Markt.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Jobylon ist eine schwedische Recruiting-SaaS, die 2024 von Meltwater übernommen wurde; sie ist GDPR-konform."
+  },
+  "Join It": {
+    "description": "Join It ist eine Plattform für Mitgliederverwaltung, die Nonprofits, Clubs und wachsenden Organisationen hilft, Mitglieder zu verwalten, Zahlungen nachzuverfolgen und administrative Aufgaben zu vereinfachen.",
+    "history": "Join It wurde 2016 in Seattle, Washington, als Plattform für Mitgliederverwaltung für Nonprofits, Clubs und kleine Unternehmen gegründet. Das Unternehmen hat 2 bis 10 Mitarbeitende und bedient mehr als 1'800 Organisationen mit über 1 Million registrierten Mitgliedern. Integrationen bestehen mit Stripe, Eventbrite und Mailchimp.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Join It ist eine kleine, aber legitime Plattform für Mitgliederverwaltung. Öffentliche Sicherheitsinformationen sind sehr begrenzt, es wurden jedoch keine Vorfälle gemeldet."
+  },
+  "Joinchat": {
+    "description": "Joinchat ist ein Werkzeug, mit dem Unternehmen Kundengespraeche über integrierte Kommunikationsfunktionen in Verkaeufe oder Leads umwandeln können.",
+    "history": "Joinchat ist ein beliebtes WordPress-Plugin des spanischen Entwicklers Creame, das Websites einen WhatsApp-Kontaktbutton hinzufuegt. Auf WordPress.org hat es mehr als 500'000 aktive Installationen. Das Freemium-Modell bietet kostenpflichtige Plaene ab 49 EUR pro Jahr. Der Start erfolgte um 2017.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Joinchat ist ein einfaches WordPress-Plugin für WhatsApp-Buttons mit GPL-lizenzierter kostenloser Stufe, entwickelt in Spanien. Es sammelt keine Daten über das hinaus, was WhatsApp selbst erfasst."
+  },
+  "Jonas Club Software": {
+    "description": "Jonas Club Software ist ein Anbieter von Club-Management-Lösungen, die Beziehungen zu Mitgliedern, Umsatzwachstum und Kostensenkung unterstützen.",
+    "history": "Gary Jonas Computing wurde 1990 gegründet und 2003 von Constellation Software übernommen. Daraus wurde Jonas Club Software, das mehr als 2'300 Clubs in 20 Ländern bedient. Im Dezember 2023 erfolgte die Umbenennung in Vertus Group. Im Hintergrund steht Constellation Software (CSI), das zweitgroesste Softwareunternehmen Kanadas.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Jonas Club Software ist eine lang etablierte Club-Management-Software mit Rueckhalt von Constellation Software; sie verarbeitet finanzielle und personenbezogene Mitgliederdaten. Bedeutende Vorfälle wurden nicht gemeldet."
+  },
+  "Joomla": {
+    "description": "Joomla ist ein freies und Open-Source-Content-Management-System zum Veröffentlichen von Webinhalten.",
+    "history": "Joomla wurde 2005 nach einem Governance-Streit von Mambo abgespalten und entwickelte sich zu einem der meistgenutzten Open-Source-CMS. Verwaltet wird es von Open Source Matters (OSM), einer Non-Profit-Organisation, und es wurden Hunderte Versionen veröffentlicht. Joomla 5.x ist seit 2024 die aktuelle Hauptversion.",
+    "summary_abuse": "Joomla-Sites werden häufig wegen SQL-Injection- und Erweiterungs-Schwachstellen angegriffen, die Kernplattform selbst hat jedoch ein starkes Security-Team und veröffentlicht Patches schnell. Vom Projekt selbst gibt es keine bedeutende Missbrauchsgeschichte."
+  },
+  "JoomShopping": {
+    "description": "JoomShopping ist ein Open-Source-E-Commerce-Plugin für Joomla.",
+    "history": "JoomShopping ist eine Open-Source-E-Commerce-Erweiterung für Joomla, entwickelt von MAXXmarketing GmbH aus Deutschland; sie hat mehr als 450'000 Downloads. Die Erweiterung ist mit Joomla 1.5 bis 6.x kompatibel und zaehlt zu den zwei groessten Joomla-E-Commerce-Lösungen mit rund 200'000 aktiven Sites.",
+    "summary_abuse": "Es gibt keinen bedeutenden Missbrauch. JoomShopping ist ein Open-Source-E-Commerce-Plugin für Joomla, GPL-lizenziert und mit regelmaessigen Updates für Joomla-Versionskompatibilitaet gepflegt."
+  },
+  "Joonbot": {
+    "description": "Joonbot ist ein Chatbot-Builder, mit dem Nutzer ohne Programmierkenntnisse automatisierte Dialogablaeufe erstellen können.",
+    "history": "Joonbot wurde 2018 in Frankreich als No-Code-Chatbot-Builder für Lead-Generierung, Vertrieb und Kundensupport-Automatisierung gegründet. Das Unternehmen erreichte bis 2023 115'000 US-Dollar jährlich wiederkehrenden Umsatz und 5'000 Kunden und arbeitet als bootstrapped, unabhängiges Startup. Es sind keine auffaelligen Übernahmen oder Eigentümeränderungen dokumentiert.",
+    "summary_abuse": "Joonbot ist ein No-Code-Chatbot-Builder. Chatbot-Plattformen mit kostenlosen Stufen können für Phishing- oder Credential-Harvesting-Bots genutzt werden, doch Joonbots geringe Marktpraesenz und der Betrieb in Frankreich unter GDPR begrenzen organisierten Missbrauch in grossem Massstab. Öffentlich sind keine spezifischen Vorfälle dokumentiert."
+  },
+  "Jotform": {
+    "description": "Jotform ist ein Online-Formular-Builder zum Erstellen leistungsfähiger Formulare.",
+    "history": "Jotform wurde 2006 von Aytekin Tank in San Francisco, Kalifornien, als selbstfinanzierter Form-Builder-Dienst gegründet. Das Unternehmen wuchs organisch auf mehr als 35 Millionen Nutzer und 500'000 Kunden, ohne Venture Capital aufzunehmen, und blieb im Besitz des Gründers. Die Plattform wurde um Workflow-Automatisierung, PDF-Erstellung und E-Signatur-Werkzeuge erweitert.",
+    "summary_abuse": "Jotforms kostenlose Stufe mit einbettbaren Formularen wurde von Phishern genutzt, um Formulare zum Abgreifen von Zugangsdaten auf jotform.com-Subdomains zu hosten, die von einem vertrauenswuerdigen Domainnamen profitieren. Dieses Muster ist für Form-Builder-Plattformen gut dokumentiert. Jotform veröffentlicht eine AUP und einen eigenen Abuse-Meldeprozess und reagiert auf Takedown-Anfragen, doch die Menge an Free-Tier-Anmeldungen bedeutet, dass missbraeuchliche Formulare manchmal kurzzeitig bestehen bleiben."
+  },
+  "Jottful": {
+    "description": "Jottful ist eine Plattform, mit der kleine Unternehmen professionelle Websites erstellen und verwalten können.",
+    "history": "Jottful wurde 2017 in Ann Arbor, Michigan, von Dawn Verbrigghe gegründet. Das Unternehmen bietet betreutes Website-Design und Support für kleine Unternehmen für 99 US-Dollar Einrichtungsgebuehr plus laufende Kosten. Unterstützung kommt von University of Michigan und PAX-Investoren. Jottful hat 10 Mitarbeitende und Tausende Kunden weltweit.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. Jottful ist ein sehr kleiner Managed-Website-Design-Dienst für kleine US-Unternehmen. Es wurden keine Vorfälle gemeldet."
+  },
+  "JouwWeb": {
+    "description": "JouwWeb ist ein Online-Website-Builder, mit dem Internetnutzer eigene Websites erstellen können.",
+    "history": "JouwWeb wurde 2010 in Eindhoven, Niederlande, von den Studenten Roel und Wouter gegründet. Das Unternehmen wuchs ohne Fremdfinanzierung auf mehr als 185'000 Kunden weltweit. 2020 startete die internationale Marke Webador. JouwWeb war mehrfach in der Deloitte Fast50 Netherlands vertreten und ist ein stark GDPR-konformes niederlaendisches Unternehmen.",
+    "summary_abuse": "Es gibt keine Missbrauchsgeschichte. JouwWeb ist ein niederlaendischer Website-Builder mit starken GDPR-Praktiken. Das Unternehmen ist bootstrapped, profitabel und im Besitz der Gründer."
+  },
+  "jPlayer": {
+    "description": "jPlayer ist eine browserübergreifende JavaScript-Bibliothek als jQuery-Plugin, die das Einbetten webbasierter Medien ermöglicht, insbesondere HTML5-Audio und -Video sowie Medien auf Basis von Adobe Flash.",
+    "history": "jPlayer wurde von Happyworm entwickelt und im Mai 2009 erstmals als Beta veröffentlicht. Es wurde zu einem beliebten jQuery-Plugin zum Einbetten von HTML5-Audio und -Video mit Flash-Fallback. In den frühen 2010er-Jahren blieb es weit verbreitet, wurde seither aber weitgehend aufgegeben, weil native HTML5-Audio- und Video-Unterstützung es unnoetig machte.",
+    "summary_abuse": "jPlayer ist eine clientseitige JavaScript-Medienbibliothek ohne auffaelliges Missbrauchssignal; sie spielt Audio und Video im Browser ab und hat keine serverseitige Komponente, kein User-Content-Hosting und keine netzwerkseitige Angriffsoberfläche, die Betrüger gezielt nutzen wuerden."
+  },
+  "jqPlot": {
+    "history": "jqPlot ist eine auf jQuery basierende Charting-Bibliothek zum Erstellen von Linien-, Balken-, Kreis- und weiteren Diagrammtypen; sie war verbreitet, bevor D3.js und Chart.js zum Standard wurden, und ist seither aufgegeben worden.",
+    "summary_abuse": "jqPlot hat kein auffaelliges Missbrauchssignal. Es ist eine clientseitige Charting-Bibliothek ohne serverseitige Komponente."
+  },
+  "jQTouch": {
+    "description": "jQTouch ist ein Open-Source-Plugin für Zepto/jQuery mit nativen Animationen, automatischer Navigation und Themes für mobile WebKit-Browser wie iPhone, G1 (Android) und Palm Pre.",
+    "history": "jQTouch wurde 2009 von David Kaneda als jQuery-Plugin zum Erstellen mobiler Web-Apps für iPhone- und WebKit-Browser entwickelt. Spaeter wurde es an Sencha Labs übertragen und in jQT umbenannt. Das Projekt ist seit Mitte der 2010er-Jahre weitgehend inaktiv, nachdem native Mobile-Frameworks und React Native es verdraengt haben.",
+    "summary_abuse": "jQTouch ist ein inaktives clientseitiges Framework für mobile Web-Apps ohne auffaelliges Missbrauchssignal. Es hat keine serverseitige Komponente, keine Content-Hosting-Funktion und keine Endnutzeroberfläche, die Betrüger anziehen wuerde."
+  },
+  "jQuery": {
+    "description": "jQuery ist eine freie Open-Source-JavaScript-Bibliothek, die DOM-Traversierung und -Manipulation, Event-Handling, CSS-Animationen und Ajax vereinfacht.",
+    "history": "jQuery wurde von John Resig entwickelt und im Januar 2006 an der BarCamp NYC erstmals veröffentlicht. Die Bibliothek wurde schnell zur weltweit meistgenutzten JavaScript-Bibliothek und vereinfachte DOM-Manipulation, Event-Handling und AJAX massiv. 2012 wurde die jQuery Foundation gegründet, um das Projekt zu betreuen; sie fusionierte spaeter mit der Dojo Foundation zur JS Foundation, die wiederum 2019 mit der Node.js Foundation zur OpenJS Foundation zusammengelegt wurde.",
+    "summary_abuse": "jQuery selbst hat als clientseitige JavaScript-Bibliothek kein aussagekraeftiges Missbrauchssignal. Wegen seiner Allgegenwart wird es jedoch häufig von Phishing-Kits und boesartigen Seiten mitgeliefert, weshalb seine Praesenz auf einer Seite ein neutraler Indikator und kein Warnsignal ist. Die Bibliothek selbst wird nicht missbraucht, sie ist nur so populaer, dass sie sowohl in legitimem als auch in boesartigem Code auftaucht."
+  },
+  "jQuery BlockUI": {
+    "description": "jQuery BlockUI ist ein Plugin, das synchrones Verhalten in AJAX simuliert, indem es Nutzerinteraktion vorübergehend blockiert und DOM-Elemente hinzufuegt, die die eingeschraenkte Aktivität bis zur Aufhebung des Blocks visuell anzeigen.",
+    "history": "jQuery BlockUI wurde von Mike Alsup als kleines jQuery-Plugin entwickelt, das Nutzerinteraktion während AJAX-Vorgaengen blockiert. Es war von Mitte der 2000er- bis Anfang der 2010er-Jahre weit verbreitet, wurde seither aber weitgehend aufgegeben, weil moderne Frameworks Ladezustaende nativ behandeln.",
+    "summary_abuse": "jQuery BlockUI hat kein auffaelliges Missbrauchssignal. Es ist ein kleines clientseitiges UI-Utility-Plugin ohne Netzwerk- oder serverseitige Komponente."
+  },
+  "jQuery CDN": {
+    "description": "jQuery CDN ist eine Möglichkeit, jQuery in deine Website einzubinden, ohne es herunterzuladen und im Ordner deiner Website abzulegen.",
+    "history": "jQuery CDN ist das offizielle Content Delivery Network für jQuery-Bibliotheken, betrieben von der jQuery Foundation, heute OpenJS Foundation, unter code.jquery.com. Es liefert jQuery-Dateien seit den frühen Tagen des Projekts aus und gehoert zu den meistgenutzten CDN-Endpunkten im Web.",
+    "summary_abuse": "Der jQuery-CDN-Endpunkt wird gelegentlich in Phishing-Kits und boesartigen Seiten missbraucht, die jQuery vom offiziellen CDN laden, um Sicherheitsfilter weniger stark auszulösen. Legitime Nutzung überwiegt jedoch deutlich, und die OpenJS Foundation bearbeitet Missbrauchsmeldungen zeitnah. Das CDN selbst hostet keine Nutzerinhalte."
+  },
+  "jQuery DevBridge Autocomplete": {
+    "description": "Ajax Autocomplete for jQuery ermöglicht es, Autocomplete- und Autosuggest-Felder für Texteingaben einfach zu erstellen.",
+    "history": "jQuery DevBridge Autocomplete, auch bekannt als jQuery Autocomplete, wurde von Devbridge Group als Open-Source-AJAX-Autocomplete-Plugin für jQuery-Texteingaben entwickelt. Es war eine beliebte Wahl, bevor moderne Frameworks integrierte Autocomplete-Funktionen bereitstellten.",
+    "summary_abuse": "jQuery DevBridge Autocomplete hat kein auffaelliges Missbrauchssignal. Es ist ein clientseitiges UI-Eingabe-Plugin ohne serverseitige Komponente oder Content-Hosting-Funktion."
+  },
+  "jQuery Migrate": {
+    "description": "jQuery Migrate ist eine JavaScript-Bibliothek, mit der du die Kompatibilitaet von jQuery-Code erhaeltst, der für jQuery-Versionen vor 1.9 entwickelt wurde.",
+    "history": "jQuery Migrate ist ein Kompatibilitaets-Plugin, gepflegt von der jQuery Foundation, heute OpenJS Foundation. Neben kleineren Versionsveröffentlichungen sind keine auffaelligen Ereignisse bekannt.",
+    "summary_abuse": "jQuery Migrate hat kein auffaelliges Missbrauchssignal. Es ist ein clientseitiger Compatibility-Shim."
+  },
+  "jQuery Mobile": {
+    "description": "jQuery Mobile ist ein HTML5-basiertes User-Interface-System für responsive Websites und Apps, die auf Smartphones, Tablets und Desktop-Geräten zugänglich sind.",
+    "history": "jQuery Mobile wurde 2010 vom jQuery-Team als touchfreundliches HTML5-UI-Framework für mobile Browser entwickelt. Die Betreuung ging an die OpenJS Foundation über. Die Entwicklung ist faktisch eingestellt, nachdem React Native und andere native Frameworks mobile Webframeworks verdraengt haben.",
+    "summary_abuse": "jQuery Mobile hat kein auffaelliges Missbrauchssignal. Es ist ein Frontend-UI-Framework für mobile Anwendungen ohne serverseitige Komponente oder Endnutzeroberfläche."
+  },
+  "jQuery Modal": {
+    "description": "jQuery Modal ist eine Overlay-Dialogbox, anders gesagt ein Popup-Fenster, das über der aktuellen Seite angezeigt wird.",
+    "history": "jQuery Modal wurde als leichtgewichtiges jQuery-Plugin zum Erstellen modaler Dialog-Overlays entwickelt. Es sind keine auffaelligen Eigentümeränderungen bekannt.",
+    "summary_abuse": "jQuery Modal hat kein auffaelliges Missbrauchssignal. Es ist ein kleines clientseitiges UI-Plugin."
+  },
+  "jQuery Payment": {
+    "description": "jQuery Payment ist eine Allzweckbibliothek zum Erstellen von Kreditkartenformularen, Validieren von Eingabefeldern und Formatieren von Kartennummern.",
+    "history": "jQuery Payment wurde von Stripe entwickelt, um Entwicklern beim Bau von Kreditkarten-Zahlungsformularen mit clientseitiger Validierung zu helfen. Heute ist es weitgehend durch Stripe Elements ersetzt.",
+    "summary_abuse": "jQuery Payment ist eine clientseitige Bibliothek für Formularvalidierung; sie führt keine serverseitige Zahlungsabwicklung aus und hat kein auffaelliges Missbrauchssignal."
+  },
+  "jQuery Popup Overlay": {
+    "description": "jQuery Popup Overlay ist ein responsives Overlay, mit dem du modale Fenster, Tooltips und mehr erstellen kannst.",
+    "history": "jQuery Popup Overlay ist ein kleines jQuery-Plugin für responsive modale Overlays. Es sind keine auffaelligen Ereignisse bekannt.",
+    "summary_abuse": "jQuery Popup Overlay hat kein auffaelliges Missbrauchssignal. Es ist ein kleines clientseitiges UI-Plugin."
+  },
+  "jQuery Sparklines": {
+    "description": "jQuery Sparklines ist ein Plugin, das Sparklines, also kleine Inline-Diagramme, direkt im Browser erzeugt, mit Daten aus dem HTML oder aus JavaScript.",
+    "history": "jQuery Sparklines ist ein jQuery-Plugin zum Erzeugen von Inline-Sparkline-Diagrammen direkt in HTML. Es sind keine auffaelligen Eigentümeränderungen bekannt.",
+    "summary_abuse": "jQuery Sparklines hat kein auffaelliges Missbrauchssignal. Es ist ein clientseitiges Charting-Plugin."
+  },
+  "jQuery UI": {
+    "description": "jQuery UI ist eine Sammlung von GUI-Widgets, animierten visuellen Effekten und Themes, umgesetzt mit jQuery, Cascading Style Sheets und HTML.",
+    "history": "jQuery UI wurde 2007 vom jQuery-Team als offizielle UI-Widget- und Interaktionsbibliothek für jQuery entwickelt; sie bietet unter anderem draggable, droppable, resizable, sortable, selectable Widgets und Date Picker. Gepflegt wird sie von der OpenJS Foundation. In Legacy-Enterprise-Anwendungen ist sie weiterhin weit verbreitet, auch wenn die Neuentwicklung langsamer wurde, seit React und Vue dominieren.",
+    "summary_abuse": "jQuery UI hat kein auffaelliges Missbrauchssignal. Es ist eine grundlegende clientseitige UI-Bibliothek ohne serverseitige Komponente oder Endnutzeroberfläche."
+  },
+  "jQuery-pjax": {
+    "description": "jQuery PJAX ist ein Plugin, das AJAX und pushState nutzt.",
+    "history": "jQuery PJAX wurde von Chris Wanstrath, Mitgründer von GitHub, entwickelt und breit für Navigation mit pushState und AJAX eingesetzt. Das Projekt wird seit mehreren Jahren nicht mehr gepflegt.",
+    "summary_abuse": "jQuery-pjax zeigt kein nennenswertes Missbrauchssignal. Es ist ein clientseitiges Navigations-Plugin."
+  },
+  "JS Charts": {
+    "description": "JS Charts ist ein JavaScript-basiertes Werkzeug zum Erstellen anpassbarer Diagramme wie Balken-, Kreis- und Liniendiagramme, das sich mit wenig Code in Webprojekte integrieren lässt.",
+    "history": "JS Charts ist eine kleine JavaScript-Bibliothek für Balken-, Kreis- und Liniendiagramme mit minimaler Einrichtung; sie scheint Ende der 2000er-Jahre als einfache Alternative zu komplexeren Diagrammbibliotheken entstanden zu sein. Grössere Eigentümerwechsel oder eine bedeutende dokumentierte Geschichte gibt es nicht.",
+    "summary_abuse": "JS Charts ist eine kleine JavaScript-Diagrammbibliothek ohne nennenswertes Missbrauchssignal."
+  },
+  "JS.org": {
+    "description": "JS.org stellt kostenlose Subdomains für JavaScript-basierte Projekte bereit.",
+    "history": "JS.org wurde 2015 von Stefan Keim als Community-Dienst gegründet, der kostenlose Subdomains unter js.org für JavaScript-bezogene GitHub-Pages-Projekte bereitstellt. Entwickler reichen einen Pull Request im Repository mit ihrer gewünschten Subdomain ein, der anschliessend von Maintainers über Cloudflare DNS zusammengeführt wird. Das Projekt ist auf Zehntausende Subdomains gewachsen und wird weiterhin unabhängig betreut.",
+    "summary_abuse": "JS.org bietet kostenlose benutzerdefinierte Subdomains wie projectname.js.org für JavaScript-Projekte auf GitHub Pages, mit nur geringer Prüfung über eine funktionierende GitHub-Pages-Site hinaus. Dieses kostenlose Subdomain-Modell mit minimalem KYC wird gelegentlich für Phishing-Seiten, Malware-Verteilung oder gefälschte Projektseiten unter einer scheinbar legitimen Domain missbraucht. Durch das offene Pull-Request-Modell können missbräuchliche Subdomains mehrere Tage bestehen, bis sie gemeldet werden. Das Projekt wird von der Community gepflegt und hat nur begrenzte automatisierte Missbrauchserkennung. Das Missbrauchsrisiko ist für einen kostenlosen DNS- und Subdomain-Anbieter moderat: höher als bei einem kostenpflichtigen Dienst, aber durch die GitHub-Authentifizierung begrenzt."
+  },
+  "jsDelivr": {
+    "description": "jsDelivr ist ein kostenloses öffentliches CDN für Open-Source-Projekte. Es kann Webdateien ohne Konfiguration direkt aus der npm-Registry und aus GitHub-Repositories ausliefern.",
+    "history": "jsDelivr wurde 2012 als kostenloses öffentliches CDN für Open-Source-Projekte gestartet und liefert Dateien aus npm-, GitHub- und WordPress-Repositories aus. Es entwickelte sich zu einem der beliebtesten CDN-Endpunkte für Frontend-Bibliotheken und wird von Prospect One unterstützt.",
+    "summary_abuse": "jsDelivr wird gelegentlich missbraucht, um bösartige JavaScript-Nutzlasten auszuliefern, indem diese in öffentlichen npm- oder GitHub-Paketen abgelegt und über das CDN geladen werden. Der Anbieter überwacht Missbrauch, hat Takedown-Prozesse etabliert, und legitime Nutzung dominiert den Dienst klar."
+  },
+  "JSEcoin": {
+    "description": "JSEcoin ist eine Möglichkeit, Kryptowährung zu minen, Zahlungen für Waren oder Dienstleistungen zu erhalten und Kryptowährung zu übertragen.",
+    "history": "JSEcoin startete um 2017 bis 2018 als browserbasierter JavaScript-Dienst für Kryptowährungs-Mining und wurde als alternative Monetarisierungsmethode für Websites vermarktet. Websites konnten CPU-Zyklen von Besuchern nutzen, um JSEcoin-Token statt oder zusätzlich zu Werbung zu minen. Das Projekt litt unter dem Einbruch des Kryptomarkts 2018 bis 2019, und die Gründer veröffentlichten 2020 eine Schliessungsmitteilung, in der sie fehlende Finanzierung und COVID-19 als Grund für unmöglich gewordenes Fundraising nannten. Der Dienst ist heute eingestellt und die Website inaktiv.",
+    "summary_abuse": "JSEcoin war ein an Cryptojacking angrenzender Dienst, der JavaScript-basierte Mining-Skripte zum Einbetten in Websites bereitstellte und CPU-Ressourcen von Besuchern verbrauchte. Diese Technologiekategorie ist grundsätzlich missbrauchsanfällig: Besucher stimmten typischerweise nicht ausdrücklich zu, dass ihre Geräte fürs Mining genutzt werden, und viele Einsätze waren verdecktes Cryptojacking. Der Dienst wurde von Browser-Sicherheitswerkzeugen und Ad-Blockern als Cryptominer eingestuft. Selbst in der als legitim vermarkteten Form war fehlende transparente Nutzereinwilligung ein Datenschutz- und Missbrauchsproblem. Der Dienst ist inzwischen aufgegeben und eingestellt, eingebettete Skripte können aber auf älteren oder vernachlässigten Websites weiterbestehen."
+  },
+  "JShop": {
+    "description": "JShop ist die von Whorl Ltd. weltweit vermarktete E-Commerce-Datenbanklösung.",
+    "history": "JShop ist eine von Whorl Ltd., einem britischen Unternehmen, entwickelte und vermarktete E-Commerce-Plattform. Copyright-Daten der Software reichen bis 2003 bis 2009 zurück. JShop Server wurde zum Hauptprodukt für selbst gehostete Onlineshops. Neue Lizenzen werden nicht mehr verkauft, da das Produkt faktisch abgekündigt ist, bestehende Lizenzinhaber können aber weiterhin Support erhalten. Das Unternehmen ist im Vereinigten Königreich weiterhin bei Companies House registriert.",
+    "summary_abuse": "JShop ist ein selbst gehostetes E-Commerce-Produkt mit minimalem Missbrauchssignal. Als lizenzierte Software, die auf den eigenen Servern von Händlern installiert wird, bietet sie auf Anbieterebene nur begrenztes Potenzial für zentralen Missbrauch. Es sind keine dokumentierten Missbrauchs-, Phishing- oder Betrugskampagnen bekannt, die speziell mit JShop-Installationen verbunden sind. Das Produkt ist abgekündigt und hat nur noch eine sehr kleine verbleibende Nutzerbasis."
+  },
+  "JsObservable": {
+    "description": "JsObservable ist in JsViews integriert und ermöglicht beobachtbare Datenmanipulationen, die sofort in datengebundenen Templates sichtbar werden. Die Bibliothek wird vom Microsoft-Mitarbeiter Boris Moore entwickelt und gepflegt und in Projekten wie Outlook.com und Windows Azure eingesetzt.",
+    "history": "JsObservable ist Teil der JsViews-Suite des Microsoft-Entwicklers Boris Moore. Es stellt beobachtbare Datenmanipulation für datengebundene Templates bereit, ist in JsViews integriert und wurde intern in Outlook.com und Windows Azure genutzt. Version 1.0 erschien im November 2018.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. JsObservable ist eine MIT-lizenzierte JavaScript-Bibliothek des Microsoft-Entwicklers Boris Moore und wird in Microsoft-Produkten eingesetzt."
+  },
+  "jsPDF": {
+    "description": "jsPDF ist eine clientseitige HTML5-Lösung zum Erzeugen von PDF-Dokumenten direkt im Webbrowser.",
+    "history": "jsPDF entstand als clientseitige JavaScript-Bibliothek, mit der PDF-Dokumente direkt im Browser ohne serverseitige Verarbeitung erzeugt werden können. Das Projekt wird aktiv von parallax gepflegt und ist zu einer der meistgenutzten browserbasierten Bibliotheken zur PDF-Erzeugung gewachsen.",
+    "summary_abuse": "jsPDF zeigt kein nennenswertes Missbrauchssignal. Es ist eine clientseitige Bibliothek zur PDF-Erzeugung, die vollständig im Browser läuft und keine serverseitige Komponente oder Content-Hosting-Fläche bietet."
+  },
+  "JsRender": {
+    "description": "JsRender ist eine Template-Bibliothek; sie wird vom Microsoft-Mitarbeiter Boris Moore entwickelt und gepflegt und in Projekten wie Outlook.com und Windows Azure eingesetzt.",
+    "history": "JsRender ist eine schnelle, leichtgewichtige JavaScript-Template-Bibliothek von Boris Moore (Microsoft); sie entwickelte sich aus den eingestellten jQuery Templates, funktioniert eigenständig oder mit JsViews für Data Binding und wird in Outlook.com und Azure eingesetzt. Das Projekt ist Open Source unter MIT-Lizenz.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. JsRender ist eine legitime MIT-lizenzierte Template-Bibliothek eines Microsoft-Entwicklers. Es sind keine bekannten Sicherheitslücken oder Missbrauchsmuster dokumentiert."
+  },
+  "JSS": {
+    "description": "JSS ist ein Autorentool für CSS, mit dem du Styles in JavaScript deklarativ, konfliktfrei und wiederverwendbar beschreiben kannst.",
+    "history": "JSS (CSS-in-JS) wurde um 2014 von Oleg Isonen als Abstraktionsschicht entwickelt, mit der Entwickler CSS-Styles in JavaScript schreiben können. Es wurde breit als Styling-Engine für Material-UI, heute MUI, eine der populärsten React-Komponentenbibliotheken, eingesetzt. Das Projekt wird von der GitHub-Organisation cssinjs gepflegt und wurde schrittweise von neueren CSS-in-JS-Lösungen wie styled-components und Emotion verdrängt. MUI v5 wechselte 2021 von JSS zu Emotion.",
+    "summary_abuse": "JSS ist eine CSS-in-JS-Bibliothek ohne nennenswertes Missbrauchssignal. Es ist ein entwicklerseitiges Build-Time-Werkzeug ohne Oberfläche für Endnutzer, ohne Hosting-Funktion und ohne Netzwerkanfragen. Dokumentierte Missbrauchsmuster sind nicht bekannt."
+  },
+  "JsViews": {
+    "description": "JsViews ist eine MVVM-Bibliothek, die Two-Way Data Binding für Templates bereitstellt; sie wird vom Microsoft-Mitarbeiter Boris Moore entwickelt und gepflegt und in Projekten wie Outlook.com und Windows Azure eingesetzt.",
+    "history": "JsViews ist ein MVVM/MVP-JavaScript-Framework von Boris Moore (Microsoft), das auf JsRender aufbaut. Es ergänzt Data Binding und beobachtbare Datenmuster und wird in Microsoft-Projekten wie Outlook.com eingesetzt. Version 1.0 erschien im November 2018. Das Projekt steht unter MIT-Lizenz.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. JsViews ist eine MIT-lizenzierte MVVM-Bibliothek des Microsoft-Entwicklers Boris Moore und wird in Microsoft-Produkten wie Outlook.com eingesetzt."
+  },
+  "JSZip": {
+    "description": "JSZip ist eine JavaScript-Bibliothek, mit der Zip-Dateien in einer Browserumgebung erstellt, gelesen und bearbeitet werden können.",
+    "history": "JSZip wurde um 2009 von Stuart Knightley (Stuk) als eine der ersten Bibliotheken entwickelt, die das Erstellen und Lesen von ZIP-Dateien vollständig im Browser mit JavaScript ermöglichten; sie wurde zu einer weit verbreiteten Abhängigkeit mit Hunderten Millionen wöchentlichen npm-Downloads. Die Bibliothek steht unter einer dualen MIT/GPLv3-Lizenz. Es gab einige gemeldete CVEs zu Path Traversal in ZIP-Einträgen, die behoben wurden; sie wird weiterhin aktiv gepflegt.",
+    "summary_abuse": "JSZip ist eine JavaScript-Bibliothek zur ZIP-Bearbeitung mit geringem direktem Missbrauchssignal. Als Utility-Bibliothek hat sie keine Oberfläche für Endnutzer; sie wurde jedoch in Malware-Szenarien genutzt, in denen bösartige ZIP-Archive clientseitig erstellt oder entpackt wurden. Frühere CVEs umfassten Path-Traversal-Schwachstellen (CVE-2021-23413 und verwandte), durch die präparierte ZIP-Dateien ausserhalb des vorgesehenen Verzeichnisses schreiben konnten. Diese Schwachstellen wurden behoben. Ein Muster breiten Missbrauchs als Hosting- oder Phishing-Vektor ist nicht bekannt."
+  },
+  "JTL Shop": {
+    "description": "JTL Shop ist ein E-Commerce-Produkt des Unternehmens JTL Software.",
+    "history": "JTL-Software wurde 2008 in Hückelhoven, Deutschland, von den Brüdern Janusch und Thomas Lisson gegründet. Das Unternehmen entwickelte eine E-Commerce-ERP-Suite mit JTL-Wawi (Warenwirtschaft) und JTL-Shop, dem Open-Source-Storefront-System. JTL bedient über 50'000 Kunden in Deutschland, Österreich und der Schweiz und wurde zum führenden E-Commerce-ERP im deutschsprachigen Markt. Das Unternehmen erhielt eine Investition der PE-Firma Hg Capital zur Finanzierung weiterer Expansion in Europa.",
+    "summary_abuse": "JTL-Shop ist eine deutsche E-Commerce-Plattform, die vor allem von legitimen Händlern in DACH-Märkten genutzt wird. Wie jede selbst gehostete E-Commerce-Software können veraltete Installationen für Card Skimming oder unbefugten Zugriff angegriffen werden. Die Plattform erfüllt deutsches Datenschutzrecht. Spezifische, breit dokumentierte Missbrauchskampagnen gegen JTL-Shop sind nicht bekannt."
+  },
+  "Jubna": {
+    "description": "Jubna ist eine Content-Recommendation-Engine, die durch Analyse von Nutzerverhalten und Präferenzen personalisierte Empfehlungen ausliefert.",
+    "history": "Jubna wurde 2014 in Dubai, VAE, gegründet. Es ist das grösste Native-Advertising-Netzwerk in MENA mit 12 Millionen täglichen Nutzern und über 1'000 Publishern. Das Unternehmen hat Büros in Dubai, Noida in Indien und Toronto in Kanada und richtet sich vor allem an arabischsprachige Websites.",
+    "summary_abuse": "Jubna ist ein Native-Ad-Netzwerk, das Tracking-Skripte einbindet. Die hohe Tracker-Dichte ist typisch für Werbenetzwerke. Der Sitz in den VAE bedeutet begrenzte GDPR-Anwendbarkeit, und der Betrieb in MENA erfolgt in Märkten mit weniger strengen Datenschutzvorgaben. Ad-Injection-Netzwerke tragen inhärente Datenschutzrisiken."
+  },
+  "Judge.me": {
+    "description": "Judge.me ist eine Bewertungs-App, mit der du Produkt- und Shopbewertungen mit Fotos, Videos und Q&A sammeln und anzeigen kannst.",
+    "history": "Judge.me ist eine App für Produktbewertungen in Shopify-Shops und wurde um 2015 gestartet. Bis 2024 wuchs sie auf über 549'000 Shopify-Shops und wurde damit zu einer der meistinstallierten Apps im Shopify-Ökosystem. Als Shopify 2024 seine native Product Reviews App einstellte, gehörte Judge.me zu den empfohlenen Alternativen. Ende 2024 fokussierte sich das Unternehmen vollständig auf Shopify und beendete die Unterstützung für BigCommerce.",
+    "summary_abuse": "Judge.me ist eine Bewertungsplattform vor allem für Shopify-Shops. Wie alle Bewertungsplattformen könnte sie theoretisch für gefälschte Bewertungen genutzt werden. Das Unternehmen stellt Werkzeuge zur Verifizierung und Moderation von Bewertungen bereit. Grössere systematische Missbrauchsfälle sind nicht dokumentiert."
+  },
+  "Jugem": {
+    "description": "Jugem ist eine Blogging-Software aus Japan, mit der Nutzer Online-Inhalte erstellen, verwalten und veröffentlichen können.",
+    "history": "Jugem ist eine japanische Blogging-Plattform, die seit 2004 von paperboy&co. (GMO Pepabo) betrieben wird; sie bedient vor allem japanischsprachige Nutzer und gehört zu den früheren japanischen Blog-Hosting-Diensten. Die Plattform ist eine Nischenlösung, hauptsächlich in Japan aktiv und international nur begrenzt präsent.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsprobleme. Jugem ist eine japanische Blogging-Plattform mit überwiegend inländischer Nutzerbasis. Die Sicherheitstransparenz ist begrenzt."
+  },
+  "Juicer": {
+    "description": "Juicer ist ein Werkzeug, das Marken-Hashtags und Social-Media-Beiträge zu einem einheitlichen Feed für Websites bündelt und Moderation sowie Content-Kuratierung ermöglicht.",
+    "history": "Juicer.io wurde 2014 gegründet, um Unternehmen beim Einbetten von Social-Media-Feeds auf Websites zu helfen. 2018 wurde Juicer von saas.group übernommen, die Wachstumskapital bereitstellte. Der Dienst bedient über 200'000 Kunden und aggregiert Inhalte aus mehr als 15 sozialen Plattformen. Eigentümer ist der deutsche Käufer saas.group.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. Juicer ist ein Social-Media-Aggregator, der Drittinhalte einbindet. Gewisse Datenschutzbedenken bestehen, weil Inhalte mehrerer sozialer Plattformen eingebettet werden. Es ist ein legitimes Werkzeug ohne gemeldete Vorfälle."
+  },
+  "JuicyAds": {
+    "description": "JuicyAds ist ein legitimes Werbenetzwerk, das auf Adult Content spezialisiert ist.",
+    "history": "JuicyAds wurde 2006 von 'JuicyJay' in Kanada als Werbenetzwerk für Adult Content gegründet. Das Unternehmen hat über 30 Branchenauszeichnungen gewonnen, monetarisiert 11 Prozent der führenden Adult-Websites und liefert weltweit Banner Ads sowie Native Ads für Adult-Publisher und Affiliates aus.",
+    "summary_abuse": "JuicyAds ist ein Adult-Ad-Netzwerk mit intensivem Tracking. Es wird häufig mit aggressiven Werbepraktiken auf Adult-Sites in Verbindung gebracht, darunter Popunders, Weiterleitungen und potenziell bösartige Anzeigenauslieferung in Adult-Content-Ökosystemen. Das Risiko für Malvertising-Exposition ist hoch."
+  },
+  "Jumbo": {
+    "description": "Jumbo ist eine Page-Speed-Optimizer-App für Shopify-basierte Websites.",
+    "history": "Jumbo Privacy wurde 2019 von CEO Pierre Valade gegründet und von Index Ventures, Balderton Capital und Thrive Capital unterstützt. Es war eine mobile Datenschutzassistent-App für iOS und Android. Coalition, ein Cyberversicherer, übernahm das Unternehmen, und die App-Store-Einträge wurden am 18. Juni 2024 entfernt. Vor der Einstellung wurden die Funktionen kostenlos gemacht.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. Jumbo war eine datenschutzorientierte App, die Nutzern helfen sollte, ihre Daten zu schützen; sie wurde 2024 von Coalition Cyber Insurance übernommen, die Verbraucher-App wurde eingestellt."
+  },
+  "Jumio": {
+    "description": "Jumio ist ein Unternehmen für mobile Online-Zahlungen und Identitätsprüfung, das Produkte zum Scannen und Validieren von Karten und Ausweisen für mobile und Webtransaktionen anbietet.",
+    "history": "Jumio wurde 2010 in Palo Alto, Kalifornien, als Computer-Vision-Startup für Kartenscans gegründet. Nach einer Restrukturierung 2016 verlagerte es den Fokus auf digitale Identitätsprüfung und KYC-Dienste. Seitdem ist Jumio auf über eine Milliarde Identitätsprüfungen in 200 Ländern gewachsen und bedient grosse Finanzinstitute sowie regulierte Branchen.",
+    "summary_abuse": "Jumio ist ein Anbieter für Identitätsprüfung und KYC ohne nennenswertes Missbrauchssignal als Plattform. Seine Rolle ist ausdrücklich betrugshemmend, da es Nutzeridentitäten für regulierte Unternehmen verifiziert, und das reine Enterprise-Vertriebsmodell verhindert niedrigschwelligen Missbrauch. Zertifizierungen nach SOC 2 Type 2, ISO 27001 und PCI DSS sind vorhanden."
+  },
+  "JumpCloud": {
+    "description": "JumpCloud ist eine cloudbasierte Directory-Services-Plattform mit Single Sign-On (SSO) und Active Directory-as-a-Service (ADaaS).",
+    "history": "JumpCloud wurde 2013 in Louisville, Colorado, als offene Directory-Plattform für cloudbasiertes Identitätsmanagement gegründet. 2019 nahm das Unternehmen 225 Millionen US-Dollar in einer Series F auf. 2024 meldete es 200 Millionen US-Dollar ARR. JumpCloud positioniert sich als Alternative zu Microsoft Active Directory für KMU und verteilte Teams.",
+    "summary_abuse": "JumpCloud legte im Juli 2023 einen Cyberangriff eines staatlichen Akteurs offen, der zur Rotation von API-Schlüsseln bei einer kleinen Zahl betroffener Kunden führte. Der Vorfall wurde transparent behandelt. Ein Muster anbieterbedingten Missbrauchs ist nicht erkennbar, und die Incident Response galt als gut geführt."
+  },
+  "Jumpseller": {
+    "description": "Jumpseller ist eine Cloud-E-Commerce-Lösung für kleine Unternehmen.",
+    "history": "Jumpseller wurde 2010 von den portugiesischen Ingenieuren Tiago Matos und Filipe Gonçalves gegründet und ging aus Startup Chile hervor. Die Plattform fokussiert auf lateinamerikanische und europäische Märkte, in denen Shopify Payments nicht verfügbar ist. Jumpseller bedient über 50'000 Unternehmen und übernahm HandyCommerce, um die Präsenz auszubauen.",
+    "summary_abuse": "Jumpseller ist eine E-Commerce-Plattform vor allem für Lateinamerika. Wie alle E-Commerce-Plattformen kann sie zum Hosten betrügerischer Shops genutzt werden, das Unternehmen arbeitet jedoch in einem regulierten Umfeld mit Anforderungen an Zahlungsabwicklung. Spezifische grössere Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "June": {
+    "description": "June ist Product Analytics für Subscription-Unternehmen. Durch Verbindung mit dem Segment-Konto erzeugt es automatisch Grafiken zu den Kennzahlen, die Nutzer verfolgen sollten.",
+    "history": "June wurde 2021 von Ferruccio Balestreri und Enzo Avigo gegründet, beide ehemalige Intercom-Ingenieure. Das Unternehmen war Teil des YC Winter 2021 Batch. June bietet Product Analytics für B2B-SaaS-Unternehmen mit Kennzahlen auf Unternehmensebene beziehungsweise Account-Ebene und nahm Seed-Finanzierung von YC und weiteren Investoren auf.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. June ist ein von YC unterstütztes B2B-Product-Analytics-Werkzeug einer legitimen Startup-Firma mit transparenter Roadmap."
+  },
+  "Junip": {
+    "description": "Junip ist Anbieter einer Bewertungsplattform für E-Commerce-Marken, mit der Kundengeschichten geteilt, Bewertungsanfragen versendet und Review-Inhalte angezeigt werden können.",
+    "history": "Junip ist eine kanadische Shopify-App für Produktbewertungen, die um 2019 von Valentin Brizzi und Kollegen gegründet wurde; sie ist in über 7'769 Shopify-Shops installiert, hat eine Bewertung von 4,9/5 aus 1'034 Bewertungen und ist Shopify Plus zertifiziert. Bekannt ist Junip für mobile-first Bewertungsformulare und die Integration mit Google Shopping.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. Junip ist eine gut bewertete Shopify-Review-App mit hohen Händlerbewertungen. Datenschutz- oder Sicherheitsvorfälle sind nicht gemeldet."
+  },
+  "Juo": {
+    "description": "Juo ist eine zentralisierte Experimentierplattform für innovative Marketing- und Produktteams.",
+    "history": "Juo wurde 2018 gegründet und hat seinen Sitz in Wroclaw, Polen. Das Unternehmen bietet eine zentralisierte Experimentier- und A/B-Testing-Plattform für Marketing- und Produktteams im E-Commerce. 2024 nahm es Seed-Finanzierung auf, unter anderem von SMOK Ventures. Die Plattform unterstützt lokale europäische Zahlungsmethoden wie SEPA, BLIK und iDEAL. Grössere Übernahmen sind nicht verzeichnet.",
+    "summary_abuse": "Juo ist eine B2B-Plattform für A/B Testing und Experimente ohne dokumentiertes Missbrauchssignal. Das auf Unternehmen ausgerichtete SaaS-Modell und die notwendige legitime E-Commerce-Integration führen dazu, dass die Plattform nicht mit Phishing oder verbrauchergerichtetem Betrug verbunden ist."
+  },
+  "Juphy": {
+    "description": "Juphy ist ein KI-Verkaufsassistent für Shopify-Shops, mit dem Unternehmen durch automatisierte Kundenansprache und Support ihren Umsatz steigern können.",
+    "history": "Juphy wurde um 2020 als Tool für Social-Media-Inbox-Management gegründet und unterstützt Facebook, Instagram, Twitter, YouTube, LinkedIn und Shopify. Auf Capterra ist es mit 4,6/5 bewertet. Es bündelt alle Social-Media-Kundeninteraktionen in einer einheitlichen Inbox.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. Juphy ist ein Social-Media-Management-Werkzeug mit angemessenen Datenschutzpraktiken. Es greift im Auftrag der Nutzer auf Social-Media-API-Daten zu."
+  },
+  "Juspay": {
+    "description": "Juspay entwickelt eine Online-Plattform für mobile Zahlungen.",
+    "history": "Juspay wurde 2012 in Bengaluru von Vimal Kumar, Sheetal Lalwani und Shiju K B gegründet. Das Unternehmen nahm 2021 60 Millionen US-Dollar in einer Series C von SoftBank und 2025 60 Millionen US-Dollar in einer Series D von Kedaara auf. 2025 wurde es zum Unicorn. Juspay verarbeitet über 200 Millionen Transaktionen pro Tag für Amazon, Flipkart und Swiggy und entwickelte HyperSDK auf 250 Millionen Telefonen.",
+    "summary_abuse": "Ein grosser Datenabfluss im Dezember 2020 legte Daten von über 100 Millionen Karteninhabern aus Partnerhändlern offen. Juspay bestritt den Umfang, informierte aber betroffene Parteien. Das Unternehmen ist PCI-DSS-zertifiziert und betreibt ein Responsible-Disclosure-Programm."
+  },
+  "JUST": {
+    "description": "JUST ist eine One-Click-Zahlungslösung für Online-Unternehmen und Online-Käufer.",
+    "history": "JUST, rechtlich WeJust SAS, wurde 2022 in Paris, Frankreich, von Jeremy und Benjamin als One-Click-Checkout-Plattform für E-Commerce gegründet. Das Unternehmen nahm zunächst 3 Millionen Euro von Otium Capital und BPI France auf, gefolgt von einer Seed-Runde über 8 Millionen Euro im November 2024 unter Führung von Backed mit Beteiligung von Daphni und FJ Labs. Damit stieg die Gesamtfinanzierung auf über 11 Millionen Euro. Die Plattform integriert sich in E-Commerce-Shops, um den Checkout zu vereinfachen und die Conversion Rates von Händlern zu erhöhen.",
+    "summary_abuse": "JUST ist eine Checkout-Plattform ohne nennenswertes Missbrauchssignal. Zahlungsinfrastruktur trägt inhärente Betrugsrisiken, weil Händler Checkout-Werkzeuge in betrügerischen Shops einsetzen können, aber für JUST selbst ist kein dokumentiertes Missbrauchsmuster bekannt. Als kleines französisches Startup ist die Plattform nicht gross genug, um ein bedeutender Vektor für Zahlungsbetrug in grossem Massstab zu sein."
+  },
+  "Justia": {
+    "description": "Justia ist ein auf Anwälte ausgerichtetes Content-Management-System (CMS).",
+    "history": "Justia wurde 2003 von Tim Stanley gegründet, einem früheren Mitgründer von FindLaw. Der Hauptsitz liegt in Mountain View, Kalifornien, mit Aktivitäten in Saltillo, Mexiko. Justia stellt kostenlose Rechtsinformationen, Rechtsprechung und Anwaltsverzeichnisse bereit. 2007 gab das Unternehmen monatlich 10'000 US-Dollar aus, um Dokumente des Supreme Court für freien öffentlichen Zugang zu kopieren.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. Justia ist eine angesehene kostenlose Rechtsinformationsseite, gegründet von einem FindLaw-Veteranen. Die Mission ist, Recht zugänglich zu machen. Wesentliche Bedenken beim Umgang mit Daten sind nicht bekannt."
+  },
+  "Justo": {
+    "description": "Justo ist eine abonnementbasierte Software, mit der jeder einen Onlineshop einrichten und Produkte mit Lieferoptionen verkaufen kann.",
+    "history": "Justo (Jüsto) war ein rein online betriebener mexikanischer Supermarkt, der 2019 gegründet wurde. Das Unternehmen nahm 70 Millionen US-Dollar in einer Series C und insgesamt über 200 Millionen US-Dollar Eigenkapital auf. Es war in Mexiko, Brasilien und Peru tätig. Im Dezember 2025 stellte es den Betrieb ein, nachdem es trotz aggressiver Expansion keine nachhaltige Unit Economics erreicht hatte.",
+    "summary_abuse": "Seit Dezember 2025 eingestellt. Justo war eine lateinamerikanische Plattform für Lebensmittellieferungen und wurde nach dem Verbrauch von über 200 Millionen US-Dollar Venture Capital geschlossen."
+  },
+  "Justuno": {
+    "description": "Justuno ist eine Plattform zur Optimierung der Besucher-Conversion.",
+    "history": "Justuno wurde 2010 gegründet und erreichte bis 2024 ohne externe Finanzierung 6,2 Millionen US-Dollar Umsatz bei etwa 3'000 Kunden. 2023 brachte das Unternehmen eine vollständig neu gestaltete Conversion-Automation-Plattform mit KI-gestützten Produktempfehlungen auf den Markt. Das Unternehmen hat 35 Mitarbeitende und fokussiert auf Conversion-Optimierung für Shopify- und E-Commerce-Shops.",
+    "summary_abuse": "Justuno ist ein Conversion-Optimierungswerkzeug, das Popups, Overlays und Lead-Erfassung auf E-Commerce-Sites ausrollt. Popup-Werkzeuge können für Dark Patterns genutzt werden, darunter erzwungene Consent-Dialoge und aggressives Exit-Intent-Marketing. Spezifische Missbrauchsvorfälle sind nicht dokumentiert, die Werkzeugkategorie wird jedoch generell häufiger für Dark Patterns eingesetzt."
+  },
+  "Justuno App": {
+    "description": "Justuno ist eine Premium-Plattform für Conversion Marketing und Analytics, die Händlern leistungsfähige Werkzeuge zur Steigerung von Conversions bereitstellt.",
+    "history": "Justuno wurde 2012 in San Francisco gegründet. Das Unternehmen bietet Conversion-Rate-Optimierung durch Pop-ups, Overlays und verhaltensbasiertes Targeting. Es ist Shopify Plus zertifiziert und integriert sich mit Klaviyo, Attentive, HubSpot und über 100 weiteren Plattformen.",
+    "summary_abuse": "Justuno App ist ein Marketingwerkzeug für Pop-ups und Overlays, das bei Fehlkonfiguration aufdringliche Nutzererlebnisse erzeugen kann. Es injiziert JavaScript in Websites. Bei aggressivem Einsatz besteht Potenzial für Dark Patterns, etwa Exit-Popups oder Countdown-Timer. Grössere Missbrauchsvorfälle des Anbieters selbst sind nicht gemeldet."
+  },
+  "Juvo Leads": {
+    "description": "Juvo Leads ist eine Plattform, die gehosteten Chat, Call Tracking und Formulartracking in einem einheitlichen Reporting-System verbindet.",
+    "history": "Juvo Leads wurde 2016 gegründet. Die Plattform kombiniert Call Tracking, Formulartracking, Live Chat und SMS zu einem 4-in-1-Lead-Tracking-Angebot für lokale Unternehmen und Digitalagenturen in den USA; sie vermarktet White-Label-Lösungen für Agenturen.",
+    "summary_abuse": "Keine Missbrauchsgeschichte. Juvo Leads ist ein Dienst für Call- und Formulartracking, der Tracking-Skripte auf Websites platziert. Es handelt sich um ein übliches Lead-Generation-SaaS ohne gemeldete Vorfälle."
+  },
+  "JW Player": {
+    "description": "JW Player ist ein Online-Videoplayer mit Video-Engagement-Analytics, anpassbaren Player-Skins und Funktionen für Live-Video-Streaming.",
+    "history": "JW Player wurde 2005 von Jeroen Wijering in den Niederlanden entwickelt, zunächst als Open-Source-Player auf Flash-Basis, den er über seinen Blog verteilte. 2008 wurde in New York LongTail Video gegründet, um den Player zu kommerzialisieren, später wurde das Unternehmen in JW Player umbenannt. 2021 nahm es 100 Millionen US-Dollar auf, um in Subscription- und Monetarisierungswerkzeuge zu expandieren. 2023 übernahm JW Player InPlayer, eine Paywall- und Monetarisierungsplattform. Im Oktober 2024 fusionierte JW Player mit Connatix zu JWP Connatix, der branchenweit grössten Video- und Monetarisierungstechnologieplattform.",
+    "summary_abuse": "JW Player ist ein weit verbreiteter Videoplayer und eine Hosting-Plattform mit legitimer Nutzung bei Publishern und Unternehmen. Als einbettbarer Player mit Funktionen zur Anzeigenauslieferung wurde er historisch auch von manchen Piraterie- und nicht autorisierten Streaming-Sites genutzt, um rechtsverletzende Inhalte zu hosten oder auszuliefern. Das Unternehmen hat Richtlinien gegen nicht autorisierte Inhalte, die Durchsetzung bei Drittanbieter-Embeds ist jedoch begrenzt. Ein bedeutendes Muster, die Plattform gezielt für Phishing oder Betrug jenseits von Content-Piraterie zu nutzen, ist nicht dokumentiert."
+  }
+}

@@ -11,7 +11,7 @@ i18n/
   de/
     technologies/   a.json .. z.json (+ _.json), mirroring src/technologies/
                     { "<technology name>": { description, history, summary_abuse } }
-    categories.json { "<category id>": { description, summary_security, summary_privacy } }
+    categories.json { "<category id>": { description } }
 ```
 
 Only these fields are translatable (everything else: scores, enums, vendor
@@ -19,7 +19,7 @@ facts, dates, is locale-independent and rendered by the frontend's own message
 catalogue):
 
 - **technology**: `description`, `history`, `summary_abuse`
-- **category**: `description`, `summary_security`, `summary_privacy`
+- **category**: `description`
 
 English (`src/`) is the source of truth. To add or extend a translation, follow
 [`../AGENTS.md`](../AGENTS.md). German is not written yet; the `de/` overlay is

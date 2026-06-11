@@ -1,0 +1,1373 @@
+{
+  "Gallabox": {
+    "description": "Gallabox verwandelt WhatsApp in ein Web-Chat-Widget und erleichtert die Verwaltung von Leads, Buchungen, Abschlüssen und Bestellungen.",
+    "history": "Gallabox ist eine indische WhatsApp Business API-Plattform, die 2020 gegründet wurde; sie bietet Unternehmen Werkzeuge, um WhatsApp-Konversationen zu verwalten, Chatbots zu erstellen und Marketingkampagnen durchzuführen. Das Startup erhielt Venture-Finanzierung und richtet sich an KMU in Indien und Südostasien.",
+    "summary_abuse": "Gallabox ist eine WhatsApp Business API-Plattform. Messaging-Werkzeuge auf WhatsApp-Basis bergen das Risiko, für Spam und Massenkampagnen genutzt zu werden. Gallabox ist zwar ein legitimer Meta Business Partner, Automatisierungstools für WhatsApp-Messaging werden in indischen Märkten jedoch häufig für unerwünschtes Marketing und Betrugsnachrichten eingesetzt."
+  },
+  "Gallery": {
+    "description": "Gallery ist ein quelloffener, webbasierter Fotoalbum-Organisator.",
+    "history": "Gallery ist eine quelloffene PHP-Anwendung für Fotoalben und Bildergalerien, die 2000 erstmals von Bharat Mediratta veröffentlicht wurde. In den frühen 2000er-Jahren gehörte sie zu den beliebtesten Webgalerie-Anwendungen. Gallery 3 war die letzte Hauptversion. Die Entwicklung ist faktisch eingestellt, seit etwa 2015 gab es keine nennenswerten Commits mehr, wodurch das Projekt praktisch aufgegeben ist.",
+    "summary_abuse": "Gallery ist eine aufgegebene quelloffene PHP-Fotogalerie. Alte Installationen mit ungepatchten Schwachstellen wurden in der Vergangenheit gezielt zur Serverkompromittierung und Malware-Einschleusung angegriffen. Da das Projekt aufgegeben wurde, gibt es keine Sicherheitsupdates mehr, was für weiterhin betriebene Websites ein Risiko schafft."
+  },
+  "Gambio": {
+    "description": "Gambio ist eine All-in-one-Shoplösung für kleine und mittlere Unternehmen.",
+    "history": "Gambio ist ein deutsches E-Commerce-Softwareunternehmen, das 2004 in Bremen gegründet wurde. Es entwickelte eine populäre E-Commerce-Plattform auf Basis von modifiziertem osCommerce-Code und richtet sich an deutschsprachige kleine und mittlere Unternehmen. Das Unternehmen ist auf mehr als 25'000 Onlineshops gewachsen und bleibt unabhängig geführt.",
+    "summary_abuse": "Gambio ist eine deutsche E-Commerce-Plattform, die von legitimen Händlern genutzt wird. Als gehostete E-Commerce-Lösung kann sie für gefälschte Waren oder betrügerische Shops eingesetzt werden, Gambio hat jedoch übliche AUP-Durchsetzung. Grössere Missbrauchsvorfälle auf Plattformebene sind nicht dokumentiert."
+  },
+  "Gameball": {
+    "description": "Gameball ist eine Loyalty- und Retention-Plattform mit gamifizierten Werkzeugen für Kundenbindung, darunter Prämien, Punkte und Empfehlungen.",
+    "history": "Gameball ist eine ägyptische Plattform für Loyalty und Gamification, die 2018 in Kairo gegründet wurde; sie bietet Treueprogramme, Empfehlungssysteme und Gamification-Werkzeuge für E-Commerce- und SaaS-Unternehmen. Das Unternehmen hat Venture-Finanzierung aufgenommen und bedient Unternehmen in der MENA-Region und weltweit.",
+    "summary_abuse": "Gameball ist eine SaaS-Plattform für Loyalty und Gamification ohne dokumentierte Missbrauchsgeschichte. Als B2B-Werkzeug für Kundenbindung weist sie ein geringes verbraucherseitiges Missbrauchsrisiko auf."
+  },
+  "Gamma": {
+    "description": "Gamma ist eine KI-gestützte Plattform zum Erstellen von Präsentationen, Dokumenten und Websites ohne Design- oder Programmierkenntnisse.",
+    "history": "Gamma ist ein KI-gestütztes Werkzeug für Präsentationen und Dokumente, das 2020 von Grant Lee, Jon Noronha und James Fox in San Francisco gegründet wurde. Das Unternehmen nahm erhebliche Venture-Finanzierung auf und veröffentlichte sein KI-Präsentationstool 2023 öffentlich, worauf es rasch Millionen Nutzer gewann. Es wurde zu einer der beliebtesten KI-gestützten Alternativen zu PowerPoint und Google Slides.",
+    "summary_abuse": "Gamma ist ein KI-Präsentationstool mit schnellem Wachstum. Als Plattform zur Inhaltserstellung könnte es für irreführende oder spamartige Präsentationen genutzt werden, grössere dokumentierte Missbrauchsvorfälle sind jedoch nicht bekannt. KI-generierte Inhalte können für Desinformation missbraucht werden, und Gamma-Präsentationen lassen sich öffentlich veröffentlichen."
+  },
+  "Gamooga": {
+    "description": "Gamooga ist eine Marketing-Automation-Lösung, mit der Unternehmen personalisierte Aktionen über Kanäle wie E-Mail, Web, Mobile, Social und Display an ihre Kunden ausspielen können.",
+    "history": "Gamooga ist eine indische Plattform für Marketing-Automation und Customer Engagement, die um 2012 gegründet wurde und sich an E-Commerce-Unternehmen richtete; sie bot Behavioral Targeting, Push-Benachrichtigungen und E-Mail-Automatisierung. Das Unternehmen scheint in den letzten Jahren mit begrenzter Aktivität inaktiv geworden zu sein.",
+    "summary_abuse": "Gamooga ist eine Marketing-Automation-Plattform, die offenbar inaktiv ist. Solche Werkzeuge bergen grundsätzlich das Risiko, für Spam oder aufdringliches Verhaltenstracking genutzt zu werden. Konkrete dokumentierte Missbrauchsvorfälle zu Gamooga sind nicht bekannt."
+  },
+  "GaniPara": {
+    "description": "GaniPara ist eine in der Türkei ansässige gehostete E-Commerce-Lösung, die Infrastruktur zum Einrichten und Verwalten von Onlineshops bereitstellt.",
+    "history": "GaniPara scheint eine türkische E-Commerce- oder Marktplatzplattform zu sein. Zur Gründung oder Geschichte des Unternehmens sind nur wenige öffentliche Informationen verfügbar.",
+    "summary_abuse": "GaniPara ist eine türkische Nischen-Marktplatzplattform mit begrenzten öffentlichen Informationen. Als Marktplatz gelten übliche E-Commerce-Risiken, einschliesslich gefälschter Waren. Konkrete dokumentierte Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "Gannett CMS": {
+    "description": "Gannett CMS ist ein von Gannett entwickeltes Content-Management-System zum Erstellen, Verwalten und Veröffentlichen digitaler Inhalte über mehrere Plattformen hinweg.",
+    "history": "Gannett CMS ist das intern genutzte Content-Management-System von Gannett Co., dem grössten Zeitungsverlag der Vereinigten Staaten, zu dem USA Today und Hunderte Lokalzeitungen gehören. Gannett entwickelte proprietäre CMS-Technologie, um Publikationen über sein grosses Veröffentlichungsnetzwerk hinweg zu verwalten. Gannett selbst wurde 1906 gegründet und ging Jahrzehnte später an die Börse.",
+    "summary_abuse": "Gannett CMS ist eine proprietäre Publishing-Plattform, die intern von Gannett-Zeitungen genutzt wird. Da es ein internes Enterprise-Werkzeug ist und externen Parteien nicht zur Verfügung steht, ist das direkte Missbrauchsrisiko minimal. Die Nachrichtenangebote von Gannett sind jedoch für hohe Werbe-Tracker-Lasten auf ihren verbraucherseitigen Websites bekannt."
+  },
+  "Gastronaut": {
+    "description": "Gastronaut ist ein Reservierungssystem, das den Buchungsprozess automatisiert und Abläufe für effizienteren Verkauf strafft.",
+    "history": "Gastronaut ist eine deutsche Restaurant-Technologieplattform, die um 2019 gegründet wurde und Systeme für Tischreservierung, Online-Bestellung und digitale Speisekartenverwaltung für Restaurants anbietet. Nennenswerte Übernahmen oder grössere Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "Gastronaut ist ein SaaS-Angebot für Restaurantmanagement ohne dokumentierte Missbrauchsgeschichte. Als B2B-Werkzeug für Restaurants hat es eine minimale verbraucherseitige Angriffsfläche."
+  },
+  "Gator": {
+    "description": "Gator ist eine Plattform für Echtzeit-Erfassung, Profilierung und Aggregation von Nutzerdaten.",
+    "history": "Gator ist der Drag-and-drop-Website-Builder von HostGator und wurde um 2017 eingeführt. HostGator wurde 2012 von Endurance International Group, später Newfold Digital, übernommen. Gator ist ein No-code-Website-Builder als Konkurrenz zu Wix und Squarespace und richtet sich an kleine Unternehmen und Privatpersonen.",
+    "summary_abuse": "Gator ist der Website-Builder von HostGator. Die Hosting-Infrastruktur von HostGator wurde wegen günstiger Tarife historisch für Spam- und Phishing-Websites genutzt. Mit Gator erstellte Websites können für Betrug oder gefälschte Shops eingesetzt werden. HostGator/Newfold Digital bietet Missbrauchsmeldewege, die Reaktionszeiten wurden jedoch kritisiert."
+  },
+  "Gatsby": {
+    "description": "Gatsby ist ein React-basiertes Open-Source-Framework mit eingebautem Fokus auf Performance, Skalierbarkeit und Sicherheit.",
+    "history": "Gatsby wurde von Kyle Mathews geschaffen und 2015 erstmals als quelloffener React-basierter Static-Site-Generator veröffentlicht. Es entwickelte sich zu einem der beliebtesten Jamstack-Frameworks, während Gatsby Inc. 15 Mio. USD an VC-Finanzierung aufnahm. 2023 übernahm Netlify Gatsby Inc. und führte dessen Cloud-Dienste mit der Netlify-Plattform zusammen. Das Open-Source-Framework wird weiterhin unter MIT-Lizenz gepflegt.",
+    "summary_abuse": "Gatsby ist ein weit verbreitetes Open-Source-React-Framework zum Erstellen statischer Websites ohne nennenswerte Missbrauchsgeschichte. Als Entwicklerwerkzeug hat es keine verbraucherseitige Oberfläche und wird vor allem für legitime Website-Entwicklung genutzt."
+  },
+  "Gatsby Cloud Image CDN": {
+    "description": "Image CDN ist eine Funktion von Gatsby-Cloud-Hosting. Statt Bilder zur Build-Zeit zu verarbeiten, verschiebt Image CDN die Bildverarbeitung an den Edge und lagert sie dorthin aus.",
+    "history": "Gatsby Cloud Image CDN ist ein Cloud-Dienst für Bildoptimierung und CDN-Auslieferung, den Gatsby Inc. um 2021 als Teil von Gatsby Cloud veröffentlichte. Nach der Übernahme von Gatsby Inc. durch Netlify im Jahr 2023 wurde er Teil des Netlify-Angebots. Der Dienst bietet automatische Bildoptimierung und Auslieferung für Gatsby-Websites.",
+    "summary_abuse": "Gatsby Cloud Image CDN ist ein Dienst zur Bildoptimierung ohne dokumentierte Missbrauchsgeschichte. Als Infrastrukturdienst für Gatsby-Entwickler hat er keine direkte verbraucherseitige Oberfläche, die Missbrauch ermöglichen würde."
+  },
+  "Gauges": {
+    "description": "Gauges ist ein Echtzeit-Webanalysewerkzeug, das Live-Traffic-Updates und zentrale Kennzahlen für Websites bereitstellt.",
+    "history": "Gauges (Gaug.es) ist ein einfaches, datenschutzorientiertes Webanalysewerkzeug, das um 2011 von GitHub-Mitgründer Scott Chacon und einem Team bei GitHub als Nebenprojekt gestartet wurde. Später wurde es unabhängig ausgegliedert. Gauges konzentriert sich auf Echtzeitanalysen ohne komplexes Tracking und positioniert sich als schlanke Alternative zu Google Analytics.",
+    "summary_abuse": "Gauges ist ein datenschutzorientiertes Webanalysewerkzeug mit bewusst minimaler Datenerfassung. Eine dokumentierte Missbrauchsgeschichte gibt es nicht. Als einfacher Website-Traffic-Zähler ist das Missbrauchspotenzial gering."
+  },
+  "GBooking": {
+    "description": "GBooking ist eine Online-Plattform für Buchungs- und Geschäftsverwaltungsdienste rund um Terminplanung, Reservierungen und operative Organisation.",
+    "history": "GBooking ist eine russische SaaS-Plattform für Online-Buchungen und Terminplanung, die um 2012 gegründet wurde und sich an Dienstleistungsbetriebe wie Salons, medizinische Praxen und Fitnessstudios richtet; sie bietet Terminbuchungs-Widgets und CRM-Funktionen. Das Unternehmen ist hauptsächlich im russischen Markt aktiv.",
+    "summary_abuse": "GBooking ist eine Terminplanungsplattform für Dienstleistungsunternehmen. Dokumentierte Missbrauchsvorfälle sind nicht bekannt. Es gelten übliche Risiken von Buchungsplattformen, etwa Scheinbuchungen oder Spam über das Buchungsformular."
+  },
+  "Gcore": {
+    "description": "Gcore ist ein Unternehmen für Public Cloud und Content Delivery Network (CDN).",
+    "history": "Gcore, früher G-Core Labs, ist ein globaler Anbieter von Edge-Netzwerk- und Cloud-Infrastruktur, der 2014 in Luxemburg gegründet wurde. Das Unternehmen bietet CDN, DDoS-Schutz, Cloud-Hosting, Gaming-Infrastruktur und Streaming-Dienste mit über 140 PoPs weltweit.",
+    "summary_abuse": "Als B2B-Infrastrukturanbieter besteht nur ein minimales Verbrauchermissbrauchsrisiko. Die Dienste richten sich an Unternehmenskunden. Dark Patterns oder täuschende Praktiken sind nicht bekannt. Es handelt sich um einen üblichen SLA-basierten Infrastrukturdienst."
+  },
+  "GDPR Cookie Consent Plugin by Webtoffee": {
+    "description": "GDPR Cookie Consent Plugin by Webtoffee ist eine WordPress-Lösung für GDPR- und CCPA-Compliance mit Unterstützung für IAB-Standards und Integration in Google Consent Mode.",
+    "history": "Das GDPR Cookie Consent Plugin von WebToffee, früher CookieLawInfo, wurde um 2012 erstmals auf WordPress.org veröffentlicht, bevor WebToffee es übernahm und umbenannte. Es wurde zu einem der beliebtesten GDPR-Compliance-Plugins für WordPress und erreichte über 1 Million aktive Installationen. WebToffee ist ein indisches Unternehmen für WordPress-Plugin-Entwicklung.",
+    "summary_abuse": "GDPR Cookie Consent Plugin by Webtoffee ist ein WordPress-Compliance-Plugin ohne dokumentierte Missbrauchsgeschichte. Es dient dazu, Cookie-Consent-Banner anzuzeigen und Nutzereinwilligungen zu verwalten. Sein Zweck ist datenschutzfördernd. Im breiteren Cookie-Banner-Ökosystem gibt es Fälle falsch konfigurierter Consent-Banner mit Dark Patterns, dies sind jedoch Konfigurationsprobleme der Nutzer und kein Missbrauch auf Anbieterebene."
+  },
+  "GeeTest": {
+    "description": "GeeTest ist ein CAPTCHA- und Bot-Management-Anbieter, der Websites, mobile Apps und APIs vor automatisierten botgetriebenen Angriffen wie ATO, Credential Stuffing und Web Scalping schützt.",
+    "history": "GeeTest ist ein chinesisches CAPTCHA- und Bot-Erkennungsunternehmen, das 2011 in Wuhan gegründet wurde. Es machte Slide-Puzzle-CAPTCHAs und verhaltensbasierte Bot-Erkennung als Alternative zu Google reCAPTCHA populär. GeeTest wurde in China breit eingesetzt und expandierte weltweit, insbesondere in Finanzdienstleistungen, Gaming und E-Commerce.",
+    "summary_abuse": "GeeTest ist ein CAPTCHA- und Bot-Erkennungsdienst zum Schutz von Websites vor automatisierten Angriffen. Als Sicherheitsdienst chinesischen Ursprungs haben einige Datenschutzbefürworter Bedenken zu Datenerfassung und Datenübertragung auf chinesische Server geäussert. Der Dienst selbst ist auf Missbrauchsabwehr ausgelegt und weist keine erheblichen dokumentierten Missbrauchsvorfälle auf."
+  },
+  "Geggio": {
+    "description": "Geggio ist ein All-in-one-Funnel-Tool für KMU, das Landingpages, E-Mails, Automatisierungen und CRM verbindet.",
+    "history": "Geggio ist ein in den Niederlanden ansässiges All-in-one-Funnel-Tool für KMU, das Landingpages, E-Mail, Automatisierungen und CRM kombiniert. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "Geggio ist ein kleines Nischen-SaaS für Marketing-Funnels ohne dokumentiertes nennenswertes Missbrauchssignal. Es scheint keine anonymen Registrierungen oder beliebiges Content-Hosting anzubieten."
+  },
+  "Gekosale": {
+    "description": "Gekosale ist eine quelloffene E-Commerce-Lösung zum Aufbau und zur Verwaltung von Onlineshops.",
+    "history": "Gekosale ist eine polnische Open-Source-E-Commerce-Plattform und war ursprünglich die grösste Plattform dieser Art in Polen. Divante, eine polnische E-Commerce-Agentur, investierte in Gekosale und übernahm 51 Prozent, um eine Enterprise-Version 2.0 zu entwickeln. Die Aktivität der Plattform scheint zurückgegangen zu sein, und sie wird nicht mehr prominent gepflegt.",
+    "summary_abuse": "Gekosale ist eine selbst gehostete Open-Source-E-Commerce-Plattform ohne nennenswertes Missbrauchssignal; sie hat keinen verbraucherseitigen gehosteten Dienst und keine bekannten Missbrauchsmuster."
+  },
+  "Gelato": {
+    "description": "Gelato ist ein Print-on-demand-Dienst für E-Commerce-Unternehmen, der anpassbare Drucklösungen ohne eigene Lagerverwaltung bietet.",
+    "history": "Gelato ist eine globale Print-on-demand- und Fulfillment-Plattform, die 2007 in Oslo, Norwegen, gegründet wurde; sie verbindet Verkäufer mit lokalen Druckpartnern in über 32 Ländern und integriert sich in Shopify, Etsy und WooCommerce.",
+    "summary_abuse": "Legitime B2B-Print-on-demand-Plattform mit transparenter Preisgestaltung. Übliches Freemium-Modell mit Zahlung pro Bestellung."
+  },
+  "Gemius": {
+    "history": "Gemius ist ein europäisches Unternehmen für Internetforschung und Webanalyse, das 1999 in Warschau, Polen, gegründet wurde. Es bietet Reichweitenmessung, Werbeforschung und digitale Analytik vor allem für Märkte in Mittel- und Osteuropa.",
+    "summary_abuse": "Analyseunternehmen mit Fokus auf Reichweitenmessung. Übliche Datenerfassung für Analytik. GDPR-konform. Keine Dark Patterns."
+  },
+  "GemPages": {
+    "description": "GemPages ist ein leistungsfähiger Shopify-Landingpage-Builder, mit dem KMU, Agenturen und Freelancer Marken aufbauen und online verkaufen können.",
+    "history": "GemPages ist eine Shopify-App zum Erstellen von Seiten, die um 2018 gestartet wurde; sie bietet Drag-and-drop-Erstellung von Landingpages und Produktseiten für Shopify-Händler und hat über 65'000 aktive Installationen.",
+    "summary_abuse": "Üblicher Shopify-Page-Builder ohne nennenswerte Missbrauchsmuster. Abonnementmodell mit klaren Preisstufen."
+  },
+  "GenerateBlocks": {
+    "description": "GenerateBlocks ist ein WordPress-Plugin mit typischen Funktionen eines Page Builders.",
+    "history": "GenerateBlocks ist ein leichtgewichtiges WordPress-Gutenberg-Block-Plugin von Tom Usborne, der auch hinter GeneratePress steht. Es wurde um 2020 gestartet und bietet Kernblöcke zum Erstellen von Layouts ohne die Schwere klassischer Page Builder.",
+    "summary_abuse": "Quelloffenes WordPress-Plugin eines angesehenen Entwicklers. Keine Missbrauchsmuster. Es gibt eine kostenpflichtige Premium-Version, aber keine Dark Patterns."
+  },
+  "GeneratePress": {
+    "description": "GeneratePress ist ein leichtgewichtiges WordPress-Theme mit Fokus auf Geschwindigkeit, Stabilität und Barrierefreiheit.",
+    "history": "GeneratePress ist ein leichtgewichtiges WordPress-Theme von Tom Usborne. Es wurde 2014 erstmals veröffentlicht und legt Wert auf Performance und Barrierefreiheit. Es gibt eine kostenlose Version auf WordPress.org und ein kostenpflichtiges Premium-Plugin.",
+    "summary_abuse": "Angesehener unabhängiger WordPress-Theme-Entwickler. Keine Missbrauchsmuster oder Dark Practices. Transparente Preisgestaltung mit Option auf lebenslange Lizenz."
+  },
+  "GeneratePress GP Premium": {
+    "description": "GP Premium ist ein Premium-Add-on-Plugin für das WordPress-Theme GeneratePress.",
+    "history": "GeneratePress GP Premium ist das kostenpflichtige Add-on-Plugin für das WordPress-Theme GeneratePress, erstellt von Tom Usborne. Es bietet zusätzliche Design-Steuerungen, eine Site Library, WooCommerce-Integration und erweiterte Anpassungsoptionen.",
+    "summary_abuse": "Transparente einmalige oder jährliche Lizenz mit klaren Bedingungen. Keine Dark Patterns. Angesehener unabhängiger Entwickler. Kein aggressives Upselling und keine täuschenden Verlängerungspraktiken."
+  },
+  "Genesis blocks": {
+    "description": "Premium-Blockbibliothek und Erweiterungen für den Block-Editor von StudioPress.",
+    "history": "Genesis Blocks ist eine Sammlung von Gutenberg-Blöcken für WordPress, ursprünglich als Atomic Blocks erstellt und später nach der Übernahme durch StudioPress/WP Engine umbenannt; sie bietet vorgefertigte Abschnitte und Seitenlayouts.",
+    "summary_abuse": "Quelloffenes WordPress-Blocks-Plugin von WP Engine/StudioPress. Keine Missbrauchsmuster. Kostenlos und professionell unterstützt."
+  },
+  "Genesis theme": {
+    "description": "Genesis theme ist ein WordPress-Theme, das mit dem Genesis Framework von StudioPress entwickelt wurde.",
+    "history": "Genesis ist ein WordPress-Theme-Framework, das von Brian Gardner erstellt und über StudioPress verkauft wurde, heute im Besitz von WP Engine. Es wurde 2010 eingeführt und entwickelte sich zu einem der beliebtesten WordPress-Theme-Frameworks mit einem Ökosystem von Child Themes.",
+    "summary_abuse": "Sehr angesehenes WordPress-Theme-Framework. Keine Missbrauchsmuster. Heute Teil des WP Engine-Ökosystems mit fortlaufender Entwicklung."
+  },
+  "Genesys Chat": {
+    "description": "Genesys Chat ist eine Customer-Engagement-Plattform für Echtzeitkommunikation zwischen Unternehmen und ihren Kunden über Web-Messaging und Live-Chat.",
+    "history": "Genesys Chat ist die Chat-Komponente der Genesys Cloud CX Contact-Center-Plattform, einer führenden Enterprise-Lösung für Customer Experience. Genesys wurde 1990 in San Francisco gegründet und bietet grossen Unternehmen Omnichannel-Werkzeuge für Kundendienst.",
+    "summary_abuse": "Enterprise-Contact-Center-Software eines etablierten Anbieters. Übliche B2B-Sicherheitspraktiken. Keine verbraucherseitigen Dark Patterns."
+  },
+  "Genesys Cloud": {
+    "description": "Genesys Cloud ist eine cloudbasierte All-in-one-Contact-Center-Software zur Verbesserung der Customer Experience.",
+    "history": "Genesys Cloud CX ist eine cloudbasierte Contact-Center- und Customer-Experience-Plattform von Genesys, gegründet 1990; sie bietet KI-gestütztes Omnichannel-Routing, Workforce Management, Analytics und digitale Kundeninteraktion für Enterprise-Callcenter.",
+    "summary_abuse": "Enterprise-Contact-Center-Plattform eines grossen Anbieters. Starke Sicherheitszertifizierungen. Keine verbraucherseitigen Dark Patterns. Fokus auf B2B-Enterprise."
+  },
+  "GeneXus": {
+    "history": "GeneXus ist eine Low-code-Entwicklungsplattform, die 1988 in Montevideo, Uruguay, von Artech gegründet wurde; sie generiert Anwendungen in mehreren Sprachen aus einem einzigen Modell. Die Plattform wird in Lateinamerika, Japan und weltweit für Enterprise-Anwendungsentwicklung genutzt.",
+    "summary_abuse": "Lang etablierte Enterprise-Low-code-Plattform ohne Missbrauchsmuster. B2B-Fokus mit üblicher Lizenzierung. Starke Präsenz in Lateinamerika und Japan."
+  },
+  "genezio": {
+    "description": "Genezio ist ein Codegenerierungswerkzeug, das den Fokus auf App-Logik erleichtert, Backend-API-Code in deploybaren Klassen organisiert, Klassenschnittstellen mit JSON-RPC für typsichere API-Aufrufe automatisch erzeugt, REST und Webhooks unterstützt, einfache API-Deployments auf vorkonfigurierter Infrastruktur per Shell-Befehl ermöglicht und ein SDK bereitstellt, das den Umgang mit URLs und Headers erspart.",
+    "history": "Genezio ist eine Cloud-Plattform zum Bereitstellen von Backend-Anwendungen, die um 2022 in Rumänien entstand. Nur wenige Gründungsdetails sind öffentlich verfügbar.",
+    "summary_abuse": "Genezio ist eine Entwicklerplattform für Deployments ohne nennenswertes Missbrauchssignal; sie richtet sich an Entwickler und stellt keine verbraucherseitigen Content-Hosting-Funktionen bereit."
+  },
+  "Genially": {
+    "description": "Genially ist eine Plattform zum Erstellen interaktiver und gamifizierter digitaler Erlebnisse für Präsentationen, Schulungen und Bildungsinhalte.",
+    "history": "Genially ist ein Online-Werkzeug zum Erstellen interaktiver und animierter Inhalte, darunter Präsentationen, Infografiken und Lernmaterialien. Es wurde 2015 in Córdoba, Spanien, gegründet und wird breit in Bildung und Corporate Training eingesetzt.",
+    "summary_abuse": "Freemium-Plattform für interaktive Inhalte ohne nennenswerte Missbrauchsmuster. Transparente Preisstufen. Einige aufdringliche Upgrade-Hinweise, aber im üblichen Rahmen."
+  },
+  "Geniee": {
+    "description": "Geniee ist ein Unternehmen für Werbetechnologie.",
+    "history": "Geniee ist ein japanisches Unternehmen für digitale Werbung und Marketingtechnologie, das 2010 gegründet wurde. Es bietet Programmatic Advertising, SSP (Supply-side Platform), DMP und Marketing-Automation-Werkzeuge vor allem für den japanischen Markt.",
+    "summary_abuse": "Japanisches Ad-Tech-Unternehmen mit SSP und Programmatic Advertising. Die Tracker-Dichte ist moderat, da Werbung zum Kerngeschäft gehört. Der Betrieb erfolgt im Rahmen japanischer Datenschutzvorschriften."
+  },
+  "Geniee Chat": {
+    "description": "Geniee Chat ist eine chatbasierte Webplattform für Kundendienst.",
+    "history": "Geniee Chat ist das Customer-Engagement- und Live-Chat-Produkt von Geniee, einem japanischen Marketingtechnologieunternehmen. Es bietet Kundensupport-Chat und Engagement-Werkzeuge für japanische Unternehmen.",
+    "summary_abuse": "Kundenchat-Produkt eines japanischen Ad-Tech-Unternehmens. Übliche Erfassung von Chatdaten. Datenschutzpraktiken orientieren sich an japanischem Recht und den Richtlinien der Muttergesellschaft."
+  },
+  "GenieWords": {
+    "description": "GenieWords ist ein Werkzeug, das Werbung mit Google Ads vereinfacht.",
+    "history": "GenieWords ist eine KI-gestützte Plattform zum Schreiben von Inhalten; sie bietet Werkzeuge zur Erstellung von Marketingtexten, Blogbeiträgen und anderen schriftlichen Inhalten mit KI-Unterstützung.",
+    "summary_abuse": "KI-Schreibwerkzeug mit üblichen SaaS-Mustern. Keine nennenswerten Dark Patterns, wenn auch teils aggressives Upselling. Übliche Datenerfassung."
+  },
+  "Genoo": {
+    "description": "Genoo ist ein Anbieter von Marketing-Automation- und Online-Marketing-Werkzeugen.",
+    "history": "Genoo ist eine Marketing-Automation- und CRM-Plattform für kleine und mittlere Unternehmen; sie wurde um 2008 in den USA gegründet und bietet E-Mail-Marketing, Landingpages und Lead-Management-Werkzeuge.",
+    "summary_abuse": "Kleine Marketing-Automation-Plattform ohne nennenswerte Missbrauchsmuster. Übliche E-Mail-Marketing-Praktiken. Klare Preise und Bedingungen."
+  },
+  "Gentoo": {
+    "description": "Gentoo ist ein freies Betriebssystem auf Linux-Basis.",
+    "history": "Gentoo Linux wurde von Daniel Robbins geschaffen und 2000 erstmals als quellbasierte Linux-Distribution veröffentlicht, inspiriert vom Ports-System aus BSD. Robbins übergab das Projekt 2004 an die Gentoo Foundation. Die Distribution wird weiterhin aktiv von einer Community aus Freiwilligen gepflegt.",
+    "summary_abuse": "Gentoo Linux weist kein nennenswertes Missbrauchssignal auf. Es ist eine quellbasierte Linux-Distribution für technisch versierte Power User und Entwickler, die maximale Kontrolle über ihre Systemkonfiguration wünschen. Es gibt keine verbraucherseitige Oberfläche, die Betrüger gezielt ausnutzen würden."
+  },
+  "Geo Targetly": {
+    "description": "Geo Targetly ist Software für geografische Website-Personalisierung.",
+    "history": "Geo Targetly ist ein Dienst für geolokationsbasierte Website-Personalisierung, der Besucher je nach Standort weiterleitet oder Inhalte anzeigt. Er wird für Lokalisierung, Compliance (GDPR) und Marketing genutzt.",
+    "summary_abuse": "Geo-Targeting-Dienst vor allem für Compliance und Personalisierung. Verarbeitet IP-basierte Geolokationsdaten. Für viele Kunden ist GDPR ein zentraler Anwendungsfall. Keine täuschenden Muster."
+  },
+  "Geoapify": {
+    "description": "Geoapify ist eine Plattform mit APIs und Standortdiensten zum Erstellen standortbewusster Anwendungen.",
+    "history": "Geoapify ist ein Anbieter von Standortdaten- und Karten-APIs mit Geocoding, Routing, Kartenkacheln und Ortsdaten. Das Unternehmen wurde um 2019 in Deutschland gegründet und bedient Entwickler, die standortbasierte Anwendungen bauen.",
+    "summary_abuse": "Entwicklerorientierte Karten-API mit GDPR-konformer Datenverarbeitung in Europa. Transparente Pay-as-you-go-Preise. Keine Dark Patterns."
+  },
+  "Geobytes": {
+    "description": "Geobytes ist ein Geolokationsdienst, der Nutzerweiterleitungen ermöglicht und Statistiken zur geografischen Herkunft bereitstellt.",
+    "history": "Geobytes wurde 1999 in Delaware, USA, gegründet, von Adrian McElligott, um eine der ersten globalen Datenbanken zur Lokalisierung von IP-Adressen aufzubauen, indem geografische Nutzerdaten mit Karten der Internetinfrastruktur überlagert wurden. Ursprünglich für die Online-Werbeindustrie tätig, diversifizierte das Unternehmen nach dem Dotcom-Crash in Betrugsprävention, Website-Analytik und geografische Anpassung. Geschäftsleitung sowie Forschung und Entwicklung sitzen in Brisbane, Australien, mit US-Servern in Dallas/Fort Worth.",
+    "summary_abuse": "Geobytes bietet IP-Geolokationsdaten und Anti-Spam-Software. Die kostenlose IP-Locator-API wird gelegentlich von Bedrohungsakteuren für Aufklärung oder Geo-Bypass-Erkennung genutzt, ein niedriges inhärentes Risiko jedes Geolokationsdienstes. Für das Unternehmen selbst ist keine Rolle bei der Ermöglichung von Missbrauch dokumentiert. Seine Anti-Spam-Werkzeuge sind ausdrücklich zur Missbrauchsabwehr gedacht."
+  },
+  "GEODIS": {
+    "description": "GEODIS ist ein globales Transport- und Logistikunternehmen.",
+    "history": "GEODIS ist ein französisches Logistik- und Supply-Chain-Unternehmen mit Ursprüngen bis 1904. Es ist eine hundertprozentige Tochter der SNCF, der französischen Staatsbahn. GEODIS wuchs durch mehrere Übernahmen, darunter TNT Logistics (2008), OHL (2015) und Gantrex. Das Unternehmen ist in über 160 Ländern tätig und zählt zu den grössten Logistikunternehmen Europas.",
+    "summary_abuse": "GEODIS ist ein grosses globales Logistikunternehmen. Seine digitalen Tracking- und Logistikplattformen sind Enterprise-B2B-Werkzeuge ohne nennenswerte verbraucherseitige Missbrauchsfläche. Phishing-E-Mails, die Logistikunternehmen imitieren, sind branchenweit ein verbreiteter Angriffsvektor, dies ist jedoch eine externe Bedrohung und kein Missbrauchsproblem auf Plattformebene."
+  },
+  "Geonetric": {
+    "description": "Geonetric ist ein Anbieter von Website-Lösungen für die Gesundheitsbranche.",
+    "history": "Geonetric wurde 1999 von Eric Engelmann als Website- und Anwendungsentwicklungsunternehmen gegründet. 2001 fokussierte sich das Unternehmen ausschliesslich auf das Gesundheitswesen, nachdem es einen Prototyp für ein grosses Gesundheitssystem gebaut hatte. In den vergangenen 25 Jahren entwickelte es sich zu einer Full-Service-Agentur für digitales Healthcare-Marketing, der Gesundheitssysteme in den USA vertrauen. Grössere Eigentümerwechsel oder Übernahmen sind nicht verzeichnet.",
+    "summary_abuse": "Geonetric ist eine B2B-Agentur für Healthcare-Marketing mit enger Enterprise-Kundschaft. Es sind keine Missbrauchsfälle oder Betrugsmuster im Zusammenhang mit der Plattform dokumentiert. Die spezialisierte Gesundheitsnische und das Enterprise-Vertriebsmodell bieten nur sehr begrenzte Angriffsfläche für verbraucherseitigen Missbrauch."
+  },
+  "GEOvendas": {
+    "description": "GEOvendas ist eine E-Commerce-Plattform mit Analytics sowie Produkten für Vertriebsteams, B2B und B2C.",
+    "history": "GEOvendas ist eine brasilianische B2B-Plattform für Vertriebsmanagement und Geolokation für Aussendienstteams, gegründet um 2010; sie bietet Routenplanung, Kundenverwaltung und Vertriebs-Tracking für Handelsvertreter in Brasilien. Nennenswerte Übernahmen oder Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "GEOvendas ist ein brasilianisches B2B-SaaS für Vertriebsmanagement ohne dokumentierte Missbrauchsgeschichte. Es ist ein Nischenwerkzeug für Aussendienstteams und hat nur eine minimale verbraucherseitige Oberfläche, die Missbrauch anziehen würde."
+  },
+  "Gerrit": {
+    "history": "Gerrit ist ein quelloffenes webbasiertes Code-Review-Werkzeug für Git-Repositories, ursprünglich bei Google für das Android-Projekt entwickelt und 2008 als Open Source veröffentlicht. Es wird in grossen Engineering-Organisationen breit für Code-Review-Workflows genutzt.",
+    "summary_abuse": "Ausgereiftes Open-Source-Code-Review-Werkzeug, gepflegt von Google und der Community. Keine Missbrauchsmuster. Übliche selbst gehostete Code-Review-Infrastruktur."
+  },
+  "Gesio": {
+    "description": "Gesio ist eine Online-Suite für Unternehmensverwaltung mit ERP-Lösungen für Grosshändler und B2B-Unternehmen.",
+    "history": "Gesio ist eine spanische ERP- und Geschäftsverwaltungsplattform für Detailhandel und Grosshandel; sie bietet Lagerverwaltung, POS-Integration und Buchhaltungsfunktionen für KMU.",
+    "summary_abuse": "Spanisches SaaS für Geschäftsverwaltung mit Zielgruppe KMU. Keine nennenswerten Missbrauchsmuster. Übliche ERP-Funktionen mit transparenter Preisgestaltung."
+  },
+  "Gestim": {
+    "description": "Gestim ist ein italienisches System für Immobilienverwaltung.",
+    "history": "Gestim ist eine französische Softwarelösung für Immobilienverwaltung für Immobilienprofis; sie bietet Werkzeuge zur Verwaltung von Mietobjekten, Mietern und Buchhaltung für Immobilienagenturen.",
+    "summary_abuse": "Französische Software für Immobilienverwaltung ohne nennenswerte Missbrauchsmuster. B2B-Werkzeug für Immobilien mit üblichen Datenschutzpraktiken."
+  },
+  "Get Satisfaction": {
+    "history": "Get Satisfaction war eine Plattform für Kunden-Communitys und Support, die 2007 in San Francisco gegründet wurde; sie ermöglichte Unternehmen, Online-Communitys für Kundenfeedback aufzubauen. 2015 wurde sie von Sprinklr übernommen und später eingestellt.",
+    "summary_abuse": "Eingestellte Plattform für Kunden-Communitys; sie wurde von Sprinklr übernommen und auslaufen gelassen. Es gibt keinen aktiven Dienst mehr, der auf Missbrauchsmuster geprüft werden könnte."
+  },
+  "Get Siimple": {
+    "description": "Get Siimple ist ein Werkzeug zum Erstellen einer einseitigen Website ohne technische oder gestalterische Fachkenntnisse.",
+    "history": "Siimple (Get Siimple) ist ein minimales CSS-Framework von Josemi Juanes. Es bietet flache, klare UI-Komponenten mit zurückhaltendem Styling und ist auf GitHub quelloffen verfügbar.",
+    "summary_abuse": "Quelloffenes CSS-Framework ohne kommerzielle Interessen oder Missbrauchsmuster. Vollständig kostenlose Bibliothek ohne Tracking oder Dark Patterns."
+  },
+  "GetAuto": {
+    "description": "GetAuto ist eine Plattform mit einem Bestand an Gebrauchtwagen, die zum Kauf angeboten werden.",
+    "history": "GetAuto ist eine digitale Marketing- und Website-Plattform für Autohändler; sie bietet Händler-Websites, Bestandsverwaltung und Lead-Generierung für Autohäuser.",
+    "summary_abuse": "Plattform für Autohändler mit üblichen B2B-SaaS-Praktiken. Kein nennenswerter verbraucherseitiger Missbrauch. Fokus auf Lead-Generierung."
+  },
+  "Getback": {
+    "description": "Getback ist ein von AdFocus entwickeltes Web-Push-Werkzeug zur Conversion-Optimierung, das Engagement und Kampagnenleistung über browserbasierte Benachrichtigungen verbessern soll.",
+    "history": "Getback ist eine CRM- und Kundenkommunikationsplattform für Autohändler; sie bietet Werkzeuge zur Verwaltung von Leads, Kunden-Follow-ups und Kommunikation für Autohäuser.",
+    "summary_abuse": "Automotive-CRM mit üblichen B2B-Praktiken. Keine nennenswerten Missbrauchsmuster. Vertikales Nischen-SaaS."
+  },
+  "GetButton": {
+    "description": "Der Chat-Button von GetButton führt Website-Besucher direkt zu Messaging-Apps wie Facebook Messenger oder WhatsApp und ermöglicht ihnen, eine Unterhaltung mit dir zu starten.",
+    "history": "GetButton.io ist ein einfacher Chat-Button-Widget-Dienst, der WhatsApp, Messenger und andere Chat-Buttons zu Websites hinzufügt. Der Dienst wurde um 2018 gegründet und bietet Unternehmen eine schnelle Möglichkeit, Chat-Funktionalität einzubinden.",
+    "summary_abuse": "Einfaches Chat-Widget mit minimaler Datenerfassung. Kleines Werkzeug mit unkomplizierter Preisgestaltung. Keine gemeldeten Dark Patterns."
+  },
+  "GetChat": {
+    "description": "GetChat ist eine Plattform, mit der über bevorzugte Messaging-Anwendungen mit Website-Besuchern kommuniziert werden kann.",
+    "history": "GetChat ist eine Multi-Agent-WhatsApp-Business-Plattform, mit der Teams WhatsApp-Kommunikation aus einem gemeinsamen Posteingang verwalten können; sie bietet CRM-Integration und Teamzusammenarbeit für WhatsApp-basierten Kundensupport.",
+    "summary_abuse": "WhatsApp-Business-Werkzeug mit üblichem Umgang mit Messaging-Daten. GDPR-bewusstes Design. Keine nennenswerten Missbrauchsmuster."
+  },
+  "GetCommerce": {
+    "description": "GetCommerce ist eine Plattform für E-Commerce-Website-Design und -Entwicklung, abgestimmt auf Markenidentität und Funktionalität.",
+    "history": "GetCommerce ist eine brasilianische E-Commerce-Plattform, die Werkzeuge zum Erstellen und Verwalten von Onlineshops für den brasilianischen Markt bietet; sie bietet Vorlagen, Zahlungsintegrationen und Bestandsverwaltung.",
+    "summary_abuse": "Brasilianisches E-Commerce-SaaS mit üblichen Praktiken. Bedient den lokalen Markt mit regionalen Zahlungsintegrationen. Keine nennenswerten Missbrauchsmuster."
+  },
+  "GetFeedback": {
+    "description": "GetFeedback, früher Usabilla, ist eine User-Feedback-Lösung zum Erfassen qualitativen und quantitativen Nutzerfeedbacks über digitale Kanäle wie Websites, Apps und E-Mails.",
+    "history": "GetFeedback ist eine Plattform für Customer Experience und Umfragen, die ursprünglich 2013 gegründet und 2019 von Momentive, früher SurveyMonkey, übernommen wurde; sie bietet CX-Umfragen für Salesforce-Nutzer mit NPS-, CSAT- und CES-Messung.",
+    "summary_abuse": "B2B-CX-Umfrageplattform mit Salesforce-Integration. Übliche Datenerfassung für Umfrageantworten. Teil des Momentive/SurveyMonkey-Ökosystems. Keine Dark Patterns."
+  },
+  "Getgabs": {
+    "description": "Getgabs ist eine WhatsApp-Marketing-Automation-Plattform, die Vertrieb, Marketing und Support über die WhatsApp Business API verbessert.",
+    "history": "Getgabs ist eine WhatsApp Business API-Plattform und ein CRM, das Unternehmen dabei hilft, WhatsApp-Kommunikation zu verwalten, Marketingkampagnen durchzuführen und Kundensupport über WhatsApp zu leisten.",
+    "summary_abuse": "WhatsApp-Business-Plattform mit üblichem Umgang mit Messaging-Daten. Keine nennenswerten Dark Patterns. Bedient hauptsächlich den indischen Markt."
+  },
+  "Getintent": {
+    "description": "Getintent ist ein Ad-Tech-Unternehmen, das eine KI-gestützte Programmatic-Suite für Agenturen, Publisher, Broadcaster und Content Owners anbietet.",
+    "history": "Getintent ist eine Programmatic-Advertising- und Data-Management-Plattform (DMP) für Audience Targeting, Ad Serving und Analytics. Das Unternehmen stammt ursprünglich aus Russland und ist im digitalen Werbemarkt tätig.",
+    "summary_abuse": "Programmatic-Advertising-Plattform mit höherer Tracker-Dichte, da dies zum Geschäftsmodell gehört. Verarbeitet Nutzerdaten für Werbe-Targeting. Übliche Branchenpraktiken für Ad Tech."
+  },
+  "GetMeAShop": {
+    "description": "GetMeAShop ist eine cloudbasierte E-Commerce-Lösung für kleine und mittlere Unternehmen in Branchen wie Detailhandel und Fertigung.",
+    "history": "GetMeAShop ist eine indische E-Commerce-Plattform, die um 2012 gestartet wurde und Händlern beim Aufbau von Onlineshops hilft; sie konzentriert sich auf den indischen Markt mit Integration lokaler Payment Gateways und Unterstützung regionaler Sprachen.",
+    "summary_abuse": "Indische E-Commerce-SaaS-Plattform mit üblichen Praktiken. Bedient KMU-Händler in Indien. Keine nennenswerten Missbrauchsmuster."
+  },
+  "GetMoreStudents": {
+    "description": "GetMoreStudents ist eine Plattform, die Tanzstudio-Betreiber dabei unterstützt, Anmeldungen zu erhöhen und Gewinne durch Marketing-Automation zu steigern.",
+    "history": "GetMoreStudents ist eine Marketing- und Lead-Generierungsplattform speziell für Bildungseinrichtungen und Nachhilfeunternehmen; sie hilft Schulen und Tutoren, durch digitales Marketing neue Schüler zu gewinnen.",
+    "summary_abuse": "Nischen-SaaS für Marketing im Bildungssektor. Übliche Praktiken der Lead-Generierung. Keine nennenswerten Dark Patterns."
+  },
+  "GetResponse": {
+    "description": "GetResponse ist eine E-Mail-Marketing-App, mit der du eine Mailingliste erstellen und Daten dafür erfassen kannst.",
+    "history": "GetResponse ist eine umfassende Plattform für E-Mail-Marketing und Automatisierung, die 1998 in Polen von Simon Grabowski gegründet wurde; sie gehört zu den ältesten E-Mail-Marketing-Plattformen und wurde um Landingpages, Webinare und E-Commerce-Marketingfunktionen erweitert. GetResponse bedient weltweit über 350'000 Kunden.",
+    "summary_abuse": "Etablierte E-Mail-Marketing-Plattform mit üblichen Praktiken. Teilweise aggressives Upselling in der Oberfläche, aber im normalen SaaS-Rahmen. Als EU-Unternehmen GDPR-konform. Transparente Preisgestaltung."
+  },
+  "GetReview": {
+    "description": "GetReview ist ein Website-Bewertungssystem zum Sammeln, Verwalten und Anzeigen von Nutzerfeedback.",
+    "history": "GetReview ist eine Plattform zum Sammeln und Verwalten von Bewertungen, die Unternehmen hilft, Kundenbewertungen einzuholen und auf ihren Websites anzuzeigen; sie bietet Widget-Integration und Werkzeuge zur Bewertungsverwaltung.",
+    "summary_abuse": "SaaS zum Sammeln von Bewertungen mit üblichen Praktiken. Keine nennenswerten Missbrauchsmuster. Geradliniges B2B-Werkzeug."
+  },
+  "Getro": {
+    "description": "Getro ist eine automatisierte Jobbörse und ein privates Talentnetzwerk, das den manuellen Aufwand beim Verbinden von Personen und Unternehmen innerhalb eines Netzwerks reduziert.",
+    "history": "Getro ist eine Talentnetzwerk-Plattform für Venture-Capital-Firmen und deren Portfoliounternehmen; sie hilft VC-finanzierten Unternehmen, Talente zu teilen, Jobs zu veröffentlichen und Community-Netzwerke aufzubauen. Gegründet wurde sie um 2016.",
+    "summary_abuse": "B2B-Talentplattform für das VC-Ökosystem. Üblicher Umgang mit beruflichen Daten. Keine Dark Patterns. Transparente Abo-Preise."
+  },
+  "GetRooster": {
+    "description": "GetRooster ist ein System zur Optimierung der Conversion abspringender Besucher.",
+    "history": "GetRooster ist eine Plattform für Mitarbeiter-Onboarding und Talentmanagement, die Prozesse für neue Mitarbeitende automatisiert; sie bietet Werkzeuge für Preboarding, Aufgabenverwaltung und Employee Experience.",
+    "summary_abuse": "HR-Onboarding-SaaS mit üblichem Datenumgang. Verarbeitet Mitarbeiterdaten. Keine nennenswerten Dark Patterns."
+  },
+  "GetSimple CMS": {
+    "history": "GetSimple CMS ist ein leichtgewichtiges Flat-File-Content-Management-System auf Basis von PHP und XML, das um 2009 von Chris Cagle erstellt wurde. Es setzt auf Einfachheit ohne Datenbankanforderung.",
+    "summary_abuse": "Aufgegebenes Open-Source-CMS-Projekt. Keine bekannten Missbrauchsmuster. Die Entwicklung scheint um 2015 bis 2016 eingestellt worden zu sein."
+  },
+  "Getsitecontrol": {
+    "description": "Getsitecontrol ist ein Formular- und Popup-Builder.",
+    "history": "Getsitecontrol ist ein SaaS-Builder für Popups und Formulare, der sich zu einer kombinierten Plattform für On-site-Engagement und E-Mail-Marketing entwickelt hat. Ursprünglich lag der Fokus auf Website-Widgets wie Umfragen und Kontaktformularen, später kamen E-Mail-Broadcasts und Automatisierung hinzu. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Getsitecontrol ist ein Popup- und Formular-Builder, der hauptsächlich für Lead-Erfassung und E-Mail-Marketing genutzt wird. Mit der Plattform selbst sind keine erheblichen dokumentierten Missbrauchsmuster verbunden. Wie jeder einbettbare Widget-Dienst kann sie theoretisch auf Phishing-Seiten eingesetzt werden, Missbrauch ist wegen der Zielgruppe aus KMU und privaten Websites sowie begrenzter Hosting-Funktionen jedoch kein zentrales Risiko."
+  },
+  "GetSocial": {
+    "description": "GetSocial ist eine Plattform für Social Analytics und Publishing.",
+    "history": "GetSocial ist eine Social-Engagement-Plattform für mobile Apps und bietet Empfehlungs­kampagnen, Social Sharing und Analytics; sie wurde um 2013 gegründet und hilft Spiele- und App-Entwicklern, virale Wachstumsmechaniken umzusetzen.",
+    "summary_abuse": "Social-Engagement-Plattform für mobile Apps. Erfasst Nutzerinteraktionen und Sharing-Daten. Datenschutzpraktiken sind auf Mobile Analytics ausgerichtet. Keine Dark Patterns."
+  },
+  "GetTerms": {
+    "description": "GetTerms ist ein Werkzeug, das Datenschutzerklärungen für Webplattformen generiert.",
+    "history": "GetTerms ist ein Generator für rechtliche Dokumente, der Privacy Policies, Terms of Service und weitere Rechtsdokumente für Websites und Apps erstellt. Er bietet Vorlagen und Anpassungswerkzeuge.",
+    "summary_abuse": "SaaS-Generator für Rechtsdokumente. Ironischerweise hilft er gerade bei Datenschutzerklärungen. Keine Dark Patterns. Geradliniges Werkzeug mit üblichem Abonnement."
+  },
+  "getUBetter": {
+    "description": "getUBetter ist eine Gesundheitsplattform, die Online-Zugang zu Unterstützungsdiensten für psychische Gesundheit bietet.",
+    "history": "getUBetter ist eine britische digitale Gesundheitsplattform, die Online-Unterstützung für psychische Gesundheit und Physiotherapie anbietet. Zur Gründung sind nur wenige öffentliche Details verfügbar.",
+    "summary_abuse": "getUBetter ist eine Gesundheitsplattform ohne nennenswertes Missbrauchssignal; sie bedient NHS und private Gesundheitsanbieter und bietet keine Content-Hosting- oder anonymen Registrierungsfunktionen, die Betrüger gezielt ausnutzen würden."
+  },
+  "GetYourGuide": {
+    "description": "GetYourGuide ist eine in Berlin ansässige Online-Reiseagentur und ein Online-Marktplatz für Tourguides und Ausflüge.",
+    "history": "GetYourGuide ist eine Buchungsplattform für Reiseerlebnisse, die 2009 in Berlin gegründet wurde. Reisende können darüber weltweit Touren, Aktivitäten und Attraktionen buchen. Die Plattform ist ein wichtiger Anbieter im Markt für Online-Erlebnisse und listet über 100'000 Aktivitäten.",
+    "summary_abuse": "Reisebuchungsplattform mit üblichen E-Commerce-Praktiken. Stornierungsbedingungen sind in der Regel klar. GDPR-konform. Teilweise aggressives E-Mail-Marketing nach der Buchung."
+  },
+  "Gevme": {
+    "description": "Gevme ist eine Omnichannel-Eventmanagement-Plattform, die Planung, Koordination und Durchführung physischer, virtueller und hybrider Events vereinfacht.",
+    "history": "Gevme ist eine Eventmanagement- und Virtual-Events-Plattform, die 2008 in Singapur gegründet wurde; sie bietet Werkzeuge für Eventregistrierung, Teilnehmerverwaltung, virtuelle Events und Marketing für Konferenzen und Messen.",
+    "summary_abuse": "Eventmanagement-SaaS mit üblichen Datenpraktiken für Teilnehmerverwaltung. Keine nennenswerten Missbrauchsmuster. APAC-fokussiertes Unternehmen mit GDPR-Bewusstsein."
+  },
+  "Ghost": {
+    "description": "Ghost ist eine leistungsfähige App für New-Media-Creators, um Inhalte zu veröffentlichen, zu teilen und ein Geschäft darum aufzubauen.",
+    "history": "Ghost wurde von John O'Nolan geschaffen, einem ehemaligen WordPress-Core-Contributor, nachdem ein Blogbeitrag von 2012 überwältigendes Interesse ausgelöst hatte. Zusammen mit Mitgründerin Hannah Wolfe führte er im April 2013 eine erfolgreiche Kickstarter-Kampagne durch, um ein auf Publishing fokussiertes CMS zu bauen. Die erste öffentliche Version erschien im Oktober 2013. Ghost wird von einer gemeinnützigen Stiftung betrieben, damit es unabhängig von Aktionären bleibt. Es basiert auf Node.js und ist zu einer der führenden quelloffenen Publishing-Plattformen für Newsletter und unabhängige Medien gewachsen.",
+    "summary_abuse": "Ghost ist eine weit verbreitete Open-Source-Publishing-Plattform mit einer starken legitimen Nutzerbasis. Als selbst hostbare Plattform kann sie auf jedem Server installiert werden, wodurch einzelne Ghost-Instanzen für spamartige Content-Seiten oder minderwertige Publishing-Farmen genutzt werden können. Missbrauch macht jedoch nur einen Randanteil der Gesamtnutzung aus, und die Ghost Foundation hat eine Responsible-Disclosure-Policy sowie eine AUP für ihren gehosteten Dienst Ghost(Pro)."
+  },
+  "Gigalixir": {
+    "description": "Gigalixir ist ein PaaS mit Fokus auf Deployments von Elixir- und Phoenix-Webapps.",
+    "history": "Gigalixir ist eine Cloud-Hosting-Plattform speziell für Elixir- und Phoenix-Anwendungen; sie wurde 2017 gegründet und bietet Zero-Downtime-Deployments, Clustering und verwaltetes PostgreSQL für Elixir-Entwickler.",
+    "summary_abuse": "Nischen-Entwicklerplattform mit Fokus auf Elixir-Hosting. Übliche PaaS-Datenpraktiken. Keine Dark Patterns. Entwicklerorientiert mit technischer Transparenz."
+  },
+  "Gijgo": {
+    "description": "Gijgo ist eine Sammlung von JavaScript-Steuerelementen, die kostenlos kommerziell genutzt werden können.",
+    "history": "Gijgo ist eine Open-Source-Sammlung von jQuery-Widgets, darunter Grids, Date Picker, Trees und weitere UI-Komponenten; sie entstand um 2015 und bietet responsive Web-Steuerelemente auf Basis von jQuery.",
+    "summary_abuse": "Quelloffene jQuery-Widget-Bibliothek ohne kommerzielle Interessen. Keine Missbrauchsmuster. Kostenlose Bibliothek unter MIT-Lizenz."
+  },
+  "Giosg": {
+    "description": "Giosg ist eine Live-Chat-Lösung zur Unterstützung von E-Commerce-Plattformen durch Echtzeit-Kundenkommunikation und Engagement.",
+    "history": "Giosg wurde 2011 in Helsinki, Finnland, von CEO Ville Rissanen gegründet. Die Plattform begann als Live-Chat- und Customer-Engagement-Werkzeug für Unternehmen. Im April 2023 übernahm Giosg Whisbi, einen spanischen Live-Shopping-SaaS-Anbieter, und erweiterte damit die Funktionen für videobasierten Verkauf und Live Commerce. Das Unternehmen ist auf über 1'200 Kunden weltweit gewachsen.",
+    "summary_abuse": "Giosg ist eine B2B-Customer-Engagement-Plattform für Enterprise-Kunden in Detailhandel, Automotive und Finanzdienstleistungen. Mit der Plattform sind keine dokumentierten Missbrauchsmuster verbunden. Das Enterprise-Vertriebsmodell und der gezielte Branchenfokus führen zu sehr begrenzter Exposition gegenüber verbraucherseitigem Betrug oder Spam."
+  },
+  "Giscus": {
+    "description": "Giscus ist ein Kommentarsystem auf Basis von GitHub Discussions.",
+    "history": "Giscus ist ein quelloffenes Kommentarsystem auf Basis von GitHub Discussions. Es wurde 2021 von Adhitya Mahen erstellt und ermöglicht Websites, GitHub Discussions als Kommentar-Backend zu verwenden, besonders beliebt bei Static-Site-Generatoren.",
+    "summary_abuse": "Quelloffenes Kommentarsystem mit GitHub-Integration. Keine Missbrauchsmuster. Datenschutzfreundliche Alternative zu Disqus. Für Kommentare ist ein GitHub-Konto erforderlich."
+  },
+  "Gist": {
+    "description": "Gist ist Software für E-Mail-Marketing-Automation, Live-Chat und Helpdesk.",
+    "history": "Gist ist eine Kundenkommunikations- und Marketingplattform mit E-Mail-Marketing, Live-Chat, Wissensdatenbank und CRM-Funktionen; sie wurde um 2017 gegründet und positioniert sich als All-in-one-Alternative zu HubSpot.",
+    "summary_abuse": "All-in-one-Kundenplattform mit üblichen SaaS-Praktiken. Moderater Tracker-Einsatz für eigene Analytics. Keine nennenswerten Dark Patterns."
+  },
+  "Gist Giftship": {
+    "description": "Gist Giftship ist eine Geschenk-App für Shopify, mit der deine Kunden ihren gesamten Geschenkeinkauf auf einmal abschliessen können.",
+    "history": "Gist Giftship ist eine Shopify-App, die E-Commerce-Shops Geschenkfunktionen wie Geschenknachrichten, Verpackungsoptionen und geplante Lieferung bereitstellt; sie gehört zum E-Commerce-Tool-Ökosystem von Gist.",
+    "summary_abuse": "Einfache Shopify-App für Geschenkfunktionen. Keine Dark Patterns. Standard-Abonnement mit klarer Preisangabe im Shopify App Store."
+  },
+  "Gista": {
+    "description": "Gista ist ein AI-Conversion-Agent, der Websites hilft, Besucher durch automatisierte Ansprache in Leads und Kunden umzuwandeln.",
+    "history": "Gista ist eine Plattform für Kundensupport und Engagement, die WhatsApp und andere Messaging-Kanäle für E-Commerce-Unternehmen integriert; sie bietet einen gemeinsamen Posteingang und Automatisierung für die Kundenkommunikation.",
+    "summary_abuse": "Kunden-Messaging-Plattform mit üblicher Datenverarbeitung. Keine auffälligen Dark Patterns. Richtet sich an E-Commerce-Händler."
+  },
+  "git": {
+    "history": "Git wurde 2005 von Linus Torvalds entwickelt, um nach einem Streit mit dem Anbieter des VCS BitKeeper die Entwicklung des Linux-Kernels zu verwalten. Es wurde rasch zum weltweit dominierenden verteilten Versionskontrollsystem und wird von der Git-Community gepflegt, seit 2005 mit Junio C Hamano als Haupt-Maintainer.",
+    "summary_abuse": "Git ist ein grundlegendes verteiltes Versionskontrollsystem ohne Endnutzeroberfläche und ohne nennenswertes Missbrauchssignal. Es ist ein Backend-Werkzeug für Entwickler und weder Ziel noch Ermöglicher von Betrug."
+  },
+  "GitBook": {
+    "description": "GitBook ist ein Kommandozeilenwerkzeug zum Erstellen von Dokumentation mit Git und Markdown.",
+    "history": "GitBook ist eine Plattform für Dokumentation und Wissensmanagement, die 2014 in Lyon, Frankreich, gegründet wurde. Teams können damit Dokumentation mit einem git-basierten Workflow erstellen, organisieren und veröffentlichen. Viele entwicklerorientierte Unternehmen nutzen GitBook.",
+    "summary_abuse": "Plattform für Entwicklerdokumentation mit sauberen Datenschutzpraktiken. Standard-SaaS mit Freemium-Modell. Etwas E-Mail-Engagement, aber keine Dark Patterns."
+  },
+  "Gitea": {
+    "description": "Gitea ist ein Open-Source-Forge-Paket zum Hosten von Softwareentwicklung mit Versionskontrolle über Git sowie kollaborativen Funktionen wie Bugtracking, Wikis und Code-Review. Es unterstützt Self-Hosting und bietet auch eine kostenlose öffentliche First-Party-Instanz auf DiDis Cloud.",
+    "history": "Gitea ist ein von der Community verwalteter Fork von Gogs, einem leichtgewichtigen selbst gehosteten Git-Dienst in Go. Das Projekt wurde 2016 von Freiwilligen gestartet, um eine aktiver gepflegte Alternative zu Gogs zu schaffen. Heute steht Gitea Ltd mit einem gehosteten Dienst dahinter.",
+    "summary_abuse": "Leichtgewichtiges Open-Source-Git-Hosting mit starker Community. Keine Missbrauchsmuster. Datenschutzfreundliche Self-Hosting-Option. MIT-lizenziert."
+  },
+  "GitHub Pages": {
+    "description": "GitHub Pages ist ein Hosting-Dienst für statische Websites.",
+    "history": "GitHub Pages ist ein kostenloser Hosting-Dienst für statische Websites von GitHub, das zu Microsoft gehört. Der Dienst wurde 2008 lanciert und erlaubt GitHub-Nutzern, Websites direkt aus GitHub-Repositories zu hosten. Er wird breit von Entwicklern und Open-Source-Projekten genutzt.",
+    "summary_abuse": "Kostenloses statisches Hosting von GitHub, das zu Microsoft gehört. Der Datenschutz richtet sich nach den Datenschutzrichtlinien von GitHub und Microsoft. Keine Dark Patterns. Einfacher und transparenter Dienst."
+  },
+  "Gitiles": {
+    "history": "Gitiles ist ein einfacher Repository-Browser für Git-Repositories, der von Google gebaut wurde. Er betreibt unter anderem die Repositories git.kernel.org und android.googlesource.com. Die Weboberfläche ist schreibgeschützt und dient zum Durchsuchen von Git-Repos.",
+    "summary_abuse": "Einfacher Open-Source-Browser für Git-Repositories von Google. Keine Missbrauchsmuster. Wird für öffentliches Git-Hosting bei grossen Open-Source-Projekten eingesetzt."
+  },
+  "GitLab": {
+    "description": "GitLab ist ein webbasiertes DevOps-Lifecycle-Werkzeug mit Git-Repository-Management, Wiki, Issue-Tracking sowie Funktionen für Continuous Integration und Deployment-Pipelines unter einer Open-Source-Lizenz.",
+    "history": "GitLab ist eine umfassende DevOps-Plattform, die 2011 von Dmitriy Zaporozhets und Sid Sijbrandij in den Niederlanden gegründet wurde; sie begann als Open-Source-Manager für Git-Repositories und wurde um CI/CD, Container Registry, Issue-Tracking und Security-Scanning erweitert. Im Oktober 2021 ging GitLab an die Börse.",
+    "summary_abuse": "Grosse Open-Source-DevOps-Plattform mit starker Sicherheitskultur. Ein Programm für Security Disclosures ist aktiv. FOSS-Kern mit kostenpflichtigen Enterprise-Funktionen. Keine Dark Patterns."
+  },
+  "GitLab CI/CD": {
+    "history": "GitLab CI/CD ist die Komponente von GitLab für Continuous Integration und Deployment, eingeführt mit GitLab 8.0 im Jahr 2015; sie nutzt YAML-basierte Pipeline-Konfiguration und läuft auf gemeinsam genutzten oder selbst gehosteten GitLab Runners. GitLab CI/CD wurde zu einer führenden CI/CD-Lösung.",
+    "summary_abuse": "Teil der Open-Source-DevOps-Plattform GitLab. Keine Missbrauchsmuster. Branchenübliches CI/CD-Tooling mit starker Sicherheitsposition."
+  },
+  "gitlist": {
+    "history": "GitList ist eine Open-Source-Weboberfläche auf PHP-Basis zum Durchsuchen von Git-Repositories; sie wurde um 2011 von Fernando Vieira erstellt und ist eine Alternative zu gitweb und cgit mit Fokus auf eine aufgeräumtere UI.",
+    "summary_abuse": "GitList ist ein selbst gehosteter Browser für Git-Repositories ohne Endnutzeroberfläche und ohne nennenswertes Missbrauchssignal."
+  },
+  "Gitter": {
+    "description": "Gitter ist eine Chat- und Networking-Plattform, die Communities über Messaging verwalten, vergrössern und verbinden hilft.",
+    "history": "Gitter ist eine Chat-Plattform für Entwickler-Communities, die ursprünglich 2013 lanciert und 2017 von GitLab übernommen wurde; sie bot Chaträume, die mit GitHub-Repositories verknüpft waren. GitLab verband Gitter mit Matrix, und der Dienst wurde 2023 schliesslich eingestellt.",
+    "summary_abuse": "Eingestellter Entwickler-Chatdienst. Wurde in das Matrix-Ökosystem überführt. Keine aktuellen aktiven Missbrauchsbedenken."
+  },
+  "gitweb": {
+    "history": "gitweb ist die integrierte Weboberfläche für Git-Repositories und wird seit 2005 als Teil des Git-Projekts ausgeliefert. Das CGI-basierte Perl-Skript bietet grundlegendes Repository-Browsing und ist älter als funktionsreichere Alternativen wie cgit und GitList, von denen es heute weitgehend abgelöst wurde.",
+    "summary_abuse": "gitweb ist ein selbst gehosteter Browser für Git-Repositories, der mit Git selbst gebündelt ist. Er hat keine Endnutzeroberfläche und kein nennenswertes Missbrauchssignal."
+  },
+  "GiveCampus": {
+    "description": "GiveCampus ist eine Fundraising-Plattform für gemeinnützige Bildungseinrichtungen.",
+    "history": "GiveCampus ist eine digitale Fundraising-Plattform, die speziell für Bildungseinrichtungen wie Colleges, Universitäten und K-12-Schulen gebaut wurde. Das Unternehmen wurde 2015 in Washington DC gegründet und bietet Crowdfunding-Kampagnen, Peer-to-Peer-Fundraising und Werkzeuge für Giving Days.",
+    "summary_abuse": "Fundraising-SaaS für Bildungseinrichtungen. Verarbeitet Zahlungsdaten von Spendern PCI-konform. Keine Dark Patterns. Standardplattform für gemeinnütziges Fundraising."
+  },
+  "Giveffect": {
+    "description": "Giveffect ist ein CRM-System für gemeinnützige Organisationen, das Betriebsabläufe und Engagement unterstützt.",
+    "history": "Giveffect wurde um 2012 als Nonprofit-CRM und Fundraising-Plattform mit Sitz in den USA gegründet. Die Plattform richtet sich an gemeinnützige Organisationen und bietet eine integrierte Suite für Spendermanagement, Freiwilligenverwaltung, Eventmanagement und Fundraising. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Giveffect ist ein Nonprofit-CRM ohne nennenswertes Missbrauchssignal. Es wird als geschlossene SaaS für gemeinnützige Kunden betrieben, was die Exposition gegenüber Endnutzer-Angriffsflächen begrenzt. Öffentliche Vorfälle oder Verbindungen zu Betrug sind nicht dokumentiert."
+  },
+  "GiveSmart": {
+    "description": "GiveSmart ist eine Technologie für Fundraising-Events mit anpassbarer Eventgrösse, Mobile Bidding, Text-to-Donate, erweitertem Dashboard und Reporting, Sitzplatzplanung und weiteren Funktionen.",
+    "history": "GiveSmart ist eine Fundraising- und Eventmanagement-Plattform für Nonprofits mit Werkzeugen für Auktionsverwaltung, Text-to-Give und Online-Fundraising; sie gehört zu Community Brands, einem Softwareunternehmen für gemeinnützige Organisationen.",
+    "summary_abuse": "Fundraising-Plattform für Nonprofits mit üblicher Sicherheit für Zahlungsabwicklung. Teil der Community-Brands-Familie. PCI-konform für die Verarbeitung von Spenden."
+  },
+  "GiveWP": {
+    "description": "GiveWP ist ein Spenden-Plugin für WordPress.",
+    "history": "GiveWP ist das führende WordPress-Spenden-Plugin und wurde ursprünglich 2014 von Matt Cromwell und Devin Walker als spezialisiertes Fundraising-Plugin lanciert. Es wurde zu einem der beliebtesten Nonprofit-Werkzeuge für WordPress und wird heute von StellarWP, einem Unternehmen von Liquid Web, gepflegt.",
+    "summary_abuse": "Open-Source-Spenden-Plugin für WordPress von einem reputablen Unternehmen. Keine Missbrauchsmuster. Klares Freemium-Modell mit transparenter Add-on-Preisgestaltung. PCI-konforme Zahlungsabwicklung."
+  },
+  "GivingFuel": {
+    "description": "GivingFuel ist eine Softwarelösung für Fundraising.",
+    "history": "GivingFuel ist eine US-basierte Fundraising-Plattform für Nonprofits, die seit über 15 Jahren tätig ist und Kirchen sowie gemeinnützige Organisationen mit Online-Spendentools bedient. Die Plattform bietet Spendenseiten, ein Spender-CRM und Marketingwerkzeuge. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "GivingFuel ist eine Spendenplattform für Nonprofits, vor allem für Kirchen und wohltätige Organisationen. Spendenplattformen können von betrügerischen Organisationen oder falschen Hilfswerken zum Einsammeln von Geldern missbraucht werden, doch der Fokus von GivingFuel auf legitime Nonprofits begrenzt diese Exposition. Spezifische dokumentierte Missbrauchsfälle zu dieser Plattform sind nicht bekannt."
+  },
+  "Gladly": {
+    "description": "Gladly ist eine Plattform für Kundenservice.",
+    "history": "Gladly wurde 2014 in San Francisco von Michael Wolfe, Joseph Ansanelli und Dirk Kessler gegründet. Das Unternehmen entwickelte eine AI-gestützte Kundenservice-Plattform mit Fokus auf menschenzentrierten Support, bei dem Kunden als Personen und nicht als Ticketnummern behandelt werden. Gladly nahm in sechs Finanzierungsrunden über 208 Millionen US-Dollar auf, darunter 2022 eine Runde über 55 Millionen US-Dollar unter Führung von Riverwood Capital und 2024 eine Runde über 40 Millionen US-Dollar unter Führung von AXA Venture Partners. Der Umsatz erreichte 2024 47,7 Millionen US-Dollar.",
+    "summary_abuse": "Gladly ist eine Enterprise-Plattform für Kundenservice, die von Retail- und Consumer-Marken genutzt wird. Durch den B2B-Fokus und das reine Enterprise-Preismodell ist die Exposition gegenüber endnutzernahem Missbrauch oder Betrug minimal. Dokumentierte Missbrauchsvorfälle im Zusammenhang mit der Plattform sind nicht bekannt."
+  },
+  "Glami": {
+    "description": "Glami ist ein Fashion-Quizsystem, das anhand von Nutzerpräferenzen und Antworten personalisierte Style-Empfehlungen erstellt.",
+    "history": "Glami ist ein Aggregator und Preisvergleich für Modeprodukte, gegründet 2011 in Tschechien. Die Plattform expandierte in Mittel- und Osteuropa. 2019 wurde die Heureka Group zu einem wichtigen Anteilseigner. Glami ist in über 10 Ländern aktiv.",
+    "summary_abuse": "Glami ist ein Fashion-Aggregator ohne nennenswertes Missbrauchssignal. Die Plattform aggregiert Angebote von Partnerhändlern und erlaubt keine beliebigen nutzergenerierten Inhalte."
+  },
+  "GlampManager": {
+    "description": "GlampManager ist eine Buchungs- und Verwaltungssoftware, die Reservierungen, Planung und operative Aufgaben für Gastgewerbebetriebe vereinfacht.",
+    "history": "GlampManager ist eine Property-Management-Software mit Fokus auf Glamping- und Outdoor-Hospitality-Betriebe, gegründet um 2015 in den USA. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "GlampManager ist eine Nischen-SaaS für Hospitality-Management bei Glamping-Betreibern ohne dokumentiertes Missbrauchssignal."
+  },
+  "Glance": {
+    "description": "Glance ist eine Lösung für Screen-Sharing und Co-Browsing in Vertrieb, Service und Support.",
+    "history": "Glance (glance.cx) ist eine Plattform für Co-Browsing und visuelles Engagement im Kundensupport, gegründet um 2019 mit Sitz in den USA. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Glance ist eine Co-Browsing-SaaS für Kundensupport ohne dokumentiertes Missbrauchssignal; sie wird im B2B-Kontext mit berechtigtem Zugriff betrieben."
+  },
+  "Glassbox": {
+    "description": "Glassbox ist ein israelisches Softwareunternehmen. Es verkauft Software und Dienstleistungen für Session-Replay-Analytics.",
+    "history": "Glassbox wurde 2010 in Israel von Yoav Schreiber, Yaron Gueta und Hanan Blumstein gegründet. Das Unternehmen bietet Digital-Experience-Analytics und Session Replay für regulierte Enterprise-Branchen. Im Juni 2021 nahm Glassbox über einen Börsengang an der Tel Aviv Stock Exchange 100 Millionen US-Dollar bei einer Bewertung von rund 500 Millionen US-Dollar auf.",
+    "summary_abuse": "Glassbox erfasst Session Replays und Nutzerinteraktionsdaten in Enterprise-Web- und Mobile-Anwendungen. Die Aufzeichnungsfunktionen haben in regulierten Branchen Datenschutzfragen ausgelöst, besonders zur Erfassung von Formularfeldern und sensiblen Nutzerdaten. Das Unternehmen bedient Enterprises in Finanzdienstleistungen und Versicherungen und positioniert sich mit Compliance- und Datenschutzkontrollen. Konkrete Sicherheitsvorfälle sind öffentlich nicht dokumentiert."
+  },
+  "GlassFish": {
+    "history": "GlassFish ist ein Java EE Application Server, der ab 2006 ursprünglich von Sun Microsystems entwickelt wurde. Oracle übernahm Sun 2010. 2017 stellte Oracle den kommerziellen Support für GlassFish ein und übergab das Projekt als Eclipse GlassFish an die Eclipse Foundation. Es bleibt die Referenzimplementierung von Jakarta EE.",
+    "summary_abuse": "GlassFish ist ein Java EE Application Server ohne nennenswertes Missbrauchssignal. Missbrauch entsteht über Anwendungen, die darauf betrieben werden. Historische CVEs wurden gepatcht. Mit GlassFish-Deployments ist kein spezifisches Missbrauchsmuster verbunden."
+  },
+  "Glassix": {
+    "description": "Glassix ist eine Omnichannel-Messaging-Plattform für Service-, Sales- und Supportcenter.",
+    "history": "Glassix wurde 2015 in Tel Aviv, Israel, von Guy Shalom und Yoad Rashty als Omnichannel-Messaging-Plattform für Service- und Sales-Contact-Center gegründet. Seitdem gab es keine nennenswerten Übernahmen.",
+    "summary_abuse": "Glassix ist eine B2B-Omnichannel-Messaging-Plattform ohne nennenswertes Missbrauchssignal; sie bedient Contact Center und bietet kein endnutzerseitiges anonymes Content-Hosting."
+  },
+  "Gleam": {
+    "description": "Gleam ist eine Marketing-App, die beim Ausbau von E-Mail-Listen, E-Commerce-Shops, SaaS-Unternehmen und Facebook-Zielgruppen hilft.",
+    "history": "Gleam wurde am 1. April 2013 von Stuart McKeown gegründet und hat seinen Sitz in Australien. Die Plattform hilft Unternehmen, virale Giveaways, Wettbewerbe und Growth-Kampagnen durchzuführen, und bedient weltweit über 1 Million Unternehmen. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Gleam ist eine Plattform für virales Marketing und Giveaways. Solche Plattformen werden häufig für gefälschte Giveaway-Betrügereien oder zur künstlichen Aufblähung von Social-Media-Kennzahlen missbraucht. Gleam verlangt Social Actions wie Folgen und Teilen als Wettbewerbseinträge, was zur Erzeugung falschen Engagements genutzt werden kann. Die Plattform hat eine AUP, die Durchsetzungshistorie ist aber unklar. Gefälschte oder irreführende Giveaways sind ein bekannter Missbrauchsvektor dieser Tool-Kategorie."
+  },
+  "Gleap": {
+    "description": "Gleap ist eine All-in-one-Plattform für Kundenfeedback mit Funktionen wie In-App-Bug-Reporting, Live-Chat, AI-Support-Bots, Produkt-Roadmaps, Kundenumfragen und Marketingautomatisierung zur Verbesserung von Kundenservice und Produktentwicklung.",
+    "history": "Gleap wurde 2020 in Dornbirn, Österreich, als All-in-one-Plattform für Kundenfeedback und Bug-Reporting gegründet. Seitdem sind keine nennenswerten Eigentümerwechsel bekannt.",
+    "summary_abuse": "Gleap ist eine SaaS für Kundenfeedback und Bug-Reporting ohne nennenswertes Missbrauchssignal; sie bedient Softwareteams und bietet kein öffentliches Content-Hosting oder anonyme Registrierungen."
+  },
+  "Gleen": {
+    "description": "Gleen ist ein generativer AI-Chatbot, der Kunden vertrauenswürdige Antworten liefert, Aktionen automatisiert und einheitliches Wissen integriert.",
+    "history": "Gleen ist eine AI-gestützte Chatbot-Plattform für Kundensupport, gegründet um 2022 in den USA. Die Gründer sind ehemalige Nutanix-Mitarbeiter.",
+    "summary_abuse": "Gleen ist eine B2B-SaaS für AI-Chatbots ohne nennenswertes Missbrauchssignal. Theoretisches Risiko durch Prompt Injection, aber keine öffentlichen Vorfälle."
+  },
+  "Glia": {
+    "description": "Glia ist ein Chat- und Digital-Assistant-System, das in verschiedenen Branchen eingesetzt wird.",
+    "history": "Glia ist eine digitale Kundenservice-Plattform, die 2012 in den USA gegründet wurde. Früher hiess sie SaleMove und wurde 2019 in Glia umbenannt. Der Fokus liegt auf Finanzdienstleistungen.",
+    "summary_abuse": "Glia ist eine Enterprise-Plattform für Kundenservice mit Fokus auf Finanzinstitute und ohne nennenswertes Missbrauchssignal."
+  },
+  "Glide.js": {
+    "description": "Glide.js ist ein abhängigkeitsfreier JavaScript-ES6-Slider und -Carousel.",
+    "history": "Glide.js ist eine JavaScript-ES6-Komponente für Slider und Carousels, erstellt von Jedrzej Chalubek und erstmals 2016 veröffentlicht; sie ist leichtgewichtig, abhängigkeitsfrei und steht unter der MIT-Lizenz.",
+    "summary_abuse": "Glide.js ist eine Frontend-Carousel-Bibliothek ohne Missbrauchsfläche; sie ist eine reine clientseitige UI-Komponente ohne Netzwerkaufrufe oder Datenerfassung."
+  },
+  "Glider.js": {
+    "description": "Glider.js ist eine schnelle, leichtgewichtige, responsive und abhängigkeitsfreie scrollbare Liste mit anpassbaren Paging-Steuerelementen.",
+    "history": "Glider.js ist eine leichtgewichtige responsive Carousel-Bibliothek, erstellt von Nick Piscitelli und um 2018 veröffentlicht; sie ist abhängigkeitsfrei und auf flüssige Scroll-Performance ausgerichtet.",
+    "summary_abuse": "Glider.js ist eine reine Frontend-Carousel-Bibliothek ohne Missbrauchsfläche."
+  },
+  "Glitch": {
+    "description": "Glitch ist eine kollaborative Programmierumgebung, die im Browser läuft und Code während der Eingabe bereitstellt.",
+    "history": "Glitch entstand aus Fog Creek Software, das 2000 von Joel Spolsky und Michael Pryor gegründet wurde. Die Web-Coding-Plattform startete im Frühling 2017 als HyperDev und wurde im September 2018 in Glitch umbenannt, als sich das Unternehmen von Fog Creek umfirmierte. Glitch nahm 2019 30 Millionen US-Dollar auf. Im Mai 2022 übernahm Fastly Glitch für 40 Millionen US-Dollar. Am 8. Juli 2025 stellte Glitch alle Hosting-Dienste ein und nannte hohe Kosten sowie Plattformmissbrauch als Hauptgründe.",
+    "summary_abuse": "Glitch wurde wegen Missbrauchs bekannt, da es kostenloses Hosting mit eigenen Subdomains und geringen KYC-Anforderungen bot. Sicherheitsforscher dokumentierten die Nutzung für Phishing-Seiten, Malware-Command-and-Control-Infrastruktur und Bot-Code. Die von der Plattform genannte Begründung für die Abschaltung im Juli 2025 enthielt ausdrücklich Plattformmissbrauch und zeigt, dass Missbrauch einen erheblichen Anteil der Aktivität ausmachte. Fastlys Übernahme und die spätere Abschaltung stehen für eine Anbieterreaktion auf chronische Anti-Abuse-Probleme."
+  },
+  "GlitchTip": {
+    "description": "GlitchTip ist eine Open-Source-Plattform für Error Tracking sowie die Überwachung von Fehlern, Performance und Uptime.",
+    "history": "GlitchTip ist eine Open-Source-Plattform für Error Tracking, die um 2019 als selbst hostbare Alternative zu Sentry entstand; sie unterstützt Sentry-kompatible SDKs und ist in Python/Django geschrieben.",
+    "summary_abuse": "GlitchTip ist ein selbst gehostetes Tool für Fehlerüberwachung ohne nennenswertes Missbrauchssignal. Es ist Backend-Infrastruktur ohne Endnutzeroberfläche."
+  },
+  "Global-e": {
+    "description": "Global-e ist ein Anbieter von Lösungen für grenzüberschreitenden E-Commerce.",
+    "history": "Global-e ist eine Plattform zur Ermöglichung von grenzüberschreitendem E-Commerce, gegründet 2013 in Israel. Das Unternehmen wurde 2021 an der Nasdaq gelistet (GLBE). Shopify erwarb 2021 im Rahmen einer strategischen Partnerschaft eine bedeutende Beteiligung.",
+    "summary_abuse": "Global-e verarbeitet grenzüberschreitende Zahlungen mit üblicher Card-not-present-Betrugsexposition, arbeitet aber unter regulierter Zahlungsaufsicht und mit PCI-DSS-Compliance. Keine nennenswerten plattformspezifischen Missbrauchsvorfälle."
+  },
+  "GlobalShopex": {
+    "description": "GlobalShopex bietet eine leicht integrierbare E-Commerce-Logistiklösung, die Online-Unternehmen beim Verkauf in über 200 Länder unterstützt.",
+    "history": "GlobalShopex ist eine Lösung für grenzüberschreitenden E-Commerce und internationalen Versand, gegründet um 2008 in den USA. Grössere Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "GlobalShopex ist ein Anbieter für grenzüberschreitenden Versand mit üblicher E-Commerce-Betrugsexposition. Spezifische nennenswerte Vorfälle sind nicht dokumentiert."
+  },
+  "Globo Also Bought": {
+    "description": "Also Bought ist eine Conversion-App für Shopify von Globo.",
+    "history": "Globo Also Bought ist eine Shopify-App von Globo Software Solutions, einem vietnamesischen Unternehmen, die Shopify-Shops Produktempfehlungen für häufig gemeinsam gekaufte Artikel hinzufügt.",
+    "summary_abuse": "Globo Also Bought ist eine Shopify-App für Produktempfehlungen ohne dokumentiertes Missbrauchssignal."
+  },
+  "Globo Color Swatch": {
+    "description": "Die App Globo Color Swatch bietet ein einfach nutzbares Werkzeug, um Produktvarianten auf Kategorieseiten, der Homepage und Produktseiten kreativ darzustellen, die Kundenerfahrung zu verbessern und Käufe anzuregen.",
+    "history": "Globo Color Swatch ist eine Shopify-App von Globo, einem vietnamesischen App-Entwickler, die Shopify-Shops Farb- und Bild-Swatches für Produktvarianten hinzufügt. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Globo Color Swatch ist eine Shopify-App zur Darstellung von Produktvarianten ohne nennenswertes Missbrauchssignal; sie läuft im Shopify-Händlerökosystem und hat keine endnutzerseitige Content-Hosting-Fläche."
+  },
+  "Globo Form Builder": {
+    "description": "Form Builder ist eine Shopify-App zum Erstellen von Kontaktformularen von Globo.",
+    "history": "Globo Form Builder ist eine Shopify-App für Kontaktformular-Builder von Globo, einem vietnamesischen Shopify-App-Entwickler. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Globo Form Builder ist eine Shopify-App für Kontaktformulare ohne nennenswertes Missbrauchssignal; sie läuft im Shopify-Händlerökosystem und sammelt Formulareingaben nur für Shopbetreiber."
+  },
+  "Globo Pre-Order": {
+    "description": "Globo Pre-Order ist eine Shopify-App zum Aufbau von Vorbestellfunktionen in Shopify-Shops.",
+    "history": "Globo Pre-Order ist eine Shopify-App für Vorbestellmanagement von Globo, einem vietnamesischen Shopify-App-Entwickler. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Globo Pre-Order ist eine Shopify-App für Vorbestellfunktionen ohne nennenswertes Missbrauchssignal; sie läuft im Shopify-Händlerökosystem und verwaltet Vorbestellabläufe für Shopbetreiber."
+  },
+  "GlobRes": {
+    "description": "GlobRes ist eine Hospitality-Management-Lösung, die Betrieb, Reservierungen und Kundenservice für Hotels und andere Beherbergungsanbieter vereinfacht.",
+    "history": "GlobRes ist ein globales Hotelreservierungssystem, gegründet um 2000, das zentrale Reservierungssoftware für unabhängige Hotels bereitstellt.",
+    "summary_abuse": "GlobRes ist eine SaaS für Hotelreservierungen ohne dokumentiertes Missbrauchssignal; sie arbeitet im B2B-Hospitality-Kontext."
+  },
+  "Glofox": {
+    "description": "Glofox ist eine Fitness-Management-Plattform, die Fitnessstudios und Studios bei Mitgliedschaften, Kursplanung und weiteren Geschäftsabläufen unterstützt.",
+    "history": "Glofox ist eine Verwaltungssoftware für Fitnessstudios und Fitnessstudios, gegründet 2014 in Dublin, Irland. Das Unternehmen nahm Series-B-Finanzierung auf und wurde 2022 von ABC Fitness Solutions übernommen.",
+    "summary_abuse": "Glofox ist eine SaaS für Fitnessstudio-Management ohne nennenswertes Missbrauchssignal; sie arbeitet im B2B-Kontext der Fitnessbranche."
+  },
+  "Gloo": {
+    "description": "Gloo ist eine Plattform, die Kirchen beim Aufbau einer stärker vernetzten Gemeindearbeit unterstützt.",
+    "history": "Gloo ist ein Open-Source-API-Gateway und Service Mesh auf Basis von Envoy Proxy, entwickelt von Solo.io, gegründet 2017. Solo.io nahm Series-C-Finanzierung auf. Gloo Edge ist die Ingress-Controller-Variante.",
+    "summary_abuse": "Gloo ist ein API-Gateway ohne nennenswertes Missbrauchssignal. Es ist Backend-Infrastruktur, die in privaten Cloud-Umgebungen betrieben wird."
+  },
+  "Glopal": {
+    "description": "Glopal bietet fortgeschrittene internationale Marketinglösungen für E-Commerce-Händler und Marken, die global wachsen wollen.",
+    "history": "Glopal wurde 2020 von Patrick Smarzynski und Benjamin Cohen gegründet, die zuvor 2007 Webinterpret mitgegründet hatten. Das Unternehmen entstand als Schwesterfirma aus Webinterpret, um grenzüberschreitenden E-Commerce für grosse Marken und Händler abzudecken. Glopal nahm 20 Millionen Euro unter Führung von Hi Inov Dentressangle und Credit Mutuel Innovation auf. Die Plattform hat ihren Hauptsitz in Paris und Büros in acht Ländern.",
+    "summary_abuse": "Glopal ist eine B2B-Plattform für grenzüberschreitende E-Commerce-Lokalisierung für Enterprise-Händler und Luxusmarken. Das reine Enterprise-Modell und der enge Anwendungsfall bedeuten minimale Exposition gegenüber endnutzernahem Missbrauch oder Betrug. Dokumentierte Missbrauchsmuster sind mit der Plattform nicht verbunden."
+  },
+  "GloriaFood": {
+    "description": "GloriaFood ist eine Plattform für Online-Bestellungen und Essenslieferung, die Restaurantbetreibern hilft, Bestellungen zu verwalten und Point-of-Sale-Abläufe zu vereinfachen.",
+    "history": "GloriaFood ist ein Online-Bestellsystem für Restaurants, gegründet 2012 in Rumänien. Es bietet eine kostenlose Stufe für kleine Restaurants. Oracle übernahm GloriaFood 2021 und benannte es in Oracle MICROS Online Ordering um.",
+    "summary_abuse": "GloriaFood ist eine Restaurant-Bestellplattform mit geringer Missbrauchsexposition, wie sie für Online-Bestellsysteme typisch ist. Bedeutende spezifische Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "Glow": {
+    "description": "Glow ist eine Rewards-Plattform, die Unternehmen hilft, Wiederholungskäufe zu steigern, indem einmalige Käufer über strukturierte Kundenbindungsprogramme zur Rückkehr motiviert werden.",
+    "history": "Glow ist eine Plattform für Kundenloyalität und Rewards im E-Commerce, die Händlern hilft, Wiederholungskäufe über strukturierte Loyalty-Programme zu steigern. Die Plattform integriert sich mit Shopify und anderen E-Commerce-Plattformen. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Glow ist eine Plattform für E-Commerce-Loyalty-Programme ohne nennenswerte dokumentierte Missbrauchsmuster. Der Anwendungsfall, wiederkehrende Kunden in etablierten E-Commerce-Shops zu belohnen, bietet nur eine minimale Fläche für Betrug oder Missbrauch."
+  },
+  "GLPI": {
+    "description": "GLPI ist ein Open-Source-System für IT Asset Management, Issue-Tracking und Service Desk.",
+    "history": "GLPI (Gestionnaire Libre de Parc Informatique) ist eine freie Open-Source-Software für IT-Asset-Management und Service Desk, die 2003 erstmals von Teclib veröffentlicht wurde; sie wird in Frankreich und international breit eingesetzt, besonders in öffentlichen Organisationen und Unternehmen. Teclib wurde als kommerzielle Einheit hinter GLPI gegründet und bietet Cloud- und Support-Dienste an. GLPI ist zu einem der beliebtesten IT-Service-Management-Werkzeuge in französischsprachigen Ländern geworden.",
+    "summary_abuse": "GLPI ist ein Open-Source-Werkzeug für IT-Service-Management und Asset-Tracking. Als Enterprise-IT-Infrastruktursoftware ohne Endnutzeroberfläche hat es ein minimales Missbrauchsrisiko. Über die Jahre wurden CVEs in GLPI gefunden, teils mit Authentication Bypass oder Remote Code Execution, doch das sind Softwaresicherheitsprobleme und kein Missbrauch auf Plattformebene."
+  },
+  "GLS": {
+    "description": "GLS bietet Paket-, Logistik- und Expressdienste in Europa sowie in den USA und Kanada an.",
+    "history": "GLS (General Logistics Systems) wurde 1989 in den Niederlanden gegründet. Das Unternehmen wuchs zu einem grossen europäischen Paketliefernetz mit Betrieb in 41 Ländern. Royal Mail Group übernahm GLS im Jahr 2000, und GLS ist weiterhin eine hundertprozentige Tochtergesellschaft. GLS arbeitet als eigenständiges Netzwerk mit eigenen IT-Systemen für Sendungsverfolgung und E-Commerce-Integration.",
+    "summary_abuse": "GLS ist ein grosser europäischer Paketdienst. Seine Tracking- und Logistik-APIs sind Enterprise-B2B-Werkzeuge. Die Marke GLS wird häufig in Paketliefer-Phishingkampagnen gegen Verbraucher nachgeahmt, doch das ist externer Markenmissbrauch und keine Plattformschwachstelle. GLS selbst hat übliche Anti-Phishing-Massnahmen."
+  },
+  "GlueUp": {
+    "description": "GlueUp ist eine All-in-one-CRM-Plattform.",
+    "history": "Glue Up, früher EventBank, wurde 2013 gegründet und hat seinen Hauptsitz in McLean, Virginia, USA. Es ist eine All-in-one-Plattform für CRM und Eventmanagement, die weltweit Verbände und Nonprofits bedient. Nennenswerte Übernahmen sind nicht bekannt.",
+    "summary_abuse": "GlueUp ist eine CRM- und Eventmanagement-Plattform für Verbände ohne nennenswertes Missbrauchssignal; sie bietet kein endnutzerseitiges Content-Hosting oder anonyme Registrierungen."
+  },
+  "Glyphicons": {
+    "description": "Glyphicons sind Icon-Fonts, die du in Webprojekten verwenden kannst.",
+    "history": "Glyphicons ist eine Icon-Font-Bibliothek, erstellt von Jan Kovvar und erstmals um 2010 veröffentlicht; sie fand breite Verbreitung als Standard-Icon-Set, das mit Bootstrap 2 und Bootstrap 3 gebündelt war. Bootstrap 4 entfernte die gebündelte Glyphicons-Abhängigkeit.",
+    "summary_abuse": "Glyphicons ist eine statische Icon-Font-Bibliothek ohne Missbrauchsfläche."
+  },
+  "Gnuboard": {
+    "description": "Gnuboard ist ein Open-Source-Bulletin-Board-System oder CMS aus Südkorea.",
+    "history": "Gnuboard ist ein Open-Source-Bulletin-Board- und CMS-System, das in Südkorea beliebt ist und um 2000 erstellt wurde. Es wird breit für koreanischsprachige Websites und Community-Portale genutzt.",
+    "summary_abuse": "Gnuboard ist ein CMS, das in Südkorea beliebt ist. Wie bei jedem CMS mit nutzergenerierten Inhalten sind Spam und unerwünschte Beiträge übliche betriebliche Themen, doch die Plattform selbst hat kein überdurchschnittliches Missbrauchsprofil."
+  },
+  "Go": {
+    "description": "Go ist eine quelloffene High-Level-Programmiersprache.",
+    "history": "Go, auch Golang genannt, ist eine statisch typisierte kompilierte Sprache, die von Robert Griesemer, Rob Pike und Ken Thompson bei Google entwickelt und 2009 öffentlich veröffentlicht wurde; sie sollte wahrgenommene Schwächen anderer bei Google genutzter Sprachen adressieren. Go ist Open Source und wird von Google gepflegt.",
+    "summary_abuse": "Go ist eine grundlegende Programmiersprache ohne endnutzerseitige Missbrauchsfläche."
+  },
+  "Go Instore": {
+    "description": "Go Instore nutzt hochauflösendes Live-Video, um Online-Kunden mit Produktexperten im Laden zu verbinden.",
+    "history": "Go Instore wurde 2014 im Vereinigten Königreich als Live-Video-Retail-Plattform gegründet, die Online-Käufer mit Experten im Laden verbindet. Emplifi übernahm das Unternehmen im September 2021 und integrierte es als Live-Commerce-Produkt.",
+    "summary_abuse": "Go Instore ist eine B2B-Plattform für Live-Video-Commerce ohne nennenswertes Missbrauchssignal; sie verbindet Online-Kunden per Live-Video mit Retail-Mitarbeitenden und bietet kein anonymes Content-Hosting."
+  },
+  "GoAffPro": {
+    "description": "Goaffpro ist eine Affiliate-Marketing-Lösung für E-Commerce-Shops.",
+    "history": "GoAffPro ist eine Affiliate-Marketing-Plattform für E-Commerce-Shops mit Integrationen für Shopify, WooCommerce und BigCommerce; sie wurde um 2017 gegründet und bietet sowohl eine kostenlose Stufe als auch Premium-Pläne für kleine Unternehmen. Händler können gebrandete Affiliate-Portale einrichten, in denen sich Kunden und Influencer registrieren, Empfehlungslinks erzeugen und Provisionen auf Verkäufe verdienen. Die Plattform ist vor allem im Shopify-App-Ökosystem beliebt.",
+    "summary_abuse": "GoAffPro ist eine Affiliate-Marketing-Plattform mit moderatem Missbrauchspotenzial. Affiliate-Programme sind allgemein anfällig für Affiliate-Betrug wie gefälschte Klicks, Cookie Stuffing oder Selbstempfehlungen, und kleinere Plattformen wie GoAffPro haben im Vergleich zu grossen Enterprise-Lösungen begrenzte automatische Betrugserkennung. Grosse dokumentierte Missbrauchsvorfälle speziell zu GoAffPro wurden öffentlich nicht gemeldet."
+  },
+  "GoAhead": {
+    "history": "GoAhead ist ein leichtgewichtiger Embedded-Webserver, der ursprünglich 1995 von GoAhead Software entwickelt wurde. EmbedThis Software übernahm die Codebasis und pflegt die Open-Source-Version weiter. Er wird breit in Embedded-Geräten und IoT eingesetzt.",
+    "summary_abuse": "GoAhead ist ein Embedded-Webserver ohne nennenswerte endnutzerseitige Missbrauchsfläche."
+  },
+  "GoAnywhere": {
+    "description": "GoAnywhere von HelpSystems ist ein Managed-File-Transfer-System (MFT) mit Funktionen für Teilen und Zusammenarbeit.",
+    "history": "GoAnywhere MFT ist eine Managed-File-Transfer-Plattform von Fortra, früher HelpSystems, die um 2003 erstmals veröffentlicht wurde. Anfang 2023 wurde eine kritische Zero-Day-Schwachstelle (CVE-2023-0669) von der Clop-Ransomware-Gruppe ausgenutzt, um vor der Veröffentlichung eines Patches über 130 Organisationen anzugreifen.",
+    "summary_abuse": "GoAnywhere MFT wurde 2023 in einer grossen Ransomware-Kampagne (Clop/CVE-2023-0669) ausgenutzt, die über 130 Organisationen betraf, darunter Gesundheits- und Finanzunternehmen. Es handelte sich um einen supply-chain-artigen Angriff auf die Dateiübertragungsplattform selbst. Fortra veröffentlichte rasch Patches, doch das Zero-Day-Fenster verursachte erheblichen Schaden."
+  },
+  "Goat Slider": {
+    "description": "Goat Slider ist eine Webflow-Bibliothek, mit der Nutzer fortgeschrittene Slider für ihre Websites bauen können.",
+    "history": "Goat Slider ist eine JavaScript-Slider-Bibliothek für Webflow. Es ist nur begrenzt öffentliche Historie verfügbar.",
+    "summary_abuse": "Goat Slider ist eine Webflow-Slider-Bibliothek ohne nennenswertes Missbrauchssignal; sie ist eine clientseitige UI-Komponente ohne gehostete Oberfläche."
+  },
+  "Goat Systems": {
+    "description": "Goat Systems ist ein Anbieter von Marketingautomatisierungs- und CRM-Software zur Unterstützung von Unternehmenswachstum.",
+    "history": "Goat Systems ist ein kleiner Anbieter von Marketingautomatisierungs- und CRM-Software. Es ist nur begrenzt öffentliche Historie verfügbar.",
+    "summary_abuse": "Goat Systems ist ein kleines spezialisiertes Marketingautomatisierungs-CRM ohne dokumentiertes nennenswertes Missbrauchssignal."
+  },
+  "GoatCounter": {
+    "description": "GoatCounter ist eine Open-Source-Plattform für Web Analytics, verfügbar als gehosteter Dienst (kostenlos für nichtkommerzielle Nutzung) oder als selbst gehostete App; sie will einfach nutzbare und aussagekräftige datenschutzfreundliche Web Analytics als Alternative zu Google Analytics oder Matomo bieten.",
+    "history": "GoatCounter wurde von Martin Tournoij (arp242) erstellt und 2019 als datenschutzfreundliche Alternative zu Google Analytics veröffentlicht. In Go geschrieben, nutzt es keine Cookies und verfolgt keine einzelnen Nutzer, wodurch es sich als von Grund auf GDPR-konform positioniert. Das Projekt wird durch Spenden unterstützt, von einem einzelnen Entwickler gepflegt und hat eine aktive Community auf GitHub. Es ist als gehosteter Dienst und als selbst gehostetes Open-Source-Binary verfügbar.",
+    "summary_abuse": "GoatCounter hat keine sinnvoll dokumentierte Missbrauchsexposition. Es ist ein datenschutzorientiertes Analytics-Tool, das keine personenbezogenen Daten sammelt, was es zu einem unwahrscheinlichen Ziel für Datendiebstahl oder Missbrauch macht. Als Open-Source-Projekt eines einzelnen Maintainers fehlt dedizierte Anti-Abuse-Infrastruktur, doch der minimale Umfang der Datenerfassung begrenzt das Risiko."
+  },
+  "GOb2b": {
+    "description": "Gob2b ist eine E-Commerce-Integrationslösung, die einen Online-Shop mit einem Sage-ERP-Backend verbindet und den Datenfluss vereinfacht.",
+    "history": "GOb2b ist eine portugiesische B2B-E-Commerce-Plattform für Grosshandels- und Distributorbestellungen, gegründet um 2010. Unternehmen können damit ein gebrandetes Online-Bestellportal für ihre Geschäftskunden erstellen. Nennenswerte Übernahmen oder kontroverse Ereignisse sind nicht dokumentiert.",
+    "summary_abuse": "GOb2b ist eine portugiesische B2B-E-Commerce-Plattform ohne dokumentierte Missbrauchsvorfälle. Als Business-to-Business-Bestellwerkzeug ist die endnutzerseitige Oberfläche begrenzt und das Missbrauchsrisiko niedrig."
+  },
+  "Gobot": {
+    "description": "Gobot ist ein Tool, das Website-Leads, Verkäufe und Engagement durch einen Konversationsbot steigert.",
+    "history": "Gobot wurde 2017 gegründet und hat seinen Hauptsitz in New Jersey, USA. Es ist eine Conversational-Chatbot-Plattform zur Steigerung von Website-Leads und Verkäufen. Nennenswerte Übernahmen sind nicht bekannt.",
+    "summary_abuse": "Gobot ist eine Website-Chatbot- und Lead-Generation-Plattform ohne nennenswertes Missbrauchssignal; sie bietet kein öffentliches Content-Hosting oder anonyme Registrierungen."
+  },
+  "GoCache": {
+    "description": "GoCache ist ein In-Memory-Key-Value-Store und Cache ähnlich wie memcached, geeignet für Anwendungen auf einer einzelnen Maschine.",
+    "history": "GoCache wurde 2013 in Brasilien als CDN- und WAF-Plattform mit Fokus auf den brasilianischen Markt gegründet. Es bietet Content Delivery, DDoS-Schutz und Web Application Firewall Services mit Points of Presence in allen Regionen Brasiliens. Die Plattform schützt über 150'000 Websites und Anwendungen. Grössere Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "GoCache ist ein CDN- und WAF-Infrastrukturanbieter mit Schwerpunkt auf dem brasilianischen Markt. CDN-Dienste können zum Zwischenspeichern und Ausliefern schädlicher Inhalte genutzt werden, doch GoCaches WAF-Positionierung und aktiver DDoS-Schutz sprechen für eine sicherheitsbewusste Haltung. Spezifische öffentliche Missbrauchsvorfälle sind für diesen Anbieter nicht dokumentiert."
+  },
+  "GoCertify": {
+    "description": "GoCertify ist eine conversion-orientierte und kosteneffiziente Möglichkeit, Studierende, Schlüsselarbeitskräfte, Unter-26-Jährige, Über-60-Jährige, Militärangehörige und weitere Gruppen für exklusive Rabatte zu verifizieren.",
+    "history": "GoCertify ist eine bootstrapped Verifizierungsplattform aus dem Vereinigten Königreich, gegründet von Jonny Matthews; sie prüft die Berechtigung für Studierenden-, Key-Worker-, Militär- und altersbasierte Rabatte bei Händlern und ist ohne externe Investitionen auf über 350 Retail-Partner gewachsen.",
+    "summary_abuse": "GoCertify ist eine Plattform zur Berechtigungsverifizierung für Retail-Rabatte. Das Verifizierungs-Gateway könnte potenziell auf Umgehungen getestet werden, doch das Unternehmen bedient legitime Händler und sein Hauptanwendungsfall ist die Verhinderung betrügerischer Rabattansprüche, nicht deren Ermöglichung."
+  },
+  "GoDaddy": {
+    "description": "GoDaddy wird als Webhoster und Domain-Registrar genutzt.",
+    "history": "GoDaddy wurde 1997 von Bob Parsons als Jomax Technologies gegründet und 1999 in GoDaddy umbenannt. Es wurde zum weltweit grössten Domain-Registrar. GoDaddy ging 2015 an der NYSE an die Börse. Das Unternehmen wuchs durch zahlreiche Übernahmen in den Bereichen Domains, Hosting und Website-Building.",
+    "summary_abuse": "GoDaddy wird stark für Domainregistrierungen in Phishing- und Scam-Kampagnen missbraucht. Als weltweit grösster Domain-Registrar läuft ein erheblicher Anteil neu registrierter bösartiger Domains über GoDaddy. Das Unternehmen bearbeitet Abuse-Meldungen und sperrt Konten, doch das enorme Volumen und die niedrigen Kosten von Domainregistrierungen machen es für Angreifer attraktiv. GoDaddy erlitt zudem mehrere grosse Datenlecks."
+  },
+  "GoDaddy CoBlocks": {
+    "description": "GoDaddy CoBlocks ist eine Suite professioneller Page-Building-Content-Blöcke für den WordPress-Gutenberg-Blockeditor.",
+    "history": "GoDaddy CoBlocks ist ein Open-Source-WordPress-Gutenberg-Block-Plugin von GoDaddy, ursprünglich 2018 von Rich Tabor erstellt und später von GoDaddy übernommen.",
+    "summary_abuse": "GoDaddy CoBlocks ist ein WordPress-Plugin ohne nennenswertes Missbrauchssignal über die üblichen Aspekte des WordPress-Plugin-Ökosystems hinaus."
+  },
+  "GoDaddy Domain Parking": {
+    "description": "GoDaddy wird als Webhoster und Domain-Registrar genutzt.",
+    "history": "GoDaddy Domain Parking ist ein Dienst, der Werbeseiten auf ungenutzte registrierte Domains legt und seit den späten 1990er-Jahren Teil von GoDaddys Kerngeschäft mit Domains ist.",
+    "summary_abuse": "GoDaddy Domain Parking wird häufig mit Typosquatting und Markenmissbrauch verbunden. Geparkte Domains mit Werbung enthalten oft bösartige Anzeigen oder irreführende Inhalte. Durch GoDaddys Grösse als weltweit grösster Registrar läuft ein grosses Volumen geparkter Domains durch sein Parking-System."
+  },
+  "GoDaddy Escapade": {
+    "description": "GoDaddy Escapade ist ein GoDaddy-Primer-Child-Theme mit einer einzigartigen Sidebar-Navigation.",
+    "history": "Ein von GoDaddy entwickeltes Open-Source-WordPress-Child-Theme auf Basis des Primer-Parent-Themes. Es wird auf GitHub unter der Organisation godaddy-wordpress gehostet. Über die Erstveröffentlichung hinaus sind keine nennenswerten Ereignisse bekannt.",
+    "summary_abuse": "Dieses GoDaddy-WordPress-Child-Theme hat kein nennenswertes Missbrauchssignal. Es ist eine statische Theme-Datei ohne gehostete Oberfläche, die Scammer ausnutzen könnten."
+  },
+  "GoDaddy Go": {
+    "description": "GoDaddy Go ist ein flexibles Gutenberg-first-WordPress-Theme für Macher überall.",
+    "history": "GoDaddy Go ist ein Open-Source-Gutenberg-first-WordPress-Theme, das von GoDaddy entwickelt und auf GitHub veröffentlicht wurde. Es ist ein eigenständiges flexibles Theme und basiert nicht auf Primer. Seit der Veröffentlichung sind keine nennenswerten Ereignisse bekannt.",
+    "summary_abuse": "GoDaddy Go ist ein Open-Source-WordPress-Theme ohne nennenswertes Missbrauchssignal. Es ist eine Theme-Datei ohne gehostete Dienste oder endnutzerseitige Angriffsfläche."
+  },
+  "GoDaddy Lyrical": {
+    "description": "GoDaddy Lyrical ist ein GoDaddy-Primer-Child-Theme mit Fokus auf Fotografie und schöne Schriften.",
+    "history": "Ein von GoDaddy entwickeltes Open-Source-WordPress-Child-Theme auf Basis des Primer-Parent-Themes. Es wird auf GitHub unter der Organisation godaddy-wordpress gehostet. Über die Erstveröffentlichung hinaus sind keine nennenswerten Ereignisse bekannt.",
+    "summary_abuse": "Dieses GoDaddy-WordPress-Child-Theme hat kein nennenswertes Missbrauchssignal. Es ist eine statische Theme-Datei ohne gehostete Oberfläche, die Scammer ausnutzen könnten."
+  },
+  "GoDaddy Online Store": {
+    "history": "GoDaddy Online Store ist ein E-Commerce-Builder innerhalb von GoDaddys Website-Builder-Produkten und entwickelte sich aus verschiedenen E-Commerce-Übernahmen der 2000er- und 2010er-Jahre.",
+    "summary_abuse": "GoDaddy Online Store betreibt viele Storefronts kleiner Unternehmen. Als verbreitete E-Commerce-Plattform gibt es dokumentierte Fälle von Fake-Shops und Scam-Betrieben auf ihrer Infrastruktur. GoDaddy bearbeitet Abuse-Meldungen, doch die einfache Einrichtung zieht betrügerische Händler an."
+  },
+  "GoDaddy Primer": {
+    "description": "GoDaddy Primer ist ein leistungsfähiges Theme, das deine Inhalte in einem frischen Design klarer macht. Es ist das Parent-Theme für alle Themes der GoDaddy-Primer-Familie.",
+    "history": "GoDaddy Primer ist ein Open-Source-WordPress-Parent-Theme, das von GoDaddy als Basis für mehrere Child-Themes entwickelt wurde, darunter Escapade, Lyrical und Uptown Style. Es wird auf GitHub gehostet. Seit der Erstveröffentlichung sind keine nennenswerten Ereignisse bekannt.",
+    "summary_abuse": "GoDaddy Primer ist ein Open-Source-WordPress-Parent-Theme ohne nennenswertes Missbrauchssignal. Es ist eine Theme-Datei ohne gehostete Dienste oder endnutzerseitige Angriffsfläche."
+  },
+  "GoDaddy Uptown Style": {
+    "description": "GoDaddy Uptown Style ist ein GoDaddy-Primer-Child-Theme mit Eleganz und Klasse.",
+    "history": "Ein von GoDaddy entwickeltes Open-Source-WordPress-Child-Theme auf Basis des Primer-Parent-Themes. Es wird auf GitHub unter der Organisation godaddy-wordpress gehostet. Über die Erstveröffentlichung hinaus sind keine nennenswerten Ereignisse bekannt.",
+    "summary_abuse": "Dieses GoDaddy-WordPress-Child-Theme hat kein nennenswertes Missbrauchssignal. Es ist eine statische Theme-Datei ohne gehostete Oberfläche, die Scammer ausnutzen könnten."
+  },
+  "GoDaddy Website Builder": {
+    "history": "GoDaddy Website Builder ist ein Drag-and-drop-Werkzeug zur Website-Erstellung von GoDaddy, das sich aus mehreren Plattformübernahmen der 2000er- und 2010er-Jahre entwickelt hat. Heute basiert es auf einem proprietären Builder.",
+    "summary_abuse": "GoDaddy Website Builder wird zum Erstellen betrügerischer und scamartiger Websites genutzt. Die einfache Bedienung und GoDaddys Bekanntheit ziehen sowohl legitime Nutzer als auch Angreifer an. GoDaddy hat Abuse-Richtlinien veröffentlicht und reagiert auf Takedown-Anfragen, doch die Grösse des Hostings führt zu erheblichen Missbrauchsvolumen."
+  },
+  "Godot": {
+    "description": "Godot ist eine Game Engine, die den Export nach HTML5 mit WebAssembly-Kompatibilität unterstützt.",
+    "history": "Godot ist eine plattformübergreifende Open-Source-Game-Engine, erstellt von Juan Linietsky und Ariel Manzur. Nach der Öffnung des Quellcodes wurde sie 2014 erstmals veröffentlicht. Heute ist sie eine der beliebtesten Open-Source-Game-Engines und wird von der Software Freedom Conservancy verwaltet. Nach Unitys umstrittenen Preisänderungen 2023 wuchs die Community massiv.",
+    "summary_abuse": "Godot ist eine Game Engine ohne nennenswertes Missbrauchssignal; sie ist ein Desktop-Entwicklungswerkzeug ohne endnutzerseitige gehostete Oberfläche."
+  },
+  "Goftino": {
+    "description": "Goftino ist ein Online-Chatdienst für Webnutzer.",
+    "history": "Goftino ist ein iranischer Live-Chatdienst mit Hauptsitz in Teheran, Iran. Er bedient vor allem iranische Websites. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Goftino ist eine iranische Live-Chat-Plattform, die vor allem den iranischen Markt bedient und ausserhalb ihrer Region kein grosses dokumentiertes Missbrauchssignal hat. Das Chat-Widget wird in Websites eingebettet, bietet aber kein beliebiges Content-Hosting."
+  },
+  "Gogs": {
+    "description": "Gogs ist ein selbst gehosteter Git-Dienst, geschrieben in Go.",
+    "history": "Gogs ist ein selbst gehosteter Git-Dienst in Go, erstellt von Unknwon (Jiahua Chen) und erstmals 2014 veröffentlicht. Gitea wurde 2016 von Gogs abgespalten, weil die Upstream-Entwicklung langsam vorankam.",
+    "summary_abuse": "Gogs ist ein selbst gehosteter Git-Server ohne nennenswertes inhärentes Missbrauchssignal. Wie jede Code-Hosting-Plattform könnten einzelne Instanzen schädlichen Code hosten, doch Missbrauch hängt von der Deployment-Konfiguration ab."
+  },
+  "GoJS": {
+    "history": "GoJS wurde 2012 von der Northwoods Software Corporation lanciert, die 1994 in New Hampshire, USA, gegründet wurde. Es ist eine kommerzielle JavaScript-Diagrammbibliothek zum Erstellen interaktiver Flussdiagramme und Organigramme. Seitdem sind keine nennenswerten Eigentümerwechsel bekannt.",
+    "summary_abuse": "GoJS ist eine kommerzielle JavaScript-Diagrammbibliothek ohne nennenswertes Missbrauchssignal; sie ist eine clientseitige Rendering-Bibliothek ohne gehostete Content-Oberfläche."
+  },
+  "GoKwik": {
+    "description": "GoKwik ist eine Plattform zur Lösung von Problemen im Einkaufserlebnis auf E-Commerce-Websites.",
+    "history": "GoKwik ist eine indische E-Commerce-Enablement-Plattform, die 2020 gegründet wurde und sich auf Checkout-Optimierung sowie Retourenmanagement für indische Onlinehändler konzentriert. Das Unternehmen erhielt eine Series-C-Finanzierung.",
+    "summary_abuse": "GoKwik ist ein B2B-SaaS für E-Commerce-Checkout-Optimierung ohne auffälliges Missbrauchssignal."
+  },
+  "Golden Volunteer": {
+    "description": "Golden Volunteer ist eine Plattform für Freiwilligenmanagement, die Automatisierung und Fundraising-KI nutzt, um Aufgaben zu vereinfachen, Compliance zu sichern und Freiwillige beim Übergang zu Spendern zu unterstützen.",
+    "history": "Golden Volunteer ist eine Softwareplattform für Freiwilligenmanagement bei Nonprofits, die um 2010 in den USA gegründet wurde.",
+    "summary_abuse": "Golden Volunteer ist ein Nischen-SaaS für Freiwilligenmanagement bei Nonprofits ohne dokumentiertes Missbrauchssignal."
+  },
+  "Gomag": {
+    "description": "Gomag ist eine rumänische E-Commerce-Plattform für B2B und B2C.",
+    "history": "Gomag ist eine rumänische E-Commerce-Plattform, die 2012 gegründet wurde und gehostete Onlineshop-Lösungen für rumänische Händler anbietet.",
+    "summary_abuse": "Gomag ist eine regionale E-Commerce-Plattform mit den üblichen Missbrauchsrisiken im Onlinehandel. Es sind keine auffälligen spezifischen Vorfälle dokumentiert."
+  },
+  "GoMage": {
+    "description": "GoMage ist ein Magento-Entwicklungsunternehmen mit 10 Jahren Erfahrung.",
+    "history": "GoMage ist eine Agentur für Magento und Adobe Commerce sowie Anbieterin von Extensions mit mehr als 10 Jahren Erfahrung. Das Unternehmen liefert individuelle Magento-Umsetzungen, PWA-Entwicklung und einen Katalog von Magento-Extensions wie LightCheckout, Feed Pro und SEO Booster. GoMage ist zertifizierter Adobe Commerce Partner. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "GoMage bietet Magento-Entwicklungsleistungen und Extensions für E-Commerce-Websites von Händlern an. Als Backend-Entwicklungstools und auf Kundensystemen installierte Erweiterungen haben sie keine direkte verbraucherseitige Missbrauchsfläche. Zu GoMage-Produkten sind keine dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "Gong": {
+    "description": "Gong ist eine KI-gestützte Plattform, die Kundeninteraktionen erfasst und analysiert, um Revenue-Teams Erkenntnisse für bessere Prognosen und Verkaufsleistung zu liefern.",
+    "history": "Gong ist eine Revenue-Intelligence-Plattform, die 2015 in Israel gegründet wurde und ihren Hauptsitz in San Francisco hat; sie nutzt KI, um Verkaufsgespräche und Kundeninteraktionen zu analysieren. 2020 erreichte Gong eine Unicorn-Bewertung und nahm insgesamt über 580 Millionen US-Dollar Kapital auf.",
+    "summary_abuse": "Gong zeichnet Verkaufsgespräche auf und analysiert sie, wodurch sensible Geschäftskommunikation verarbeitet wird. Datenschutzbedenken bestehen vor allem bei Gesprächsaufzeichnung und Datenaufbewahrung. Der Dienst arbeitet im Enterprise-Kontext mit SOC 2 Compliance und reagiert in der Regel auf Sicherheitsmeldungen."
+  },
+  "Goober": {
+    "description": "Goober ist eine minimierte CSS-in-JS-Styling-Lösung.",
+    "history": "Goober ist eine leichtgewichtige CSS-in-JS-Bibliothek, die um 2020 veröffentlicht wurde; sie ist von styled-components inspiriert, hat aber eine deutlich kleinere Bundle-Grösse.",
+    "summary_abuse": "Goober ist eine CSS-in-JS-Bibliothek ohne Missbrauchsfläche."
+  },
+  "GoodAPI": {
+    "description": "GoodAPI ist eine Plattform, die Unternehmen hilft, Conversions zu steigern und gleichzeitig ökologische Nachhaltigkeit durch Baumpflanzungen zu unterstützen.",
+    "history": "GoodAPI ist eine Nachhaltigkeits-API, mit der E-Commerce-Händler bei jedem Verkauf Bäume pflanzen, Plastik aus dem Meer entfernen oder Ökosysteme wiederherstellen lassen können. Öffentlich sind nur begrenzte Gründungsinformationen verfügbar.",
+    "summary_abuse": "GoodAPI ist eine API für Nachhaltigkeitswirkung ohne auffälliges Missbrauchssignal; sie verknüpft Händlertransaktionen mit Umweltmassnahmen und bietet kein verbraucherseitiges Content-Hosting."
+  },
+  "GoodApps": {
+    "description": "GoodApps entwickelt E-Commerce-Tools und bietet anpassbare Lösungen zum Erstellen und Verwalten von Onlineshops.",
+    "history": "GoodApps ist ein Anbieter von E-Commerce-Tools mit anpassbaren Lösungen für Onlineshops. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "GoodApps ist eine kleine Plattform für E-Commerce-Werkzeuge ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "Goodbits": {
+    "description": "Goodbits ist eine Software zum Erstellen von E-Mail-Newslettern, die beim Sammeln und Kuratieren von Inhalten für den Newsletter-Versand hilft.",
+    "history": "Goodbits wurde 2014 als Tool zum Erstellen, Kuratieren und Versenden von Content-Newslettern gegründet. Das Produkt ist bootstrapped, auffällige Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "Goodbits ist ein kleines Tool zur Newsletter-Erstellung ohne auffälliges Missbrauchssignal. Es wird von legitimen Publishern zum Kuratieren von E-Mail-Newslettern genutzt und bietet kein beliebiges Content-Hosting."
+  },
+  "GoodEshop": {
+    "description": "GoodEshop ist ein Online-Tool für E-Commerce-Management.",
+    "history": "GoodEshop ist ein slowakisches Online-Tool für E-Commerce-Management. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "GoodEshop ist ein kleines regionales Tool für E-Commerce-Management ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "GoodReviews": {
+    "description": "GoodReviews ist ein Tool, das Google-Bewertungen anzeigt und sammelt, um Online-Reputationsmanagement und das Nachverfolgen von Kundenfeedback zu unterstützen.",
+    "history": "GoodReviews ist ein Tool für Online-Reputationsmanagement, das Google-Bewertungen für Unternehmen anzeigt und sammelt. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "GoodReviews ist ein Aggregationstool für Google-Bewertungen ohne auffälliges Missbrauchssignal. Es zeigt öffentliche Bewertungen an und bietet weder beliebiges Content-Hosting noch anonyme Registrierungen."
+  },
+  "Goodsearch": {
+    "description": "Goodsearch ist eine Suchmaschine, die 50 Prozent ihrer Einnahmen aus gesponserter Suche an von Nutzern ausgewählte Wohltätigkeitsorganisationen und Schulen spendet.",
+    "history": "Goodsearch ist eine Suchmaschine, die einen Teil ihrer Werbeeinnahmen an Nonprofits und Wohltätigkeitsorganisationen spendet; sie wurde 2005 in den USA gegründet.",
+    "summary_abuse": "Goodsearch ist eine wohltätige Suchmaschine. Als Such- und Werbeplattform ist sie Ad-Fraud und minderwertigen Anzeigen ausgesetzt, wie sie bei kleineren Werbenetzwerken typisch sind."
+  },
+  "Google Ads": {
+    "description": "Google Ads ist eine von Google entwickelte Online-Werbeplattform.",
+    "history": "Google Ads, früher Google AdWords, wurde 2000 von Google gestartet. Die Plattform ist weltweit die dominierende Online-Werbeplattform und erwirtschaftet den Grossteil des Umsatzes von Alphabet. 2018 wurde AdWords in Google Ads umbenannt.",
+    "summary_abuse": "Google Ads wird häufig für Malvertising, Phishing und Betrugskampagnen missbraucht. Täter kaufen Google Ads, um bei Suchanfragen nach Markennamen ganz oben zu erscheinen und Opfer auf Phishing-Seiten weiterzuleiten. Google investiert stark in die Erkennung von Werbebetrug, doch Umfang und unmittelbare Auslieferung von Anzeigen machen die Plattform zu einem attraktiven Angriffsvektor. Malvertising über Google Ads betrifft jährlich Millionen von Nutzern."
+  },
+  "Google Ads Conversion Tracking": {
+    "description": "Google Ads Conversion Tracking ist ein kostenloses Tool, das zeigt, was passiert, nachdem ein Kunde mit deinen Anzeigen interagiert hat.",
+    "history": "Google Ads Conversion Tracking ist eine Funktion von Google Ads, die um 2003 eingeführt wurde und Nutzeraktionen nach Anzeigenklicks verfolgt. Dafür werden Tracking-Pixel auf Websites von Werbetreibenden eingebettet.",
+    "summary_abuse": "Google Ads Conversion Tracking ist ein Tracking-Pixel. Als Ad-Tech-Infrastruktur sammelt es Verhaltensdaten von Nutzern im Web. Seine Cross-Site-Tracking-Fähigkeiten tragen zu Fingerprinting und Profilbildung bei, was Regulierungsbehörden in der EU kritisch geprüft haben. Über das normale Anzeigen-Tracking hinaus gibt es keinen eigenen Missbrauchsvektor."
+  },
+  "Google AdSense": {
+    "description": "Google AdSense ist ein von Google betriebenes Programm, mit dem Website-Publisher Anzeigen ausliefern, die auf Inhalte und Publikum der Website zugeschnitten sind.",
+    "history": "Google AdSense startete im März 2003, nachdem Google Applied Semantics für 102 Millionen US-Dollar übernommen hatte. Deren kontextuelle Werbetechnologie wurde zur Grundlage des Produkts. AdSense wurde eines der profitabelsten Produkte von Google und machte 2005 rund 15 Prozent des Umsatzes aus. Das Programm entwickelte sich von reinen Textanzeigen zu Display- und Rich-Media-Anzeigen. 2024 stellte Google AdSense auf ein eCPM-Vergütungsmodell um und ersetzte das frühere Pay-per-Click-Modell. Stand 2021 nutzen mehr als 38 Millionen Websites AdSense.",
+    "summary_abuse": "Google AdSense hat erheblich dokumentierten Missbrauch. Ungültiger Klickbetrug ist ein dauerhaftes Problem, bei dem Webmaster Bots oder Click-Farms nutzen, um betrügerische Werbeeinnahmen zu erzeugen. Scraped-Content-Websites, automatisch generierte Spam-Inhalte und Made-for-AdSense-Sites haben das Programm historisch ausgenutzt. Google setzt automatisierte Erkennung ungültigen Traffics ein und sperrt Publisher bei Richtlinienverstössen. Malvertising über das AdSense-Netzwerk hat Nutzern auch Malware über kompromittierte oder betrügerische Werbemittel ausgeliefert."
+  },
+  "Google Analytics": {
+    "description": "Google Analytics ist ein kostenloser Webanalyse-Dienst, der Website-Traffic misst und auswertet.",
+    "history": "Google Analytics startete im November 2005, nachdem Google im April 2005 die Urchin Software Corporation übernommen hatte. Die Plattform wurde rasch zur weltweit am stärksten verbreiteten Webanalyse-Lösung und soll auf über 55 Prozent aller Websites genutzt worden sein. 2012 ersetzte Universal Analytics die ursprüngliche Version. 2020 kündigte Google Google Analytics 4 als Nachfolger an, und im Juli 2023 wurde Universal Analytics offiziell zugunsten von GA4 eingestellt. Die Prüfung durch GDPR und Datenschutzrecht war erheblich, mehrere EU-Datenschutzbehörden entschieden, dass GA Daten unter Verstoss gegen GDPR in die USA überträgt.",
+    "summary_abuse": "Google Analytics selbst wird nicht im klassischen Sinn direkt missbraucht, sein JavaScript-Tag wurde jedoch in Supply-Chain-Angriffen zweckentfremdet, bei denen Angreifer veränderte GA-Tags einschleusten, um Formulardaten und Kreditkartennummern von kompromittierten Websites auszuleiten. Zudem gibt es eine gut dokumentierte Nutzung für Datendiebstahl über das Google Analytics Measurement Protocol, bei der Angreifer gestohlene Daten als gefälschte Analytics-Events senden, um Firewall-Erkennung zu umgehen. Google betreibt aktive Missbrauchsüberwachung und ein robustes Vulnerability-Disclosure-Programm."
+  },
+  "Google Analytics Enhanced eCommerce": {
+    "description": "Google Analytics Enhanced eCommerce ist ein Plug-in, mit dem Interaktionen von Nutzern mit Produkten auf E-Commerce-Websites gemessen werden können.",
+    "history": "Google Analytics Enhanced eCommerce ist eine 2014 eingeführte Erweiterung von Google Analytics, die detailliertes E-Commerce-Tracking wie Produktimpressionen, Käufe und Rückerstattungen zu den Standardberichten von GA hinzufügt.",
+    "summary_abuse": "Google Analytics Enhanced eCommerce ist eine Analysefunktion, die detaillierte Kauf- und Produktinteraktionsdaten sammelt. Die Datenschutzbedenken ähneln denen von Google Analytics insgesamt, einschliesslich Datenweitergabe an Google und Cross-Site-Tracking."
+  },
+  "Google App Engine": {
+    "history": "Google App Engine (GAE) wurde 2008 als erster öffentlicher Cloud-Dienst von Google gestartet und erlaubte Entwicklern, Webanwendungen zu erstellen und zu hosten. Es war ein wegweisendes PaaS-Angebot.",
+    "summary_abuse": "Google App Engine wird gelegentlich zum Hosten von Phishing-Seiten und zur Malware-Verteilung genutzt, weil google.com- und appspot.com-Domains vertrauenswürdig wirken. Google erkennt und entfernt Missbrauch aktiv, doch die vertrauenswürdige Domain bleibt für Angreifer attraktiv."
+  },
+  "Google Call Conversion Tracking": {
+    "description": "Google Call Conversion Tracking ist Conversion-Tracking, das zeigt, welche Suchbegriffe die meisten Anrufe auslösen.",
+    "history": "Google Call Conversion Tracking ist eine Funktion innerhalb von Google Ads, früher Google AdWords, die durch Suchanzeigen ausgelöste Telefonanrufe verfolgt; sie gehört zu Googles Suite von Conversion-Tracking-Werkzeugen, die in den 2010er-Jahren mit dem Wachstum der mobilen Suche ausgebaut wurde.",
+    "summary_abuse": "Google Call Conversion Tracking ist eine Funktion von Google Ads. Legitime Nutzung überwiegt klar. Werbebetrug kommt im breiteren Google-Ads-Ökosystem vor, doch Googles umfangreiche Anti-Fraud-Systeme und schnelle Reaktion machen das Missbrauchsprofil vergleichbar mit anderen grossen Werbeplattformen."
+  },
+  "Google Charts": {
+    "description": "Google Charts ist ein interaktiver Webdienst, der aus von Nutzern bereitgestellten Informationen grafische Diagramme erstellt.",
+    "history": "Google Charts ist ein kostenloser Webdienst für Diagramme, den Google 2007 gestartet hat. Er rendert interaktive Diagramme im Browser mit JavaScript. Die statische Image Charts API wurde 2019 eingestellt, die interaktive JavaScript-Bibliothek bleibt aktiv.",
+    "summary_abuse": "Google Charts ist eine kostenlose Bibliothek zur Datenvisualisierung ohne auffälliges Missbrauchssignal; sie rendert Diagramme clientseitig und hat keine verbraucherseitige Content-Hosting-Fläche."
+  },
+  "Google Cloud": {
+    "description": "Google Cloud ist eine Suite von Cloud-Computing-Diensten.",
+    "history": "Google Cloud Platform wurde 2008 öffentlich gestartet, beginnend mit App Engine als erstem Platform-as-a-Service-Angebot. Google baute das Angebot in den 2010er-Jahren stark aus und ergänzte Compute Engine (IaaS), BigQuery und Kubernetes, das 2014 als Open Source veröffentlicht wurde. Google Cloud wurde zu einem vollständigen Cloud-Anbieter im Wettbewerb mit AWS und Azure. 2024 meldete Google Cloud mehr als 36 Milliarden US-Dollar Jahresumsatz und wurde mit rund 11 Prozent Marktanteil zu einem wichtigen Cloud-Anbieter.",
+    "summary_abuse": "Google-Cloud-Infrastruktur wird gelegentlich für Malware-Hosting, Phishing-Seiten und C2-Infrastruktur ausgenutzt, begünstigt durch Googles vertrauenswürdige Domain-Reputation und flexible Free-Tier-Guthaben. Threat-Researcher haben Missbrauch von Google Cloud Storage und Cloud Run für Phishing-Kit-Hosting und Cryptomining dokumentiert. Google unterhält aktive Missbrauchserkennung und reagiert auf Meldungen, doch bei der Grösse der Plattform bleibt Missbrauch an den Rändern bestehen."
+  },
+  "Google Cloud CDN": {
+    "description": "Cloud CDN nutzt Googles globales Edge-Netzwerk, um Inhalte näher bei den Nutzern auszuliefern.",
+    "history": "Google Cloud CDN ist ein Content Delivery Network, das Google 2015 als Teil von Google Cloud Platform gestartet hat. Es ist in Googles globale Netzwerkinfrastruktur integriert.",
+    "summary_abuse": "Google Cloud CDN wird gelegentlich zur Auslieferung schädlicher Inhalte genutzt, weil Google-Domains legitim wirken. Google überwacht aktiv und entfernt richtlinienwidrige Inhalte, doch der vertrauenswürdige Domainstatus wird von Angreifern ausgenutzt."
+  },
+  "Google Cloud Load Balancing": {
+    "description": "Google Cloud Load Balancing ist ein skalierbarer, vollständig verwalteter globaler Load-Balancing-Dienst auf Basis von Google Frontend.",
+    "history": "Google Cloud Load Balancing wurde 2013 als Teil von Google Cloud Platform eingeführt und bietet skalierbares globales Load Balancing für Anwendungen auf GCP.",
+    "summary_abuse": "Google Cloud Load Balancing ist Backend-Infrastruktur ohne auffälliges direktes Missbrauchssignal."
+  },
+  "Google Cloud Storage": {
+    "description": "Google Cloud Storage ermöglicht weltweit das Speichern und Abrufen beliebiger Datenmengen zu jeder Zeit.",
+    "history": "Google Cloud Storage wurde 2010 als skalierbarer Objektspeicherdienst für GCP gestartet. Der Dienst konkurriert mit AWS S3 und Azure Blob Storage.",
+    "summary_abuse": "Google Cloud Storage wird gelegentlich für Malware-Hosting und die Verteilung von Phishing-Kits missbraucht, weil storage.googleapis.com-Domains vertrauenswürdig wirken. Google setzt AUP-Regeln durch und reagiert auf Missbrauchsmeldungen, doch Fehlkonfigurationen mit öffentlich zugänglichen Buckets haben bei vielen Organisationen sensible Daten offengelegt."
+  },
+  "Google Cloud Trace": {
+    "description": "Google Cloud Trace ist ein verteiltes Tracing-System, das Latenzdaten aus Anwendungen sammelt und in der Google Cloud Console anzeigt.",
+    "history": "Google Cloud Trace ist ein verteilter Tracing-Dienst für GCP-Anwendungen, der um 2015 gestartet wurde. Er gehört zu Googles Cloud Operations Suite.",
+    "summary_abuse": "Google Cloud Trace ist Backend-Observability-Infrastruktur ohne auffälliges Missbrauchssignal."
+  },
+  "Google Code Prettify": {
+    "history": "Google Code Prettify ist eine JavaScript-Bibliothek für Syntax-Highlighting, die um 2006 veröffentlicht und mit Google Code gebündelt wurde; sie war weit verbreitet, wurde aber 2020 offiziell zugunsten von Alternativen eingestellt.",
+    "summary_abuse": "Google Code Prettify ist eine eingestellte Bibliothek für Syntax-Highlighting ohne Missbrauchsfläche."
+  },
+  "Google Customer Reviews": {
+    "description": "Google Customer Reviews ist ein Badge für deine Website, das Nutzern hilft, deine Website mit der Marke Google zu erkennen, und auf jeder Seite platziert werden kann.",
+    "history": "Google Customer Reviews, früher Google Trusted Stores, ist ein kostenloser Bewertungsdienst von Google, der um 2015 gestartet wurde. Er ermöglicht E-Commerce-Websites, Verkäuferbewertungen zu sammeln, die in Google Shopping und der Suche angezeigt werden.",
+    "summary_abuse": "Google Customer Reviews kann von gefälschten oder manipulierten Bewertungen durch Konkurrenten oder andere Täter betroffen sein. Google verfügt über Review-Filtering-Systeme, dennoch bleiben gefälschte Bewertungen auf seinen Plattformen ein laufendes Problem."
+  },
+  "Google Font API": {
+    "description": "Google Font API ist ein Webdienst, der Open-Source-Schriftdateien bereitstellt, die in deinen Webdesigns genutzt werden können.",
+    "history": "Google Fonts ist ein kostenloser Webfont-Hosting-Dienst, den Google 2010 gestartet hat und der Schriften über das CDN fonts.googleapis.com ausliefert. Er wurde zu einem der weltweit meistgenutzten CDN-Dienste. 2022 entschied ein deutsches Gericht, dass das Einbetten von Google Fonts gegen GDPR verstosse, weil Nutzer-IP-Adressen ohne Einwilligung an Google übertragen werden.",
+    "summary_abuse": "Google Fonts war 2022 in Deutschland Gegenstand von GDPR-Durchsetzung, weil IP-Adressen an Google-Server übertragen wurden. Viele europäische Websites stellten danach auf selbst gehostete Schriften um. Die Schriften selbst enthalten keine schädlichen Inhalte, doch das CDN schafft eine Drittanbieterabhängigkeit von Google-Infrastruktur."
+  },
+  "Google Forms": {
+    "description": "Google Forms ist ein kostenloser Online-Formularbaukasten, mit dem du Onlineformulare, Umfragen, Quizze, Bestellformulare und mehr erstellen und veröffentlichen kannst.",
+    "history": "Google Forms wurde 2008 als Teil der Google Docs Suite gestartet und bot kostenlose Online-Erstellung von Formularen und Umfragen.",
+    "summary_abuse": "Google Forms wird stark für Phishing-Angriffe missbraucht. Angreifer erstellen gefälschte Formulare, um Zugangsdaten, Bankdaten oder persönliche Informationen zu sammeln. Die Domain forms.google.com ist vertrauenswürdig, was sie für Phishing wirksam macht. Google versucht, Missbrauch zu erkennen und zu entfernen, doch das Volumen ist hoch."
+  },
+  "Google Hosted Libraries": {
+    "description": "Google Hosted Libraries ist ein stabiles, zuverlässiges, schnelles und weltweit verfügbares Content Distribution Network für die beliebtesten Open-Source-JavaScript-Bibliotheken.",
+    "history": "Google Hosted Libraries ist ein CDN für verbreitete JavaScript-Bibliotheken, das um 2007 gestartet wurde. Es hostet Bibliotheken wie jQuery, Bootstrap und andere über ajax.googleapis.com.",
+    "summary_abuse": "Google Hosted Libraries ist ein statisches CDN ohne auffälliges Missbrauchssignal. Ein Risiko ist, dass die CDN-Abhängigkeit einen SPOF schafft und Google sehen kann, welche Websites welche Bibliotheken laden."
+  },
+  "Google Maps": {
+    "description": "Google Maps ist ein Webkartendienst. Er bietet Satellitenbilder, Luftaufnahmen, Strassenkarten, interaktive 360-Grad-Panoramen von Strassen, Echtzeit-Verkehrsinformationen und Routenplanung zu Fuss, mit Auto, Velo, Flugzeug oder öffentlichem Verkehr.",
+    "history": "Google Maps startete im Februar 2005 auf Basis von Technologie von Where 2 Technologies, das Google 2004 übernommen hatte. Der Dienst prägte das AJAX-basierte Paradigma interaktiver Karten. Google Earth wurde 2007 integriert. 2012 entfernte Apple Google Maps aus iOS zugunsten von Apple Maps, wodurch Google Maps auf Android und Web zurückgedrängt wurde. 2018 führte Google Maps eine einschneidende Preisänderung ein und stellte die Google Maps Platform API auf nutzungsbasierte Abrechnung um, was viele Entwickler wegen plötzlicher Kostensteigerungen verärgerte.",
+    "summary_abuse": "Google Maps hat als Mapping-API ein geringes direktes Missbrauchsrisiko. API-Schlüssel für Google Maps werden gelegentlich gestohlen und für unautorisierte Geolocation-Abfragen missbraucht, was bei legitimen Kunden unerwartete Kosten verursacht. Google stellt Nutzungskontingente und Monitoring bereit, um Schlüsselmissbrauch zu erkennen. Die Plattform sammelt jedoch umfangreiche Standort- und Nutzungsdaten, was Datenschutzbehörden kritisch geprüft haben."
+  },
+  "Google My Business": {
+    "history": "Google My Business, heute Google Business Profile, wurde 2014 gestartet und ersetzte Google Places sowie Google+ Local. Der Dienst erlaubt Unternehmen, ihre Präsenz in Google Search und Maps zu verwalten.",
+    "summary_abuse": "Google Business Profile wird von Spam und gefälschten Einträgen angegriffen. Täter erstellen falsche Unternehmenseinträge, übernehmen bestehende legitime Einträge oder veröffentlichen gefälschte Bewertungen. Das ist ein erhebliches Problem für Local SEO und kann Kunden zu betrügerischen Unternehmen umleiten."
+  },
+  "Google Optimize": {
+    "description": "Google Optimize erlaubt dir, Varianten von Webseiten zu testen und deren Leistung zu vergleichen.",
+    "history": "Google Optimize war ein A/B-Testing- und Website-Optimierungstool, das Google 2016 gestartet hat. Google stellte den Dienst im September 2023 ein.",
+    "summary_abuse": "Google Optimize war ein Testing- und Optimierungstool, das inzwischen eingestellt wurde. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Google PageSpeed": {
+    "description": "Google PageSpeed ist eine Toolfamilie, die bei der Performance-Optimierung von Websites hilft.",
+    "history": "Google PageSpeed, insbesondere PageSpeed Insights, ist ein Web-Performance-Analysewerkzeug, das Google 2009 gestartet hat.",
+    "summary_abuse": "Google PageSpeed ist ein Web-Performance-Analysewerkzeug ohne auffälliges Missbrauchssignal."
+  },
+  "Google Pay": {
+    "description": "Google Pay ist eine von Google entwickelte Digital-Wallet-Plattform und ein Online-Zahlungssystem für In-App- und kontaktlose Zahlungen auf mobilen Geräten, mit dem Nutzer mit Android-Smartphones, Tablets oder Uhren bezahlen können.",
+    "history": "Google Pay entstand aus Android Pay, gestartet 2015, und Google Wallet, gestartet 2011, die 2018 unter einer Marke zusammengeführt wurden. Der Dienst ermöglicht kontaktlose Zahlungen im Geschäft, Online-Checkout und Peer-to-Peer-Überweisungen. Google Pay hatte regionale Unstimmigkeiten, unter anderem ein grosses US-App-Redesign im Jahr 2020, das 2023 weitgehend eingestellt wurde, als Google die US-App wieder auf die Marke Google Wallet fokussierte, während Google Pay in anderen Märkten weiterlief.",
+    "summary_abuse": "Google Pay wird durch Social-Engineering-Betrug angegriffen, bei dem Betrüger sich als Google-Pay-Support ausgeben, um Nutzer zum Senden von Geld zu bringen, wie bei P2P-Zahlungsplattformen üblich. Die Plattform setzt starke Betrugserkennung und Chargeback-Schutz für Händlertransaktionen ein. Direkte Ausnutzung der Google Pay API ist wegen strenger PCI-DSS-Anforderungen und Tokenisierungsarchitektur selten."
+  },
+  "Google Publisher Tag": {
+    "description": "Google Publisher Tag (GPT) ist eine Ad-Tagging-Bibliothek für Google Ad Manager, die zum dynamischen Erstellen von Anzeigenanfragen genutzt wird.",
+    "history": "Google Publisher Tag (GPT) ist die JavaScript-Ad-Tagging-Bibliothek für Google Ad Manager, früher DoubleClick for Publishers; sie ersetzte das ältere asynchrone Tag-Format und ist seit den späten 2000er-Jahren der Standardmechanismus für die Auslieferung von Google-Displayanzeigen auf Publisher-Websites. GPT ermöglicht Publishern, Anzeigenplätze, Targeting und Auktionslogik auf ihren Seiten zu definieren, und ist zentral für das Google-Werbeökosystem.",
+    "summary_abuse": "Google Publisher Tag ist Teil des Ad-Serving-Ökosystems und übernimmt typische Ad-Tech-Risiken: Malvertising-Kampagnen haben über GPT ausgelieferte Anzeigenplätze genutzt, um schädliches JavaScript auszuliefern oder Nutzer auf Scam-Seiten umzuleiten. Google betreibt die DoubleClick- und AdSense-Infrastruktur, in die Publisher GPT integrieren und die laufend Malvertising-Bedrohungen ausgesetzt ist. Google hat Anti-Malvertising-Systeme, dennoch kommt es bei Milliarden täglich ausgelieferter Anzeigenimpressionen zu Vorfällen in grossem Massstab."
+  },
+  "Google Sign-in": {
+    "description": "Google Sign-In ist ein sicheres Authentifizierungssystem, das den Login-Aufwand für Nutzer reduziert, indem sie sich mit ihrem Google-Konto anmelden können.",
+    "history": "Google Sign-in, die auf OAuth/OIDC basierende Identitätslösung, wurde um 2011 gestartet und verbreitete sich stark für die Authentifizierung in Drittanbieter-Apps; sie ist Teil von Google Identity Services.",
+    "summary_abuse": "Google Sign-in wird häufig in Phishing-Kampagnen imitiert. Angreifer erstellen gefälschte Google-Login-Seiten, um Zugangsdaten zu stehlen. Zusätzlich wurden Open-Redirect-Schwachstellen in OAuth-Implementierungen ausgenutzt. Google verfügt über starke Anti-Phishing-Infrastruktur, ist aber die am häufigsten nachgeahmte Marke im Phishing."
+  },
+  "Google Sites": {
+    "history": "Google Sites ist ein kostenloses Tool zum Erstellen von Websites, das Google 2008 gestartet und 2016 mit einer neuen Oberfläche neu aufgebaut hat.",
+    "summary_abuse": "Google Sites wird stark für Phishing- und Scam-Seiten missbraucht. Die Domain sites.google.com wird von E-Mail-Filtern und Browsern als vertrauenswürdig behandelt und ist deshalb beliebt für Seiten zum Abgreifen von Zugangsdaten und für gefälschte Unternehmensseiten. Google erkennt und entfernt Missbrauch, das Volumen bleibt jedoch erheblich."
+  },
+  "Google Tag Manager": {
+    "description": "Google Tag Manager ist ein Tag-Management-System (TMS), mit dem du Messcodes und verwandte Codefragmente, sogenannte Tags, auf deiner Website oder in deiner mobilen App schnell und einfach aktualisieren kannst.",
+    "history": "Google Tag Manager wurde im Oktober 2012 gestartet, um die Bereitstellung von Analytics- und Marketing-Tags auf Websites ohne Codeänderungen zu vereinfachen. Er ersetzte hartcodierte Tracking-Skripte und ermöglichte auch Nicht-Entwicklern, Regeln für das Auslösen von Tags zu verwalten. GTM wurde zur dominierenden Tag-Management-Plattform und wird auf Millionen Websites eingesetzt. Nach 2018 entstanden GDPR-Bedenken, weil GTM die einfache Einbindung von Tracking-Skripten erleichtert und damit Cookie-Consent-Compliance erschwert.",
+    "summary_abuse": "Google Tag Manager wurde in Supply-Chain-Angriffen ausgenutzt, bei denen Angreifer GTM-Container kompromittierten, um schädliches JavaScript auf Opfer-Websites einzuschleusen, darunter Kreditkarten-Skimmer im Magecart-Stil. Da GTM beliebige JavaScript-Ausführung im Browser erlaubt, kann ein kompromittierter Container Formulardaten, Session-Cookies oder Zahlungsdetails ausleiten. Google bietet Container-Versionierung und Zugriffskontrollen, doch Organisationen mit unzureichend eingeschränktem GTM-Zugriff sind anfällig für Container-Hijacking."
+  },
+  "Google Tag Manager for WordPress": {
+    "description": "Das Google Tag Manager for WordPress Plugin fügt die GTM-Container-Code-Snippets in deine WordPress-Website ein, damit du sie nicht manuell hinzufügen musst.",
+    "history": "Google Tag Manager for WordPress ist ein von Thomas Geiger entwickeltes Plugin, das das Einbinden von Google Tag Manager in WordPress-Websites vereinfacht. Es ist kein offizielles Google-Produkt.",
+    "summary_abuse": "Google Tag Manager for WordPress ist ein Drittanbieter-WordPress-Plugin für die GTM-Integration. GTM selbst wird auf kompromittierten Websites häufig zur Datenexfiltration missbraucht, indem Tracking-Skripte eingeschleust werden. Das Plugin ist nicht von sich aus schädlich, erfordert aber sorgfältiges Berechtigungsmanagement."
+  },
+  "Google Wallet": {
+    "history": "Google Wallet wurde 2011 als mobiler Zahlungsdienst von Google gestartet. 2018 wurde der Dienst mit Android Pay zu Google Pay zusammengeführt. 2022 benannte Google Google Pay in den USA wieder in Google Wallet um.",
+    "summary_abuse": "Google Wallet wird von Zahlungsbetrug angegriffen. Angreifer imitieren den Dienst, um Zugangsdaten zu phishen oder Opfer dazu zu bringen, Geld an betrügerische Konten zu senden. Google setzt Anti-Fraud-Massnahmen ein."
+  },
+  "Google Web Server": {
+    "history": "Google Web Server (GWS) ist der proprietäre HTTP-Server, den Google für die eigenen Dienste entwickelt hat. Er ist nicht öffentlich verfügbar und erscheint in HTTP-Response-Headern von Seiten, die über Google ausgeliefert werden.",
+    "summary_abuse": "Google Web Server ist Googles interne Webserver-Infrastruktur ohne direkten Missbrauchsvektor für externe Parteien."
+  },
+  "Google Web Toolkit": {
+    "description": "Google Web Toolkit (GWT) ist ein Open-Source-Framework für Java-Softwareentwicklung zum Erstellen von AJAX-Anwendungen.",
+    "history": "Google Web Toolkit (GWT) war ein Java-zu-JavaScript-Compiler-Framework, das Google 2006 veröffentlichte. Es wurde breit für komplexe Webanwendungen genutzt. 2019 übergab Google es an die Open-Source-Community des GWT Project. Heute gilt es zugunsten moderner JavaScript-Frameworks weitgehend als veraltet.",
+    "summary_abuse": "GWT ist ein veraltetes Java-zu-JavaScript-Entwicklungsframework ohne auffälliges Missbrauchssignal."
+  },
+  "Google Workspace": {
+    "description": "Google Workspace, früher G Suite, ist eine Sammlung von Cloud-Computing-, Produktivitäts- und Kollaborationstools.",
+    "history": "Google veröffentlichte Google Apps 2006 als kostenlose Produktivitätssuite und führte 2007 eine kostenpflichtige Stufe ein. 2016 wurde das Angebot in G Suite umbenannt, um es als Office-Produktivitätsplattform zu positionieren. 2020 folgte die Umbenennung in Google Workspace, als Signal für eine digitale Zentrale für Teams. Im Januar 2025 erhöhte Google die Preise je nach Plan um 17 bis 22 Prozent und bündelte Gemini-AI-Funktionen in alle Business- und Enterprise-Stufen.",
+    "summary_abuse": "Google Workspace ist breit vertrauenswürdige Unternehmenssoftware. Die Gmail-Komponente wird gelegentlich genutzt, um Phishing oder Spam aus kompromittierten oder Testkonten zu versenden, doch Google setzt ausgefeilte automatisierte Missbrauchserkennung und schnelle Takedown-Prozesse ein. Wegen der enormen Plattformgrösse kommt etwas Missbrauch vor, das Verhältnis von Missbrauch zu legitimer Nutzung ist jedoch sehr niedrig, und Googles Anti-Abuse-Reaktion gehört zu den besten der Branche."
+  },
+  "Goope": {
+    "description": "Goope ist ein japanisches Homepage-Designsystem mit Werkzeugen zum Erstellen und Verwalten von Websites.",
+    "history": "Goope ist ein japanischer Dienst für Website-Erstellung und Homepage-Design, der vor allem den japanischen Markt bedient. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "Goope ist ein japanisches Homepage-Designsystem ohne dokumentiertes auffälliges Missbrauchssignal. Es unterstützt kleine Unternehmen in Japan beim Erstellen ihrer Websites."
+  },
+  "GoPrep": {
+    "description": "GoPrep ist eine Meal-Prep-Software für die Meal Preparation & Delivery-Branche.",
+    "history": "GoPrep wurde 2017 von Danny Ali und Mike Soldano in den USA als erste spezialisierte Software für die Meal-Prep- und Lieferbranche gegründet. Auffällige Übernahmen oder Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "GoPrep ist eine Nischenplattform für das Management von Meal-Prep-Betrieben ohne auffälliges Missbrauchssignal; sie verwaltet Abläufe in Meal-Prep-Küchen und bietet kein öffentliches Content-Hosting."
+  },
+  "GOrendezvous": {
+    "description": "GOrendezvous ist eine Online-Software für Terminplanung und Buchungen, mit der Verfügbarkeit, Buchungen und Kalenderabstimmung über Dienste und Nutzer hinweg verwaltet werden können.",
+    "history": "GOrendezvous ist eine kanadische Online-Buchungs- und Terminplanungsplattform, die um 2011 gegründet wurde und sich an Gesundheits- und Wellnessunternehmen richtet. Unternehmen können damit Online-Termine und Zahlungen annehmen. Die Plattform wird vor allem in Quebec, Kanada, genutzt und ist auf Tausende Fachpersonen gewachsen.",
+    "summary_abuse": "GOrendezvous ist eine kanadische Terminbuchungsplattform für Gesundheits- und Wellnessunternehmen. Es sind keine Missbrauchsvorfälle dokumentiert. Übliche Risiken von Buchungsplattformen wie gefälschte Termine gelten dennoch."
+  },
+  "Gorgias": {
+    "description": "Gorgias ist eine Helpdesk- und Chat-Lösung für E-Commerce-Shops.",
+    "history": "Gorgias wurde 2015 von Romain Lapeyre und Alex Plugaru gegründet. Es ist ein VC-finanzierter E-Commerce-Helpdesk, der insgesamt 104 Millionen US-Dollar aufgenommen hat, darunter 29 Millionen US-Dollar im Jahr 2024 bei einer Bewertung von 530 Millionen US-Dollar, mit Shopify als wichtigem Investor.",
+    "summary_abuse": "Gorgias ist ein E-Commerce-Helpdesk für Kundensupport ohne auffälliges Missbrauchssignal. Die Plattform verwaltet Support-Tickets zwischen Händlern und Kunden und bietet kein verbraucherseitiges Content-Hosting."
+  },
+  "Gorilla Dash": {
+    "description": "Gorilla Dash ist ein Tool für Franchise-Unternehmen und Betriebe mit mehreren Standorten, das Management und operative Abläufe unterstützt.",
+    "history": "Gorilla Dash ist ein Management-Tool für Franchises und Unternehmen mit mehreren Standorten. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "Gorilla Dash ist ein Nischen-Tool für Franchise-Management ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "Goshly": {
+    "description": "Goshly ist eine Plattform zum Erstellen responsiver Websites für Desktop und Mobile, mit Funktionen wie E-Commerce-Integration und Warenkorb.",
+    "history": "Goshly ist ein responsiver Website-Builder für mobile und Desktop-Websites. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "Goshly ist eine kleine Website-Builder-Plattform ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "GoSquared": {
+    "description": "GoSquared ist eine Webanalyse-Plattform, die sich als Alternative zu Google Analytics positioniert.",
+    "history": "GoSquared wurde 2006 in London, UK, gegründet und brachte 2009 das erste echte Echtzeit-Webanalyse-Tool auf den Markt. Das Unternehmen war über weite Teile seiner Geschichte profitabel und unabhängig und arbeitete als kleines Team. Es erweiterte sich von Analytics zu CRM, Live-Chat und Marketing-Automation. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "GoSquared ist eine privacy-first Webanalyse- und Customer-Engagement-Plattform für B2B-SaaS. Der Fokus auf datenschutzfreundliche Analytics und das kleine Teammodell führen zu keiner auffälligen Missbrauchsexposition. Dokumentierte Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "GoStats": {
+    "history": "GoStats ist ein kostenloser Web-Traffic-Counter und Analysedienst, der seit ungefähr 1999 betrieben wird und damit zu den älteren Website-Hit-Countern im Internet gehört. Er liefert grundlegende Besucherstatistiken über einen eingebetteten JavaScript-Zähler. Der Dienst ist weiterhin verfügbar, es gibt aber nur wenige öffentliche Informationen zu Eigentümern oder Entwicklungsteam.",
+    "summary_abuse": "GoStats ist ein älterer Website-Hit-Counter und Analysedienst. Er bietet einfaches Besuchertracking und es sind keine auffälligen Missbrauchsmuster dokumentiert. Aufgrund seines Alters und der begrenzten technischen Fähigkeiten ist er kein bedeutendes Missbrauchsziel."
+  },
+  "GotiPath": {
+    "description": "GotiPath ist ein Content Delivery Network (CDN)-Anbieter, der mit dem Telekomriesen Telekom Malaysia Berhad verbunden ist.",
+    "history": "GotiPath wurde 2016 in Dhaka, Bangladesch, gegründet und wurde zum ersten Cloud- und CDN-Anbieter des Landes mit Weltklasse-Anspruch. Das Unternehmen ging eine Partnerschaft mit Telekom Malaysia Berhad ein, um CDN-Lösungen gemeinsam zu entwickeln und sein Netzwerk auf mehr als 78 Points of Presence weltweit auszubauen. Seit der Gründung gab es keine auffälligen Übernahmen oder Eigentümerwechsel.",
+    "summary_abuse": "GotiPath ist ein CDN- und Cloud-Infrastrukturanbieter ohne auffälliges Missbrauchssignal in öffentlichen Berichten. Als Infrastrukturanbieter für vorwiegend bangladeschische und regionale Kunden bietet er keine verbraucherseitigen Content-Hosting-Dienste in einer Grössenordnung, die Phishing- oder Scam-Betreiber stark anziehen würde."
+  },
+  "GOV.UK Elements": {
+    "history": "GOV.UK Elements war eine CSS/HTML-Bibliothek für Design Patterns, die um 2013 vom UK Government Digital Service geschaffen wurde, um konsistente Regierungsdienste zu bauen. 2018 wurde sie durch GOV.UK Frontend ersetzt, das einen moderneren, komponentenbasierten Ansatz bietet. GOV.UK Elements ist heute offiziell eingestellt und archiviert.",
+    "summary_abuse": "GOV.UK Elements ist eine eingestellte CSS-Designbibliothek der britischen Regierung. Als Frontend-Toolkit für den Bau von Regierungswebsites hat sie keine relevante Missbrauchsfläche. Es sind keine Missbrauchsvorfälle dokumentiert."
+  },
+  "GOV.UK Frontend": {
+    "history": "GOV.UK Frontend ist das offizielle Frontend-Designsystem für digitale Dienste der britischen Regierung. Es wurde 2018 vom Government Digital Service als Ersatz für GOV.UK Elements und GOV.UK Template gestartet. Es bietet barrierefreie, responsive HTML/CSS/JavaScript-Komponenten zum Bau von Regierungsdiensten. Es wird aktiv gepflegt und in Hunderten britischen Regierungsdiensten eingesetzt.",
+    "summary_abuse": "GOV.UK Frontend ist ein Open-Source-Frontend-Toolkit der britischen Regierung. Es hat keine Verbraucheroberfläche und keine Missbrauchshistorie. Es wird zum Bau von Regierungs-Webdiensten genutzt und weist keine Eigenschaften auf, die Missbrauch anziehen oder ermöglichen würden."
+  },
+  "GOV.UK Template": {
+    "history": "GOV.UK Template war eine Mustache/Jinja-Template-Bibliothek für britische Regierungsdienste, die GDS um 2013 erstellte, um einheitliches Header- und Footer-Styling bereitzustellen. 2018 wurde sie eingestellt, als GOV.UK Frontend sie mit einem moderneren komponentenbasierten Ansatz ersetzte. Das Repository ist archiviert.",
+    "summary_abuse": "GOV.UK Template ist eine eingestellte HTML-Template-Bibliothek der britischen Regierung ohne verbraucherseitige Oberfläche. Es ist keine Missbrauchshistorie dokumentiert."
+  },
+  "GOV.UK Toolkit": {
+    "history": "GOV.UK Frontend Toolkit war ein Sass/CSS-Toolkit, das GDS um 2013 entwickelte, um das Styling digitaler Dienste der britischen Regierung zu standardisieren. 2018 wurde es durch GOV.UK Frontend ersetzt und ist heute eingestellt und archiviert.",
+    "summary_abuse": "GOV.UK Toolkit ist eine eingestellte Frontend-CSS-Bibliothek der britischen Regierung. Keine Verbraucheroberfläche, keine Missbrauchshistorie."
+  },
+  "Govalo": {
+    "description": "Govalo ist ein Software-Startup, das eine Shopify-App entwickelt.",
+    "history": "Govalo wurde 2021 von Kelly Vaughn und Rhian Beutler als Shopify-App für digitale Geschenkkarten und Store Credit für E-Commerce-Händler gegründet. Das Unternehmen ist bootstrapped und arbeitet unabhängig im Shopify-App-Ökosystem.",
+    "summary_abuse": "Govalo ist eine Shopify-App für Geschenkkarten und Store Credit für E-Commerce-Händler. Geschenkkartenplattformen können gelegentlich für Geldwäsche oder Betrug missbraucht werden, etwa durch den Kauf von Geschenkkarten mit gestohlenen Zahlungsmitteln. Govalo arbeitet jedoch innerhalb des Shopify-Ökosystems, das Zahlungsprüfung durchsetzt. Für diesen Anbieter sind keine spezifischen Vorfälle oder Sicherheitsberichte dokumentiert."
+  },
+  "govCMS": {
+    "history": "govCMS ist eine Drupal-basierte Open-Source-CMS-Plattform, die 2014 von der australischen Regierung initiiert wurde, um Regierungsstellen eine standardisierte und sichere Website-Plattform bereitzustellen.",
+    "summary_abuse": "govCMS ist eine australische Regierungs-CMS-Plattform ohne auffälliges Missbrauchssignal; sie wird ausschliesslich von Regierungsstellen genutzt."
+  },
+  "GoVedia": {
+    "description": "GoVedia ist ein Anbieter individueller E-Commerce-Entwicklungslösungen, die auf konkrete Geschäftsanforderungen zugeschnitten sind.",
+    "history": "GoVedia ist ein in den USA ansässiger Anbieter individueller E-Commerce-Entwicklungslösungen. Das Unternehmen bietet massgeschneiderte E-Commerce-Umsetzungen für Unternehmen an. Zur Gründungsgeschichte oder Teamzusammensetzung sind nur wenige öffentliche Informationen verfügbar.",
+    "summary_abuse": "GoVedia ist eine kleine E-Commerce-Entwicklungsfirma. Mit dem Unternehmen sind keine dokumentierten Missbrauchsmuster verbunden. Das Modell individueller Entwicklung und die begrenzte Online-Präsenz deuten auf ein geringes verbraucherseitiges Risiko hin."
+  },
+  "GoZen Forms": {
+    "description": "GoZen Forms ist ein KI-gestützter No-Code-Formularbaukasten, der Formularerstellung automatisiert und Registrierungsdaten, Zahlungen sowie E-Signaturen sammelt.",
+    "history": "GoZen Forms ist ein KI-gestützter Online-Formularbaukasten von GoZen, einem bootstrapped SaaS-Startup mit Sitz in Indien. Er ist Teil der breiteren GoZen-Suite von Marketingtools, zu der GoZen Growth für E-Mail-Automation und GoZen Notify für Push-Benachrichtigungen gehören. Die Plattform wurde als Konkurrenz zu Tools wie Typeform und SurveyMonkey entwickelt und richtet sich mit Freemium-Modell und KI-gestützter Fragenerstellung an kleine Unternehmen und Agenturen.",
+    "summary_abuse": "GoZen Forms hat nur gering dokumentierte Missbrauchsrisiken. Als Formularbaukasten könnte es theoretisch für Phishing-Formulare genutzt werden, ein Risiko, das alle Formulartools teilen. Der Anbieter ist ein kleines indisches SaaS-Startup mit begrenzt dokumentierter AUP-Durchsetzungskapazität. Es sind keine konkreten Missbrauchsvorfälle öffentlich gemeldet."
+  },
+  "GPT AI Power": {
+    "description": "GPT AI Power ist ein WordPress-Plugin, das ein umfassendes KI-Paket anbietet.",
+    "history": "GPT AI Power ist ein WordPress-Plugin zur KI-gestützten Content-Erstellung, das Anfang 2023 gestartet wurde und OpenAI APIs nutzt, um Blogbeiträge, Produktbeschreibungen und andere Inhalte direkt in WordPress zu erzeugen. Es gewann schnell an Bedeutung, als KI-Schreibtools populär wurden, und erreichte rasch über 10'000 aktive Installationen.",
+    "summary_abuse": "GPT AI Power ist ein WordPress-Plugin für KI-Content-Generierung. Es kann genutzt werden, um minderwertige KI-geschriebene Inhalte in grosser Menge für SEO-Spam oder Content-Farmen zu produzieren, was einen relevanten potenziellen Missbrauchsvektor darstellt. Das Plugin setzt darauf, dass Nutzer eigene OpenAI API Keys bereitstellen, und die erzeugten Inhalte hängen vollständig davon ab, wie Nutzer es einsetzen."
+  },
+  "Grab Pay Later": {
+    "description": "Grab Pay Later ist eine Buy-now-pay-later-Lösung von Grab.",
+    "history": "Grab Pay Later ist eine Buy-now-pay-later-Funktion innerhalb der Finanzdienstleistungsplattform von Grab, die um 2018 gestartet wurde. Grab ist eine südostasiatische Superapp, die 2012 gegründet und 2021 an der Nasdaq kotiert wurde.",
+    "summary_abuse": "Grab Pay Later ist ein BNPL-Produkt eines regulierten Fintechs in Südostasien. Es hat die für BNPL-Dienste üblichen Risiken durch Identitätsbetrug und Kreditmissbrauch, mit KYC-Prozessen und regulatorischer Aufsicht."
+  },
+  "Grade.us": {
+    "description": "Grade.us ist eine Review-Management-Plattform für Marketingagenturen.",
+    "history": "Grade.us ist eine Review-Management-Plattform für lokale Unternehmen und Agenturen, die um 2014 in den USA gegründet wurde.",
+    "summary_abuse": "Grade.us ist ein Review-Management-SaaS mit gewissem Potenzial für gefälschte Bewertungen, wie in dieser Kategorie üblich. Es sind keine erheblichen Missbrauchsvorfälle dokumentiert."
+  },
+  "Grafana": {
+    "description": "Grafana ist eine plattformübergreifende Open-Source-Webanwendung für Analytics und interaktive Visualisierung.",
+    "history": "Grafana wurde von Torkel Odegaard geschaffen und im Januar 2014 erstmals als Fork von Kibana veröffentlicht, um Zeitreihendaten aus Graphite zu visualisieren. Grafana Labs wurde 2014 gegründet, ursprünglich als Raintank. Das Unternehmen erhielt 2019 eine Series-A-Finanzierung von 24 Millionen US-Dollar, 2020 eine Series B von 50 Millionen US-Dollar, 2021 eine Series C von 220 Millionen US-Dollar bei einer Bewertung von 3 Milliarden US-Dollar und 2024 eine Transaktion über 270 Millionen US-Dollar bei einer Bewertung von 6 Milliarden US-Dollar. Grafana wuchs zum LGTM-Stack (Loki, Grafana, Tempo, Mimir) und meldete 2024 über 250 Millionen US-Dollar ARR.",
+    "summary_abuse": "Grafana ist nicht wesentlich als Vektor für schädliche Aktivitäten dokumentiert. Es ist vor allem ein Backend-Tool für Observability und Monitoring ohne verbraucherseitige Oberfläche, die Täter ausnutzen würden. Schwachstellen in Grafana, etwa CVE-2021-43798, eine Path-Traversal-Lücke, wurden ausgenutzt, um Serverdateien zu lesen, werden aber zeitnah gepatcht. Da die meisten Grafana-Installationen selbst gehostet sind, liegt Missbrauch im Kontrollbereich der betreibenden Organisation."
+  },
+  "Graffiti CMS": {
+    "history": "Graffiti CMS war ein Blog- und Content-Management-System, das von Telligent Systems entwickelt und um 2007 veröffentlicht wurde. Es wurde später als Open Source freigegeben und ist weitgehend aufgegeben.",
+    "summary_abuse": "Graffiti CMS ist ein aufgegebenes CMS. Websites mit veralteten Installationen ohne Updates haben ein erhöhtes Sicherheitsrisiko durch ungepatchte Schwachstellen."
+  },
+  "Grain Harvest": {
+    "description": "Grain Harvest ist eine Online-Plattform, die Data-Science-Tools und Ressourcen für Fachleute und Lernende in diesem Bereich bereitstellt.",
+    "history": "Grain Harvest ist eine Online-Plattform für Data-Science-Tools und Ressourcen. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
+    "summary_abuse": "Grain Harvest ist eine Nischenplattform für Data Science ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "GrandNode": {
+    "history": "GrandNode ist eine Open-Source-E-Commerce-Plattform für Multi-Vendor-Marktplätze, gebaut auf ASP.NET Core und MongoDB und um 2015 in Polen gegründet; sie ist ein Fork von nopCommerce, der für MongoDB angepasst wurde.",
+    "summary_abuse": "GrandNode ist eine Open-Source-E-Commerce-Plattform ohne spezifisches Missbrauchsmuster über generische E-Commerce-Risiken hinaus."
+  },
+  "Granim.js": {
+    "description": "Granim.js ist eine leichtgewichtige JavaScript-Bibliothek zum Erstellen flüssiger und interaktiver Farbverlaufsanimationen.",
+    "history": "Granim.js ist eine JavaScript-Bibliothek zum Erstellen flüssiger und interaktiver Gradient-Animationen, die um 2017 unter MIT-Lizenz veröffentlicht wurde.",
+    "summary_abuse": "Granim.js ist eine Frontend-Animationsbibliothek ohne Missbrauchsfläche."
+  },
+  "GrapesJS": {
+    "description": "GrapesJS ist ein vielseitiger Open-Source-Page-Builder, der verschiedene Plugins mit einer intuitiven Drag-and-Drop-Oberfläche kombiniert.",
+    "history": "GrapesJS ist ein Open-Source-Web-Builder-Framework, das Artur Arseniev um 2016 erstellt hat. Es bietet eine Drag-and-Drop-Oberfläche zum Erstellen von Webseiten und E-Mail-Templates.",
+    "summary_abuse": "GrapesJS ist ein Web-Builder-Framework ohne auffälliges Missbrauchssignal."
+  },
+  "GraphCMS": {
+    "description": "GraphCMS ist ein GraphQL-Headless-CMS für Content Federation und Omnichannel-Headless-Content-Management.",
+    "history": "GraphCMS wurde 2017 in Berlin als erstes GraphQL-natives Headless CMS gegründet. Das Unternehmen nahm eine Series A über 10 Millionen US-Dollar und 2022 eine von One Peak angeführte Series B über 30 Millionen US-Dollar auf, womit die Gesamtfinanzierung auf 43,7 Millionen US-Dollar stieg. Am 12. Juli 2022 benannte sich GraphCMS in Hygraph um und startete eine neue Strategie als federated Content Platform, auch wenn das Produkt derselbe Dienst blieb und weiterhin häufig unter dem ursprünglichen Namen GraphCMS referenziert wird.",
+    "summary_abuse": "GraphCMS, heute Hygraph, ist ein Headless CMS, das Entwickler zur Verwaltung von Inhalten über GraphQL APIs nutzen. Es gibt kein auffälliges Missbrauchssignal. Die API-getriebene Architektur und die Ausrichtung auf Entwickler ziehen weder Phishing-Betreiber noch Betrug besonders an. Die kostenlose Stufe verlangt eine Kontoerstellung mit E-Mail-Adresse und begrenzt damit anonymen Missbrauch."
+  },
+  "Graphene": {
+    "description": "Graphene ist ein WordPress-Theme von Graphene Themes.",
+    "history": "Graphene ist eine Python-Bibliothek zum Erstellen von GraphQL APIs, die um 2015 erstmals veröffentlicht wurde; sie ist die populärste GraphQL-Bibliothek für Python.",
+    "summary_abuse": "Graphene ist eine Python-GraphQL-Bibliothek ohne auffälliges Missbrauchssignal."
+  },
+  "GraphicsFlow": {
+    "description": "GraphicsFlow ist ein Online-Tool, mit dem Druckereien Kunden-Artwork erstellen, verwalten und freigeben lassen können.",
+    "history": "GraphicsFlow ist eine Plattform für Design- und Artwork-Management für Unternehmen im Bereich veredelter Bekleidung, die um 2016 in den USA gegründet wurde.",
+    "summary_abuse": "GraphicsFlow ist ein Nischen-B2B-SaaS für Designmanagement ohne auffälliges Missbrauchssignal."
+  },
+  "Graphly": {
+    "description": "Graphly ist eine visuelle Reporting- und Business-Intelligence-Plattform.",
+    "history": "Graphly ist eine visuelle Reporting- und Business-Intelligence-SaaS-Plattform, die um 2014 gegründet wurde und sich an KMU mit Bedarf an KPI-Dashboards und Metrikvisualisierung richtet. Auffällige Übernahmen oder Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "Graphly ist ein B2B-Analysetool ohne bekanntes Missbrauchssignal. Es bietet kein verbraucherseitiges Content-Hosting und keine anonymen Registrierungsfunktionen, die Missbrauch anziehen würden."
+  },
+  "GraphQL": {
+    "description": "GraphQL ist eine Abfragesprache für APIs und eine Runtime, um diese Abfragen mit bestehenden Daten zu erfüllen.",
+    "history": "GraphQL ist eine Sprache für Datenabfragen und -manipulation in APIs, die von Facebook (Meta) entwickelt und 2015 als Open Source veröffentlicht wurde. Die Spezifikation und Referenzimplementierung wurden 2018 an die GraphQL Foundation unter der Linux Foundation übergeben.",
+    "summary_abuse": "GraphQL ist ein API-Spezifikationsstandard ohne inhärenten Missbrauchsvektor. Unsicher konfigurierte GraphQL APIs werden jedoch häufig angegriffen, weil offengelegte Introspection und Batch-Missbrauch Datenexfiltration ermöglichen können."
+  },
+  "Graphy": {
+    "description": "Graphy ist eine Plattform, mit der sich Kurse, Communities und digitale Produkte mithilfe von AI-Tools erstellen und skalieren lassen.",
+    "history": "Graphy ist eine No-Code-Plattform zur Monetarisierung von Inhalten, die um 2019 gegründet wurde; sie ermöglicht Creators, Kurse, Mitgliedschaften und digitale Produkte zu verkaufen, sammelte Finanzierung ein und richtete sich an die Creator Economy.",
+    "summary_abuse": "Graphy ist eine Creator-Economy-Plattform ohne auffällige Missbrauchshistorie. Übliche Zahlungs- und Inhaltsrichtlinien gelten."
+  },
+  "Grappos": {
+    "description": "Grappos ist ein funktionsreicher Product Locator, der Nutzer über strukturierte Suche und standortbasierte Auffindbarkeit zu Produkten führt.",
+    "history": "Grappos ist ein SaaS-Angebot für Point-of-Sale und Bestellmanagement in Gastronomie und Detailhandel, gegründet Mitte der 2010er-Jahre. Dokumentierte Übernahmen oder grössere Vorfälle sind nicht bekannt.",
+    "summary_abuse": "Grappos ist ein POS-Tool für Händler ohne bekannte Missbrauchssignale. Die Zahlungsabwicklung läuft typischerweise über etablierte Zahlungsdienstleister."
+  },
+  "Grasp": {
+    "description": "Grasp ist ein Anbieter von Kundensupport-Software mit cloudbasiertem Helpdesk und Live-Chat für Unternehmen jeder Grösse.",
+    "history": "Grasp ist eine SaaS-Plattform für Kundensupport und Helpdesk; sie wurde Mitte der 2010er-Jahre für kleine Unternehmen gegründet. Bedeutende Eigentümerwechsel oder Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "Grasp ist ein Helpdesk-Tool ohne auffällige Missbrauchshistorie. Es handelt sich um ein übliches SaaS-Angebot mit begrenzter Endnutzer-Angriffsfläche."
+  },
+  "Grav": {
+    "description": "Grav ist ein modernes Open-Source-Flat-File-CMS, das auf Geschwindigkeit und Flexibilität ausgelegt ist und Websites ohne Datenbank einfach erstellen und verwalten lässt.",
+    "history": "Grav CMS wurde von Andy Miller und Rhuk aus dem RocketTheme-Team entwickelt und 2014 erstmals veröffentlicht. Es entstand als modernes Flat-File-CMS auf Basis von PHP, Symfony-Komponenten, Twig-Templating und Markdown. Grav gewann 2017, 2019, 2020 und 2021 Auszeichnungen als Best Flat File CMS. Das System richtet sich an Entwickler, die ein datenbankfreies CMS mit versionskontrollfreundlicher Dateispeicherung wollten. Es wird weiterhin aktiv als Open-Source-Projekt unter der MIT-Lizenz gepflegt.",
+    "summary_abuse": "Grav CMS hat nur eine geringe Missbrauchsfläche. Als selbst gehostetes Flat-File-CMS hängt Missbrauch davon ab, wie Betreiber es konfigurieren und bereitstellen. Es sind keine gross angelegten Ausnutzungskampagnen bekannt, die gezielt Grav betreffen, auch wenn es wie alle CMS bei fehlenden Updates anfällig für Schwachstellen sein kann. Über die Jahre wurden mehrere CVEs für Grav gemeldet, darunter XSS- und Datei-Upload-Schwachstellen, die üblicherweise mit Updates behoben werden."
+  },
+  "Gravatar": {
+    "description": "Gravatar ist ein Dienst für global eindeutige Avatare.",
+    "history": "Gravatar (Globally Recognized Avatar) wurde 2004 von Tom Preston-Werner erstellt und 2007 von Automattic, dem Unternehmen hinter WordPress.com, übernommen. Der Dienst wurde zum De-facto-Standard für Nutzeravatare im Web und kam auf Millionen Websites zum Einsatz, darunter WordPress, historisch auch GitHub und zahlreiche Foren. Automattic besitzt und betreibt Gravatar als kostenlosen Dienst innerhalb seines breiteren Ökosystems.",
+    "summary_abuse": "Gravatar wurde für E-Mail-Enumeration missbraucht, weil die Abfrage eines MD5-Hashs einer beliebigen E-Mail-Adresse erkennen lässt, ob dafür ein Gravatar-Konto existiert. Sicherheitsforscher haben dieses Datenschutzleck dokumentiert. Trotz zusätzlicher Datenschutzeinstellungen von Automattic ermöglicht das Grunddesign weiterhin die Verifizierung von E-Mail-Adressen in grossem Umfang, was gelegentlich von Spammern und Scrapern ausgenutzt wird. Automattic unterhält Nutzungsbedingungen und reagiert auf Missbrauchsmeldungen."
+  },
+  "Gravitec": {
+    "description": "Gravitec ist ein Tool für Push-Benachrichtigungen.",
+    "history": "Gravitec ist ein ukrainischer Dienst für Web-Push-Benachrichtigungen, der um 2016 gegründet wurde. Er richtet sich an Publisher und E-Commerce-Websites, die Besucher erneut ansprechen möchten, und konkurriert mit OneSignal und PushEngage.",
+    "summary_abuse": "Web-Push-Dienste wie Gravitec werden häufig für Spam und Clickbait-Werbung missbraucht. Bösartige Websitebetreiber nutzen Push-Benachrichtigungen, um Adblocker zu umgehen und Nutzer mit unerwünschten Meldungen zu überhäufen. Die kostenlose Stufe und einfache Registrierung von Gravitec können Hürden für Spammer senken, auch wenn der Dienst Bedingungen veröffentlicht, die Spam verbieten. Die Push-Benachrichtigungsbranche hat generell einen schlechten Ruf, weil sie aufdringliche Werbung erleichtert."
+  },
+  "Gravito": {
+    "description": "Gravito ist ein Dienst für zentral verwaltete Nutzereinwilligungen und die Erfassung beobachteter Daten über mehrere digitale Kontaktpunkte hinweg, mit sicherer Einbindung in personenbezogene Daten.",
+    "history": "Gravito ist eine finnische Plattform für Consent Management und First-Party-Daten, gegründet um 2018; sie konzentriert sich auf GDPR-konforme Erfassung von Zielgruppendaten und Einwilligungsorchestrierung für Publisher.",
+    "summary_abuse": "Gravito ist eine Consent-Management-Plattform ohne bekannte Missbrauchssignale; sie soll Websites bei der Einhaltung von Datenschutzvorgaben unterstützen, nicht diese umgehen."
+  },
+  "Gravity": {
+    "description": "Gravity ist eine Live-Chat-Lösung für Echtzeitkommunikation in Unternehmen.",
+    "history": "Gravity Forms ist ein WordPress-Formular-Plugin von Rocketgenius, gegründet um 2008 bis 2009. Es wurde zu einem der beliebtesten Premium-WordPress-Plugins mit Hunderttausenden aktiven Installationen. Das Unternehmen blieb unabhängig und in Entwicklerhand und veröffentlicht seit über 15 Jahren regelmässig grössere Updates.",
+    "summary_abuse": "Gravity Forms ist ein WordPress-Plugin zum Erstellen von Kontaktformularen und Umfragen. Formulare können für Phishing-Datenerfassung genutzt werden, wenn eine Website kompromittiert ist, Gravity Forms selbst ist jedoch nicht auffällig missbraucht. Durch den selbst gehosteten Betrieb hängt Missbrauch vom jeweiligen Websitebetreiber ab. Der Anbieter unterhält ein aktives Sicherheitsteam und patcht Schwachstellen zeitnah."
+  },
+  "Gravity Forms": {
+    "history": "Gravity Forms wurde von Rocketgenius entwickelt und um 2008 als Premium-Formular-Plugin für WordPress veröffentlicht. Wegen seines robusten Funktionsumfangs mit bedingter Logik, Zahlungsintegrationen und einem grossen Add-on-Ökosystem wurde es zu einem der beliebtesten und angesehensten WordPress-Plugins. Rocketgenius blieb über die gesamte Geschichte unabhängig, was es zu einem bemerkenswerten Erfolg eines gebootstrappten WordPress-Plugin-Unternehmens macht. Das Plugin wird weltweit von Millionen WordPress-Websites genutzt.",
+    "summary_abuse": "Gravity Forms hat als selbst gehostetes WordPress-Plugin ein niedriges Missbrauchsprofil. Mit Gravity Forms erstellte Formulare werden gelegentlich von automatisierten Spam-Bots angegriffen, die Fake-Leads einreichen, wogegen das Plugin Captcha-Integrationen anbietet. Die Zahlungsintegrationen wie Stripe und PayPal könnten theoretisch für betrügerische Zahlungsseiten genutzt werden, dieses Risiko betrifft jedoch alle Payment-Formular-Builder. Systematische Missbrauchskampagnen speziell gegen Gravity Forms sind nicht dokumentiert."
+  },
+  "GreatPages": {
+    "description": "GreatPages ist eine vielseitige Page-Builder-Software aus Brasilien.",
+    "history": "GreatPages ist ein SaaS-Angebot zum Erstellen von Landingpages und Websites für kleine Unternehmen und Marketer. Es wurde Anfang der 2020er-Jahre gegründet, mit nur begrenzt öffentlich dokumentierter Eigentümergeschichte.",
+    "summary_abuse": "Landingpage-Builder wie GreatPages können zum Erstellen von Phishing-Seiten oder betrügerischen Shops genutzt werden. Für diesen Anbieter sind keine spezifischen Vorfälle dokumentiert. Kostenloses oder günstiges Hosting von Landingpages mit eigenen Domains bringt ein moderates, für Page Builder typisches Missbrauchsrisiko mit sich."
+  },
+  "Green Valley CMS": {
+    "history": "Green Valley CMS ist ein Nischen-CMS mit begrenzter öffentlicher Dokumentation. Es scheint sich an kleine Organisationen oder Gemeinden zu richten, die eine betreute Webplattform benötigen.",
+    "summary_abuse": "Green Valley CMS hat keine auffällige Missbrauchshistorie. Es ist ein Nischen-CMS mit kleiner Nutzerbasis und ohne bekannte Fälle, in denen es Betrug oder schädliche Inhalte erleichtert hätte."
+  },
+  "Greenhouse": {
+    "description": "Greenhouse ist ein Tool für Bewerbermanagement und Recruiting mit automatisierten Workflows, Recruiting-Analysen, CRM und Onboarding.",
+    "history": "Greenhouse Software wurde 2012 von Daniel Chait und Jon Stross in New York City gegründet. Das Unternehmen sammelte umfangreiche VC-Finanzierung ein und wuchs zu einem führenden Applicant-Tracking-System für mittelständische und grosse Unternehmen. Greenhouse blieb unabhängig und wird von Tausenden Unternehmen für Recruiting-Workflows genutzt.",
+    "summary_abuse": "Greenhouse ist ein Enterprise-ATS ohne auffällige Missbrauchshistorie. Es verarbeitet Bewerberdaten unter strengen Unternehmensverträgen. Die Plattform bietet keine öffentlich zugängliche Content-Hosting-Fläche, die Spam oder Betrug anziehen würde."
+  },
+  "GreenRope": {
+    "description": "GreenRope ist eine All-in-One-CRM-Plattform, die Vertrieb, Marketing und operative Werkzeuge in einem System für Unternehmensmanagement zusammenführt.",
+    "history": "GreenRope ist eine All-in-One-Plattform für CRM, Marketing Automation und Vertrieb, gegründet 2008 von Lars Helgeson in San Diego, Kalifornien. Das Unternehmen blieb unabhängig und gebootstrappt und ist für sein Pauschalpreismodell unabhängig von der Kontaktanzahl bekannt.",
+    "summary_abuse": "GreenRope ist eine CRM- und E-Mail-Marketing-Plattform mit üblichen Versandfunktionen. Wie alle E-Mail-Marketing-Tools könnte sie für Spam missbraucht werden, das Unternehmen setzt jedoch Anti-Spam-Richtlinien durch und bedient hauptsächlich kleine Unternehmen. Auffällige Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "GreenStory": {
+    "description": "GreenStory ist ein Analysewerkzeug für Lieferkettentransparenz, mit dem Unternehmen ihre Lieferketten verfolgen und darüber berichten können.",
+    "history": "GreenStory ist ein kanadisches SaaS-Angebot für Nachhaltigkeitsanalysen und Umweltwirkungsberichte, gegründet um 2016. Es richtet sich an Marken, die ihren ökologischen Fussabdruck berechnen und gegenüber Konsumenten kommunizieren möchten.",
+    "summary_abuse": "GreenStory ist eine Nachhaltigkeitsdatenplattform ohne bekannte Missbrauchssignale; sie arbeitet im B2B-Kontext und hilft Unternehmen, Umweltwirkungen zu messen."
+  },
+  "GReminders": {
+    "description": "GReminders ist eine End-to-End-Plattform für Termin- und Meeting-Management, mit der Fachpersonen Besprechungen planen, organisieren und verwalten können.",
+    "history": "GReminders ist ein US-amerikanischer Dienst für Terminerinnerungen, gegründet um 2016. Er integriert sich mit Google Calendar und Outlook, um automatisierte SMS- und E-Mail-Erinnerungen zu versenden, und richtet sich an Gesundheitsanbieter, Finanzberater und Dienstleistungsunternehmen. Auffällige Übernahmen oder Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "GReminders ist ein Tool für Terminbenachrichtigungen per SMS und E-Mail. Wie alle Messaging-Automation-Plattformen könnte es potenziell für Spam missbraucht werden, verlangt jedoch Kalenderintegration und zielt auf legitime professionelle Dienstleistungen. Dokumentierte Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "Greyd.Suite": {
+    "description": "Greyd.Suite ist eine All-in-One-Plattform für WordPress-Business-Prozesse, die Website-Verwaltung, Design und Marketing-Tools in einem System bündelt.",
+    "history": "Greyd.Suite ist ein deutscher WordPress-Page-Builder und eine Design-Suite, gegründet um 2019. Das Produkt richtet sich an deutschsprachige Webprofis, die eine GDPR-freundliche Alternative zu US-basierten Buildern suchen. Das Unternehmen ist klein und unabhängig.",
+    "summary_abuse": "Greyd.Suite ist ein WordPress-Plugin ohne bekannte Missbrauchshistorie. Es wird vor allem von deutschen Webagenturen genutzt und hat keine direkt konsumentenorientierte Angriffsfläche."
+  },
+  "Griddo": {
+    "description": "Griddo ist eine Martech Experience Platform zum Erstellen individueller digitaler Erlebnisse.",
+    "history": "Griddo ist eine Digital Experience Platform speziell für Hochschulen, entwickelt von einem spanischen Unternehmen; sie bietet ein No-Code-Headless-CMS, mit dem Marketing- und Kommunikationsteams von Universitäten mehrere Websites, Fakultäten und Landingpages ohne IT-Abhängigkeit verwalten können. Die Plattform basiert auf JavaScript mit React und Node; sie bedient die Nische europäischer Universitäten, die Multi-Site-Governance benötigen.",
+    "summary_abuse": "Griddo ist ein Nischen-Enterprise-CMS für Hochschulen ohne dokumentierte Missbrauchsfläche. Das reine Enterprise-Vertriebsmodell und der Fokus auf institutionelle Kunden machen eine Beteiligung an konsumentenorientiertem Scam- oder Spam-Geschäft unwahrscheinlich."
+  },
+  "Gridsome": {
+    "description": "Gridsome ist ein kostenloser Open-Source-Static-Site-Generator auf Basis von Vue zum Erstellen statischer Websites.",
+    "history": "Gridsome ist ein Open-Source-Static-Site-Generator für Vue.js, inspiriert von Gatsby und 2018 von Tommy und Hans-Jørgen Vedvik aus Norwegen erstellt. Die Entwicklung verlangsamte sich nach 2021 deutlich, als Nuxt.js und andere Frameworks wuchsen, wodurch das Projekt weitgehend inaktiv wurde.",
+    "summary_abuse": "Gridsome ist ein Static-Site-Generator ohne Missbrauchssignal. Es gibt keine gehostete Plattform und keine Laufzeit-Ausführungsfläche, die für schädliche Zwecke ausgenutzt werden könnte."
+  },
+  "Gridster": {
+    "description": "Gridster ist ein jQuery-Plugin zum Erstellen von Dashboards mit Drag-and-Drop-Widgets.",
+    "history": "Gridster.js ist ein Open-Source-jQuery-Plugin für ziehbare Grid-Layouts, das um 2012 von Ducksboard entwickelt wurde. Nach der Übernahme von Ducksboard durch New Relic im Jahr 2014 kam die Entwicklung weitgehend zum Stillstand, sodass die Bibliothek faktisch aufgegeben ist und seitdem keine wesentlichen Updates erhalten hat.",
+    "summary_abuse": "Gridster.js ist eine clientseitige UI-Bibliothek ohne Missbrauchssignal; sie hat weder Serverkomponente noch gehosteten Dienst."
+  },
+  "Grin": {
+    "description": "Grin ist eine Plattform für Influencer-Marketing.",
+    "history": "GRIN ist ein SaaS-Angebot für Influencer-Marketing, gegründet 2014 in Sacramento, Kalifornien. Das Unternehmen sammelte über 110 Millionen US-Dollar VC-Finanzierung ein und positionierte sich als führende Creator-Management-Plattform für DTC-Marken. Es blieb unabhängig und wuchs deutlich im Influencer-Marketing-Markt.",
+    "summary_abuse": "GRIN ist eine Influencer-Marketing-Plattform mit üblicher Verarbeitung von Social-Media-Daten. Marketingplattformen können Influencer-Betrug über gefälschte Follower-Kennzahlen erleichtern, GRIN bietet jedoch Werkzeuge zur Erkennung solcher Manipulationen. Auffällige Sicherheitsvorfälle oder regulatorische Massnahmen sind nicht dokumentiert."
+  },
+  "Grivy": {
+    "description": "Grivy ist eine Plattform, die Marken mit Konsumenten verbindet und Engagement sowie Interaktion erleichtert.",
+    "history": "Grivy ist eine Referral- und Loyalty-Marketing-Plattform für E-Commerce, gegründet Anfang der 2020er-Jahre. Über Eigentümergeschichte oder Finanzierung des Unternehmens gibt es nur begrenzte öffentliche Informationen.",
+    "summary_abuse": "Grivy ist ein Referral-Marketing-Tool mit begrenzter Missbrauchshistorie. Empfehlungsprogramme können für Coupon-Betrug ausgenutzt werden, konkrete Vorfälle mit diesem Anbieter sind jedoch nicht dokumentiert."
+  },
+  "GrocerKey": {
+    "description": "GrocerKey ist eine E-Commerce-Plattform, mit der Lebensmittelhändler einen Online-Shop aufbauen können.",
+    "history": "GrocerKey ist eine White-Label-E-Commerce-Plattform für Lebensmittelhandel, gegründet um 2014; sie stellt Online-Bestell- und Lieferinfrastruktur für unabhängige Lebensmittelhändler und Supermärkte bereit und konkurriert mit Instacarts White-Label-Angebot sowie ähnlichen Lösungen.",
+    "summary_abuse": "GrocerKey ist eine B2B-E-Commerce-Plattform für Lebensmittelhandel ohne auffällige Missbrauchshistorie; sie verarbeitet Konsumentenbestellungen für Lebensmittelhändler mit üblichen Anforderungen an Zahlungssicherheit."
+  },
+  "Groobee": {
+    "description": "Groobee ist eine Lösung für personalisiertes E-Commerce-Marketing mit Funktionen zur Kundenpersonalisierung.",
+    "history": "Groobee ist eine südkoreanische Plattform für E-Commerce-Personalisierung und Produktempfehlungen, gegründet um 2014; sie richtet sich an Onlinehändler mit AI-gestützten Empfehlungsmaschinen und Verhaltensanalysen.",
+    "summary_abuse": "Groobee ist eine Empfehlungsmaschine ohne bekannte Missbrauchshistorie; sie sammelt Verhaltensdaten zur Personalisierung, was für E-Commerce-Analytics-Tools üblich ist."
+  },
+  "Groove": {
+    "description": "Groove ist eine Helpdesk-Software mit gemeinsamem Posteingang, Wissensdatenbank und Chat-Funktionen.",
+    "history": "Groove (GrooveHQ) wurde 2011 von Alex Turnbull gegründet, angestossen durch seine Frustration mit überladenen Helpdesk-Produkten in einem früheren Unternehmen. Die Firma wuchs organisch ohne nennenswerte Venture-Finanzierung auf über 10 Millionen US-Dollar ARR; sie läuft unter dem Dach von OptimizeCX, zu dem auch die verwandten Produkte Helply und InstantDocs gehören. Der WPBeginner Fund von Syed Balki investierte in Groove, um die weitere Produktentwicklung zu unterstützen.",
+    "summary_abuse": "Für Groove ist keine dokumentierte Missbrauchsfläche bekannt. Es ist ein B2B-Helpdesk-SaaS für kleine Unternehmen im Kundensupport, ohne öffentliche Registrierungs- oder Hosting-Funktionen, die böswillige Akteure anziehen würden. Die Plattform verarbeitet Kundensupport-E-Mails, was aus Missbrauchssicht eher risikoarm ist."
+  },
+  "Groove.cm": {
+    "description": "Groove.cm ist eine Plattform mit Marketing-, Vertriebs- und Business-Tools ohne Anfangskosten, damit Unternehmen auf Skalierung fokussieren können.",
+    "history": "Groove.cm, ursprünglich GrooveFunnels, ist ein All-in-One-Marketing-SaaS, das 2020 von Mike Filsaime und John Cornetta gestartet wurde. Es bot einen Freemium-Funnel-Builder und eine Marketing-Suite. Die Plattform wurde wegen aggressiver Launch-Taktiken, verzögerter Funktionslieferung und Kontroversen um Lifetime-Deal-Verkäufe kritisiert. Das Produkt wurde umbenannt und ist weiterhin in Betrieb.",
+    "summary_abuse": "Groove.cm wurde für aggressive E-Mail-Marketing-Praktiken und Dark Patterns im Verkaufstrichter kritisiert, darunter druckvolle Lifetime-Deal-Taktiken. Als Plattform zum Erstellen von Verkaufsseiten und Marketing-Funnels hat sie dieselben Missbrauchsrisiken wie andere Funnel Builder. Bedeutende Betrugs- oder Phishing-Vorfälle, die direkt der Plattform zugeschrieben werden, sind nicht bekannt."
+  },
+  "GrooveKart": {
+    "description": "GrooveKart ist eine E-Commerce-Plattform zum Aufbau und Betrieb von Online-Shops mit Werkzeugen für Produktlisten, Zahlungen und Marketing ohne zusätzliche Transaktionsgebühren.",
+    "history": "GrooveKart ist eine E-Commerce-Plattform, die um 2019 von Mike Filsaime und John Cornetta unter dem Dach von Groove Digital als Shopify-Alternative gestartet wurde. Erste Aufmerksamkeit gewann sie durch aggressives Affiliate-Marketing. Die Plattform wurde dafür kritisiert, Funktionen zu stark versprochen zu haben.",
+    "summary_abuse": "GrooveKart ermöglicht Nutzern, Online-Shops einzurichten. Wie andere E-Commerce-Plattformen kann es betrügerische Shops und Verkäufer von Fälschungen hosten. Das lockere Onboarding und das stark affiliate-getriebene Marketing der Plattform haben zu Kritik in der E-Commerce-Community beigetragen."
+  },
+  "GroovePages": {
+    "description": "GroovePages ist ein cloudbasierter Drag-and-Drop-Website- und Funnel-Builder, mit dem Nutzer ohne Programmierung responsive Websites, Landingpages und Sales Funnels erstellen können.",
+    "history": "GroovePages ist ein Drag-and-Drop-Builder für Funnels und Landingpages, gestartet 2019 bis 2020 von Mike Filsaime und John Cornetta von Groove Digital. Er wurde aggressiv an Affiliate-Marketer vermarktet und war Teil der GrooveFunnels-Suite, heute Groove.cm. Die Plattform zog Kontroversen wegen ihres Lifetime-Deal-Marketings und verspäteter Funktionsstarts auf sich.",
+    "summary_abuse": "GroovePages wird zum Erstellen von Marketing-Funnels und Landingpages genutzt. Wie alle Funnel Builder mit kostenlosen Stufen kann es für Phishing-Seiten oder betrügerische Shops ausgenutzt werden. Die Plattform war bei aggressiven Affiliate-Marketern beliebt. Spezifische Massen-Phishing-Kampagnen wurden ihr nicht zugeschrieben."
+  },
+  "GroupBy": {
+    "description": "GroupBy ist eine Suchmaschine für E-Commerce-Websites.",
+    "history": "GroupBy Inc. ist eine kanadische Plattform für E-Commerce-Suche, Merchandising und Personalisierung, gegründet 2013 in Toronto. Das Unternehmen sammelte VC-Finanzierung ein, bedient Enterprise-Händler und integriert sich mit den Retail-AI-Funktionen von Google Cloud. Es blieb unabhängig.",
+    "summary_abuse": "GroupBy ist eine Enterprise-Plattform für E-Commerce-Suche ohne bekannte Missbrauchshistorie; sie arbeitet im Hintergrund von Retail-Websites und hat keine direkt konsumentenorientierte Angriffsfläche."
+  },
+  "Growave": {
+    "description": "Growave ist eine All-in-One-App für Social Login und Sharing, Bewertungen, Wunschlisten, Instagram-Feed, automatisierte E-Mails und mehr.",
+    "history": "Growave, ursprünglich SocialShopWave, ist eine Shopify-App für Treueprogramme, Wunschlisten, Bewertungen und Social Login, gegründet 2014 in Kirgisistan. Das Unternehmen benannte sich in Growave um und wuchs zu einem All-in-One-Social-Marketing-Tool für Tausende Shopify-Shops.",
+    "summary_abuse": "Growave ist eine Shopify-App für Loyalty und Bewertungen ohne auffällige Missbrauchshistorie; sie sammelt Kundendaten für Händler innerhalb der üblichen Shopify-Regeln zur Datenverwaltung."
+  },
+  "Growcer": {
+    "description": "Growcer ist ein Online-Marktplatz für Lebensmittelbestellung und -lieferung, der Kunden mit lokalen Geschäften für bequemes Einkaufen verbindet.",
+    "history": "Growcer ist eine White-Label-Software für Lebensmittel-Marktplätze von FATbit Technologies, einem indischen Softwareentwicklungsunternehmen; sie wurde um 2020 eingeführt und richtet sich an Unternehmer, die Instacart-ähnliche Lieferplattformen für Lebensmittel aufbauen wollen. FATbit entwickelt auch Yo!Kart und ähnliche Marktplatz-Skripte.",
+    "summary_abuse": "Growcer ist ein selbst gehostetes Marktplatz-Skript ohne direkte Missbrauchshistorie. Als White-Label-Produkt, das an Betreiber verkauft wird, liegen Sicherheit und Compliance in deren Verantwortung. Für FATbit-Produkte wurden in der Vergangenheit in externen Sicherheitsaudits Schwachstellen bekannt."
+  },
+  "Growform": {
+    "description": "Growform ist ein Multi-Step-Formular-Builder mit E-Mail-Benachrichtigungen, Zapier-Integrationen und integrierten Vorlagen.",
+    "history": "Growform ist ein mehrstufiger Formular-Builder mit Fokus auf Leadgenerierung, gegründet um 2020. Er richtet sich an Marketingagenturen und Performance-Marketer, die über mehrstufige Formularpsychologie höhere Lead-Conversion-Raten erreichen wollen. Die Plattform gewann über AppSumo-Lifetime-Deals an Verbreitung und wird von Unternehmen wie Stax Payments genutzt. Für die weltweite Formularauslieferung nutzt sie Cloudflare-Infrastruktur.",
+    "summary_abuse": "Growform ist ein Multi-Step-Formular-Builder, der primär für Leadgenerierung genutzt wird. Wie alle Formular-Builder könnte er für Phishing-Formulare oder gefälschte Lead-Capture-Seiten eingesetzt werden, dies ist jedoch kein speziell für Growform dokumentiertes Muster. Die Plattform konzentriert sich auf legitime Marketing-Anwendungsfälle und bedient bekannte Kunden. Öffentliche Berichte über spezifische Missbrauchsvorfälle gibt es nicht."
+  },
+  "Growing Good": {
+    "description": "Growing Good ist eine Softwareplattform für lokale Gemüsekisten-Angebote und stellt Werkzeuge für den Betrieb bereit.",
+    "history": "Growing Good Technology Ltd wurde 2022 gegründet und ist in Oxford, UK, unter der Firmennummer 14017010 registriert. Die Plattform wurde von einem Team mit zusammen über 10 Jahren Erfahrung in der Veg-Box-Branche entwickelt und ist ein zweckgebautes SaaS-Angebot für britische Gemüsekisten- und Food-Abo-Unternehmen zur Verwaltung von Betrieb, Abos und Verkauf.",
+    "summary_abuse": "Growing Good ist eine Nischen-B2B-SaaS-Plattform für britische Gemüsekisten- und Hofabo-Unternehmen; sie hat kein auffälliges Missbrauchsprofil, keine anonyme öffentliche Registrierung und bedient ein kleines spezialisiertes Marktsegment mit minimalem Missbrauchsrisiko."
+  },
+  "GrowingIO": {
+    "history": "GrowingIO ist eine chinesische Plattform für Digital Analytics und Marketing Intelligence, gegründet 2015 von Zhang Xu in Peking. Das Unternehmen sammelte umfangreiche VC-Finanzierung ein und wurde zu einer der führenden chinesischen Analytics-Plattformen für Unternehmen. Der Schwerpunkt liegt auf Verhaltensanalysen und User-Journey-Tracking.",
+    "summary_abuse": "GrowingIO ist eine chinesische Analytics-Plattform, die hauptsächlich von Unternehmen genutzt wird. Für westliche Nutzer wirft der Sitz in China angesichts chinesischer Datenzugriffsgesetze Fragen zur Datensouveränität auf. Konkrete Betrugs- oder Phishing-Vorfälle sind nicht dokumentiert. Die Tracker-Dichte ist wegen der Verhaltensanalysefunktionen moderat."
+  },
+  "GrowSurf": {
+    "description": "GrowSurf ist eine Referral-Marketing-Software, die virales Wachstum für Websites automatisieren soll.",
+    "history": "GrowSurf ist ein entwicklerorientiertes SaaS für Empfehlungsprogramme, gegründet 2019. Es richtet sich an B2B-SaaS-Unternehmen mit technischen Integrationen über API und konkurriert mit Viral Loops und ReferralHero. Das Unternehmen ist gebootstrappt oder nur leicht finanziert und blieb unabhängig.",
+    "summary_abuse": "GrowSurf betreibt Empfehlungsprogramme für B2B-SaaS, die für Referral-Betrug ausgenutzt werden können. Konkrete Missbrauchsvorfälle sind nicht dokumentiert. In jedem Referral-System sind übliche Anti-Fraud-Massnahmen zu erwarten."
+  },
+  "GrowthBook": {
+    "description": "GrowthBook ist eine Plattform, mit der Produktteams Experimente durchführen und verfolgen, Ergebnisse analysieren und datenbasierte Entscheidungen zur Produktoptimierung treffen können.",
+    "history": "GrowthBook wurde um 2020 gegründet und durchlief Y Combinator. Es startete als Open-Source-Plattform für Feature Flags und A/B-Tests und positionierte sich als warehouse-native Alternative zu kommerziellen Tools wie LaunchDarkly und Optimizely. Das Projekt gewann über 3'000 Unternehmen als Nutzer. Das Open-Core-Modell verwendet MIT für den Grossteil der Codebasis und eine kommerzielle Lizenz für Enterprise-Funktionen.",
+    "summary_abuse": "GrowthBook ist eine entwicklerorientierte Plattform für Feature Flags und Experimente ohne nennenswert dokumentierte Missbrauchsfläche. Das Tool wird für interne Produktentwicklungsabläufe genutzt und hat keine konsumentenorientierte Oberfläche, die böswillige Akteure anziehen würde. Bei selbst gehosteten Installationen liegt die Sicherheit vollständig bei der betreibenden Organisation."
+  },
+  "Gruvi": {
+    "description": "Gruvi ist ein Movie-Marketing-Netzwerk, das der Filmbranche Promotion-Tools und Services für Zielgruppenansprache und höhere Sichtbarkeit von Filmen über gezielte Kampagnen und digitale Strategien bietet.",
+    "history": "Gruvi ist eine belgische OTT-Video-Streaming- und Fan-Engagement-Plattform, gegründet um 2014; sie richtet sich an Sportclubs, Medienunternehmen und Entertainment-Marken und bietet White-Label-Streaming-Apps sowie Aboverwaltung.",
+    "summary_abuse": "Gruvi ist eine B2B-Video-Streaming-Plattform ohne auffällige Missbrauchshistorie; sie stellt Infrastruktur für Rechteinhaber bereit und bietet kein anonymes konsumentenorientiertes Content-Hosting, das Missbrauch anziehen würde."
+  },
+  "GSAP": {
+    "description": "GSAP ist eine Animationsbibliothek, mit der du Animationen in JavaScript erstellen kannst.",
+    "history": "GSAP (GreenSock Animation Platform) wurde ab etwa 2008 von Jack Doyle als Lösung für effiziente Flash-Banner-Animationen entwickelt. Aus TweenLite entstand eine umfassende JavaScript-Animationssuite. Im Oktober 2024 übernahm Webflow das GreenSock-Geschäft, danach wurden alle zuvor kostenpflichtigen Plugins kostenlos. Am 30. April 2025 wurde GSAP für alle Nutzer einschliesslich kommerzieller Nutzung vollständig kostenlos.",
+    "summary_abuse": "GSAP ist eine JavaScript-Animationsbibliothek ohne nennenswertes Missbrauchsprofil; sie ist eine reine Frontend-Rendering-Bibliothek ohne Serverkomponente, ohne Erfassung von Nutzerdaten und ohne öffentliche Registrierungsfläche. Das Missbrauchsrisiko ist vernachlässigbar."
+  },
+  "GTranslate": {
+    "description": "GTranslate ist ein Website-Übersetzer, der jede Website automatisch in beliebige Sprachen übersetzen kann.",
+    "history": "GTranslate wurde um 2008 in Armenien als Website-Übersetzungsdienst auf Basis von Google Translate gegründet. Der Dienst wuchs auf über 500'000 Websites und bot automatische sowie menschlich unterstützte Übersetzung an. Er wurde zu einem der meistgenutzten Website-Übersetzungs-Plugins für WordPress und andere CMS-Plattformen.",
+    "summary_abuse": "GTranslate stellt Website-Übersetzung mit Google Translate bereit. Die von vielen Websites genutzte kostenlose Stufe verwendet Googles Übersetzungsinfrastruktur. Datenschutzbedenken bestehen, weil übersetzte Seitenanfragen über GTranslate-Server proxied werden. Der Dienst taucht gelegentlich auf minderwertigen Content-Seiten auf, grössere dokumentierte Missbrauchsvorfälle sind jedoch nicht bekannt."
+  },
+  "GTranslate app": {
+    "description": "GTranslate app ist ein Website-Übersetzer, der jede Website automatisch in beliebige Sprachen übersetzen kann.",
+    "history": "GTranslate app bezeichnet die Shopify- und anderen E-Commerce-App-Versionen des Website-Übersetzungsdienstes von GTranslate; sie basieren auf der Kerninfrastruktur von GTranslate aus dem Jahr 2008, ergänzt um App-Integrationen, als E-Commerce-Plattformen populärer wurden. Hinter ihnen steht dasselbe armenische Unternehmen wie beim Hauptdienst GTranslate.",
+    "summary_abuse": "GTranslate app ist die E-Commerce-Integrationsversion des Website-Übersetzungsdienstes von GTranslate; sie hat dieselben Eigenschaften wie das Hauptprodukt: proxied Übersetzungen über GTranslate-Server, mögliche Datenschutzbedenken, aber keine grösseren dokumentierten Missbrauchsvorfälle."
+  },
+  "GuardFlame": {
+    "description": "GuardFlame ist ein Anbieter von CDN-Beschleunigungsdiensten zur Verbesserung der Website-Performance.",
+    "history": "GuardFlame scheint ein kleines Web-Sicherheits- oder Firewall-Produkt mit begrenzter öffentlicher Dokumentation zu sein. Es wurde Anfang der 2020er-Jahre gegründet und hat nur geringe Marktpräsenz.",
+    "summary_abuse": "GuardFlame ist ein Sicherheitstool ohne dokumentierte Missbrauchshistorie. Sicherheitstools werden von ihren Betreibern generell nicht für missbräuchliche Zwecke ausgenutzt."
+  },
+  "Guest Suite": {
+    "description": "Guest Suite ist ein Tool, das Kundenmeinungen während des Aufenthalts direkt an der Rezeption des Betriebs erfasst.",
+    "history": "Guest Suite ist eine französische Plattform für Kundenbewertungen und Zufriedenheitsmanagement, gegründet um 2016, mit Schwerpunkt auf Hotellerie und Detailhandel; sie bündelt Bewertungen aus mehreren Plattformen und bietet Werkzeuge für Reputationsmanagement.",
+    "summary_abuse": "Guest Suite ist eine Review-Management-Plattform ohne bekannte Missbrauchshistorie; sie hilft Unternehmen, Kundenfeedback innerhalb üblicher GDPR-Compliance-Rahmen zu sammeln und zu beantworten."
+  },
+  "Guestonline": {
+    "description": "Guestonline ist ein Widget für Tischreservierungen in Restaurants.",
+    "history": "Guestonline ist ein französisches SaaS-Angebot für Restaurantreservierungen und Tischmanagement, gegründet um 2012. Es bedient Restaurantbetreiber in Frankreich und Europa mit Buchungsmanagement-Werkzeugen. Das Unternehmen blieb unabhängig.",
+    "summary_abuse": "Guestonline ist eine Restaurantreservierungsplattform ohne bekannte Missbrauchshistorie; sie verarbeitet Kundendaten für Buchungen innerhalb der GDPR-Anforderungen."
+  },
+  "Guesty": {
+    "description": "Guesty ist eine cloudbasierte Plattform, die speziell für Airbnb- und Ferienwohnungsmanager entwickelt wurde.",
+    "history": "Guesty ist ein israelisches Unternehmen für Immobilienverwaltungssoftware, gegründet 2013 von Amiad und Koby Soto für professionelle Airbnb-Gastgeber. Es sammelte über 170 Millionen US-Dollar VC-Finanzierung ein und wuchs zu einer führenden Plattform für Manager von Kurzzeitmietobjekten weltweit, mit Mehrkanal-Inseraten und Gästekommunikation.",
+    "summary_abuse": "Guesty wird von professionellen Verwaltern von Kurzzeitvermietungen genutzt. Die Branche hat Probleme mit Betrug wie Fake-Inseraten und Zahlungsbetrug, diese gehen jedoch von Endnutzern auf Plattformen wie Airbnb aus und nicht von Guesty selbst. Guesty hat keine bedeutende direkte Missbrauchshistorie."
+  },
+  "Guidap": {
+    "description": "Guidap ist eine Plattform für den Online-Verkauf von Aktivitäten, die Buchung, Planung und Zahlungseinzug geräteübergreifend und ohne Provisionen vereinfacht.",
+    "history": "Guidap ist eine französische Plattform für Buchungs- und Reservierungsmanagement von Outdoor-Aktivitäten und Erlebnissen, gegründet um 2018; sie richtet sich an Sportclubs, Escape Rooms und Touranbieter.",
+    "summary_abuse": "Guidap ist eine Buchungsplattform für Aktivitätsanbieter ohne bekannte Missbrauchshistorie; sie arbeitet im B2B-Kontext innerhalb der GDPR-Compliance."
+  },
+  "GuideIT": {
+    "description": "GuideIT ist ein Cloud-Hosting-Anbieter.",
+    "history": "GuideIT scheint ein schwedisches SaaS-Angebot für IT-Service-Management oder Helpdesk mit begrenzter öffentlicher Dokumentation zu sein. Es wurde Mitte der 2010er-Jahre gegründet und hat eine kleine Marktpräsenz.",
+    "summary_abuse": "GuideIT ist eine IT-Management-Plattform ohne bekannte Missbrauchshistorie; sie bedient B2B-Kunden und hat keine konsumentenorientierte Content-Hosting-Fläche."
+  },
+  "GuildQuality": {
+    "description": "GuildQuality ist eine Plattform für Kundenzufriedenheitsumfragen und Leistungsberichte, die Feedback sammelt, Servicequalität misst und strukturierte Erkenntnisse zur operativen Verbesserung liefert.",
+    "history": "GuildQuality ist eine Plattform für Kundenzufriedenheitsumfragen, gegründet 2006 von Aaron Hirschi in Atlanta, Georgia, mit Spezialisierung auf Hausbau und Renovation. Das Unternehmen wurde um 2021 von Porch Group (PRCH), einer börsenkotierten Plattform für Home Services, übernommen.",
+    "summary_abuse": "GuildQuality ist eine Umfrage- und Bewertungsplattform für Handwerker und Dienstleister rund ums Haus ohne auffällige Missbrauchshistorie; sie wird von der börsenkotierten Porch Group getragen."
+  },
+  "GumGum": {
+    "description": "GumGum ist ein Technologie- und Medienunternehmen mit Schwerpunkt auf kontextueller Intelligenz.",
+    "history": "GumGum ist ein Werbetechnologie-Unternehmen, gegründet 2008 von Ophir Tanz in Santa Monica, Kalifornien. Es gehörte zu den Pionieren von In-Image- und kontextueller Werbung mit Computer Vision. Das Unternehmen sammelte umfangreiche VC-Finanzierung ein und wurde zu einem wichtigen Akteur in der kontextuellen Werbebranche, besonders als Datenschutzregeln eine Abkehr von Behavioral Tracking begünstigten. GumGum blieb unabhängig.",
+    "summary_abuse": "GumGum ist ein Ad-Tech-Unternehmen, dessen Skripte auf Millionen Websites erscheinen. Werbenetzwerke werden häufig zur Auslieferung von Malvertising genutzt, und GumGum wurde mit branchenweiten Ad-Fraud-Bedenken in Verbindung gebracht, wie sie für den Sektor typisch sind. Das Unternehmen setzt auf kontextuelles Targeting statt Behavioral Tracking, was einige Datenschutzbedenken gegenüber cookiebasierten Wettbewerbern reduziert. Es ist Mitglied von IAB und TAG (Trustworthy Accountability Group)."
+  },
+  "Gumlet": {
+    "description": "Gumlet ist eine Lösung zur Optimierung von Bildern.",
+    "history": "Gumlet ist eine indische Media-Delivery-Plattform, gegründet 2018, mit Image-Optimization-CDN und Video-Streaming-Diensten. Das Unternehmen sammelte Seed-Finanzierung ein und wuchs auf Tausende Publisher. Es sitzt in Bangalore und nutzt globale CDN-Infrastruktur.",
+    "summary_abuse": "Gumlet ist ein Media-Delivery-CDN ohne bedeutende Missbrauchshistorie. CDNs können zum Hosten und Verteilen schädlicher Inhalte genutzt werden, doch die Hauptkunden von Gumlet sind Publisher und Entwickler. Die Infrastruktur ist nicht dafür bekannt, für Phishing oder Malware-Verteilung ausgenutzt zu werden."
+  },
+  "Gumroad": {
+    "description": "Gumroad ist eine Self-Publishing- und Digital-Marktplatz-Plattform zum Verkauf digitaler Dienste und Produkte wie Bücher, Mitgliedschaften, Kurse und weitere digitale Angebote.",
+    "history": "Gumroad wurde 2011 von Sahil Lavingia, zuvor bei Pinterest, gegründet. Das Unternehmen sammelte VC-Finanzierung ein und baute eine Plattform, auf der Creators digitale Produkte verkaufen können. Gumroad entliess 2015 nach einer gescheiterten Series-B-Finanzierung bekanntlich den Grossteil des Teams und wurde zu einem extrem schlanken Unternehmen. Sahil schrieb später öffentlich über diese Erfahrung. Das Unternehmen erholte sich und wuchs weiter, später mit einem Open-Source-Ansatz für Teile der Codebasis.",
+    "summary_abuse": "Gumroad ermöglicht es praktisch jedem, digitale Produkte mit minimaler Verifikation zu verkaufen. Die Plattform wurde zum Verkauf piratierter Inhalte, betrügerischer Produkte und minderwertiger AI-generierter Materialien genutzt. Die kostenlose Stufe und einfache Registrierung senken Hürden für böswillige Akteure. Gumroad untersucht Betrugsmeldungen und entfernt regelwidrige Angebote, doch wegen der Nutzungsskala bleibt ein Teil des Missbrauchs bestehen. Zahlungsbetrug und Refund-Missbrauch sind auch aus Verkäufersicht dokumentierte Probleme."
+  },
+  "Gumstack": {
+    "description": "Gumstack bietet eine Live-Video-Shopping-Lösung für E-Commerce.",
+    "history": "Gumstack scheint ein kleiner E-Commerce- oder Creator-Storefront-Builder zu sein, gegründet Anfang der 2020er-Jahre, mit begrenzter öffentlicher Dokumentation und geringer Marktpräsenz.",
+    "summary_abuse": "Gumstack ist eine kleine E-Commerce-Plattform ohne dokumentierte Missbrauchshistorie. Geringe Anbieterstabilität reduziert das Vertrauen in Sicherheitspraktiken."
+  },
+  "gunicorn": {
+    "history": "Gunicorn (Green Unicorn) ist ein Python-WSGI-HTTP-Server, inspiriert von Rubys Unicorn und um 2010 erstmals von Benoit Chesneau veröffentlicht. Er wurde zu einem der meistgenutzten Python-Webserver-Gateways, besonders beliebt für das Deployment von Django- und Flask-Anwendungen.",
+    "summary_abuse": "Gunicorn ist ein Python-WSGI-Server ohne konsumentenorientierte Oberfläche und ohne auffälliges Missbrauchssignal. Er ist eine Backend-Infrastrukturkomponente zum Bereitstellen von Python-Webanwendungen."
+  },
+  "GuppY": {
+    "description": "GuppY ist eine Plattform zum Erstellen interaktiver Websites mit datenbankfreier Architektur.",
+    "history": "GuppY ist ein französisches Open-Source-CMS, das um 2003 von Dominique Ottello entwickelt wurde und ohne Datenbank einfach installierbar sein sollte. Es gewann in der französischsprachigen Community eine gewisse Verbreitung. Die Entwicklung ist seit Mitte der 2010er-Jahre weitgehend inaktiv.",
+    "summary_abuse": "GuppY ist ein veraltetes französisches CMS mit minimaler heutiger Nutzung. Die alternde Codebasis kann ungepatchte Schwachstellen enthalten, und verlassene Installationen könnten kompromittiert werden. Spezifische Missbrauchskampagnen werden ihm nicht zugeschrieben."
+  },
+  "Gurucan": {
+    "description": "Gurucan ist eine Plattform, mit der Nutzer Online-Kurse über eine einzige Oberfläche erstellen und verkaufen können.",
+    "history": "Gurucan ist eine Plattform für Online-Kurse, Mitgliedschaften und Communities, gegründet um 2018; sie richtet sich an Coaches, Lehrpersonen und Content Creators, sammelte Seed-Finanzierung ein und konkurriert mit Teachable, Kajabi und ähnlichen Plattformen.",
+    "summary_abuse": "Gurucan ist eine Kursplattform, die zum Verkauf betrügerischer oder minderwertiger Bildungsprodukte genutzt werden könnte. Creator-Plattformen haben generell Herausforderungen mit Kursbetrug. Konkrete Vorfälle für diesen Anbieter sind nicht dokumentiert."
+  },
+  "Gutenberg": {
+    "description": "Gutenberg ist der Codename des neuen blockbasierten Editors, der mit WordPress 5 eingeführt wurde.",
+    "history": "Gutenberg ist der blockbasierte Editor für WordPress, offiziell am 6. Dezember 2018 mit WordPress 5.0 gestartet und Ersatz für den TinyMCE-basierten Classic Editor. Er wurde von Automattic und der WordPress-Open-Source-Community entwickelt und nach Johannes Gutenberg benannt. Full Site Editing wurde 2021 mit WordPress 5.8 eingeführt und 2022 mit WordPress 5.9 zu einer Kernfunktion. Das Projekt steht unter einer Doppellizenz aus GPL v2 und MPL v2.",
+    "summary_abuse": "Gutenberg hat als WordPress-Block-Editor-Plugin ein minimales direktes Missbrauchsprofil. WordPress-basierte Websites werden allgemein von Angreifern ins Visier genommen, Gutenberg selbst wird jedoch nicht stärker ausgenutzt als das breitere WordPress-Ökosystem. Das Plugin wird über das offizielle WordPress-Repository mit Code-Review verteilt, und das WordPress-Sicherheitsteam hat eine öffentliche Responsible-Disclosure-Policy."
+  },
+  "Guuru": {
+    "description": "Guuru ist eine Plattform, die Käufer mit Kunden verbindet, die ihre Begeisterung für bestimmte Produkte oder Dienstleistungen teilen.",
+    "history": "Guuru ist ein Schweizer SaaS-Unternehmen, gegründet um 2015, das Peer-to-Peer-Kundensupport über eine Community-Chat-Funktion anbietet. Es ermöglicht Marken, Kunden mit bestehenden Expertinnen und Experten aus der Nutzerschaft für Produktsupport zu verbinden und so Callcenter zu entlasten.",
+    "summary_abuse": "Guuru ist ein Peer-Support-SaaS ohne bekannte Missbrauchshistorie. Es arbeitet innerhalb üblicher GDPR-Datenanforderungen und bedient B2B-Kunden."
+  },
+  "GX WebManager": {
+    "history": "GX WebManager ist ein Web-Content-Management-Produkt von GeneXus, einem uruguayischen Softwareunternehmen. GeneXus entwickelt seit 1984 Low-Code-Entwicklungswerkzeuge. GX WebManager ist ein CMS-Modul innerhalb des GeneXus-Ökosystems und richtet sich an Enterprise-Webmanagement, besonders in lateinamerikanischen Märkten.",
+    "summary_abuse": "GX WebManager ist ein Enterprise-CMS-Produkt von GeneXus ohne dokumentierte Missbrauchshistorie. Als Enterprise-B2B-Tool, das vor allem in Lateinamerika für Webmanagement von Behörden und Unternehmen genutzt wird, weist es ein minimales Missbrauchsrisiko auf."
+  }
+}

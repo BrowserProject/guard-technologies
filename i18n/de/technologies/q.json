@@ -1,0 +1,320 @@
+{
+  "Q1Media": {
+    "description": "Q1Media ist eine Plattform für Erstellung, Nachfrage und Angebot digitaler Werbung.",
+    "history": "Q1Media ist eine digitale Werbeplattform für Angebot und Nachfrage. Ein Gründungsjahr oder wichtige Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Q1Media ist eine digitale Werbeplattform mit mehreren Drittanbieter-Ad-Trackern. Ad-Tech-Plattformen bringen grundsätzlich ein Malvertising-Risiko mit sich, konkrete Betrugsfälle mit Q1Media sind jedoch nicht dokumentiert."
+  },
+  "Q4": {
+    "description": "Q4 ist eine SaaS-Plattform, die Kommunikations- und Intelligence-Lösungen für Investor-Relations-Fachleute bereitstellt.",
+    "history": "Q4 ist eine US-amerikanische Investor-Relations-SaaS-Plattform für IR-Teams börsenkotierter Unternehmen und an der TSX Venture Exchange gelistet. Eine nennenswerte Übernahmehistorie ist nicht dokumentiert.",
+    "summary_abuse": "Q4 weist kein nennenswertes Missbrauchssignal auf. Es handelt sich um eine B2B-Plattform für Investor Relations ohne verbrauchernahe Funktionen, die mit Betrug in Verbindung stehen."
+  },
+  "Q4 Cookie Monster": {
+    "description": "Q4 Cookie Monster ist ein von Q4 entwickeltes Widget für Cookie-Compliance.",
+    "history": "Q4 Cookie Monster ist ein von Q4 Inc., einem SaaS-Anbieter für Investor Relations, entwickeltes Cookie-Compliance-Widget innerhalb der jQuery-UI-Widget-Bibliothek. Es ist eine kleine Spezialbibliothek für Cookie-Einwilligungsbanner auf von Q4 betriebenen Investor-Relations-Websites.",
+    "summary_abuse": "Q4 Cookie Monster weist kein nennenswertes Missbrauchssignal auf. Es ist ein kleines jQuery-Widget für Cookie-Compliance auf Investor-Relations-Websites ohne verbrauchernahe Infrastruktur."
+  },
+  "Qbrick": {
+    "description": "Qbrick ist ein System für Videowerbung.",
+    "history": "Qbrick wurde 1999 gegründet und hat den Hauptsitz in Kista, Schweden. Das Unternehmen bietet eine SaaS-basierte interaktive Videoplattform für Unternehmen, öffentliche Stellen und die Gaming-Branche in der nordischen Region. Qbrick ist an der schwedischen Börse kotiert und hat in KI-gestützte Videofunktionen investiert, darunter interaktive Avatar-Präsentationen. Grössere Übernahmen sind nicht verzeichnet.",
+    "summary_abuse": "Qbrick ist eine B2B-Videoplattform ohne nennenswertes Missbrauchssignal; sie wird hauptsächlich von seriösen Unternehmen und öffentlichen Organisationen für Verwaltung und Streaming von Videoinhalten genutzt, öffentliche Berichte über eine Ausnutzung für schädliche Zwecke gibt es nicht."
+  },
+  "QForm": {
+    "description": "QForm ist ein Werkzeug zum Entwerfen und Verwalten anpassbarer Formulare für Datenerfassung und Verarbeitung.",
+    "history": "QForm ist ein Formularbaukasten für die Datenerfassung. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "QForm weist kein nennenswertes Missbrauchssignal auf. Es ist ein Formularbaukasten ohne dokumentierte Verbindung zu Phishing oder Betrug."
+  },
+  "Qgiv": {
+    "description": "Qgiv ist eine Online-Fundraising-Plattform, die Nonprofit-, Glaubens-, Gesundheits- und Bildungsorganisationen beim Sammeln von Spenden unterstützt.",
+    "history": "Qgiv ist eine US-amerikanische Online-Fundraising-Plattform für Nonprofits, Glaubensgemeinschaften sowie Gesundheits- und Bildungseinrichtungen; sie wurde um 2007 gegründet und ist weiterhin unabhängig.",
+    "summary_abuse": "Qgiv weist kein nennenswertes Missbrauchssignal auf. Es ist eine Fundraising-Plattform für etablierte Nonprofit-Organisationen mit Zahlungsabwicklung und ohne dokumentierte Nutzung in Betrugskampagnen."
+  },
+  "qiankun": {
+    "description": "qiankun ist eine JS-Bibliothek, mit der Entwickler Micro-Frontend-Systeme aufbauen können.",
+    "history": "qiankun ist ein Micro-Frontend-Framework, das 2019 von Ant Group (Alibaba) entwickelt wurde und auf single-spa aufbaut. Es ermöglicht, mehrere Frontend-Anwendungen zu einer einheitlichen Anwendung zusammenzuführen.",
+    "summary_abuse": "qiankun weist kein nennenswertes Missbrauchssignal auf. Es ist ein Frontend-Framework für Mikroanwendungen."
+  },
+  "Qikify": {
+    "description": "Qikify ist ein Shopify Expert, der über Shopify Apps und individuelle Anpassungen Dienste für mehr als 35'000 Shopify-Händler bereitstellt.",
+    "history": "Qikify ist ein vietnamesischer Shopify-App-Entwickler, der 2018 gegründet wurde und Apps für Conversion-Optimierung, Upselling und Popups für Händler entwickelt. Das Unternehmen bedient weltweit mehr als 80'000 Händler.",
+    "summary_abuse": "Qikify-Apps umfassen Popup- und Social-Proof-Werkzeuge, die für irreführende Verknappungssignale oder falsche Besucherzahlen konfiguriert werden können, ein moderates Dark-Pattern-Risiko, das bei Conversion-Optimierungswerkzeugen üblich ist. Konkrete Betrugsfälle sind nicht dokumentiert."
+  },
+  "Qiscus": {
+    "description": "Qiscus ist eine Plattform mit Chat SDK und Messaging API, mit der Echtzeit-Chatfunktionen in Anwendungen integriert werden können.",
+    "history": "Qiscus ist eine indonesische Plattform für Echtzeit-Chat-SDKs und Messaging APIs, die um 2013 gegründet wurde; sie richtet sich an Entwickler, die einbettbare Chatfunktionen benötigen, und wurde mit Risikokapital unterstützt.",
+    "summary_abuse": "Qiscus weist kein nennenswertes Missbrauchssignal auf. Es ist eine B2B-Messaging-API, mit der Entwickler Chatfunktionen einbetten, ohne dokumentierte Nutzung in Betrugskampagnen."
+  },
+  "Qiyeku": {
+    "description": "Qiyeku ist eine chinesische Unternehmensdatenbank mit Geschäftsinformationen, Firmenverzeichnissen und Branchenressourcen für Marktforschung und Handelskontakte.",
+    "history": "Qiyeku ist eine chinesische Unternehmensdatenbank, die Firmenverzeichnisse und Branchendaten für B2B-Marktforschung bereitstellt. Ein konkretes Gründungsjahr oder wichtige Ereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Qiyeku weist ein begrenztes Missbrauchssignal auf. Chinesische B2B-Verzeichnisse können für Scraping und Kontaktsammlung missbraucht werden, konkrete Betrugsfälle sind jedoch nicht dokumentiert."
+  },
+  "Qomon": {
+    "description": "Qomon ist eine SaaS-Software sowie Plattform und Mobile App für Bürgerbeteiligung, die NGOs, Bewegungen, Kampagnen, Advocacy-Gruppen und bürgergetriebene Organisationen unterstützt.",
+    "history": "Qomon, früher Fightfor, wurde um 2017 in Frankreich als Plattform für Bürgerbeteiligung und Kampagnenmanagement für NGOs, politische Kampagnen und Advocacy-Gruppen gegründet. Die Umbenennung zu Qomon sollte die breitere Mission über politische Kampagnen hinaus abbilden.",
+    "summary_abuse": "Qomon ist eine Nischenplattform für NGO- und Kampagnenmanagement ohne nennenswertes Missbrauchssignal. Der Fokus auf Bürgerbeteiligung, Advocacy und Graswurzelorganisation zieht nicht die Phishing- oder Betrugsmuster an, die bei Consumer-SaaS häufiger sind."
+  },
+  "Qonnex": {
+    "description": "Qonnex ist eine Software, die Kundenbeziehungen verbessern und Lagerbestände für Unternehmen verwalten soll.",
+    "history": "Qonnex ist eine niederländische Plattform für CRM und E-Commerce-Lagerverwaltung für lokale Unternehmen. Es ist ein regionales Nischenprodukt ohne nennenswerte Eigentümer- oder Übernahmehistorie.",
+    "summary_abuse": "Qonnex ist eine niederländische SaaS-Lösung für CRM und Bestandsverwaltung ohne nennenswertes Missbrauchssignal. Es ist ein geschäftsorientiertes Werkzeug ohne dokumentierte Ausnutzungshistorie."
+  },
+  "Qooqie": {
+    "description": "Qooqie ist ein Call-Tracking-Werkzeug zur Überwachung und Analyse eingehender Telefonanrufe.",
+    "history": "Qooqie ist eine niederländische Call-Tracking-Plattform zur Überwachung und Analyse eingehender Telefonanrufe. Ein Gründungsjahr oder wichtige Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Qooqie weist kein nennenswertes Missbrauchssignal auf. Es ist ein Analysewerkzeug für Call Tracking ohne verbrauchernahe Funktionen, die mit Betrug verbunden sind."
+  },
+  "QoreAI": {
+    "description": "QoreAI ist ein umfassendes Kollaborationsbetriebssystem für die Automobilbranche.",
+    "history": "QoreAI ist eine All-in-one-Kollaborationsplattform für die Automobilbranche. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "QoreAI weist kein nennenswertes Missbrauchssignal auf. Es ist eine B2B-Kollaborationsplattform für die Automobilbranche ohne verbrauchernahe Funktionen, die mit Betrug verbunden sind."
+  },
+  "Qpien": {
+    "description": "Qpien ist eine SaaS-Plattform für Multichannel-Kundenkommunikation mit KI-Antwortautomatisierung, Smart Inbox, Callcenter-Integration und Workflow-Orchestrierung.",
+    "history": "Qpien wurde 2020 in Istanbul, Türkei, als SaaS für Multichannel-Kundenkommunikation mit KI-gestützter Inbox-Automatisierung gegründet.",
+    "summary_abuse": "Qpien ist eine kleine B2B-Plattform für Kundenkommunikation ohne dokumentiertes Missbrauchssignal. Live-Chat- und Messaging-Funktionen richten sich an Geschäftsbetriebe statt direkt an Endverbraucher, wodurch sie als Betrugs- oder Spam-Vektor unwahrscheinlich ist."
+  },
+  "Qshop": {
+    "description": "Qshop ist eine koreanische E-Commerce-Plattform zum Erstellen von Online-Shops.",
+    "history": "Qshop ist eine koreanische E-Commerce-Plattform unter qshop.ai, die kleine Unternehmen anspricht, die rasch Online-Shops erstellen möchten. Konkrete Gründungsdetails sind öffentlich nicht prominent dokumentiert.",
+    "summary_abuse": "Qshop ist ein kleiner koreanischer E-Commerce-Baukasten, der vor allem kleine Unternehmen bedient. Wie die meisten E-Commerce-Baukästen könnte er theoretisch minderwertige Shops hosten, hat aber keine dokumentierte Missbrauchshistorie und bleibt durch seinen Nischenfokus begrenzt exponiert."
+  },
+  "Qstomizer": {
+    "description": "Qstomizer ist eine App für Shopify und WooCommerce, mit der du deinem Shop einen visuellen Designer für anpassbare Produkte hinzufügen kannst.",
+    "history": "Qstomizer ist eine SaaS-Lösung für Produktanpassung in Shopify- und WooCommerce-Shops, mit der Händler visuelle Produktdesigner-Funktionen ergänzen können. Es ist eine E-Commerce-Nischenapp ohne nennenswerte Eigentümerereignisse.",
+    "summary_abuse": "Qstomizer ist ein Widget für Produktanpassung auf E-Commerce-Plattformen ohne nennenswertes Missbrauchssignal. Es ist ein händlerseitiges Werkzeug ohne dokumentierte Ausnutzung für Betrug oder schädliche Zwecke."
+  },
+  "Quadran": {
+    "description": "Quadran ist ein Werkzeug für Echtzeit-Endnutzer-Monitoring und Performance-Analyse.",
+    "history": "Quadran wurde 2008 in Toulouse, Frankreich, gegründet und ist auf IT-Performance-Beratung sowie Echtzeit-Endnutzer-Monitoring (RUM) unter dem Produkt appYuser spezialisiert.",
+    "summary_abuse": "Quadran ist ein B2B-Werkzeug für Echtzeit-Endnutzer-Monitoring ohne verbrauchernahe Oberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Qualaroo": {
+    "description": "Qualaroo stellt Umfragen auf Websites und in Apps bereit, um Nutzerfeedback einzuholen.",
+    "history": "Qualaroo wurde 2010 als Werkzeug für Kundenfeedback und Umfragen gegründet, ursprünglich unter dem Namen KISSinsights. Es wurde zu Qualaroo umbenannt und später von ProProfs übernommen, einem US-Anbieter für E-Learning- und Kundensupport-Software. Heute ist es Teil der ProProfs-Produktsuite.",
+    "summary_abuse": "Qualaroo ist ein Website-Umfrage- und Feedback-Werkzeug mit begrenztem Missbrauchssignal. Umfrage-Widgets können gelegentlich von Angreifern genutzt werden, um unter dem Anschein legitimer Formulare Zugangsdaten zu sammeln, Qualaroo wird jedoch überwiegend von seriösen Unternehmen für UX-Forschung eingesetzt. Der Anbieter veröffentlicht eine Datenschutzerklärung und GDPR-Dokumentation."
+  },
+  "Qualified": {
+    "description": "Qualified ist eine B2B-Marketingplattform, über die Käufer und Vertriebsmitarbeitende in Echtzeitgesprächen auf Websites zusammenfinden.",
+    "history": "Qualified wurde 2018 in San Francisco von Kraig Swensrud und Sean Whiteley, ehemaligen Salesforce-Führungskräften, als Plattform für Conversational Sales und Marketing in B2B-Unternehmen gegründet. Das Unternehmen hat bedeutende VC-Finanzierung erhalten und spezialisiert sich auf Pipeline-Generierung für Salesforce-Kunden.",
+    "summary_abuse": "Qualified weist kein nennenswertes Missbrauchssignal auf. Es ist eine Enterprise-B2B-Plattform für Conversational Sales, die in bekannten Geschäftskontexten arbeitet und keine verbrauchernahe Infrastruktur bietet, die Betrüger gezielt ausnutzen würden."
+  },
+  "Qualitando": {
+    "description": "Qualitando ist ein italienisches Widget für Kundenzufriedenheit, das Nutzerfeedback sammelt, misst und analysiert, um Servicequalität zu bewerten und zu verbessern.",
+    "history": "Qualitando wurde 2012 in Mailand, Italien, gegründet und konzentriert sich auf Widgets für Kundenzufriedenheit im Gastgewerbe und Einzelhandel.",
+    "summary_abuse": "Qualitando ist ein italienisches Nischenwerkzeug für Kundenzufriedenheit in Hotels und Restaurants ohne dokumentiertes Missbrauchssignal."
+  },
+  "Qualitelis": {
+    "description": "Qualitelis ist ein Bewertungssystem für Hotelgäste, das Feedback sammelt, verwaltet und analysiert, damit Anbieter im Gastgewerbe ihre Leistungen anhand von Kundenerfahrungen und Zufriedenheit verbessern können.",
+    "history": "Qualitelis ist eine Plattform für Hotelgastbewertungen und digitale Customer Journeys, die von Septeo übernommen wurde, einer französischen Softwaregruppe für das Gastgewerbe, und damit Teil der Septeo-Hospitality-Produktsuite wurde.",
+    "summary_abuse": "Qualitelis ist eine B2B-Plattform für Hotelbewertungen und Gästefeedback ohne verbrauchernahe gehostete Inhaltsfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Quality Unit Help Desk": {
+    "description": "Quality Unit Help Desk ist eine Kundensupport- und Helpdesk-Software zum Verwalten und Straffen von Serviceprozessen.",
+    "history": "Quality Unit ist ein slowakisches Softwareunternehmen, das 2004 gegründet wurde und LiveAgent entwickelt, eine Plattform für Helpdesk und Live-Chat. Das Unternehmen ist eigenfinanziert und unabhängig. Der Hauptsitz liegt in Bratislava, Slowakei.",
+    "summary_abuse": "Quality Unit Help Desk (LiveAgent) weist kein nennenswertes Missbrauchssignal auf. Es ist eine B2B-Kundensupportplattform, die Unternehmen für Helpdesk- und Live-Chat-Funktionen einsetzen."
+  },
+  "Qualtrics": {
+    "description": "Qualtrics ist eine cloudbasierte Plattform zum Erstellen und Verteilen webbasierter Umfragen.",
+    "history": "Qualtrics wurde 2002 von Scott Smith und Ryan Smith in Provo, Utah, als Online-Umfrageplattform gegründet. Daraus wurde eine führende Enterprise-Plattform für Experience Management. SAP übernahm Qualtrics 2019 vor dem IPO für 8 Milliarden US-Dollar. Im Januar 2021 ging Qualtrics an der NASDAQ mit einer Bewertung von 15 Milliarden US-Dollar an die Börse. 2023 verkaufte SAP die Mehrheitsbeteiligung, wodurch Qualtrics mit Silver Lake und Canada Pension Plan privatisiert wurde.",
+    "summary_abuse": "Qualtrics weist kein nennenswertes Missbrauchssignal auf. Es ist eine Enterprise-Plattform für Umfragen und Experience Management mit starken Compliance-Zertifizierungen. Umfrageplattformen können theoretisch für Phishing genutzt werden, doch das Enterprise-Modell und die starken Sicherheitskontrollen von Qualtrics machen sie zu einem unwahrscheinlichen Missbrauchsvektor."
+  },
+  "Qualva": {
+    "description": "Qualva ist eine Chatbot-Plattform für konsistente, nutzerorientierte Interaktion und Support über verschiedene Anwendungen hinweg.",
+    "history": "Qualva wurde 2015 gegründet und hat den Sitz in Chiba, Japan. Das Unternehmen betreibt eine Plattform für Marketing Intelligence und digitale Werbung im japanischen Markt. Grössere Übernahmen oder Eigentümerwechsel sind nicht verzeichnet.",
+    "summary_abuse": "Qualva ist eine japanische Nischenplattform für Marketing Intelligence ohne dokumentiertes Missbrauchssignal. Durch den B2B-Fokus und den regionalen Markt ist sie nicht mit Phishing, Spam oder verbrauchernahem Betrug verbunden."
+  },
+  "Quandoo": {
+    "description": "Quandoo ist eine Plattform, über die Nutzer Restaurants finden und reservieren können.",
+    "history": "Quandoo wurde 2012 in Berlin, Deutschland, als Plattform für Restaurantreservierungen gegründet. Im März 2015 übernahm Recruit Holdings aus Japan 100 Prozent von Quandoo für rund 219 Millionen US-Dollar und machte das Unternehmen zu einer Tochter des japanischen HR- und Rekrutierungskonzerns, zu dem auch Hot Pepper Gourmet gehört.",
+    "summary_abuse": "Quandoo ist eine Restaurantreservierungsplattform ohne nennenswertes Missbrauchssignal. Als Vermittler für Restaurantbuchungen ist sie kein häufig ausgenutzter Vektor für Betrug oder Spam."
+  },
+  "Quant": {
+    "description": "Quant ist ein japanisches System für Content- und Creator-Management, das digitale Inhalte organisiert, verwaltet und verteilt.",
+    "history": "Quant ist ein japanisches CMS für Content- und Creator-Management, ausgelegt auf die Verbreitung digitaler Inhalte im japanischen Markt.",
+    "summary_abuse": "Quant ist ein japanisches CMS ohne nennenswertes Missbrauchssignal. Es ist ein Content-Management-Werkzeug ohne dokumentierte Ausnutzungshistorie."
+  },
+  "Quanta": {
+    "description": "Quanta ist eine Lösung für Web-Performance-Management. Quanta bietet eine Analyselösung, die speziell darauf ausgelegt ist, dass geschäftliche und technische E-Commerce-Teams zusammenarbeiten und Web-Performance laufend direkt auf Online-Umsatz ausrichten können.",
+    "history": "Quanta (quanta.io) startete um 2012 als Lösung für Web-Performance-Management mit Sitz in Paris, Frankreich, und konzentriert sich darauf, E-Commerce-Teams dabei zu helfen, Web-Performance-Metriken mit Umsatzwirkung zu verknüpfen.",
+    "summary_abuse": "Quanta ist ein B2B-Werkzeug für Web-Performance-Analyse ohne verbrauchernahe Oberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Quantcast Choice": {
+    "description": "Quantcast Choice ist eine kostenlose Consent-Management-Plattform zur Erfüllung zentraler Datenschutzanforderungen aus ePrivacy Directive, GDPR und CCPA.",
+    "history": "Quantcast wurde 2006 in San Francisco gegründet und baute eines der grössten First-Party-Datennetzwerke im Internet für Werbetargeting auf. Quantcast Choice ist die kostenlose Consent-Management-Plattform (CMP) des Unternehmens, die Publisher bei der Einhaltung von GDPR- und CCPA-Anforderungen unterstützen soll.",
+    "summary_abuse": "Quantcast Choice ist eine Consent-Management-Plattform, mit der Publisher Datenschutz-Einwilligungen verwalten; sie weist kein nennenswertes Missbrauchssignal auf. Als Compliance-Widget bietet sie keine Inhalts-Hosting- oder nutzergenerierte Oberfläche, die von Angreifern ausgenutzt wird."
+  },
+  "Quantcast Measure": {
+    "description": "Quantcast Measure ist ein Werkzeug für Audience Insights und Analysen.",
+    "history": "Quantcast wurde 2006 in San Francisco gegründet und baute eine Plattform für Reichweitenmessung und Advertising Intelligence auf. Quantcast Measure ist das kostenlose Audience-Analytics-Produkt des Unternehmens für Publisher.",
+    "summary_abuse": "Quantcast Measure ist ein Tracker für Reichweitenmessung. Das zentrale Datenschutzthema ist standortübergreifendes Nutzerprofiling für Werbezwecke, ein Vektor für Phishing oder Betrug ist es jedoch nicht. Quantcast ist ein Ad-Tech-Unternehmen, dessen Tracking-JavaScript auf Publisher-Seiten eingebettet wird und zur Datensammlung für Werbetargeting beiträgt."
+  },
+  "Quantum Metric": {
+    "description": "Quantum Metric ist eine Plattform für kontinuierliches Produktdesign, die Organisationen hilft, bessere Produkte schneller zu entwickeln.",
+    "history": "Quantum Metric wurde 2015 in Colorado Springs, Colorado, gegründet. Im Januar 2021 nahm das Unternehmen in einer Series-B-Runde 200 Millionen US-Dollar auf und erreichte mit einer Bewertung von 1 Milliarde US-Dollar Unicorn-Status.",
+    "summary_abuse": "Quantum Metric ist eine Plattform für Digital-Experience-Analysen, die von Unternehmen eingesetzt wird. Als Backend-Analysedienst ohne verbrauchernahe Inhaltsfläche weist sie kein dokumentiertes Missbrauchssignal auf."
+  },
+  "Quarto": {
+    "description": "Quarto ist ein Open-Source-System für technisches Publizieren.",
+    "history": "Quarto wurde von Posit PBC, früher RStudio, entwickelt und 2022 erstmals öffentlich veröffentlicht, als Nachfolger der nächsten Generation von R Markdown. Es unterstützt Python, R, Julia und Observable und ist für reproduzierbares wissenschaftliches und technisches Publizieren konzipiert. Posit, das Projekt hinter Quarto, benannte sich 2022 von RStudio um, um die mehrsprachige Ausrichtung abzubilden.",
+    "summary_abuse": "Quarto ist ein Open-Source-Werkzeug für technisches Publizieren ohne nennenswertes Missbrauchssignal. Es wird von Data Scientists, Forschenden und Entwicklern genutzt, um Dokumente, Websites und Präsentationen zu erstellen, und bietet keine verbrauchernahe Oberfläche, die für Betrug ausgenutzt werden könnte."
+  },
+  "Quasar": {
+    "description": "Quasar ist ein Open-Source-Framework auf Basis von Vue.js.",
+    "history": "Quasar Framework wurde vom Rumänen Razvan Stoenescu entwickelt, mit dem ersten Commit 2015 und einer stabilen Version 1.0 im Juli 2019. Es ist ein MIT-lizenziertes Open-Source-Framework auf Basis von Vue.js zum Erstellen responsiver Web-, Mobile- (über Cordova/Capacitor) und Desktop-Anwendungen (über Electron) aus einer gemeinsamen Codebasis.",
+    "summary_abuse": "Quasar ist ein Open-Source-Frontend-Framework ohne nennenswertes Missbrauchssignal. Es ist ein Entwicklerwerkzeug zum Erstellen von Anwendungen und bietet keine verbrauchernahe Oberfläche, die für Betrug ausgenutzt werden könnte."
+  },
+  "Qubit": {
+    "description": "Qubit ist eine Plattform, die personalisierte E-Commerce-Erlebnisse durch datenbasierte Erkenntnisse und intelligente Automatisierung ermöglicht.",
+    "history": "Qubit wurde 2010 in London, UK, als Plattform für E-Commerce-Personalisierung und A/B-Tests gegründet. Im Oktober 2021 übernahm Coveo aus Kanada Qubit, um seine KI-Relevanzplattform auf E-Commerce-Personalisierung auszuweiten und europäische Marktpräsenz zu gewinnen.",
+    "summary_abuse": "Qubit ist eine E-Commerce-Personalisierungsplattform für Händler. Als B2B-Analyse- und Testing-Werkzeug, das auf Händlerseiten eingebettet wird, weist sie kein dokumentiertes Missbrauchssignal auf."
+  },
+  "Querlo": {
+    "description": "Querlo bietet kundenspezifische Lösungen für künstliche Intelligenz, die auf geschäftliche Anwendungen zugeschnitten sind.",
+    "history": "Querlo wurde um 2015 in New York mit Engineering in Italien gegründet und bietet KI-gestützte Chatbot-Umfragewerkzeuge für Kundendatenerfassung und Engagement.",
+    "summary_abuse": "Querlo ist eine Chatbot-Umfrageplattform für Datenerfassung ohne dokumentiertes Missbrauchssignal in Bezug auf Betrug oder Malware."
+  },
+  "Queryly": {
+    "description": "Queryly ist eine cloudbasierte API für Websitesuche und Content-Empfehlungen, die mit fortgeschrittenen Algorithmen schnelle, relevante Suchergebnisse und personalisierte Inhalte liefert.",
+    "history": "Queryly wurde 2012 von Xin Chen als SaaS-basierte API für Websitesuche und Content Discovery für digitale Medienpublisher gegründet.",
+    "summary_abuse": "Queryly ist eine Websitesuche-API für Publisher ohne dokumentiertes Missbrauchssignal. Es handelt sich um einen Backend-Dienst ohne verbrauchernahe gehostete Inhalte."
+  },
+  "Question2Answer": {
+    "description": "Question2Answer (Q2A) ist eine verbreitete Open-Source-Q&A-Plattform für PHP/MySQL.",
+    "history": "Question2Answer (Q2A) ist eine Open-Source-Q&A-Plattform für PHP/MySQL, inspiriert vom Stack-Exchange-Modell und für selbst gehostete Community-Websites mit Fragen und Antworten gedacht. Seit etwa 2010 wird sie als unabhängiges, communitygetriebenes Projekt gepflegt.",
+    "summary_abuse": "Question2Answer ist eine selbst gehostete Q&A-Plattform ohne nennenswertes direktes Missbrauchssignal. Als Open-Source-CMS könnten einzelne Instanzen Spam- oder Phishing-Inhalte hosten, doch dieses Risiko liegt in der Hosting-Umgebung und nicht in der Software selbst."
+  },
+  "Queue-it": {
+    "description": "Queue-it ist eine virtuelle Warteraum-Plattform, die deine Website und Mobile App bei Lastspitzen von Endnutzern vor Verlangsamung oder Ausfällen schützt.",
+    "history": "Queue-it wurde 2010 in Kopenhagen, Dänemark, von Niels Henrik Sodemann, Camilla Ley Valentin und Martin Pronk gegründet. Die Idee war von Warteschlangensystemen dänischer Bäckereien inspiriert. Das Unternehmen schützt Websites bei stark nachgefragten Ereignissen wie Ticketverkäufen und Produktdrops vor Traffic-Spitzen.",
+    "summary_abuse": "Queue-it ist ein Infrastrukturdienst für virtuelle Warteräume, den Unternehmen und Behörden zur Steuerung von Website-Traffic-Spitzen nutzen. Als Backend-Schicht für Traffic-Management ohne Konsuminhaltsfläche weist er kein dokumentiertes Missbrauchssignal auf."
+  },
+  "Quform": {
+    "description": "Quform ist ein WordPress-Plugin zum Erstellen und Verwalten von Formularen.",
+    "history": "Quform ist ein WordPress-Formularbaukasten-Plugin, entwickelt von ThemeCatcher, einem kleinen Entwickler aus dem Vereinigten Königreich, und erstmals 2011 auf CodeCanyon veröffentlicht. Es wird als Einmalkauf ohne Abonnement verkauft.",
+    "summary_abuse": "Quform ist ein selbst gehostetes WordPress-Plugin für Formularerstellung. Die Missbrauchsfläche ist gering, da alle Formulardaten auf dem Server des Website-Betreibers bleiben. Dokumentierte Missbrauchsfälle gibt es nicht."
+  },
+  "QUIC.cloud": {
+    "description": "QUIC.cloud ist ein Content Delivery Network (CDN) und Optimierungsdienst, der das QUIC-Protokoll nutzt, ein von Google entwickeltes Internet-Transportprotokoll der nächsten Generation, um Inhalte schneller und sicherer über das Internet auszuliefern.",
+    "history": "QUIC.cloud ist ein von LiteSpeed Technologies lancierter CDN- und Optimierungsdienst, der das QUIC-Protokoll für schnelle Inhaltsauslieferung nutzt. Er startete um 2019 als Begleitdienst zu den Webserver-Produkten von LiteSpeed.",
+    "summary_abuse": "QUIC.cloud weist ein begrenztes Missbrauchssignal auf. CDN-Infrastruktur kann zum Hosten oder Proxying schädlicher Inhalte verwendet werden, QUIC.cloud bedient jedoch vor allem eine WordPress- und LiteSpeed-Kundschaft mit üblichen Missbrauchsrichtlinien."
+  },
+  "Quick.Cart": {
+    "history": "Quick.Cart ist eine kostenlose PHP-basierte E-Commerce-Warenkorblösung, entwickelt von OpenSolution, einem polnischen Softwareunternehmen aus Schlesien, und ab etwa 2006 zusammen mit Quick.CMS veröffentlicht; sie ist als leichtgewichtiges, selbst gehostetes E-Commerce-System mit SQLite konzipiert.",
+    "summary_abuse": "Quick.Cart ist eine leichtgewichtige, selbst gehostete PHP-E-Commerce-Plattform ohne nennenswertes Missbrauchssignal. Als Open-Source-Software für einzelne Händler könnten Instanzen potenziell betrügerische Shops hosten, doch das ist ein Risiko jeder selbst gehosteten E-Commerce-Plattform."
+  },
+  "Quick.CMS": {
+    "history": "Quick.CMS ist ein kostenloses PHP-basiertes Content-Management-System, entwickelt von OpenSolution, einem polnischen Softwareunternehmen aus Schlesien. Es wurde erstmals im Dezember 2006 veröffentlicht, nutzt SQLite statt MySQL und ist für einfache, leichtgewichtige Website-Verwaltung ohne separaten Datenbankserver konzipiert.",
+    "summary_abuse": "Quick.CMS ist ein leichtgewichtiges, selbst gehostetes PHP-CMS ohne nennenswertes Missbrauchssignal. Als Open-Source-Software könnten einzelne Installationen Spam-Inhalte hosten, doch die Software selbst erzeugt kein zentrales Betrugsrisiko."
+  },
+  "Quickblog": {
+    "description": "Quickblog ist eine Plattform, die Bloggern und Agenturen hilft, eingebettete, SEO-fähige Blog-Inhalte zu erstellen, die nahtlos mit bestehenden Websites kompatibel sind.",
+    "history": "Quickblog wurde 2021 als cloudgehostete Blogging-Plattform gegründet, mit Fokus auf SEO-fähige eingebettete Blogs für Händler, Agenturen und Shopify-Shops.",
+    "summary_abuse": "Quickblog ist eine gehostete Blogging-Plattform für Händler ohne dokumentiertes Missbrauchssignal; sie bietet kein anonymes Content-Hosting unter eigenen Domains, das sie zu einem Ziel für Phishing- oder Spam-Kampagnen machen würde."
+  },
+  "Quickbutik": {
+    "description": "Quickbutik ist eine All-in-one-E-Commerce-Plattform aus Schweden.",
+    "history": "Quickbutik wurde 2015 in Helsingborg, Schweden, von Azddin Benberkan als einfache All-in-one-E-Commerce-Plattform für nordische Unternehmer gegründet. In den folgenden Jahren expandierte die Plattform nach Dänemark.",
+    "summary_abuse": "Quickbutik ist ein kleiner nordischer E-Commerce-Baukasten. Wie andere gehostete Shop-Baukästen könnte er grundsätzlich minderwertige oder betrügerische Shops hosten, doch die geringe Marktpräsenz begrenzt die Exponierung, und dokumentierte Missbrauchsfälle wurden nicht gemeldet."
+  },
+  "QuickCEP": {
+    "description": "QuickCEP ist eine KI-gestützte Chatbot-Lösung, die durch automatisierte Interaktionen Conversions, Verkäufe und Kundenzufriedenheit von Unternehmen verbessern soll.",
+    "history": "QuickCEP wurde 2021 in China als KI-getriebene Plattform für Customer Engagement gegründet, ausgerichtet auf E-Commerce-Shops, besonders grenzüberschreitende Händler. 2023 nahm das Unternehmen mehrere zehn Millionen CNY auf, um international zu expandieren.",
+    "summary_abuse": "QuickCEP ist eine kleine Plattform für E-Commerce-Customer-Engagement ohne dokumentiertes Missbrauchssignal. Live-Chat- und KI-Chatbot-Funktionen werden von Online-Händlern genutzt und richten sich nicht direkt an Endverbraucher."
+  },
+  "Quickchat AI": {
+    "description": "Quickchat AI ist eine No-Code-Plattform, mit der du individuelle KI-Assistenten für dein Unternehmen erstellen kannst.",
+    "history": "Quickchat AI wurde 2018 von Piotr Grudzien in Polen gegründet und von Y Combinator unterstützt. Das Unternehmen entwickelt Conversation-Design-Werkzeuge und KI-Assistenten auf Basis grosser Sprachmodelle für geschäftliche Anwendungsfälle.",
+    "summary_abuse": "Quickchat AI ist ein B2B-Baukasten für KI-Chatbots ohne dokumentiertes Missbrauchssignal. Die Dienste richten sich an Unternehmensentwickler und bieten kein anonymes Hosting für nutzergenerierte Inhalte."
+  },
+  "Quicklink": {
+    "description": "Quicklink ist eine JS-Bibliothek, die als einfach einsetzbare Lösung Links vorab lädt, basierend darauf, was im Viewport des Nutzers sichtbar ist.",
+    "history": "Quicklink wurde von Addy Osmani bei Google Chrome Labs entwickelt und 2018 als kleine JS-Bibliothek open source veröffentlicht, um Links im Viewport während Leerlaufzeiten vorab zu laden.",
+    "summary_abuse": "Quicklink ist eine Open-Source-JavaScript-Bibliothek für Prefetching ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne verbrauchernahe Oberfläche."
+  },
+  "QuickSell": {
+    "description": "QuickSell ist eine Sales-Acceleration-Plattform, die Unternehmen hilft, Gespräche durch Personal Commerce in Conversions zu verwandeln.",
+    "history": "QuickSell wurde 2017 in Mumbai, Indien, gegründet und ermöglicht WhatsApp-first-B2B-Katalogverkäufe sowie Personal Commerce für kleine und mittlere Unternehmen.",
+    "summary_abuse": "QuickSell ist eine B2B-Plattform für digitale Kataloge und Verkauf für KMU ohne dokumentiertes Missbrauchssignal in Bezug auf Betrug oder Phishing."
+  },
+  "Quicksprout": {
+    "description": "Quicksprout ist ein Dienst zur Website-Optimierung mit Fokus auf bessere Website-Performance und Nutzerbindung.",
+    "history": "Quicksprout wurde 2007 vom Digitalmarketer Neil Patel als Blog und Website-Analytics-Werkzeug gegründet. 2018 übernahmen Lars Lofgren und Corry Cummings Quick Sprout und positionierten es als breitere Ressource und Serviceplattform für digitales Marketing neu.",
+    "summary_abuse": "Quicksprout weist kein nennenswertes Missbrauchssignal auf. Es ist ein Website-Analytics- und Digital-Marketing-Werkzeug, das vor allem von kleinen Unternehmen und Marketern genutzt wird, ohne verbrauchernahe Hosting-Fläche, die Betrüger gezielt ausnutzen."
+  },
+  "Quicktext": {
+    "description": "Quicktext ist ein KI-gestützter Hotel-Chatbot und eine Plattform für Sofortkommunikation, die Direktbuchungen für Hotels steigern soll.",
+    "history": "Quicktext wurde 2017 von Benjamin Devisme und Daniel C. Doppler in Paris als KI-gestützte Chatbot-Plattform für Hotel-Direktbuchungen gegründet. Das Unternehmen wurde später zu Quinta umbenannt und positionierte sich als Plattform für Hoteldaten-Intelligence.",
+    "summary_abuse": "Quicktext weist kein nennenswertes Missbrauchssignal auf. Es ist eine Chatbot- und Kommunikationsplattform für die Hotellerie, ausgerichtet auf Gastgewerbebetriebe, ohne verbrauchernahe kostenlose Hosting-Fläche, die Betrüger ausnutzen würden."
+  },
+  "Quicq": {
+    "description": "Quicq ist ein Werkzeug zur Bildoptimierung von Afosto.",
+    "history": "Quicq ist ein Produkt zur Bildoptimierung, entwickelt von Afosto, einem niederländischen Softwareunternehmen für Headless Commerce, das 2013 gegründet wurde. Es ist eine von mehreren Apps in der Afosto-Produktsuite.",
+    "summary_abuse": "Quicq weist kein nennenswertes Missbrauchssignal auf. Es ist ein Backend-Werkzeug für Bildoptimierung und CDN-Auslieferung ohne verbrauchernahe Content-Hosting-Fläche, die Betrüger gezielt ausnutzen würden."
+  },
+  "Quill": {
+    "description": "Quill ist ein kostenloser Open-Source-WYSIWYG-Editor.",
+    "history": "Quill ist ein Open-Source-WYSIWYG-Editor für Rich Text, der um 2013 entstand und ursprünglich bei Salesforce entwickelt wurde. Er wurde zu einem der meistgenutzten Web-Texteditoren mit sauberer API und Delta-Datenformat und wird in vielen kommerziellen SaaS-Produkten eingesetzt.",
+    "summary_abuse": "Quill ist eine Open-Source-Bibliothek für Texteditoren ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug, das in Anwendungen eingebettet wird, und bietet keine direkte verbrauchernahe Oberfläche, die für Betrug ausgenutzt werden könnte."
+  },
+  "Quintype": {
+    "description": "Quintype ist eine digitale Publishing-Plattform mit Lösungen für Content Management, Audience Engagement und Monetarisierung für digitale Medienorganisationen.",
+    "history": "Quintype wurde 2014 von Amit Rathore und Chirdeep Shetty in Bangalore, Indien, als digitale Publishing-Plattform für Medienorganisationen gegründet, die moderne CMS- und Audience-Engagement-Werkzeuge benötigen.",
+    "summary_abuse": "Quintype weist kein nennenswertes Missbrauchssignal auf. Es ist eine CMS-Plattform für Nachrichten- und Medienorganisationen, ohne verbrauchernahe kostenlose Hosting-Fläche, die Betrüger ausnutzen würden."
+  },
+  "Quiq Messaging": {
+    "description": "Quiq Messaging ist eine Business-Messaging-Lösung für Kundenkommunikation über mehrere Kanäle hinweg.",
+    "history": "Quiq wurde 2015 gegründet und ist eine Plattform für Conversational AI und Kunden-Messaging, mit der Unternehmen über SMS, Messaging-Apps und Chat mit Kunden kommunizieren können. Das Unternehmen meldete per 2024 rund 20 Millionen US-Dollar Umsatz und ein Team von 98 Personen.",
+    "summary_abuse": "Quiq weist kein nennenswertes Missbrauchssignal auf. Es ist eine Enterprise-Plattform für Messaging und Conversational AI im Kundendienst, ohne verbrauchernahe kostenlose Stufe, die Betrüger ausnutzen würden."
+  },
+  "Quixchat": {
+    "description": "Quixchat ist ein Chat-Support-Widget für Websites, das Echtzeitkommunikation mit Besuchern über WhatsApp, Facebook Messenger, Telegram, Viber oder Line ermöglicht.",
+    "history": "Quixchat ist ein Multichannel-Chat-Widget, das Websites mit WhatsApp, Facebook Messenger, Telegram, Viber und Line verbindet. Es ist ein kleines, neues Produkt mit begrenzter öffentlicher Historie.",
+    "summary_abuse": "Quixchat ist ein Chat-Support-Widget ohne nennenswertes Missbrauchssignal. Es leitet Gespräche an etablierte Messaging-Plattformen weiter und hat keine dokumentierte Ausnutzungshistorie."
+  },
+  "Quizitri": {
+    "description": "Quizitri ist ein Werkzeug zum Erstellen unbegrenzt vieler Quizze, um Conversions, Website-Traffic, Lead-Generierung und Verkäufe zu steigern.",
+    "history": "Quizitri ist eine SaaS für Quiz-Erstellung zur Lead-Generierung und für Marketing-Conversions. Es ist ein kleines, neues Produkt ohne nennenswerte Eigentümerereignisse.",
+    "summary_abuse": "Quizitri ist ein Quiz- und Lead-Generation-Werkzeug ohne nennenswertes Missbrauchssignal. Quiz-Plattformen können unter dem Deckmantel von Unterhaltung zur Datensammlung genutzt werden, für Quizitri gibt es jedoch keine spezifisch dokumentierte Missbrauchshistorie."
+  },
+  "Qukasoft": {
+    "description": "Qukasoft ist eine Online-Lösung, die deine E-Commerce-Plattform mit führenden Online-Marktplätzen integriert und so die Reichweite zu potenziellen Kunden erweitert.",
+    "history": "Qukasoft ist eine SaaS für E-Commerce-Marktplatzintegration, die Online-Shops mit führenden Marktplätzen verbindet. Öffentlich ist nur begrenzt Historie verfügbar.",
+    "summary_abuse": "Qukasoft ist eine E-Commerce-Integrationsplattform ohne nennenswertes Missbrauchssignal. Es ist ein händlerseitiges Werkzeug ohne dokumentierte Ausnutzungshistorie."
+  },
+  "Qumra": {
+    "description": "Qumra ist eine Plattform, mit der Nutzer E-Commerce-Websites ohne Programmierkenntnisse erstellen können.",
+    "history": "Qumra ist ein No-Code-Baukasten für E-Commerce-Websites mit Freemium-Modell. Es ist eine kleine cloudbasierte Plattform mit sehr begrenzter öffentlicher Historie.",
+    "summary_abuse": "Qumra ist ein No-Code-E-Commerce-Baukasten mit geringem Missbrauchspotenzial durch Shop-Erstellung in einer kostenlosen Stufe. Kostenlose E-Commerce-Plattformen können für Fake-Shops ausgenutzt werden, für Qumra ist jedoch keine spezifisch dokumentierte Missbrauchshistorie bekannt."
+  },
+  "Quoli": {
+    "description": "Quoli ist eine Shopify-App, mit der Händler Social Proof sammeln und präsentieren können, darunter Produktbewertungen, Fotos/Videos, Attribute, Nuggets, Fragen und nutzergenerierte Inhalte (UGC).",
+    "history": "Quoli wurde 2023 gegründet und hat den Sitz in Denver, Colorado. Es ist eine Shopify-native App für Produktbewertungen und UGC, die mit starkem Frühwachstum startete und ihre Shopify-Store-Installationen im Jahresvergleich um über 310 Prozent steigerte.",
+    "summary_abuse": "Quoli ist eine App für Produktbewertungen und UGC für Shopify-Händler ohne nennenswertes Missbrauchssignal. Es ist ein händlerseitiges Werkzeug zur Anzeige von Kunden-Social-Proof und hat keine dokumentierte Ausnutzungshistorie."
+  },
+  "Quon": {
+    "description": "Quon ist eine Plattform zur Steuerung von Website-Werbung und Vertrieb mit integriertem End-to-end-Analysesystem zur Optimierung des Werbemanagements.",
+    "history": "Quon ist ein japanisches Werkzeug für Social-Media-Marketing und CRM, das vor allem den japanischen Markt bedient. Ausserhalb Japans ist nur begrenzte öffentliche Dokumentation verfügbar.",
+    "summary_abuse": "Quon weist kein nennenswertes Missbrauchssignal auf. Es ist eine japanische Social-Media-Marketing-Plattform mit begrenzter globaler Präsenz und ohne bekannte missbrauchsfördernde Funktionen."
+  },
+  "Quora Pixel": {
+    "description": "Quora Pixel ist ein Werkzeug, das in den Code deiner Website eingebunden wird, um Traffic und Conversions zu verfolgen.",
+    "history": "Quora wurde 2009 von den ehemaligen Facebook-Mitarbeitern Adam D'Angelo und Charlie Cheever gegründet. Der Quora Pixel ist die Komponente für Werbe-Conversion-Tracking innerhalb der Self-Serve-Ad-Plattform von Quora, die zusammen mit dem Werbeprodukt 2016 eingeführt wurde.",
+    "summary_abuse": "Der Quora Pixel ist ein Tracking-Pixel eines Werbenetzwerks mit moderaten Datenschutzimplikationen, da er Nutzerverhalten über Websites hinweg für Ad Targeting und Retargeting sammelt. Die Plattform Quora wurde zur Verbreitung von Desinformation und koordiniertem unauthentischem Verhalten genutzt, der Pixel selbst ist jedoch ein standardmässiger Werbetracker ohne spezifisches Missbrauchsmuster, das ihn von anderen grossen Werbenetzwerken unterscheidet."
+  },
+  "Quotemedia": {
+    "description": "Quotemedia ist ein Anbieter von Börsendaten- und Research-Lösungen für Online-Broker, Clearingfirmen, Banken, Medienportale, börsenkotierte Unternehmen und Finanzdienstleister.",
+    "history": "QuoteMedia Inc. (OTCQB: QMCI) wurde 1992 eingetragen und nahm den operativen Betrieb 1999 auf. Das börsenkotierte Finanzdatenunternehmen mit Sitz in Fountain Hills, Arizona, bietet Streaming-Marktdaten, Research und Analysen für Finanzinstitute und Medienhäuser.",
+    "summary_abuse": "QuoteMedia weist kein nennenswertes Missbrauchssignal auf. Es ist ein Anbieter von Finanzmarktdaten für institutionelle Kunden wie Banken, Broker und Medienhäuser, ohne verbrauchernahe kostenlose Hosting-Fläche, die Betrüger gezielt ausnutzen."
+  },
+  "QUV": {
+    "description": "QUV ist eine koreanische No-Code-Website-Builder-Plattform, die Website-Erstellung per Drag-and-drop ermöglicht.",
+    "history": "QUV ist ein koreanischer No-Code-Website-Builder mit Drag-and-drop-Funktionalität. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "QUV weist kein nennenswertes Missbrauchssignal auf. Es ist ein koreanischer Nischen-Website-Builder ohne dokumentierte Nutzung in Betrugs- oder Phishing-Kampagnen."
+  },
+  "Qwik": {
+    "description": "Qwik ist auf möglichst schnelle Seitenladezeiten ausgelegt, indem es reines HTML mit nahezu 0 JavaScript ausliefert.",
+    "history": "Qwik wurde von Miško Hevery, dem Schöpfer von AngularJS, bei Builder.io entwickelt und 2021 erstmals öffentlich veröffentlicht. Es führt ein neuartiges Resumability-Modell ein, das Hydration vermeidet, um beim initialen Laden nahezu ohne JavaScript auszukommen, und gilt damit als wichtige architektonische Innovation unter Frontend-Frameworks.",
+    "summary_abuse": "Qwik ist ein Open-Source-Frontend-Framework ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug zum Erstellen von Webanwendungen und bietet keine verbrauchernahe Oberfläche, die für Betrug ausgenutzt werden könnte."
+  }
+}

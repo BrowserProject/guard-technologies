@@ -1,0 +1,507 @@
+{
+  "Zabbix": {
+    "description": "Zabbix ist ein Open-Source-Monitoring-Tool für Echtzeitüberwachung, Alarmierung und Reporting von IT-Infrastruktur, darunter Netzwerke, Server und Anwendungen.",
+    "history": "Zabbix wurde 1998 von Alexei Vladishev als internes Monitoring-Tool entwickelt und 2001 als Open Source veröffentlicht. Zabbix LLC hat seinen Sitz in Lettland und bietet kommerziellen Support sowie Enterprise-Versionen an. Heute ist Zabbix eine wichtige Open-Source-Plattform für Enterprise-Monitoring.",
+    "summary_abuse": "Für Zabbix gibt es kein auffälliges Missbrauchssignal. Es ist eine Netzwerk-Monitoring-Plattform, die als interne Infrastruktur eingesetzt wird und keine verbraucherorientierte Oberfläche bietet, die Betrüger typischerweise ausnutzen würden."
+  },
+  "Zad": {
+    "description": "Zad ist eine E-Commerce-Plattform, mit der Unternehmen und Gründer sichere Online-Shops einrichten und verwalten können.",
+    "history": "Zad ist eine jordanische E-Commerce-Plattform, die Unternehmen und Gründer in der MENA-Region beim Aufbau und Betrieb sicherer Online-Shops unterstützt.",
+    "summary_abuse": "Zad ist eine auf die MENA-Region ausgerichtete E-Commerce-Plattform mit Gratisstufe. Als gehosteter Shop-Builder birgt sie ein gewisses Grundrisiko für betrügerische Shops, konkrete dokumentierte Vorfälle sind jedoch nicht bekannt."
+  },
+  "Zadarma": {
+    "description": "Zadarma ist ein VoIP-Dienst für cloudbasierte Sprachkommunikation in Unternehmen, mit Internetanrufen, virtuellen Telefonnummern und Funktionen zur Anrufverwaltung.",
+    "history": "Zadarma ist ein 2006 gegründeter VoIP-Anbieter, der weltweit cloudbasierte Sprachkommunikation, virtuelle Telefonnummern und Cloud-PBX-Dienste für Unternehmen anbietet.",
+    "summary_abuse": "Zadarma ist ein VoIP-Dienst. VoIP-Anbieter können für Spam-Anrufe und Voice-Phishing (Vishing) missbraucht werden. Zadarma stellt virtuelle Telefonnummern bereit, die zur Umgehung von SMS-Verifikationen missbraucht werden könnten, es sind jedoch keine konkreten grossflächigen Vorfälle dokumentiert."
+  },
+  "Zakeke": {
+    "description": "Zakeke ist ein Tool zur Produktanpassung, das mit Diensten und Apps kompatibel ist, die vor allem zur Verwaltung von E-Commerce-Shops genutzt werden.",
+    "history": "Zakeke wurde 2017 in Mailand, Italien, gegründet und bietet Live-Produktpersonalisierung, 3D-Produktkonfiguration und AR-Visualisierung für E-Commerce. Im Oktober 2023 nahm das Unternehmen 2 Millionen Euro auf, um seine Visual-Commerce-Funktionen weltweit auszubauen. Zu den Investoren gehören CDP Venture Capital, ComoNext, Polihub und Berrier Capital. Zakeke wurde im italienischen Ministerium für Unternehmen und Made in Italy als italienische Technologieinnovation vorgestellt.",
+    "summary_abuse": "Zakeke ist ein Tool für Produktanpassung und 3D-Visualisierung für E-Commerce-Händler ohne auffälliges Missbrauchssignal. Die Plattform ermöglicht Käufern, Produktdesigns anzupassen, bietet aber keine verbraucherorientierte Oberfläche, die Phishing oder Betrug besonders anziehen würde. Es sind keine dokumentierten Missbrauchsfälle mit dem Dienst verbunden."
+  },
+  "Zakeke Interactive Product Designer": {
+    "description": "Zakeke Interactive Product Designer lässt Kunden Produkte personalisieren und vor dem Checkout visualisieren, wie sie aussehen werden.",
+    "history": "Zakeke Interactive Product Designer ist ein Produkt des italienischen Unternehmens Zakeke und bietet Produktpersonalisierung für Online-Shops.",
+    "summary_abuse": "Für Zakeke Interactive Product Designer gibt es kein auffälliges Missbrauchssignal. Es handelt sich um ein Tool zur Produktanpassung."
+  },
+  "Zakeke Visual Customizer": {
+    "description": "Zakeke Visual Customizer ist ein cloudangebundenes Visual-Commerce-Tool, mit dem Marken und Händler Live-Funktionen für personalisierte Produkte in 2D, 3D und Augmented Reality (AR) anbieten können.",
+    "history": "Zakeke Visual Customizer ist ein Produkt des italienischen Unternehmens Zakeke für visuelle 3D-Produktanpassung im E-Commerce.",
+    "summary_abuse": "Für Zakeke Visual Customizer gibt es kein auffälliges Missbrauchssignal. Es ist ein Anpassungstool für E-Commerce."
+  },
+  "Zakra": {
+    "description": "Zakra ist ein flexibles, schnelles, leichtgewichtiges und modernes Mehrzweck-Theme für WordPress mit vielen kostenlosen Starter-Websites.",
+    "history": "Zakra ist ein WordPress-Theme von ThemeGrill, einem nepalesisch-indischen WordPress-Theme-Anbieter, und wurde etwa 2019 erstmals veröffentlicht.",
+    "summary_abuse": "Zakra ist ein WordPress-Theme ohne auffälliges Missbrauchssignal."
+  },
+  "Zalify": {
+    "description": "Zalify ist eine datengetriebene Growth-Engine für Shopify-Händler, die im E-Commerce-Umfeld Agilität und Präzision ermöglichen soll.",
+    "history": "Zalify ist eine datengetriebene Growth- und Analytics-Plattform für Shopify-Händler. Es sind keine nennenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Zalify ist eine Shopify-Plattform für Analytics und Wachstum ohne auffälliges Missbrauchssignal; sie arbeitet innerhalb des Shopify-Ökosystems."
+  },
+  "Zammad": {
+    "description": "Zammad ist ein webbasiertes Open-Source-System für Support und Tickets, das Nutzeranfragen verwaltet und Kundendienst-Workflows organisiert.",
+    "history": "Zammad ist ein deutsches Open-Source-Helpdesk- und Kundensupport-Ticketsystem, das 2016 erstmals veröffentlicht wurde und von der Zammad GmbH in Berlin entwickelt wird. Es ist selbst gehostet oder als Cloud verfügbar.",
+    "summary_abuse": "Für Zammad gibt es kein auffälliges Missbrauchssignal. Es ist ein Helpdesk-Ticketsystem ohne verbraucherorientierte Oberfläche, die Betrüger typischerweise ausnutzen würden."
+  },
+  "Zammit": {
+    "description": "Zammit ist eine E-Commerce-Plattform mit Sitz in Ägypten.",
+    "history": "Zammit ist eine ägyptische E-Commerce-Plattform für die MENA-Region, mit der Händler Online-Shops einrichten können.",
+    "summary_abuse": "Zammit ist eine auf die MENA-Region ausgerichtete E-Commerce-Plattform mit Gratisstufe. Als gehosteter Shop-Builder birgt sie ein gewisses Grundrisiko für betrügerische Shops, konkrete dokumentierte Vorfälle sind jedoch nicht bekannt."
+  },
+  "Zanox": {
+    "history": "Zanox war ein deutsches Affiliate-Marketing-Netzwerk, das 2000 gegründet wurde. Nach der Fusion der Affiliate-Netzwerke Awin und Zanox unter der Axel-Springer- / PubliGroupe-Struktur wurde es 2017 in Awin umbenannt.",
+    "summary_abuse": "Zanox, heute Awin, war ein Affiliate-Marketing-Netzwerk. Affiliate-Netzwerke können branchenweit von böswilligen Akteuren für Cookie Stuffing, betrügerischen Klicktraffic und gefälschte Conversion-Modelle missbraucht werden. Das Netzwerk wurde umbenannt und in Awin integriert."
+  },
+  "Zapiet": {
+    "description": "Zapiet ist eine Lösung für Abholung im Laden und lokale Lieferung im E-Commerce.",
+    "history": "Zapiet wurde 2015 von Andrew Cargill im Vereinigten Königreich gegründet. Das Unternehmen bietet Werkzeuge für Abholung im Laden, lokale Lieferung und Versandterminierung ausschliesslich für Shopify-Händler. Was als einfache Abhol-App begann, ist zu einer Plattform für tausende Händler in mehr als 150 Ländern mit einem remote-first Team gewachsen.",
+    "summary_abuse": "Zapiet ist ein reines Shopify-Tool für die Terminierung der Auftragsabwicklung ohne auffälliges Missbrauchssignal. Die Plattform ist eine Backend-Logistik-App und hat keine direkte verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsfälle mit dem Dienst verbunden."
+  },
+  "Zapnito": {
+    "description": "Zapnito ist eine Plattform, mit der B2B-Organisationen digitales Engagement, Bildung und communitygetriebenes Wachstum über integrierte Content- und Experience-Tools verwalten und skalieren können.",
+    "history": "Zapnito wurde 2014 von Charles Thiede und Jon Beer in London, UK, gegründet. Das Unternehmen bietet eine B2B-Community- und Wissensplattform für Enterprise-Kunden mit Werkzeugen für digitales Engagement, Content-Management, Kurse, Events und Community-Aufbau unter eigenen Marken-Domains. Im Juni 2021 nahm Zapnito eine Series-A-Runde über 3,3 Millionen Pfund von Octopus Ventures auf.",
+    "summary_abuse": "Zapnito ist eine B2B-Community-Plattform für Enterprise-Kunden ohne auffälliges Missbrauchssignal. Die Plattform setzt Enterprise-Verträge voraus und ist nicht frei für anonyme Nutzung verfügbar. Es sind keine dokumentierten Missbrauchsfälle, Phishing-Vorfälle oder Sicherheitsberichte mit Zapnito verbunden."
+  },
+  "Zarla": {
+    "description": "Zarla ist ein Website-Builder für kleine Unternehmen und bietet SEO-Optimierungsfunktionen zur besseren Online-Sichtbarkeit.",
+    "history": "Zarla ist ein KI-gestützter Website-Builder für kleine Unternehmen mit SEO-optimierter Content-Erstellung. Er bietet eine Gratisstufe mit eigener Domain sowie kostenpflichtige Tarife ab unter 3 US-Dollar pro Monat.",
+    "summary_abuse": "Zarla ist ein KI-Website-Builder mit Gratisstufe. Kostenlose gehostete Website-Builder mit Unterstützung für eigene Domains werden häufig genutzt, um Phishing- und Scam-Landingpages zu erstellen. Für Zarla sind keine konkreten dokumentierten Vorfälle bekannt, die Gratisstufe mit eigener Domain erhöht jedoch das Missbrauchsrisiko moderat."
+  },
+  "Zaxaa": {
+    "description": "Zaxaa ist ein Sales-Funnel-Dienst, der das Verwalten von Leads, das Pflegen von Interessenten und deren Umwandlung in Kunden vereinfachen soll.",
+    "history": "Zaxaa ist eine Plattform für Sales Funnels und die Auslieferung digitaler Produkte für Online-Kursersteller und Verkäufer von Informationsprodukten.",
+    "summary_abuse": "Zaxaa ist eine Sales-Funnel-Plattform ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "Zeabur": {
+    "description": "Zeabur ist eine Plattform zum Betreiben von Full-Stack-Apps und Datenbanken.",
+    "history": "Zeabur ist eine Cloud-Deployment-Plattform, die etwa 2022 gegründet wurde und sich an Entwickler richtet, die Full-Stack-Anwendungen schnell und ohne DevOps-Aufwand bereitstellen wollen.",
+    "summary_abuse": "Zeabur ist eine Cloud-Deployment-Plattform. Hosting-Plattformen können zum Bereitstellen schädlicher Apps missbraucht werden, für Zeabur sind jedoch keine konkreten Vorfälle dokumentiert."
+  },
+  "Zeald": {
+    "description": "Zeald ist ein Full-Service-Unternehmen für Webdesign und digitales Marketing.",
+    "history": "Zeald wurde 2001 von drei Gründern aus Mangawhai Heads, Neuseeland, gegründet. Das Unternehmen entwickelte sich zur grössten Agentur Neuseelands für Webdesign und digitale Transformation mit Schwerpunkt E-Commerce. In mehr als zwei Jahrzehnten hat Zeald über 15'000 neuseeländische Unternehmen betreut und über seine eigene E-Commerce-Plattform ZEST mehr als 2 Milliarden NZ-Dollar abgewickelt. Das Unternehmen hat Büros in Neuseeland und Australien.",
+    "summary_abuse": "Zeald ist eine neuseeländische Agentur für Webdesign und E-Commerce-Plattformen ohne auffälliges Missbrauchssignal. Die Plattform bedient verifizierte Geschäftskunden über ein Managed-Service-Modell und bietet keinen anonymen oder kostenlosen Zugang, der Betrug anziehen würde. Es sind keine dokumentierten Phishing- oder Scam-Hosting-Vorfälle mit Zeald verbunden."
+  },
+  "ZeeMaps": {
+    "description": "ZeeMaps ist ein Dienst zum Erstellen eigener Karten mit Standortmarkierungen, Regionen und Anmerkungen.",
+    "history": "ZeeMaps ist ein etwa 2007 gegründeter Dienst zur Erstellung eigener Karten, mit dem Nutzer teilbare Karten mit individuellen Markierungen erstellen können.",
+    "summary_abuse": "ZeeMaps ist ein Kartendienst ohne auffälliges Missbrauchssignal."
+  },
+  "Zeleris": {
+    "description": "Zeleris bietet Tür-zu-Tür-Paketlieferungen nach Irland, ins Vereinigte Königreich und in die EU an.",
+    "history": "Zeleris, rechtlich Telefónica Servicios Integrales de Distribución S.A.U., wurde 1999 in Madrid, Spanien, zunächst unter dem Namen Aeris gegründet. Das Unternehmen ist eine Tochtergesellschaft von Telefónica, dem grossen spanischen Telekommunikationskonzern, und spezialisiert sich auf Logistik, Eilnachrichten, Transport und Distribution sowie die Verteilung mobiler Geräte. Das Unternehmen bietet Lieferdienste in Spanien, Portugal, Irland, dem Vereinigten Königreich und der EU an.",
+    "summary_abuse": "Zeleris ist eine Logistik- und Liefer-Tochtergesellschaft von Telefónica ohne auffälliges Missbrauchssignal. Die Plattform ist ein B2B-Versanddienst, über den Unternehmen Pakete versenden, und bietet keine verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsvorfälle mit Zeleris verbunden."
+  },
+  "Zen Cart": {
+    "history": "Zen Cart wurde 2003 von einer Entwicklergruppe aus osCommerce abgespalten, die eine benutzerfreundlichere E-Commerce-Plattform schaffen wollte. Das Projekt wird weiterhin von der Community gepflegt und gehört zu den ältesten noch genutzten Open-Source-E-Commerce-Plattformen.",
+    "summary_abuse": "Zen Cart ist eine selbst gehostete E-Commerce-Plattform. Ältere Versionen hatten Sicherheitslücken, die Betrüger für Card-Skimming-Angriffe im Magecart-Stil ausgenutzt haben, wobei dies Installationen betrifft und nicht die Software als Hosting-Dienst für Missbrauch. Legitime Nutzung überwiegt deutlich. Missbrauch entsteht meist durch ungepatchte Installationen."
+  },
+  "Zen Planner": {
+    "description": "Zen Planner ist eine Softwareplattform für Fitness- und Wellness-Unternehmen mit Funktionen für Mitgliederverwaltung, Kursplanung und automatisierte Abrechnung.",
+    "history": "Zen Planner ist eine Verwaltungssoftware für Fitnessstudios, die etwa 2006 gegründet wurde und vor allem Fitnesscenter, Kampfsportschulen und Yogastudios bedient; sie gehört zum Fitness-Portfolio von Active Network.",
+    "summary_abuse": "Zen Planner ist eine Verwaltungsplattform für Fitnessstudios ohne auffälliges Missbrauchssignal."
+  },
+  "ZenBasket": {
+    "description": "ZenBasket ist ein moderner E-Commerce-Website-Builder, mit dem Nutzer Online-Shops per Drag-and-drop und mit integrierten Zahlungslösungen erstellen, anpassen und verwalten können.",
+    "history": "ZenBasket ist ein moderner E-Commerce-Website-Builder mit Drag-and-drop-Funktionen und integrierten Zahlungen für Online-Shops.",
+    "summary_abuse": "ZenBasket ist ein E-Commerce-Shop-Builder mit Gratisstufe. Kostenlose gehostete E-Commerce-Plattformen bergen ein moderates Risiko für betrügerische Shops, konkrete dokumentierte Vorfälle für ZenBasket sind jedoch nicht bekannt."
+  },
+  "Zenbooker": {
+    "description": "Zenbooker ist ein System, mit dem Nutzer Termine oder Reservierungen online buchen können.",
+    "history": "Zenbooker ist ein Online-System für Termin- und Reservierungsbuchungen in Dienstleistungsunternehmen. Es sind keine nennenswerten Eigentümerwechsel dokumentiert.",
+    "summary_abuse": "Zenbooker ist ein Terminbuchungssystem ohne auffälliges Missbrauchssignal."
+  },
+  "Zenchef": {
+    "description": "Zenchef ist eine Restaurant-Management-Software, die das Kundenerlebnis im Restaurant vereinfacht.",
+    "history": "Zenchef wurde etwa 2010-2011 in Paris, Frankreich, ursprünglich als 1001 Menus gegründet und später in Zenchef umbenannt. Das Unternehmen bietet Restaurantverwaltungs- und Reservierungssoftware, die von Restaurants in Nordeuropa genutzt wird. 2022 investierte PSG Equity über 50 Millionen Euro in Zenchef. Im Juli 2025 kündigten Zenchef und das spanische Unternehmen CoverManager eine Fusion an, um einen europäischen Marktführer für Restaurant-Revenue-Management zu schaffen. Die kombinierte Einheit hat über 500 Mitarbeitende in 10 Ländern.",
+    "summary_abuse": "Zenchef ist eine Plattform für Restaurantreservierung und -verwaltung ohne auffälliges Missbrauchssignal. Restaurants nutzen sie für Buchungsverwaltung und Kundenbeziehungsfunktionen, ohne verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsvorfälle mit Zenchef verbunden."
+  },
+  "Zend": {
+    "description": "Zend ist ein Unternehmen für PHP-Entwicklungstools und -Lösungen, darunter Frameworks, Server und Entwicklungsumgebungen zum Erstellen, Bereitstellen und Verwalten von PHP-Anwendungen.",
+    "history": "Zend Technologies wurde 1999 von Zeev Suraski und Andi Gutmans gegründet, den Mitentwicklern von PHP 3. Das Unternehmen stellte die Zend Engine, die PHP-Laufzeitumgebung, sowie kommerzielle PHP-Werkzeuge bereit. Zend wurde 2015 von Rogue Wave Software übernommen, das 2019 wiederum von Perforce Software gekauft wurde.",
+    "summary_abuse": "Für Zend gibt es kein auffälliges Missbrauchssignal. Es ist eine PHP-Entwicklungstoolchain ohne verbraucherorientierte Oberfläche, die Betrüger typischerweise ausnutzen würden."
+  },
+  "ZendApps": {
+    "description": "ZendApps ist ein Tool zum Wachstum von Shopify-Shops, das Abläufe strafft und die Leistung durch automatisierte Funktionen verbessert.",
+    "history": "ZendApps ist eine App-Suite zur Optimierung von Shopify-Shops. Es sind keine nennenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "ZendApps ist eine Shopify-App-Suite ohne auffälliges Missbrauchssignal; sie arbeitet innerhalb des App-Ökosystems von Shopify."
+  },
+  "Zendesk": {
+    "description": "Zendesk ist eine cloudbasierte Helpdesk-Management-Lösung mit anpassbaren Werkzeugen für Kundenservice-Portale, Wissensdatenbanken und Online-Communities.",
+    "history": "Zendesk wurde 2007 in Kopenhagen, Dänemark, von Mikkel Svane, Morten Primdahl und Alexander Aghassipour gegründet und verlegte seinen Hauptsitz später nach San Francisco. Das Unternehmen ging 2014 an die NYSE und wuchs zu einer führenden Plattform für Kundenservice heran. 2022 übernahm ein Private-Equity-Konsortium unter Führung von Hellman & Friedman und Permira Zendesk für rund 10,2 Milliarden US-Dollar und nahm das Unternehmen von der Börse.",
+    "summary_abuse": "Zendesk hat wegen seines B2B-Fokus auf Kundenservice ein geringes Missbrauchsprofil. Die wichtigste Oberfläche, gebrandete Support-Portale und Live-Chat-Widgets, ist kein typischer Vektor für Phishing oder Betrug. Zendesk veröffentlicht eine AUP, betreibt ein aktives Sicherheitsprogramm einschliesslich SOC 2 Type 2-Zertifizierung und ein HackerOne-Bug-Bounty-Programm. Gelegentlicher Missbrauch betrifft die Nachahmung legitimer Zendesk-Support-E-Mails in Phishing-Kampagnen, ist aber beiläufig und nicht an Plattformfunktionen gebunden. Legitime Enterprise-Nutzung überwiegt klar."
+  },
+  "Zendesk Chat": {
+    "description": "Zendesk Chat ist ein Live-Chat- und Kommunikations-Widget.",
+    "history": "Zendesk Chat entstand aus Zopim, einem 2008 in Singapur gegründeten Live-Chat-Produkt. Zendesk übernahm Zopim 2014 und benannte es in Zendesk Chat um, wobei es als Live-Chat-Komponente in die Zendesk-Plattform integriert wurde. Heute ist es Teil der breiteren Messaging-Suite von Zendesk.",
+    "summary_abuse": "Zendesk Chat hat kein auffälliges Missbrauchsprofil. Es ist ein B2B-Live-Chat-Widget auf Unternehmenswebsites und bietet kein verbraucherorientiertes Content-Hosting oder anonyme Registrierungen. Die Anti-Abuse-Haltung der Zendesk-Plattform, einschliesslich SOC 2 Type 2, GDPR-Compliance und veröffentlichter AUP, gilt auch für dieses Produkt. Legitime Enterprise-Nutzung überwiegt klar."
+  },
+  "Zendesk Sunshine Conversations": {
+    "description": "Zendesk Sunshine Conversations ermöglicht eine einzige, fortlaufende Konversation, die von allen Teams im Unternehmen genutzt wird. Mit einer einheitlichen API und nativen Connectors zu beliebten Business-Anwendungen wie Zendesk und Slack erhalten alle in der Organisation Zugriff auf eine gemeinsame Sicht der Kundenkommunikation.",
+    "history": "Zendesk Sunshine Conversations entstand aus Smooch, einer 2013 in Montreal, Kanada, gegründeten Messaging-Plattform. Zendesk übernahm Smooch 2019 und benannte es im Rahmen des Starts der Zendesk Sunshine CRM-Plattform in Sunshine Conversations um. Das Produkt bietet eine einheitliche API für Omnichannel-Kundengespräche über mehrere Messaging-Kanäle hinweg.",
+    "summary_abuse": "Zendesk Sunshine Conversations hat kein auffälliges Missbrauchsprofil. Es ist eine B2B-API-Plattform, mit der Unternehmen Kundenkommunikation kanalübergreifend vereinheitlichen, und bietet kein verbraucherorientiertes anonymes Content-Hosting. Die Anti-Abuse-Haltung der Zendesk-Plattform, einschliesslich SOC 2 Type 2-Zertifizierung und veröffentlichter AUP, deckt dieses Produkt ab."
+  },
+  "Zenfolio": {
+    "description": "Zenfolio ist ein Website-Builder für Fotografie.",
+    "history": "Zenfolio wurde etwa 2006 als Website-Builder für professionelle und Hobbyfotografen gegründet. Der Dienst bietet Portfolio-Hosting, Kundengalerien und Druckverkauf. Das Unternehmen blieb unabhängig und bedient den Fotomarkt.",
+    "summary_abuse": "Zenfolio hat ein niedriges Missbrauchsprofil. Es ist eine Plattform für Fotografie-Portfolios und Galerie-Hosting. Wie bei den meisten Website-Buildern mit nutzergehosteten Inhalten besteht ein geringes Missbrauchsrisiko, die Plattform ist aber kein dokumentiertes Ziel von Phishing- oder Betrugskampagnen. Zenfolio verlangt eine Kontoeröffnung und hat übliche Inhaltsrichtlinien."
+  },
+  "Zenler": {
+    "description": "Zenler ist eine Plattform zur Kurserstellung, die Live-Kurse, Webinare, Community-Aufbau und Marketing-Tools in einem System kombiniert.",
+    "history": "Zenler ist eine Plattform zur Kurserstellung, die Live-Kurse, Webinare und Community-Funktionen kombiniert. Es ist ein kleines unabhängiges SaaS-Angebot im Markt für Online-Kurse mit begrenzter öffentlicher Historie.",
+    "summary_abuse": "Für Zenler gibt es kein auffälliges Missbrauchssignal. Es ist eine Plattform für Kurserstellung und LMS, auf der registrierte Dozenten Inhalte produzieren. Es sind keine dokumentierten Phishing- oder Betrugsmuster damit verbunden."
+  },
+  "ZenMaid": {
+    "description": "ZenMaid ist eine Terminplanungssoftware für private Reinigungsdienste, die bei der Verwaltung von Terminen hilft.",
+    "history": "ZenMaid wurde im April 2013 von Amar Ghose in Palo Alto, Kalifornien, gegründet. Ghose gründete das Unternehmen, nachdem er 2012 seinen eigenen Reinigungsdienst Fast Friendly Spotless betrieben und den Mangel an speziell entwickelter Planungssoftware für Reinigungsbetriebe erkannt hatte. Die Plattform ist auf über 3'000 Inhaber von Reinigungsdiensten gewachsen.",
+    "summary_abuse": "ZenMaid ist eine Terminplanungsplattform für private Reinigungsdienste ohne auffälliges Missbrauchssignal. Reinigungsunternehmen nutzen sie für Termin- und Betriebsverwaltung, ohne verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsvorfälle mit ZenMaid verbunden."
+  },
+  "Zenoti": {
+    "description": "Zenoti ist eine cloudbasierte Unternehmenssoftware für Spas, Salons und Medspas, mit Werkzeugen für Terminbücher, Mitarbeitereinsatzplanung und Online-Buchungen.",
+    "history": "Zenoti wurde 2010 gegründet und bietet cloudbasierte Verwaltungssoftware für Spas, Salons und Medspas. Das Unternehmen hat seinen Hauptsitz in Bellevue, Washington, nahm erhebliche Venture-Capital-Mittel auf und wuchs zu einem Anbieter für Spa- und Salonketten weltweit.",
+    "summary_abuse": "Für Zenoti gibt es kein auffälliges Missbrauchssignal. Es ist ein vertikales B2B-SaaS für Spa- und Salonverwaltung ohne verbraucherorientiertes anonymes Content-Hosting oder Funktionen, die Betrüger typischerweise anvisieren."
+  },
+  "Zenrez": {
+    "description": "Zenrez ist ein Anbieter von Vertriebs- und Marketingsoftware für Boutique-Fitnessstudios mit Schwerpunkt Revenue Management.",
+    "history": "Zenrez ist ein Anbieter von Vertriebs- und Marketingsoftware für Boutique-Fitnessstudios und bietet Werkzeuge, um kurzfristig freie Kursplätze zu füllen. Es ist ein kleines unabhängiges SaaS-Angebot für die Fitnessbranche.",
+    "summary_abuse": "Für Zenrez gibt es kein auffälliges Missbrauchssignal. Es ist ein Nischen-Marketing-SaaS für Boutique-Fitnessstudios ohne verbraucherorientiertes anonymes Content-Hosting."
+  },
+  "Zensical": {
+    "description": "Zensical ist eine Open-Source-Plattform für skalierbare technische Schreibsysteme, die unterbrechungsfreie Arbeitsabläufe ermöglichen sollen.",
+    "history": "Zensical ist eine Open-Source-Dokumentationsplattform für technisches Schreiben mit Fokus auf Skalierbarkeit. Es sind keine nennenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Zensical ist eine Open-Source-Dokumentationsplattform ohne Missbrauchssignal. Es ist ein selbst gehostetes Tool ohne verbraucherorientierte Content-Oberfläche."
+  },
+  "Zentap": {
+    "description": "Zentap ist eine Immobilienmarketing-Plattform zum Erstellen und Verwalten von Marketingkampagnen, Nachverfolgen von Leads und Messen von Ergebnissen.",
+    "history": "Zentap ist eine Immobilienmarketing-Plattform mit Werkzeugen für Makler zur Erstellung und Verwaltung von Marketinginhalten, einschliesslich Social Media und Video. Es ist ein kleines unabhängiges SaaS-Angebot im Immobilien-Tech-Bereich.",
+    "summary_abuse": "Für Zentap gibt es kein auffälliges Missbrauchssignal. Es ist ein Marketing-Content-Tool für Immobilienmakler und keine Plattform, die typischerweise für Betrug oder Phishing ausgenutzt wird."
+  },
+  "Zenu": {
+    "description": "Zenu ist eine All-in-one-CRM-Lösung für Immobilienprozesse, darunter Kundenkontakte, Immobilieninserate und Verkaufsabläufe.",
+    "history": "Zenu wurde 2016 in Cremorne, Victoria, Australien, gegründet. Das Unternehmen ist zu 100 Prozent in australischem Privatbesitz und bietet eine CRM- und Website-Builder-Plattform für Immobilien. Die Plattform bedient über 6'000 Immobilienmakler in Australien und bietet CRM-Werkzeuge, Verwaltung von Immobilieninseraten, Automatisierungsfunktionen und individuelle Website-Entwicklung.",
+    "summary_abuse": "Zenu ist eine australische Immobilien-CRM-Plattform ohne auffälliges Missbrauchssignal. Die Plattform wird von lizenzierten Immobilienmaklern genutzt und verlangt eine professionelle Registrierung. Es sind keine dokumentierten Phishing-, Betrugs- oder Scam-Vorfälle mit dem Dienst verbunden."
+  },
+  "Zenvia": {
+    "description": "Zenvia ist eine Customer-Engagement-Plattform, über die Unternehmen mit Kunden über mehrere digitale Kanäle kommunizieren können.",
+    "history": "Zenvia wurde 2001 in Brasilien als Plattform für mobile Nachrichten und Kundenkommunikation gegründet. 2021 ging das Unternehmen an die Nasdaq und wurde damit eines der ersten brasilianischen Technologieunternehmen mit US-Börsenlisting. Zenvia bietet SMS-, WhatsApp-, E-Mail- und Omnichannel-Messaging-APIs vor allem für den lateinamerikanischen Markt.",
+    "summary_abuse": "Zenvia ist eine Messaging-Plattform, die Unternehmen SMS- und WhatsApp-APIs bereitstellt. Wie alle Bulk-Messaging-Plattformen birgt sie ein gewisses Missbrauchsrisiko für Spam oder Phishing per SMS, besonders im lateinamerikanischen Markt, in dem sie tätig ist. Das Unternehmen veröffentlicht Nutzungsbedingungen und arbeitet in Brasilien unter ANATEL-Telekommunikationsregeln. Missbrauch ist kein dominierendes Muster, Bulk-SMS-Plattformen haben aber grundsätzlich ein höheres Risiko als B2B-SaaS ohne Messaging-Funktionen."
+  },
+  "Zenzzen": {
+    "description": "Zenzzen ist eine E-Commerce-Plattform, mit der Unternehmen vollständig anpassbare Online-Shops unter ihrer eigenen Marke aufbauen und Produkte, Zahlungen und Kundenerlebnis flexibel verwalten können.",
+    "history": "Zenzzen ist eine Nischen-SaaS-Plattform für E-Commerce mit Fokus auf White-Label-Shop-Erstellung. In öffentlichen Unterlagen finden sich keine nennenswerten Eigentümerwechsel oder ein Gründungsjahr.",
+    "summary_abuse": "Zenzzen ist eine kleine E-Commerce-Plattform ohne dokumentiertes Missbrauchssignal. Der Fokus auf White-Label-Shops richtet sich an legitime Unternehmen, und es wurden keine Betrugs- oder Phishing-Muster gemeldet."
+  },
+  "Zeotap": {
+    "description": "Zeotap ist eine Customer-Intelligence-Plattform, die Marken hilft, ihre Kunden besser zu verstehen und Verhalten vorherzusagen.",
+    "history": "Zeotap wurde 2014 in Berlin, Deutschland, als Customer-Intelligence- und Datenplattform (CDP) gegründet. Die Plattform hilft Marken, First-Party-Daten zusammenzuführen und über Marketingkanäle zu aktivieren. Das Unternehmen hat Venture Capital aufgenommen und bedient inzwischen globale Enterprise-Kunden.",
+    "summary_abuse": "Zeotap ist eine Customer-Data-Plattform, mit der Unternehmen Kundendaten zusammenführen und aktivieren. Als datenbrokernahe Plattform verarbeitet sie erhebliche Mengen personenbezogener Daten, arbeitet aber unter GDPR als Datenverarbeiter für Enterprise-Kunden. Für die Plattform selbst sind keine spezifischen Phishing- oder Betrugsmuster dokumentiert, die Kategorie steht jedoch generell unter Datenschutzbeobachtung."
+  },
+  "Zepio": {
+    "description": "Zepio ist eine Plattform zum Erstellen eines Online-Shops mit integrierter Website und Lieferung, ohne Programmierung.",
+    "history": "Zepio ist eine No-Code-E-Commerce-Plattform mit Drag-and-drop-Shop-Erstellung, 0 Prozent Kommission und integrierter Lieferung; sie scheint ein kleines unabhängiges Startup ohne dokumentierte nennenswerte Eigentümerwechsel zu sein.",
+    "summary_abuse": "Zepio ist ein Nischen-E-Commerce-Builder, der sich vor allem an kleine Händler richtet. Er unterstützt eigene Storefronts, die theoretisch für Fake-Shops genutzt werden könnten, es wurden jedoch keine dokumentierten Missbrauchsmuster oder Sicherheitsvorfälle gemeldet. Die kostenlose Testphase ist im Umfang begrenzt und reduziert damit das typische Phishing-Kit-Risiko."
+  },
+  "Zeppelin": {
+    "description": "Zeppelin ist eine Plattform eines Internet-Marketing-Anbieters zur Unterstützung digitaler Werbung und Online-Promotionsstrategien.",
+    "history": "Zeppelin (zeppelin-group.com) ist eine deutsche Plattform eines Internet-Marketing-Anbieters, die digitale Werbestrategien für Unternehmen unterstützt.",
+    "summary_abuse": "Zeppelin ist eine B2B-Plattform für digitales Marketing ohne auffälliges Missbrauchssignal."
+  },
+  "Zepto": {
+    "history": "Zepto.js wurde 2010 von Thomas Fuchs als leichtgewichtige, jQuery-kompatible JavaScript-Bibliothek für moderne Browser und Mobilgeräte entwickelt. Anfang der 2010er-Jahre war sie als kleinere Alternative zu jQuery für mobile Webentwicklung verbreitet, verlor aber an Bedeutung, als die Browserunterstützung für CSS- und DOM-APIs besser wurde und jQuery selbst schlanker wurde.",
+    "summary_abuse": "Für Zepto.js gibt es kein auffälliges Missbrauchssignal. Es ist eine clientseitige JavaScript-Bibliothek ohne verbraucherorientierte Oberfläche oder Netzwerkdienste, die Betrüger anvisieren."
+  },
+  "Zestard": {
+    "description": "Zestard ist ein Anbieter von Shopify-Plugins mit Lösungen zur Unterstützung von E-Commerce-Funktionen und Anpassungen.",
+    "history": "Zestard ist ein Anbieter von Shopify-Plugins und bietet E-Commerce-Lösungen für Shopify-Händler. Es ist ein kleines unabhängiges Unternehmen, vermutlich mit Sitz in Indien, mit begrenzter öffentlicher Historie.",
+    "summary_abuse": "Für Zestard gibt es kein auffälliges Missbrauchssignal. Das Unternehmen stellt Shopify-Plugins für Händler bereit und bietet keine verbraucherorientierte Hosting-Oberfläche."
+  },
+  "ZestMoney": {
+    "description": "ZestMoney ist ein Fintech-Unternehmen, das digitale EMI-Finanzierung ohne Kreditkarte oder Kredit-Score ermöglicht.",
+    "history": "ZestMoney wurde 2015 in Bengaluru, Indien, als Fintech-Unternehmen gegründet und bot digitale EMI-Finanzierung (equated monthly installment) für Online-Käufe ohne herkömmliche Kreditkarte an. Das Unternehmen nahm erhebliche Venture-Capital-Mittel auf und wurde zu einer der führenden Buy-now-pay-later-Plattformen Indiens, bevor es 2023 in finanzielle Schwierigkeiten geriet, nachdem Goldman Sachs aus einer Übernahme ausgestiegen war.",
+    "summary_abuse": "ZestMoney ist ein indisches BNPL-Fintech, das Finanzdaten von Verbrauchern verarbeitet, darunter Einkommens- und Kreditinformationen. Als verbraucherorientiertes Kreditprodukt mit eingebetteten Checkout-Flows ist es Phishing-Angriffen auf Nutzer und Marken-Imitation ausgesetzt. Die BNPL-Kategorie in Indien steht wegen Kreditvergabepraktiken und Verbraucherschutz unter regulatorischer Beobachtung. Es sind keine konkreten grossflächigen Betrugsvorfälle dokumentiert, verbraucherorientierte Fintech-Produkte tragen aber ein erhöhtes Missbrauchs- und Imitationsrisiko."
+  },
+  "Zeta Producer": {
+    "description": "Zeta Producer ist ein professioneller Homepage-Builder für Windows, mit dem Nutzer Websites erstellen können.",
+    "history": "Zeta Producer ist ein in Deutschland entwickelter Windows-Desktop-Website-Builder. Er erzeugt statische HTML-Websites und bedient seit den frühen 2000er-Jahren kleine Unternehmen und Privatpersonen. Das Produkt ist ein Nischenangebot, das im deutschsprachigen Raum beliebt ist.",
+    "summary_abuse": "Für Zeta Producer gibt es kein auffälliges Missbrauchssignal. Es ist eine Desktop-Anwendung zum Erstellen statischer Websites und hostet selbst keine Inhalte."
+  },
+  "Zeus Technology": {
+    "description": "Zeus Technology ist eine Plattform zur Medienmonetarisierung, die Publishern und Werbetreibenden jeder Grösse fairere Wettbewerbsbedingungen bieten soll.",
+    "history": "Zeus Technology ist eine Plattform zur Medienmonetarisierung, die Publishern helfen soll, mit grossen Werbenetzwerken zu konkurrieren; sie bietet Header-Bidding- und Programmatic-Advertising-Tools für Medienunternehmen.",
+    "summary_abuse": "Zeus Technology ist eine Plattform für Werbung und Medienmonetarisierung. Wie alle Ad-Tech-Plattformen liefert sie Drittanbieter-Werbecode auf Publisher-Websites aus, was ein inhärentes Malvertising-Risiko mit sich bringt. Die Plattform ist nicht dafür bekannt, Phishing-Seiten zu hosten oder Betrug direkt zu erleichtern, doch Ad-Tech-Plattformen sind ein häufiger Vektor für Malvertising-Kampagnen."
+  },
+  "Zevi": {
+    "description": "Zevi ist eine KI-gestützte Plattform für Site Search und Discovery, die die Produktentdeckung verbessern soll.",
+    "history": "Zevi ist eine etwa 2021 gegründete KI-gestützte Plattform für Site Search und Produktentdeckung im E-Commerce; sie bietet neuronale Suche und Product-Discovery-Funktionen für Online-Shops. Das Unternehmen hat seinen Sitz in Indien und hat Venture-Finanzierung erhalten.",
+    "summary_abuse": "Für Zevi gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-KI-Suchplattform für E-Commerce-Websites ohne verbraucherorientiertes anonymes Content-Hosting."
+  },
+  "Zevioo": {
+    "description": "Zevioo ist eine KI-gestützte Plattform, die E-Commerce-Shops durch automatisierte Optimierung und datengetriebene Personalisierung bei Conversions, Kundenloyalität und Umsatz unterstützt.",
+    "history": "Zevioo ist eine Plattform für nutzergenerierte Inhalte und KI-gestützte Personalisierung im E-Commerce, entwickelt von Zampple, einem griechischen Softwareunternehmen; sie integriert sich in Plattformen wie CS-Cart und OpenCart. Es sind keine nennenswerten Eigentümerwechsel oder Kontroversen bekannt.",
+    "summary_abuse": "Zevioo ist eine Plattform für Marketingautomatisierung und UGC im E-Commerce. Als ad-tech-nahes Tool, das Kundenverhaltensdaten sammelt und personalisiertes Marketing ermöglicht, bringt es die üblichen Datenschutzaspekte von Marketingplattformen mit sich. Konkrete Missbrauchsmuster oder Betrugsvorfälle sind jedoch nicht dokumentiert."
+  },
+  "Ziadah": {
+    "description": "Ziadah ist auf die Steigerung von E-Commerce-Umsätzen spezialisiert, indem es den Average Order Value (AOV) durch strategisches Inbound-Marketing sowie Cross-Selling- und Upselling-Techniken erhöht.",
+    "history": "Ziadah ist ein auf Saudi-Arabien ausgerichtetes E-Commerce-Marketing-Tool, das sich auf Cross-Selling und Upselling zur Erhöhung des Average Order Value für Shopify- und WooCommerce-Shops spezialisiert.",
+    "summary_abuse": "Ziadah ist ein auf die MENA-Region ausgerichtetes E-Commerce-Marketing-Tool ohne auffälliges Missbrauchssignal."
+  },
+  "Ziber": {
+    "description": "Ziber ist eine Bildungsplattform, die Fachpersonen, Lehrkräfte und Organisationen aus Kinderbetreuung und Primarbildung in einem zentralen digitalen Ökosystem verbindet.",
+    "history": "Ziber ist eine europäische Bildungsplattform, die Fachpersonen, Lehrkräfte und Organisationen für Lernen und Entwicklung verbindet; sie scheint in den Niederlanden ansässig zu sein und hat eine begrenzte öffentliche Historie.",
+    "summary_abuse": "Für Ziber gibt es kein auffälliges Missbrauchssignal. Es ist eine Bildungs- und Weiterbildungsplattform ohne verbraucherorientiertes anonymes Content-Hosting."
+  },
+  "Zid": {
+    "description": "Zid ist ein E-Commerce-SaaS, mit dem Händler ihre Online-Shops aufbauen und verwalten können.",
+    "history": "Zid wurde 2017 in Saudi-Arabien als E-Commerce-Plattform für arabischsprachige Händler im Nahen Osten und in Nordafrika gegründet. Das Unternehmen nahm erhebliche Venture-Capital-Mittel auf und wurde zu einem führenden E-Commerce-SaaS in den Ländern des Gulf Cooperation Council.",
+    "summary_abuse": "Zid ist eine E-Commerce-Plattform, die vor allem die MENA-Region bedient. Wie bei allen E-Commerce-Plattformen, auf denen Händler Storefronts erstellen können, besteht ein allgemeines Risiko betrügerischer Shops. Für Zid selbst sind jedoch keine konkreten dokumentierten Missbrauchsmuster bekannt. Die Plattform bedient verifizierte Händler und hat übliche Nutzungsbedingungen."
+  },
+  "Zieny": {
+    "description": "Zieny ist eine Plattform, mit der Unternehmen 3D und Augmented Reality (AR) ohne komplexe Umsetzung in Websites integrieren und interaktive Produkterlebnisse anbieten können.",
+    "history": "Zieny ist eine Nischen-SaaS-Plattform, mit der Unternehmen ohne komplexe Umsetzung 3D- und Augmented-Reality-Produktviewer in ihre Websites einbinden können. In öffentlichen Unterlagen fanden sich kein Gründungsjahr und keine Eigentümerhistorie.",
+    "summary_abuse": "Zieny ist ein Tool für 3D- und AR-Produktvisualisierung im E-Commerce. Es hat keine verbraucherorientierte Hosting-Oberfläche und kein dokumentiertes Missbrauchssignal."
+  },
+  "Ziggy": {
+    "description": "Ziggy ist eine Bibliothek, mit der benannte Laravel-Routen in JavaScript genutzt werden können.",
+    "history": "Ziggy ist eine Open-Source-JavaScript-Bibliothek von Tighten, einer Laravel-Beratung, mit der Entwickler benannte Laravel-Routen direkt in JavaScript verwenden können; sie wird vom Tighten-Team und der Laravel-Community gepflegt.",
+    "summary_abuse": "Für Ziggy gibt es kein auffälliges Missbrauchssignal. Es ist eine Laravel-Hilfsbibliothek ohne verbraucherorientierte Oberfläche oder Netzwerkdienste."
+  },
+  "Zimbra": {
+    "description": "Zimbra ist ein Anbieter von Open-Source-E-Mail- und Kollaborationssoftware mit Lösungen für E-Mail, Kalender, Kontakte und Zusammenarbeit für Einzelpersonen und Unternehmen.",
+    "history": "Zimbra wurde ursprünglich von Zimbra Inc. entwickelt, das 2005 gegründet wurde, und 2007 von Yahoo übernommen. Yahoo verkaufte es 2010 an VMware, das es 2013 an Telligent weiterverkaufte. Synacor übernahm Zimbra 2015 und verkaufte es 2019 an Zeta Global. 2020 kaufte Synacor Zimbra zurück. Das Projekt wird heute als unabhängige Open-Source-Suite für E-Mail und Zusammenarbeit betrieben.",
+    "summary_abuse": "Zimbra ist eine selbst gehostete E-Mail- und Kollaborationsplattform, die von vielen Organisationen eingesetzt wird. Die Webmail-Oberfläche wurde gelegentlich Ziel von Spear-Phishing-Angriffen, und es gibt dokumentierte Schwachstellen, die von APT-Gruppen ausgenutzt wurden. Da Organisationen ihre Instanzen selbst hosten, hängt das Missbrauchsprofil von der Sicherheit der jeweiligen Instanz ab. CVE-erfasste Schwachstellen in Zimbra wurden aktiv in freier Wildbahn ausgenutzt. Zimbra veröffentlicht Sicherheitsmeldungen und Patches."
+  },
+  "ZingChart": {
+    "description": "ZingChart ist eine kostenlose Open-Source-JavaScript-Bibliothek zum Erstellen interaktiver und intuitiver Diagramme.",
+    "history": "ZingChart ist eine von Ziff Davis entwickelte JavaScript-Diagrammbibliothek mit kostenloser Open-Source-Version und kommerziellen Enterprise-Editionen; sie bietet eine breite Auswahl interaktiver Diagrammtypen für Webanwendungen.",
+    "summary_abuse": "Für ZingChart gibt es kein auffälliges Missbrauchssignal. Es ist eine JavaScript-Diagrammbibliothek ohne verbraucherorientierte Netzwerkoberfläche."
+  },
+  "Zinnia": {
+    "description": "Zimbra ist eine Kollaborationssoftware-Suite mit E-Mail-Server und Webclient.",
+    "history": "Zinnia ist eine Open-Source-Blog-Anwendung für Django, die Anfang bis Mitte der 2010er-Jahre beliebt war, um Django-Websites um Blogfunktionen zu ergänzen. Das Projekt scheint weitgehend aufgegeben zu sein und zeigt kaum jüngere Aktivität.",
+    "summary_abuse": "Für Zinnia gibt es kein auffälliges Missbrauchssignal. Es ist eine selbst gehostete Django-Blog-Anwendung ohne Netzwerkdienste, die Betrüger typischerweise anvisieren."
+  },
+  "Zinrelo": {
+    "description": "Zinrelo ist eine Enterprise-Plattform für Treue- und Prämienprogramme.",
+    "history": "Zinrelo wurde etwa 2012 gegründet und bietet eine Enterprise-Plattform für Treue- und Prämienprogramme für E-Commerce-Unternehmen. Das Unternehmen hat seinen Hauptsitz in den USA und bedient Mid-Market- und Enterprise-Kunden.",
+    "summary_abuse": "Für Zinrelo gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Loyalty-Plattform zur Verwaltung von Prämienprogrammen für E-Commerce-Händler, ohne verbraucherorientiertes anonymes Content-Hosting."
+  },
+  "Zip": {
+    "description": "Zip ist ein Zahlungsdienst, mit dem du einen Kauf sofort erhältst und die Gesamtkosten über einen zinsfreien Zahlungsplan verteilst.",
+    "history": "Zip, in den USA früher Quadpay, wurde 2013 in Sydney, Australien, als Buy-now-pay-later-Dienst gegründet. Das Unternehmen wurde 2015 an der ASX kotiert und expandierte international. 2020 übernahm Zip Quadpay, um in den US-Markt einzutreten, und trat danach weltweit unter der Marke Zip auf. Das Unternehmen ist ein börsenkotierter BNPL-Anbieter in mehreren Ländern.",
+    "summary_abuse": "Zip ist ein verbraucherorientierter BNPL-Zahlungsdienst. Als Finanzprodukt mit Checkout-Integrationen wird seine Marke in Phishing-Imitationskampagnen gegen Kunden missbraucht. BNPL-Dienste stehen wegen Verbraucherkreditpraktiken unter regulatorischer Beobachtung, und Zip war Gegenstand von Beschwerden über schwer verständliche Rückzahlungsbedingungen. Es sind keine grossflächigen Betrugsvorfälle auf Plattformebene dokumentiert, die Kategorie verbraucherorientierter Finanzdienste trägt jedoch ein erhöhtes Phishing- und Imitationsrisiko."
+  },
+  "Zipchat": {
+    "description": "Zipchat ist ein KI-Chatbot für E-Commerce, der Verkäufe durch automatisierte Kundeninteraktionen und Unterstützung bei Kaufentscheidungen steigern soll.",
+    "history": "Zipchat ist ein italienischer KI-Chatbot für E-Commerce, der etwa 2022 gegründet wurde und Kundeninteraktionen automatisieren sowie Kaufentscheidungen in Online-Shops unterstützen soll.",
+    "summary_abuse": "Zipchat ist ein B2B-KI-Chatbot für E-Commerce ohne auffälliges Missbrauchssignal."
+  },
+  "Zipify OCU": {
+    "description": "Mit Zipify OCU kannst du Upsells und Cross-Sells zu deiner Checkout-Abfolge hinzufügen.",
+    "history": "Zipify OCU (One Click Upsell) ist eine Shopify-App von Zipify, einem Unternehmen, das etwa 2016 von Ezra Firestone gegründet wurde. Die App fügt Shopify-Checkout-Flows Upsell- und Cross-Sell-Angebote nach dem Kauf hinzu. Zipify ist ein unabhängiges Unternehmen für Shopify-Händler.",
+    "summary_abuse": "Für Zipify OCU gibt es kein auffälliges Missbrauchssignal. Es ist eine Shopify-App für Upsells nach dem Kauf. Die Wahrscheinlichkeit für Dark Patterns ist leicht erhöht, weil One-Click-Upsell-Flows so gestaltet werden können, dass Kunden zu ungewollten Käufen verleitet oder verwirrt werden, auch wenn die Plattform selbst legitim ist."
+  },
+  "Zipify Pages": {
+    "description": "Zipify Pages ist der erste Landingpage-Builder, der speziell für E-Commerce entwickelt wurde.",
+    "history": "Zipify Pages ist eine Shopify-App für Landingpages von Zipify, gegründet etwa 2016 von Ezra Firestone; sie ist speziell für E-Commerce-Landingpages konzipiert und eng in Shopify integriert.",
+    "summary_abuse": "Für Zipify Pages gibt es kein auffälliges Missbrauchssignal. Es ist ein Shopify-Landingpage-Builder für legitime E-Commerce-Händler. Damit erstellte Seiten könnten theoretisch für irreführende Angebote genutzt werden, konkrete Betrugsvorfälle sind jedoch nicht dokumentiert."
+  },
+  "Zipkin": {
+    "history": "Zipkin wurde ursprünglich 2012 bei Twitter entwickelt, inspiriert von Googles Dapper-Paper zu Distributed Tracing. Twitter veröffentlichte es als Open Source, und es wurde zu einem der ersten weit verbreiteten Systeme für Distributed Tracing. Das Projekt wird heute von der OpenZipkin-Community unter einer Apache 2.0-Lizenz gepflegt und in Microservices-Architekturen breit genutzt.",
+    "summary_abuse": "Für Zipkin gibt es kein auffälliges Missbrauchssignal. Es ist ein Open-Source-System für Distributed Tracing, das intern von Organisationen eingesetzt wird und keine verbraucherorientierte Oberfläche hat."
+  },
+  "Zipleads": {
+    "description": "Zipleads ist eine Lead-Conversion-Plattform, die Unternehmen mit automatisiertem Lead-Tracking und Engagement-Tools beim Erfassen, Verwalten und Konvertieren potenzieller Kunden unterstützt.",
+    "history": "Zipleads ist eine australische Lead-Conversion-Plattform für Unternehmen. Es ist ein kleines unabhängiges SaaS-Angebot mit begrenzter öffentlicher Historie.",
+    "summary_abuse": "Für Zipleads gibt es kein auffälliges Missbrauchssignal. Es ist ein B2B-Tool zur Lead-Verwaltung ohne verbraucherorientiertes anonymes Content-Hosting."
+  },
+  "Zipteams": {
+    "description": "Zipteams ist eine Live-Chat-Lösung.",
+    "history": "Zipteams ist eine indische Plattform für Live Chat und Sales Engagement. Es sind keine nennenswerten Eigentümerwechsel dokumentiert.",
+    "summary_abuse": "Zipteams ist eine Live-Chat-Plattform ohne auffälliges Missbrauchssignal."
+  },
+  "ZipWP": {
+    "description": "ZipWP ist ein Website-Builder, mit dem professionelle Websites mit umfangreichen Anpassungsmöglichkeiten ohne Programmierung erstellt werden können.",
+    "history": "ZipWP ist ein KI-gestützter WordPress-Website-Builder, der aus einem Textprompt ganze WordPress-Websites erzeugt. Es ist ein junges Produkt im Bereich KI-Website-Erstellung.",
+    "summary_abuse": "ZipWP ist ein KI-Website-Builder für WordPress. Wie alle Website-Builder mit Gratisstufen birgt er ein gewisses Risiko, zur Erstellung von Spam- oder betrügerischen Websites genutzt zu werden. Für die Plattform sind jedoch keine konkreten dokumentierten Missbrauchsmuster bekannt."
+  },
+  "ZK": {
+    "description": "ZK ist ein Framework zum Erstellen reichhaltiger, interaktiver Webanwendungen mit Java und bietet Werkzeuge und Komponenten für dynamische Benutzeroberflächen.",
+    "history": "ZK ist ein Java-Webframework, das etwa 2005 erstmals veröffentlicht wurde. Es bietet Ajax-basierte UI-Komponenten, mit denen Enterprise-Webanwendungen in reinem Java ohne JavaScript erstellt werden können. Es ist als Community Edition (LGPL) und Enterprise Edition (kommerziell) verfügbar.",
+    "summary_abuse": "ZK ist ein Java-Webframework ohne auffälliges Missbrauchssignal. Es ist ein serverseitiges Entwicklungstool ohne verbraucherorientierte Oberfläche, die Betrüger typischerweise ausnutzen würden."
+  },
+  "Zmags Creator": {
+    "description": "Zmags Creator ermöglicht Marketern, verschiedenste interaktive digitale Erlebnisse ohne Programmierung zu gestalten und zu veröffentlichen.",
+    "history": "Zmags Creator ist eine Content-Creation-Plattform für interaktive digitale Publikationen, shoppable Experiences und Marketinginhalte. Das Unternehmen wurde etwa 2007 gegründet und von Zmags zu Creator by Zmags umbenannt. Es bedient Händler und Publisher.",
+    "summary_abuse": "Für Zmags Creator gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Content-Creation-Plattform für gebrandete Marketingerlebnisse ohne verbraucherorientiertes anonymes Content-Hosting."
+  },
+  "Znode": {
+    "description": "Znode ist ein Anbieter von Enterprise-Shopping-Cart-Systemen auf .NET-Basis zum Aufbau und Betrieb von Online-Commerce-Plattformen.",
+    "history": "Znode ist ein US-Anbieter von Enterprise-E-Commerce-Software auf .NET-Basis, gegründet etwa 2001. Das Unternehmen bietet eine Headless-Commerce-Plattform für B2B- und Enterprise-Kunden, die individuelle E-Commerce-Erlebnisse auf dem Microsoft-.NET-Stack entwickeln wollen.",
+    "summary_abuse": "Für Znode gibt es kein auffälliges Missbrauchssignal. Es ist eine Enterprise-.NET-E-Commerce-Plattform, die von B2B-Organisationen auf eigener Infrastruktur betrieben wird."
+  },
+  "Zocdoc": {
+    "description": "Zocdoc ist ein Unternehmen mit Sitz in New York City, das einen Onlinedienst anbietet, über den Menschen Termine für medizinische oder zahnmedizinische Versorgung vor Ort oder per Telemedizin finden und buchen können.",
+    "history": "Zocdoc wurde 2007 in New York City von Cyrus Massoumi, Oliver Kharraz und Nick Ganju als Online-Marktplatz für Arztterminbuchungen gegründet. Das Unternehmen nahm erhebliche Venture-Capital-Mittel auf und wurde zu einer führenden Plattform für Gesundheitsterminplanung in den USA.",
+    "summary_abuse": "Zocdoc ist eine Plattform zur Buchung von Gesundheitsterminen. Als verbraucherorientierter Gesundheitsdienst verarbeitet sie sensible Patientendaten und unterliegt HIPAA-Regeln. Die Plattform steht im üblichen Datenschutzfokus des Gesundheitswesens; ihre Marke kann in Phishing-Kampagnen gegen Patienten nachgeahmt werden, konkrete grossflächige Vorfälle sind jedoch nicht dokumentiert. Die Plattform verlangt eine Anbieterprüfung und Patientenkonten."
+  },
+  "Zoey": {
+    "description": "Zoey ist eine cloudbasierte E-Commerce-Plattform für B2B- und Grosshandelsunternehmen.",
+    "history": "Zoey ist eine cloudbasierte B2B- und Grosshandels-E-Commerce-Plattform; sie startete etwa 2017 mit Fokus auf Grosshandels- und Vertriebsunternehmen, die komplexere Preis- und Bestellfunktionen benötigen, als Consumer-E-Commerce-Plattformen bieten.",
+    "summary_abuse": "Für Zoey gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Grosshandels-E-Commerce-Plattform für etablierte Unternehmen mit verifizierten Konten, keine Verbraucherplattform mit anonymem Content-Hosting."
+  },
+  "Zoho": {
+    "description": "Zoho ist eine webbasierte Online-Office-Suite.",
+    "history": "Zoho Corporation wurde 1996 in Chennai, Indien, damals als AdventNet, von Sridhar Vembu und Tony Thomas gegründet. 2009 benannte sich das Unternehmen in Zoho Corporation um. Es ist zu einem der weltweit grössten unabhängigen Softwareunternehmen mit über 50 Business-Anwendungen und mehr als 80 Millionen Nutzern weltweit gewachsen. Ungewöhnlich ist, dass Zoho trotz seiner Grösse privat und gründerkontrolliert geblieben ist.",
+    "summary_abuse": "Zoho ist ein grosser, seriöser Enterprise-SaaS-Anbieter. Seine Dienste werden gelegentlich über Gratisstufen von Zoho Mail für Phishing-E-Mail-Kampagnen missbraucht, und böswillige Akteure haben Zoho Docs und ähnliche Dienste zum Hosten von Phishing-Inhalten genutzt. Zoho veröffentlicht eine AUP und bietet Meldewege für Missbrauch, doch wegen des Umfangs der kostenlosen Angebote rutscht ein Teil des Missbrauchs durch. Die Missbrauchsrate ist im Verhältnis zur gesamten legitimen Nutzung niedrig."
+  },
+  "Zoho Commerce": {
+    "description": "Zoho Commerce ist eine cloudbasierte E-Commerce-Plattform der Zoho Corporation, die das Erstellen und Verwalten von Online-Shops erleichtert.",
+    "history": "Zoho Commerce ist ein E-Commerce-Plattformprodukt der Zoho Corporation und wurde als Teil der Zoho-Suite eingeführt. Es profitiert von Zohos Gründungsgeschichte seit 1996, globaler Infrastruktur und dem Integrationsökosystem des Unternehmens.",
+    "summary_abuse": "Zoho Commerce hat kein spezifisches Missbrauchsprofil ausser den allgemeinen Risiken der Zoho-Plattform. Es ist eine Business-E-Commerce-Plattform mit üblichen Kontoanforderungen. Zoho Corporation unterhält eine AUP und Compliance-Zertifizierungen über die Suite hinweg."
+  },
+  "Zoho Mail": {
+    "description": "Zoho Mail ist ein E-Mail-Hosting-Dienst für Unternehmen.",
+    "history": "Zoho Mail ist ein E-Mail-Hosting-Dienst für Unternehmen und Teil der Suite von Zoho Corporation, die 1996 gegründet wurde. Der Dienst entwickelte sich zu einer beliebten Alternative zu Google Workspace und Microsoft 365 für Organisationen, die eine datenschutzbewusste, integrierte Produktivitätssuite suchen.",
+    "summary_abuse": "Die Gratisstufe von Zoho Mail wurde von Threat-Intelligence-Forschern als Quelle von Phishing- und Business-Email-Compromise-E-Mails dokumentiert, da sie kostenlose E-Mail mit eigener Domain bietet und damit für betrügerische Kampagnen attraktiv ist. Zoho hat Takedown-Mechanismen und veröffentlicht eine AUP, doch das kostenlose Angebot für eigene Domains führt dazu, dass der Dienst in Berichten zu Phishing-Infrastruktur auftaucht. Das ist ein dokumentiertes Muster, nicht der dominierende Anwendungsfall, erhöht aber den Missbrauchswert über generisches SaaS hinaus."
+  },
+  "Zoho PageSense": {
+    "description": "Zoho PageSense ist eine Plattform zur Conversion-Optimierung, die Web Analytics, A/B-Testing und Personalisierung kombiniert.",
+    "history": "Zoho PageSense ist eine Plattform für Conversion-Optimierung und A/B-Testing der Zoho Corporation und Teil der Zoho-Suite; sie konkurriert mit Tools wie Hotjar und Optimizely.",
+    "summary_abuse": "Für Zoho PageSense gibt es kein auffälliges Missbrauchssignal. Es ist ein Analytics- und A/B-Testing-Tool, das in Unternehmenswebsites eingebettet wird und keine verbraucherorientierte Hosting-Oberfläche bietet."
+  },
+  "Zoho Recruit": {
+    "description": "Zoho Recruit ist eine Recruiting-Plattform, die ein Applicant Tracking System (ATS) mit Funktionen für Customer Relationship Management (CRM) verbindet.",
+    "history": "Zoho Recruit ist Teil der Suite von Zoho Corporation, die 1996 gegründet wurde. Zoho Corporation zählt weltweit zu den grössten unabhängigen Softwareunternehmen.",
+    "summary_abuse": "Es gibt kein auffälliges Missbrauchssignal speziell für dieses Zoho-Produkt. Es ist eine B2B-Geschäftsanwendung ohne anonymes, verbraucherorientiertes Content-Hosting und wird durch Zohos AUP sowie Compliance-Zertifizierungen abgesichert."
+  },
+  "Zoho SalesIQ": {
+    "description": "Zoho SalesIQ ist eine digitale Plattform für Kundeninteraktion, die Marketing-, Vertriebs- und Supportteams Werkzeuge für den Kontakt mit Website-Besuchern in jeder Phase des Kundenlebenszyklus bietet.",
+    "history": "Zoho SalesIQ ist Teil der Suite von Zoho Corporation, die 1996 gegründet wurde. Zoho Corporation zählt weltweit zu den grössten unabhängigen Softwareunternehmen.",
+    "summary_abuse": "Es gibt kein auffälliges Missbrauchssignal speziell für dieses Zoho-Produkt. Es ist eine B2B-Geschäftsanwendung ohne anonymes, verbraucherorientiertes Content-Hosting und wird durch Zohos AUP sowie Compliance-Zertifizierungen abgesichert."
+  },
+  "Zoho Sites": {
+    "description": "Zoho Sites ist eine All-in-one-Plattform, mit der Unternehmen Websites erstellen können.",
+    "history": "Zoho Sites ist Teil der Suite von Zoho Corporation, die 1996 gegründet wurde. Zoho Corporation zählt weltweit zu den grössten unabhängigen Softwareunternehmen.",
+    "summary_abuse": "Es gibt kein auffälliges Missbrauchssignal speziell für dieses Zoho-Produkt. Es ist eine B2B-Geschäftsanwendung ohne anonymes, verbraucherorientiertes Content-Hosting und wird durch Zohos AUP sowie Compliance-Zertifizierungen abgesichert."
+  },
+  "Zoko": {
+    "description": "Zoko ist ein All-in-one-System, das die WhatsApp API nutzt, damit Unternehmen Geschäftsprozesse direkt über WhatsApp abwickeln können.",
+    "history": "Zoko entstand um 2020 als Plattform für die WhatsApp Business API; sie ermöglicht Händlern, WhatsApp als Kanal für Commerce und Kundenservice zu nutzen. Das Unternehmen ist ein kleines, VC-finanziertes Startup.",
+    "summary_abuse": "Zoko stellt Unternehmen Zugang zur WhatsApp API bereit. Messaging-Plattformen auf WhatsApp-Basis können bei Missbrauch für Spam oder Phishing eingesetzt werden. Zoko setzt Zugang zur Meta WhatsApp Business API voraus, die eigene Verifizierungsanforderungen hat und damit einen Teil des Missbrauchsrisikos begrenzt."
+  },
+  "Zola": {
+    "description": "Zola ist ein Static-Site-Generator, der zentrale Funktionen in einer einzigen Binary bündelt.",
+    "history": "Zola ist ein in Rust geschriebener Open-Source-Static-Site-Generator, der um 2017 von Vincent Prouillet entwickelt wurde. Das Werkzeug erzeugt schnelle statische Websites ohne externe Abhängigkeiten und wird als einzelne Binary ausgeliefert. Unter Entwicklern, die Rust-basierte Tools bevorzugen, hat Zola eine Nischen-Anhängerschaft aufgebaut.",
+    "summary_abuse": "Zola hat kein auffälliges Missbrauchssignal. Es ist ein Open-Source-Static-Site-Generator, der statische Dateien erzeugt und keine verbraucherorientierte Dienstleistung oder eigene Netzwerkinfrastruktur bereitstellt."
+  },
+  "Zola Planner": {
+    "description": "Zola Planner ist ein Hochzeitsregister-System, mit dem Paare Geschenkauswahlen verwalten, Beiträge nachverfolgen und Registerdetails zentral koordinieren können.",
+    "history": "Zola wurde 2013 in New York City von Shan-Lyn Ma und Nobu Nakaguchi als Plattform für Hochzeitsregister und Hochzeitsplanung gegründet. Das Unternehmen sammelte umfangreiches Venture Capital ein und wurde zu einem führenden US-Dienst für Hochzeitsplanung und Register, im Wettbewerb mit The Knot und WeddingWire.",
+    "summary_abuse": "Zola Planner verarbeitet Verbraucherzahlungen für Käufe aus Hochzeitsregistern. Als verbraucherorientierte Plattform für Geschenkzahlungen ist der Dienst gelegentlich Risiken durch Zahlungsbetrug und Register-Scams ausgesetzt. Grosse, plattformspezifische Betrugsfälle sind nicht dokumentiert, doch Hochzeitsregister-Plattformen sind Ziele für Social-Engineering-Betrug gegen Paare und Gäste."
+  },
+  "Zonal Bookings": {
+    "description": "Zonal Bookings ist eine Reservierungsplattform, mit der Gastronomie- und Hospitality-Betriebe alle Buchungsaktivitäten zentral und ohne Provisionen verwalten können.",
+    "history": "Zonal Bookings ist eine Plattform für Reservierungsmanagement in britischen Hospitality-Betrieben; sie wird von Zonal entwickelt, einem um 1990 gegründeten Anbieter von Hospitality-Technologie. Zonal liefert EPOS- und Betriebssoftware für Pubs, Restaurants und Hotels im Vereinigten Königreich.",
+    "summary_abuse": "Zonal Bookings hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Reservierungsplattform für britische Hospitality-Betriebe ohne anonymes, verbraucherorientiertes Content-Hosting."
+  },
+  "Zone.js": {
+    "history": "Zone.js ist eine JavaScript-Bibliothek, die asynchrone APIs im Browser patcht, um Angulars Change Detection zu ermöglichen; sie wurde um 2015 vom Angular-Team bei Google entwickelt und als Teil des Angular-Frameworks ausgeliefert. Seit 2022 laufen Arbeiten daran, Angular auch ohne Zone.js, also zoneless, nutzbar zu machen.",
+    "summary_abuse": "Zone.js hat kein auffälliges Missbrauchssignal. Es ist eine grundlegende JavaScript-Bibliothek für Angular-Anwendungen ohne verbraucherorientierte Angriffs- oder Dienstfläche."
+  },
+  "Zonos": {
+    "description": "Zonos ist eine Software- und App-Lösung für grenzüberschreitenden Ecommerce bei Unternehmen mit internationalem Geschäft.",
+    "history": "Zonos wurde um 2009 gegründet und bietet Lösungen für grenzüberschreitenden Ecommerce, darunter die Berechnung von Zöllen und Steuern, internationalen Checkout und Zoll-Compliance. Die Plattform richtet sich an B2B-Händler, die international expandieren wollen.",
+    "summary_abuse": "Zonos hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für grenzüberschreitenden Handel, die Händlern Compliance- und Zollberechnungsdienste bereitstellt."
+  },
+  "ZoodPay": {
+    "description": "ZoodPay ist ein Fintech-Unternehmen, das Zahlungs- und Finanzierungslösungen bereitstellt, darunter Buy-now-pay-later (BNPL) und Point-of-Sale-Finanzierung für Verbraucher und Unternehmen.",
+    "history": "ZoodPay ist ein um 2019 gegründetes BNPL-Fintech mit Fokus auf Märkte im Nahen Osten und in Zentralasien. Das Unternehmen bietet Ratenzahlungs- und Finanzierungslösungen für Verbraucher, unter anderem in den UAE, Jordanien und Kasachstan.",
+    "summary_abuse": "ZoodPay ist ein BNPL-Fintech im Nahen Osten und in Zentralasien. Verbraucherkredite in Schwellenmärkten haben erhöhte Risiken durch Identitätsbetrug und synthetische Identitäten. Als verbraucherorientierter Finanzdienst kann die Marke in Phishing-Kampagnen imitiert werden. Spezifische Missbrauchsfälle im grossen Massstab sind nicht dokumentiert."
+  },
+  "Zoominfo": {
+    "description": "ZoomInfo liefert verwertbare B2B-Kontakt- und Unternehmensdaten für Vertriebs- und Marketingteams.",
+    "history": "ZoomInfo wurde 2007, ursprünglich als DiscoverOrg, in Vancouver, Washington gegründet. 2019 fusionierte das Unternehmen mit ZoomInfo Technologies und ging 2020 unter dem Ticker ZI an die Nasdaq. Durch mehrere Übernahmen, darunter Chorus.ai und Insent, entwickelte es sich zur führenden B2B-Kontaktdatenbank und Go-to-Market-Plattform.",
+    "summary_abuse": "ZoomInfo ist ein Data Broker, der B2B-Kontaktinformationen wie E-Mail-Adressen, Telefonnummern und berufliche Daten aggregiert und verkauft, oft ohne ausdrückliche Zustimmung der aufgeführten Personen. Das Unternehmen war mit Sammelklagen und FTC-Beschwerden zu Datenschutzpraktiken und unautorisierter Datenerhebung konfrontiert. Die Funktionen für den Massenexport von Kontakten machen die Plattform zu einer Ressource für unaufgeforderte Marketing- und Cold-Outreach-Kampagnen in grossem Umfang, auch wenn direkter Phishing-Missbrauch nicht dokumentiert ist."
+  },
+  "Zoominfo Chat": {
+    "description": "ZoomInfo Chat ist eine Live-Chat-Lösung.",
+    "history": "ZoomInfo Chat ist ein Live-Chat-Produkt von ZoomInfo Technologies. Es bietet KI-gestützten Chat, der ZoomInfos B2B-Daten nutzt, um Website-Besucher zu identifizieren und anzusprechen. Das Produkt entstand im Zuge der Erweiterung von ZoomInfo über Datenintelligenz hinaus in Richtung Engagement-Werkzeuge.",
+    "summary_abuse": "ZoomInfo Chat hat dieselben Datenschutzbedenken wie die übergeordnete ZoomInfo-Plattform, da Website-Besucher mithilfe von B2B-Kontaktdaten identifiziert werden. Für das Chat-Produkt selbst ist kein spezifischer Phishing- oder Betrugsmissbrauch dokumentiert. Die Datenaggregationspraktiken des Mutterunternehmens bringen jedoch Datenschutzrisiken mit sich."
+  },
+  "Zoorate": {
+    "description": "Zoorate ist ein auf Händler zugeschnittener Dienst für nutzergenerierte Inhalte, der den Austausch von Kundenerfahrungen und Feedback erleichtert.",
+    "history": "Zoorate ist eine Plattform für nutzergenerierte Inhalte und Bewertungen im Handel; sie erleichtert Kundenbewertungen und Social Proof. Das Unternehmen scheint aus Italien zu stammen und hat nur eine begrenzte öffentlich dokumentierte Geschichte.",
+    "summary_abuse": "Zoorate ist eine Bewertungsplattform. Wie bei allen Plattformen für nutzergenerierte Bewertungen besteht ein grundsätzliches Risiko für eingereichte Fake Reviews. Spezifische Betrugs- oder Phishing-Vorfälle für Zoorate sind nicht dokumentiert."
+  },
+  "Zoorix": {
+    "description": "Zoorix ist ein Werkzeug, mit dem Unternehmen ihren Umsatz durch Upselling und Cross-Selling steigern können.",
+    "history": "Zoorix ist eine Shopify-App mit Fokus auf Upselling und Cross-Selling, die Händlern hilft, den Umsatz pro Transaktion zu erhöhen.",
+    "summary_abuse": "Zoorix ist eine Shopify-App für Upselling ohne auffälliges Missbrauchssignal."
+  },
+  "Zope": {
+    "description": "Zope ist ein Open-Source-Webanwendungsserver und Content-Management-Framework, mit dem Entwickler komplexe Webanwendungen erstellen und verwalten können, unter anderem mit objektorientierter Programmierung und skalierbarer Architektur.",
+    "history": "Zope ist einer der frühesten Python-Webanwendungsserver und wurde 1998 von Zope Corporation entwickelt. Das Projekt prägte viele Konzepte der Python-Webentwicklung und bildete die Grundlage für das Plone CMS. Obwohl Zope weitgehend von modernen Python-Frameworks wie Django und Flask abgelöst wurde, wird es weiterhin aktiv gepflegt und kommt noch in Legacy-Unternehmensanwendungen zum Einsatz.",
+    "summary_abuse": "Zope hat kein auffälliges Missbrauchssignal. Es ist ein älterer Python-Webanwendungsserver für selbst gehostete Unternehmensinstallationen ohne verbraucherorientierte Dienstfläche."
+  },
+  "Zotabox": {
+    "description": "Zotabox ist ein Marketing-Tool mit Popups, Header Bars, Page- und Form-Builder, Testimonials, Live Chat und weiteren Funktionen.",
+    "history": "Zotabox ist eine Suite von Marketing-Werkzeugen für Website-Betreiber, darunter Popups, Header Bars, Page Builder und Form Builder. Seit etwa 2013 bedient sie kleine Unternehmen und Ecommerce-Websites.",
+    "summary_abuse": "Zotabox ist ein Tool für Popups und Marketing-Widgets. Popup- und Overlay-Werkzeuge werden häufig mit manipulativen UX-Mustern wie aggressiven Exit-Intent-Popups und irreführenden Consent-Flows in Verbindung gebracht. Für Zotabox sind keine spezifischen Betrugs- oder Phishing-Vorfälle dokumentiert, die Kategorie hat jedoch ein erhöhtes Dark-Pattern-Risiko."
+  },
+  "Zowie": {
+    "description": "Zowie ist eine KI-gestützte Kundenservice-Suite für Ecommerce, die Kosten senken und durch wertorientierte Interaktionen Umsatz generieren soll.",
+    "history": "Zowie wurde 2018 in Polen als KI-gestützte Plattform für Kundenservice-Automatisierung im Ecommerce gegründet. Das Unternehmen sammelte Venture Capital ein und expandierte in Europa.",
+    "summary_abuse": "Zowie hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für KI-gestützten Kundenservice im Ecommerce ohne anonymes, verbraucherorientiertes Content-Hosting."
+  },
+  "Zozi": {
+    "description": "Zozi ist ein Buchungs-Widget und Kalender zur Verwaltung von Reservierungen, Verfügbarkeiten und Terminplanung.",
+    "history": "Zozi ist eine Plattform für Buchungs- und Reservierungsmanagement bei Anbietern von Aktivitäten und Erlebnissen. Seit der Gründung um 2012 stellt sie Werkzeuge für Terminplanung und Verfügbarkeitsverwaltung von Touren, Aktivitäten und Erlebnissen bereit.",
+    "summary_abuse": "Zozi hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Buchungsmanagement bei Aktivitätsanbietern ohne anonymes, verbraucherorientiertes Content-Hosting."
+  },
+  "Zozo": {
+    "description": "Zozo ist ein vietnamesischer Anbieter von Multi-Channel-Ecommerce-Diensten.",
+    "history": "Zozo (zozo.vn) ist eine vietnamesische Ecommerce- und Website-Builder-Plattform, die um 2021 in Hanoi, Vietnam gegründet wurde. Das Unternehmen bietet kleinen vietnamesischen Unternehmen eine Multi-Channel-Ecommerce-Plattform mit Website-Erstellung, Point-of-Sale und CRM-Funktionen. Hinweis: Dies ist nicht Japans ZOZO, Inc. (ZozoTown), ein separates grosses Fashion-Ecommerce-Unternehmen.",
+    "summary_abuse": "Zozo.vn ist eine vietnamesische Ecommerce- und Website-Builder-Plattform für kleine Unternehmen ohne auffälliges Missbrauchssignal. Die Plattform ähnelt anderen regionalen Website-Buildern und hat keine dokumentierte Geschichte von Phishing, Scam-Hosting oder Betrug. Auf vietnamesischen Ecommerce-Plattformen können gelegentlich gefälschte Shops entstehen, Zozo werden jedoch keine spezifischen öffentlichen Vorfälle zugeschrieben."
+  },
+  "Zuberance": {
+    "description": "Zuberance ist eine Plattform, die begeisterte Kunden zu einer Marketingkraft macht und für führende B2B- und B2C-Marken Empfehlungen und Umsatz fördert.",
+    "history": "Zuberance wurde um 2009 als Plattform für Brand Advocacy und Referral Marketing gegründet; sie hilft Unternehmen, begeisterte Kunden zu identifizieren und als Markenbotschafter zu aktivieren.",
+    "summary_abuse": "Zuberance hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Brand Advocacy, die Kundentestimonials sammelt und verstärkt. Spezifische Betrugs- oder Phishing-Muster sind nicht dokumentiert."
+  },
+  "Zulip": {
+    "description": "Zulip ist eine Team-Chat-Plattform, die Unterhaltungen in themenbasierte Threads organisiert und so asynchrone Kommunikation für verteilte Teams unterstützt.",
+    "history": "Zulip wurde ursprünglich von Zulip Inc. entwickelt, das 2012 gegründet und 2014 von Dropbox übernommen wurde. Dropbox stellte Zulip 2015 als Open Source bereit, nachdem das kommerzielle Produkt zurückgestellt worden war. Das ursprüngliche Team übernahm das Projekt später wieder und gründete Kandra Labs, um die Entwicklung fortzuführen. Heute ist Zulip eine beliebte Open-Source-Team-Chat-Plattform, bekannt für ihr Modell themengebundener Konversationen.",
+    "summary_abuse": "Zulip hat ein minimales Missbrauchsprofil. Die Team-Chat-Plattform wird vor allem von Entwickler-Communities und Organisationen genutzt. Selbst gehostete Instanzen werden vollständig vom jeweiligen Betreiber kontrolliert. Die SaaS-Version hat übliche Kontoanforderungen und eine AUP. Spezifische Betrugs- oder Phishing-Muster sind nicht dokumentiert."
+  },
+  "Zuora": {
+    "description": "Zuora ist eine Plattform für Software zur Verwaltung von Subscription Billing.",
+    "history": "Zuora wurde 2007 in Redwood City, Kalifornien von Tien Tzuo, K.V. Rao und Cheng Zou gegründet. Das Unternehmen prägte den Markt für Subscription Management und wiederkehrende Abrechnung früh mit. 2018 ging Zuora an die NYSE und wurde zum De-facto-Standard für Subscription Billing in Unternehmen.",
+    "summary_abuse": "Zuora hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Subscription Billing, die grosse Organisationen für Revenue Management nutzen. Zuora verarbeitet Finanzdaten unter strengen Compliance-Anforderungen (SOC 2, PCI-DSS) und stellt keine anonymen, verbraucherorientierten Dienste bereit."
+  },
+  "Zuppler": {
+    "description": "Zuppler ist eine vollständige, markengebundene Online-Bestelllösung für Restaurants und Caterer mit mehreren Standorten.",
+    "history": "Zuppler wurde um 2010 als Online-Bestellplattform für Restaurants und Catering-Unternehmen gegründet. Die Plattform bietet White-Label-Bestelllösungen, mit denen Restaurants Bestellungen auf ihren eigenen Websites annehmen können.",
+    "summary_abuse": "Zuppler hat kein auffälliges Missbrauchssignal. Es ist eine Plattform für Online-Bestellungen in Restaurants. Gefälschte Restaurant-Webshops sind branchenweit ein Betrugsvektor, doch Zupplers Prozesse zur Händlerverifizierung reduzieren dieses Risiko."
+  },
+  "ZURB Foundation": {
+    "description": "ZURB Foundation wird für Prototyping im Browser eingesetzt. Das Frontend-Framework ermöglicht die schnelle Erstellung von Websites oder Anwendungen mit mobiler und responsiver Technik und bündelt HTML, CSS und JavaScript mit Design Patterns.",
+    "history": "ZURB Foundation ist ein Open-Source-CSS-Framework, das 2011 erstmals von ZURB, einem Produktdesign-Unternehmen, veröffentlicht wurde. Es konkurriert mit Bootstrap bei Frontend-Gridsystemen und UI-Komponenten.",
+    "summary_abuse": "ZURB Foundation ist ein Frontend-CSS-Framework ohne auffälliges Missbrauchssignal. Es ist ein clientseitiges Design-Toolkit ohne verbraucherorientierte Dienstfläche, die Betrüger gezielt ausnutzen würden."
+  },
+  "Zurple": {
+    "description": "Zurple ist eine Immobilienmarketing-Software, mit der Makler Leads verwalten, Follow-ups automatisieren und Kundeninteraktionen optimieren können.",
+    "history": "Zurple ist eine um 2010 gegründete Immobilienmarketing-Software, die Lead-Generierung und Lead-Pflege für Immobilienmakler bereitstellt. Die Plattform nutzt Verhaltens-Tracking und automatisierte E-Mails, um Website-Besucher in Leads umzuwandeln.",
+    "summary_abuse": "Zurple hat kein auffälliges Missbrauchssignal. Es ist eine Plattform für Lead-Generierung im Immobilienbereich ohne anonymes, verbraucherorientiertes Content-Hosting, auch wenn die E-Mail-Nurturing-Funktionen potenziell für Spam missbraucht werden könnten."
+  },
+  "Zwayam": {
+    "description": "Zwayam ist eine Recruiting-Software zur Verwaltung des gesamten Einstellungsprozesses.",
+    "history": "Zwayam ist eine indische Recruiting-Softwareplattform für den gesamten Einstellungsprozess. Es ist ein kleiner, unabhängiger SaaS-Anbieter, der vor allem den indischen Markt bedient.",
+    "summary_abuse": "Zwayam hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Recruiting-Softwareplattform ohne anonymes, verbraucherorientiertes Content-Hosting."
+  },
+  "Zyratalk": {
+    "description": "Zyratalk ist ein Werkzeug zur Bearbeitung von Kundengesprächen und zur Verwaltung von Bewertungen, das eine geordnete Nachverfolgung von Feedback unterstützt.",
+    "history": "Zyratalk ist eine Plattform für Bewertungsmanagement und die Nachverfolgung von Kundengesprächen, die Unternehmen beim Organisieren von Kundenfeedback hilft.",
+    "summary_abuse": "Zyratalk ist eine Plattform für Bewertungen und Kundenkommunikationsmanagement ohne auffälliges Missbrauchssignal."
+  }
+}

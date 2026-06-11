@@ -33,7 +33,7 @@ and is rendered by the frontend's own message catalogue, so leave it alone.
 | Record | Fields |
 |--------|--------|
 | technology (`src/technologies/*.json`) | `description`, `history`, `summary_abuse` |
-| category (`src/categories.json`)       | `description`, `summary_security`, `summary_privacy` |
+| category (`src/categories.json`)       | `description` |
 
 ### Where the German goes
 
@@ -47,7 +47,7 @@ i18n/de/
     b.json
     ...                                   (one file per first letter, like src/technologies/)
   categories.json
-            { "<category id>": { "description": "...", "summary_security": "...", "summary_privacy": "..." } }
+            { "<category id>": { "description": "..." } }
 ```
 
 Include only the fields you actually translated for a given record; omit the
@@ -73,8 +73,7 @@ This is non-negotiable and differs from generic machine translation:
 - Keep proper nouns, product names, protocol names, and standards in their
   original form (React, OAuth, GDPR, TLS). Translate the prose around them.
 - Match the register of the English: factual and concise for `description`,
-  narrative for `history`, risk-focused and sober for `summary_abuse` /
-  `summary_security` / `summary_privacy`.
+  narrative for `history`, risk-focused and sober for `summary_abuse`.
 
 ### How to work
 

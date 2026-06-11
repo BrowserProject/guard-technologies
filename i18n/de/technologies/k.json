@@ -1,0 +1,838 @@
+{
+  "k-eCommerce": {
+    "description": "k-eCommerce ist die Plattform von mdf commerce für KMU und bietet integrierte E-Commerce- und digitale Zahlungslösungen für Microsoft Dynamics und SAP Business One.",
+    "history": "k-eCommerce ist eine auf KMU ausgerichtete E-Commerce-Plattform mit Integrationen für ERP-Systeme wie Microsoft Dynamics, SAP Business One und Acumatica. Mediagrif übernahm das Unternehmen 2019, heute wird es unter der Marke mdf commerce betrieben, einem börsenkotierten kanadischen Digital-Commerce-Unternehmen.",
+    "summary_abuse": "k-eCommerce ist eine legitime B2B-E-Commerce-Plattform ohne auffällige Missbrauchssignale; sie richtet sich an KMU mit ERP-Integrationen und weist keine Eigenschaften auf, die sie besonders attraktiv für Betrüger machen würden."
+  },
+  "K-Sup": {
+    "description": "K-Sup ist eine Open-Source-CMS- und Portallösung von Kosmos Education für Hochschulen und Forschungseinrichtungen.",
+    "history": "K-Sup wurde von Kosmos entwickelt, einem 1998 gegründeten französischen Unternehmen mit Sitz in Nantes, Frankreich. Die Open-Source-Lösung ist als CMS und digitaler Arbeitsplatz (ENT) speziell für Hochschulen und Forschungseinrichtungen ausgelegt. Die Java-basierte Plattform unterstützt von Haus aus Multisite-, Mehrsprachen- und Multichannel-Betrieb, sodass Universitäten komplexe Webinfrastrukturen zentral verwalten können. Kosmos hat K-Sup unter anderem bei der Université Libre de Bruxelles eingeführt.",
+    "summary_abuse": "K-Sup ist ein spezialisiertes Open-Source-CMS für Universitäten und Forschungseinrichtungen und wird von IT-Abteilungen statt von Endnutzern betrieben. Es gibt keine auffälligen Missbrauchssignale. Als selbst gehostete Backend-Plattform bietet es keine öffentliche Content-Hosting-Fläche, die Phisher oder Scammer anziehen würde."
+  },
+  "K2": {
+    "description": "K2 ist eine von JoomlaWorks entwickelte Content-Management-Erweiterung für Joomla, die Joomla um Funktionen wie reichhaltige Inhaltsformulare, verschachtelte Kategorien, Tags, Kommentare und mehr ergänzt.",
+    "history": "K2 wurde 2000 in Johannesburg, Südafrika, von Adriaan van Wyk und Olaf Wagner gegründet. 2015 erhielt das Unternehmen 150 Millionen US-Dollar von Francisco Partners. 2020 wurde es in K2 Software Inc umbenannt und im Oktober desselben Jahres von Nintex übernommen. Heute ist es als Nintex K2 Cloud bekannt und wird von Unternehmen für Workflow-Automatisierung auf SharePoint eingesetzt.",
+    "summary_abuse": "Keine Missbrauchshistorie. K2 ist eine legitime Enterprise-BPM-Plattform, die von Nintex übernommen wurde und nach ISO 27001 sowie SOC 2 Type II zertifiziert ist."
+  },
+  "Kadence WP Blocks": {
+    "description": "Kadence WP Blocks ist ein WordPress-Plugin mit eigenen Blöcken für den Gutenberg-Editor, mit denen Nutzer individuelle Layouts und Designs ohne Programmierkenntnisse erstellen können.",
+    "history": "Kadence Blocks ist ein WordPress-Gutenberg-Block-Plugin von Ben Ritner, dessen Projekt 2013 gegründet wurde. Es wurde von Liquid Web/iThemes übernommen und zählte mit über 300'000 aktiven Installationen zu den wichtigsten WordPress-Block-Plugins. Ben Ritner zog sich Ende 2024 wegen Bedenken zur Ausrichtung nach der Übernahme aus dem Projekt zurück.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsmuster. Das Open-Source-Plugin unter GPL hat eine kostenlose Version. Nach der Übernahme durch Liquid Web gab es in der Community Bedenken zur Produktstrategie und zu Preisänderungen, aber keine inhärenten Datensammlungs- oder Datenschutzprobleme des Plugins selbst."
+  },
+  "Kadence WP Kadence": {
+    "description": "Kadence WP Kadence ist ein vielseitiges WordPress-Theme, das kostenlos erhältlich ist und zusätzlich eine Pro-Version anbietet.",
+    "history": "Kadence Theme ist ein leichtgewichtiges, schnelles WordPress-Theme von Kadence WP (Ben Ritner). Es ist kostenlos auf WordPress.org verfügbar und bietet eine Pro-Version. Das Projekt wurde von Liquid Web/iThemes übernommen. Es ist wegen Performance und Unterstützung für Full-Site-Editing in Gutenberg beliebt. Der Entwickler zog sich Ende 2024 zurück.",
+    "summary_abuse": "Keine wesentlichen Missbrauchs- oder Datenschutzbedenken. Es handelt sich um ein GPL-lizenziertes WordPress-Theme. Nach der Übernahme gibt es Community-Bedenken zur künftigen Roadmap, aber kein aktives Fehlverhalten."
+  },
+  "Kadence WP Virtue": {
+    "description": "Kadence WP Virtue ist ein vielseitiges WordPress-Theme, das kostenlos erhältlich ist und zusätzlich eine Pro-Version anbietet.",
+    "history": "Virtue ist ein älteres WordPress-Theme von Kadence WP (Ben Ritner), das ursprünglich um 2013 erschien. Es gehörte zu den frühen beliebten kostenlosen Themes aus dem Kadence-Portfolio, bevor das heutige Kadence Theme zum Hauptprodukt wurde. Es wird weiter gepflegt, ist aber nicht mehr das primäre Produkt.",
+    "summary_abuse": "Keine Missbrauchshistorie. Virtue ist ein älteres GPL-Theme mit Wartungsupdates. Es gibt keine Bedenken zur Datensammlung. Das neuere Kadence Theme hat es als Hauptprodukt abgelöst."
+  },
+  "Kaira Vogue": {
+    "description": "Vogue ist ein sehr einfach zu bedienendes Mehrzweck-WordPress-Theme von Kaira.",
+    "history": "Vogue ist ein beliebtes Mehrzweck-WordPress-Theme von Kaira, einem indischen Theme-Entwickler mit 32 Themes. Es ist kostenlos auf WordPress.org sowie als Premium-Version verfügbar, hat dort 5 von 5 Sternen und ist mit Elementor, Divi und anderen Page Buildern kompatibel.",
+    "summary_abuse": "Keine Missbrauchshistorie. Vogue ist ein GPL-lizenziertes WordPress-Theme des angesehenen Entwicklers Kaira. Es gibt keine dem Theme selbst inhärenten Datensammlungs- oder Datenschutzbedenken."
+  },
+  "Kaisa": {
+    "description": "Kaisa nutzt Daten, um Käufer und Verkäufer durch personalisierte Kundenerlebnisse in grossem Umfang aktiv einzubinden.",
+    "history": "Kaisa wurde 2009 in Uppsala, Schweden, als Freespee gegründet, eine Plattform für Call-Tracking und Customer Experience. Das Unternehmen erhielt Risikokapital von Investoren wie Verdane, Monterro, Ventech und Harbert European Growth Capital. Im Februar 2024 benannte sich Freespee in Kaisa um, um den weiterentwickelten Fokus auf personalisierte Käufer- und Verkäuferbindung für Automotive-OEMs und Immobilienmarktplätze in 52 Ländern widerzuspiegeln.",
+    "summary_abuse": "Kaisa ist eine B2B-Plattform für Customer Engagement in der Automobil- und Immobilienbranche und steht Endnutzern oder der Öffentlichkeit nicht offen. Die Plattform verarbeitet Kontakt- und Verhaltensdaten aus Käuferreisen, was eine mittlere Datenschutzfläche schafft, es gibt aber kein dokumentiertes Missbrauchsmuster. Enterprise-Verträge verhindern anonyme oder sehr niederschwellige Registrierung. Es sind keine auffälligen Missbrauchsfälle oder Sicherheitsberichte veröffentlicht."
+  },
+  "Kajabi": {
+    "history": "Kajabi wurde 2010 in Irvine, Kalifornien, von Kenny Rueter und Travis Rosser gegründet. 2021 nahm das Unternehmen 550 Millionen US-Dollar bei einer Bewertung von 2 Milliarden US-Dollar auf, angeführt von Tiger Global. Die Plattform bedient über 50'000 Unternehmer mit Online-Kursen, Communities und digitalen Produkten und meldete das Erreichen von 100 Millionen US-Dollar ARR.",
+    "summary_abuse": "Kajabi wurde für aggressive Upsell-E-Mails und Einschränkungen nach Preismodell kritisiert. Einige Creator berichten von Schwierigkeiten beim Kündigen von Abonnements. Es gibt keine grossen Datenlecks oder Betrugsbeschwerden. Die Plattform wird von einigen fragwürdigen Info-Produkt-Verkäufern genutzt, Kajabi selbst ist jedoch legitim."
+  },
+  "Kakao": {
+    "description": "Die Kakao-Plattform bietet Dienste wie Kakao Talk, Kakao Talk Channel und Kakao Story sowie über Tochtergesellschaften Kakao Pay, Kakao Commerce und Kakao Page. Nutzer können alle Kakao-Dienste mit einem gemeinsamen Kakao Account verwenden.",
+    "history": "Kakao Corp wurde 2006 von Kim Bum-soo mitgegründet. KakaoTalk startete 2010, erreichte innert zwei Jahren 100 Millionen Nutzer und dominierte Südkorea mit rund 90 Prozent Marktanteil. 2014 fusionierte Kakao mit Daum Communications und diversifizierte später in Banking, Zahlungen, Entertainment und Mobilität. Heute ist Kakao ein grosser, an der KOSPI kotierter Konzern.",
+    "summary_abuse": "Kakao stand in Südkorea wegen Datenschutzpraktiken und monopolistischem Verhalten unter regulatorischer Beobachtung. Kakao Pay wurde 2022 wegen der Weitergabe von Nutzerdaten an Chinas Alipay untersucht. Die koreanische Datenschutzbehörde untersuchte Kakao mehrfach."
+  },
+  "Kalio": {
+    "description": "Kalio ist ein E-Commerce-System für Mid-Market- und Enterprise-Shops.",
+    "history": "Kalio Commerce wurde 2011 in San Jose, Kalifornien, von Jonathan Lee (ehemals Corio/IBM) und Mike Wachner gegründet. Das Unternehmen bietet SaaS-E-Commerce für mittelgrosse Händler, erzielt rund 15 Millionen US-Dollar ARR und beschäftigt etwa 51 Mitarbeitende. Zielgruppe sind Händler, die mehr benötigen als typische KMU-Plattformen, aber keine vollwertigen Enterprise-Lösungen.",
+    "summary_abuse": "Keine Missbrauchshistorie. Kalio ist ein Mid-Market-E-Commerce-SaaS mit PCI-DSS-Konformität. Das kleine Unternehmen hat keine gemeldeten Vorfälle."
+  },
+  "Kalix": {
+    "description": "Kalix ist eine HIPAA-konforme Plattform für elektronische Patientenakten, Praxisverwaltung und Telemedizin für Ernährungsberater, Nutritionists und andere Gesundheitsfachpersonen.",
+    "history": "Kalix wurde 2012 als HIPAA-konforme Cloud-Plattform für EMR und Praxisverwaltung für Ernährungsberater und verwandte Gesundheitsberufe gegründet; sie bedient über 2'500 Fachpersonen und mehr als 800'000 Patienten. Der Einstiegspreis liegt bei 27 US-Dollar pro Monat. Die Plattform ist HIPAA-konform und erfüllt die Australian Privacy Principles.",
+    "summary_abuse": "Keine Missbrauchshistorie. Kalix dient der Praxisverwaltung kleiner Gesundheitsanbieter, ist HIPAA-konform und hat transparente Preise."
+  },
+  "Kaltura": {
+    "description": "Kaltura ist eine Video-Content-Management-Plattform, mit der Nutzer Videos hochladen, verwalten, teilen, veröffentlichen und streamen können.",
+    "history": "Kaltura wurde 2006 gegründet und 2007 in New York an der TechCrunch40 öffentlich vorgestellt. Das Unternehmen baute eine Plattform für Video-Content-Management und Streaming auf, die in Bildungs- und Enterprise-Märkten stark wurde. Im Juli 2021 ging Kaltura unter dem Ticker KLTR an die NASDAQ und nahm 150 Millionen US-Dollar bei einer Bewertung von 1,24 Milliarden US-Dollar auf.",
+    "summary_abuse": "Kaltura ist eine Enterprise-Plattform für Videoverwaltung und Streaming ohne auffälliges Missbrauchssignal; sie bedient Bildungseinrichtungen und grosse Unternehmen auf Vertragsbasis und bietet kein kostenloses Hosting beliebiger öffentlicher Inhalte, was Betrügern kaum nutzbare Angriffsfläche gibt."
+  },
+  "KAMAR": {
+    "description": "KAMAR ist ein Student Management System für Sekundarschulen.",
+    "history": "KAMAR ist ein neuseeländisches Student Management System, das von Lehrpersonen aus Neuseeland für Schulen in Neuseeland entwickelt wurde. Es ist seit über 25 Jahren im Einsatz und wird von rund 340 Sekundarschulen genutzt, also von der Mehrheit der Sekundarschulen des Landes. Im neuseeländischen Bildungssektor ist es das führende SMS.",
+    "summary_abuse": "Keine Missbrauchshistorie. KAMAR verarbeitet personenbezogene Schülerdaten für Schulen in Neuseeland und erfüllt den NZ Privacy Act. Es sind keine Vorfälle gemeldet, und die Lösung geniesst im neuseeländischen Bildungssektor einen guten Ruf."
+  },
+  "Kameleoon": {
+    "description": "Kameleoon ist eine Personalisierungsplattform für Echtzeit-Omnichannel-Optimierung und Conversion-Steigerung.",
+    "history": "Kameleoon wurde 2008 in Paris, Frankreich, gegründet. Das Unternehmen bietet A/B-Testing, Personalisierung und Feature Flagging. Die Gesamtfinanzierung liegt bei etwa 5,65 Millionen US-Dollar, der Umsatz 2024 wurde mit 22,1 Millionen US-Dollar angegeben. Kameleoon ist ISO 27001 zertifiziert, hat seinen Hauptsitz in der EU und legt einen starken Fokus auf GDPR.",
+    "summary_abuse": "Kameleoon bindet JavaScript für Experimente und Personalisierung in Websites ein, was bei Fehlkonfiguration Datenschutzrisiken schaffen kann. Es ist kein dokumentierter Datenmissbrauch bekannt. Der EU-Sitz und die ISO-27001-Zertifizierung bieten gewisse Sicherheit bei den Datenverarbeitungspraktiken."
+  },
+  "Kamozi": {
+    "description": "Kamozi ist ein System, das Markenwachstum und höheren E-Commerce-Umsatz durch integrierte Werkzeuge und Strategien unterstützt.",
+    "history": "Kamozi ist ein kleines Marketing-Automation-SaaS für E-Commerce-Marken mit Fokus auf Markenwachstum und Umsatzsteigerung. Das Unternehmen scheint in Irland ansässig und um 2020 gegründet worden zu sein, doch es gibt nur wenige öffentliche Informationen zu Herkunft oder Eigentümern.",
+    "summary_abuse": "Kamozi ist eine Marketing-Automation-Plattform für E-Commerce-Unternehmen und dient dem Versand gezielter Kommunikation. Wie die meisten E-Mail- und Marketing-Automation-Tools kann sie grundsätzlich für Spam missbraucht werden, ist aber ein Nischen-B2B-SaaS ohne dokumentierte Missbrauchshistorie oder auffällige Sicherheitsvorfälle."
+  },
+  "Kamva": {
+    "history": "Kamva wurde 2016 in Teheran, Iran, als Shopify-ähnliche gehostete E-Commerce-Plattform für iranische Händler gegründet; sie sollte die Lücke schliessen, die durch das Fehlen internationaler E-Commerce-SaaS-Angebote im iranischen Markt entstand. Beim Aufbau wurde besonders auf die im Iran niedrigen durchschnittlichen Internetgeschwindigkeiten und die Beschränkungen lokaler CDN-Infrastruktur geachtet.",
+    "summary_abuse": "Kamva ist eine gehostete E-Commerce-Plattform für iranische Händler in einem Markt mit begrenzter internationaler Zahlungsinfrastruktur. Es gibt keine dokumentierte Missbrauchshistorie speziell zu Kamva. Die Plattform ermöglicht Online-Shops, arbeitet aber in einem lokalen iranischen Kontext und scheint nicht für internationale Phishing- oder Scam-Kampagnen ausgenutzt zu werden."
+  },
+  "Kangaroo Rewards": {
+    "description": "Kangaroo Rewards hilft Unternehmen, durch Kundenbindung und stärkere Markenwahrnehmung zu wachsen.",
+    "history": "Kangaroo Rewards wurde 2012 in Montreal, Quebec, Kanada, gegründet. Die Omnichannel-Loyalty-Engine bedient KMU ebenso wie Fortune-500-Unternehmen, integriert sich mit Shopify, Lightspeed und Magento und bietet White-Label-Lösungen für Unternehmen weltweit.",
+    "summary_abuse": "Keine Missbrauchshistorie. Kangaroo Rewards ist eine kanadische Loyalty- und Rewards-Plattform; sie sammelt Kauf- und Verhaltensdaten von Kunden, es sind aber keine Sicherheitsvorfälle gemeldet."
+  },
+  "Kangle": {
+    "description": "Kangle ist ein Open-Source-Webserver und Reverse-Proxy, der in chinesischen Hosting-Umgebungen häufig für HTTP-Caching und virtuelles Hosting eingesetzt wird.",
+    "history": "Kangle ist ein chinesischer Webserver und Reverse Proxy, entwickelt von Kang Hongjiu. Er ist als Open-Source- und kommerzielle Version verfügbar und wird vor allem im chinesischen Webhosting als Alternative zu Apache oder Nginx genutzt. Er enthält eine HTTP-Verwaltungskonsole und Unterstützung für virtuelles Hosting.",
+    "summary_abuse": "Kangle ist ein Webserver chinesischen Ursprungs mit begrenzter öffentlicher Sicherheitsprüfung. Er wird vor allem im chinesischen Hosting-Markt eingesetzt und kann dort mit Hosting-Control-Panels unklarer Herkunft gebündelt sein. Für westliche Deployments ist bei chinesisch kontrollierter Infrastruktur Vorsicht angebracht."
+  },
+  "KanzOboz": {
+    "description": "KanzOboz ist eine Plattform für Online-Shopping und Werbung mit Schwerpunkt auf Mode- und Lifestyle-Produkten.",
+    "history": "KanzOboz besteht seit ungefähr 2004 als russisches B2B-Branchenportal für Schreibwaren und Bürobedarf und verbindet Hersteller, Distributoren und Käufer. Im Lauf der Zeit kamen Begleitangebote wie KidsOboz.ru für Kinderprodukte hinzu. Die Plattform funktioniert primär als Handelsverzeichnis und Nachrichtenportal, nicht als direkter E-Commerce-Händler.",
+    "summary_abuse": "KanzOboz ist ein spezialisiertes russisches Branchenverzeichnis für Schreibwaren und Bürobedarf ohne dokumentierte Missbrauchs- oder Betrugshistorie. Es ist eine B2B-Informationsplattform ohne verbraucherorientierte Self-Service-Commerce-Funktionen, die Phishing- oder Scam-Betreiber anziehen würden."
+  },
+  "Kapa.ai": {
+    "description": "Kapa.ai wandelt Dokumente in einen LLM-gestützten Chatbot für Informationssuche und Fragebeantwortung um.",
+    "history": "Kapa.ai wurde von Emil Sorensen und Finn Bauer mitgegründet und von Y Combinator unterstützt. Im Oktober 2024 nahm das Unternehmen 3,2 Millionen US-Dollar Seed-Finanzierung auf, angeführt von Initialized Capital mit Beteiligung von Y Combinator. Zu den Kunden zählen OpenAI, Docker, Monday.com und Next.js.",
+    "summary_abuse": "Kapa.ai ist eine B2B-AI-Chatbot-Plattform für technische Dokumentation; sie ist nach SOC 2 Type II zertifiziert und bietet Funktionen zur PII-Erkennung. Es sind keine Missbrauchsvorfälle dokumentiert. Als AI-Tool für technische Inhalte liegt das Hauptrisiko in möglichen Fehlinformationen der AI, was das Unternehmen mit Quellenangaben und Grounding adressiert."
+  },
+  "Kapix Studio": {
+    "description": "Kapix Studio ist eine No-Code-Plattform, mit der jeder Web-Apps ohne Programmierung erstellen kann.",
+    "history": "Kapix Studio ist eine französische No-Code-Plattform, die um 2018 gegründet wurde und Nutzern das Erstellen von Websites und mobilen Apps mit Code-Export ermöglicht; sie verbindet No-Code mit klassischer Entwicklung, indem Projekte in Entwickler-Repositories exportiert werden können. Nach französischem Recht ist sie GDPR-konform.",
+    "summary_abuse": "Keine Missbrauchshistorie. Kapix Studio ist ein französischer No-Code-Builder mit GDPR-Konformität und ein kleines Startup mit begrenztem öffentlichem Profil."
+  },
+  "Kapture CRM": {
+    "description": "Kapture CRM ist eine Enterprise-SaaS-Plattform für Automatisierung im Kundensupport.",
+    "history": "Kapture CX, früher Kapture CRM, wurde 2014 in Bengaluru, Indien, von Vikas Garg und Sheshgiri Kamath gegründet. Das Unternehmen nahm insgesamt 11,3 Millionen US-Dollar auf, darunter eine Series A unter Führung von Cactus Venture Partners. Es bedient über 1'000 Kunden in 19 Ländern, darunter Nykaa, Zepto und Unternehmen der Tata-Gruppe.",
+    "summary_abuse": "Keine Missbrauchshistorie. Kapture CRM ist eine indische Plattform für Kundensupport-Automatisierung, vergleichsweise klein, aber mit angesehenen Enterprise-Kunden."
+  },
+  "Karma": {
+    "description": "Karma ist ein Test Runner für JavaScript, der auf Node.js läuft.",
+    "history": "Karma wurde 2012 von Vojta Jina im Rahmen seiner Universitätsarbeit bei Google entwickelt und hiess ursprünglich Testacular, bevor es umbenannt wurde. Es wurde zum Standard-Test-Runner für AngularJS-Projekte und im JavaScript-Ökosystem breit für browserbasiertes Unit Testing eingesetzt. Im Januar 2023 kündigte das Angular-Team an, Karma zugunsten neuerer Ansätze wie Jest und Web Test Runner auslaufen zu lassen; das Projekt wechselte in den Wartungsmodus.",
+    "summary_abuse": "Karma ist ein Entwicklerwerkzeug, genauer ein JavaScript-Test-Runner, ohne Endnutzerfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Karoo Chat": {
+    "description": "Karoo Chat kombiniert menschlichen und automatisierten Kundendienst und bietet Online-Live-Chat für Support.",
+    "history": "Karoo Chat ist eine brasilianische Live-Chat-Plattform von Alterdata, einem brasilianischen Softwareunternehmen; sie unterstützt WhatsApp-Integration und erlaubt bis zu drei gleichzeitige Kunden pro Agent. Zielgruppe sind vor allem brasilianische beziehungsweise portugiesischsprachige Kleinunternehmen.",
+    "summary_abuse": "Keine Missbrauchshistorie. Karoo Chat ist ein kleines brasilianisches Live-Chat-Tool, primär auf den brasilianischen Markt beschränkt. Internationale Sicherheitszertifizierungen sind nicht bekannt."
+  },
+  "Karte": {
+    "description": "Karte ist eine Plattform für Customer Engagement und Marketing Automation, mit der Unternehmen ihre Kunden verstehen, personalisierte Erlebnisse ausspielen und Marketingstrategien optimieren können.",
+    "history": "KARTE ist eine CX-Plattform von PLAID Inc. aus Tokio, Japan, und wurde im März 2015 eingeführt. Im April 2018 nahm das Unternehmen 25 Millionen US-Dollar auf. Die Plattform analysiert Website-Besucherverhalten in Echtzeit und ermöglicht personalisierte Kommunikation; sie ist ISO 27001 zertifiziert und gilt bei japanischen Enterprise-Marketern als führende Wahl.",
+    "summary_abuse": "KARTE sammelt detaillierte individuelle Verhaltensdaten von Nutzern in Echtzeit. Das hat erhebliche Datenschutzimplikationen, wenn keine angemessenen Einwilligungsmechanismen eingesetzt werden. Es gibt keine direkten Vorfälle, aber inhärente Risiken durch Behavioral Tracking auf individueller Ebene."
+  },
+  "Kartify": {
+    "description": "Kartify ist eine E-Commerce-Plattform, die Unternehmenswachstum mit integrierten Werkzeugen für Online-Verkauf und Verwaltung unterstützt.",
+    "history": "Kartify ist eine E-Commerce-Plattform mit Werkzeugen für Erstellung und Verwaltung von Online-Shops. Es sind keine auffälligen Eigentümerwechsel oder Abkündigungen dokumentiert.",
+    "summary_abuse": "Kartify ist eine E-Commerce-Plattform. Wie jede gehostete Storefront-Lösung könnte sie theoretisch für gefälschte Online-Shops missbraucht werden, konkrete Missbrauchsfälle sind aber nicht dokumentiert."
+  },
+  "Kartmax": {
+    "description": "Kartmax ist eine D2C-E-Commerce-Lösung für Direct-to-Consumer-Geschäftsmodelle.",
+    "history": "KartmaX ist eine headless und serverless E-Commerce-Plattform von GreenHonchos aus Noida, Indien, gegründet 2018 von Navin Joshua; sie bedient über 50 indische D2C-Marken, darunter W For Women, Aurelia und Metro Shoes. Die Plattform nutzt AI für Nachfrageprognosen und eine serviceorientierte Architektur für Skalierbarkeit.",
+    "summary_abuse": "Keine Missbrauchshistorie. Kartmax ist eine indische D2C-E-Commerce-Plattform von GreenHonchos für mittelgrosse indische Mode- und Retail-Marken und ist PCI-DSS-konform."
+  },
+  "Kartra": {
+    "description": "Kartra ist eine Online-Business-Plattform mit Werkzeugen für Marketing und Vertrieb.",
+    "history": "Kartra wurde 2018 von Genesis Digital LLC aus La Jolla, Kalifornien, gestartet, dem Unternehmen hinter WebinarJam und EverWebinar. Es ist eine All-in-one-Marketing-Plattform für digitale Unternehmer. Genesis Digital gibt an, über die Plattform Verkäufe von mehr als 1,5 Milliarden US-Dollar ermöglicht zu haben.",
+    "summary_abuse": "Kartra wird stark an Online-Business-Betreiber und Info-Produkt-Creator vermarktet, ein Umfeld mit aggressiven Marketingtaktiken. Einige Nutzerbewertungen berichten von Kündigungsschwierigkeiten und unerwarteten Abbuchungen. Bestätigte Datenlecks gibt es nicht. Die Sicherheitstransparenz ist begrenzt."
+  },
+  "Kartris": {
+    "description": "Kartris ist eine Open-Source-E-Commerce-Plattform auf ASP.NET-Basis zur Verwaltung von Online-Shops.",
+    "history": "Kartris ist eine Open-Source-E-Commerce-Plattform auf ASP.NET, die ursprünglich um 2008 in Grossbritannien entwickelt wurde; sie war für kleine bis mittlere Online-Händler als Alternative zu kommerziellen Shopsystemen gedacht. In den letzten Jahren gab es sehr wenig Aktivität, und das Projekt wirkt weitgehend ruhend, mit minimalen Commits im GitHub-Repository.",
+    "summary_abuse": "Kartris ist eine selbst gehostete Open-Source-E-Commerce-Plattform ohne auffälliges Missbrauchssignal. Als herunterladbares Softwarepaket hat sie keine gehostete Endnutzerfläche. Das Missbrauchspotenzial ist minimal und beschränkt sich auf eine mögliche Nutzung durch Betreiber unseriöser Shops, was nicht spezifisch für Kartris ist."
+  },
+  "Kasada": {
+    "description": "Kasada ist ein Cybersicherheitsunternehmen mit einer Plattform zum Schutz von Websites und Webanwendungen vor Bot-Angriffen und bösartigen Aktivitäten.",
+    "history": "Kasada wurde 2017 in Sydney, Australien, als Plattform für Bot-Erkennung und -Abwehr gegründet, mit Fokus auf fortgeschrittene Automatisierungsbedrohungen. Das Unternehmen nahm Series-B-Finanzierung auf und baute seine Präsenz in den USA aus. Sein Ansatz zielt darauf, Bot-Angriffe wirtschaftlich unattraktiv zu machen, statt sie nur zu blockieren.",
+    "summary_abuse": "Kasada ist eine Bot-Erkennungs- und Cybersicherheitsplattform zum Schutz von Websites vor automatisierten Bedrohungen. Es gibt keine auffällige Missbrauchshistorie als Angreiferwerkzeug. Die Technologie ist defensiv ausgerichtet und hilft Unternehmen gegen Credential Stuffing, Scraping und Betrugs-Bots. Dokumentierte Fälle einer missbräuchlichen Nutzung oder Ausnutzung der Kasada-Plattform selbst sind nicht bekannt."
+  },
+  "Kasika": {
+    "description": "Kasika ist ein japanisches Marketing-Automation-Tool von CocoLive.",
+    "history": "Kasika ist ein französisches CRM- und Marketing-Automation-SaaS für Immobilien, gegründet um 2020. Es richtet sich an Immobilienagenturen und bietet Werkzeuge für Lead-Management, E-Mail-Kampagnen und Kundenbeziehungsmanagement. Das Unternehmen hat seinen Sitz in Frankreich und bedient vor allem den französischen Immobilienmarkt.",
+    "summary_abuse": "Kasika ist ein CRM- und Marketing-Tool für Immobilienagenturen ohne auffälliges Missbrauchssignal. Als B2B-SaaS für professionelle Immobilienfirmen hat es ein niedriges Risikoprofil. Dokumentierte Missbrauchsmuster speziell für diese Plattform sind nicht bekannt."
+  },
+  "KaTeX": {
+    "description": "KaTeX ist eine browserübergreifende JavaScript-Bibliothek zur Darstellung mathematischer Notation in Webbrowsern.",
+    "history": "KaTeX wurde von Khan Academy entwickelt und 2014 veröffentlicht, mit Emily Eisenberg und Sophie Alpert als Entwicklerinnen. Im September 2014 gehörte es zu den fünf wichtigsten Trending-Projekten auf GitHub. Das Projekt rendert mathematische Formeln schnell, auch serverseitig, mit LaTeX-Syntax und steht unter MIT-Lizenz. Khan Academy pflegte die Bibliothek, inzwischen wird sie von der Community betreut.",
+    "summary_abuse": "KaTeX ist eine JavaScript-Bibliothek zum Rendern mathematischer Notation; sie hat keine Endnutzerfläche und keine dokumentierten Missbrauchsmuster. Es handelt sich um eine reine Rendering-Bibliothek ohne Netzwerkaufrufe oder Datensammlung."
+  },
+  "Kauz": {
+    "description": "Kauz ist eine Self-Service-Plattform, mit der Unternehmen AI-Assistenten für unterschiedliche betriebliche Anforderungen verwalten und trainieren können.",
+    "history": "Kauz ist eine Schweizer Plattform für Conversational AI und Chatbots, gegründet um 2016; sie spezialisiert sich auf Natural Language Processing für Enterprise-Kundendienstanwendungen, besonders im deutschsprachigen Markt. Das Unternehmen fokussiert auf AI-gestützte Dialogsysteme für Unternehmen in der Schweiz und Deutschland.",
+    "summary_abuse": "Kauz ist eine B2B-Enterprise-Plattform für Chatbots und Conversational AI ohne auffälliges Missbrauchssignal; sie bedient Unternehmen in der DACH-Region mit Kundendienstautomatisierung. Dokumentierte Missbrauchsmuster speziell zu dieser Plattform sind nicht bekannt."
+  },
+  "KeaBuilder": {
+    "description": "KeaBuilder bietet intelligente Einblicke, strategische Empfehlungen, erweiterte Werkzeuge und nahtlose Integrationen, um Online-Präsenz und Unternehmenswachstum zu stärken.",
+    "history": "KeaBuilder ist ein in Neuseeland ansässiger Website- und Landingpage-Builder, gegründet um 2015. Er richtet sich an Kleinunternehmen und Einzelpersonen, die einfache Drag-and-drop-Site-Erstellung suchen. Das Produkt bleibt ein kleines unabhängiges Angebot, das vor allem lokale Märkte bedient.",
+    "summary_abuse": "KeaBuilder ist ein kleiner Website-Builder mit begrenztem verbraucherorientiertem Hosting. Wie bei allen Page-Builder-Plattformen mit nutzergenerierten Inhalten besteht theoretisch ein Risiko für Phishing- oder Scam-Seiten. Es sind keine konkreten Missbrauchsfälle dokumentiert. Die Plattform ist klein genug, dass systematischer Missbrauch rasch auffallen würde."
+  },
+  "Keap": {
+    "description": "Keap bietet kleinen Unternehmen eine Plattform für E-Mail-Marketing und Vertrieb, einschliesslich Produkten für Kundenverwaltung, CRM, Marketing und E-Commerce.",
+    "history": "Keap wurde 2001 von Scott und Eric Martineau als Infusionsoft gegründet, eine CRM- und E-Mail-Marketing-Plattform für kleine Unternehmen. Im Januar 2019 benannte sich das Unternehmen in Keap um. Im Oktober 2024 wurde Keap von Thryv übernommen.",
+    "summary_abuse": "Keap ist eine CRM- und E-Mail-Marketing-Plattform für kleine Unternehmen. Als E-Mail-Marketing-Plattform hat sie ein inhärentes Spam-Potenzial, Keap setzt jedoch AUP und CAN-SPAM-Konformität durch. Ein spezifisches Betrugs- oder Scam-Missbrauchsmuster ist nicht dokumentiert."
+  },
+  "Keen Delivery": {
+    "description": "Keen Delivery ist eine niederländische Versandplattform.",
+    "history": "Keen Delivery ist ein SaaS für Last-Mile-Delivery-Management für kleine und mittlere Händler sowie E-Commerce-Unternehmen. Die um 2019 gegründete Plattform fokussiert auf Sendungsverfolgung, Routenoptimierung und Lieferlogistik. Das Unternehmen scheint primär in Frankreich und im breiteren europäischen Markt tätig zu sein.",
+    "summary_abuse": "Keen Delivery ist ein Logistik-SaaS ohne auffälliges Missbrauchssignal. Als B2B-Logistikwerkzeug hat es nur minimale verbraucherorientierte Missbrauchsfläche. Dokumentierte Missbrauchsmuster sind nicht bekannt."
+  },
+  "Keen-Slider": {
+    "description": "Keen-Slider ist eine kostenlose, framework-agnostische Touch-Slider-Bibliothek mit nativem Touch- und Swipe-Verhalten.",
+    "history": "Keen-Slider ist eine Open-Source-JavaScript-Bibliothek für Slider und Carousels, erstellt von Roman Beyer und erstmals um 2020 veröffentlicht; sie wurde als leichtgewichtige Alternative zu schwereren Carousel-Bibliotheken wie Swiper beliebt. Die Bibliothek unterstützt Touch-Gesten, Animationen und mehrere Frameworks, darunter React, Vue und Angular.",
+    "summary_abuse": "Keen-Slider ist eine clientseitige JavaScript-UI-Bibliothek ohne Endnutzerfläche und ohne dokumentiertes Missbrauchssignal; sie ist eine grundlegende Frontend-Komponente ohne Datensammlung oder serverseitigen Bestandteil."
+  },
+  "keep. archeevo": {
+    "description": "keep. archeevo ist eine Archivverwaltungssoftware, die alle Funktionsbereiche einer Archiveinrichtung unterstützen soll, von der archivischen Beschreibung bis zur Leistungsbeurteilung von Mitarbeitenden.",
+    "history": "keep. archeevo ist eine Archivverwaltungssoftware von KEEP SOLUTIONS, einem portugiesischen Unternehmen, das 2008 als Spin-off der Universität Minho gegründet wurde; sie wird vor allem von Archiveinrichtungen in Portugal genutzt, darunter Ministerien, Universitäten und Gemeinden.",
+    "summary_abuse": "keep. archeevo ist ein spezialisiertes Archivverwaltungssystem für institutionelle Nutzer ohne auffälliges Missbrauchssignal. Es richtet sich an Archiveinrichtungen und hat keine verbraucherorientierte Oberfläche oder Funktionen, die Betrüger anziehen würden."
+  },
+  "Keepeek": {
+    "description": "Keepeek ist ein Anbieter von Digital-Asset-Management- und Fotobibliothekslösungen.",
+    "history": "Keepeek ist eine französische Digital-Asset-Management-Plattform (DAM), gegründet um 2008; sie hilft Organisationen beim Verwalten, Speichern und Verteilen digitaler Medienassets. Das Unternehmen bedient vor allem Enterprise-Kunden in Frankreich und international, mit Fokus auf Medienorganisationen, Agenturen und grosse Unternehmen.",
+    "summary_abuse": "Keepeek ist eine Enterprise-Plattform für Digital Asset Management ohne auffälliges Missbrauchssignal. Als B2B-DAM-Lösung hat sie keine verbraucherorientierte gehostete Content-Fläche. Dokumentierte Missbrauchsmuster speziell zu dieser Plattform sind nicht bekannt."
+  },
+  "KelonCloud": {
+    "description": "KelonCloud bietet verschiedene cloudbasierte Dienste wie CDN, DDoS-Abwehr, Cloud Security, Streaming, Cloud Compute und mehr.",
+    "history": "KelonCloud ist eine cloudbasierte Softwareplattform mit begrenzter öffentlicher Dokumentation; sie scheint ERP- oder Business-Management-Lösungen vor allem für chinesische KMU anzubieten. Zur Gründungsgeschichte oder Unternehmensstruktur sind nur sehr wenige Informationen verfügbar.",
+    "summary_abuse": "KelonCloud ist eine Cloud-Business-Softwareplattform mit minimaler öffentlicher Präsenz. Es gibt kein dokumentiertes Missbrauchssignal speziell zu dieser Plattform. Für eine Einschätzung der Missbrauchslage sind nur begrenzte Informationen verfügbar."
+  },
+  "Kemal": {
+    "description": "Kemal ist ein schnelles und effizientes Webframework für die Programmiersprache Crystal.",
+    "history": "Kemal ist ein in Crystal geschriebenes Open-Source-Webframework, erstellt von Serdar Doğruyol in der Türkei und erstmals 2015 veröffentlicht. Es ist von Sinatra (Ruby) inspiriert und bietet ein einfaches, schnelles und ausdrucksstarkes Framework zum Erstellen von Webanwendungen. Die Performance-Eigenschaften von Crystal machten Kemal als schnelle Alternative zu Frameworks interpretierter Sprachen beliebt.",
+    "summary_abuse": "Kemal ist ein serverseitiges Webframework ohne Endnutzerfläche und ohne dokumentiertes Missbrauchssignal. Es ist ein Backend-Infrastrukturwerkzeug, das Entwickler zum Erstellen von Webanwendungen nutzen. Missbrauchsmuster speziell zu Kemal sind nicht bekannt."
+  },
+  "Kendo UI": {
+    "description": "Kendo UI ist ein HTML5-User-Interface-Framework zum Erstellen interaktiver und leistungsfähiger Websites und Anwendungen.",
+    "history": "Kendo UI wurde von Telerik entwickelt, einem 2002 gegründeten bulgarischen Softwareunternehmen, und um 2011 als HTML5- und jQuery-UI-Komponentenbibliothek veröffentlicht. 2014 stellte Telerik Kendo UI Core unter der Apache-2.0-Lizenz als Open Source bereit. Progress Software übernahm Telerik im Oktober 2014 für 262,5 Millionen US-Dollar, wodurch Kendo UI Teil des Progress-Portfolios wurde.",
+    "summary_abuse": "Kendo UI ist eine UI-Komponentenbibliothek ohne auffälliges Missbrauchssignal. Es ist ein Frontend-Framework zum Erstellen von Webanwendungen und hat keine verbraucherorientierte Oberfläche, die Betrüger gezielt nutzen würden."
+  },
+  "Kenect": {
+    "description": "Kenect bietet Reputationsmanagement und Business-Texting für Kundenbindung und Feedback-Erfassung.",
+    "history": "Kenect ist eine US-Plattform für Kundenkommunikation und SMS, gegründet um 2015; sie richtet sich vor allem an Autohändler, Home-Services-Anbieter und Gesundheitsunternehmen und ermöglicht Kommunikation mit Kunden per Textnachricht. Das Unternehmen hat Risikokapital aufgenommen.",
+    "summary_abuse": "Kenect ist eine SaaS-Plattform für Textnachrichten und Kundenkommunikation. Wie bei allen Bulk-SMS-Plattformen besteht theoretisch ein Risiko für Missbrauch durch Spam oder Phishing-SMS, was jedoch für SMS-Marketingplattformen allgemein gilt. Kenect bedient hauptsächlich legitime Unternehmen in regulierten Branchen. Auffällige Missbrauchsfälle speziell zu Kenect sind nicht dokumentiert."
+  },
+  "Kenlo": {
+    "description": "Kenlo ist ein brasilianisches Immobiliensystem für den Verkauf von Häusern, Wohnungen und weiteren Objekten.",
+    "history": "Kenlo ist eine brasilianische SaaS-Plattform für Immobilienverwaltung, gegründet um 2014; sie bietet Property Management, CRM und Vertriebswerkzeuge vor allem für brasilianische Immobilienagenturen und Bauträger. Das Unternehmen bedient den brasilianischen Markt und hat Investitionen erhalten.",
+    "summary_abuse": "Kenlo ist eine B2B-SaaS-Plattform für Immobilienverwaltung im brasilianischen Markt. Es gibt kein auffälliges Missbrauchssignal. Als professionelles Werkzeug für Immobilienunternehmen hat sie ein niedriges Missbrauchsrisiko."
+  },
+  "Kentico CMS": {
+    "description": "Kentico CMS ist ein Web-Content-Management-System zum Erstellen von Websites, Online-Shops, Intranets und Web-2.0-Community-Seiten.",
+    "history": "Kentico CMS wurde 2004 in Brno, Tschechien, von Petr Palas gegründet. Es gehört zu den führenden .NET-basierten Content-Management-Systemen und entwickelte sich zu einer breiteren Digital-Experience-Plattform. 2019 lancierte Kentico neben dem traditionellen Kentico CMS das Headless-CMS Kentico Kontent, heute Kontent.ai, wodurch zwei getrennte Produktlinien entstanden. Das Unternehmen ist weiterhin privat gehalten und hat seinen Hauptsitz in Tschechien.",
+    "summary_abuse": "Kentico CMS ist eine Enterprise-Content-Management-Plattform ohne auffälliges direktes Missbrauchssignal. Als selbst gehostetes und cloudbasiertes CMS könnte sie theoretisch bösartige Inhalte hosten, was aber für alle CMS-Plattformen gilt; sie wird vor allem von grossen Unternehmen eingesetzt und verfügt über aktive Sicherheitsüberwachung. CVE-Meldungen wurden historisch zeitnah behoben."
+  },
+  "Keptify": {
+    "description": "Keptify hilft E-Commerce-Sites jeder Grösse, Umsatz und Conversion Rates durch personalisierte Einkaufserlebnisse für Besucher zu erhöhen.",
+    "history": "Keptify ist eine in Grossbritannien ansässige Lösung für Exit Intent und Warenkorbabbruch im E-Commerce; sie fokussiert darauf, Leads von Besuchern zu erfassen, die einen Online-Shop verlassen wollen. Das um 2016 gegründete Unternehmen bedient vor allem kleine und mittlere europäische E-Commerce-Unternehmen.",
+    "summary_abuse": "Keptify ist ein Lead-Capture-Tool für E-Commerce mit begrenztem Missbrauchspotenzial. Es läuft als JavaScript-Widget in Händlerseiten. Dokumentierte Missbrauchsmuster speziell zu dieser Plattform sind nicht bekannt."
+  },
+  "Kerberos": {
+    "description": "Kerberos ist ein Authentifizierungsverfahren, das häufig von Windows-Servern verwendet wird.",
+    "history": "Kerberos ist ein Netzwerk-Authentifizierungsprotokoll, das ursprünglich 1987 am MIT im Rahmen von Project Athena entwickelt wurde. Version 5, die heute breit eingesetzte Version, wurde 1993 als RFC 1510 veröffentlicht und 2005 durch RFC 4120 aktualisiert. Kerberos ist das Standard-Authentifizierungsprotokoll für Windows Active Directory, macOS und viele Unix/Linux-Umgebungen. Es ist zu grundlegender Internetinfrastruktur geworden und wird praktisch in jedem Unternehmensnetz weltweit eingesetzt.",
+    "summary_abuse": "Kerberos ist ein grundlegendes Authentifizierungsprotokoll, das in praktisch jedem Unternehmensnetz verwendet wird. Es hat keine Endnutzerfläche und keinen dokumentierten direkten Missbrauch. Angriffe auf Kerberos, etwa Pass-the-Ticket oder Kerberoasting, zielen auf Implementierungen und Konfigurationsschwächen statt auf das Protokoll selbst. Das sind Verteidigungsthemen für Systemadministratoren, keine anbieterseitigen Probleme."
+  },
+  "KerningJS": {
+    "description": "Kerning.js ist eine JavaScript-Bibliothek, die echte CSS-Regeln zum Gestalten, Transformieren und Skalieren von Webtypografie anwendet.",
+    "history": "KerningJS ist eine kleine Open-Source-JavaScript-Bibliothek zur Verbesserung von CSS-Kerning und Buchstabenabständen auf Webseiten; sie entstand um 2012 und scheint inzwischen aufgegeben, ohne aktuelle Aktivität.",
+    "summary_abuse": "KerningJS ist eine winzige aufgegebene JavaScript-Bibliothek für CSS-Kerning ohne Endnutzerfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Kestrel": {
+    "history": "Kestrel ist der plattformübergreifende Webserver in ASP.NET Core und wurde 2016 zusammen mit ASP.NET Core 1.0 von Microsoft eingeführt. Er ersetzte den nur unter Windows verfügbaren HttpListener und die IIS-Integration als Standardserver für .NET-Web-Apps. Kestrel ist unter MIT-Lizenz Open Source und wird von Microsoft als Teil des ASP.NET-Core-Projekts auf GitHub gepflegt.",
+    "summary_abuse": "Kestrel ist eine in ASP.NET Core integrierte Webserver-Komponente ohne Endnutzerfläche und ohne dokumentiertes Missbrauchssignal. Es handelt sich um grundlegende Serverinfrastruktur, die von Microsoft gepflegt wird. Auf Kestrel selbst treffen keine spezifischen Missbrauchsmuster zu."
+  },
+  "Ketch": {
+    "description": "Ketch ist eine Data-Control-Plattform zur Verwaltung der Einhaltung von Datenschutzvorschriften.",
+    "history": "Ketch ist eine Plattform für Datenschutz- und Compliance-Automatisierung, gegründet 2019 mit Hauptsitz in San Francisco; sie hilft Unternehmen, Einwilligungen, Auskunfts- und Löschbegehren sowie regulatorische Anforderungen nach GDPR, CCPA und anderen Datenschutzgesetzen zu verwalten. Das Unternehmen hat beträchtliches VC-Kapital aufgenommen und bedient grosse Enterprise-Kunden.",
+    "summary_abuse": "Ketch ist eine Datenschutz- und Compliance-Plattform, die Unternehmen beim Verwalten von Nutzereinwilligung und Datenschutzprozessen unterstützt. Es gibt kein auffälliges Missbrauchssignal, vielmehr ist sie selbst ein Werkzeug zur Verbesserung von Datenschutz-Compliance. Unternehmen nutzen die Plattform, um GDPR, CCPA und ähnliche regulatorische Anforderungen zu erfüllen."
+  },
+  "Kevel": {
+    "description": "Kevel, früher Adzerk, entwickelt Ad-Serving-APIs, mit denen Entwickler serverseitige Werbeplattformen bauen können.",
+    "history": "Kevel, früher Adzerk, wurde 2010 gegründet und 2021 in Kevel umbenannt, um die API-first-Positionierung als Ad Server besser abzubilden. Das Unternehmen bietet eine entwicklerorientierte Werbeinfrastruktur-API, mit der Firmen eigene Native-Advertising-Angebote, Sponsored Listings und interne Werbenetzwerke aufbauen können. Kevel hat seinen Sitz in Durham, North Carolina, und hat Risikokapital aufgenommen.",
+    "summary_abuse": "Kevel ist eine Ad-Server-API-Plattform, mit der Unternehmen eigene Werbenetzwerke bauen. Als Ad-Tech-Plattform unterstützt sie zielgerichtete Werbung und bringt damit gewisse inhärente Datenschutzbedenken mit sich, arbeitet aber B2B und nicht direkt verbraucherorientiert. Theoretisch könnten Kunden damit irreführende Anzeigen ausspielen, Kevel verfügt jedoch über Acceptable-Use-Richtlinien."
+  },
+  "Keybase": {
+    "description": "Keybase schützt Chats und Dateien für Familien, Communities und Unternehmen auf macOS, Windows, Linux, iPhone und Android.",
+    "history": "Keybase wurde 2014 von Chris Coyne und Max Krohn gegründet, um ein Public-Key-Infrastruktursystem zur Verifizierung von Online-Identitäten zu schaffen. Die Plattform verband kryptografische Identitätsprüfung mit Ende-zu-Ende-verschlüsseltem Messaging und Dateispeicherung. Im Mai 2020 wurde Keybase von Zoom Video Communications übernommen, um Zooms Sicherheit zu verbessern. Die Entwicklung hat sich seit der Übernahme verlangsamt, der Dienst bleibt aber in Betrieb.",
+    "summary_abuse": "Keybase ist eine Plattform für verschlüsseltes Messaging und Identitätsverifizierung. Wie jeder verschlüsselte Kommunikationsdienst kann sie von legitimen Nutzern wie auch von schlechten Akteuren für private Kommunikation verwendet werden. Wegen Ende-zu-Ende-Verschlüsselung kann Keybase Nachrichteninhalte nur begrenzt überwachen. Grössere dokumentierte Missbrauchsfälle sind nicht bekannt, der Bereich verschlüsseltes Messaging stellt Strafverfolgung aber allgemein vor Herausforderungen."
+  },
+  "KeyCDN": {
+    "description": "KeyCDN ist ein Content Delivery Network (CDN).",
+    "history": "KeyCDN ist ein 2013 in der Schweiz gegründetes Content Delivery Network. Es bietet HTTP/2-CDN-Dienste zu wettbewerbsfähigen Preisen und bedient Kunden weltweit. Das Unternehmen ist weiterhin unabhängig und ohne VC-Finanzierung betrieben, was es von grossen CDN-Anbietern unterscheidet.",
+    "summary_abuse": "KeyCDN ist ein Content Delivery Network zur weltweiten Verteilung von Inhalten. Wie alle CDN-Anbieter kann es missbraucht werden, um bösartige Inhalte, Phishing-Seiten oder Malware auszuliefern. Das Unternehmen bietet Missbrauchsmeldewege und unterhält eine Acceptable-Use-Policy. Das Missbrauchsrisiko ist moderat und entspricht CDN-Anbietern dieser Grösse."
+  },
+  "Keymailer": {
+    "description": "Keymailer ist eine Influencer-Marketing-Plattform für Games, die Creator, Software und Services in einem Portal verbindet.",
+    "history": "Keymailer ist eine britische Plattform, gegründet um 2015, die Spieleentwickler mit Streamern und Content Creators für die Verteilung von Game Keys und Influencer-Marketing verbindet; sie bedient die Videospielbranche, indem Indie-Entwickler Game Keys an Content Creators für Reviews und Promotion senden können.",
+    "summary_abuse": "Keymailer ist eine Plattform zur Verteilung von Game Keys an Streamer und Content Creators. Es besteht ein gewisses Missbrauchspotenzial durch Fake-Accounts, die Game Keys beanspruchen, ohne Inhalte zu erstellen, doch das ist plattformspezifischer Betrug und kein breiter gesellschaftlicher Schaden. Keymailer hat Verifizierungsprozesse für Creator. Grössere dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "KeyReply": {
+    "description": "KeyReply ist ein mobilfreundliches Chat-Widget, mit dem Websites Echtzeit-Messaging und Nutzersupport auf verschiedenen Geräten anbieten können.",
+    "history": "KeyReply ist eine in Singapur ansässige Plattform für Conversational AI und Chatbots, gegründet 2016; sie fokussiert auf Enterprise-Kundendienstautomatisierung, insbesondere in Gesundheitswesen und öffentlichem Sektor in Südostasien. Das Unternehmen hat Finanzierung erhalten und bedient Enterprise-Kunden in Singapur und der weiteren APAC-Region.",
+    "summary_abuse": "KeyReply ist eine B2B-Enterprise-Chatbot-Plattform für Gesundheitswesen und Behörden ohne auffälliges Missbrauchssignal; sie wird primär von legitimen Unternehmen und Organisationen zur Kundendienstautomatisierung genutzt. Dokumentierte Missbrauchsmuster sind nicht bekannt."
+  },
+  "Keyvos": {
+    "description": "Keyvos ist eine griechische E-Commerce-Plattform mit Funktionen für Storefront-Anpassung, Produkt- und Bestellverwaltung, SEO, Marktplatzintegration und Reporting.",
+    "history": "Keyvos ist eine griechische E-Commerce-SaaS-Plattform von INFOCUBE, einem Softwareunternehmen mit Sitz in Athen, Griechenland; sie basiert auf Laravel, MySQL und Elasticsearch und richtet sich an griechische KMU-Händler mit gehosteter Storefront-Anpassung, Produkt- und Bestellverwaltung, SEO-Werkzeugen und Marktplatzintegrationen. Die Plattform nimmt an Griechenlands NextGeneration-EU-Digitalförderprogrammen teil.",
+    "summary_abuse": "Keyvos ist eine spezialisierte griechische E-Commerce-Plattform für lokale KMU-Händler. Es gibt keine dokumentierte Missbrauchshistorie. Die Plattform ermöglicht Online-Shops, was generell ein niedriges Missbrauchsrisiko mit sich bringt, doch ihre kleine Grösse und der lokale Fokus auf Griechenland machen sie nicht zu bekannter Infrastruktur für organisierte Phishing- oder Scam-Aktivitäten."
+  },
+  "Keywee": {
+    "description": "Keywee ist eine Plattform und ein Managed Service zur Unterstützung von Paid Media und Content Distribution.",
+    "history": "Keywee ist eine 2014 gegründete Plattform für Content Distribution und Audience Intelligence, die Publishern hilft, bezahlte Abonnements und Werbeumsatz über AI-gestütztes Targeting auf Facebook und anderen sozialen Plattformen zu steigern. Das Unternehmen hat mehrere VC-Finanzierungsrunden aufgenommen.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Keywee ist ein B2B-SaaS-Werkzeug für Medien-Publisher zur Zielgruppenentwicklung. Es bietet kein verbraucherorientiertes Hosting und keine kostenlosen Dienste, die Missbrauch anziehen würden. Übliche Ad-Tech-Datensammlungspraktiken gelten."
+  },
+  "Kibana": {
+    "description": "Kibana ist ein Open-Source-Dashboard zur Datenvisualisierung für Elasticsearch. Es bietet Visualisierungen für Inhalte, die in einem Elasticsearch-Cluster indexiert sind. Nutzer können Balken-, Linien- und Streudiagramme, Kreisdiagramme und Karten auf grossen Datenmengen erstellen.",
+    "history": "Kibana wurde von Rashid Khan entwickelt und 2013 als Open-Source-Visualisierungstool für Elasticsearch veröffentlicht. Elastic, früher Elasticsearch BV, übernahm es und machte es zum offiziellen Frontend für den Elastic Stack (ELK Stack). 2021 lizenzierte Elastic Kibana von Apache 2.0 auf Elastic License 2.0 und SSPL um, was die Nutzung durch Cloud-Anbieter kontrovers einschränkte und AWS dazu veranlasste, Kibana als OpenSearch Dashboards zu forken.",
+    "summary_abuse": "Kein Missbrauchssignal. Kibana ist Infrastruktur- und Analytics-Tooling für Unternehmen und Ops-Teams. Es hat keine Endnutzerfläche und keine kostenlosen Hosting-Funktionen, die Missbrauch anziehen würden. Die Relizenzierung 2021 war eine Geschäftsentscheidung, kein Sicherheits- oder Missbrauchsproblem."
+  },
+  "Kibo Commerce": {
+    "description": "Kibo Commerce ist eine Enterprise-E-Commerce-Plattform mit einer cloudbasierten End-to-End-Commerce-Lösung für Händler und Markenhersteller.",
+    "history": "Kibo Commerce entstand 2016, als Vista Equity Partners drei E-Commerce-Unternehmen, Fiverun, MarketLive und Shopatron, zu einer einzigen Plattform zusammenführte. Später übernahm Kibo Monetate und Certona, um die Personalisierungsfunktionen auszubauen.",
+    "summary_abuse": "Kibo Commerce ist eine Enterprise-E-Commerce-Plattform mit vertriebsgesteuerten Preisen für grosse Händler. Es gibt kein auffälliges Missbrauchssignal, und die Plattform bedient etablierte Marken statt anonyme Nutzer."
+  },
+  "Kibo Personalization": {
+    "description": "Kibo Personalization ist eine Omnichannel-Personalisierungssoftware, die mit Machine Learning individualisierte Kundenerlebnisse liefert und auf Monetate und Certona basiert.",
+    "history": "Kibo Personalization geht auf Certona, eine 2004 gegründete Personalisierungs-Engine, und Monetate, gegründet 2008, zurück. Beide wurden von Kibo Commerce übernommen und bis 2019 unter der Marke Kibo Personalization in die einheitliche Commerce-Plattform integriert.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kibo Personalization ist eine B2B-Enterprise-Personalisierungs-Engine, die ausschliesslich geprüften Händlern bereitgestellt wird. Enterprise-only-Preise und Onboarding machen Missbrauch sehr unwahrscheinlich."
+  },
+  "Kickflip": {
+    "description": "Kickflip ist ein Produktkonfigurator für visuelle Produktanpassungen auf Plattformen wie Shopify, WooCommerce und Wix sowie per API-Integration.",
+    "history": "Kickflip ist eine kanadische SaaS-Plattform für Produktanpassung, gegründet um 2012, mit der E-Commerce-Händler visuelle Produktkonfiguratoren anbieten können; sie richtet sich an Nischenfälle der Produktpersonalisierung, etwa Bekleidung und Accessoires.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kickflip ist ein spezialisiertes B2B-Tool für Produktanpassung mit begrenzter Verbraucherexposition. Es ist kein Vektor für gängige Missbrauchsmuster."
+  },
+  "Kicksite": {
+    "description": "Kicksite ist eine Verwaltungssoftware für Fitnessstudios und Kampfsportschulen mit Anwesenheitserfassung, automatisierter Abrechnung, kostenlosem Texting, Lead-Capture-Formularen und mehr.",
+    "history": "Kicksite ist eine SaaS-Plattform für die Verwaltung von Kampfsportschulen, gegründet 2008; sie bietet Abrechnung, Anwesenheitserfassung und Schülerverwaltung speziell für Martial-Arts-Studios. Das Produkt blieb unabhängig und bedient eine klar abgegrenzte Nische.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kicksite ist ein vertikales Nischen-SaaS für Kampfsportschulen mit begrenzter Verbraucherfläche und einem Abomodell, das eine legitime Geschäftseinrichtung voraussetzt."
+  },
+  "Kilatech": {
+    "description": "Kilatech ist ein Builder für Shopify-E-Commerce-Anwendungen.",
+    "history": "Kilatech ist ein kleines afrikanisches Tech-Startup, das Web- und Digital-Marketing-Dienste anbietet. Es gibt nur minimale öffentliche Historie; offenbar handelt es sich um eine regionale Digitalagentur oder einen SaaS-Anbieter, der vor allem in Nigeria tätig ist.",
+    "summary_abuse": "Zu Kilatech gibt es sehr wenige öffentliche Daten. Es ist ein kleiner regionaler Anbieter mit minimaler Webpräsenz. Dokumentierte Missbrauchsfälle sind nicht bekannt, die Transparenz zu Betrieb und Datenpraktiken ist aber begrenzt."
+  },
+  "Kiliba": {
+    "description": "Kiliba hat ein Modul entwickelt, das den Marketingprozess von der Erstellung einer E-Mail bis zu deren Versand automatisiert.",
+    "history": "Kiliba ist eine französische Plattform für AI-gestützte E-Mail-Marketing-Automatisierung, gegründet 2020 und speziell für E-Commerce-Unternehmen entwickelt; sie nutzt Machine Learning, um automatisch personalisierte E-Mails zum optimalen Zeitpunkt zu senden, ohne dass manuelle Kampagneneinrichtung nötig ist.",
+    "summary_abuse": "Kiliba ist eine E-Mail-Marketing-Plattform und trägt das inhärente Missbrauchsrisiko von Bulk-E-Mail-Tools, einschliesslich möglicher Nutzung für Spam oder Phishing bei Fehlgebrauch; sie richtet sich jedoch an legitime E-Commerce-Kunden und bietet keine kostenlosen Tarife. Als französisches Unternehmen ist sie GDPR-konform, was auf Aufmerksamkeit für Datenpraktiken hindeutet."
+  },
+  "Kilkaya": {
+    "description": "Kilkaya vereinfacht Analytics für Publisher, indem es Daten zusammenführt und Reporting automatisiert.",
+    "history": "Kilkaya ist eine dänische Plattform für Web Analytics und Audience Measurement, gegründet um 2010, die nordische Medienunternehmen und Publisher bedient. Im skandinavischen Markt konkurriert sie mit Tools wie Google Analytics.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kilkaya ist eine B2B-Analytics-Plattform für Publisher. Als Web-Analytics-Tool sammelt sie Besucherdaten, der primäre Einsatz ist jedoch legitime Reichweitenmessung für Medienkunden."
+  },
+  "Kimonix": {
+    "description": "Kimonix ist eine gewinnorientierte Merchandising-Plattform zur Optimierung von Produktlisten und Steigerung der Verkaufsleistung.",
+    "history": "Kimonix ist eine israelische AI-gestützte Produkt-Merchandising-Plattform, gegründet 2020; sie hilft Shopify-Händlern, Produktsortierung und Kollektionsseiten zu optimieren, um Conversion Rates zu steigern.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kimonix ist eine B2B-Shopify-App für Produkt-Merchandising legitimer E-Commerce-Händler."
+  },
+  "Kindful": {
+    "description": "Kindful ist eine cloudbasierte Software und Datenbank für Spenderverwaltung und Fundraising von Nonprofit-Organisationen.",
+    "history": "Kindful ist eine cloudbasierte Plattform für Spenderverwaltung und Fundraising von Nonprofits; sie wurde im Januar 2021 von Bloomerang übernommen, in einem Zusammenschluss zweier wichtiger Spenderverwaltungsplattformen.",
+    "summary_abuse": "Kindful ist eine Plattform für Spenderverwaltung von Nonprofits ohne auffälliges Missbrauchssignal; sie verarbeitet Fundraising-Daten legitimer Nonprofits und hat keine verbraucherorientierte Oberfläche, die Scammer gezielt nutzen würden."
+  },
+  "KineticJS": {
+    "history": "KineticJS war eine JavaScript-Bibliothek für HTML5 Canvas, erstellt von Eric Rowell um 2011, und wurde zum Bau interaktiver Canvas-Anwendungen genutzt. 2015 wurde sie offiziell deprecated, nachdem die Entwicklung eingestellt wurde. Das Projekt wurde als Konva.js geforkt, das als aktiver Nachfolger weitergeführt wird.",
+    "summary_abuse": "Kein Missbrauchssignal. KineticJS ist eine aufgegebene Frontend-Canvas-Bibliothek ohne serverseitige Oberfläche; sie ist seit 2015 zugunsten von Konva.js deprecated."
+  },
+  "Kinsta": {
+    "description": "Kinsta ist ein Managed-WordPress-Hosting-Anbieter, der Google Cloud Platform nutzt, um leistungsfähiges, sicheres und benutzerfreundliches Hosting für WordPress-Websites bereitzustellen.",
+    "history": "Kinsta ist ein Anbieter für Managed WordPress und Application Hosting, gegründet 2013 und aufgebaut auf Google Cloud Platform. Das Unternehmen wuchs zu einem der führenden Managed-WordPress-Hosts und ist für Premium-Performance sowie entwicklerfreundliche Werkzeuge bekannt. 2024 erweiterte Kinsta das Angebot über WordPress hinaus um Application- und Database-Hosting.",
+    "summary_abuse": "Kinsta ist als Webhosting-Anbieter einem gewissen Risiko durch gehostete Inhalte wie Malware oder Phishing-Seiten ausgesetzt. Die Premium-Preise und Prüfprozesse von Kinsta reduzieren Missbrauch jedoch deutlich gegenüber günstigen Shared-Hosting-Alternativen. Das Unternehmen betreibt aktive Sicherheitsüberwachung und reagiert auf Missbrauchsmeldungen."
+  },
+  "Kintone": {
+    "description": "Kintone ist eine vielseitige cloudbasierte Plattform für Geschäftsdatenverwaltung, CRM und Entwicklung individueller Apps.",
+    "history": "Kintone ist eine No-Code-Plattform für Geschäftsanwendungen des japanischen Softwareunternehmens Cybozu und wurde international um 2011 eingeführt. Cybozu wurde 1997 gegründet, ist börsenkotiert und für Collaboration-Tools bekannt. Kintone ist das internationale Flaggschiffprodukt für Workflow-Automatisierung.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kintone ist eine Enterprise-Plattform für Workflow-Automatisierung mit Geschäftsverifizierung bei der Registrierung. Die Plattform wird typischerweise nicht für gängige Missbrauchsmuster ausgenutzt."
+  },
+  "Kiosked": {
+    "description": "Kiosked wandelt Online-Inhalte wie Bilder, Videos und Anwendungen in interaktive digitale Storefronts um.",
+    "history": "Kiosked ist ein finnisches Ad-Tech-Unternehmen, gegründet 2011, das kontextuelle Werbung und Monetarisierungslösungen für Publisher anbietet. Es war im Programmatic-Advertising-Bereich tätig und fokussierte auf native und kontextuelle Anzeigenformate.",
+    "summary_abuse": "Kiosked ist eine Ad-Tech-Plattform mit typischer Missbrauchsexposition für Werbetechnologie. Werbenetzwerke werden gelegentlich zur Verteilung von Malvertising genutzt. Als kleinerer Ad-Tech-Anbieter könnten Durchsetzung und Takedown-Reaktionsfähigkeit begrenzter sein als bei grossen Netzwerken."
+  },
+  "Kiprotect": {
+    "description": "Kiprotect ist eine Softwareplattform mit Funktionen für Datenschutz und Datensicherheit zum Schutz digitaler Informationen.",
+    "history": "KIProtect ist ein deutsches Privacy-Tech-Unternehmen, gegründet 2018, das Werkzeuge für GDPR-konforme Datenverarbeitung entwickelt, darunter den Open-Source-Consent-Manager Klaro. Das Unternehmen fokussiert auf Datenanonymisierung und Privacy-Engineering-Dienstleistungen.",
+    "summary_abuse": "Kein Missbrauchssignal. KIProtect ist ein deutsches, datenschutzorientiertes Unternehmen, das Consent-Management- und Datenanonymisierungswerkzeuge baut. Seine Mission ist ausdrücklich pro Datenschutz und GDPR-Compliance, was es zu einem unwahrscheinlichen Missbrauchsvektor macht."
+  },
+  "Kirby": {
+    "description": "Kirby ist ein dateibasiertes Content-Management-System (CMS), das die Entwicklung von Websites und Webanwendungen vereinfacht, indem es Inhalte in Textdateien statt in einer klassischen Datenbank verwaltet.",
+    "history": "Kirby ist ein dateibasiertes CMS des deutschen Entwicklers Bastian Allgeier, erstmals 2012 veröffentlicht. Es nutzt keine Datenbank, sondern speichert Inhalte in Dateien. Kirby hat eine loyale Entwickler-Community behalten und wurde unabhängig ohne VC-Finanzierung weiterentwickelt. Es verwendet ein bezahltes Lizenzmodell pro Website.",
+    "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kirby ist ein selbst gehostetes dateibasiertes CMS für Entwickler. Das bezahlte Lizenzmodell und die Entwicklerausrichtung machen es ungeeignet für massenhaften Missbrauch. Sicherheitslücken werden aktiv behoben."
+  },
+  "Kirki Customizer Framework": {
+    "description": "Kirki Customizer Framework ist ein Toolkit, mit dem WordPress-Entwickler den Customizer nutzen und dessen erweiterte Funktionen und Flexibilität durch abstrahierten Code einfacher einsetzen können.",
+    "history": "Kirki Customizer Framework ist ein WordPress-Plugin und eine PHP-Bibliothek von Aristeides Stathopoulos, erstmals um 2014 veröffentlicht. Es bietet eine erweiterte API zum Erstellen von WordPress-Customizer-Optionen und erleichtert Theme-Entwicklern das Hinzufügen von Anpassungseinstellungen.",
+    "summary_abuse": "Kein Missbrauchssignal. Kirki ist ein WordPress-Entwicklerwerkzeug zum Erstellen von Theme-Customizern. Es hat keine Endnutzerfläche und ist mit keinen Missbrauchsmustern verbunden."
+  },
+  "KISSmetrics": {
+    "history": "KISSmetrics wurde 2008 von Neil Patel und Hiten Shah als Plattform für Kundenanalysen gegründet. Neil Patel zog sich später aus dem Tagesgeschäft zurück. Das Unternehmen ist weiterhin aktiv und übernahm 2025 Sandstorm Analytics, um in Gaming Analytics zu expandieren.",
+    "summary_abuse": "KISSmetrics ist eine Plattform für Verhaltensanalysen, die Aktionen einzelner Nutzer verfolgt. Als Marketing-Analytics-Dienst erstellt sie Profile zum Nutzerverhalten, was Datenschutzfragen aufwirft, ist aber nicht mit typischen Betrugs- oder Scam-Mustern verbunden."
+  },
+  "Kit": {
+    "description": "Kit ist eine Plattform mit Werkzeugen für E-Mail-, Mobile- und Social-Listenmanagement, mit denen Kontaktzielgruppen über digitale Kommunikationskanäle organisiert, verwaltet und angesprochen werden können.",
+    "history": "Kit, früher ConvertKit, ist eine 2013 von Nathan Barry gegründete E-Mail-Marketing-Plattform für Creator; sie entwickelte sich zu einer der führenden E-Mail-Plattformen für Blogger, YouTuber und Creator. 2024 benannte sich ConvertKit in Kit um, um die breitere Vision rund um Creator Commerce abzubilden.",
+    "summary_abuse": "Kit (ConvertKit) ist eine E-Mail-Marketing-Plattform und birgt damit grundsätzlich Missbrauchsrisiken für Spam. Das Unternehmen hat Anti-Spam-Richtlinien und überwacht Missbrauch, doch E-Mail-Plattformen mit Free Tier werden gelegentlich für Cold-Outreach-Spam genutzt. Insgesamt geniesst Kit in der Creator-Community einen guten Ruf und reagiert aktiv auf Abuse-Meldungen."
+  },
+  "KIT CMS": {
+    "description": "KIT CMS ist ein .NET-basiertes Content-Management-System von Kontrolit.net zum Erstellen und Verwalten dynamischer Websites und digitaler Inhalte.",
+    "history": "KIT CMS ist ein .NET-basiertes Content-Management-System, entwickelt von Kontrolit.net, einer britischen Webagentur, die am 10. August 1998 in Yeovil, Somerset, England gegründet wurde. Das KIT CMS entstand erstmals 2001 und wird seit über zwei Jahrzehnten kontinuierlich weiterentwickelt. Es bedient vor allem KMU-Kunden im britischen Markt, neben den Webdesign- und Digital-Marketing-Diensten von Kontrolit.",
+    "summary_abuse": "KIT CMS ist ein proprietäres .NET-CMS, das ausschliesslich von Kunden der britischen Webagentur Kontrolit aus Yeovil genutzt wird. Es gibt kein auffälliges Missbrauchssignal. Das verwaltete Produkt wird für kleine britische Unternehmen bereitgestellt und bietet keine Self-Service- oder anonymen Zugänge, die es für Phishing- oder Spam-Kampagnen attraktiv machen würden."
+  },
+  "Kitcart": {
+    "description": "KitCart ist eine cloudbasierte Lösung, mit der Unternehmen E-Commerce-Shops erstellen, Bestände verwalten und weitere Handelsprozesse abwickeln können.",
+    "history": "Kitcart ist eine nigerianische E-Commerce-Plattform, die um 2020 gegründet wurde und afrikanischen Händlern Werkzeuge zum Aufbau von Online-Shops bietet; sie ist ein regionaler Anbieter im wachsenden Markt für afrikanische E-Commerce-Infrastruktur.",
+    "summary_abuse": "Zu Kitcart gibt es nur wenige öffentliche Daten. Als E-Commerce-Plattform mit Free Tier besteht ein gewisses Risiko, dass gefälschte Shops für Betrug erstellt werden. Die Transparenz zu Anti-Abuse-Massnahmen ist begrenzt."
+  },
+  "Kites": {
+    "description": "Kites ist ein No-Code-Builder mit Drag-and-drop-Funktionen zum Erstellen interaktiver mobiler Websites.",
+    "history": "Kites ist ein kleines Tool für Business Messaging und Teamkommunikation. Öffentlich ist nur sehr wenig zur Geschichte bekannt. Es wirkt wie ein Startup mit geringer öffentlicher Präsenz.",
+    "summary_abuse": "Zu Kites gibt es nur sehr wenige öffentliche Daten. Es handelt sich um ein kleines Teamkommunikations-Tool mit minimaler öffentlicher Präsenz. Dokumentierte Missbrauchsfälle sind nicht bekannt, die Transparenz ist jedoch begrenzt."
+  },
+  "Kiva": {
+    "description": "Kiva ist eine Wohltätigkeitsorganisation, die Menschen über Mikrokredite verbindet, um Armut zu lindern.",
+    "history": "Kiva ist eine US-amerikanische Nonprofit-Mikrokreditplattform, die 2005 von Matt Flannery und Jessica Jackley in San Francisco gegründet wurde; sie war ein Pionier für Online-Peer-to-Peer-Mikrokredite an Unternehmer in Entwicklungsländern. Über die Plattform wurden Kredite von mehr als 1,8 Milliarden US-Dollar vergeben.",
+    "summary_abuse": "Kiva hatte in der Vergangenheit gewisse Betrugsrisiken durch falsche Kreditanträge und irreführende Angaben von Feldpartnern. Die Organisation hat darauf mit Prüfprozessen reagiert. Insgesamt ist Kiva eine etablierte Nonprofit-Organisation mit hohem Vertrauen in der Community und transparenter Arbeitsweise."
+  },
+  "Kiwi Sizing": {
+    "description": "Kiwi Sizing ist ein Plugin für Grössentabellen und Grössenempfehlungen auf der Shopify-Plattform.",
+    "history": "Kiwi Sizing ist eine kanadische Shopify-App, die um 2017 gegründet wurde und KI-gestützte Grössenempfehlungen für Fashion-E-Commerce-Shops anbietet; sie hilft Kunden, die passende Kleidergrösse zu finden und Retouren zu reduzieren.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Kiwi Sizing ist eine spezialisierte B2B-Shopify-App für Grössenempfehlungen und kein wahrscheinlicher Missbrauchsvektor."
+  },
+  "Kiwify": {
+    "description": "Kiwify ist eine KI-gestützte Plattform für Creator und Lernende, die intelligente Werkzeuge für Lehre, Lernen und Content-Erstellung bereitstellt.",
+    "history": "Kiwify ist ein brasilianischer Marktplatz und eine Plattform für digitale Produkte, gegründet um 2020. Creator können darüber Online-Kurse, E-Books und Mitgliedschaften verkaufen. Die Plattform ist im brasilianischen Creator-Economy-Markt schnell gewachsen und konkurriert mit Hotmart und Eduzz.",
+    "summary_abuse": "Kiwify ist als Marktplatz für digitale Produkte Betrugsrisiken durch unseriöse digitale Produkte und Scam-Kurse ausgesetzt. Brasilianische Plattformen für digitale Produkte waren historisch teils mit aggressivem Affiliate-Marketing sowie minderwertigen oder irreführenden Angeboten verbunden. Es sind keine spezifischen grossen Betrugsfälle dokumentiert, doch Free-Tier-Modell und Endkundenausrichtung erhöhen das Risiko."
+  },
+  "Kizen": {
+    "description": "Kizen ist eine Lösung für Automatisierung und KI-Personalisierung, die die Einführung relevanter KI-Technologien in Gesundheitswesen, Versicherungen und Finanzdienstleistungen vereinfachen und beschleunigen soll.",
+    "history": "Kizen ist ein US-amerikanisches SaaS-Angebot für Automatisierung und KI-Personalisierung mit Fokus auf Gesundheitswesen, Versicherungen und Finanzdienstleistungen. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Kizen ist eine Enterprise-Plattform für Marketing-Automatisierung und KI-Personalisierung ohne auffälliges Missbrauchssignal; sie wird in regulierten Branchen eingesetzt und hat keine typische Endkundenfläche, die Betrüger üblicherweise ausnutzen."
+  },
+  "KKTIX": {
+    "description": "KKTIX ist eine taiwanische Softwareplattform für Online-Ticketing und Eventmanagement.",
+    "history": "KKTIX ist Taiwans führende Ticketing-Plattform und wird von Walking Internet Entertainment Limited betrieben; sie wurde um 2012 gegründet und deckt Konzerte, Kunst, Konferenzen und Kulturveranstaltungen in Taiwan ab. 2020 startete KKTIX Live für Online-Streaming. KKTIX ist der führende Ticketing-Dienst für populäre Events in Taiwan.",
+    "summary_abuse": "Es gibt keine Missbrauchshistorie. KKTIX ist Taiwans dominierende Event-Ticketing-Plattform und für die Zahlungsabwicklung PCI-DSS-konform. Der Dienst bedient vor allem Taiwan und nahe Märkte."
+  },
+  "Klangoo": {
+    "description": "Klangoo ist eine KI-basierte Lösung für Audience Engagement, die Nutzerinteraktion verbessern und die Auslieferung von Inhalten optimieren soll.",
+    "history": "Klangoo ist eine libanesische Plattform für KI-gestützte Inhaltsempfehlungen und Natural Language Processing, gegründet um 2012; sie bietet Content-Tagging, semantische Analyse und Empfehlungs-APIs für Medienunternehmen und Publisher.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Klangoo ist eine B2B-NLP- und Content-Recommendation-API für Publisher. Die Plattform richtet sich nicht an Endkunden und ist nicht mit bekannten Missbrauchsmustern verbunden."
+  },
+  "Klara": {
+    "description": "Klara ist eine Kommunikationsplattform für das Gesundheitswesen, über die Mitarbeitende mit Patienten und untereinander kommunizieren können.",
+    "history": "Klara ist eine US-amerikanische Plattform für Patientenkommunikation, gegründet 2013, mit HIPAA-konformem Messaging für Arztpraxen; sie ermöglicht sichere Zweiwegkommunikation zwischen Patienten und medizinischen Anbietern sowie Telemedizin-Funktionen.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Klara arbeitet im Gesundheitswesen und ist HIPAA-konform, mit hohen Anforderungen an Datenschutz. Das reine B2B-Modell und der Gesundheitsfokus machen die Plattform für typische Missbrauchsvektoren risikoarm."
+  },
+  "Klarna Checkout": {
+    "description": "Klarna Checkout ist eine vollständige Zahlungslösung, bei der Klarna den gesamten Checkout eines Shops abwickelt.",
+    "history": "Klarna wurde 2005 in Stockholm von Sebastian Siemiatkowski, Niklas Adalberth und Victor Jacobsson als Anbieter für Buy-now-pay-later und Zahlungslösungen gegründet. Das Unternehmen wurde zu Europas wertvollstem Fintech-Unicorn. 2024 reichte Klarna Unterlagen für einen Börsengang an der NYSE ein. Klarna Checkout ist das eingebettete Checkout-Produkt, das Händler zur Zahlungsannahme integrieren.",
+    "summary_abuse": "Klarna wurde von Verbraucherschützern und Aufsichtsbehörden wegen BNPL-Produkten kritisiert, die Mehrausgaben und Verschuldung fördern können. Die FCA und europäische Regulierer haben die Geschäftspraktiken geprüft. Klarna Checkout selbst wurde bei betrügerischen Transaktionen genutzt, wenn gestohlene Zugangsdaten für Käufe eingesetzt wurden. Klarna betreibt Betrugserkennungssysteme und ein Responsible-Disclosure-Programm."
+  },
+  "Klarna Virtual Shopping": {
+    "description": "Klarna Virtual Shopping ist ein Dienst, über den Online-Käufer per Live-Chat und Videoanruf mit Retail-Experten im Laden interagieren können, um Echtzeitberatung und Produktvorführungen zu erhalten.",
+    "history": "Klarna Virtual Shopping ist eine Produktfunktion, die Klarna 2021 einführte; sie ermöglicht Social- und Live-Shopping-Erlebnisse in der Klarna-App und auf Websites von Partnerhändlern. Käufer werden dabei für personalisierte Video-Shopping-Sitzungen mit Verkaufsmitarbeitenden verbunden.",
+    "summary_abuse": "Es gibt keine eigenen Missbrauchssignale über die Klarna-Mutterplattform hinaus. Die Virtual-Shopping-Funktion verbindet Konsumenten in Videositzungen mit Verkaufsmitarbeitenden und birgt auf Funktionsebene nur ein geringes Missbrauchsrisiko."
+  },
+  "Klaro": {
+    "description": "Klaro ist eine einfache Consent-Management-Plattform und ein Datenschutzwerkzeug.",
+    "history": "Klaro ist ein Open-Source-Tool für GDPR-Consent-Management, entwickelt von KIProtect aus Deutschland und erstmals 2019 veröffentlicht. Es bietet ein konfigurierbares Cookie-Consent-Banner und einen Consent Manager für Websites. Die Kernbibliothek ist unter AGPL-3.0 verfügbar.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Klaro ist ein datenschutzorientiertes Consent-Management-Tool, das ausdrücklich für GDPR-Compliance entwickelt wurde. Es ist mit keinen Missbrauchsmustern verbunden."
+  },
+  "Klasha": {
+    "description": "Klasha ist ein Zahlungsanbieter, der den gesamten Checkout eines Shops abwickelt.",
+    "history": "Klasha ist ein nigerianisches Fintech für grenzüberschreitende Zahlungen, gegründet 2021. Es ermöglicht afrikanischen Unternehmen, internationale Zahlungen anzunehmen und zu senden. Das Unternehmen erhielt Seed-Finanzierung und unterstützt inzwischen mehrere afrikanische Währungen.",
+    "summary_abuse": "Klasha ist eine Zahlungsplattform und birgt damit grundsätzlich Risiken für Zahlungsbetrug oder Geldwäsche. Als afrikanisches Payments-Startup mit begrenzter regulatorischer Reife verfügt es möglicherweise über weniger ausgereifte Betrugserkennung als etablierte Zahlungsabwickler. Öffentlich dokumentierte grosse Betrugsfälle sind nicht bekannt."
+  },
+  "Klaviyo": {
+    "description": "Klaviyo ist eine E-Mail-Marketing-Plattform für Online-Unternehmen.",
+    "history": "Klaviyo wurde 2013 von Andrew Bialecki und Ed Hallen in Boston, Massachusetts, als E-Mail- und SMS-Marketing-Plattform mit Fokus auf E-Commerce gegründet. Das Unternehmen wurde zur dominierenden E-Mail-Marketing-Plattform für Shopify-Händler. Im September 2023 ging Klaviyo unter dem Ticker KVYO an die New York Stock Exchange und nahm 576 Millionen US-Dollar bei einer Bewertung von 9,2 Milliarden US-Dollar auf.",
+    "summary_abuse": "Klaviyos Infrastruktur für E-Mail- und SMS-Versand wird gelegentlich von Konten für Spam und Phishing genutzt, die die Erstprüfung bestanden haben. Als dominierende E-Mail-Marketing-Plattform im E-Commerce steht ein hohes Volumen legitimer Massenkommunikation neben einer dokumentierten Minderheit missbräuchlicher Konten. Klaviyo setzt Compliance-Richtlinien für E-Mail durch, überwacht Spam-Meldungen und sperrt verletzende Konten. Das ergibt eine moderate, aber kontrollierte Missbrauchsfläche, wie sie bei grossen Marketing-E-Mail-Plattformen typisch ist."
+  },
+  "Klaviyo Customer Hub": {
+    "description": "Klaviyo Customer Hub bietet Kunden ein einheitliches eingeloggtes Erlebnis, um Bestellungen zu verfolgen, Retouren zu verwalten und Hilfe zu erhalten.",
+    "history": "Klaviyo Customer Hub ist eine Produktfunktion, die Klaviyo um 2023 einführte; sie bietet ein gebrandetes Kundenportal, über das E-Commerce-Käufer Abonnemente, Bestellungen und Treuepunkte verwalten können. Die Funktion gehört zu Klaviyos breiterer Plattformausweitung über E-Mail-Marketing hinaus.",
+    "summary_abuse": "Es gibt keine eigenen Missbrauchssignale über die Klaviyo-Mutterplattform hinaus. Customer Hub ist eine Kundenportal-Funktion für E-Commerce und kein eigenständiges Produkt mit eigenen Missbrauchsvektoren."
+  },
+  "Klaviyo Data Platform": {
+    "description": "Klaviyo Data Platform ist Klaviyos CDP-Angebot.",
+    "history": "Klaviyo Data Platform, auch Klaviyo CDP genannt, ist eine Customer-Data-Platform-Funktion, die Klaviyo um 2022 als Teil der Expansion über E-Mail-Marketing hinaus einführte; sie vereinheitlicht Kundendaten aus mehreren Quellen, um feinere Segmentierung und Personalisierung zu ermöglichen.",
+    "summary_abuse": "Es gibt keine eigenen Missbrauchssignale über die Klaviyo-Mutterplattform hinaus. Als CDP-Produkt mit grossen Kundendatenbeständen liegt das Hauptproblem eher beim Datenschutz als bei direktem Missbrauch. Klaviyos Compliance-Zertifizierungen mindern zentrale Datenrisiken."
+  },
+  "Klaviyo Forms": {
+    "description": "Klaviyo Forms wird verwendet, um E-Mail- und SMS-Anmeldungen zu erfassen.",
+    "history": "Klaviyo Forms ist eine integrierte Funktion der Klaviyo-Plattform. Händler können damit Anmeldeformulare, Pop-ups und Fly-outs erstellen und einbetten, um E-Mail- und SMS-Abonnenten zu gewinnen. Die Funktion gehört seit den frühen Tagen zur Klaviyo-Plattform.",
+    "summary_abuse": "Es gibt keine eigenen Missbrauchssignale über die Klaviyo-Mutterplattform hinaus. Von Klaviyo-Nutzern eingebettete Anmeldeformulare können Verbraucherdaten erfassen. Das eigentliche Risiko liegt darin, wie Händler die gesammelten Daten verwenden, nicht im Formularwerkzeug selbst."
+  },
+  "Klaviyo Reviews": {
+    "description": "Klaviyo Reviews ist Klaviyos integriertes Angebot für Produktbewertungen auf Shopify und WooCommerce.",
+    "history": "Klaviyo Reviews ist eine Funktion für Produktbewertungen, die Klaviyo 2023 im Rahmen der breiteren Expansion zur Commerce-Plattform einführte. Händler können damit Produktbewertungen sammeln und anzeigen, integriert in ihre E-Mail- und SMS-Marketing-Workflows.",
+    "summary_abuse": "Es gibt keine eigenen Missbrauchssignale über die Klaviyo-Mutterplattform hinaus. Bewertungsfunktionen können durch Fake Reviews manipuliert werden, doch Klaviyos Integration mit verifizierten Kaufdaten senkt dieses Risiko gegenüber anonymen Bewertungsplattformen."
+  },
+  "Kleecks": {
+    "description": "Kleecks ist eine E-Commerce-Plattform der nächsten Generation für Performance- und UX-Optimierung, die Website-Geschwindigkeit verbessert, Nutzerinteraktionen vereinfacht und skalierbare digitale Abläufe unterstützt.",
+    "history": "Kleecks ist eine italienische Plattform für SEO- und Web-Performance-Optimierung, gegründet um 2015; sie bietet Server-Side Rendering und SEO-Automatisierung für Enterprise-E-Commerce-Websites.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Kleecks ist eine spezialisierte B2B-SEO-Plattform für Enterprise-Kunden und keine Endkundenplattform mit gängigen Missbrauchsvektoren."
+  },
+  "Kleeja": {
+    "description": "Kleeja ist eine PHP-basierte Lösung zum Verwalten von Datei-Upload-Diensten auf Websites.",
+    "history": "Kleeja ist ein arabisches Open-Source-Skript für Filesharing und Uploads, entwickelt um 2007. Es wird vor allem in der arabischen Welt genutzt, um File-Hosting-Websites aufzubauen, und ermöglicht eigene Portale für Datei-Upload und Teilen.",
+    "summary_abuse": "Kleeja ist ein Open-Source-File-Hosting-Skript, das historisch für Filesharing-Seiten in der arabischen Welt genutzt wurde. Auf Kleeja basierende Websites wurden zum Hosten von raubkopierter Software, urheberrechtlich geschützten Medien und Malware verwendet. Die geringe aktive Wartung erhöht das Missbrauchsrisiko durch ungepatchte Schwachstellen."
+  },
+  "Kleer": {
+    "description": "Kleer ist eine cloudbasierte Plattform, mit der Zahnärzte eigene Mitgliedschaftspläne gestalten, verwalten und direkt nicht versicherten Patienten anbieten können.",
+    "history": "Kleer ist eine argentinische Plattform für Agile-Training und Community, gegründet um 2015; sie konzentriert sich auf Coaching und Beratung für Organisationen in Lateinamerika, die agile Methoden einführen.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Kleer ist eine Trainings- und Beratungsplattform mit begrenzter Endkundenfläche und kein typischer Missbrauchsvektor."
+  },
+  "Klevu": {
+    "description": "Klevu ist eine hochentwickelte KI-gestützte Suchlösung für E-Commerce-Plattformen.",
+    "history": "Klevu ist eine finnische KI-gestützte Plattform für Produktsuche und Product Discovery, gegründet 2013; sie bietet intelligente Site Search und Produktempfehlungen für E-Commerce-Händler, mit tiefen Integrationen für Shopify, Magento und BigCommerce.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Klevu ist eine B2B-E-Commerce-Suchplattform ohne Endkundenfläche und mit abonnementsbasiertem Zugang, der Unternehmensprüfung voraussetzt."
+  },
+  "Klickly": {
+    "description": "Klickly ist eine einladungsbasierte, provisionsbasierte Werbeplattform.",
+    "history": "Klickly ist eine US-amerikanische Performance-Commerce-Plattform, gegründet 2014; sie ermöglicht Direct-to-Consumer-Marken, Produkte direkt in Werbeeinheiten auf Publisher-Websites zu verkaufen. Dafür stellt sie ein verteiltes Checkout-Erlebnis bereit, das in digitale Werbung eingebettet ist.",
+    "summary_abuse": "Klickly bettet Kaufprozesse in Werbeeinheiten ein, was gewisse Bedenken hinsichtlich irreführender Checkout-Erlebnisse in Anzeigen auslöst. Als Ad-Commerce-Plattform besteht ein moderates Risiko, für täuschende oder irreführende Produktwerbung genutzt zu werden."
+  },
+  "KlickPages": {
+    "description": "KlickPages ist eine Software für Landingpage-Management, mit der Unternehmen E-Mail-Marketing-Kampagnen durchführen und Leads erfassen können.",
+    "history": "KlickPages ist ein brasilianischer Landingpage-Builder und eine Plattform für Conversion-Optimierung, gegründet 2014 als Teil des Klick-Group-Ökosystems in Brasilien. Die Plattform ist im brasilianischen Digital-Marketing-Markt gewachsen und richtet sich vor allem an brasilianische Online-Marketer.",
+    "summary_abuse": "KlickPages ist ein Landingpage-Builder mit inhärentem Risiko für Missbrauch durch Phishing-Seiten oder Scam-Funnels. Brasilianische Digital-Marketing-Plattformen zeigten historisch höhere Anteile aggressiven Affiliate-Marketings und irreführender Angebote. Öffentlich dokumentierte grosse Missbrauchsfälle sind nicht bekannt."
+  },
+  "KlickTipp": {
+    "description": "KlickTipp ist ein E-Mail-Marketing-Dienst mit Funktionen für Unternehmen, darunter Newsletter-Erstellung, SMS-Funktionalität und Marketing-Automatisierung.",
+    "history": "KlickTipp ist eine deutsche Plattform für E-Mail-Marketing-Automatisierung, gegründet 2009, mit Fokus auf den DACH-Markt. Als deutsches Unternehmen betont KlickTipp GDPR-Compliance und positioniert sich als datenschutzorientierte Alternative zu US-amerikanischen E-Mail-Marketing-Tools.",
+    "summary_abuse": "KlickTipp ist eine E-Mail-Marketing-Plattform mit dem üblichen E-Mail-Missbrauchsrisiko durch Spam. Als deutsches Unternehmen hält es sich strikt an GDPR und deutsches Datenschutzrecht und vermarktet seine GDPR-Compliance ausdrücklich. Das Missbrauchsrisiko ist geringer als bei globalen Massenmarkt-Alternativen."
+  },
+  "Kliken": {
+    "description": "Kliken ist eine Shopping- und Anzeigenmarketing-Plattform, mit der Unternehmen Online-Werbekampagnen erstellen, verwalten und optimieren können.",
+    "history": "Kliken ist eine US-amerikanische Plattform für digitale Werbung und Google-Shopping-Automatisierung, gegründet um 2008; sie bietet Werbemanagement-Tools für kleine E-Commerce-Händler und automatisiert Google-Shopping- sowie Display-Ad-Kampagnen.",
+    "summary_abuse": "Kliken verwaltet bezahlte Werbekampagnen, was ein gewisses Risiko birgt, Traffic zu Scam-Shops zu leiten. Als kostenpflichtiges Ad-Management-Tool für kleine Unternehmen ist die Missbrauchsfläche geringer als bei kostenlosen Hosting-Plattformen für Endkunden."
+  },
+  "Klip": {
+    "description": "Klip ist ein Tool zum Erstellen von Coupons auf Produktseiten, um Kundenbindung, Conversions und Retention zu verbessern.",
+    "history": "Klipfolio, bekannt für sein Klip-Produkt, ist eine kanadische Business-Intelligence- und Dashboard-Plattform, gegründet 2001. Ursprünglich hiess das Unternehmen Serence und wurde 2011 in Klipfolio umbenannt. Es bietet Echtzeit-KPI-Dashboards für Unternehmen jeder Grösse und war über weite Teile seiner Geschichte bootstrapped.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Klipfolio ist ein B2B-Analytics- und Dashboard-Tool mit Abonnementpreisen. Die Plattform ist nicht mit typischen Missbrauchsvektoren verbunden."
+  },
+  "Klook": {
+    "description": "Klook ist ein Travel-Affiliate-System, das Nutzer mit unterschiedlichen Reisediensten und Erlebnissen verbindet.",
+    "history": "Klook ist eine in Hongkong ansässige Online-Plattform für Reiseaktivitäten und Erlebnisbuchungen, gegründet 2014 von Ethan Lin und Eric Gnock Fah; sie entwickelte sich zu einem der führenden Marktplätze für Reiseerlebnisse in Asien und nahm über 600 Millionen US-Dollar Finanzierung auf. COVID-19 traf das Unternehmen stark, nach der Pandemie erholte es sich wieder.",
+    "summary_abuse": "Bei Klook als Verbraucher-Marktplatz für Reisen gab es Berichte über betrügerische Aktivitätsangebote, Fake Reviews und Rückerstattungsstreitigkeiten. Die Plattform trägt typische Marktplatzrisiken, darunter betrügerische Händlerkonten und gefälschte Erlebnisangebote. Das Unternehmen moderiert Inhalte, die Durchsetzungsqualität variiert jedoch je nach Region."
+  },
+  "KMK": {
+    "description": "KMK ist ein Unternehmen, das E-Commerce-Softwaretechnologie für C2C-, B2B- und B2C-Bereiche anbietet.",
+    "history": "KMK Soft Solutions wurde 1998 ursprünglich in der Türkei gegründet und hat internationale Büros in Zypern. Das Unternehmen bietet KI-SaaS-Plattformen, E-Commerce-Infrastruktur und individuelle Softwareentwicklung. Es verfügt über mehr als 25 Jahre Erfahrung mit globalen Kunden.",
+    "summary_abuse": "Es gibt nur sehr begrenzte Informationen. KMK ist ein Softwareunternehmen türkischen Ursprungs mit einer internationalen Einheit in Zypern. Es wurden keine Vorfälle gefunden. Unklar bleibt, wofür die erkannte Technologie genau steht."
+  },
+  "Knack": {
+    "description": "Knack ist ein Tool zum Erstellen von Online-Datenbanken und Webanwendungen, mit dem individuelle Anwendungen ohne umfangreiche Programmierkenntnisse gebaut werden können.",
+    "history": "Knack ist ein US-amerikanischer No-Code-Builder für Datenbanken und Anwendungen, gegründet 2010 von Brian Luerssen. Er ermöglicht nicht technischen Nutzern, individuelle Web-Apps und Datenbanken ohne Coding zu erstellen. Das Unternehmen blieb bootstrapped und profitabel.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Knack ist ein B2B-No-Code-App-Builder, den Organisationen für interne Tools und Datenbanken nutzen. Die Plattform ist kein typischer Missbrauchsvektor."
+  },
+  "Knak": {
+    "description": "Knak ist eine Plattform mit anpassbaren E-Mail- und Landingpage-Vorlagen, die das Erstellen visuell ansprechender Marketingkampagnen vereinfacht.",
+    "history": "Knak ist eine kanadische Plattform zum Erstellen von E-Mails und Landingpages, gegründet 2015; sie richtet sich an Enterprise-Marketing-Teams, die Marketo, HubSpot, Eloqua und ähnliche Marketing-Automation-Plattformen nutzen. Nicht technische Marketer können damit komplexe E-Mail-Vorlagen erstellen.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Knak ist ein Enterprise-Builder für E-Mail-Vorlagen mit vertriebsgeführtem Zugang und kein typischer Missbrauchsvektor."
+  },
+  "Knit pay": {
+    "description": "Knit Pay ist eine Plattform zum Einziehen von Zahlungen und Verwalten von Unternehmen, mit Fokus auf die Sicherheit von Kundendaten.",
+    "history": "Knit Pay ist ein indisches WordPress-Plugin für Payment Gateways, erstmals um 2020 veröffentlicht. Es integriert verschiedene indische Zahlungs-Gateways in WordPress-basierte Mitgliedschafts- und Eventmanagement-Plugins und richtet sich vor allem an indische E-Commerce-Nutzer.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Knit Pay ist ein spezialisiertes WordPress-Zahlungsplugin für indische Payment Gateways. Als Zahlungsplugin könnten Sicherheitslücken ausgenutzt werden, doch auffällige Vorfälle sind nicht dokumentiert."
+  },
+  "Knock": {
+    "description": "Knock ist eine Plattform mit Einblicken in Marketing, Vermietung und Verlängerungen für den Immobiliensektor.",
+    "history": "Knock ist eine US-amerikanische Plattform für Notification-Infrastruktur, gegründet 2021; sie bietet APIs für In-App-Benachrichtigungen, E-Mail, SMS und Push Notifications für Entwicklerteams. Das Unternehmen nahm 10 Millionen US-Dollar in einer Series-A-Finanzierung auf.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Knock ist eine entwicklerorientierte API für Notification-Infrastruktur und keine Endkundenplattform mit typischen Missbrauchsmustern."
+  },
+  "Knock Knock App": {
+    "description": "Knock Knock App ist eine Videoanruf-Lösung für sofortige Kommunikation mit Website-Besuchern, um eingehende Anfragen zu optimieren und Verkäufe aus Website- und Landingpage-Traffic zu steigern.",
+    "history": "Knock Knock App scheint eine kleine mobile oder Web-Anwendung für Endkunden zu sein. Öffentlich ist nur sehr wenig zur Geschichte verfügbar. Wahrscheinlich handelt es sich um ein Solo- oder Kleinstteamprojekt mit minimaler öffentlicher Sichtbarkeit.",
+    "summary_abuse": "Zu Knock Knock App gibt es nur sehr wenige öffentliche Daten. Es handelt sich um eine kleine Consumer-App mit minimalen öffentlichen Informationen. Dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Knockout.js": {
+    "description": "Knockout.js ist eine in JavaScript geschriebene Bibliothek auf Basis des MVVM-Musters, mit der Entwickler reichhaltige und reaktionsfähige Websites bauen können.",
+    "history": "Knockout.js ist ein JavaScript-MVVM-Framework, das Steve Sanderson bei Microsoft entwickelte und 2010 als Open Source veröffentlichte. Es popularisierte deklaratives Data Binding für Webanwendungen. Auch wenn neuere Frameworks wie React und Vue inzwischen dominieren, bleibt Knockout in Enterprise-Legacy-Systemen weit verbreitet und erhält weiterhin Wartungsupdates.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Knockout.js ist ein clientseitiges JavaScript-Framework ohne serverseitige Komponente oder Hosting-Fläche. Es ist mit keinen Missbrauchsmustern verbunden."
+  },
+  "KnoCommerce": {
+    "description": "KnoCommerce ist ein System für Umfragen nach dem Kauf, das Kundenfeedback sammelt.",
+    "history": "KnoCommerce ist eine US-amerikanische Plattform für Post-Purchase-Umfragen und Attribution, gegründet um 2018; sie hilft E-Commerce-Marken zu verstehen, über welche Kanäle Kunden die Marke entdeckt haben, indem Kunden nach dem Kauf befragt werden.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. KnoCommerce ist ein B2B-Umfrage- und Analytics-Tool für E-Commerce und keine Endkundenplattform mit gängigen Missbrauchsvektoren."
+  },
+  "Knoma": {
+    "description": "Knoma ist eine Plattform, auf der Nutzer hunderte Kurse führender Schulen und Bootcamps durchsuchen können.",
+    "history": "Knoma ist ein britisches Fintech-Startup, gegründet um 2020. Es bietet Income Share Agreements und Buy-now-pay-later-Finanzierung für Online-Bildung und Weiterbildungskurse. Lernende können Kurse nach Arbeitsaufnahme bezahlen.",
+    "summary_abuse": "Knoma ist im Bereich Income Share Agreements tätig, der regulatorische Risiken und Verbraucherschuldenprobleme mit sich bringt. BNPL-ähnliche Finanzierung für Bildung hat im Vereinigten Königreich regulatorische Aufmerksamkeit erhalten. Es besteht ein gewisses Risiko, dass Verbraucher untragbare Schuldenverpflichtungen eingehen."
+  },
+  "Knorish": {
+    "description": "Knorish ist eine Plattform, mit der Nutzer Online-Kurse direkt über ihre eigenen Websites erstellen und verkaufen können.",
+    "history": "Knorish ist eine indische Plattform für Online-Kurserstellung und Knowledge Commerce, gegründet um 2017; sie richtet sich an Coaches, Trainer und Lehrpersonen in Indien, die Online-Kurse und digitale Produkte verkaufen wollen.",
+    "summary_abuse": "Knorish ist eine Online-Kursplattform mit inhärentem Risiko durch betrügerische oder minderwertige Kursangebote. Als indische Plattform mit Free Tier besteht eine gewisse Exposition gegenüber Scam-Kursanbietern. Spezifische grosse Vorfälle sind nicht dokumentiert."
+  },
+  "Ko-fi": {
+    "description": "Ko-fi ist eine Online-Plattform, über die Content Creator finanzielle Unterstützung erhalten können.",
+    "history": "Ko-fi ist eine britische Plattform zur Monetarisierung von Creators, gegründet 2012 von Simon Ellington; sie ermöglicht Creators, Trinkgelder und Spenden von Fans zu erhalten, und wurde später um Mitgliedschaften, Shop-Funktionen und Aufträge erweitert. Im Free Tier erhebt Ko-fi keine Plattformgebühr und unterscheidet sich damit von Patreon.",
+    "summary_abuse": "Ko-fi ist Betrugsrisiken durch falsche Fundraising-Kampagnen und Creator-Impersonation ausgesetzt. Einige Creator berichteten von betrügerischen Chargebacks nach erhaltenen Zahlungen. Ko-fi hat Richtlinien gegen Scams und Impersonation, doch als verbrauchernahe Spendenplattform trägt sie ein inhärentes Risiko. Insgesamt ist der Ruf in der Creator-Community positiv."
+  },
+  "Koa": {
+    "history": "Koa.js ist ein Node.js-Webframework, das vom Team hinter Express.js, darunter TJ Holowaychuk, entwickelt und 2013 erstmals veröffentlicht wurde. Es wurde als kleinerer, ausdrucksstärkerer Nachfolger von Express entworfen und nutzte async/await von Anfang an. Für die Entwicklung von Node.js-APIs bleibt es eine beliebte Wahl.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Koa ist ein serverseitiges Node.js-Framework ohne Hosting-Fläche. Es ist mit keinen Missbrauchsmustern verbunden."
+  },
+  "Koala": {
+    "description": "Koala ist ein Analytics-Produkt mit CRM-Funktionen, das Unternehmen hilft, potenzielle Kunden effizient zu erkennen und zu verfolgen, Einblicke zu gewinnen und den Vertriebsprozess zu straffen.",
+    "history": "Koala ist eine US-amerikanische B2B-Plattform für Intent-Daten und Sales Intelligence, gegründet 2021; sie verfolgt Intent-Signale von Website-Besuchern, damit Vertriebsteams kaufbereite Prospects identifizieren können. Das Unternehmen erhielt 10 Millionen US-Dollar Seed-Finanzierung.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Koala ist ein B2B-Sales-Intelligence-Tool, das Besucherverhalten für B2B-Vertriebsteams verfolgt. Dieses Tracking wirft Datenschutzfragen auf, die Nutzung zielt jedoch auf legitime Geschäftszwecke."
+  },
+  "Koala Framework": {
+    "description": "Koala Framework ist ein Open-Source-PHP-Webanwendungsframework für skalierbare und modulare Entwicklung, mit Fokus auf MVC-Architektur und komponentenbasiertes Design.",
+    "history": "Koala Framework ist ein aufgegebenes PHP-Framework, das um 2010 entstand. Die Dokumentation und Aktivität sind minimal, was darauf hindeutet, dass es ein kleines experimentelles Projekt war und nie breit angenommen wurde.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Koala Framework ist ein obskures, aufgegebenes PHP-Framework ohne Hosting-Fläche und ohne bekannte Missbrauchsmuster."
+  },
+  "Kobalte": {
+    "description": "Kobalte ist ein UI-Toolkit zum Erstellen barrierefreier Web-Apps und Designsysteme mit SolidJS.",
+    "history": "Kobalte ist eine Open-Source-Headless-UI-Komponentenbibliothek für SolidJS, erstmals 2022 veröffentlicht; sie bietet barrierefreie, ungestylte Primitives zum Aufbau von Designsystemen, ähnlich wie Radix UI, aber speziell für das SolidJS-Ökosystem entwickelt.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Kobalte ist eine UI-Komponentenbibliothek für SolidJS ohne serverseitige Komponente oder Hosting-Fläche."
+  },
+  "KobiMaster": {
+    "description": "KobiMaster ist eine E-Commerce-Plattform aus der Türkei.",
+    "history": "KobiMaster scheint eine kleine israelische SaaS-Plattform mit begrenzter öffentlicher Geschichte zu sein. Zum Unternehmen und seinen Produkten sind nur minimale öffentliche Informationen verfügbar.",
+    "summary_abuse": "Zu KobiMaster gibt es nur sehr wenige öffentliche Daten. Es handelt sich um einen kleinen SaaS-Anbieter mit minimaler öffentlicher Präsenz. Dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Kochava": {
+    "description": "Kochava ist eine einheitliche Plattform für Audience Attribution und Analytics, die genaue Messung und Optimierung von Marketingleistung über Kanäle hinweg ermöglicht.",
+    "history": "Kochava ist eine US-amerikanische Plattform für Mobile Measurement und Attribution, gegründet 2011; sie bietet App Analytics, Attribution und Zielgruppendaten für Mobile Advertiser. 2023 reichte die FTC eine Klage ein, in der sie Kochava vorwarf, präzise Geolocation-Daten über Personen verkauft zu haben, die sensible Orte wie Einrichtungen für reproduktive Gesundheit und Gebetsstätten besuchten.",
+    "summary_abuse": "Kochava wurde 2023 von der FTC verklagt, weil das Unternehmen präzise Geolocation-Daten über Konsumenten verkauft haben soll, die sensible Orte besuchten. Laut FTC könnten diese Daten genutzt werden, um Besuche bei Einrichtungen für reproduktive Gesundheit, Gebetsstätten und Suchthilfezentren nachzuverfolgen. Das ist ein erhebliches Datenschutz- und Missbrauchsrisiko. Kochava bestreitet die Vorwürfe, das Verfahren läuft weiter."
+  },
+  "Koha": {
+    "description": "Koha ist ein Open-Source Integrated Library System (ILS).",
+    "history": "Koha ist ein Open-Source Integrated Library System (ILS), das 1999 in Neuseeland von Katipo Communications für den Horowhenua Library Trust erstellt wurde. Damit gilt es als weltweit erstes freies und quelloffenes ILS. Heute wird es von tausenden Bibliotheken weltweit genutzt und von einer globalen Contributor-Community gepflegt.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Koha ist ein Bibliotheksmanagementsystem, das von Bibliotheken weltweit eingesetzt wird. Es hat keine Endkunden-Hosting-Fläche und ist mit keinen Missbrauchsmustern verbunden."
+  },
+  "Kohana": {
+    "description": "Kohana ist ein Open-Source-PHP-Webframework zum Erstellen von Webanwendungen nach dem Model-View-Controller-Architekturmuster (MVC).",
+    "history": "Kohana ist ein PHP-Framework, das 2007 als Fork von CodeIgniter entstand. Community-Mitglieder wollten saubereren Code und bessere PHP-5-Unterstützung. Es war Ende der 2000er Jahre populär, doch die Entwicklung wurde um 2016 aufgegeben und das Framework wird heute nicht mehr gewartet.",
+    "summary_abuse": "Es gibt kein direktes Missbrauchssignal, aber Kohana ist ein aufgegebenes PHP-Framework mit bekannten Sicherheitslücken, die seit etwa 2016 ungepatcht bleiben. Websites, die weiterhin Kohana betreiben, haben wegen ungepatchter CVEs ein erhöhtes Ausnutzungsrisiko."
+  },
+  "Koishi.js": {
+    "description": "Koishi.js ist ein plattformübergreifendes Chatbot-Framework.",
+    "history": "Koishi.js ist ein chinesisches Open-Source-Chatbot-Framework zum Erstellen von Bots für Messaging-Plattformen wie Discord, Telegram, QQ und andere. Es wurde um 2020 erstmals veröffentlicht und ist vor allem in der chinesischen Entwicklercommunity beliebt.",
+    "summary_abuse": "Koishi.js ist ein Chatbot-Framework und kann grundsätzlich zum Bau von Spam-Bots oder automatisierten Missbrauchswerkzeugen genutzt werden. Als selbst gehostetes Framework mit legitimen Einsatzfällen ist es nicht von Natur aus missbräuchlich, könnte aber missbraucht werden."
+  },
+  "Koken": {
+    "description": "Koken ist ein kostenloses Website-Publishing-System für Fotografen, Designer, Künstler und kreative DIY-Nutzer.",
+    "history": "Koken ist ein selbst gehostetes Fotografie-CMS, erstellt von The Bold Collective und erstmals 2012 veröffentlicht. Es wurde speziell für Fotografen entwickelt, um Portfolios zu präsentieren. Die Entwicklung ist in den letzten Jahren weitgehend ins Stocken geraten, mit nur minimalen Updates.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Koken ist ein selbst gehostetes Fotografie-CMS mit begrenzter Endkundenfläche. Da die Entwicklung langsamer geworden ist, können ungepatchte Sicherheitslücken Risiken für Nutzer darstellen, die die Software weiterhin betreiben."
+  },
+  "Kommand": {
+    "description": "Kommand ist eine All-in-one-Lösung für Marketing, Shop-Management und Website-Entwicklung.",
+    "history": "Kommand ist eine kleine SaaS-Plattform mit begrenzter öffentlicher Geschichte. Öffentlich sind nur sehr wenige Informationen verfügbar. Es scheint sich um ein kleines Startup für Business-Automation oder Command-Line-Tools zu handeln.",
+    "summary_abuse": "Zu Kommand gibt es nur sehr wenige öffentliche Daten. Es handelt sich um eine kleine Plattform mit minimaler öffentlicher Präsenz. Dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Kommi": {
+    "description": "Kommi ist ein Anbieter digitaler Marketingdienstleistungen.",
+    "history": "Kommi ist ein deutsches Startup für Kommunikations- oder Community-Tools mit sehr begrenzter öffentlicher Geschichte. Es scheint ein kleines Startup mit geringer Marktpräsenz zu sein.",
+    "summary_abuse": "Zu Kommi gibt es nur sehr wenige öffentliche Daten. Es handelt sich um eine kleine Plattform mit minimaler öffentlicher Präsenz. Dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Komodo CMS": {
+    "history": "Komodo CMS ist ein kleines Open-Source-CMS mit sehr begrenzter öffentlicher Dokumentation. Es scheint ein ruhendes Projekt mit minimaler Verbreitung zu sein und ist nicht mit der Komodo-Blockchain-Plattform zu verwechseln.",
+    "summary_abuse": "Für Komodo CMS gibt es keine wesentlichen Missbrauchsberichte. Es ist ein spezialisiertes, ruhendes CMS-Projekt mit minimaler öffentlicher Sichtbarkeit."
+  },
+  "Konduto": {
+    "description": "Konduto ist ein Dienst zur Betrugserkennung für E-Commerce.",
+    "history": "Konduto ist eine brasilianische Anti-Fraud-Plattform, gegründet 2014; sie bietet maschinelles Lernen zur Erkennung von Zahlungsbetrug für E-Commerce-Unternehmen und gehört zu den führenden Fraud-Prevention-Diensten in Brasilien und Lateinamerika.",
+    "summary_abuse": "Konduto ist eine Anti-Fraud-Plattform, die gezielt Missbrauch in der Zahlungsabwicklung erkennen und verhindern soll. Als Fraud-Prevention-Tool verbessert sie die Sicherheit und es sind keine bekannten Fälle dokumentiert, in denen die Plattform selbst missbräuchlich genutzt wurde."
+  },
+  "Konfidency Reviews": {
+    "description": "Konfidency Reviews ist eine Plattform, die Vertrauen aufbaut, organischen Traffic stärkt und Kaufentscheidungen durch Bewertungen von Kunden unterstützt, die mit den Produkten vertraut sind.",
+    "history": "Konfidency Reviews ist eine brasilianische Plattform für Produktbewertungen und Social Proof, gegründet um 2019; sie richtet sich an E-Commerce-Unternehmen in Brasilien und bietet verifizierte Bewertungen sowie UGC-Tools für Online-Shops.",
+    "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Konfidency ist eine B2B-Produktbewertungsplattform für brasilianischen E-Commerce. Bewertungsplattformen bergen grundsätzlich das Risiko von Fake-Review-Manipulation, konkrete Vorfälle sind jedoch nicht dokumentiert."
+  },
+  "Kong": {
+    "description": "Kong ist ein Open-Source-API-Gateway und eine Plattform, die als Middleware zwischen Compute-Clients und API-zentrierten Anwendungen dient.",
+    "history": "Kong ist ein Open-Source-API-Gateway und Service Mesh, ursprünglich 2015 von Mashape erstellt, das später in Kong Inc. umbenannt wurde. Es basiert auf Nginx/OpenResty und wurde zum am weitesten verbreiteten Open-Source-API-Gateway. Kong Inc. wurde 2011 gegründet und nahm über 100 Millionen US-Dollar Venture Capital auf.",
+    "summary_abuse": "Es gibt kein Missbrauchssignal. Kong ist ein Infrastrukturwerkzeug für API-Gateways, das in Enterprise-Rechenzentren eingesetzt wird. Es hat keine Endkundenfläche und ist mit keinen Missbrauchsmustern verbunden."
+  },
+  "Konget": {
+    "description": "Konget ist eine Plattform, die Anwendungen zur Leadgenerierung, einen Builder für automatisierte ausgehende Anrufe sowie eine Suite für Marketingstatistiken und Analytics integriert.",
+    "history": "Konget ist eine russische Plattform für Marketing-Automatisierung und Analytics mit Leadgenerierung, automatisierten ausgehenden Anrufen und Marketingstatistiken; sie richtet sich an russische KMU und Midmarket-Unternehmen und operiert aus Russland. Zum genauen Gründungsdatum und zur Eigentümerschaft sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "Konget ist eine russische Marketing-Automation-Plattform mit Outbound-Call-Automation und Leadgenerierungsfunktionen. Tools mit Massen-Outbound-Fähigkeiten bergen inhärente Risiken für Spam und unerwünschte Kaltakquise, auch wenn für Konget keine konkreten Missbrauchsfälle dokumentiert wurden. Der Betrieb aus Russland, wo die Aufsicht über Outbound-Kommunikation anders ausgestaltet ist als in EU oder USA, erhöht das Risiko leicht."
+  },
+  "Kontent.ai": {
+    "description": "Kontent.ai ist eine SaaS-basierte modulare Content-Plattform.",
+    "history": "Kontent.ai wurde 2015 in Brno, Tschechien, als internes Startup innerhalb von Kentico Software gegründet. Es startete zunächst als Kentico Kontent, eine SaaS-Headless-CMS-Plattform. 2022 wurde das Produkt aus Kentico ausgegliedert, als unabhängiges Unternehmen unter Kontent.ai neu positioniert und erhielt institutionelle Finanzierung von Expedition Growth Capital. Das Unternehmen ist global tätig und beschäftigt über 100 Mitarbeitende in sechs Büros.",
+    "summary_abuse": "Kontent.ai ist eine B2B-Headless-CMS-Plattform ohne auffällige Missbrauchssignale. Als Content-Management-System, das vor allem von Unternehmen und Digitalteams genutzt wird, bietet es keine Endkunden-Hosting-Fläche, die Phishing- oder Scam-Missbrauch anziehen würde. Die Plattform verlangt Kontoregistrierung und wird nicht für beliebiges öffentliches Content-Hosting verwendet. Kontent.ai pflegt eine aktive Sicherheits- und Compliance-Haltung mit SOC 2 Type 2, ISO 27001 und GDPR-Zertifizierungen sowie einer veröffentlichten Responsible-Disclosure-Policy."
+  },
+  "Konva.js": {
+    "description": "Konva.js ist eine JavaScript-Bibliothek zum Erstellen von 2D-Canvas-Anwendungen auf Desktop- und mobilen Plattformen mit HTML5.",
+    "history": "Konva.js wurde 2014 von Anton Lavrenov als Fork von KineticJS erstellt, das ursprünglich von Eric Rowell von 2011 bis 2013 entwickelt wurde. Es ist eine MIT-lizenzierte HTML5-Canvas-2D-Bibliothek mit objektorientierter API, Animationen, Drag-and-drop und Framework-Integrationen für React, Vue, Svelte und Angular.",
+    "summary_abuse": "Konva.js ist eine clientseitige JavaScript-Canvas-Bibliothek ohne Endkundenfläche, die Betrüger typischerweise ausnutzen. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "KoobCamp": {
+    "description": "KoobCamp ist ein Anbieter von Lösungen für Camping-, Ferienpark- und Glamping-Urlaub.",
+    "history": "KoobCamp wurde 2006 in Turin, Italien, gegründet und betreibt ein internationales Tourismusnetzwerk, das Campingplätze und Ferienparks über mehr als 30 spezialisierte Portale in Europa mit Reisenden verbindet.",
+    "summary_abuse": "KoobCamp ist eine spezialisierte Tourismus-Buchungsplattform für Campingplätze und Ferienparks in Europa. Es gibt kein dokumentiertes Missbrauchssignal."
+  },
+  "Koobi": {
+    "history": "Koobi ist ein PHP-basiertes CMS, entwickelt von Dream4, einem deutschen Unternehmen, das 2002 von Björn Wunderlich in Weinheim gegründet wurde. Koobi 7 war die bekannteste Version. Das Produkt hat mehrere bekannte SQL-Injection-CVEs aus den 2000er Jahren und scheint weitgehend ruhend zu sein.",
+    "summary_abuse": "Koobi ist ein deutsches Legacy-CMS mit dokumentierten SQL-Injection-Schwachstellen, darunter CVEs aus den späten 2000er Jahren, die ungepatchte Websites Angriffen aussetzen können. Das Produkt scheint ruhend zu sein. Eine Nutzung in aktiven Missbrauchskampagnen ist nicht dokumentiert."
+  },
+  "Kooboo CMS": {
+    "description": "Kooboo ist ein Content-Management-System (CMS) und Webentwicklungsframework zum Erstellen und Verwalten von Websites und Webanwendungen.",
+    "history": "Kooboo CMS ist ein Open-Source-CMS und eine Anwendungsentwicklungsplattform auf .NET-Basis, entwickelt von einem Team in Xiamen, China. Das GitHub-Repository zeigt seit etwa 2010 aktive Entwicklung. Das Projekt veröffentlichte eine Open-Source-Version unter der Eclipse Public License.",
+    "summary_abuse": "Kooboo CMS ist ein selbst gehostetes Open-Source-CMS. Bei selbst gehosteten Plattformen hängt das Missbrauchsrisiko von der Konfiguration durch die Betreiber ab. Plattformweite Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "Kooomo": {
+    "description": "Kooomo ist eine SaaS-E-Commerce-Plattform mit Fokus auf Lokalisierung und Internationalisierung.",
+    "history": "Kooomo wurde 2000 in Dublin, Irland, von Giovanni Meda gegründet. Es ist eine cloudbasierte SaaS-E-Commerce-Plattform für Marken und Unternehmen, mit Schwerpunkt auf europäischen Märkten.",
+    "summary_abuse": "Kooomo ist eine B2B-E-Commerce-SaaS-Plattform für Marken und Unternehmen; sie hat keine auffällige Endkundenfläche und kein dokumentiertes Missbrauchssignal."
+  },
+  "Kopage": {
+    "description": "Kopage ist ein KI-gestützter Website-Builder, der das Erstellen und Verwalten von Websites vereinfacht und automatisierte Werkzeuge bietet, mit denen Nutzer ohne umfangreiches technisches Wissen funktionale Websites bauen können.",
+    "history": "Kopage wurde 2012 gegründet und ist ein White-Label-Website-Builder mit KI-Funktionen, den Webhosting-Unternehmen ihren Kunden anbieten können. Die Plattform nutzt eine selbst gehostete Architektur und ein Reseller-Modell.",
+    "summary_abuse": "Kopage ist ein White-Label-Website-Builder, der an Webhoster vertrieben wird. Als Reseller-Plattform hängt die tatsächliche Missbrauchsfläche vom jeweiligen Hosting-Anbieter ab, der sie einsetzt. Dokumentierte plattformweite Missbrauchsmuster gibt es nicht."
+  },
+  "Kotisivukone": {
+    "description": "Kotisivukone ist eine finnische Website-Builder-Plattform.",
+    "history": "Kotisivukone, Finnisch für Homepage-Maschine, wurde 2001 als finnischer Website-Builder gegründet und entwickelte sich über die Jahre zu einer Lösung für responsive Website-Erstellung inklusive Hosting, vor allem für finnische Kleinunternehmen.",
+    "summary_abuse": "Kotisivukone ist ein finnischer Website-Builder für kleine Unternehmen. Die Reichweite ausserhalb Finnlands ist begrenzt und es gibt keine auffälligen dokumentierten Missbrauchsmuster."
+  },
+  "Kotlin": {
+    "description": "Kotlin ist eine allgemeine, freie, quelloffene und statisch typisierte „pragmatische“ Programmiersprache, die ursprünglich für die JVM (Java Virtual Machine) und Android entwickelt wurde und objektorientierte mit funktionalen Programmiermerkmalen verbindet.",
+    "history": "Kotlin wurde im Juli 2011 von JetBrains angekündigt und im Februar 2012 unter Apache 2.0 als Open Source veröffentlicht. Die erste stabile Version 1.0 erschien im Februar 2016. Im Mai 2019 erklärte Google Kotlin zur bevorzugten Sprache für Android-Entwicklung, was die Verbreitung in der Branche stark beschleunigte.",
+    "summary_abuse": "Kotlin ist eine allgemeine Programmiersprache ohne Endkundenfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Kount": {
+    "description": "Kount ist eine Suite von Lösungen zur Betrugserkennung und Betrugsprävention für E-Commerce-Unternehmen.",
+    "history": "Kount wurde 2007 in Boise, Idaho, als Plattform zur Betrugsprävention gegründet. Equifax übernahm Kount im Januar 2021 für 640 Millionen US-Dollar und ordnete es der Daten- und Analytics-Geschäftseinheit von Equifax zu.",
+    "summary_abuse": "Kount ist ein Dienst zur Betrugserkennung und -prävention und dient eher der Bekämpfung von Missbrauch als seiner Ermöglichung. Die Plattform verarbeitet grosse Mengen an Transaktionsdaten, um Betrugssignale zu erkennen, darunter sensible Finanz- und Verhaltensdaten. Ein auffälliger Missbrauch der Plattform selbst ist nicht dokumentiert."
+  },
+  "KPHP": {
+    "description": "KPHP (kPHP oder KittenPHP) ist ein freier Source-to-source-Translator von PHP nach C++, entwickelt von VKontakte.",
+    "history": "KPHP ist ein PHP-zu-C++-Compiler, der über Jahre intern von VK.com, Russlands grösstem sozialen Netzwerk, entwickelt wurde, bevor er Ende 2020 unter GPL-3.0 als Open Source veröffentlicht wurde. Er kompiliert eine Teilmenge von PHP zu nativem Code und erreicht Leistungssteigerungen um den Faktor 3 bis 10. Bei VK.com wird er in sehr grossem Massstab eingesetzt.",
+    "summary_abuse": "KPHP ist ein GPL-3.0-Open-Source-PHP-Compiler von VK.com aus Russland. Die russische Kontrolle bringt seit den Sanktionen nach 2022 geopolitische Bedenken für westliche Deployments mit sich. Es wurde kein bösartiger Code gefunden, doch die Herkunft rechtfertigt genaue Prüfung bei sensiblen Einsatzumgebungen."
+  },
+  "KQS.store": {
+    "description": "KQS.store ist eine E-Commerce-Software.",
+    "history": "KQS.store ist eine sehr kleine E-Commerce-Plattform mit weniger als 0,1 Prozent Marktanteil. Wappalyzer erkennt nur etwa 32 aktive Websites. Aufgrund der Namensmuster ist ein russischer Ursprung wahrscheinlich. Öffentlich sind nur sehr wenige Informationen verfügbar.",
+    "summary_abuse": "KQS.store ist eine extrem obskure E-Commerce-Plattform. Für eine belastbare Einschätzung gibt es zu wenig Daten. Ein möglicher russischer Ursprung rechtfertigt Vorsicht. Die Verbreitung ist mit 32 bekannten Websites sehr gering."
+  },
+  "Kreatio": {
+    "description": "Kreatio ist ein Content-Management-System, das digitale Publishing-Prozesse effizienter machen und die Auslieferung von Inhalten straffen soll.",
+    "history": "Kreatio wurde 2007 in Bengaluru, Indien, als digitale Publishing-Plattform gestartet und 2012 als eigenständiges Unternehmen eingetragen. Die Plattform bedient kleine und mittelgrosse Publisher mit CMS, Abonnementverwaltung und Newsletter-Tools.",
+    "summary_abuse": "Kreatio ist eine Publishing-CMS-Plattform für Medienunternehmen; sie hat keine auffällige Endkundenfläche für Betrug und keine dokumentierten Missbrauchsvorfälle."
+  },
+  "Krible": {
+    "description": "Krible ist eine Live-Chat-Management-Plattform für Echtzeitinteraktionen und Support mit Kunden.",
+    "history": "Krible ist eine russische Live-Chat-Management-Plattform für Kundensupport in Echtzeit. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Krible ist eine kleine russische Live-Chat-Plattform ohne auffälliges Missbrauchssignal. Der Sitz in Russland wirft für nicht russische Unternehmen allgemeine Fragen zur Datenresidenz auf."
+  },
+  "Kross Booking": {
+    "description": "Kross Booking ist ein Buchungsmanagementsystem, das Reservierungen, Terminplanung und Ressourcenzuteilung automatisiert, um operative Abläufe zu straffen.",
+    "history": "Kross Booking ist eine italienische cloudbasierte Hotelmanagement-Suite, entwickelt von Solutions Plus srl, einem Unternehmen mit über 20 Jahren Erfahrung in der Softwareentwicklung; sie richtet sich an kleine und mittelgrosse Betriebe im Gastgewerbe.",
+    "summary_abuse": "Kross Booking ist ein Hospitality-Management-SaaS für Hotels und B&Bs. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Kssib": {
+    "description": "Kssib ist eine Plattform aus dem Nahen Osten, die integrierte E-Commerce-Lösungen bereitstellt.",
+    "history": "Kssib ist eine E-Commerce-Plattform aus dem Nahen Osten, die integrierte Lösungen für Online-Shops anbietet. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Kssib ist eine kleine E-Commerce-Plattform aus dem Nahen Osten ohne auffälliges Missbrauchssignal. Spezifischer Betrugs- oder Scam-Missbrauch ist nicht dokumentiert."
+  },
+  "Ktor": {
+    "description": "Ktor ist ein Kotlin-Framework, mit dem Entwickler asynchrone Client- und Serveranwendungen in Kotlin schreiben können.",
+    "history": "Ktor ist ein asynchrones Kotlin-Webframework von JetBrains. Die Entwicklung begann etwa 2017, im November 2018 erreichte es mit Version 1.0 einen stabilen Stand. Es basiert auf Kotlin Coroutines und unterstützt sowohl Serveranwendungen als auch Multiplatform-Clients.",
+    "summary_abuse": "Ktor ist ein server- und clientseitiges Kotlin-Framework. Es hat keine Oberfläche für Endnutzer und kein auffälliges Missbrauchssignal."
+  },
+  "Kubernetes Dashboard": {
+    "history": "Kubernetes Dashboard war die offizielle allgemeine Weboberfläche für Kubernetes-Cluster und Teil des breiteren Kubernetes-Projekts unter dem Dach der CNCF. Das Projekt wurde archiviert und offiziell als veraltet markiert, während die Community auf Alternativen wie Headlamp umgestiegen ist.",
+    "summary_abuse": "Kubernetes Dashboard ist ein Werkzeug zur Cluster-Administration, das in privater Infrastruktur betrieben wird. Es hat keine Oberfläche für Endnutzer und kein auffälliges Missbrauchssignal. Falsch konfigurierte Instanzen wurden in der Vergangenheit jedoch von Angreifern für Cryptomining ausgenutzt, wenn sie im Internet erreichbar waren."
+  },
+  "Kubio Builder": {
+    "description": "Kubio Builder ist ein WordPress-Site-Builder, mit dem sich alle Elemente einer Website in einer einzigen Oberfläche bearbeiten lassen.",
+    "history": "Kubio Builder ist ein WordPress-Gutenberg-Page-Builder-Plugin von ExtendThemes. Es wurde etwa 2021 mit einer kostenlosen Version auf WordPress.org und einer Premium-Stufe mit erweiterten Funktionen lanciert.",
+    "summary_abuse": "Kubio Builder ist ein selbst gehostetes WordPress-Plugin. Es hat keine gehostete Oberfläche für Endnutzer und kein dokumentiertes Missbrauchssignal."
+  },
+  "Kudobuzz": {
+    "description": "Kudobuzz ist ein Werkzeug zum Sammeln und Verwalten von Kundenbewertungen.",
+    "history": "Kudobuzz wurde 2013 in Accra, Ghana, gegründet und entstand aus der Meltwater Entrepreneurial School of Technology (MEST). Der Dienst hilft KMU, Kundenbewertungen aus sozialen Plattformen zu sammeln und anzuzeigen, unterstützt durch 500 Global.",
+    "summary_abuse": "Kudobuzz bündelt Kundenbewertungen für E-Commerce-Shops. Es hat keine auffällige Oberfläche für verbraucherseitigen Betrug. Gefälschte Bewertungen sind für jede Bewertungsplattform ein theoretisches Risiko, für Kudobuzz sind jedoch keine konkreten Vorfälle dokumentiert."
+  },
+  "Kueez": {
+    "description": "Kueez ist eine Plattform mit datengetriebenen Lösungen, die Publishern helfen, ihre Werbestrategien zu verbessern.",
+    "history": "Kueez wurde 2015 in Israel von Ori Mendi, Shahaf Kimhi und Daniel Tony gegründet. Die Unterhaltungsplattform bietet Quizze und kurze Spiele, die auf hohe Interaktion und Teilen in sozialen Netzwerken ausgelegt sind.",
+    "summary_abuse": "Kueez ist eine werbefinanzierte Quiz- und Unterhaltungsplattform. Solche Plattformen haben häufig eine hohe Tracker-Dichte und können irreführende Werbung oder Clickbait verbreiten. Das kostenlose Verbrauchermodell ist werbegetrieben, was die Exposition gegenüber minderwertigen Werbenetzwerken erhöht."
+  },
+  "KueskiPay": {
+    "description": "KueskiPay ist eine Buy-now-pay-later-Lösung.",
+    "history": "Kueski wurde 2012 in Mexiko gegründet, um unterversorgten Konsumenten Privatkredite anzubieten. 2021 lancierte das Unternehmen Kueski Pay, ein Buy-now-pay-later-Produkt, und wurde mit Partnerschaften wie Amazon Mexico zum führenden BNPL-Anbieter Mexikos.",
+    "summary_abuse": "KueskiPay ist eine BNPL-Zahlungsmethode, die vor allem in Mexiko genutzt wird. Als Finanzprodukt verarbeitet sie Daten zur Konsumentenkreditvergabe. BNPL-Produkte sind allgemein einem gewissen Betrugsrisiko durch synthetische Identitäten ausgesetzt, KueskiPay nutzt jedoch KI-basiertes Credit Scoring. Es sind keine konkreten Missbrauchsvorfälle dokumentiert."
+  },
+  "KUKUI": {
+    "description": "KUKUI ist eine Komplettlösung für Werkstattmarketing, die Rentabilität steigern, Lead-Management vereinfachen und Kundenbindung verbessern soll.",
+    "history": "KUKUI wurde 2011 in San Jose, Kalifornien, gegründet. Das Unternehmen bietet eine All-in-one-Marketingplattform für Autowerkstätten mit Website-, CRM- und POS-Integrationen. Es sammelte 28,6 Millionen US-Dollar von SSM Partners ein, bedient mehr als 2'000 Autowerkstätten und erreichte Platz 76 der Inc. 500-Liste der am schnellsten wachsenden Unternehmen.",
+    "summary_abuse": "Keine Missbrauchshistorie bekannt. KUKUI ist eine Nischenplattform für Automobilmarketing und sammelt Kundendaten für Autowerkstätten. Öffentliche Sicherheitsinformationen sind begrenzt."
+  },
+  "Kulea Marketing": {
+    "description": "Kulea Marketing ist ein Anbieter von Inbound-Marketing- und Marketing-Automation-Software, die Kampagnenmanagement und Kundenbindung vereinfachen soll.",
+    "history": "Kulea wurde 2015 von Marketern in Buckingham, England, am Standort Bletchley Park gegründet. Die Plattform richtet sich mit Marketing Automation an Digitalagenturen und KMU, erste kommerzielle Verkäufe folgten 2018.",
+    "summary_abuse": "Kulea Marketing ist eine B2B-Plattform für Marketing Automation; sie hat keine auffällige Oberfläche für Endnutzer und kein dokumentiertes Missbrauchssignal."
+  },
+  "Kundo": {
+    "description": "Kundo ist ein Kundenservice-System für alle digitalen Kanäle, das mit KI und Automatisierung bei der Bearbeitung von Anfragen hilft.",
+    "history": "Kundo wurde 2009 in Stockholm, Schweden, von Bjorn Lilja, Emil Stenstrom und Jonatan Larsson gegründet. Die Kundenservice-Plattform bedient vor allem nordische Märkte. Das Unternehmen hat in Cloud Capital investiert und sich zu einer AI-first-Plattform für Service Experience weiterentwickelt.",
+    "summary_abuse": "Kundo ist eine B2B-Kundenservice-Plattform, die vor allem nordische Unternehmen bedient. Es gibt kein auffälliges Missbrauchsrisiko für Endnutzer und keine dokumentierten Vorfälle."
+  },
+  "Kuroco": {
+    "description": "Kuroco ist eine API-zentrierte Plattform, mit der Entwickler anpassbare APIs erstellen, Inhalte verwalten und ein CDN für schnelle Auslieferung über verschiedene Geräte nutzen können.",
+    "history": "Kuroco ist ein Headless CMS, das von Diverta Inc. entwickelt und gepflegt wird, einem japanischen CMS-Unternehmen aus dem Jahr 2005. Die offizielle Version von Kuroco erschien im April 2021 und entstand aus Divertas früherem RCMS-Produkt, das seit über 20 Jahren entwickelt wird.",
+    "summary_abuse": "Kuroco ist ein Headless CMS für Enterprise-Publisher. Es hat keine gehostete Content-Oberfläche für Endnutzer und kein dokumentiertes Missbrauchssignal."
+  },
+  "KuronekoServer CDN": {
+    "description": "KuronekoServer CDN ist ein verteiltes Content Delivery Network, das VPS und Cloudflare nutzt, um Performance und Zuverlässigkeit zu verbessern.",
+    "history": "KuronekoServer CDN wird seit 2018 von einer freiwilligen studentischen Organisation in Japan betrieben. Der Dienst bietet vor allem VRChat-Nutzern kostenloses CDN, Mirror-Hosting und Bildauslieferung.",
+    "summary_abuse": "KuronekoServer CDN ist ein kostenloses CDN, das von japanischen Studierenden freiwillig betrieben wird. Kostenlose File-Hosting-Dienste mit offenem Upload können für Malware-Verteilung oder Phishing-Kits missbraucht werden, dieser Dienst ist jedoch sehr klein und community-orientiert, ohne dokumentierte Missbrauchsfälle."
+  },
+  "Kustomer": {
+    "description": "Kustomer ist eine CRM-Plattform.",
+    "history": "Kustomer wurde 2015 in New York von Brad Birnbaum und Jeremy Suriel gegründet. Meta (Facebook) übernahm das Unternehmen im Februar 2022 für rund 1 Milliarde US-Dollar. Im Mai 2023 gliederte Meta Kustomer mit einer Bewertung von 250 Millionen US-Dollar wieder aus, wobei ursprüngliche Investoren erneut 60 Millionen US-Dollar investierten.",
+    "summary_abuse": "Kustomer ist eine B2B-Plattform für CRM und Kundenservice; sie verarbeitet Daten aus Kundeninteraktionen, hat aber keine Oberfläche für Endnutzer, die typischerweise für Betrug ausgenutzt wird. Es sind keine auffälligen Missbrauchsvorfälle dokumentiert."
+  },
+  "KVCore": {
+    "description": "KVCore ist eine All-in-one-Immobilientechnologieplattform für Makler, Teams und Broker, die CRM, Lead-Generierung, Marketing Automation und Transaktionstools in einem System bündelt.",
+    "history": "kvCORE, ursprünglich Kunversion, wurde 2017 von Inside Real Estate unter neuem Namen lanciert. Die Plattform wird von mehr als 250'000 Immobilienmaklern und über 190'000 zahlenden Nutzern verwendet und bietet mehr als 470 MLS-Integrationen. Mitte 2024 benannte Inside Real Estate kvCORE mit erweiterten KI-Funktionen in BoldTrail um.",
+    "summary_abuse": "Keine grösseren Missbrauchsvorfälle bekannt. Das Immobilien-CRM sammelt Lead-Daten von Kunden und wurde 2024 in BoldTrail umbenannt. Einige Nutzer beschweren sich, dass KI-gestützte Lead-Generierungsanrufe zu aggressiv seien."
+  },
+  "Kwai pixel": {
+    "description": "Kwai ist ein soziales Netzwerk für Kurzvideos und Trends.",
+    "history": "Kwai pixel ist das Werbe-Conversion-Tracking-Pixel für Kwai, die internationale Marke von Kuaishou, einer chinesischen Kurzvideoplattform, die 2011 von Su Hua und Cheng Yixiao mitgegründet wurde. Kuaishou Technology ging im Februar 2021 an die Börse in Hongkong. Das Pixel ermöglicht Werbetreibenden, Website-Ereignisse und Conversions zu messen, die Kwai-Anzeigen zugeschrieben werden.",
+    "summary_abuse": "Kwai pixel ist ein Werbetracker, der Verhaltens- und Conversion-Daten von Website-Besuchern sammelt und an Kuaishou-Server in China übermittelt. Für Nutzer in der EU und anderen Rechtsräumen entstehen dadurch Bedenken zu grenzüberschreitenden Datenübertragungen, weil chinesische Datengesetze (PIPL, DSL) staatlichen Zugriff auf in China gespeicherte Daten ermöglichen können. Das Datenschutzrisiko ist wegen der jurisdiktionellen Exposition höher als bei westlichen Werbeplattformen."
+  },
+  "Kwanko": {
+    "description": "Kwanko ist eine Plattform für digitales Marketing.",
+    "history": "Kwanko wurde 2003 als französisches Netzwerk für Affiliate Marketing und Performance Marketing gegründet. In den folgenden Jahren expandierte das Unternehmen in Europa und international. 2022 fusionierte Kwanko mit der verticalADS Group und wurde Teil einer grösseren Digital-Advertising-Holding. Kwanko bietet Affiliate-, Display-, E-Mail- und Mobile-Performance-Marketing an.",
+    "summary_abuse": "Als Affiliate-Marketing-Netzwerk ist Kwanko an performancebasierter Werbung beteiligt, die gelegentlich von Affiliates für minderwertige oder täuschende Produkte ausgenutzt werden kann. Affiliate-Netzwerke haben oft eine gemischte Publisher-Qualität und wurden für Adware- oder Pop-up-Kampagnen genutzt. Kwanko arbeitet unter französischen und EU-Regeln einschliesslich GDPR, was eine gewisse Aufsicht bietet. Es sind keine konkreten öffentlichen Vorfälle dokumentiert."
+  },
+  "Kwanzoo": {
+    "description": "Kwanzoo ist eine KI-gestützte GTM-Automation-Plattform für adaptives Account-based Marketing.",
+    "history": "Kwanzoo ist eine US-amerikanische Plattform für Account-based Marketing und GTM Automation, die etwa 2015 gegründet wurde. Das Unternehmen positioniert sich als KI-gestützte ABM-Lösung, die B2B-Unternehmen hilft, Zielkonten zu erkennen und anzusprechen. Neben grösseren Anbietern wie Demandbase und 6sense blieb Kwanzoo ein kleiner unabhängiger Anbieter im umkämpften Markt für ABM- und Intent-Daten.",
+    "summary_abuse": "Kwanzoo ist eine B2B-Marketingdatenplattform, die Intent-Signale von Dritten und verhaltensbezogene Daten auf Account-Ebene verarbeitet, um potenzielle Käufer zu identifizieren. Wie die meisten ABM-Plattformen sammelt und nutzt sie Besucherdaten über Websites hinweg mit Tracking-Technologien. Für ein B2B-Werkzeug ist das Datenschutzrisiko moderat. Es sind keine auffälligen Missbrauchsvorfälle dokumentiert."
+  },
+  "Kwipped": {
+    "description": "Kwipped ist ein Online-Marktplatz, der Unternehmen und Einzelpersonen mit Anbietern für Gerätemiete und Leasing verbindet.",
+    "history": "Kwipped wurde 2014 in North Carolina, USA, als B2B-Online-Marktplatz gegründet, der Unternehmen mit Anbietern für Gerätemiete und Leasing verbindet. Auf der Plattform können Unternehmen ihren Ausrüstungsbedarf einstellen und Angebote von mehreren Lieferanten erhalten, etwa für medizinische, wissenschaftliche, industrielle und AV-Geräte; sie blieb ein nischiger, auf die USA fokussierter Marktplatz.",
+    "summary_abuse": "Kwipped ist ein B2B-Marktplatz für Gerätemiete mit begrenzter öffentlicher Angriffsfläche. Als Business-to-Business-Plattform mit Registrierungspflicht weist er ein geringes Risiko für Missbrauch gegenüber Konsumenten auf. Es sind keine auffälligen Sicherheitsvorfälle oder Missbrauchsmuster dokumentiert. Übliche Marktplatzrisiken wie betrügerische Inserate oder Nichtlieferung bestehen, werden aber nicht als prominente Probleme berichtet."
+  },
+  "KYKLO": {
+    "description": "KYKLO ist eine cloudbasierte E-Commerce-Plattform für die Automations- und Elektroindustrie.",
+    "history": "KYKLO wurde 2015 in Buffalo, New York, gegründet. Das Unternehmen bietet B2B-E-Commerce- und Produktdatenlösungen für industrielle Hersteller und Distributoren. Der Datenpool umfasst mehr als 7 Millionen industrielle SKUs, zu den Kunden gehören Schneider Electric, Festo und Mitsubishi Electric Automation. Im Juni 2024 wurde KYKLO von Epicor übernommen.",
+    "summary_abuse": "Keine Missbrauchshistorie bekannt. KYKLO ist eine industrielle B2B-E-Commerce-Plattform und wurde 2024 von Epicor übernommen. Die Anbindung an einen etablierten Enterprise-Software-Anbieter bietet Stabilität."
+  },
+  "Kyvio": {
+    "description": "Kyvio ist eine Plattform zum Erstellen von Membership-Websites und Marketing-Funnels.",
+    "history": "Kyvio wurde etwa 2016 bis 2017 als Online-Marketing-Plattform für Membership-Websites und Sales Funnels gegründet; sie richtet sich an Online-Kursanbieter, Coaches und Digital Marketers mit einer All-in-one-Lösung für Funnel-Bau und Memberships. Die Plattform konkurriert in der Small-Business-Nische des Online-Marketings mit ClickFunnels und Kartra.",
+    "summary_abuse": "Kyvio wird von Online-Marketern und Kursanbietern genutzt, um Sales Funnels und Membership-Websites zu erstellen. Die Plattform kann für aggressive Marketing-Funnels mit gestapelten Upsells und künstlicher Dringlichkeit genutzt werden, wie sie im Online-Marketing verbreitet sind. Funnel-Builder-Plattformen ziehen sowohl seriöse als auch fragwürdige Marketer an. Für Kyvio selbst sind keine konkreten grösseren Missbrauchsvorfälle dokumentiert."
+  }
+}

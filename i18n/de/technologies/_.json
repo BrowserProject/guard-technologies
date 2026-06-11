@@ -1,0 +1,141 @@
+{
+  "11Sight": {
+    "description": "11Sight ist eine KI-gestützte Omnichannel-Plattform, über die Nutzer eingehende Videoanrufe aus jedem Online-Kanal annehmen und so Verkaufsgespräche sowie Lead-Konversionen erleichtern können.",
+    "history": "11Sight ist eine KI-gestützte Omnichannel-Plattform für Videoanrufe und CRM in Vertriebsteams. Das Unternehmen wurde ungefähr 2019 gegründet. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Für 11Sight gibt es kein auffälliges Missbrauchssignal. Es handelt sich um eine B2B-Plattform für Videovertrieb ohne nutzergeneriertes, öffentliches Content-Hosting, das Betrüger anziehen würde."
+  },
+  "1C-Bitrix": {
+    "description": "1C-Bitrix ist ein System für das Management von Webprojekten und eine universelle Software zum Erstellen, Betreiben und Weiterentwickeln von Unternehmenswebsites und Onlineshops.",
+    "history": "1C-Bitrix wurde 1998 in Russland gegründet und entwickelte sich zu einer der beliebtesten CMS-Plattformen im russischsprachigen Markt. Das Unternehmen entwickelte Bitrix Site Manager, das selbst gehostete CMS-Produkt, und brachte später Bitrix24 als cloudbasierte Business-Suite auf den Markt. Die Plattform ist in Russland, der Ukraine und den GUS-Staaten stark verbreitet und unterhält regionale Büros in mehreren Ländern. Der anhaltende Russland-Ukraine-Konflikt hat bei einigen internationalen Kunden Unsicherheit rund um Datensouveränität ausgelöst.",
+    "summary_abuse": "1C-Bitrix ist ein etabliertes CMS, das vor allem in Russland und den GUS-Staaten genutzt wird. Es gibt keine spezifisch dokumentierten Missbrauchsmuster ausser den üblichen CMS-Risiken, etwa Angriffe auf veraltete Installationen. Die Plattform wird primär für legitime Unternehmenswebsites eingesetzt. Wegen des Hauptsitzes in Russland äussern manche Unternehmenskunden Bedenken zur Datenresidenz, selbst gehostete Installationen können dies jedoch abmildern. Der Anbieter betreibt einen aktiven Prozess für Sicherheitshinweise."
+  },
+  "24nettbutikk": {
+    "description": "24nettbutikk ist eine E-Commerce-Plattform aus Norwegen.",
+    "history": "24nettbutikk wurde 2005 in Norwegen gegründet und gehört im norwegischen Markt zu den führenden E-Commerce-Plattformen für kleine und mittlere Unternehmen. Das Unternehmen bedient über 1'200 KMU und legt den Schwerpunkt auf skandinavische Zahlungs- und Versandintegrationen. Nennenswerte Eigentümerwechsel oder Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "24nettbutikk ist eine norwegische E-Commerce-Plattform für KMU ohne dokumentierte Missbrauchsgeschichte; sie wird vor allem von legitimen kleinen Unternehmen genutzt und bedient einen regionalen Nischenmarkt. Die Plattform bietet keine Funktionen, die für betrügerische Shops besonders attraktiv wären, und ihre Kundenbasis besteht aus verifizierten norwegischen Unternehmen."
+  },
+  "2B Advice": {
+    "description": "2B Advice bietet ein Plug-in zur Verwaltung der GDPR-Cookie-Einwilligung.",
+    "history": "Die 2B Advice GmbH wurde 2003 in Bonn, Deutschland, gegründet und ist auf Datenschutzberatung sowie Software für Compliance-Management spezialisiert. Das Unternehmen entwickelte die Datenschutzmanagement-Plattform Ailance und bietet externe DPO-Dienste an. Es expandierte mit Büros in mehreren europäischen Städten und in den USA. Nennenswerte Eigentümerwechsel oder Kontroversen sind nicht bekannt.",
+    "summary_abuse": "2B Advice ist ein SaaS-Angebot für Datenschutz-Compliance mit Fokus auf GDPR und Sicherheitsmanagement. Als Werkzeug für Compliance-Verantwortliche und Rechtsteams hat es keine dokumentierte Missbrauchsgeschichte und ist keine Plattform, die typischerweise für Phishing oder Betrug genutzt würde. Datenschutz ist für das Unternehmen selbst ein Kernbereich, entsprechend zentral ist die Privacy-Positionierung."
+  },
+  "2ClickShop": {
+    "description": "2ClickShop ist eine mit ERP-Systemen integrierte E-Commerce-Plattform für B2B- und B2C-Transaktionen.",
+    "history": "2ClickShop ist eine polnische E-Commerce-Plattform mit ERP-Integration, die B2B- und B2C-Transaktionen unterstützt. Öffentlich verfügbare Informationen zur Geschichte sind begrenzt.",
+    "summary_abuse": "Für 2ClickShop gibt es kein auffälliges Missbrauchssignal. Es handelt sich um eine polnische B2B/B2C-E-Commerce-Plattform in einer Nische ohne dokumentierte Betrugsmuster."
+  },
+  "30namaPlayer": {
+    "description": "30namaPlayer ist eine angepasste Version von Video.js, um Videos mit JavaScript in HTML einzubinden.",
+    "history": "30namaPlayer ist eine angepasste Version von Video.js für persische beziehungsweise Farsi-Videoinhalte auf HTML-Seiten. Gepflegt wird sie vom Team des Streamingdienstes 30nama.",
+    "summary_abuse": "Für 30namaPlayer gibt es kein auffälliges Missbrauchssignal. Es ist eine Nischenbibliothek für JavaScript-Videoplayer, die von einer bestimmten iranischen Streamingplattform genutzt wird."
+  },
+  "321 CMS": {
+    "description": "321 CMS ist ein Content-Management-System, mit dem Nutzer Websites erstellen und verwalten können, ohne Programmierkenntnisse zu benötigen.",
+    "history": "321 CMS ist ein tschechischer No-Code-Website-Builder und ein Content-Management-System von 321web.cz. Öffentlich verfügbare Informationen zur Geschichte sind begrenzt.",
+    "summary_abuse": "Für 321 CMS gibt es kein auffälliges Missbrauchssignal. Es ist ein tschechischer Website-Builder in einer Nische ohne dokumentierte Missbrauchsmuster."
+  },
+  "33Across": {
+    "description": "33Across ist ein Technologieunternehmen, das sich darauf konzentriert, die Herausforderung der Verbraucheraufmerksamkeit in automatisierter Werbung zu lösen.",
+    "history": "33Across wurde 2008 von Eric Wheeler und Greg Levitt in Sunnyvale, Kalifornien, gegründet und ist eine Plattform für programmatische Werbung und Publisher-Monetarisierung. Das Unternehmen nahm in fünf Finanzierungsrunden 25,7 Millionen US-Dollar auf. 2014 entwickelte es die Intent Signal Platform, um mit Machine Learning zielgruppenbasierte Werbung auszuliefern.",
+    "summary_abuse": "33Across ist im Programmatic-Ad-Tech-Umfeld tätig und bindet Tracking-Code von Drittanbietern auf Publisher-Websites ein. Wie bei den meisten Ad-Tech-Unternehmen sammelt die Plattform verhaltensbezogene Daten über viele Websites hinweg für Targeting-Zwecke, was Datenschutzbedenken auslöst. Das Missbrauchssignal ist moderat, insbesondere wegen Risiken durch Werbebetrug und ungültigen Traffic im offenen programmatischen Ökosystem. Das Unternehmen beteiligt sich an Brancheninitiativen gegen Betrug, etwa IAB-Standards."
+  },
+  "34SP.com": {
+    "description": "34SP.com ist auf Website-Hosting, günstige Domainnamen, preiswerte VPS-Server und dedizierte Server spezialisiert.",
+    "history": "34SP.com wurde 2000 von Daniel Foster und Stuart Melling in Manchester, England, gegründet und ist ein unabhängiger Webhosting-Anbieter aus dem Vereinigten Königreich. Das Unternehmen ist seit der Gründung unabhängig geblieben, mit Fokus auf WordPress-Hosting und nachhaltigem Betrieb mit 100% grüner Energie. Es besitzt ISO-9001- und ISO-14001-Akkreditierungen und ist für menschlichen Support aus dem Vereinigten Königreich bekannt.",
+    "summary_abuse": "34SP.com ist ein kleiner unabhängiger Webhost aus dem Vereinigten Königreich mit insgesamt guten Anti-Abuse-Praktiken. Als Managed-WordPress-Host mit verifizierten Kundenkonten ist die Anfälligkeit für anonymen Missbrauch begrenzt. Shared-Hosting-Umgebungen bringen ein grundsätzliches Risiko durch Spam von Nachbarmandanten mit sich, doch der Fokus auf KMU und gemeinnützige Kunden hält das Missbrauchsprofil niedrig. Grössere Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "4-Tell": {
+    "description": "4-Tell ist ein E-Commerce-Softwareunternehmen für Händler mit KI-gestützten Produkten für Personalisierung und Empfehlungen.",
+    "history": "4-Tell wurde 2009 von Ken Levy und Neil Lofgren gegründet und entwickelte mit Smart Commerce eine KI-gestützte Plattform für E-Commerce-Personalisierung. Im August 2020 wurde das Unternehmen von Searchspring übernommen, um dessen Produktempfehlungen zu stärken. Searchspring wurde später von Athos Commerce übernommen.",
+    "summary_abuse": "4-Tell ist eine B2B-Plattform für E-Commerce-Personalisierung, die von Onlinehändlern genutzt wird. Eine dokumentierte Missbrauchsgeschichte gibt es nicht. Das Produkt wird für Produktempfehlungen in Händler-Shops eingebettet und bietet weder Nutzer-Hosting noch anonyme Registrierungsfunktionen, die Missbrauch begünstigen würden."
+  },
+  "42Chat": {
+    "description": "42Chat bietet Conversational-AI-Lösungen und textbasierte Chatbots, mit denen Kunden ihre Communities erreichen können.",
+    "history": "42Chat wurde 2016 von Bob Caldwell, Chuck Elias, Chris Colleran und Kristi Colleran gegründet und hiess ursprünglich Sciensio. Mit der Erweiterung des Fokus auf kuratierte KI-Chatbots für Events und Community-Organisationen benannte sich das Unternehmen in 42Chat um. Es hat seinen Sitz in Draper, Utah, und beschäftigt 2024 14 Mitarbeitende.",
+    "summary_abuse": "42Chat ist eine B2B-Chatbot-Plattform für Veranstalter und communitybasierte Organisationen. Eine dokumentierte Missbrauchsgeschichte gibt es nicht. Die Plattform ist kein allgemeines Hosting-Werkzeug und setzt Geschäftsverträge voraus, was das Missbrauchspotenzial deutlich begrenzt."
+  },
+  "42stores": {
+    "description": "42stores ist eine französische SaaS-Lösung für E-Commerce, die 2008 gegründet wurde; sie bietet Funktionen wie Monitoring, Kundensupport und regelmässige Updates. Die Plattform ist für ihre Flexibilität und Modularität bekannt und lässt sich mit verschiedenen ERP-Systemen integrieren.",
+    "history": "42stores wurde 2008 in Rouen, Frankreich, gegründet und ist eine französische SaaS-E-Commerce-Plattform mit Spezialisierung auf Multi-Store-Management für B2B- und B2C-Händler. Das Unternehmen richtet sich an Branchen wie Distribution, Autoteile und Industrie. Es hat über 1'000 Websites betrieben und beschäftigt 20 bis 49 Mitarbeitende.",
+    "summary_abuse": "42stores ist ein französisches B2B-E-Commerce-SaaS ohne dokumentierte Missbrauchsgeschichte. Der Hauptmarkt sind Industrie- und Distributionsunternehmen, die Geschäftskonten benötigen. Es gibt keine nutzerseitige anonyme Registrierung oder kostenloses Hosting, das Missbrauch anziehen würde."
+  },
+  "4Partners": {
+    "description": "4Partners ist ein internationaler Dropshipping-Dienst, mit dem du einen fertigen Onlineshop starten kannst.",
+    "history": "4Partners wurde 2017 in den Vereinigten Arabischen Emiraten gegründet und ist eine Plattform für Dropshipping und E-Commerce-Enabling mit Lagern in den VAE, Deutschland, den USA, der Türkei und China. Das Unternehmen nahm 2024 3,6 Millionen US-Dollar auf, um in der MENA-Region zu expandieren. Ursprünglich entstand es in Russland, bevor der Betrieb in die VAE verlegt wurde.",
+    "summary_abuse": "4Partners ist eine Dropshipping-Plattform, die eine schnelle Erstellung von Onlineshops mit Zugriff auf Millionen von Produkten ermöglicht. Dropshipping-Plattformen bergen ein moderates Missbrauchsrisiko, weil sie zum Aufbau gefälschter oder minderwertiger Shops gegen Verbraucher genutzt werden können. Die Plattform bedient vor allem legitime Händler, doch die einfache Shop-Erstellung und begrenztes KYC bei kleineren Konten könnten für Scam-Shops ausgenutzt werden."
+  },
+  "4Partners CMS": {
+    "description": "4Partners CMS ist eine cloudbasierte Lösung für E-Commerce-Shops.",
+    "history": "4Partners CMS ist eine cloudbasierte E-Commerce-Storefront-Plattform von 4Partners, einem 2017 gegründeten Dropshipping-Unternehmen mit Sitz in den VAE. Das CMS bietet Zugriff auf Millionen von Produkten und ermöglicht Händlern die Verwaltung von E-Commerce-Aktivitäten über mehrere Länder hinweg. Eine eigenständige Unternehmensgeschichte ausserhalb der Muttergesellschaft 4Partners ist nicht bekannt.",
+    "summary_abuse": "4Partners CMS ermöglicht den schnellen Aufbau von Onlineshops für Dropshipping, was ein moderates Missbrauchsrisiko für gefälschte oder minderwertige Shops mit sich bringt. Die Plattform bedient vor allem legitime Händler, doch die einfache Einrichtung und begrenztes KYC könnten für Scam-Betrieb ausgenutzt werden. Konkrete Vorfälle sind nicht dokumentiert."
+  },
+  "51.LA": {
+    "description": "51.LA ist ein chinesischer Besucherzähler für Websites.",
+    "history": "51.LA ist eine chinesische Plattform für Webanalyse und Besucherstatistiken, die ungefähr seit Mitte der 2000er-Jahre betrieben wird; sie bedient vor allem Websites mit Fokus auf den chinesischen Markt und bietet leichtgewichtige Besucherzähler sowie Analytics. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "51.LA ist eine chinesische Webanalyse-Plattform ausserhalb der GDPR-Rechtsordnung. Der Dienst sammelt Besucherdaten und wird auf chinesischen oder auf den chinesischen Markt ausgerichteten Websites eingebunden. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, als in China gehosteter Tracker bietet er jedoch nur begrenzte westliche Datenschutz-Compliance. Die Datenverarbeitung erfolgt nach chinesischem Recht."
+  },
+  "52Degrees": {
+    "description": "52Degrees ist eine Datenplattform, die früher als Handset Detection bekannt war und digitalen Unternehmen Echtzeit-Einblicke zu Geräten und Daten liefert.",
+    "history": "52Degrees, betrieben als 51Degrees unter 51degrees.com, war früher als Handset Detection bekannt und entwickelte sich zu einer Echtzeit-Plattform für Geräteerkennung und Daten. Das Unternehmen hat seinen Sitz im Vereinigten Königreich und bedient digitale Unternehmen, die gerätebezogene Daten benötigen. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "52Degrees ist eine Plattform für Geräteerkennung und Dateneinblicke, die von digitalen Unternehmen genutzt wird; sie sammelt Device-Fingerprinting-Daten, was Datenschutzfolgen hat. Eine Nutzung in bösartigen Kampagnen ist nicht dokumentiert, doch Device-Fingerprinting kann beim Einbinden auf Drittseiten für Tracking ohne Einwilligung missbraucht werden. Der Anbieter beteiligt sich an GDPR-Compliance-Rahmenwerken."
+  },
+  "5centsCDN": {
+    "description": "5centsCDN ist ein Anbieter von Content Delivery Network-Diensten.",
+    "history": "5centsCDN wurde 2012 in Edmonton, Kanada, von CEO Amru Rahiman Komalath gegründet und ist ein preisgünstiges Content Delivery Network mit Edge-Plattform. Das Unternehmen richtet sich an Live-Streaming, IPTV und VOD, mit Preisen ab 5 Cent pro GB. Es bedient weltweit über 300 Kunden, darunter Behörden und TV-Sender.",
+    "summary_abuse": "5centsCDN ist ein günstiger CDN- und Streaming-Infrastrukturanbieter. Budget-CDNs können wegen niedriger Einstiegshürden und nutzungsbasierter Abrechnung mit begrenzter Vorabprüfung dazu verwendet werden, schädliche oder raubkopierte Inhalte in grossem Umfang auszuliefern. Für 5centsCDN sind zwar keine spezifischen grossflächigen Missbrauchsvorfälle dokumentiert, die Kombination aus niedrigen Preisen und IPTV-/Streaming-Unterstützung schafft jedoch ein gewisses Risiko für Piraterie-Hosting."
+  },
+  "6sense": {
+    "description": "6sense ist eine B2B-Plattform für Predictive Intelligence in Marketing und Vertrieb.",
+    "history": "6sense wurde 2013 in San Francisco von Viral Bajaria, Premal Shah und Amanda Kahlow gegründet und ist eine B2B-Plattform für Account-Based Marketing und Revenue Intelligence. Das Unternehmen nahm 426 Millionen US-Dollar auf und erreichte 2022 eine Bewertung von 5,2 Milliarden US-Dollar. Bis 2024 wuchs der ARR auf über 200 Millionen US-Dollar, bei anhaltend dreistelligen Wachstumsraten. Grössere Eigentümerwechsel gab es nicht, das Unternehmen bleibt VC-finanziert und unabhängig.",
+    "summary_abuse": "6sense aggregiert B2B-Intent-Daten und Account Intelligence aus dem Web, was Datenschutzfragen aufwirft, weil anonymes Kaufverhalten in grossem Umfang verfolgt wird. Die Plattform wird legitim von Enterprise-Teams in Vertrieb und Marketing genutzt. Als datenbrokernahe Firma stand 6sense unter GDPR und CCPA wegen seiner Datenerhebungspraktiken unter Beobachtung. Eine Nutzung für Phishing oder Betrug ist nicht dokumentiert."
+  },
+  "6Valley eCommerce CMS": {
+    "description": "6Valley eCommerce CMS ist eine Multi-Vendor-Plattform, die Unternehmensgründungen erleichtern soll, indem sie Werkzeuge zur Verwaltung von Anbietern, Produkten und Transaktionen in einem E-Commerce-Ökosystem bereitstellt.",
+    "history": "6Valley eCommerce CMS ist eine Multi-Vendor-E-Commerce-Plattform von 6am Tech, einem Softwareunternehmen aus Dhaka, Bangladesch; sie basiert auf Laravel und Flutter, wurde etwa 2021 als selbst gehostete Lösung auf CodeCanyon eingeführt und richtet sich an Unternehmer, die in Schwellenmärkten Marktplätze nach dem Vorbild von Amazon aufbauen wollen.",
+    "summary_abuse": "6Valley ist ein selbst gehostetes Multi-Vendor-E-Commerce-Skript, das vor allem auf Code-Marktplätzen verkauft wird. Nulled, also raubkopierte, Versionen kursieren breit im Netz und können Installationen mit Backdoors oder Malware zur Folge haben. Selbst gehostete E-Commerce-Skripte ohne sorgfältige Prüfung sind ein häufiger Vektor für kompromittierte Shops und Zahlungsbetrug. Legitime lizenzierte Installationen tragen die üblichen Risiken von E-Commerce-Plattformen."
+  },
+  "7moor": {
+    "description": "7moor ist eine integrierte Lösung für Kundenservice und Marketing, die Kommunikation, Kundensupport und Marketingwerkzeuge kombiniert.",
+    "history": "RongLian 7Moor wurde 2014 in Peking, China, als cloudbasierte Kundenservice-Plattform gegründet. Das Unternehmen gehört zur Ronglian Group (Ronglian Qimo) und ist auf KI-gestützten Kundenservice, Cloud-Callcenter und Telemarketing-Lösungen spezialisiert. Es nahm 5,4 Millionen US-Dollar an Finanzierung auf.",
+    "summary_abuse": "7moor ist eine chinesische Cloud-Plattform für Kundenservice und CRM, die unter chinesischen Datenregeln betrieben wird. Als in China gehostetes Kommunikationswerkzeug unterliegt sie chinesischen Gesetzen zum staatlichen Datenzugriff, was für Unternehmen mit internationalen Nutzerdaten relevant ist. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, die Telemarketing-Funktionen könnten jedoch für unerwünschte ausgehende Anrufe missbraucht werden."
+  },
+  "7Shifts": {
+    "description": "7Shifts ist eine All-in-one-Plattform für Teammanagement, die Restaurantabläufe vereinfacht und Werkzeuge für Planung, Kommunikation und Aufgabenmanagement für Führungskräfte und Mitarbeitende bereitstellt.",
+    "history": "7shifts wurde 2014 in Saskatoon, Saskatchewan, Kanada, von Jordan Boesch gegründet, inspiriert von den Planungsproblemen seines Vaters in Quiznos-Restaurants. 7shifts wuchs auf über 50'000 Restaurants und 1 Million Nutzer und nahm mehr als 150 Millionen CAD auf, darunter 2022 eine Series C über 80 Millionen USD vom SoftBank Vision Fund 2. Eigentümerwechsel gab es nicht, das Unternehmen bleibt unabhängig.",
+    "summary_abuse": "7shifts ist ein SaaS für Workforce Management in Restaurants ohne dokumentierte Missbrauchsgeschichte. Die Plattform verarbeitet Dienstplan- und Lohndaten für die Gastronomie; sie erfordert Geschäftskonten und verarbeitet personenbezogene Mitarbeiterdaten, wodurch starke Datenschutzpraktiken wichtig sind. Eine Nutzung in Phishing-, Betrugs- oder Schadkampagnen ist nicht dokumentiert."
+  },
+  "8base": {
+    "description": "8base ist eine Low-Code-Entwicklungsplattform zum Erstellen und Betreiben digitaler Produkte auf Enterprise-Niveau, darunter SaaS-Lösungen, Marktplätze und andere Go-to-Market-Anwendungen.",
+    "history": "8base wurde 2017 von Albert Santalo in Coral Gables, Florida, gegründet und bietet eine Low-Code-Entwicklungsplattform, die ein serverloses GraphQL Backend-as-a-Service mit einem visuellen App-Builder kombiniert. Das Unternehmen nahm eine Series A über 10,6 Millionen US-Dollar von Foundry Group, Techstars und MongoDB Ventures auf. Zuvor gründete Santalo CareCloud (NASDAQ: MTBC).",
+    "summary_abuse": "8base ist eine B2B-Low-Code-Entwicklungsplattform für Entwickler und Agenturen. Eine dokumentierte Missbrauchsgeschichte gibt es nicht. Die Plattform erfordert eine Kontoregistrierung und ist kein verbraucherseitiges Werkzeug, das sich einfach für Phishing oder Betrug ausnutzen liesse."
+  },
+  "8x8": {
+    "description": "8x8 ist ein Kommunikationstool mit Chat-Funktionen für effizientere Geschäftskommunikation.",
+    "history": "8x8 wurde 1987 von Chi-Shin Wang und Y.W. Sing als Integrated Information Technology Inc. gegründet und ging 1997 an die Nasdaq (Ticker: EGHT). Das Unternehmen verlagerte den Schwerpunkt von Halbleiter- und Videokonferenz-Hardware zu Cloud Unified Communications und Contact-Center-Lösungen. Es entwickelte sich zu einer grossen UCaaS-Plattform für Unternehmen weltweit.",
+    "summary_abuse": "8x8 ist eine börsenkotierte Unternehmenskommunikationsplattform mit starken Compliance-Zertifizierungen. Nennenswerte Missbrauchsvorfälle sind nicht bekannt. Die Plattform bietet Business-Telefonie und Contact-Center-Dienste und setzt verifizierte Geschäftskonten voraus. HIPAA-BAA-Verfügbarkeit und PCI-DSS-Compliance deuten auf eine starke Sicherheitsposition hin."
+  },
+  "91App": {
+    "description": "91App ist eine Plattform aus Taiwan, die Lösungen für Einzelhandelsgeschäfte bereitstellt.",
+    "history": "91APP wurde 2013 von Steven Ho in Taiwan gegründet und ist Taiwans erstes börsenkotiertes SaaS-Unternehmen (Stock Code: 6741). Es gilt als Pionier für D2C- und OMO-Retail-Technologie in Taiwan, Hongkong und Malaysia. Ho wird als Godfather des taiwanischen E-Commerce bezeichnet. Das Unternehmen betreibt Lösungen für Retail- und F&B-Marken, die Commerce, Marketing, POS und Zahlungen integrieren.",
+    "summary_abuse": "91APP ist ein börsenkotiertes taiwanisches Retail-SaaS ohne dokumentierte Missbrauchsgeschichte. Die Plattform bedient etablierte Marken und Händler in Taiwan und Hongkong mit verifizierten Geschäftskonten. Es gibt keine verbraucherseitigen Hosting- oder anonymen Zugriffsfunktionen, die ein Missbrauchsrisiko schaffen würden."
+  },
+  "99minds": {
+    "description": "99minds ist eine Onlineplattform zum Verwalten und Skalieren von Geschenkkarten, Store Credit, digitalen Wallets und Treueprogrammen.",
+    "history": "99minds wurde 2019 in New York gegründet und ist eine B2B-SaaS-Plattform für Geschenkkarten, Store Credits und Omnichannel-Treueprogramme. Gegründet wurde das Unternehmen von Mrudul Tarwatkar und Pravin Kamble, es bedient über 1'000 Unternehmen. Es bleibt bootstrapped, ohne offengelegte Finanzierung.",
+    "summary_abuse": "99minds ist eine Plattform für Geschenkkarten und Loyalty-Programme, die von legitimen E-Commerce-Unternehmen genutzt wird. Geschenkkartenplattformen bergen ein gewisses inhärentes Betrugsrisiko, weil Geschenkkarten häufig in Verbraucherscams eingesetzt werden. 99minds ist jedoch ein B2B-Werkzeug, das eine Händlerkonto-Einrichtung voraussetzt. Konkrete Missbrauchsvorfälle sind nicht dokumentiert."
+  },
+  "<model-viewer>": {
+    "description": "<model-viewer> ist eine von Google entwickelte und über GitHub gepflegte Open-Source-Webkomponente. <model-viewer> soll 3D-Inhalte mit wenigen Zeilen HTML einfach ins Web bringen. Die Komponente wurde erstmals mit Chrome 72 im Juli 2019 vorgestellt und ermöglicht die Anzeige von 3D im Browser und auf Mobilgeräten.",
+    "history": "model-viewer ist eine Open-Source-Webkomponente, die Google 2019 veröffentlichte und erstmals mit Chrome 72 vorstellte; sie ermöglicht deklaratives 3D- und AR-Rendering im Browser mit WebGL und Modellformaten wie glTF/GLB. Gepflegt wird sie vom Google model-viewer-Team auf GitHub unter der Apache-2.0-Lizenz.",
+    "summary_abuse": "model-viewer ist eine von Google gepflegte Open-Source-Webkomponente zur Anzeige von 3D-Modellen, ohne verbraucherseitige Angriffsfläche und ohne dokumentierte Missbrauchsgeschichte."
+  },
+  "@sulu/web": {
+    "history": "Das JavaScript-Paket @sulu/web gehört zum Sulu-CMS-Ökosystem, einem Open-Source-CMS auf Symfony-Basis, das von einer Community europäischer Digitalagenturen entwickelt wird. Die web-js-Bibliothek stellt Frontend-Hilfsfunktionen für Websites bereit, die mit Sulu betrieben werden. Nennenswerte Eigentümerwechsel gibt es nicht, das Projekt bleibt communitygepflegt.",
+    "summary_abuse": "@sulu/web ist eine Open-Source-Frontend-JavaScript-Bibliothek für das Sulu-CMS-Ökosystem, ohne verbraucherseitige Oberfläche und ohne dokumentierte Missbrauchsgeschichte."
+  },
+  "_hyperscript": {
+    "description": "_hyperscript ist eine Skriptsprache, mit der sich Interaktivität im Frontend hinzufügen lässt.",
+    "history": "_hyperscript ist eine Open-Source-Skriptsprache für interaktive Web-Frontends, die Carson Gross um 2020 entwickelte; sie stammt vom selben Team wie htmx und wurde als Alternative zu JavaScript für Frontend-Interaktionen entwickelt, inspiriert von der Sprache HyperTalk.",
+    "summary_abuse": "Für _hyperscript gibt es kein auffälliges Missbrauchssignal. Es ist eine clientseitige JavaScript-Skripting-Bibliothek ohne verbraucherseitige Netzwerkdienste."
+  }
+}

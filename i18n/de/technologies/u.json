@@ -1,0 +1,579 @@
+{
+  "U-KOMI": {
+    "description": "U-KOMI ist ein Marketing-Tool für nutzergenerierte Inhalte und Bewertungen.",
+    "history": "U-KOMI ist eine UGC- und Bewertungsplattform von Subspire Inc., einem japanischen Softwareunternehmen, das im Dezember 2013 gegründet wurde und seinen Hauptsitz in Kyoto, Japan hat. Die Plattform richtet sich an E-Commerce-Händler und ermöglicht die automatische Sammlung von Bewertungen, KI-gestützte Analysen und die Einbindung von Social-Media-Inhalten. Das Produkt ist vor allem auf den japanischen Markt ausgerichtet und wurde in der Kategorie Review and Feedback Analysis 15 Mal in Folge mit der ITreview Best Software-Auszeichnung gewuerdigt.",
+    "summary_abuse": "U-KOMI ist ein B2B-Tool zur Bewertungssammlung für japanische E-Commerce-Händler und zeigt kein auffaelliges Missbrauchssignal. Die Plattform richtet sich an Händler und sammelt legitime Kundenbewertungen, ohne dokumentierte Faelle von Missbrauch für Phishing, Spam oder Betrug. Das Modell zur Einholung von Bewertungen könnte theoretisch für Bewertungsmanipulation genutzt werden, öffentliche Vorfälle sind jedoch nicht dokumentiert."
+  },
+  "Ubercart": {
+    "history": "Ubercart ist ein Open-Source-E-Commerce-Modul für das Drupal CMS, das etwa 2006 erstmals veröffentlicht wurde. Viele Jahre lang war es die führende E-Commerce-Lösung für Drupal, bevor Drupal Commerce zum wichtigsten Konkurrenten wurde. Für bestehende Drupal-7-Websites wird es weiterhin gepflegt.",
+    "summary_abuse": "Ubercart ist ein Drupal-E-Commerce-Modul ohne auffaelliges Missbrauchssignal. Es ist eine selbst gehostete E-Commerce-Lösung und keine Plattform für zentralisierte Betrugsaktivitäten."
+  },
+  "Ubiliz": {
+    "description": "Ubiliz ist eine E-Commerce-Lösung für Geschenkgutscheine.",
+    "history": "Ubiliz ist eine franzoesische E-Commerce-Lösung für Geschenkgutscheine für Unternehmen. Zur öffentlichen Geschichte ist nur wenig verfuegbar.",
+    "summary_abuse": "Ubiliz ist eine Geschenkgutscheinplattform ohne auffaelliges Missbrauchssignal."
+  },
+  "Ubuntu": {
+    "description": "Ubuntu ist ein freies und quelloffenes Linux-Betriebssystem für Unternehmensserver, Desktops, Cloud-Umgebungen und IoT.",
+    "history": "Ubuntu wurde von Mark Shuttleworth geschaffen und 2004 als Debian-basierte Linux-Distribution mit Fokus auf einfache Nutzung gestartet. Shuttleworth gründete Canonical Ltd, um die Entwicklung zu foerdern. Ubuntu wurde zur populaersten Linux-Distribution für Desktop und Server, mit regelmaessigen LTS-Versionen alle zwei Jahre und breiter Nutzung in Cloud-Umgebungen.",
+    "summary_abuse": "Ubuntu zeigt als Backend-Betriebssystem kein auffaelliges Missbrauchssignal. Es wird breit für legitime Server-, Desktop- und Cloud-Workloads eingesetzt. Ubuntu-Server können wie jedes Betriebssystem kompromittiert und für schaedliche Zwecke genutzt werden, das Betriebssystem selbst ist jedoch kein von Betrügern bevorzugtes Werkzeug."
+  },
+  "Ucalc": {
+    "description": "Ucalc ist eine Plattform für Rechner und Formularbau, die Berechnungen und Datenerfassung auf Websites vereinfacht.",
+    "history": "Ucalc ist eine SaaS-Plattform russischen Ursprungs, die etwa 2018 gestartet wurde und einbettbare Rechner- und Formular-Widgets für Websites anbietet. Es sind keine auffaelligen Eigentümeränderungen oder wichtigen Ereignisse dokumentiert.",
+    "summary_abuse": "Ucalc zeigt kein auffaelliges Missbrauchssignal. Es ist eine Nischenplattform für Widgets und Formulare mit begrenzter Endnutzerfläche, die Betrüger ausnutzen könnten."
+  },
+  "Ucommerce": {
+    "description": "Ucommerce ist eine E-Commerce-Plattform für Online-Unternehmen auf Enterprise-Niveau.",
+    "history": "Ucommerce ist eine daenische Enterprise-E-Commerce-Plattform, die etwa 2010 gegründet wurde und urspruenglich als .NET-basierte Commerce-Lösung mit Anbindungen an CMS-Plattformen wie Umbraco und Sitefinity entstand; sie wird von Ucommerce ApS in Daenemark betreut.",
+    "summary_abuse": "Ucommerce zeigt kein auffaelliges Missbrauchssignal. Die Plattform richtet sich als Enterprise-E-Commerce-Angebot an B2B-Kunden und bietet keine frei zugänglichen Endnutzer-Dienste, die betrügerische Nutzung anziehen wuerden."
+  },
+  "Ueeshop": {
+    "description": "Ueeshop ist eine E-Commerce-Plattform aus China.",
+    "history": "Ueeshop ist eine chinesische E-Commerce-SaaS-Plattform, die etwa 2012 gegründet wurde; sie bietet Werkzeuge zum Aufbau von Online-Shops, vor allem für kleine und mittlere Unternehmen in China, die international verkaufen wollen.",
+    "summary_abuse": "Ueeshop zeigt über das generische Risiko von E-Commerce-Plattformen hinaus kein auffaelliges Missbrauchssignal. Als SaaS chinesischen Ursprungs veröffentlicht es wenig Compliance-Dokumentation, und der Umgang mit Daten ausserhalb der chinesischen Jurisdiktion ist unklar."
+  },
+  "UGC Creative": {
+    "description": "UGC Creative ist ein Tool, das Bewertungen sowie nutzergenerierte Inhalte von Instagram und TikTok auf Websites einbindet, um Conversion Rates und Customer Lifetime Value zu verbessern.",
+    "history": "UGC Creative ist ein Tool, das nutzergenerierte Inhalte von Instagram und TikTok für Marketingzwecke nutzbar macht. Zur öffentlichen Geschichte ist nur wenig verfuegbar.",
+    "summary_abuse": "UGC Creative ist ein Tool zur Aggregation von Social-Media-Inhalten ohne auffaelliges Missbrauchssignal."
+  },
+  "uhChat": {
+    "description": "uhChat ermöglicht das Einbetten einer Chatbox auf Websites für Kommunikation in Echtzeit.",
+    "history": "uhChat ist ein kleines Tool zum Einbetten von Live-Chats auf Websites. Zur öffentlichen Geschichte ist sehr wenig verfuegbar.",
+    "summary_abuse": "uhChat zeigt kein auffaelliges Missbrauchssignal. Es ist ein kleines eingebettetes Chat-Widget ohne Content-Hosting-Funktionen und ohne dokumentierte Missbrauchsgeschichte."
+  },
+  "UI Avenue": {
+    "description": "UI Avenue ist eine Software für Datentracking und Analytics für Shopify.",
+    "history": "UI Avenue ist ein kanadisches Analytics-SaaS-Unternehmen mit Fokus auf das Shopify-Oekosystem. Es bietet Store-Analytics-Tools wie UI Ave Analytics und UI Ave Popups. Das Unternehmen ist klein, bedient rund 150 Kunden und hat mehr als 1,2 Millionen Ereignisse getrackt. Öffentlich sind keine auffaelligen Eigentümeränderungen, Übernahmen oder groesseren Ereignisse dokumentiert.",
+    "summary_abuse": "UI Avenue ist ein Shopify-Analytics-Tool ohne auffaelliges Missbrauchssignal. Die Plattform ist ein Backend-Analytics-Dienst, der in Händler-Shops eingebettet wird, und bietet keine Endnutzerfläche, die Phishing oder Betrug anziehen wuerde. Mit dem Dienst sind keine dokumentierten Missbrauchsfaelle oder Sicherheitsvorfälle verbunden."
+  },
+  "UIKit": {
+    "description": "UIKit ist das Framework zur Entwicklung von iOS-Anwendungen.",
+    "history": "UIKit ist Apples Framework für grafische Benutzeroberflächen auf iOS und tvOS und wurde 2007 mit dem ersten iPhone SDK veröffentlicht. Mehr als ein Jahrzehnt lang war es das zentrale UI-Framework für iOS, bis Apple 2019 mit SwiftUI eine deklarative Alternative einführte.",
+    "summary_abuse": "UIKit ist Apples iOS-UI-Framework und zeigt kein Missbrauchssignal. Es ist ein Entwicklungsframework ohne endnutzerseitige Infrastruktur."
+  },
+  "UK Mail": {
+    "description": "UK Mail ist ein Postdienstleister im Vereinigten Koenigreich.",
+    "history": "UK Mail ist ein britischer Paket- und Postzustelldienst. Das Unternehmen wurde 2016 von Deutsche Post DHL Group übernommen und ist Teil des europaeischen Netzwerks von DHL. Es bedient vor allem Geschäftskunden im Vereinigten Koenigreich.",
+    "summary_abuse": "UK Mail ist ein Post- und Paketdienst. Tracking-Integrationen von Versanddienstleistern werden gelegentlich in Phishing-E-Mails imitiert, der Dienst selbst ist jedoch keine Plattform zum Hosten missbraeuchlicher Inhalte."
+  },
+  "UKFast": {
+    "description": "UKFast ist ein B2B-Internet-Hosting-Unternehmen mit Sitz in Manchester, UK.",
+    "history": "UKFast wurde 1999 in Manchester als B2B-Anbieter für Internet-Hosting und Managed Services gegründet. 2021 wurde das Unternehmen von Private Equity übernommen und in ANS Group umbenannt. Es bietet weiterhin Hosting-, Cloud- und Cybersecurity-Dienste für britische Unternehmen an.",
+    "summary_abuse": "UKFast ist ein britischer Anbieter für Hosting und Managed Services. Wie bei allen Hosting-Anbietern kann seine Infrastruktur zum Hosten schaedlicher Inhalte missbraucht werden, UKFast bedient jedoch vor allem britische Geschäftskunden und unterhaelt uebliche Missbrauchsrichtlinien. Es gibt kein überdurchschnittliches Missbrauchsprofil über typische Hosting-Infrastruktur hinaus."
+  },
+  "uKnowva": {
+    "description": "uKnowva ist eine mobilfähige HRMS-Software.",
+    "history": "uKnowva ist eine indische, mobilfähige HRMS-Software (Human Resource Management System) für kleine und mittlere Unternehmen. Es sind keine auffaelligen Eigentümeränderungen oder Abkündigungen dokumentiert.",
+    "summary_abuse": "uKnowva ist eine HRMS-Plattform ohne auffaelliges Missbrauchssignal. Es ist ein HR-Geschäftstool ohne öffentlich zugängliche Content-Hosting-Fläche."
+  },
+  "uLogin": {
+    "description": "uLogin ist ein Tool, das Nutzern einen einheitlichen Zugang zu verschiedenen Internetdiensten ermöglicht.",
+    "history": "uLogin ist ein russisches Widget für soziale Authentifizierung und einheitliche Logins, vergleichbar mit Social-Login-Widgets, und wird vor allem auf russischsprachigen Websites eingesetzt. Es ist seit etwa 2010 in Betrieb.",
+    "summary_abuse": "uLogin ist ein russisches Social-Authentication-Widget, das Logins über russische soziale Netzwerke buendelt. Als in Russland gehosteter Auth-Dienst wirft es für nicht-russische Nutzer Datenschutzfragen auf, und die russische Jurisdiktion bedeutet begrenzte Transparenz nach GDPR."
+  },
+  "Ultimate": {
+    "description": "Ultimate ist eine Plattform zur Automatisierung des Kundendienstes mit Conversational AI und generativer KI.",
+    "history": "Ultimate.ai wurde 2016 in Helsinki, Finnland, als Plattform für Conversational-AI-gestützte Automatisierung im Kundendienst gegründet. Das Unternehmen nahm Venture-Finanzierung auf und expandierte international, mit Fokus auf Enterprise-Automatisierung im Kundenservice durch generative KI.",
+    "summary_abuse": "Ultimate zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Enterprise-Plattform für KI-gestützten Kundendienst mit vertriebsgesteuertem Zugang und daher ein unwahrscheinliches Ziel für betrügerischen Missbrauch."
+  },
+  "Ultimate Addons for Elementor": {
+    "description": "Ultimate Addons for Elementor ist ein Plugin, das dem Elementor Page Builder für WordPress neue Widgets und Module hinzufuegt und so zusätzliche Designoptionen und Funktionen bereitstellt.",
+    "history": "Ultimate Addons for Elementor ist ein WordPress-Plugin von Brainstorm Force aus Indien, demselben Unternehmen hinter Astra Theme. Es wurde etwa 2017 gestartet, um den Elementor Page Builder um weitere Widgets zu erweitern.",
+    "summary_abuse": "Ultimate Addons for Elementor zeigt kein auffaelliges Missbrauchssignal. Es ist ein WordPress-Plugin für Designanpassungen ohne endnutzerseitige Funktionen, die betrügerische Nutzung anziehen wuerden."
+  },
+  "Ultimate Bulletin Board": {
+    "description": "Ultimate Bulletin Board ist eine Internet-Forensoftware für Online-Communities mit Funktionen wie Nutzerregistrierung, Thread-Organisation, Moderationswerkzeugen, Suche und anpassbarem Design zur Unterstützung von Diskussionen und Community-Aktivität.",
+    "history": "Ultimate Bulletin Board (UBB) gehoert zu den frühesten Internet-Forensoftware-Paketen und wurde 1996 von Groupee, zuvor Infopop, entwickelt. In den spaeten 1990er-Jahren war es eine führende Forensoftware, wurde spaeter aber weitgehend von vBulletin und phpBB verdraengt. UBB Central pflegt heute UBB.threads.",
+    "summary_abuse": "Ultimate Bulletin Board zeigt in seiner heutigen Form kein auffaelliges Missbrauchssignal. Legacy-Forensoftware dieser Art beherbergt gelegentlich Spam-Bots, hat heute wegen ihrer Nischenzielgruppe aber nur geringe breitere Missbrauchsrelevanz."
+  },
+  "Ultimate GDPR & CCPA": {
+    "description": "Ultimate GDPR & CCPA ist ein Compliance-Toolkit für WordPress von createIT.",
+    "history": "Ultimate GDPR & CCPA ist ein WordPress-Compliance-Plugin von createIT, einer polnischen Webagentur. Es wurde etwa 2018 als Reaktion auf das Inkrafttreten der GDPR gestartet und bietet Cookie-Consent, Verwaltung von Datenanfragen und Datenschutzwerkzeuge für WordPress-Websites.",
+    "summary_abuse": "Ultimate GDPR & CCPA zeigt kein auffaelliges Missbrauchssignal. Es ist ein WordPress-Compliance-Plugin für Datenschutzprozesse ohne endnutzerseitige Funktionen, die betrügerische Nutzung anziehen wuerden."
+  },
+  "Ultimate Tables": {
+    "description": "Ultimate Tables ist ein Tool zum Erstellen, Verwalten und Gestalten von Tabellen ohne HTML-Code.",
+    "history": "Ultimate Tables ist ein WordPress-Plugin zur Tabellenerstellung, mit dem nicht-technische Nutzer HTML-Tabellen ohne Programmierung bauen können. Es sind keine auffaelligen Eigentümeränderungen oder Ereignisse dokumentiert.",
+    "summary_abuse": "Ultimate Tables ist ein WordPress-Plugin ohne auffaelliges Missbrauchssignal. Es ist ein einfaches Tool zur Tabellenerstellung ohne endnutzerseitige Content-Hosting-Fläche."
+  },
+  "UltimatelySocial": {
+    "description": "Ultimately Social (Share Buttons & Sharing Icons) ist ein Plugin, mit dem du auffaellige Social-Media-Icons und Teilen-Buttons auf deiner WordPress-Website platzieren kannst.",
+    "history": "UltimatelySocial ist ein WordPress-Plugin für Social-Sharing-Buttons und Icons, das etwa 2014 gestartet wurde. Es bietet kostenlose und Premium-Stufen und wird weiterhin als beliebte Social-Sharing-Lösung für WordPress-Websites gepflegt.",
+    "summary_abuse": "UltimatelySocial zeigt kein auffaelliges Missbrauchssignal. Es ist ein WordPress-Plugin für Social Sharing ohne gehostete Endnutzerfunktionen, die betrügerische Nutzung anziehen wuerden."
+  },
+  "UltraCart": {
+    "description": "UltraCart ist eine E-Commerce-Plattform mit Warenkorb- und Zahlungsabwicklungslösungen für Online-Shops.",
+    "history": "UltraCart ist eine US-amerikanische E-Commerce-SaaS-Plattform für Warenkorb- und Checkout-Lösungen; sie wurde Anfang der 2000er-Jahre gegründet und ist ein unabhängiger, langjähriger Anbieter gehosteter E-Commerce-Dienste für kleine und mittlere Online-Händler geblieben.",
+    "summary_abuse": "UltraCart zeigt über das typische Risiko von E-Commerce-Plattformen hinaus kein auffaelliges Missbrauchssignal. Die Plattform verarbeitet Zahlungen und Checkout-Ablaeufe, weshalb PCI-Compliance relevant ist. Öffentlich sind keine dokumentierten Muster betrügerischer Shops oder Scam-Hostings bekannt."
+  },
+  "UMAI": {
+    "description": "UMAI ist eine analyticsbasierte Software, die moderne Technologie nutzt, um Erlebnis und Leistung von Gastronomie- und Hospitality-Betrieben sowie ihrer Gäste zu verbessern.",
+    "history": "UMAI wurde 2016 gegründet und hat seinen Hauptsitz in Kuala Lumpur, Malaysia. Das Unternehmen bietet eine SaaS-Plattform für Hospitality-Betriebe mit Reservierungsmanagement, Wartelisten, Marketing-Automatisierung, tiefgehenden Analysen und privater Feedback-Erfassung. UMAI bedient vor allem Restaurants in Asien und hat ein Team von rund 24 Personen. Auffaellige Eigentümeränderungen oder Übernahmen sind nicht bekannt.",
+    "summary_abuse": "UMAI ist eine SaaS-Plattform für Restaurantmanagement ohne auffaelliges Missbrauchssignal. Die Plattform bedient Hospitality-Unternehmen und ist nicht in einer Weise endnutzerorientiert, die Phishing oder Betrug anziehen wuerde. Mit UMAI sind keine dokumentierten Missbrauchsfaelle oder Sicherheitsvorfälle verbunden."
+  },
+  "Umami": {
+    "description": "Umami ist eine selbst gehostete Web-Analytics-Lösung. Ihr Ziel ist eine freundlichere, datenschutzorientierte Alternative zu Google Analytics und eine freie, quelloffene Alternative zu kostenpflichtigen Lösungen.",
+    "history": "Umami wurde von Mike Cao entwickelt und 2020 erstmals als quelloffene, datenschutzorientierte Alternative zu Google Analytics veröffentlicht. Es kann selbst gehostet werden, sammelt keine personenbezogenen Daten und steht unter der MIT-Lizenz. Umami Inc fuegte spaeter ein cloudgehostetes Angebot hinzu.",
+    "summary_abuse": "Umami zeigt kein auffaelliges Missbrauchssignal. Es ist ein datenschutzorientiertes Analytics-Tool ohne gehostete Endnutzerinhalte oder Funktionen, die betrügerische Nutzung anziehen."
+  },
+  "uMarketingSuite": {
+    "description": "uMarketingSuite ist ein Buendel verschiedener Funktionen, die zusammen eine vollständige Marketing-Suite für die Umbraco-Plattform bilden.",
+    "history": "uMarketingSuite wurde urspruenglich von Perplex Digital aus den Niederlanden als Tool für Content-Personalisierung im Umbraco CMS entwickelt. 2020 wurde uMarketingSolutions B.V. als eigenstaendiges Unternehmen ausgegründet, um das Produkt zu kommerzialisieren und weltweit zu skalieren. Die erste öffentliche Version erschien im April 2020. Im August 2024 übernahm Umbraco A/S, das daenische Unternehmen hinter dem Umbraco CMS, uMarketingSolutions B.V. und machte uMarketingSuite zu einem offiziellen Umbraco-Produkt.",
+    "summary_abuse": "uMarketingSuite ist ein Plugin für Marketing-Analytics und Personalisierung im Umbraco CMS ohne auffaelliges Missbrauchssignal. Das Produkt ist ein Enterprise-Add-on für lizenzierte Umbraco-Installationen und bietet keine Endnutzerfläche, die Phishing oder Betrug anziehen wuerde. Mit uMarketingSuite sind keine dokumentierten Missbrauchsvorfälle verbunden."
+  },
+  "Umbraco": {
+    "description": "Umbraco ist ein quelloffenes Content-Management-System auf Basis von Microsoft ASP.NET.",
+    "history": "Umbraco wurde 2003 vom daenischen Entwickler Niels Hartvig als quelloffenes CMS auf Microsoft ASP.NET geschaffen. Das Unternehmen Umbraco HQ entstand, um kommerziellen Support und Hosting anzubieten. Im August 2021 wurde das Unternehmen von Monterro übernommen, einem schwedischen Investor für Softwarewachstum.",
+    "summary_abuse": "Umbraco zeigt kein auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes, quelloffenes .NET CMS, das von Agenturen und Unternehmen breit für Unternehmens- und Behoerdenwebsites eingesetzt wird. Als selbst gehostete Software haengt das Missbrauchsrisiko davon ab, wie einzelne Betreiber ihre Instanzen konfigurieren."
+  },
+  "UMI.CMS": {
+    "description": "UMI.CMS ist ein Content-Management-System (CMS) mit Werkzeugen zum Erstellen und Verwalten von Websites, einschliesslich Funktionen für Designanpassung, Content-Management und Website-Optimierung.",
+    "history": "UMI.CMS ist ein russisches Content-Management-System, das etwa 2004 von Umisoft gegründet wurde. Es richtet sich mit Werkzeugen für Website- und E-Commerce-Management an russischsprachige Unternehmen und Organisationen. Angeboten werden sowohl SaaS- als auch selbst gehostete Versionen.",
+    "summary_abuse": "UMI.CMS ist ein russisches CMS-Produkt ohne auffaellig dokumentierten Missbrauch über die allgemeinen Risiken von CMS-Infrastruktur hinaus. Sein russischer Ursprung kann bei nicht-russischen Bereitstellungen Fragen zur Datenhoheit aufwerfen."
+  },
+  "UmiJs": {
+    "description": "UmiJs ist ein skalierbares Frontend-Framework für Enterprise-Anwendungen, das sowohl konfigurationsbasierte als auch konventionelle Routen unterstützt und Funktionen wie dynamisches Routing, verschachteltes Routing und Berechtigungsrouting abdeckt.",
+    "history": "UmiJS ist ein React-basiertes Enterprise-Frontend-Framework, das vom Ant Design-Team bei Alibaba, spaeter Ant Group, entwickelt wurde. Es wurde 2017 erstmals veröffentlicht und ist im chinesischen Tech-Oekosystem weit verbreitet, besonders für Anwendungen mit dem Ant Design System.",
+    "summary_abuse": "UmiJS zeigt kein auffaelliges Missbrauchssignal. Es ist ein Frontend-JavaScript-Framework, mit dem Entwickler Webanwendungen bauen, ohne endnutzerseitige Fläche, die betrügerische Nutzung anzieht."
+  },
+  "Umni": {
+    "description": "Umni ist eine Plattform mit einem KI-Chatbot zur Automatisierung und Verbesserung von Kundendienst, Verkaufsinteraktionen und Marketingprozessen.",
+    "history": "Umni ist eine KI-Chatbot-SaaS-Plattform bulgarischen Ursprungs für automatisierten Kundendienst, Vertrieb und Marketing. Das Unternehmen sitzt in Bulgarien und bedient vor allem osteuropaeische Maerkte.",
+    "summary_abuse": "Umni zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Chatbot-Nischenplattform ohne endnutzerseitiges Gratis-Hosting, das betrügerische Nutzung anziehen wuerde."
+  },
+  "Umso": {
+    "description": "Umso ist ein Website-Builder für Startups.",
+    "history": "Umso ist ein Website-Builder mit Fokus auf Startups, der etwa 2020 gestartet wurde. Er bietet eine schlanke Page-Building-Erfahrung für Landingpages von frühen Startups.",
+    "summary_abuse": "Umso hat ein niedriges Missbrauchsprofil. Als startuporientierter Website-Builder mit ausschliesslich kostenpflichtigen Plaenen bietet er weniger Gelegenheit für anonyme betrügerische Seitenerstellung als Wettbewerber mit Gratisstufe. Öffentlich sind keine dokumentierten Muster von Phishing oder Scam-Site-Hosting bekannt."
+  },
+  "UNA CMS": {
+    "description": "UNA CMS ist eine quelloffene Plattform zum Aufbau sozialer Netzwerke und Online-Communities mit modularer Architektur, responsivem Design und starken Datenschutzfunktionen.",
+    "history": "UNA CMS ist eine quelloffene Social-Networking-Plattform, die etwa 2014 von einem ukrainischen Team gegründet wurde und urspruenglich von BoonEx Dolphin abgeleitet war; sie stellt ein Framework für den Aufbau eigener sozialer Netzwerke und Online-Communities bereit.",
+    "summary_abuse": "UNA CMS ist ein quelloffener Baukasten für soziale Netzwerke. Selbst gehostete soziale Plattformen können für verschiedene Zwecke eingesetzt werden, auch mit schwacher Moderation, für UNA selbst ist jedoch kein dokumentiertes Muster spezifischer Nutzung als Betrugsinfrastruktur bekannt."
+  },
+  "Unas": {
+    "description": "Unas ist eine All-in-one-E-Commerce-Plattform aus Ungarn.",
+    "history": "Unas ist eine ungarische All-in-one-E-Commerce-SaaS-Plattform, die seit Mitte der 2000er-Jahre betrieben wird; sie gehoert zu den führenden lokalen E-Commerce-Plattformen in Ungarn und bedient vor allem kleine und mittlere Unternehmen im ungarischen Markt.",
+    "summary_abuse": "Unas zeigt kein auffaelliges Missbrauchssignal. Es ist eine regionale ungarische E-Commerce-Plattform mit bekannter lokaler Kundenbasis und ohne gemeldete Muster betrügerischen Shop-Hostings."
+  },
+  "Unblu Virtual Agent": {
+    "description": "Unblu Virtual Agent ist eine Plattform, die Kunden rund um die Uhr Zugang zu intelligenten, automatisierten Gespraechen bietet, die menschlich wirken sollen.",
+    "history": "Unblu wurde 2008 in der Schweiz gegründet und konzentrierte sich zunächst auf Co-Browsing und Live-Engagement-Tools für Finanzdienstleister. Spaeter erweiterte das Unternehmen sein Angebot um Conversational AI und Virtual-Agent-Funktionen für stark regulierte Branchen wie Banken und Versicherungen.",
+    "summary_abuse": "Unblu Virtual Agent zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Enterprise-Plattform für Live-Chat und virtuelle Agenten mit Fokus auf Finanzinstitute, vertriebsgesteuertem Zugang und ohne Gratis-Hosting für Endnutzer."
+  },
+  "Unbounce": {
+    "description": "Unbounce ist ein Tool zum Erstellen von Landingpages.",
+    "history": "Unbounce wurde 2009 in Vancouver, Kanada, als Landingpage-Builder für Marketer gegründet. Es wuchs zu einer der führenden Landingpage-Plattformen und wurde um 2022 von Zeta Global, einem Marketing-Cloud-Unternehmen, übernommen.",
+    "summary_abuse": "Unbounce hat ein moderates Missbrauchsrisiko, wie es für Landingpage-Builder typisch ist. Gehostete Seiten unter eigenen Domains wurden in Phishing-Kampagnen und für gefaelschte Marketingseiten genutzt. Die Plattform hat eine AUP und Missbrauchsmeldung, wird aber wie alle gehosteten Landingpage-Tools gelegentlich für taeuschendes Marketing und Phishing-Seiten ausgenutzt, bevor diese entfernt werden."
+  },
+  "Unbound Commerce": {
+    "description": "Unbound Commerce ist ein Anbieter für Mobile Commerce und E-Commerce für Einzelhändler.",
+    "history": "Unbound Commerce ist ein US-amerikanischer Anbieter für Mobile- und E-Commerce-Plattformen für Handelsunternehmen, mit Fokus auf mobile-first Commerce-Lösungen. Öffentlich sind keine auffaelligen Eigentümeränderungen dokumentiert.",
+    "summary_abuse": "Unbound Commerce zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Retail-Commerce-Plattform mit Enterprise-Preisen und ohne endnutzerseitige Gratis-Hosting-Funktionen."
+  },
+  "Unbox": {
+    "description": "Unbox ist eine E-Commerce-Plattform für D2C-Marken.",
+    "history": "Unbox ist eine brasilianische E-Commerce-SaaS-Plattform für Direct-to-Consumer-Marken, die etwa 2018 gestartet wurde; sie bietet Werkzeuge zur Erstellung und Verwaltung von Online-Shops für den brasilianischen D2C-Markt.",
+    "summary_abuse": "Unbox zeigt über das generische Risiko von E-Commerce-Plattformen hinaus kein auffaelliges Missbrauchssignal. Es ist eine brasilianische D2C-E-Commerce-Nischenplattform mit regionaler Kundenbasis."
+  },
+  "Unbxd": {
+    "description": "Unbxd ist eine Plattform für E-Commerce-Produktsuche und Product Discovery, die kuenstliche Intelligenz und fortgeschrittene Data Science nutzt, um Kaeufer mit den Produkten zu verbinden, die sie am wahrscheinlichsten kaufen.",
+    "history": "Unbxd wurde 2010 als KI-gestützte Plattform für E-Commerce-Produktsuche und Product Discovery gegründet. 2021-2022 wurde Unbxd von Netcore Cloud, einem indischen Marketing-Technologieunternehmen, übernommen und in Netcore Unbxd umbenannt.",
+    "summary_abuse": "Unbxd zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-SaaS für E-Commerce-Suche und Product Discovery, die als API-Schicht für Retailer-Websites arbeitet; sie bietet kein endnutzerseitiges Hosting und keine offenen Registrierungsfunktionen, die betrügerische Nutzung anziehen wuerden."
+  },
+  "Unchained Engine": {
+    "description": "Unchained Engine ist ein quelloffenes E-Commerce-Framework für Node.js und Bun, das eine skalierbare Grundlage für die Entwicklung von Online-Shops bietet.",
+    "history": "Unchained Engine ist ein quelloffenes Headless-E-Commerce-Framework für Node.js, das etwa 2018 vom Schweizer Unternehmen Unchained Commerce geschaffen wurde. Es richtet sich an Entwickler, die individuelle E-Commerce-Lösungen bauen, und setzt auf eine plug-in-basierte Architektur.",
+    "summary_abuse": "Unchained Engine zeigt kein auffaelliges Missbrauchssignal. Es ist ein Backend-Framework für quelloffenen E-Commerce, dessen Bereitstellung Entwicklerwissen erfordert, und bietet keinen gehosteten Endnutzer-Dienst."
+  },
+  "Underscore.js": {
+    "description": "Underscore.js ist eine JavaScript-Bibliothek mit Hilfsfunktionen für häufige Programmieraufgaben; sie ist mit Funktionen von Prototype.js und der Sprache Ruby vergleichbar, setzt aber auf funktionales Programmierdesign statt auf die Erweiterung von Objektprototypen.",
+    "history": "Underscore.js wurde 2009 von Jeremy Ashkenas entwickelt, noch vor ES5, und stellte JavaScript-Entwicklern funktionale Programmierhilfen bereit. Anfang der 2010er-Jahre wurde es zu einer der meistgenutzten JS-Bibliotheken. Lodash, ein kompatibles Superset, überholte es spaeter in der Popularitaet.",
+    "summary_abuse": "Underscore.js zeigt kein Missbrauchssignal. Es ist eine grundlegende JavaScript-Utility-Bibliothek für Server und Client ohne endnutzerseitige Fläche."
+  },
+  "Understrap": {
+    "description": "Understrap ist ein bekanntes WordPress-Starter-Theme-Framework, das Underscores und Bootstrap kombiniert.",
+    "history": "Understrap ist ein WordPress-Starter-Theme-Framework, das Underscores (_s) mit Bootstrap verbindet. Es entstand etwa 2014, wurde bei WordPress-Theme-Entwicklern beliebt und wird vom Understrap-Team mit einem quelloffenen Kern und Premium-Angeboten gepflegt.",
+    "summary_abuse": "Understrap zeigt kein auffaelliges Missbrauchssignal. Es ist ein WordPress-Theme-Framework, mit dem Entwickler eigene Themes bauen, und bietet keinen gehosteten Endnutzer-Dienst."
+  },
+  "Uniconsent": {
+    "description": "Uniconsent ist eine Consent Management Platform.",
+    "history": "Uniconsent ist eine Consent Management Platform (CMP), die etwa 2019 gegründet wurde und GDPR- sowie Cookie-Consent-Tools für Publisher und Werbetreibende bereitstellt; sie ist Teil des IAB TCF Frameworks.",
+    "summary_abuse": "Uniconsent zeigt kein auffaelliges Missbrauchssignal. Es ist eine Cookie-Consent- und CMP-Plattform mit Fokus auf GDPR-Compliance und ohne Funktionen, die betrügerische Nutzung anziehen."
+  },
+  "Unicorn Platform": {
+    "description": "Unicorn Platform ist ein Drag-and-drop-Builder für Websites und Blogs für Startups, Mobile Apps und SaaS.",
+    "history": "Unicorn Platform ist ein No-Code-Builder für Websites und Landingpages mit Fokus auf Startups, SaaS-Produkte und Mobile Apps. Die Plattform startete etwa 2020 und bietet KI-gestützte Content-Erstellung als Teil des Page-Builder-Workflows.",
+    "summary_abuse": "Unicorn Platform hat ein moderates Missbrauchsrisiko, wie es für Landingpage-Builder mit Gratisstufe typisch ist. Der kostenlose Plan erlaubt das Erstellen gehosteter Seiten mit wenig Reibung, was vor der Entfernung für Phishing- oder Scam-Landingpages ausgenutzt werden kann. Die Plattform hat Nutzungsbedingungen, ihre Anti-Abuse-Durchsetzung ist öffentlich jedoch nur begrenzt dokumentiert."
+  },
+  "UniFi OS": {
+    "description": "UniFi OS ist das Betriebssystem für UniFi-Produkte und stellt deren Benutzeroberfläche bereit.",
+    "history": "UniFi OS ist das Betriebssystem für Ubiquitis UniFi-Netzwerkhardware. Ubiquiti wurde 2005 von Robert Pera gegründet. Die UniFi-Produktlinie wurde im SMB- und Enterprise-Networking als kosteneffiziente Managed-Networking-Lösung breit eingesetzt.",
+    "summary_abuse": "UniFi OS zeigt als Betriebssystem für Netzwerkgeräte kein auffaelliges Missbrauchssignal. Sicherheitsluecken in UniFi-Geräten wurden gelegentlich ausgenutzt, um Netzwerkzugriff zu erlangen, und Ubiquiti hatte 2021 einen bekannten Datenvorfall, das Produkt selbst ist jedoch kein Werkzeug für Betrüger."
+  },
+  "Uniform Digital Experience": {
+    "description": "Uniform Digital Experience ist eine Digital Experience Platform (DXP) zum Verwalten, Ausspielen und Optimieren von Inhalten und Interaktionen über mehrere digitale Kanäle hinweg.",
+    "history": "Uniform Digital Experience ist eine composable DXP, die etwa 2019 gestartet wurde und Unternehmen ermöglicht, digitale Erlebnisse über mehrere CMS und Kanäle hinweg zu verwalten und auszuliefern. Das Unternehmen nahm Venture-Finanzierung auf und ist im Markt für headless und composable CMS positioniert.",
+    "summary_abuse": "Uniform Digital Experience zeigt kein auffaelliges Missbrauchssignal. Es ist eine Enterprise-DXP mit vertriebsgesteuertem Zugang und ohne endnutzerseitige Gratisstufe."
+  },
+  "Unilog": {
+    "description": "Unilog ist eine cloudbasierte E-Commerce-Plattform, die speziell für B2B-Unternehmen entwickelt wurde.",
+    "history": "Unilog wurde 1998 gegründet und entwickelte sich zu einer B2B-Cloud-E-Commerce-Plattform speziell für Distributoren und Hersteller. Das Unternehmen hat seinen Hauptsitz in Wayne, Pennsylvania, und ist organisch auf mehrere hundert Mitarbeitende gewachsen.",
+    "summary_abuse": "Unilog zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-E-Commerce-Plattform für industrielle Distributoren und Hersteller, ohne offene Endnutzerregistrierung oder Content-Hosting-Funktionen, die betrügerische Nutzung anziehen wuerden."
+  },
+  "Unipag": {
+    "description": "Unipag ist eine universelle Plattform für Verkaufsfoerderung, die Werbekampagnen über verschiedene Kanäle hinweg vereinfacht und verwaltet.",
+    "history": "Unipag ist eine Plattform für Verkaufsfoerderung zur Verwaltung von Promotionskampagnen. Öffentlich sind kein auffaelliges Gründungsdatum und keine Eigentümereignisse dokumentiert.",
+    "summary_abuse": "Unipag ist eine SaaS für Promotionsmanagement mit begrenztem öffentlichem Profil und ohne dokumentierte Missbrauchsvorfälle. Promotionsplattformen können für gefaelschte Rabattkampagnen genutzt werden, für Unipag ist hier jedoch kein spezifisches Muster dokumentiert."
+  },
+  "Unito Hub": {
+    "description": "Unito Hub ist eine vereinheitlichte Datenplattform, die Daten aus mehreren Quellen integriert und konsolidiert.",
+    "history": "Unito Hub ist eine kanadische SaaS-Plattform für Datenintegration, die Projektmanagement- und Kollaborationstools verbindet; sie wurde etwa 2015 gestartet und hilft Teams, Arbeit über Tools wie Jira, Trello und GitHub hinweg zu synchronisieren.",
+    "summary_abuse": "Unito Hub zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Datenintegrationsplattform für Projektmanagement-Tools ohne endnutzerseitige Funktionen, die betrügerische Nutzung anziehen."
+  },
+  "Unity": {
+    "description": "Unity ist ein Gaming-Widget, das das Spielen von Games ermöglicht, die mit einer 3D-Game-Engine entwickelt wurden.",
+    "history": "Unity wurde 2004 in Kopenhagen, Daenemark, von David Helgason, Nicholas Francis und Joachim Ante gegründet. Es wurde zur weltweit führenden Plattform für Echtzeit-3D-Entwicklung und ist besonders im Mobile Gaming dominant. Unity ging 2020 an die Boerse. 2023 führte das Unternehmen umstrittene Runtime-Gebuehren pro Installation ein, was erheblichen Widerstand von Entwicklern auslöste und schliesslich zur Ruecknahme der Regelung führte.",
+    "summary_abuse": "Unity zeigt als Game-Development-Engine nur ein minimales Missbrauchssignal. Die Plattform selbst ist kein Betrugswerkzeug. Die umstrittene Preisänderung pro Installation im Jahr 2023 loeste eine grosse Branchendebatte aus, war aber nicht missbrauchsbezogen."
+  },
+  "Universe Soft": {
+    "description": "Universe-Soft ist eine Plattform für Geschäftsautomatisierung für Salons, Kliniken und Fitnesscenter in Russland.",
+    "history": "Universe-Soft ist eine russische SaaS-Plattform für Geschäftsautomatisierung in Dienstleistungsbetrieben wie Salons, Kliniken und Fitnesscentern und bedient vor allem den russischen Markt.",
+    "summary_abuse": "Universe-Soft zeigt kein auffaelliges Missbrauchssignal. Es ist eine Nischenplattform für CRM und Geschäftsautomatisierung für Dienstleistungsbetriebe im russischen Markt, ohne breit ausgerichtete gehostete Endnutzerfunktionen."
+  },
+  "UNIX": {
+    "description": "Unix ist eine Familie von Multitasking- und Mehrbenutzer-Computerbetriebssystemen.",
+    "history": "Unix wurde ab 1969 in den Bell Labs von Ken Thompson, Dennis Ritchie und Kollegen entwickelt. Es praegte grundlegende Prinzipien moderner Betriebssysteme wie Multitasking, hierarchische Dateisysteme und das Pipe-Konzept. Aus Unix entstanden viele Derivate, darunter BSD und macOS über NEXTSTEP/Darwin, und seine Philosophie beeinflusste Linux stark.",
+    "summary_abuse": "Unix ist ein Betriebssystemstandard ohne Missbrauchssignal auf Plattformebene. Es ist grundlegende Computerinfrastruktur."
+  },
+  "Unless": {
+    "description": "Unless ist eine KI-gestützte Lösung zur Verbesserung von Customer Success.",
+    "history": "Unless ist eine niederlaendische Plattform für Customer Success und KI-gestützte Personalisierung, die etwa 2014 gegründet wurde; sie bietet Website-Personalisierung und Customer-Success-Tools vor allem für SaaS-Unternehmen.",
+    "summary_abuse": "Unless zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-SaaS für Customer Success und Personalisierung mit Enterprise-Zugang und ohne endnutzerseitiges Gratis-Hosting."
+  },
+  "UnoCSS": {
+    "description": "UnoCSS ist eine sofortige, bedarfsgesteuerte Atomic-CSS-Engine.",
+    "history": "UnoCSS wurde von Anthony Fu entwickelt und 2021 erstmals als leistungsstarke Atomic-CSS-Engine veröffentlicht, inspiriert von Tailwind CSS und Windi CSS. Es gewann schnell an Popularitaet im Vue.js-Oekosystem und darüber hinaus.",
+    "summary_abuse": "UnoCSS zeigt kein Missbrauchssignal. Es ist eine CSS-Utility-Framework-Bibliothek ohne endnutzerseitige Fläche."
+  },
+  "Unpkg": {
+    "description": "Unpkg ist ein Content Delivery Network für alles auf npm.",
+    "history": "Unpkg wurde um 2015 von Michael Jackson, bekannt durch React Router und Remix, als kostenloses CDN für npm-Pakete geschaffen. Es wurde breit genutzt, um JavaScript-Bibliotheken direkt aus npm im Browser zu laden. Das Projekt wird unabhängig gepflegt.",
+    "summary_abuse": "Unpkg hat als öffentliches CDN für npm-Pakete ein niedriges, aber nicht null Missbrauchsrisiko. Schaedigende npm-Pakete können über unpkg geladen werden, und der Dienst wurde in Postmortems zu Supply-Chain-Angriffen genannt. Überwiegend liefert er jedoch legitime Pakete aus und stützt sich bei der Paketintegrität auf die Sicherheitskontrollen von npm."
+  },
+  "Unpoly": {
+    "description": "Unpoly ist ein unaufdringliches JavaScript-Framework für Anwendungen, die auf dem Server rendern.",
+    "history": "Unpoly ist ein serverfreundliches JavaScript-Framework zur progressiven Erweiterung von HTML-Seiten. Es wurde um 2015 von Henning Koch bei makandra GmbH in Deutschland entwickelt und ermöglicht SPA-ähnliche Interaktionen ohne vollständiges JavaScript-Frontend-Framework.",
+    "summary_abuse": "Unpoly zeigt kein Missbrauchssignal. Es ist eine JavaScript-Bibliothek für servergerenderte HTML-Anwendungen ohne endnutzerseitige Fläche."
+  },
+  "Unruly": {
+    "description": "Unruly ist eine Plattform für Videowerbung.",
+    "history": "Unruly wurde 2006 in London als Plattform für Videowerbung und Content-Distribution gegründet. 2015 wurde das Unternehmen von News Corp übernommen und gehoert zum Advertising-Technology-Portfolio von News Corp.",
+    "summary_abuse": "Unruly ist eine Videowerbeplattform und wie die meisten Ad-Tech-Dienste mit intensivem Third-Party-Tracking über Tracking-Pixel und Videowerbeplatzierungen verbunden. Werbenetzwerke werden gelegentlich für Malvertising-Kampagnen ausgenutzt, und Unruly tauchte in von Forschern gemeldeten Malvertising-Ketten auf, hat aber zugleich eine erhebliche legitime Publisher-Reichweite."
+  },
+  "Unstack": {
+    "description": "Unstack ist ein No-Code-CMS, mit dem leistungsstarke E-Commerce-Storefronts und Websites ohne Engineering-Aufwand bereitgestellt werden können.",
+    "history": "Unstack ist ein US-amerikanisches No-Code-CMS für E-Commerce-Storefronts, das etwa 2019 gegründet wurde. Es richtet sich an D2C-Marken, die performante Landingpages und Storefronts ohne eigene Engineering-Ressourcen bauen wollen.",
+    "summary_abuse": "Unstack hat ein moderates Missbrauchsrisiko, wie es für gehostete Website-Builder mit Gratisstufe typisch ist. Gehostete Storefronts können mit wenig Reibung erstellt und potenziell für gefaelschte Shops genutzt werden. Die Plattform hat Nutzungsbedingungen, aber nur begrenzte öffentliche Dokumentation zur Missbrauchsbekaempfung."
+  },
+  "Untree": {
+    "description": "Untree bietet kostenlose Bootstrap-Templates zum Erstellen responsiver Websites.",
+    "history": "Untree ist ein Anbieter kostenloser Bootstrap-HTML-Templates für Webentwickler. Die Templates werden frei für private und kommerzielle Projekte bereitgestellt.",
+    "summary_abuse": "Untree bietet kostenlose HTML-Templates und zeigt kein auffaelliges Missbrauchssignal. Als Template-Anbieter ohne gehostete Inhalte oder Nutzerkonten hat es eine minimale Missbrauchsfläche."
+  },
+  "Upfluence": {
+    "description": "Upfluence ist eine All-in-one-Plattform für Affiliate- und Influencer-Marketing für E-Commerce- und Direct-to-Consumer-Marken.",
+    "history": "Upfluence wurde 2013 in Lyon, Frankreich, als Plattform für Influencer-Marketing und Affiliate-Marketing gegründet. Das Unternehmen nahm Venture-Finanzierung auf und expandierte, um E-Commerce- und D2C-Marken weltweit zu bedienen.",
+    "summary_abuse": "Upfluence zeigt nur ein minimales Missbrauchssignal. Als Influencer-Marketing-Plattform sammelt sie Social-Media-Daten über Creator, was gewisse Datenschutzfragen aufwirft, ist aber kein dokumentiertes Werkzeug für Betrug oder Scams."
+  },
+  "Upgates": {
+    "description": "Upgates ist eine abonnementsbasierte E-Commerce-Software zum Erstellen von E-Shops.",
+    "history": "Upgates ist eine tschechische, abonnementsbasierte E-Commerce-Plattform zum Erstellen von Online-Shops; sie bedient seit etwa 2010 vor allem den tschechischen und slowakischen Markt.",
+    "summary_abuse": "Upgates zeigt kein auffaelliges Missbrauchssignal. Es ist eine regionale E-Commerce-Plattform vor allem für den tschechischen und slowakischen Markt, mit ueblichen Verbraucherschutzpraktiken für EU-basierte Unternehmen."
+  },
+  "Uplifter": {
+    "description": "Uplifter ist eine Software für Mitgliederverwaltung, die Mitgliederdaten organisiert, Teilnahme verfolgt, Zahlungen verarbeitet und Kommunikation innerhalb von Organisationen unterstützt.",
+    "history": "Uplifter ist eine SaaS für Mitgliederverwaltung in Sportclubs und Organisationen, mit Funktionen für Mitglieder, Zahlungen und Kommunikation; sie richtet sich an Vereine und Fitnesscenter.",
+    "summary_abuse": "Uplifter zeigt kein auffaelliges Missbrauchssignal. Es ist eine Nischenplattform für Mitgliederverwaltung in Sportorganisationen ohne endnutzerseitige Gratis-Hosting-Funktionen, die betrügerische Nutzung anziehen."
+  },
+  "Uplisting": {
+    "description": "Uplisting ist ein Property-Management-System für Eigentümer, Betreiber und Manager von Ferienvermietungen.",
+    "history": "Uplisting ist ein im Vereinigten Koenigreich ansaessiges Property-Management-System für Gastgeber, Betreiber und Manager von Ferienvermietungen. Es wurde etwa 2016 gegründet und bietet Channel Management, Buchungsautomatisierung und plattformübergreifende Synchronisierung für Kurzzeitvermietungen.",
+    "summary_abuse": "Uplisting zeigt kein auffaelliges Missbrauchssignal. Es ist ein B2B-Property-Management-System für Ferienvermietungen mit abonnementsbasiertem Zugang und ohne endnutzerseitige Hosting-Funktionen, die betrügerische Nutzung anziehen."
+  },
+  "Uploadcare": {
+    "description": "Uploadcare ist eine vollständige Plattform für Dateiverarbeitung im Online-Geschäft; sie nimmt Dateien von deinen Nutzern über File Uploader oder File Upload API entgegen, ermöglicht Bildoptimierung und Transformationen mit der Image CDN API und bietet HIPAA-konformen Speicher.",
+    "history": "Uploadcare wurde 2011 als Plattform für Dateiverarbeitung und CDN gegründet; sie stellt Entwicklern APIs für Datei-Uploads, Bildtransformationen und Speicher bereit. Die Plattform bewirbt HIPAA-konformen Speicher für den Umgang mit sensiblen Dateien.",
+    "summary_abuse": "Uploadcare hat ein niedriges bis moderates Missbrauchsrisiko, wie es für File-Hosting-APIs typisch ist. Upload- und Speicherfunktionen könnten theoretisch zum Hosten schaedlicher Inhalte missbraucht werden, die Plattform verlangt jedoch API-Key-Authentifizierung und veröffentlicht Acceptable-Use-Richtlinien. Auffaellige dokumentierte Missbrauchsmuster sind nicht bekannt."
+  },
+  "uPlot": {
+    "description": "uPlot ist eine kleine, schnelle Chart-Bibliothek für Zeitreihen, Linien, Flächen, OHLC und Balken.",
+    "history": "uPlot ist eine kleine, schnelle Chart-Bibliothek für Zeitreihendaten, die etwa 2019 von Leon Sorokin entwickelt wurde; sie ist auf performantes Rendering grosser Datensaetze ausgelegt.",
+    "summary_abuse": "uPlot zeigt kein auffaelliges Missbrauchssignal. Es ist eine clientseitige Charting-Bibliothek."
+  },
+  "Uplynk": {
+    "description": "Uplynk ist eine Videostreaming-Plattform mit Werkzeugen für Live- und On-Demand-Videoauslieferung, einschliesslich Encoding, Transcoding und Content-Management.",
+    "history": "Uplynk wurde urspruenglich als Videostreaming-Startup gegründet und von Akamai übernommen. Unter Akamai wurde es Teil des Media-Streaming-Portfolios und stellt Infrastruktur für Live- und On-Demand-Videoauslieferung für Broadcaster und Streamingdienste bereit.",
+    "summary_abuse": "Uplynk zeigt kein auffaelliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Videostreaming-Infrastruktur im Besitz von Akamai, die vor allem von Broadcastern und Medienunternehmen genutzt wird und keine Endnutzer-Gratisstufe bietet."
+  },
+  "uPortal": {
+    "description": "uPortal ist ein quelloffenes Enterprise-Portal-Framework, das von und für Hochschulen entwickelt wurde.",
+    "history": "uPortal ist ein quelloffenes Enterprise-Portal-Framework für Hochschulen. Es wird von der Apereo Foundation gepflegt und wird seit 2001 an Universitaeten weltweit eingesetzt.",
+    "summary_abuse": "uPortal zeigt kein auffaelliges Missbrauchssignal. Es ist ein Enterprise-Portal für Bildungseinrichtungen."
+  },
+  "Upptime": {
+    "description": "Upptime ist ein quelloffener Uptime-Monitor und eine Statusseite, vollständig betrieben mit GitHub Actions, Issues und Pages.",
+    "history": "Upptime wurde von Aman Gupta entwickelt und 2020 erstmals als quelloffener Uptime-Monitor und Statusseiten-Tool veröffentlicht, betrieben mit GitHub Actions, Issues und Pages. Es bietet kostenlose Infrastrukturüberwachung für auf GitHub gehostete Projekte.",
+    "summary_abuse": "Upptime zeigt kein Missbrauchssignal. Es ist ein quelloffenes Monitoring-Tool, das in den eigenen GitHub-Repositories der Nutzer laeuft und keinen gehosteten Dienstanteil hat."
+  },
+  "Uppy": {
+    "description": "Uppy ist ein quelloffener, modularer JavaScript-Dateiuploader für Integration und Dateiverwaltung in Webanwendungen.",
+    "history": "Uppy ist ein quelloffener JavaScript-Dateiuploader von Transloadit, der 2016 erstmals veröffentlicht wurde. Er ist modular, unterstützt Drag-and-drop und integriert sich mit verschiedenen Backends und Cloud-Diensten für Datei-Uploads in Webanwendungen.",
+    "summary_abuse": "Uppy zeigt kein Missbrauchssignal. Es ist eine JavaScript-Bibliothek für Datei-Uploads, die in Entwickleranwendungen eingebettet wird und keinen gehosteten Endnutzer-Dienst bietet."
+  },
+  "Upravel": {
+    "description": "Upravel ist ein Marketing- und Werbesystem.",
+    "history": "Upravel ist eine kleine SaaS für Werbung und Marketing. Öffentlich sind kein auffaelliges Gründungsdatum und keine Eigentümereignisse dokumentiert.",
+    "summary_abuse": "Upravel ist eine Werbeplattform mit begrenztem öffentlichem Profil und ohne dokumentierte Missbrauchsvorfälle. Werbeplattformen können irreführende Anzeigenplatzierungen beguenstigen, für Upravel ist jedoch kein spezifisches Missbrauchsmuster dokumentiert."
+  },
+  "UPS": {
+    "description": "UPS ist ein US-amerikanisches multinationales Unternehmen für Paketversand, Empfang und Supply-Chain-Management.",
+    "history": "UPS (United Parcel Service) wurde 1907 in Seattle von James Casey gegründet. Das Unternehmen wuchs zu einem der groessten Paketzusteller der Welt. Das UPS-Tracking-Widget und die API sind auf Millionen von E-Commerce-Websites für Sendungsverfolgung eingebettet.",
+    "summary_abuse": "UPS-Tracking-Widgets werden gelegentlich in Phishing-E-Mails imitiert, die angebliche Probleme mit Paketzustellungen melden. Das Tracking-Embed selbst ist kein Betrugsvektor, aber die Marke UPS wird stark in versandbezogenen Phishing-Kampagnen missbraucht, ohne dass UPS-Infrastruktur direkt beteiligt ist."
+  },
+  "Upsales": {
+    "description": "Upsales ist ein Enterprise-Tool für CRM und Marketing-Automatisierung.",
+    "history": "Upsales ist eine schwedische Plattform für CRM und Marketing-Automatisierung, die etwa 2010 gegründet wurde; sie bedient Enterprise-Kunden vor allem in der nordischen Region mit Werkzeugen für Sales Pipeline und Marketing-Automatisierung.",
+    "summary_abuse": "Upsales zeigt kein auffaelliges Missbrauchssignal. Es ist ein B2B-Enterprise-CRM mit vertriebsgesteuerten Preisen und ohne gehostete Endnutzer-Content-Funktionen."
+  },
+  "UpScale Systems": {
+    "description": "UpScale Systems ist eine All-in-one-Plattform zur Unterstützung lokaler Unternehmen.",
+    "history": "UpScale Systems ist eine Plattform für Marketing und Automatisierung lokaler Unternehmen mit Fokus auf KMU. Auffaellige Übernahmen oder Eigentümeränderungen sind nicht dokumentiert.",
+    "summary_abuse": "UpScale Systems ist eine Marketingplattform für lokale Unternehmen ohne auffaelliges Missbrauchssignal; sie bedient kleine Unternehmen mit Messaging und Bewertungsmanagement und bietet keine anonyme Hosting-Fläche."
+  },
+  "Upscope": {
+    "description": "Upscope ist eine Co-Browsing-Software, die Website-Navigation in Echtzeit mit anderen ermöglicht und so Zusammenarbeit und Kundensupport verbessert.",
+    "history": "Upscope ist eine SaaS für Co-Browsing und Remote Access für Kundensupport-Teams, die etwa 2016 im Vereinigten Koenigreich gegründet wurde; sie ermöglicht Support-Mitarbeitenden, den Browserbildschirm eines Nutzers in Echtzeit zu sehen und mit ihm zu interagieren.",
+    "summary_abuse": "Upscope zeigt nur ein minimales Missbrauchssignal. Co-Browsing-Tools könnten theoretisch für Social Engineering missbraucht werden, Upscope verlangt jedoch ausdrueckliche Zustimmung des Nutzers und ist ein B2B-Tool ohne dokumentiert missbrauchte anonyme Zugriffsfunktionen."
+  },
+  "Upscribe": {
+    "description": "Upscribe ist eine Plattform mit Werkzeugen zum Erstellen von Newsletter-Anmeldeformularen.",
+    "history": "Upscribe wurde etwa 2019 als Plattform für Newsletter-Anmeldeformulare und Wachstumstools gegründet. Laut Crunchbase ist das Unternehmen seit 2023 dauerhaft geschlossen.",
+    "summary_abuse": "Upscribe zeigt kein auffaelliges Missbrauchssignal. Es war eine kleine Plattform für Newsletter-Anmelde-Widgets und ist inzwischen offenbar geschlossen. Es sind keine dokumentierten Missbrauchsmuster damit verbunden."
+  },
+  "UpSellit": {
+    "description": "UpSellit bietet performancebasierte Lösungen für Lead-Gewinnung und Warenkorbabbruch-Recovery.",
+    "history": "UpSellit ist eine US-amerikanische SaaS-Plattform für Warenkorbabbruch- und Lead-Recovery, die etwa 2008 gegründet wurde; sie arbeitet mit einem performancebasierten Modell, bei dem Gebuehren anhand des zurückgewonnenen Umsatzes anfallen.",
+    "summary_abuse": "UpSellit zeigt als Infrastrukturanbieter kein auffaelliges Missbrauchssignal. Exit-Intent-Popups und Warenkorbabbruch-Taktiken, wie sie Plattformen wie UpSellit nutzen, können jedoch reibungsreiche UX-Muster erzeugen. Dokumentierte Nutzung für Betrug oder Phishing ist nicht bekannt."
+  },
+  "UpsellPlus": {
+    "description": "Upsell ist eine App für Checkout-Upsells, Post-Purchase-Seiten und Anpassungsoptionen zur Verbesserung von Umsatz und Kundenerlebnis.",
+    "history": "UpsellPlus ist eine Shopify-App für Post-Purchase-Upsells und Cross-Sells in E-Commerce-Shops; sie wurde etwa 2020 für Shopify-Händler gestartet.",
+    "summary_abuse": "UpsellPlus zeigt kein auffaelliges Missbrauchssignal. Es ist eine Shopify-Upsell-App, deren Nutzungsmuster normaler E-Commerce-Conversion-Optimierung entsprechen und für die kein Missbrauch dokumentiert ist."
+  },
+  "Upserve": {
+    "description": "Upserve ist eine Restaurant-Management-Lösung mit einem Android- oder iOS-basierten Kassensystem, Online-Bestellungen, kontaktlosen Zahlungen, automatisierter Lagerverwaltung, Verkaufsanalysen und weiteren Funktionen.",
+    "history": "Upserve wurde 2009 als Plattform für Restaurant-Management und Kassensysteme gegründet. 2020 wurde das Unternehmen von Lightspeed Commerce übernommen und in Lightspeed Restaurant umbenannt. Die Marke Upserve erscheint weiterhin in älteren Integrationen.",
+    "summary_abuse": "Für Upserve gibt es kein auffälliges Missbrauchssignal. Die Plattform dient als Restaurant-POS und Managementlösung für Zahlungsabwicklung in kontrollierten B2B-Umgebungen. Wegen der Zahlungsabwicklung ist PCI-Compliance relevant."
+  },
+  "UpSolution Zephyr": {
+    "description": "Zephyr ist ein WordPress-Theme von UpSolution, einem Softwareentwicklungsunternehmen aus der Ukraine, das sich auf Themes und Plugins für WordPress spezialisiert.",
+    "history": "Zephyr ist ein Premium-WordPress-Theme von UpSolution, einem ukrainischen Entwickler von WordPress-Themes und Plugins. Das Theme legt den Schwerpunkt auf ein klares, modernes Design und flexible Einsatzmöglichkeiten.",
+    "summary_abuse": "Für UpSolution Zephyr gibt es kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Theme ohne plattformseitig gehostete Funktionen, die betrügerische Nutzung anziehen würden."
+  },
+  "Upstack Data": {
+    "description": "Upstack Data ist ein Toolkit für datengetriebenes Marketing mit Multi-Touch-Attribution, erweiterter C-API-Integration und Funktionen zur Identitätsauflösung.",
+    "history": "Upstack Data ist eine Marketingdatenplattform für digitale Werbetreibende und bietet Multi-Touch-Attribution, Conversions API-Integration und Identitätsauflösung. Öffentlich sind nur wenige Gründungsinformationen verfügbar.",
+    "summary_abuse": "Zur Missbrauchslage von Upstack Data gibt es nur begrenzte öffentliche Dokumentation. Als Plattform für Datenvermittlung und Attribution verarbeitet sie Daten zur Identitätsauflösung, was inhärente Datenschutzrisiken mit sich bringt. Öffentlich bekannte konkrete Betrugsfälle sind jedoch nicht dokumentiert."
+  },
+  "Upsy": {
+    "description": "Upsy ist eine Plattform, die personalisierte Produktempfehlungen für E-Commerce-Shops bereitstellt.",
+    "history": "Upsy ist ein finnisches SaaS-Angebot für E-Commerce-Personalisierung mit KI-basierten Produktempfehlungen für Onlineshops. Der Schwerpunkt liegt vor allem auf dem nordischen Markt.",
+    "summary_abuse": "Für Upsy gibt es kein auffälliges Missbrauchssignal. Es ist ein B2B-Tool für E-Commerce-Personalisierung und Produktempfehlungen, ohne gehostete Inhalte oder Funktionen für Endnutzer, die Betrug begünstigen würden."
+  },
+  "Uptain": {
+    "description": "Uptain ist eine Softwarelösung, die Kaufabbrüche im E-Commerce mit KI-basierten Werkzeugen wie Exit-Intent-Popups und Trigger-E-Mails reduzieren soll.",
+    "history": "Uptain ist ein deutsches SaaS-Angebot für Warenkorbabbruch und E-Mail-Retargeting, das um 2015 gegründet wurde. Mit KI-basierten Exit-Intent-Popups und Trigger-E-Mails sollen E-Commerce-Unternehmen abgebrochene Warenkörbe zurückgewinnen.",
+    "summary_abuse": "Uptain hat ein niedriges bis moderates Missbrauchsrisiko. Exit-Intent-Popups und ausgelöste Retargeting-E-Mails können Dark Patterns darstellen, wenn keine saubere Einwilligung vorliegt. Die Plattform ist auf GDPR-Anforderungen im EU-Markt ausgerichtet, aber Exit-Intent-Mechaniken und unaufgefordertes E-Mail-Retargeting sind grundsätzlich aggressive Abläufe."
+  },
+  "UptimeRobot": {
+    "description": "UptimeRobot ist eine webbasierte Software, die Websites regelmässig überwacht und prüft, ob sie wegen Serverproblemen oder Codefehlern nicht erreichbar sind.",
+    "history": "UptimeRobot wurde um 2010 gegründet und entwickelte sich zu einem führenden kostenlosen Dienst für Uptime-Monitoring, mit Prüfungen alle 5 Minuten im Gratis-Tarif. Entwickler und kleine Unternehmen weltweit nutzen den Dienst häufig zur Überwachung von Websites und Servern.",
+    "summary_abuse": "Für UptimeRobot gibt es kein auffälliges Missbrauchssignal. Der Monitoring-Dienst sendet HTTP-Anfragen, um die Verfügbarkeit zu prüfen. Seine Infrastruktur könnte theoretisch als Scan-Aktivität erscheinen, bietet aber keine endnutzerseitigen Funktionen, die für Betrug ausgenutzt werden."
+  },
+  "Uptrends": {
+    "description": "Uptrends ist eine Lösung zur Überwachung von Websites und Web-Performance.",
+    "history": "Uptrends ist ein niederländisches Unternehmen für Website-Monitoring und Web-Performance-Monitoring, das 2007 gegründet wurde. Es bietet Lösungen für Uptime-, Performance-, API- und Real-User-Monitoring und richtet sich vor allem an Unternehmen und Grosskunden in Europa.",
+    "summary_abuse": "Für Uptrends gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Web-Monitoring ohne endnutzerseitig gehostete Inhalte, die betrügerische Nutzung anziehen würden."
+  },
+  "Upvoty": {
+    "description": "Upvoty ist eine Plattform zum Sammeln und Verwalten von Nutzerfeedback und Feature-Anfragen.",
+    "history": "Upvoty ist ein niederländisches SaaS-Angebot für Nutzerfeedback und Feature-Request-Management, das um 2019 gegründet wurde. Es stellt öffentliche oder interne Voting-Boards bereit, mit denen Produktteams die Weiterentwicklung priorisieren können.",
+    "summary_abuse": "Für Upvoty gibt es kein auffälliges Missbrauchssignal. Es ist eine Produktfeedback-Plattform ohne endnutzerseitiges Hosting, das betrügerische Nutzung anziehen würde."
+  },
+  "uRemediate": {
+    "description": "uRemediate bietet Werkzeuge für Web-Accessibility-Tests und Accessibility-Overlays.",
+    "history": "uRemediate ist ein Accessibility-Overlay und Testwerkzeug von User1st, einem Unternehmen für digitale Barrierefreiheit. Abgesehen von dieser Beziehung zur Muttergesellschaft sind keine auffälligen Eigentümerwechsel dokumentiert.",
+    "summary_abuse": "uRemediate ist ein Web-Accessibility-Overlay ohne auffälliges Missbrauchssignal."
+  },
+  "Ureserv": {
+    "description": "Ureserv ist ein Online-System für Restaurantreservationen und Tischverwaltung, mit dem Gastronomiebetriebe Buchungen, Verfügbarkeiten und Sitzplatzkoordination verwalten können.",
+    "history": "UReserv wurde 2012 von Jeffrey Gates und Van Garrett mitgegründet und auf der New England Food Show lanciert. Ziel war ein bezahlbares Online-Reservationssystem für unabhängige Restaurants. Das Unternehmen wuchs auf Hunderte Restaurants in Nordamerika und hat über 6 Millionen Gäste platziert.",
+    "summary_abuse": "UReserv ist eine Plattform für Restaurantreservationen und Tischverwaltung ohne auffälliges Missbrauchssignal; sie verarbeitet legitime Buchungsvorgänge für Gastronomiebetriebe und bietet keine anonyme Content-Hosting-Fläche."
+  },
+  "Urllo": {
+    "description": "Urllo ist ein URL-Weiterleitungsdienst, mit dem Unternehmen Link-Weiterleitungen verwalten und vereinfachen können.",
+    "history": "Die Plattform wurde 2014 von William Richards in Calgary, Kanada, als EasyRedir gegründet und gehörte zu den frühen Diensten für professionelles URL-Redirect-Management. Nach zehn Jahren Betrieb mit über 1'000 Kunden, darunter IKEA und Porsche, wurde das Unternehmen im Dezember 2024 in urllo umbenannt.",
+    "summary_abuse": "Urllo, früher EasyRedir, ist eine Plattform für URL-Redirect-Management, die von Unternehmen genutzt wird. Als Weiterleitungsdienst hat sie ein gewisses inhärentes Potenzial für Link-Verschleierung, richtet sich aber an verifizierte Geschäftskunden, setzt Nutzungsregeln durch und bietet keine anonymen kostenlosen Redirects. Dadurch bleibt die Missbrauchsfläche gering."
+  },
+  "UsableNet": {
+    "description": "UsableNet ist eine Technologie für Web-Barrierefreiheit und digitale Transformation mit End-to-End-Dienstleistungen.",
+    "history": "UsableNet wurde 2000 in New York als Dienstleistungsunternehmen für Web-Barrierefreiheit und digitale Transformation gegründet. Es bietet ADA- und WCAG-Compliance-Overlays sowie Testdienstleistungen vor allem für Unternehmenskunden.",
+    "summary_abuse": "Für UsableNet gibt es kein auffälliges Missbrauchssignal. Es ist ein Unternehmen für Accessibility- und Compliance-Dienstleistungen im Enterprise-Bereich, ohne endnutzerseitige Funktionen, die betrügerische Nutzung anziehen würden."
+  },
+  "Uscreen": {
+    "description": "Uscreen ist ein CMS zur Monetarisierung von VOD- und Live-Inhalten. Es bietet Website-Hosting, Video-Hosting und ein Zahlungsgateway für den Verkauf videobasierter Inhalte.",
+    "history": "Uscreen wurde um 2015 als Plattform für Videomonetarisierung und OTT gegründet, damit Creator und Unternehmen VOD- und Live-Streaming-Inhalte direkt verkaufen können. Die Zielgruppe sind Online-Bildungsanbieter und Content-Creator.",
+    "summary_abuse": "Für Uscreen gibt es kein auffälliges Missbrauchssignal. Es ist eine kostenpflichtige Videomonetarisierungsplattform für Creator und Unternehmen, ohne dokumentierte Muster betrügerischer Nutzung."
+  },
+  "Useberry": {
+    "description": "Useberry ist eine Plattform mit Werkzeugen, um Nutzertests in einer integrierten Umgebung durchzuführen und auszuwerten.",
+    "history": "Useberry wurde 2018 in Athen, Griechenland, als Plattform für UX-Research und Nutzertests gegründet. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Useberry ist eine Plattform für UX-Research und Usability-Tests ohne auffälliges Missbrauchssignal; sie wird von UX-Designern und Researchern genutzt und bietet weder anonymes Content-Hosting noch öffentliche Redirect-Flächen."
+  },
+  "User Accessibility": {
+    "description": "User Accessibility ist eine Lösung, die automatisierte Website-Scans und maschinelles Lernen für künftige Updates kombiniert und mit JS die Konformität mit WCAG-Standards zur besseren Barrierefreiheit von Websites und Anwendungen unterstützt.",
+    "history": "User Accessibility ist eine israelische Compliance-Lösung für Web-Barrierefreiheit, die automatisierte Scans und KI kombiniert, um Websites bei der Erfüllung von WCAG- und ADA-Anforderungen zu unterstützen. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "User Accessibility ist ein Compliance-Widget für Web-Barrierefreiheit ohne auffälliges Missbrauchssignal. Es bettet unterstützende Skripte in Websites ein und bietet keine Content-Hosting- oder anonyme Registrierungsfläche."
+  },
+  "user.com": {
+    "history": "user.com ist eine polnische Customer-Data-Plattform und ein Marketing-Automation-Tool mit CRM, Live-Chat, E-Mail-Marketing und Analytics-Funktionen. Auffällige Übernahmen sind nicht bekannt.",
+    "summary_abuse": "user.com ist eine Plattform für Customer Engagement ohne auffälliges Missbrauchssignal; sie wird von Unternehmen für Kundenkommunikation genutzt und weist keine Eigenschaften auf, die Betrüger besonders anziehen würden."
+  },
+  "Userback": {
+    "description": "Userback ist eine Plattform für visuelles Feedback und Bug-Tracking auf Websites und Webanwendungen, über die Nutzer Feedback mit Screenshots und Anmerkungen geben können.",
+    "history": "Userback ist ein australisches SaaS-Angebot für visuelles Feedback und Bug-Reporting, das um 2017 gegründet wurde. Es ermöglicht Nutzern, kommentiertes Screenshot-Feedback direkt aus Webanwendungen zu senden.",
+    "summary_abuse": "Für Userback gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für visuelles Feedback ohne endnutzerseitig gehostete Inhalte, die betrügerische Nutzung anziehen würden."
+  },
+  "Userbase": {
+    "description": "Userbase ist ein Werkzeug, das Login-Integration und persistente Nutzerdaten für statische Websites ermöglicht.",
+    "history": "Userbase ist eine Open-Source-Bibliothek für Authentifizierung und Nutzerdaten auf statischen Websites; sie entstand um 2020 als einfache Alternative zu Firebase Auth, wird von einem kleinen Team gepflegt und setzt auf einfache Nutzung für Entwickler.",
+    "summary_abuse": "Für Userbase gibt es kein Missbrauchssignal. Es ist eine Open-Source-Authentifizierungsbibliothek für Entwickler ohne endnutzerseitig angebotenen gehosteten Dienst."
+  },
+  "Usercentrics": {
+    "description": "Usercentrics ist eine SaaS-Unternehmenslösung für Consent Management (CMP), mit der Unternehmenskunden Nutzereinwilligungen einholen, verwalten und dokumentieren können.",
+    "history": "Usercentrics wurde 2017 in München als Consent Management Platform (CMP) für GDPR-Compliance gegründet. Das Unternehmen wurde zu einer der führenden CMPs in Europa, ist nach IAB TCF zertifiziert und erhielt bedeutende VC-Finanzierung. Usercentrics ist auf europäischen Enterprise-Websites weit verbreitet.",
+    "summary_abuse": "Für Usercentrics gibt es kein auffälliges Missbrauchssignal. Es ist eine Consent-Management-Plattform für GDPR-Compliance. Ironischerweise können CMPs so konfiguriert werden, dass sie bei der Einwilligungseinholung Dark Patterns einsetzen, Usercentrics selbst bewirbt jedoch datenschutzfreundliche Grundeinstellungen."
+  },
+  "Userflow": {
+    "description": "Userflow ist eine Onboarding-Software zum Erstellen von Produkttouren und Onboarding-Checklisten, abgestimmt auf deine App und deine Nutzer.",
+    "history": "Userflow ist ein dänisches SaaS-Angebot für Nutzer-Onboarding und Produkttouren, das um 2019 gegründet wurde. Produktteams können damit In-App-Onboarding-Flows, Checklisten und Tooltips ohne Code erstellen.",
+    "summary_abuse": "Für Userflow gibt es kein auffälliges Missbrauchssignal. Es ist ein B2B-Werkzeug für Nutzer-Onboarding, das in den Anwendungen der Kunden läuft und keine endnutzerseitig gehosteten Inhalte bietet."
+  },
+  "Userlane": {
+    "description": "Userlane ist eine Plattform mit interaktiven Schritt-für-Schritt-Anleitungen, die Nutzer durch Softwareanwendungen führen.",
+    "history": "Userlane wurde 2015 in München als Digital-Adoption-Plattform gegründet und stellt interaktive Guidance-Overlays für Unternehmenssoftware bereit. Die Plattform richtet sich an grosse Organisationen, die Mitarbeitende in komplexe interne Werkzeuge einarbeiten.",
+    "summary_abuse": "Für Userlane gibt es kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Digital Adoption, die in B2B-Softwareumgebungen läuft und keine endnutzerseitig gehosteten Inhalte bietet."
+  },
+  "UserLike": {
+    "description": "Userlike ist eine cloudbasierte Live-Chat-Lösung, die in bestehende Websites integriert werden kann.",
+    "history": "Userlike wurde 2011 in Köln als Live-Chat-Software für Websites gegründet. Es ist ein etabliertes SaaS-Angebot aus Deutschland mit starkem Fokus auf GDPR-Compliance und bietet sowohl kostenlose als auch kostenpflichtige Tarife.",
+    "summary_abuse": "Für Userlike gibt es kein auffälliges Missbrauchssignal. Es ist eine GDPR-orientierte deutsche Live-Chat-Plattform für legitimen Kundensupport, ohne dokumentierte Muster betrügerischer Nutzung."
+  },
+  "Userlink": {
+    "description": "Userlink ist eine Plattform, die KI-Chatbots in Webshops integriert, um das Kundenerlebnis zu verbessern und den Umsatz zu steigern.",
+    "history": "Userlink ist eine Integrationsplattform für KI-Chatbots in E-Commerce-Webshops. Öffentlich sind weder ein auffälliges Gründungsdatum noch Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Userlink ist ein KI-Chatbot-Tool für Webshops ohne auffälliges Missbrauchssignal. Das B2B-Integrationsmodell begrenzt die endnutzerseitige Missbrauchsfläche."
+  },
+  "Userpilot": {
+    "description": "Userpilot ist eine cloudbasierte Product-Experience-Plattform für Customer-Success- und Produktteams, die Nutzer per verhaltensgesteuerten Erlebnissen onboarden und die Produktakzeptanz steigern wollen.",
+    "history": "Userpilot wurde um 2018 als SaaS-Angebot für Product Experience und Nutzer-Onboarding gegründet. Produktteams können damit In-App-Onboarding-Flows, Tooltips und verhaltensbasierte Trigger ohne Entwicklungsaufwand erstellen.",
+    "summary_abuse": "Für Userpilot gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Produkt-Onboarding, die in die SaaS-Produkte der Kunden eingebettet wird und keine endnutzerseitig gehosteten Inhalte bietet."
+  },
+  "UserReport": {
+    "description": "UserReport ist eine Online-Plattform für Umfragen und Feedback-Management.",
+    "history": "UserReport ist eine dänische Plattform für Online-Umfragen und Feedback mit einbettbaren Umfrage-Widgets für Websites; sie wurde um 2012 gegründet und bietet sowohl kostenlose als auch Enterprise-Tarife.",
+    "summary_abuse": "Für UserReport gibt es kein auffälliges Missbrauchssignal. Es ist eine Plattform für Umfrage- und Feedback-Widgets ohne endnutzerseitig gehostete Inhalte, die betrügerische Nutzung anziehen würden."
+  },
+  "UserRules": {
+    "history": "UserRules ist als Issue-Tracker-Plattform kategorisiert. Zur Geschichte oder Eigentümerstruktur sind nur wenige öffentliche Informationen verfügbar.",
+    "summary_abuse": "Auf Basis der verfügbaren Informationen gibt es für UserRules kein auffälliges Missbrauchssignal."
+  },
+  "Usersnap": {
+    "description": "Usersnap ist eine Nutzerfeedback-Plattform für Produktteams, um Probleme, Ideen und Umfragen zu sammeln und so Nutzertests und Produktentscheidungen zu unterstützen.",
+    "history": "Usersnap wurde 2013 in Linz, Österreich, als Plattform für visuelles Feedback und Bug-Reporting für Webprodukte gegründet. Das Unternehmen wuchs zu einem weltweit genutzten Werkzeug für Produkt- und QA-Teams mit Screenshot-Anmerkungen, Umfragen und Issue-Tracking-Integrationen.",
+    "summary_abuse": "Für Usersnap gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform zum Sammeln visuellen Feedbacks, die in Webanwendungen eingebettet wird und keine endnutzerseitig gehosteten Inhalte bietet."
+  },
+  "UserVoice": {
+    "description": "UserVoice ist eine Management-Plattform zum Sammeln und Analysieren von Kundenfeedback.",
+    "history": "UserVoice wurde 2008 in San Francisco als eine der frühen Plattformen für Customer-Feedback-Management gegründet. SaaS-Unternehmen nutzten sie breit, um Feature-Anfragen und Produktfeedback zu sammeln. Das Unternehmen blieb über mehrere Finanzierungsrunden hinweg unabhängig.",
+    "summary_abuse": "Für UserVoice gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Kundenfeedback und Feature-Request-Management, die von Produktteams genutzt wird und keine endnutzerseitigen Hosting-Funktionen bietet, die betrügerische Nutzung anziehen würden."
+  },
+  "UserWay": {
+    "description": "UserWay ist ein Web-Accessibility-Overlay für Websites, das die Einhaltung von Barrierefreiheitsstandards verbessern soll.",
+    "history": "UserWay wurde 2016 in Israel als Widget für Web-Accessibility-Overlays zur WCAG-Compliance gegründet. Das Unternehmen wuchs mit einem Freemium-Modell schnell, wurde aber von Accessibility-Fachleuten dafür kritisiert, Compliance-Vorteile zu stark darzustellen. UserWay wurde von Level Access übernommen, einem Anbieter von Enterprise-Lösungen für Barrierefreiheit.",
+    "summary_abuse": "UserWay hat kein direktes Missbrauchssignal als Betrugswerkzeug, stand aber rechtlich und ethisch unter Beobachtung. Accessibility-Vertreter haben angezweifelt, dass das Overlay-Widget echte WCAG-Compliance erreicht. Der kostenlose Tarif bettet ein Drittanbieter-Skript auf teilnehmenden Websites ein, was Datenschutzfragen für Endnutzer schafft. Eine Nutzung für Phishing oder Scam-Hosting ist nicht dokumentiert."
+  },
+  "UserZoom": {
+    "description": "UserZoom ist eine cloudbasierte Lösung für User Experience.",
+    "history": "UserZoom wurde 2007 als cloudbasierte Plattform für UX-Research und Nutzertests gegründet. 2022 wurde das Unternehmen von UserTesting übernommen, wodurch eine der grössten Plattformen für UX-Research entstand. Der Enterprise-Fokus und die SOC 2-Compliance machten UserZoom bei grossen Organisationen beliebt.",
+    "summary_abuse": "Für UserZoom gibt es kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für UX-Research, mit der Unternehmen ihre eigenen Produkte mit rekrutierten Teilnehmenden testen, ohne endnutzerseitiges Content-Hosting."
+  },
+  "Ushahidi": {
+    "description": "Ushahidi ist ein Werkzeug, das Crowdsourcing-Daten und gezielte Umfrageantworten aus mehreren Datenquellen sammelt.",
+    "history": "Ushahidi entstand 2008 in Kenia, um nach der Krise im Anschluss an die Wahlen Berichte über Gewalt per Crowdsourcing zu sammeln. Die Open-Source-Plattform für Mapping und Crowdsourcing wurde zu einem einflussreichen Werkzeug der humanitären Technologie und kam weltweit bei Katastrophenreaktionen zum Einsatz, unter anderem 2010 in Haiti. Gepflegt wird sie von der gemeinnützigen Ushahidi-Organisation.",
+    "summary_abuse": "Für Ushahidi gibt es kein auffälliges kommerzielles Missbrauchssignal. Als Crowdsourcing-Plattform für Krisenberichte wurde sie gelegentlich von böswilligen Akteuren mit Falschmeldungen angegriffen, um Notfallreaktionen zu stören. Das ist jedoch eine inhärente Herausforderung offener Meldesysteme und kein Hinweis auf Nachlässigkeit des Anbieters."
+  },
+  "Usizy": {
+    "description": "Usizy ist eine führende Lösung für Grössenempfehlungen und Grössenprognosen im E-Commerce, die Machine Learning, Big Data und isomorphe Algorithmen nutzt.",
+    "history": "Usizy ist ein spanisches SaaS-Angebot für Grössenempfehlungen im E-Commerce und nutzt Machine Learning, um die passende Kleidergrösse für Käufer vorherzusagen. Das Unternehmen wurde um 2016 gegründet und bedient vor allem Fashion-E-Commerce-Marken.",
+    "summary_abuse": "Für Usizy gibt es kein auffälliges Missbrauchssignal. Es ist ein B2B-Widget für Grössenprognosen im Fashion-E-Commerce ohne endnutzerseitig gehostete Inhalte."
+  },
+  "uSocial": {
+    "description": "uSocial ist ein Werkzeug, das anpassbare Share- und Like-Buttons für Websites erzeugt und so Social-Interaktionen schnell integrierbar macht.",
+    "history": "uSocial (usocial.pro) ist ein Widget-Dienst zum Einbinden anpassbarer Social-Share- und Like-Buttons auf Websites. Zur Unternehmensgeschichte sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "Für uSocial gibt es kein auffälliges Missbrauchssignal. Es ist ein Widget für Social-Sharing-Buttons ohne Content-Hosting-Funktionen und ohne dokumentierte Missbrauchsmuster."
+  },
+  "USPS": {
+    "description": "Der United States Postal Service (USPS) ist eine unabhängige Behörde der Exekutive der US-Bundesregierung und für den Postdienst in den Vereinigten Staaten zuständig.",
+    "history": "USPS (United States Postal Service) ist eine US-Bundesbehörde mit Wurzeln im Postdienst, den Benjamin Franklin 1775 etablierte. Die USPS-Web-API und Tracking-Werkzeuge sind in Millionen E-Commerce-Websites für die Sendungsverfolgung im Inland integriert.",
+    "summary_abuse": "Die Marke USPS wird massiv in Phishing-Kampagnen mit gefälschten Lieferbenachrichtigungen missbraucht. Das USPS-Tracking-Embed auf legitimen Websites ist selbst kein Betrugsvektor, aber USPS-gebrandetes Smishing (SMS-Phishing) gehört zu den häufigsten Liefer-Phishing-Ködern und leitet typischerweise auf Seiten zum Abgreifen von Zugangsdaten weiter."
+  },
+  "USWDS": {
+    "description": "USWDS ist ein Designsystem für die US-Bundesregierung.",
+    "history": "Das US Web Design System (USWDS) wurde 2015 vom US Digital Service und 18F als Designsystem für Websites der US-Bundesregierung lanciert. Es ist Open Source unter Creative Commons Zero und wird auf Websites von US-Bundesbehörden eingesetzt.",
+    "summary_abuse": "USWDS ist ein Designsystem der US-Regierung ohne Missbrauchssignal. Komponenten eines staatlichen Designsystems sind kein Ziel für Betrugsinfrastruktur."
+  },
+  "Utiq": {
+    "description": "Utiq ermöglicht Marken und Publishern, Zielgruppen über einen Telco-gestützten First-Party-Identifier anzusprechen.",
+    "history": "Utiq wurde um 2022 als telco-gestützte Identitätslösung für Werbung gegründet; sie ermöglicht Telekommunikationsanbietern, einen First-Party-Identifier für Werbe-Targeting bereitzustellen. Utiq ist ein Joint Venture grosser europäischer Telekommunikationsanbieter.",
+    "summary_abuse": "Utiq ist ein telco-gestütztes Identifikationssystem für Werbung. Es kombiniert nutzerbezogene Identifikation auf Netzwerkebene mit Werbe-Targeting und wirft damit erhebliche Datenschutzfragen auf. Nutzer müssen über ein ausdrückliches Consent-Portal zustimmen, dennoch machen der Zugriff auf Telco-Ebene und das Profil für Werbetracking diese Technologie aus Datenschutzsicht risikoreicher."
+  },
+  "utterances": {
+    "description": "Utterances ist ein schlankes Kommentar-Widget, das auf GitHub Issues basiert.",
+    "history": "utterances ist ein leichtgewichtiges Kommentar-Widget auf Basis von GitHub Issues, das um 2018 entstand. Websites, besonders Entwicklerblogs, können damit GitHub Issues als Kommentarsystem nutzen. Nutzer müssen sich dafür mit GitHub authentifizieren.",
+    "summary_abuse": "utterances nutzt GitHub Issues für Kommentare. Spam oder Missbrauch über utterances würde daher als GitHub-Issue im Ziel-Repository erscheinen. Die Missbrauchsschutzmechanismen von GitHub greifen entsprechend. Ein auffälliger systematischer Missbrauch ist nicht dokumentiert."
+  },
+  "Uvicorn": {
+    "description": "Uvicorn ist eine ASGI-Serverimplementierung für Python-Webanwendungen, die häufig mit Frameworks wie FastAPI genutzt wird, um Webanfragen asynchron und performant zu verarbeiten.",
+    "history": "Uvicorn ist ein Python-ASGI-Server, der von Tom Christie entwickelt und um 2017 erstmals veröffentlicht wurde. Er wurde zum Standard-ASGI-Server für Python-Webframeworks wie FastAPI und Starlette und wird breit in produktiven, leistungsorientierten Python-Webanwendungen eingesetzt.",
+    "summary_abuse": "Für Uvicorn gibt es kein Missbrauchssignal. Es ist eine Python-ASGI-Serverbibliothek ohne endnutzerseitige Oberfläche."
+  },
+  "Uvodo": {
+    "description": "Uvodo ist eine E-Commerce-Plattform auf Basis von React, PHP und MySQL mit lokalen und globalen Zahlungsintegrationen, robusten Verkaufstools und keinen Zusatzkosten.",
+    "history": "Uvodo wurde 2022 in San Francisco von Taleh Karimli und Orkhan Hajiyev gegründet und erhielt 300'000 USD von Khazar Ventures und Go Global World, um eine provisionsfreie E-Commerce- und Zahlungsplattform für Solo-Unternehmer und KMU aufzubauen.",
+    "summary_abuse": "Für Uvodo ist kein auffälliger Missbrauch dokumentiert. Als E-Commerce-Plattform mit Gratis-Tarif haben kostenlos gehostete Storefronts ein gewisses inhärentes Risiko für Fake-Shops, doch Uvodo ist noch jung und zu nischig, um ein primäres Ziel für Betrug in grossem Massstab zu sein."
+  },
+  "UXSniff": {
+    "description": "UXSniff ist ein UX-Analysewerkzeug, das Usability-Probleme automatisch anhand des Nutzerverhaltens erkennt, darunter Layout Shifts und Rage Clicks, um potenzielle Conversion-Probleme früh zu identifizieren.",
+    "history": "UXSniff ist ein UX-Analytics-Werkzeug, das Usability-Probleme durch die Analyse von Session Recordings und Heatmaps erkennt. Öffentlich ist nur wenig Geschichte verfügbar, es wirkt wie ein kleines Startup-Produkt.",
+    "summary_abuse": "UXSniff zeichnet Nutzersitzungen für UX-Analysen auf und erfasst damit sensibles Nutzerverhalten. Session-Recording-Tools werfen Datenschutzfragen auf, wenn sie ohne ausreichende Einwilligungshinweise eingesetzt werden. Konkreter betrugsbezogener Missbrauch ist nicht dokumentiert."
+  },
+  "Uzerly": {
+    "description": "Uzerly ist ein technologieorientiertes Unternehmen mit Spezialisierung auf Retargeting.",
+    "history": "Uzerly ist eine Retargeting-Plattform von Cibleclic SAS, einer französischen Digitalmarketing-Agentur mit Sitz in Paris; sie ist auf E-Commerce-Retargeting und Zielgruppensegmentierung spezialisiert.",
+    "summary_abuse": "Uzerly ist ein Ad-Retargeting-Tracker, der in E-Commerce-Websites eingebettet wird. Er sammelt Besucherverhaltensdaten für Retargeting-Zwecke und fällt damit in die Ad-Tech-Datenschutzkategorie, hat aber kein dokumentiertes Muster, Phishing oder Betrug zu erleichtern."
+  }
+}

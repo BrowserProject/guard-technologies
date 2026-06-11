@@ -1,0 +1,790 @@
+{
+  "N1ED": {
+    "description": "N1ED ist ein Editor für Bootstrap-Websites, mit dem Inhalte Block für Block aufgebaut werden können.",
+    "history": "N1ED ist eine WYSIWYG- und Block-Editor-Plattform von EdSDK (Dmitry Komarov); sie lässt sich als Plugin für CKEditor 4, TinyMCE oder eigenständig nutzen und bietet einen visuellen Content-Builder mit Dateimanager und Bildeditor. Die Plattform ist mit Drupal, Joomla, WordPress, Magento und React kompatibel. Grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Kein auffälliges Missbrauchssignal. N1ED ist ein Nischen-Plugin für Web-Editoren ohne verbraucherseitige Oberfläche oder Hosting-Funktionen, die Missbrauch erleichtern würden."
+  },
+  "Nabble": {
+    "description": "Nabble ist eine Plattform für kostenloses Forum-Hosting und anpassbare Online-Webanwendungen.",
+    "history": "Nabble startete um 2006 als kostenloser Forum-Hosting-Dienst, über den Nutzer Diskussionsforen auch in Websites einbetten konnten. In der frühen Web-2.0-Zeit fand die Plattform eine gewisse Verbreitung, stagnierte aber weitgehend, als soziale Medien und modernere Forenplattformen übernahmen; sie ist weiterhin in Betrieb, zeigt jedoch wenig aktive Weiterentwicklung.",
+    "summary_abuse": "Nabble ermöglicht kostenlos gehostete Foren mit geringen Verifizierungsanforderungen und wurde dadurch in kleinem Umfang für Spam-Threads und einfache Scam-Beiträge genutzt. Wegen der geringen Aktivität und begrenzter Moderationsinfrastruktur können Takedowns langsam sein. Das Missbrauchsvolumen ist angesichts der kleinen Plattform niedrig, das kostenlose anonyme Hosting-Modell bleibt aber ein Risikofaktor."
+  },
+  "Nacelle": {
+    "description": "Nacelle ist eine Headless-Ecommerce-Plattform.",
+    "history": "Nacelle wurde 2019 gegründet und erhielt Venture-Finanzierung für eine Headless-Commerce-Plattform, die das Frontend von Backend-Ecommerce-Systemen wie Shopify und Magento entkoppelt. Das Unternehmen richtet sich an Händler im Mid-Market- und Enterprise-Segment, die mit composable Commerce bessere Performance erreichen wollen.",
+    "summary_abuse": "Nacelle ist eine B2B-Infrastrukturplattform für Headless Ecommerce ohne direkte verbraucherseitige Oberfläche. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "NACEX": {
+    "description": "NACEX ist ein Express-Kurierunternehmen in Spanien, Andorra und Portugal.",
+    "history": "NACEX wurde am 6. Februar 1995 in Barcelona, Spanien, als Express-Kurierunternehmen für Spanien, Portugal und Andorra gegründet. 2002 wurde es in Grupo Logista integriert, eine der führenden europäischen Gruppen für Nahbereichsdistribution, was die Expansion finanziell und technologisch unterstützte. NACEX arbeitet vor allem als B2B-Netzwerk für Kurier-, Paket- und Ecommerce-Logistik.",
+    "summary_abuse": "Kein auffälliges Missbrauchssignal. NACEX ist ein physischer Paket- und Kurierdienst. Die Marke wird gelegentlich in gefälschten Lieferbenachrichtigungen für Phishing imitiert, wie bei allen Kurierunternehmen üblich, doch das Unternehmen selbst ist ein legitimer Logistikanbieter ohne bekannten Missbrauch seiner Systeme."
+  },
+  "NagaCommerce": {
+    "description": "NagaCommerce ist eine als Service angebotene Ecommerce-Plattform.",
+    "history": "NagaCommerce ist eine griechische Ecommerce-SaaS-Plattform von DiSPLAYiDEAS, die um 2018 bis 2019 eingeführt wurde; sie richtet sich an griechische Onlinehändler und es sind keine nennenswerten Übernahmen oder Eigentümerwechsel bekannt.",
+    "summary_abuse": "NagaCommerce weist kein auffälliges Missbrauchssignal auf. Es ist eine kleine regionale Ecommerce-SaaS-Plattform für griechische Unternehmen, ohne dokumentierte Nutzung in Phishing- oder Betrugsinfrastruktur."
+  },
+  "Nagich": {
+    "description": "Nagich ist ein israelischer Anbieter von Accessibility-Overlays für Websites.",
+    "history": "Nagich ist ein israelisches Unternehmen für Accessibility-Overlays und bietet KI-gestützte Lösungen zur Barrierefreiheit von Websites. Es ist vor allem im israelischen Markt aktiv und richtet sich an Websites, die WCAG-Konformität erreichen wollen.",
+    "summary_abuse": "Nagich ist ein israelisches SaaS-Angebot für Accessibility-Overlays. Diese Produktkategorie wird von Interessenvertretungen behinderter Menschen wegen unzureichender Konformität kritisiert, doch für Nagich gibt es kein dokumentiertes Missbrauchssignal im Sinn von Betrug oder Phishing."
+  },
+  "NagishLi": {
+    "description": "NagishLi ist ein kostenloses Accessibility-Plugin von Localize*, das Webmastern helfen soll, ihre Websites barrierefrei zu machen und das Internet für Menschen mit Behinderung zugänglicher zu gestalten.",
+    "history": "NagishLi ist ein kostenloses Web-Accessibility-Plugin, das 2016 erstmals von einem israelischen Team veröffentlicht wurde. Es soll Webmastern helfen, Accessibility-Standards für Nutzer mit Behinderungen zu erfüllen. Grössere Eigentümerwechsel sind nicht verzeichnet.",
+    "summary_abuse": "NagishLi hat kein auffälliges Missbrauchssignal. Es ist ein Accessibility-Widget für Websites ohne Content-Hosting oder Funktionen für nutzergenerierte Inhalte, die Betrüger anziehen würden."
+  },
+  "Naive UI": {
+    "description": "Naive UI ist eine in TypeScript geschriebene Vue.js-UI-Bibliothek mit mehr als 80 treeshakable Komponenten.",
+    "history": "Naive UI ist eine Open-Source-Komponentenbibliothek für Vue 3, die von TuSen AI, einem chinesischen Unternehmen für autonome Fahrzeuge, erstellt und um 2021 erstmals veröffentlicht wurde; sie ist vollständig in TypeScript geschrieben und bietet über 80 treeshakable Komponenten. Im Vue-3-Ökosystem gewann das Projekt schnell an Beliebtheit.",
+    "summary_abuse": "Naive UI ist eine clientseitige Vue.js-Komponentenbibliothek ohne serverseitige Komponente. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Najva": {
+    "description": "Najva ist eine Retention-Marketing-Lösung für Push-Benachrichtigungen und E-Mail-Marketing.",
+    "history": "Najva ist ein iranisches Marketing-SaaS-Unternehmen, das um 2016 gegründet wurde und Push-Benachrichtigungen sowie E-Mail-Marketing anbietet, vor allem für den persischsprachigen Markt.",
+    "summary_abuse": "Najva ist eine Plattform für Push-Benachrichtigungen und E-Mail-Marketing mit Schwerpunkt auf dem iranischen Markt. Als Massenkommunikationswerkzeug birgt sie das typische Risiko von Spam-Kampagnen, auch wenn keine konkreten gross angelegten Missbrauchsfälle bekannt sind. Der geografische Fokus auf Iran begrenzt die globale Missbrauchspräsenz."
+  },
+  "Namastay": {
+    "description": "Namastay ist eine optimierte Buchungsmaschine, die die Online-Gastreise vereinfacht und Direktbuchungen steigern soll.",
+    "history": "Namastay ist ein europäisches Startup für Hotelbuchungsmaschinen, das Gastgewerbebetrieben helfen will, mehr Direktbuchungen zu erzielen und die Abhängigkeit von OTAs (Online Travel Agencies) zu reduzieren. Die Gründung erfolgte um 2020.",
+    "summary_abuse": "Namastay ist eine SaaS-Plattform für Hotelbuchungen. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "NamelessMC": {
+    "description": "NamelessMC ist eine Open-Source-Website-Software für Gaming-Communities mit Funktionen wie Foren und Nutzerprofilen zur Verwaltung der Online-Präsenz.",
+    "history": "NamelessMC ist ein Open-Source-CMS und eine Forensoftware, die speziell für Minecraft-Gaming-Communities entwickelt wurde. Es wurde um 2015 erstmals veröffentlicht und wird von einem kleinen Freiwilligenteam gepflegt. Die Software bietet Nutzerprofile, Foren und Server-Integrationen.",
+    "summary_abuse": "NamelessMC ist selbst gehostete Open-Source-Forensoftware für Gaming-Communities. Bei selbst gehosteter Software hängt möglicher Missbrauch von der Moderation des jeweiligen Site-Betreibers ab. Auf Plattformebene gibt es kein auffälliges Missbrauchssignal."
+  },
+  "Napps": {
+    "description": "Napps ist eine Plattform, mit der Unternehmen ihre Shopify- und WooCommerce-Onlineshops ohne Programmierung in Mobile Apps umwandeln können.",
+    "history": "Napps ist ein No-Code-Builder für Mobile Apps, der um 2019 in Portugal gegründet wurde. Er wandelt Shopify- und WooCommerce-Shops in native Mobile Apps um, ohne dass Programmierkenntnisse nötig sind.",
+    "summary_abuse": "Napps ist ein Werkzeug zur Umwandlung von Ecommerce-Shops in Mobile Apps. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Narrativ": {
+    "description": "Narrativ ist eine Subscription-Technologieplattform, mit der Marken über vertrauenswürdige Creators neue Kunden gewinnen können.",
+    "history": "Narrativ wurde 2013 in New York gegründet, um Affiliate- und Content-Monetarisierungstechnologie aufzubauen, die Publisher und Creators mit Marken verbindet. Das Unternehmen erhielt Venture-Finanzierung und entwickelte eine abonnementbasierte Commerce-Plattform für Content Creators.",
+    "summary_abuse": "Narrativ ist eine Affiliate-Technologieplattform, die Publisher mit Marken verbindet. Wie alle Affiliate-Systeme kann sie für Cookie Stuffing oder irreführende Linkzuordnung missbraucht werden, es sind jedoch keine grösseren dokumentierten Missbrauchsfälle bekannt. Legitime Affiliate-Nutzung dominiert."
+  },
+  "Narvar": {
+    "description": "Narvar ist eine Customer-Experience-Plattform, die Retailern in allen Schritten nach dem Kauf hilft, langfristige Kundenloyalität aufzubauen.",
+    "history": "Narvar wurde 2012 in San Jose, Kalifornien, gegründet, um Retailern Werkzeuge für die Customer Experience nach dem Kauf bereitzustellen. Das Unternehmen nahm umfangreiche Venture-Finanzierung auf und wuchs zu einem Anbieter für grosse Händler mit Sendungsverfolgung, Retourenmanagement und Kundenbenachrichtigungen.",
+    "summary_abuse": "Narvar ist eine B2B-Plattform für Post-Purchase-Logistik und Benachrichtigungen, die von Retailern genutzt wird. Im Kontext von Betrug oder Phishing gibt es kein auffälliges Missbrauchssignal."
+  },
+  "NationBuilder": {
+    "description": "NationBuilder ist ein Technologie-Startup aus Los Angeles, das Content-Management- und Customer-Relationship-Management-Software (CRM) entwickelt.",
+    "history": "NationBuilder wurde 2009 in Los Angeles von Jim Gilliam und Joe Green gegründet, um CRM- und Website-Plattformwerkzeuge für politische Kampagnen, Nonprofits und Advocacy-Organisationen bereitzustellen. Das Unternehmen erhielt Venture-Finanzierung und entwickelte sich von einem Kampagnenwerkzeug zu breiterer Software für Community-Organizing.",
+    "summary_abuse": "NationBuilder ist eine CRM- und Website-Plattform, die vor allem von politischen Kampagnen und Nonprofits genutzt wird. Die Plattform speichert Wähler- und Unterstützerdaten, was bei politischer Nutzung Datenschutzbedenken ausgelöst hat. Bedeutender Missbrauch auf Plattformebene, etwa Phishing oder Betrug, ist nicht dokumentiert."
+  },
+  "NativeForms": {
+    "description": "NativeForms ist ein Werkzeug zum Erstellen von Formularen, Umfragen und Abstimmungen für verschiedene Plattformen.",
+    "history": "NativeForms ist eine SaaS-Plattform zum Erstellen von Formularen, die um 2019 gegründet wurde und Formulare, Umfragen sowie Abstimmungen für Web- und Mobile-Plattformen anbietet. Es handelt sich um ein kleines unabhängiges Unternehmen.",
+    "summary_abuse": "NativeForms ist eine Formularplattform. Wie alle Form Builder kann sie für Phishing-Formulare oder Datensammlung missbraucht werden, doch es sind keine spezifischen Missbrauchsfälle auf Plattformebene dokumentiert und das Produkt ist eine kleine Nische."
+  },
+  "Nativo": {
+    "description": "Nativo ist ein Anbieter von Werbetechnologie.",
+    "history": "Nativo wurde um 2010 in Los Angeles als Native-Advertising-Technologieplattform gegründet; sie hilft Publishern bei der Monetarisierung von Inhalten und Marken beim Erreichen von Zielgruppen über inhaltlich passende Werbeformate. Das Unternehmen erhielt VC-Finanzierung und wurde zu einem relevanten Anbieter im programmatischen Native-Advertising-Markt.",
+    "summary_abuse": "Nativo ist eine Ad-Tech-Plattform für Native Advertising. Wie jede Werbetechnologie kann sie für Malvertising ausgenutzt werden, wenn die Prüfung von Werbemitteln unzureichend ist, wobei Nativo auf Partnerschaften mit Premium-Publishern fokussiert ist. Die Plattform bringt durch umfangreiches Tracking typische Datenschutzexposition im Ad-Tech-Bereich mit sich."
+  },
+  "Natural Intelligence": {
+    "description": "Natural Intelligence ist eine Plattform für Produkterkennung und Produktfindung.",
+    "history": "Natural Intelligence ist ein israelisches Unternehmen, das um 2007 gegründet wurde und eine Produktentdeckungs- und Vergleichsplattform betreibt, die Konsumenten beim Finden von Produkten und Dienstleistungen hilft. Das Unternehmen betreibt mehrere Vergleichs- und Bewertungswebsites.",
+    "summary_abuse": "Natural Intelligence betreibt Websites für Produktvergleich und Produkterkennung. Als Vergleichs- und Content-Curation-Plattform sammelt sie erhebliche Nutzungsverhaltensdaten für Targeting. Grössere dokumentierte Betrugs- oder Phishing-Missbrauchsfälle sind nicht bekannt."
+  },
+  "Naukri": {
+    "description": "Naukri ist eine Jobbörse, die Arbeitgeber und Stellensuchende über Stellenangebote in verschiedenen Branchen und Regionen verbindet.",
+    "history": "Naukri wurde 1997 von Sanjeev Bikhchandani in Indien als eines der ersten und grössten Online-Jobportale des Landes gegründet. Betrieben wird es von Info Edge India, einem an NSE und BSE kotierten Unternehmen. Naukri behauptet seit über 25 Jahren seine Position als dominierende Jobplattform in Indien.",
+    "summary_abuse": "Naukri wird als grosses Jobportal wiederholt für Job-Scam-Inserate ausgenutzt, bei denen betrügerische Arbeitgeber gefälschte Stellenangebote veröffentlichen, um persönliche Daten oder Geld von Bewerbern zu erlangen. Die Plattform setzt Arbeitgeberverifizierung ein, doch wegen ihrer Grösse erscheinen dennoch einzelne betrügerische Inserate. Naukri bietet einen Meldeweg für verdächtige Stellenanzeigen."
+  },
+  "Navegg": {
+    "history": "Navegg ist ein brasilianisches Daten- und Analytics-Unternehmen, das um 2008 gegründet wurde und sich auf Zielgruppensegmentierung sowie Verhaltensanalyse spezialisiert hat, vor allem für den brasilianischen digitalen Werbemarkt.",
+    "summary_abuse": "Navegg ist eine brasilianische Audience-Analytics- und Datenplattform für Werbe-Targeting; sie sammelt und segmentiert Nutzungsverhaltensdaten in grossem Umfang über brasilianische Websites hinweg und steht damit für erhebliche Data-Broker-Aktivität. Spezifische Betrugs- oder Phishing-Missbrauchsfälle sind nicht dokumentiert."
+  },
+  "Naver Analytics": {
+    "description": "Naver Analytics ist ein koreanischer Analytics-Dienst.",
+    "history": "Naver Analytics ist ein kostenloser Web-Analytics-Dienst der Naver Corporation, des dominierenden Internetunternehmens in Südkorea. Er wurde als Analytics-Werkzeug für den koreanischen Markt entwickelt und wird vor allem von koreanischen Website-Betreibern genutzt, die auch das breitere Naver-Ökosystem einsetzen.",
+    "summary_abuse": "Naver Analytics ist ein Web-Analytics-Dienst der Naver Corporation, Südkoreas grösstem Internetunternehmen. Wie andere Analytics-Dienste sammelt er Nutzungsverhaltensdaten. Im Kontext von Betrug oder Phishing gibt es kein auffälliges Missbrauchssignal."
+  },
+  "Naver Maps": {
+    "description": "Naver Maps unterstützt die Entwicklung standortbasierter Dienste von Naver.",
+    "history": "Naver Maps ist ein Karten- und Standortdienst der Naver Corporation, Südkoreas führendem Internetunternehmen. Der Dienst ist in Südkorea für lokale Karten, Navigation und standortbasierte Dienste dominant und für Entwickler über die Naver Cloud Platform API zugänglich.",
+    "summary_abuse": "Naver Maps ist ein Mapping-API-Dienst der Naver Corporation. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Naver RUA": {
+    "description": "Naver RUA (Real User Analytics) sammelt Performancedaten echter Nutzer, um die Geschwindigkeit deiner Website nach Land, Betriebssystem und Browser zu analysieren.",
+    "history": "Naver RUA (Real User Analytics) ist ein Performance-Monitoring-Dienst der Naver Corporation, der Website-Geschwindigkeit anhand realer Nutzersitzungen misst und nach Land, OS und Browser segmentiert. Der Dienst gehört zur breiteren Naver-Analytics-Suite.",
+    "summary_abuse": "Naver RUA ist ein Real-User-Performance-Monitoring-Dienst der Naver Corporation. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Navidium Shipping Protection": {
+    "description": "Navidium ist ein Versandversicherungsunternehmen, das Pakete absichert, die unterwegs verloren gehen, gestohlen oder beschädigt werden. Navidium Shipping Protection ist ein optionaler Versandschutz, bei dem beschädigte, verlorene oder gestohlene Produkte im Schadensfall umgehend erneut versendet werden.",
+    "history": "Navidium Shipping Protection ist eine Shopify-App, die Ecommerce-Händlern optionalen Versandschutz anbietet; sie wurde um 2021 als Alternative zu von Versanddienstleistern verwalteten Schutzprogrammen gegründet.",
+    "summary_abuse": "Navidium Shipping Protection ist ein Versandversicherungs-Widget für Ecommerce-Shops. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Naviga": {
+    "description": "Naviga ist ein Werkzeug zur Inhaltserstellung und -verwaltung, früher bekannt als Infomaker, für Medien- und Verlagsunternehmen.",
+    "history": "Naviga, früher Infomaker, ist ein schwedisches Softwareunternehmen, das 1992 gegründet wurde und Werkzeuge zur Inhaltserstellung und -verwaltung für Medien- und Verlagsunternehmen anbietet. Nach dem Ausbau seiner Produktsuite für den digitalen Publishing-Markt benannte es sich um 2019 von Infomaker in Naviga um.",
+    "summary_abuse": "Naviga ist eine B2B-CMS- und Publishing-Plattform für Medienunternehmen. Im Kontext von Betrug oder Phishing gibt es kein auffälliges Missbrauchssignal."
+  },
+  "Navu": {
+    "description": "Navu ist eine Plattform, die B2B-Websites mit KI durch gezielte Besucheransprache verbessert und so die Lead-Konversion durch personalisierte Interaktion steigern soll.",
+    "history": "Navu wurde 2022 in Palo Alto, Kalifornien, als KI-gestützte Plattform für B2B-Website-Personalisierung und interaktiven Chat gegründet; sie bindet eine KI-Seitenleiste in Unternehmenswebsites ein, beantwortet Besucherfragen und führt Interessenten durch den Kaufprozess, mit Fokus auf B2B-Lead-Konversion.",
+    "summary_abuse": "Navu ist ein B2B-Werkzeug für Website-Personalisierung und KI-Chat ohne dokumentierte Missbrauchshistorie. Die Plattform wird von Unternehmen auf ihren eigenen Websites eingebettet und erlaubt keine anonyme Inhaltserstellung oder Hosting-Nutzung, was sie als Missbrauchsvektor unwahrscheinlich macht."
+  },
+  "Neat A/B testing": {
+    "description": "Neat A/B Testing ist eine von NeatShift entwickelte Shopify-App.",
+    "history": "Neat A/B Testing ist eine von NeatShift entwickelte Shopify-App, mit der Ecommerce-Händler Split-Tests in ihrem Shopify-Shop durchführen können; sie ist eine kleine Nischen-App im Shopify-Ökosystem.",
+    "summary_abuse": "Neat A/B Testing ist eine Shopify-App für Split-Testing. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Nebula Sites": {
+    "description": "Nebula Sites ist eine Plattform, mit der Nutzer Websites erstellen, hosten und verwalten können.",
+    "history": "Nebula Sites ist eine SaaS-Plattform für Website-Erstellung und Hosting. Ein nennenswertes Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht verfügbar.",
+    "summary_abuse": "Nebula Sites ist ein Website-Builder und Hosting-Angebot mit Free Tier. Das bringt ein moderates Missbrauchsrisiko mit sich, da Page Builder mit kostenlosem Hosting für Phishing- oder Scam-Landingpages genutzt werden können. Konkrete dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Need Street": {
+    "description": "Need Street ist eine Web- und Mobile-Plattform, die Gesundheitsanbieter mit Patienten verbindet und digitale Kommunikation sowie Verwaltung von Gesundheitsdiensten ermöglicht.",
+    "history": "Need Street ist eine Health-Tech-Plattform, die Patienten und Anbieter über digitale Kommunikations- und Terminplanungswerkzeuge verbindet. Es handelt sich um ein kleines Startup im Gesundheitsbereich.",
+    "summary_abuse": "Need Street ist eine Kommunikationsplattform zwischen Patienten und Gesundheitsanbietern. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Neexa": {
+    "description": "Neexa ist ein KI-gestützter Anfrage- und Sales-Agent für die Bearbeitung von Kundenanfragen.",
+    "history": "Neexa ist ein KI-gestütztes SaaS-Angebot für Sales-Agents, das 2023 von Ethan Bampaire und Simon Nakibinge über Campaignity Technologies in Uganda gegründet wurde. Das Produkt richtet sich an B2C-Unternehmen und automatisiert Kundenanfragen sowie Verkaufsprozesse.",
+    "summary_abuse": "Neexa hat kein auffälliges Missbrauchssignal. Es ist ein Sales-Automation-Chatbot für legitime B2C-Unternehmen, ohne dokumentierte Nutzung in Phishing- oder Betrugskontexten."
+  },
+  "Negate": {
+    "description": "Negate ist ein Sicherheitsdienst mit Premium-Bot-Schutz für Websites, der bösartige Bots in Echtzeit blockiert.",
+    "history": "Negate ist ein SaaS-Dienst für Bot-Schutz und Sicherheit, der bösartige Bots in Echtzeit blockiert. Es ist ein kleines Sicherheits-Startup mit begrenzter öffentlicher Historie.",
+    "summary_abuse": "Negate ist ein Sicherheitsdienst für Bot-Schutz. Es gibt kein auffälliges Missbrauchssignal, sein Zweck ist der Schutz von Websites vor missbräuchlichem Bot-Traffic."
+  },
+  "Nelio Testing": {
+    "description": "Nelio Testing ist ein Plugin, mit dem sich alles auf einer WordPress-Site testen lässt.",
+    "history": "Nelio Testing ist ein WordPress-Plugin für A/B-Tests von Nelio Software, einem spanischen Softwareunternehmen, das um 2013 gegründet wurde. Das Plugin ermöglicht WordPress-Site-Betreibern, Überschriften, Seiten und Themes ohne Entwicklerkenntnisse zu testen.",
+    "summary_abuse": "Nelio Testing ist ein WordPress-Plugin für A/B-Tests. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Nemu": {
+    "description": "Nemu ist eine Plattform für End-to-End-Tracking zur Überwachung und Optimierung von Kampagnenperformance und zur Verbesserung der Rentabilität.",
+    "history": "Nemu ist eine SaaS-Plattform für Kampagnen-Performance-Analytics. Ein öffentlich verfügbares Gründungsjahr oder eine nennenswerte Unternehmenshistorie ist nicht bekannt.",
+    "summary_abuse": "Nemu hat kein auffälliges Missbrauchssignal. Es ist eine Analytics-Plattform für Kampagnentracking ohne verbraucherseitige Content-Hosting-Funktionen."
+  },
+  "NEO - Omnichannel Commerce Platform": {
+    "description": "NEO ist eine Ecommerce-Software zur Verwaltung mehrerer Onlineshops.",
+    "history": "NEO ist die Omnichannel-Commerce-Plattform von JET e-Business, einem brasilianischen Ecommerce-Unternehmen aus Ribeirão Preto mit rund 20 Jahren Erfahrung. JET entwickelte NEO auf Basis der Erfahrung mit mehr als 15'000 virtuellen Shops und bietet Multi-Store-Verwaltung, Warenbestand und Marketingwerkzeuge im SaaS-Modell.",
+    "summary_abuse": "Kein auffälliges Missbrauchssignal. NEO ist eine brasilianische B2B-Ecommerce-SaaS-Plattform. Als Anbieter gehosteter Storefronts trägt sie das übliche Ecommerce-Hosting-Risiko, dokumentierte Missbrauchsfälle sind jedoch nicht gemeldet."
+  },
+  "NeoAsist": {
+    "description": "NeoAssist ist eine brasilianische Omnichannel-Kundenserviceplattform mit Fokus darauf, die Sichtbarkeit von Marken in Suchmaschinen und KI-gestützten Plattformen wie Google und GPT-basierten Systemen zu verbessern.",
+    "history": "NeoAsist (NeoAssist) ist eine brasilianische Omnichannel-Kundenserviceplattform, die um 2011 gegründet wurde; sie bedient brasilianische Marken mit Kundensupport-Software, darunter Live Chat, E-Mail-Management und KI-gestützte Support-Werkzeuge.",
+    "summary_abuse": "NeoAsist ist eine brasilianische Kundenservice- und Live-Chat-Plattform. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Neon CRM": {
+    "description": "Neon CRM, ein Unternehmen von Neon One, ist eine cloudbasierte Customer-Relationship-Management-Software-Suite (CRM) für Nonprofits jeder Grösse. Die Anwendungen umfassen Fundraising-Management, Spenderverwaltung, Mitgliederverwaltung, Event-Registrierung und -Management, angepasste Berichte und mehr.",
+    "history": "Neon One entstand 2018 durch die Zusammenführung von vier Nonprofit-Technologieunternehmen, unterstützt von FTV Capital, einer Growth-Equity-Firma. Das Unternehmen aus Chicago dient als Dach für eine Suite von Werkzeugen, darunter Neon CRM, eine Plattform für Fundraising- und Spenderverwaltung für Nonprofits, sowie Event-Management- und Mitgliedschaftswerkzeuge. Auch Blue Star Innovation Partners investierte in das Unternehmen.",
+    "summary_abuse": "Neon CRM ist eine Plattform für Spender- und Fundraising-Management von Nonprofits ohne dokumentierte Missbrauchshistorie. Es ist ein zugangsbeschränktes B2B-Abonnementwerkzeug für registrierte Nonprofit-Organisationen, ohne anonymen Zugang oder verbraucherseitiges Content-Hosting, das Phishing oder Betrug anziehen würde."
+  },
+  "Neos CMS": {
+    "history": "Neos CMS ist ein Open-Source-Content-Management-System, das 2012 als Fork von TYPO3 FLOW, später Neos Flow, entstand. Es wurde von der Neos-Projektgemeinschaft entwickelt, mit starken Beiträgen aus Deutschland und Österreich, und als moderne, enterprise-taugliche Alternative zu klassischen PHP-CMS positioniert.",
+    "summary_abuse": "Neos CMS ist ein selbst gehostetes Open-Source-CMS. Auf Plattformebene gibt es kein auffälliges Missbrauchssignal."
+  },
+  "Neos Flow": {
+    "history": "Neos Flow, ursprünglich TYPO3 FLOW, ist ein Open-Source-PHP-Webanwendungsframework, das um 2008 erstmals von der TYPO3-Community veröffentlicht wurde. Es wurde als eigenes Projekt unter dem Namen Neos Flow abgespalten und bildet die Grundlage von Neos CMS. Der Schwerpunkt liegt auf sauberer Architektur und Dependency Injection.",
+    "summary_abuse": "Neos Flow ist ein PHP-Webframework ohne verbraucherseitige Oberfläche. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Neowize": {
+    "description": "Neowize ist eine Plattform, die künstliche Intelligenz und Data Science nutzt, um Analytics und Entscheidungsfindung im Ecommerce zu verbessern.",
+    "history": "Neowize ist eine israelische Ecommerce-KI- und Analytics-Plattform, die um 2016 gegründet wurde und Data Science nutzt, um die Entscheidungsfindung für Onlinehändler zu verbessern.",
+    "summary_abuse": "Neowize ist eine Ecommerce-Analytics- und KI-Plattform zur Entscheidungsunterstützung. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Nepcha Analytics": {
+    "description": "Nepcha Analytics ist eine datenschutzorientierte Analytics-Plattform, die Website-Nutzungsdaten ohne Cookies oder persönliches Tracking sammelt und verarbeitet, um moderne Datenschutzstandards einzuhalten.",
+    "history": "Nepcha Analytics ist eine datenschutzorientierte Web-Analytics-Plattform, die um 2021 gegründet wurde; sie erfasst Website-Metriken ohne Cookies oder Sammlung persönlicher Daten und richtet sich an Nutzer, die GDPR-konforme Analytics-Alternativen suchen.",
+    "summary_abuse": "Nepcha Analytics ist eine cookielose, datenschutzorientierte Analytics-Plattform. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Nepso": {
+    "history": "Nepso ist eine CMS-Plattform der Nepso Digital Agency, einer iranischen Agentur für Webdesign und Webentwicklung. Ein nennenswerter Eigentümerwechsel oder ein Gründungsjahr ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Nepso hat kein auffälliges Missbrauchssignal. Es ist ein Nischen-CMS, das von einer kleinen iranischen Digitalagentur für Kundenwebsites genutzt wird, ohne dokumentierten Missbrauch in Phishing- oder Betrugskontexten."
+  },
+  "Neshan": {
+    "description": "Neshan ist ein iranisches Routenplanungswerkzeug, das Nutzern Navigations- und Kartendienste für Reisen im Land bietet.",
+    "history": "Neshan ist eine iranische Navigations- und Kartenplattform, die um 2014 gegründet wurde und den iranischen Markt mit Routenplanung, GPS-Navigation und lokaler Geschäftssuche bedient; sie gehört zu den führenden Kartendiensten in Iran.",
+    "summary_abuse": "Neshan ist ein iranischer Karten- und Navigationsdienst. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Nestify": {
+    "description": "Nestify ist eine vollständig verwaltete WordPress-Hosting-Plattform, die auf AWS-Graviton-Prozessoren läuft.",
+    "history": "Nestify ist ein Managed-WordPress-Hosting-Dienst auf Basis von AWS-Graviton-Prozessoren, der um 2017 gegründet wurde und sich an WordPress-Site-Betreiber richtet, die Performance und verwalteten Support suchen.",
+    "summary_abuse": "Nestify ist eine Managed-WordPress-Hosting-Plattform. Es gibt kein spezifisch auffälliges Missbrauchssignal, auch wenn Hosting-Plattformen allgemein zum Hosten bösartiger Inhalte genutzt werden können."
+  },
+  "NET-RESULTS": {
+    "description": "NET-RESULTS ist eine Marketing-Automation-Plattform für datengetriebene Marketer.",
+    "history": "NET-RESULTS ist eine 2003 gegründete Marketing-Automation-Plattform für Mid-Market-Unternehmen mit Sitz in Denver, Colorado. Das Unternehmen hat ungefähr 20 Mitarbeitende und rund 3 Mio. USD Umsatz. Kürzlich wurde es in Paminga umbenannt. Grössere Übernahmen oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "NET-RESULTS ist eine Marketing-Automation-Plattform für Massen-E-Mail-Kampagnen und Lead Scoring. Wie andere E-Mail-Marketing-Plattformen kann sie für Spam missbraucht werden. Es sind jedoch keine spezifischen dokumentierten Missbrauchsfälle mit der Plattform verbunden, und sie bedient eine B2B-Zielgruppe mit üblichen AUP-Bedingungen."
+  },
+  "Netcore Cloud": {
+    "description": "Netcore Cloud ist ein weltweit anerkanntes SaaS-Unternehmen für Marketingtechnologie.",
+    "history": "Netcore Cloud, ursprünglich Netcore Solutions, wurde 2001 in Mumbai, Indien, gegründet und entwickelte sich zu einem globalen Marketingtechnologieunternehmen mit E-Mail-Marketing, Customer Data Platforms und Omnichannel-Engagement-Werkzeugen. Das Unternehmen bedient grosse Enterprises in mehreren Regionen.",
+    "summary_abuse": "Netcore Cloud ist eine grosse Plattform für Marketing-Automation und E-Mail-Zustellung. Wie alle Anbieter für Massen-E-Mail und Marketing-Automation kann sie für Spam-Kampagnen missbraucht werden, auch wenn Netcore branchenübliche Missbrauchsüberwachung betreibt. Die Massen-E-Mail-Funktionen sind der wichtigste Missbrauchsrisikofaktor."
+  },
+  "Netdeal": {
+    "description": "Netdeal ist eine Marketing-Automation-Plattform.",
+    "history": "Netdeal ist eine brasilianische Marketing-Automation-Plattform, die hauptsächlich brasilianische Unternehmen bedient. Über Gründung oder Eigentümerhistorie sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "Netdeal ist eine brasilianische Plattform für Marketing-Automation und E-Mail-Marketing. Wie alle Massen-E-Mail-Plattformen trägt sie Spam-Risiko, konkrete dokumentierte Missbrauchsfälle sind jedoch nicht bekannt."
+  },
+  "Nethouse Website Builder": {
+    "description": "Nethouse Website Builder ist eine Plattform, mit der Einzelpersonen ohne Programmierer oder Designer Websites, Onlineshops oder Landingpages erstellen können.",
+    "history": "Nethouse Website Builder ist eine russische Website-Builder-Plattform, die um 2012 gegründet wurde und Einzelpersonen sowie kleinen Unternehmen ermöglicht, Websites, Onlineshops und Landingpages ohne Programmierung zu erstellen.",
+    "summary_abuse": "Nethouse Website Builder ist eine russische Website-Builder- und Hosting-Plattform. Wie andere günstige Website-Builder birgt sie ein gewisses Risiko, für Phishing-Seiten oder Scam-Storefronts genutzt zu werden. Der russische Ursprung kann für globale Sicherheitsteams die Reaktionsfähigkeit bei Missbrauchsmeldungen einschränken."
+  },
+  "Netlify": {
+    "description": "Netlify bietet Hosting und serverlose Backend-Dienste für Webanwendungen und statische Websites.",
+    "history": "Netlify wurde 2014 von Mathias Biilmann und Chris Bach in San Francisco gegründet, um das JAMstack-Hosting-Modell für statische Sites und serverlose Apps voranzutreiben. Das Unternehmen erhielt umfangreiche VC-Finanzierung und wurde zur prägenden Plattform für modernes Frontend-Deployment. 2023 übernahm Netlify Gatsby Inc. und erweiterte damit seine Fähigkeiten im composable Web.",
+    "summary_abuse": "Der Free Tier von Netlify mit Unterstützung für eigene Subdomains wurde von Sicherheitsforschern gelegentlich als Hosting-Ort für Phishing-Seiten dokumentiert, da Deployments sehr einfach sind. Netlify veröffentlicht eine AUP und reagiert auf Missbrauchsmeldungen, doch die offene Natur des Free Tier führt dazu, dass die Plattform in Threat-Intelligence-Feeds auftaucht. Missbrauch macht nur einen kleinen Teil der Gesamtnutzung aus, und der Anbieter reagiert in der Regel gut auf Takedown-Anfragen."
+  },
+  "Netlify Create": {
+    "description": "Netlify Create, früher Stackbit, ist eine visuelle Experience-Plattform zum Erstellen entkoppelter Websites.",
+    "history": "Netlify Create hiess früher Stackbit und war ein unabhängiges visuelles Website-Editing-Werkzeug, das 2023 von Netlify übernommen wurde. Es bietet eine visuelle Bearbeitungserfahrung für Headless- und composable Website-Architekturen.",
+    "summary_abuse": "Netlify Create ist eine visuelle Web-Editing-Plattform für composable Architekturen. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Netlify Forms": {
+    "description": "Netlify Forms ist eine serverlose Formularverarbeitung für statische Websites.",
+    "history": "Netlify Forms ist eine serverlose Formularverarbeitungsfunktion innerhalb der Netlify-Plattform, die seit 2014 zum Kernangebot von Netlify gehört; sie ermöglicht statischen Websites, Formularübermittlungen ohne Backend-Server zu verarbeiten.",
+    "summary_abuse": "Netlify Forms ist eine serverlose Formularverarbeitungsfunktion. Wie alle Formular-Endpunkte kann sie theoretisch in Phishing-Kampagnen genutzt werden, wobei Netlifys AUP und Abuse-Team solchen Missbrauch bearbeiten. Konkrete nennenswerte Vorfälle sind nicht dokumentiert."
+  },
+  "Neto": {
+    "description": "Neto ist eine australische B2B- und Multi-Channel-Ecommerce-Plattform, die eine All-in-one-Lösung für Ecommerce, POS, Warenbestand, Auftragsverwaltung und Versandetiketten bietet.",
+    "history": "Neto ist eine australische Plattform für Ecommerce- und Retail-Management, die 2009 gegründet wurde und zunächst australische B2B-Händler sowie Multi-Channel-Retailer ansprach. Das Unternehmen wurde 2021 von Maropost übernommen und in Maropost Commerce Cloud umbenannt.",
+    "summary_abuse": "Neto ist eine B2B-Plattform für Ecommerce- und Retail-Management. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Netop": {
+    "description": "Netop ist eine Plattform für Remote-Support- und Chat-Lösungen zur sicheren Kommunikation und technischen Unterstützung.",
+    "history": "Netop wurde 1981 in Dänemark gegründet und hat eine lange Geschichte in Remote-Access- und Support-Software. Ursprünglich war das Unternehmen für Bildungssoftware bekannt, bevor es sich auf Enterprise-Werkzeuge für Remote Support ausrichtete. Das Unternehmen wurde mehrfach übernommen und umbenannt, seine Remote-Support-Produkte werden breit in IT-Support-Workflows eingesetzt.",
+    "summary_abuse": "Netop ist eine Plattform für Remote Access und Support. Remote-Access-Werkzeuge werden gelegentlich von Tech-Support-Betrügern missbraucht, um unbefugten Zugriff auf Computer von Opfern zu erhalten. Netop richtet sich jedoch an legitime Enterprise-IT-Support-Workflows und verlangt für Verbindungen die Zustimmung des Nutzers."
+  },
+  "Netrox": {
+    "description": "Netrox SC ist eine russische Online-Consultant-Technologieplattform, die Live-Chat- und Kundensupport-Werkzeuge für Websites bereitstellt.",
+    "history": "Netrox SC ist eine russische Live-Chat- und Online-Consultant-Plattform, die um 2010 gegründet wurde und vor allem den russischsprachigen Markt mit Website-Chat-Support-Werkzeugen bedient.",
+    "summary_abuse": "Netrox SC ist eine russische Live-Chat-Plattform. Der russische Ursprung kann die Reaktionsfähigkeit bei globalen Missbrauchsmeldungen einschränken. Konkrete dokumentierte Betrugs- oder Phishing-Fälle sind nicht bekannt."
+  },
+  "NetSuite": {
+    "description": "NetSuite ist eine cloudbasierte Enterprise-Resource-Planning-Software-Suite (ERP) mit umfassenden Business-Management-Anwendungen, darunter Finanzmanagement, CRM, Ecommerce und mehr.",
+    "history": "NetSuite wurde 1998 von Evan Goldberg als NetLedger gegründet und 2001 in NetSuite umbenannt, wobei es sich als eines der ersten Cloud-ERP-Systeme positionierte. Oracle übernahm NetSuite 2016 für rund 9,3 Milliarden USD. Die Plattform bleibt das weltweit am weitesten verbreitete Cloud-ERP-System und wird von über 37'000 Organisationen genutzt.",
+    "summary_abuse": "NetSuite ist eine Enterprise-ERP-Plattform, die von zehntausenden Unternehmen weltweit genutzt wird. Als Backend-Business-Software ohne verbraucherseitige Oberfläche hat sie kein auffälliges Missbrauchssignal."
+  },
+  "Nette Framework": {
+    "history": "Nette Framework ist ein Open-Source-PHP-Webframework, das von David Grudl aus Tschechien erstellt und um 2004 erstmals veröffentlicht wurde. Es wurde in tschechischen und slowakischen Webentwickler-Communities populär und ist für seine elegante Architektur sowie starke Sicherheitsfunktionen bekannt.",
+    "summary_abuse": "Nette Framework ist ein PHP-Webanwendungsframework ohne verbraucherseitige Oberfläche. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Netvibes": {
+    "description": "Netvibes ist eine Plattform für Social-Media-Monitoring, Analytics und Echtzeitwarnungen.",
+    "history": "Netvibes wurde 2005 in Frankreich als einer der ersten personalisierten Startseiten- und RSS-Dashboard-Dienste gegründet. Nach anfänglicher Beliebtheit verlagerte sich der Fokus auf Social-Media-Monitoring und Enterprise Analytics. Dassault Systèmes übernahm Netvibes 2012, um seine Collaborative-Intelligence-Plattform zu stärken.",
+    "summary_abuse": "Netvibes ist ein Dashboard für Social-Media-Monitoring und Analytics. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Network for Good": {
+    "description": "Network for Good ist ein amerikanisches, zertifiziertes B-Corporation-Softwareunternehmen, das Fundraising-Software und Coaching für Wohltätigkeitsorganisationen und Nonprofit-Organisationen anbietet.",
+    "history": "Network for Good wurde 2001 als Nonprofit gegründet und wurde später eine zertifizierte B Corporation. Das Unternehmen bietet Fundraising-Software und Coaching speziell für kleine bis mittelgrosse Nonprofits und Wohltätigkeitsorganisationen in den USA.",
+    "summary_abuse": "Network for Good ist eine Softwareplattform für Nonprofit-Fundraising; sie verarbeitet Spenden für wohltätige Zwecke und ist für legitime Nonprofits konzipiert. Plattformen für Spenden können von gefälschten Wohltätigkeitsorganisationen missbraucht werden, um betrügerisch Spenden einzuwerben, doch Network for Good prüft Organisationen. Grössere dokumentierte Betrugsfälle auf Plattformebene sind nicht bekannt."
+  },
+  "Neve": {
+    "description": "Neve ist ein sehr schnelles, leicht anpassbares Mehrzweck-Theme, das nahtlos mit Gutenberg, den beliebtesten Page Buildern und WooCommerce funktioniert.",
+    "history": "Neve ist ein WordPress-Theme von Themeisle, einem rumänischen Unternehmen für WordPress-Produkte, das 2018 erstmals veröffentlicht wurde. Wegen seiner Geschwindigkeit, der Kompatibilität mit wichtigen Page Buildern und der WooCommerce-Unterstützung wurde es zu einem der beliebtesten kostenlosen WordPress-Themes.",
+    "summary_abuse": "Neve ist ein WordPress-Theme. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "New Relic": {
+    "description": "New Relic ist ein SaaS-Angebot mit Fokus auf Performance- und Verfügbarkeitsmonitoring.",
+    "history": "New Relic wurde 2008 von Lew Cirne in San Francisco gegründet und wurde zu einem der grundlegenden Unternehmen für Application Performance Monitoring (APM) in der Cloud-Ära. Das Unternehmen ging 2014 an die NYSE. 2023 wurde New Relic durch eine Übernahme von Francisco Partners und TPG für rund 6,5 Milliarden USD privatisiert.",
+    "summary_abuse": "New Relic ist eine Enterprise-Plattform für Observability und APM. Es handelt sich um Backend-Monitoring-Software ohne verbraucherseitige Oberfläche. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "New UI": {
+    "description": "New UI ist ein Framework zur Entwicklung von Benutzeroberflächen für SaaS-Anwendungen und Websites.",
+    "history": "New UI ist ein UI-Framework für den Aufbau von SaaS-Anwendungen und Websites. Ein nennenswertes Gründungsjahr oder eine Unternehmenshistorie ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "New UI hat kein auffälliges Missbrauchssignal. Es ist ein UI-Framework für Entwickler ohne verbraucherseitige Hosting-Oberfläche."
+  },
+  "Newo": {
+    "description": "Newo ist eine KI-Plattform mit automatisierten Lösungen für Vertrieb, Empfang und Concierge-Dienste in verschiedenen Branchen.",
+    "history": "Newo wurde 2023 in San Francisco von Luba Rein, David Yang, Alex Novitsky und Viacheslav Seledkin als KI-Agentenplattform für Frontdesk-Automatisierung bei SMBs mitgegründet. Im Februar 2026 nahm das Unternehmen eine Series A über 25 Mio. USD auf, womit die Gesamtfinanzierung 32 Mio. USD erreichte.",
+    "summary_abuse": "Newo hat kein auffälliges Missbrauchssignal. Es ist eine Plattform für KI-Sprach- und Textagenten für SMB-Empfangsaufgaben, ohne verbraucherseitiges Content-Hosting oder anonyme Registrierung, die Betrüger anziehen würde."
+  },
+  "Newspack": {
+    "description": "Newspack ist eine auf WordPress basierende Open-Source-Publishing-Plattform für kleine bis mittelgrosse Nachrichtenorganisationen; sie ist eine meinungsstarke Plattform, die klare Best-Practice-Positionen zu Technologie, Design und Geschäftsprozessen für Nachrichtenpublisher vorgibt.",
+    "history": "Newspack wurde 2019 als von der Google News Initiative finanzierte Open-Source-Publishing-Plattform auf Basis von WordPress gestartet. Entwickelt wurde sie von Automattic, um kleinen und mittleren Nachrichtenorganisationen beim modernen digitalen Publishing zu helfen; sie bietet bewusst vorgegebene Konfigurationen für Best Practices der Nachrichtenbranche.",
+    "summary_abuse": "Newspack ist eine Open-Source-WordPress-Publishing-Plattform für Nachrichtenorganisationen. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Newspack by Automattic": {
+    "description": "Automattics Newspack-Dienst ist eine All-in-one-Plattform für kleine und mittelgrosse Nachrichtenorganisationen, die Publishing vereinfacht und sofort Reichweite sowie Umsatz unterstützen soll.",
+    "history": "Newspack by Automattic ist der Managed-Hosting-Dienst für die Open-Source-Plattform Newspack und bietet kleinen sowie mittleren Nachrichtenorganisationen vollständig verwaltete Publishing-Infrastruktur. Automattic, das Unternehmen hinter WordPress.com, hat diesen Dienst entwickelt und pflegt ihn.",
+    "summary_abuse": "Newspack by Automattic ist eine Managed-Hosting-Plattform für Nachrichtenpublisher. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "NewStore": {
+    "description": "NewStore ist eine integrierte Plattform, die Omnichannel-Lösungen für Läden und Konsumenten anbietet.",
+    "history": "NewStore wurde 2015 in Berlin von Stephan Schambach gegründet, der zuvor Demandware gegründet hatte. Das Unternehmen bietet eine Omnichannel-Retail-Plattform, die Online- und Ladenprozesse für Mode- und Spezialhändler vereinheitlicht, unterstützt durch erhebliche VC-Finanzierung.",
+    "summary_abuse": "NewStore ist eine Enterprise-Omnichannel-Retail-Plattform. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Newt": {
+    "description": "Newt ist ein Headless CMS, mit dem du strukturierte Inhalte erstellen, verwalten und über verschiedene Kanäle ausspielen kannst.",
+    "history": "Newt wurde 2021 von Kazuki Takahashi und Youhei Meguro in Tokio, Japan, als cloudbasiertes Headless CMS für strukturiertes Content-Management mit API-Auslieferung gegründet. Das Unternehmen nahm im Juli 2022 eine Seed-Runde über 733'000 USD von XTech Ventures auf und startete im März 2022 einen kostenlosen Plan. Die offizielle Newt-Website hat die Einstellung des Dienstes für den 24. November 2026 angekündigt.",
+    "summary_abuse": "Newt ist ein japanisches Headless CMS ohne dokumentierte Missbrauchshistorie. Da der Dienst Ende 2026 eingestellt werden soll, ist er für neue Einführungen praktisch nicht mehr aktiv. Das API-basierte CMS-Modell ohne verbraucherseitiges Content-Hosting bietet nur eine minimale Missbrauchsfläche."
+  },
+  "Nexcess": {
+    "description": "Nexcess ist ein Webhosting-Dienst.",
+    "history": "Nexcess wurde 2000 gegründet und wurde für Managed WordPress- und Magento-Hosting bekannt. Das Unternehmen wurde um 2016 von Liquid Web, einem Anbieter für Managed Hosting, übernommen. Der Fokus liegt auf High-Performance-Hosting für WooCommerce-, WordPress- und Magento-Sites.",
+    "summary_abuse": "Nexcess ist ein Managed-Hosting-Anbieter. Wie alle Hosting-Dienste kann er zum Hosten bösartiger Inhalte genutzt werden, doch Nexcess unterhält Missbrauchsrichtlinien und konzentriert sich auf Premium-Managed-Kunden statt auf anonymes günstiges Shared Hosting, das häufiger missbraucht wird."
+  },
+  "Nexive": {
+    "description": "Nexive ist ein Postdienstleister in Italien.",
+    "history": "Nexive ist ein privater italienischer Postdienstleister für Paket- und Briefzustellung. Er ist Teil des Poste-Italiane-Ökosystems und im italienischen Logistikmarkt tätig.",
+    "summary_abuse": "Nexive ist ein italienischer Post- und Versanddienstleister. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "NexMind": {
+    "description": "NexMind ist eine Plattform mit fortgeschrittenen Analytics-Werkzeugen, die Unternehmen fundierte Entscheidungen und Wachstum ermöglichen sollen.",
+    "history": "NexMind AI wurde 2019 in Kuala Lumpur, Malaysia, von Francis Lui gegründet, der 2005 bereits Nexus Mediaworks, Malaysias erstes SEO-Unternehmen, aufgebaut hatte. Das Unternehmen verlagerte den Fokus auf KI-gestützte SEO und Content-Generierung und entwickelte eine mehrsprachige Plattform, die NLP und Big Data nutzt, damit Unternehmen in Suchmaschinen besser ranken und optimierte Inhalte erzeugen können.",
+    "summary_abuse": "NexMind ist eine malaysische Plattform für KI-gestützte SEO und Content-Generierung. KI-Content-Tools bergen ein moderates Risiko, massenhaft dünne oder spamartige SEO-Inhalte zu erzeugen, auch wenn NexMind ein B2B-Aboprodukt ist und keine dokumentierte Beteiligung an Spam-Kampagnen oder bösartiger Aktivität bekannt ist."
+  },
+  "Next Basket": {
+    "description": "Next Basket ist eine KI-basierte Softwareplattform zum Erstellen von Onlineshops und Produktlagern.",
+    "history": "Next Basket wurde 2021 vom Unternehmer Borislav Malinov gegründet und hat seinen Hauptsitz in Rotterdam, Niederlande. Die KI-gestützte Ecommerce-SaaS-Plattform erzielte bis 2024 einen Umsatz von 28 Millionen EUR und expandierte in 8 Länder auf 4 Kontinenten.",
+    "summary_abuse": "Next Basket ist ein Ecommerce-Plattform-Builder für kleine und mittelgrosse Unternehmen. Wie andere Storefront-Builder könnte er theoretisch zum Aufbau gefälschter Shops genutzt werden, doch für diese Plattform ist kein dokumentiertes Missbrauchsmuster bekannt. Der B2B-Fokus und der Verkaufsverifizierungsprozess senken das Risiko anonymer Zweckentfremdung."
+  },
+  "Next Total": {
+    "description": "Next nutzt die Expertise, Infrastruktur und Software aus dem eigenen Onlinegeschäft, um mit Total Platform einen Ecommerce-Outsourcing-Dienst für Dritte anzubieten.",
+    "history": "Next Total Platform ist ein Ecommerce-Outsourcing-Dienst von Next plc, dem grossen britischen Modehändler, der 1864 gegründet wurde. Next baute eigene Ecommerce-Infrastruktur für sein Retail-Geschäft auf und begann, diese als verwalteten Drittanbieter-Service für andere Marken anzubieten, gestützt auf Logistik, Technologie und Fulfilment-Kapazitäten.",
+    "summary_abuse": "Next Total Platform ist ein Enterprise-Ecommerce-Outsourcing-Dienst von Next plc ohne auffälliges Missbrauchssignal. Er richtet sich an etablierte Retail-Marken und arbeitet mit Enterprise-Verträgen, was Betrug oder missbräuchliche Nutzung unwahrscheinlich macht."
+  },
+  "Next.js": {
+    "description": "Next.js ist ein React-Framework zur Entwicklung von Single-Page-JavaScript-Anwendungen.",
+    "history": "Next.js wurde von Vercel, früher Zeit, erstellt und im Oktober 2016 erstmals veröffentlicht. Es wurde schnell zum führenden React-Framework für serverseitiges Rendering und statische Site-Generierung. Vercel nahm erhebliches Venture Capital auf und baute rund um Next.js eine kommerzielle Hosting-Plattform auf. Next.js bleibt MIT-lizenzierte Open Source und wird vor allem vom Vercel-Team gepflegt.",
+    "summary_abuse": "Next.js hat kein auffälliges Missbrauchssignal. Es ist ein Backend-Webframework ohne verbraucherseitige Oberfläche, die Betrüger gezielt nutzen würden."
+  },
+  "Next.js App Router": {
+    "description": "Der Next.js App Router ist ein neues Paradigma für den Aufbau von Anwendungen mit den neuesten React-Funktionen.",
+    "history": "Der Next.js App Router wurde in Next.js 13 (2022) von Vercel als neues Paradigma für den Aufbau von React-Anwendungen mit dem aktuellen Feature React Server Components eingeführt. Er existiert neben dem älteren Pages Router und gilt als empfohlene Richtung für neue Next.js-Projekte.",
+    "summary_abuse": "Der Next.js App Router hat kein auffälliges Missbrauchssignal. Er ist ein serverseitiges Rendering-Paradigma innerhalb eines Entwicklerframeworks ohne verbraucherseitige Oberfläche."
+  },
+  "Next.js Page Router SSG": {
+    "description": "Next.js Static Site Generation.",
+    "history": "Next.js Page Router SSG (Static Site Generation) ist eine Rendering-Strategie, die seit frühen Versionen im Next.js Pages Router verfügbar ist und Seiten zur Build-Zeit vorab rendert; sie ist Teil des ursprünglichen Next.js-Angebots von Vercel und wird weiterhin aktiv gepflegt, auch wenn der neuere App Router heute für neue Projekte empfohlen wird.",
+    "summary_abuse": "Next.js Page Router SSG hat kein auffälliges Missbrauchssignal. Es ist ein Muster für statische Site-Generierung innerhalb eines Entwicklerframeworks ohne verbraucherseitige Oberfläche, die Betrüger gezielt nutzen würden."
+  },
+  "Next.js Page Router SSR": {
+    "description": "Next.js Server-Side Rendering.",
+    "history": "Next.js Page Router SSR (Server-Side Rendering) ist eine Rendering-Strategie, die seit frühen Versionen im Next.js Pages Router verfügbar ist und Seiten pro Anfrage auf dem Server rendert; sie ist Teil des ursprünglichen Next.js-Angebots von Vercel. Der Pages Router bleibt langfristig gepflegt, während der App Router heute für neue Projekte empfohlen wird.",
+    "summary_abuse": "Next.js Page Router SSR hat kein auffälliges Missbrauchssignal. Es ist ein serverseitiges Rendering-Muster innerhalb eines Entwicklerframeworks ohne verbraucherseitige Oberfläche, die Betrüger gezielt nutzen würden."
+  },
+  "NextAuth.js": {
+    "description": "NextAuth.js ist eine vollständige Open-Source-Authentifizierungslösung für Next.js-Anwendungen.",
+    "history": "NextAuth.js entstand um 2020 als Open-Source-Authentifizierungsbibliothek für Next.js. 2022 wurde es in Auth.js umbenannt, um neben Next.js mehrere Frameworks zu unterstützen. Das Projekt wird von der Community gepflegt und hat keinen grossen Unternehmenssponsor.",
+    "summary_abuse": "NextAuth.js hat kein auffälliges Missbrauchssignal. Es ist eine Authentifizierungsbibliothek für Entwickler ohne verbraucherseitige Oberfläche."
+  },
+  "Nextcloud": {
+    "description": "Nextcloud ist eine Client-Server-Software-Suite zum Erstellen und Nutzen von File-Hosting-Diensten.",
+    "history": "Nextcloud wurde 2016 von Frank Karlitschek gegründet, der ownCloud, das er zuvor ebenfalls gegründet hatte, wegen Differenzen über Geschäftsmodell und Open-Source-Ausrichtung abspaltete. Die Nextcloud GmbH hat ihren Hauptsitz in Stuttgart und legt einen starken Fokus auf datenschutzfreundliche, selbst gehostete Dateisynchronisierung und Zusammenarbeit.",
+    "summary_abuse": "Nextcloud zeigt nur minimale Missbrauchssignale. Als selbst gehostete Plattform für Dateifreigabe und Zusammenarbeit wird sie gelegentlich von Einzelpersonen genutzt, um auf schlecht administrierten Instanzen illegale Inhalte bereitzustellen, im Verhältnis zur legitimen Nutzung in Unternehmen und im privaten Bereich ist das aber selten. Die Nextcloud GmbH pflegt eine Richtlinie für Sicherheitsmeldungen und behebt Schwachstellen aktiv."
+  },
+  "Nextdoor Ads": {
+    "description": "Nextdoor Ads ist eine einfach nutzbare Erweiterung der proprietären Self-Serve-Kampagnenplattform von Nextdoor, mit der kleine und mittlere Unternehmen auf Nextdoor werben können.",
+    "history": "Nextdoor wurde 2011 in San Francisco als soziales Netzwerk für Nachbarschaften gegründet. Nextdoor Ads, auch Neighborhood Ad Center genannt, ist die darauf aufbauende Werbeplattform, über die KMU gezielte lokale Anzeigen schalten können. 2021 ging Nextdoor über einen SPAC an die Börse.",
+    "summary_abuse": "Nextdoor Ads ist eine Werbepixel- und Kampagnenplattform, die mit dem sozialen Netzwerk Nextdoor verbunden ist; sie sammelt Verhaltensdaten von Nutzern für Anzeigenausrichtung. Es gibt keine auffälligen Berichte über den Einsatz für Betrug oder Scams, aber wie alle Ad-Tech-Plattformen trägt sie zu Verhaltensprofiling und Cross-Site-Tracking bei."
+  },
+  "NextGEN Gallery": {
+    "description": "NextGEN Gallery ist ein kostenloses Open-Source-Plugin zur Bildverwaltung für das Content-Management-System WordPress.",
+    "history": "NextGEN Gallery ist ein WordPress-Plugin für Bildergalerien, das ursprünglich um 2007 veröffentlicht und später von Imagely übernommen und weitergeführt wurde. Es gehört mit über 1 Million aktiven Installationen zu den am weitesten verbreiteten Galerie-Plugins im WordPress-Ökosystem.",
+    "summary_abuse": "NextGEN Gallery zeigt kein auffälliges Missbrauchssignal. Es ist ein WordPress-Plugin für die legitime Darstellung von Fotogalerien auf Websites."
+  },
+  "Nextra": {
+    "description": "Nextra ist ein auf Next.js basierender Generator für statische Websites.",
+    "history": "Nextra ist ein auf Next.js basierender Generator für statische Websites, der etwa 2021 bis 2022 in der Vercel-nahen Community entstand und vor allem für Dokumentationsseiten genutzt wird. Er wurde als Dokumentationsframework für Open-Source-Projekte beliebt.",
+    "summary_abuse": "Nextra zeigt kein auffälliges Missbrauchssignal. Es ist ein Framework für statische Websites ohne Endnutzeroberfläche."
+  },
+  "Nextsale": {
+    "description": "Nextsale ist eine Plattform zur Conversion-Optimierung, die Social-Proof- und Dringlichkeitswerkzeuge für E-Commerce-Websites bereitstellt.",
+    "history": "Nextsale ist eine SaaS-Plattform zur Conversion-Optimierung mit Social-Proof-Benachrichtigungen und Dringlichkeitswerkzeugen für E-Commerce-Sites. Es ist ein kleines Startup ohne bekannte Übernahmen oder Eigentümerwechsel.",
+    "summary_abuse": "Nextsale stellt Social-Proof- und Dringlichkeits-Widgets bereit. Solche Werkzeuge können genutzt werden, um falsche Knappheit oder vorgetäuschten Social Proof zu erzeugen und Nutzer zu beeinflussen, was ein leichtes Dark-Pattern-Risiko darstellt. Für diesen Anbieter sind jedoch keine konkreten Missbrauchsfälle dokumentiert."
+  },
+  "NextUI": {
+    "description": "NextUI hilft beim Erstellen schöner, moderner und schneller Websites und Anwendungen unabhängig von der Designerfahrung, erstellt mit React.js und Stitches, basierend auf React Aria und inspiriert von Vuesax.",
+    "history": "NextUI ist eine React-UI-Komponentenbibliothek, die um 2021 entstand und auf React Aria sowie Tailwind CSS aufbaut; sie bietet vorgefertigte, barrierearme Komponenten für React-Anwendungen. 2023 veröffentlichte das Projekt NextUI v2 und wechselte dabei von Stitches zu Tailwind CSS als Styling-Engine.",
+    "summary_abuse": "NextUI zeigt kein auffälliges Missbrauchssignal. Es ist eine React-Komponentenbibliothek ohne Endnutzeroberfläche."
+  },
+  "NexusPHP": {
+    "description": "NexusPHP ist ein Open-Source-Skript für private Tracker, geschrieben in PHP.",
+    "history": "NexusPHP ist ein Open-Source-Skript für private BitTorrent-Tracker in PHP, das etwa Mitte der 2000er-Jahre aus chinesischen Entwickler-Communities hervorging. Es wird häufig für private Torrent-Tracking-Sites genutzt, besonders in chinesischsprachigen Regionen.",
+    "summary_abuse": "NexusPHP ist die Codebasis vieler privater BitTorrent-Tracker. Private Tracker teilen zwar typischerweise urheberrechtlich geschützte Inhalte ohne Genehmigung, NexusPHP selbst ist aber neutrale Infrastruktur. Der wichtigste Einsatzzweck begünstigt Urheberrechtsverletzungen, und viele damit betriebene Sites verbreiten raubkopierte Software, Filme und Spiele. Die Missbrauchsbekämpfung hängt vollständig vom jeweiligen Site-Betreiber ab."
+  },
+  "NexusPIPE": {
+    "description": "NexusPIPE ist ein Unternehmen für ADC- und DDoS-Abwehr.",
+    "history": "NexusPIPE ist ein kleiner Anbieter für DDoS-Abwehr und Application Delivery Controller (ADC). Es handelt sich um einen Nischen-Infrastrukturanbieter ohne öffentlich bekannte Übernahmen oder Eigentümerwechsel.",
+    "summary_abuse": "NexusPIPE ist ein Infrastrukturanbieter für DDoS-Abwehr und ADC ohne auffälliges Missbrauchssignal. Solche Infrastruktur wird legitim für Traffic-Scrubbing und Content Delivery eingesetzt."
+  },
+  "Nexxt": {
+    "description": "Nexxt ist ein joborientiertes Suchsystem, das Nutzern hilft, Stellenangebote anhand von Fähigkeiten und Präferenzen branchenübergreifend zu finden.",
+    "history": "Nexxt ist eine Jobsuche- und berufliche Netzwerkplattform, die vor allem Arbeitssuchende in den USA bedient; sie ist seit vielen Jahren als Arbeitsmarktplatz tätig, ohne öffentlich bekannte bedeutende Eigentümerwechsel.",
+    "summary_abuse": "Nexxt ist eine Jobbörse und ein berufliches Netzwerk. Jobplattformen können Ziel gefälschter Stellenanzeigen sein, die persönliche Informationen abgreifen sollen, für Nexxt sind jedoch keine spezifischen prominenten Vorfälle dokumentiert. Das Risiko liegt im Vergleich zur gesamten Jobbörsenkategorie am unteren Ende."
+  },
+  "Nexxtmove": {
+    "description": "Nexxtmove ist eine Marketingplattform für Immobilienagenturen, die zielgerichtete, personalisierte Kommunikationswerkzeuge bereitstellt, um passende Zielgruppen zu erreichen und Kampagnenergebnisse zu verbessern.",
+    "history": "Nexxtmove ist eine Marketing-Automation-Plattform für Immobilienagenturen und bietet personalisierte Kommunikationswerkzeuge. Es ist ein kleines Nischen-SaaS-Startup ohne öffentlich bekannte bedeutende Eigentümerwechsel.",
+    "summary_abuse": "Nexxtmove ist eine Nischenplattform für Immobilienmarketing ohne auffälliges Missbrauchssignal; sie ist in einem regulierten Branchenumfeld tätig."
+  },
+  "Ngage Live Chat": {
+    "description": "Ngage Live Chat ist eine branchenspezifische Live-Chat-Lösung, die Website-Besucher in Kunden umwandeln soll.",
+    "history": "Ngage Live Chat ist ein Live-Chat- und Lead-Generation-Dienst für professionelle Dienstleistungsbranchen wie Recht, Immobilien und Haushaltsdienste. Der Dienst bietet besetzte Chat-Agents statt nur Software. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Ngage Live Chat ist ein besetzter Live-Chat-Dienst für professionelle Branchen ohne auffälliges Missbrauchssignal. Er dient als Lead-Generation-Werkzeug für regulierte Dienstleistungskategorien."
+  },
+  "nghttpx - HTTP/2 proxy": {
+    "history": "nghttpx ist ein HTTP/2-Reverse-Proxy und Teil der von Tatsuhiro Tsujikawa entwickelten nghttp2-Bibliothekssuite. Das Tool bietet HTTP/2-Proxying, SSL-Terminierung und Load-Balancing-Funktionen.",
+    "summary_abuse": "nghttpx zeigt kein auffälliges Missbrauchssignal. Es ist ein Backend-Tool für HTTP/2-Proxys ohne Endnutzeroberfläche."
+  },
+  "Nginx": {
+    "description": "Nginx ist ein Webserver, der auch als Reverse Proxy, Load Balancer, Mail-Proxy und HTTP-Cache genutzt werden kann.",
+    "history": "Nginx wurde von Igor Sysoev entwickelt und 2004 erstmals veröffentlicht, um das C10k-Problem zu lösen. Es wurde weltweit zu einem der am häufigsten eingesetzten Webserver. 2011 wurde Nginx Inc gegründet, um das Projekt zu kommerzialisieren. 2019 übernahm F5 Networks Nginx Inc für rund 670 Millionen US-Dollar und machte es zu einer Tochtergesellschaft. Der Open-Source-Kern bleibt unter der BSD-2-Clause-Lizenz.",
+    "summary_abuse": "Nginx hat als Technologie selbst kein relevantes Missbrauchssignal. Es ist ein Backend-Webserver und Reverse Proxy ohne Endnutzeroberfläche. Wenn missbräuchliche Sites auf Nginx laufen, liegt die Verantwortung beim Site-Betreiber, nicht bei Nginx."
+  },
+  "Niagahoster": {
+    "description": "Niagahoster ist ein Webhosting-Dienst für kleine und mittlere Unternehmen. Er bietet Shared Hosting, WordPress-Hosting, Virtual Private Server (VPS) und weitere Dienste.",
+    "history": "Niagahoster ist ein indonesischer Webhosting-Anbieter, der für den lokalen KMU-Markt gegründet wurde. Das Angebot umfasst Shared Hosting, VPS und Domainregistrierung und richtet sich vor allem an indonesische Unternehmen und Privatpersonen.",
+    "summary_abuse": "Niagahoster ist ein regionaler indonesischer Webhosting-Anbieter. Wie die meisten Shared-Hosting-Dienste kann er gelegentlich Spam- oder Phishing-Inhalte auf schlecht verwalteten Kundenkonten hosten, für diesen Anbieter sind jedoch keine spezifischen öffentlichen Missbrauchsfälle dokumentiert."
+  },
+  "Nibiru Ecommerce": {
+    "description": "Nibiru Ecommerce ist eine in Uruguay ansässige SaaS-Plattform zum Erstellen und Verwalten von Online-Shops ohne Verkaufsprovisionen, mit Integrationen, Skalierbarkeit und voller Kontrolle ab dem ersten Tag.",
+    "history": "Nibiru Ecommerce ist eine SaaS-Plattform aus Uruguay zum Aufbau von Online-Shops mit Fokus auf den lateinamerikanischen Markt. Es ist ein Startup in einer frühen Phase ohne bekannte bedeutende Eigentümerwechsel.",
+    "summary_abuse": "Nibiru Ecommerce ist ein kleiner E-Commerce-Shop-Builder ohne auffälliges Missbrauchssignal. Der geografische Fokus auf Lateinamerika und die kleine Nutzerbasis senken das Risikoprofil."
+  },
+  "Nicepage": {
+    "description": "Nicepage ist ein kostenloses Website-Baukastenwerkzeug, das keine Programmierkenntnisse erfordert und sich nahtlos in alle führenden CMS-Systeme integriert.",
+    "history": "Nicepage ist ein No-Code-Website-Builder mit Online-SaaS-Editor und Desktop-Anwendung. Er wurde um 2017 gegründet und als kostenlose Drag-and-drop-Alternative zu klassischen Website-Buildern positioniert, mit Integrationen für WordPress und Joomla.",
+    "summary_abuse": "Nicepage ist ein Website-Builder mit kostenloser Stufe, der Veröffentlichungen auf eigenen Domains erlaubt. Website-Builder mit kostenlosem Hosting und eigenen Domains werden gelegentlich genutzt, um Phishing-Landingpages oder betrügerische Shops zu erstellen, auch wenn für Nicepage selbst keine konkreten Vorfälle dokumentiert sind."
+  },
+  "Nido Tecnologia": {
+    "description": "Nido Tecnologia ist eine Plattform, die Softwarelösungen für die Immobilienbranche in Brasilien bereitstellt.",
+    "history": "Nido Tecnologia ist eine brasilianische SaaS-Plattform mit Softwarelösungen für die Immobilienbranche. Es ist ein kleines Startup für den lokalen brasilianischen Markt für Immobilienverwaltung und Agenturen.",
+    "summary_abuse": "Nido Tecnologia ist ein brasilianisches Immobilien-SaaS in einer Nische ohne auffälliges Missbrauchssignal."
+  },
+  "Nidux": {
+    "description": "Nidux ist eine E-Commerce-Plattform für kleine und mittlere Unternehmen.",
+    "history": "Nidux wurde 2011 in San José, Costa Rica, als cloudbasierte E-Commerce- und Omnichannel-Plattform für KMU in Lateinamerika gegründet. Die Plattform ist auf über 2'600 aktive Online-Shops in der Region gewachsen und bietet Social Commerce, Mobile Commerce und klassische E-Commerce-Integrationen.",
+    "summary_abuse": "Nidux ist eine lateinamerikanische E-Commerce-Plattform, mit der KMU Online-Shops aufbauen. Wie andere E-Commerce-Plattformanbieter trägt sie ein gewisses Restrisiko, für gefälschte Shops genutzt zu werden. Es gibt jedoch kein dokumentiertes Muster erheblichen Missbrauchs oder Betrugs, das speziell mit Nidux verbunden ist."
+  },
+  "Nift": {
+    "description": "Nift ist ein Marketingprogramm für Netzwerke lokaler Unternehmen. Unternehmen geben Nift-Geschenkkarten aus, um Kunden für Aktionen wie Newsletter-Anmeldungen, Empfehlungen oder Einkäufe zu danken und sie zu belohnen.",
+    "history": "Nift ist eine B2B-Marketingplattform, über die Unternehmen digitale Geschenkkarten als Loyalitätsprämien an Kunden anbieten können; sie arbeitet als Netzwerk lokaler Unternehmen und Händler und wurde um 2015 in den USA gegründet.",
+    "summary_abuse": "Nift betreibt ein Netzwerk für Geschenkkarten und Loyalitätsprämien für Unternehmen. Geschenkkartenplattformen können Ziel von Betrug sein, etwa wenn Angreifer kostenlose oder werbliche Geschenkkartenangebote ausnutzen. Für Nift sind keine spezifischen prominenten Missbrauchsfälle dokumentiert."
+  },
+  "NightsBridge": {
+    "description": "NightsBridge ist eine SaaS-Plattform, die Buchungs- und Channel-Management-Werkzeuge für Unterkunftsanbieter bereitstellt.",
+    "history": "NightsBridge ist eine südafrikanische SaaS-Plattform mit Buchungsverwaltung und Channel-Management für Unterkunftsanbieter wie Guesthouses, B&Bs und kleine Hotels; sie ist seit den frühen 2000er-Jahren aktiv und gehört zu den führenden Systemen im südafrikanischen Gastgewerbemarkt.",
+    "summary_abuse": "NightsBridge ist eine Buchungsmanagement-Plattform für das Gastgewerbe ohne auffälliges Missbrauchssignal; sie bedient legitime Unterkunftsbetriebe im südlichen Afrika."
+  },
+  "Niice": {
+    "description": "Niice ist eine niederländische Marketing-Automation-Plattform, die Kampagnenmanagement, Kundenbindung und datengetriebene Kommunikationsprozesse vereinfacht.",
+    "history": "Niice ist eine niederländische Digitalmarketing-Agentur und Marketing-Automation-Plattform mit Sitz in Groenlo in der Region Achterhoek in den Niederlanden. Das Unternehmen bedient niederländische KMU-Kunden mit Digitalmarketing, Marketing Automation, SEO, Webdesign und Conversion-Optimierung auf Basis einer Spotler-Integration.",
+    "summary_abuse": "Niice ist eine kleine niederländische Digitalmarketing-Agentur mit Marketing-Automation-Software. Eine Missbrauchsgeschichte ist nicht dokumentiert, und das Unternehmen bedient lokale niederländische KMU mit Marketingdiensten, statt anonym nutzbare oder endnutzerorientierte gehostete Inhalte bereitzustellen."
+  },
+  "Nimbata": {
+    "description": "Nimbata ist eine Plattform für Call Tracking und Conversion-Attribution, die Marketingfachleuten, Teams und Agenturen hilft, fundierte Entscheidungen zur Verbesserung der Kampagnenleistung zu treffen.",
+    "history": "Nimbata ist eine SaaS-Plattform für Call Tracking und Conversion-Attribution, die um 2016 in Griechenland gegründet wurde; sie hilft Marketingteams, Telefonanruf-Conversions Online-Kampagnen zuzuordnen. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Nimbata ist eine Call-Tracking- und Analyseplattform ohne auffälliges Missbrauchssignal; sie wird von Marketingteams genutzt, um telefonische Anfragen Werbekampagnen zuzuordnen."
+  },
+  "Nimbu": {
+    "description": "Nimbu ist eine Plattform, die Content Management, E-Commerce und eine skalierbare Cloud-Datenbank in einem System vereint.",
+    "history": "Nimbu ist ein kleines belgisches Unternehmen mit Hauptsitz in Leuven, Belgien, das eine integrierte Plattform aus CMS, E-Commerce und Cloud-Datenbank in einem System anbietet. Mit einem Team von ungefähr 5 Personen entwickelte das Unternehmen native Mobile-SDKs und stellt eine entwicklerfreundliche Plattform für Sites und Apps bereit. Bedeutende Finanzierungen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Nimbu ist eine belgische Nischenplattform für CMS und E-Commerce ohne dokumentierte Missbrauchsgeschichte. Es ist ein kleines professionelles Werkzeug ohne auffällige Endnutzerfunktionen, die Phishing-Akteure anziehen würden."
+  },
+  "Ninchat": {
+    "description": "Ninchat ist eine sichere Messaging-Plattform für Organisationen, die verschlüsselte Kommunikation und Zusammenarbeit ermöglicht.",
+    "history": "Ninchat ist eine finnische Plattform für sichere Nachrichten und Kundenservice, entwickelt für Organisationen mit Bedarf an verschlüsselter Kommunikation; sie ist seit den frühen 2010er-Jahren als Kommunikationswerkzeug für Unternehmen und den öffentlichen Sektor im Einsatz.",
+    "summary_abuse": "Ninchat ist eine sichere Enterprise-Messaging-Plattform ohne auffälliges Missbrauchssignal. Der Fokus auf verschlüsselte organisatorische Kommunikation für Unternehmen und öffentliche Auftraggeber senkt das Risikoprofil."
+  },
+  "Ninja Forms": {
+    "description": "Ninja Forms ist der Formular-Builder für WordPress.",
+    "history": "Ninja Forms ist ein WordPress-Formular-Builder-Plugin von Saturday Drive, das 2011 erstmals veröffentlicht wurde. Es wurde mit Millionen Installationen zu einem der beliebtesten WordPress-Formular-Plugins. Saturday Drive bietet sowohl ein kostenloses Kern-Plugin als auch kostenpflichtige Add-ons an.",
+    "summary_abuse": "Ninja Forms zeigt kein auffälliges Missbrauchssignal. Es ist ein WordPress-Plugin zum Erstellen von Formularen ohne direkte Endnutzeroberfläche, auf die Betrüger typischerweise abzielen würden."
+  },
+  "NinjaCat": {
+    "description": "NinjaCat ist eine Marketing-Analytics-Plattform, die Leistungsdaten aus mehreren Marketingkanälen aggregiert, analysiert und berichtet.",
+    "history": "NinjaCat ist eine Marketing-Analytics- und Reporting-Plattform, die um 2013 in den USA gegründet wurde; sie aggregiert Daten aus mehreren digitalen Marketingkanälen und erstellt automatisierte Berichte für Marketingagenturen. Das Unternehmen hat Risikokapital aufgenommen.",
+    "summary_abuse": "NinjaCat ist eine Marketing-Analytics- und Reporting-Plattform ohne auffälliges Missbrauchssignal; sie dient Marketingagenturen zur Leistungsberichterstattung."
+  },
+  "NitroPack": {
+    "description": "NitroPack erstellt optimierten HTML-Cache für schnell ladende Seiten.",
+    "history": "NitroPack ist eine bulgarische SaaS-Plattform für Web-Performance-Optimierung, die um 2019 gegründet wurde; sie bietet automatisches Caching, Bildoptimierung, Code-Minification und CDN-Dienste vor allem für WordPress und andere CMS-basierte Sites. Die Plattform bedient inzwischen eine beträchtliche Zahl von Websites weltweit.",
+    "summary_abuse": "NitroPack ist ein Web-Performance- und Caching-Dienst ohne auffälliges Missbrauchssignal. Er dient als technische Optimierungsschicht für Websites und hat keine Endnutzeroberfläche, auf die Betrüger abzielen würden."
+  },
+  "NOCNOK": {
+    "description": "NOCNOK ist ein CRM für Immobilienagenturen, das KI nutzt, um Lead-Antworten zu automatisieren, Antwortzeiten zu verkürzen und Verkaufsabläufe zu unterstützen.",
+    "history": "NOCNOK ist eine mexikanische Immobilien-CRM-Plattform, die in Monterrey, Nuevo Leon, gegründet wurde; sie nutzt KI, um Lead-Antworten und Kredit-Vorqualifizierungen für Immobilienagenturen zu automatisieren. Die Plattform bedient über 35'000 Immobilienmakler und verbindet Inserate mit Portalen und sozialen Netzwerken.",
+    "summary_abuse": "Kein auffälliges Missbrauchssignal. NOCNOK ist ein B2B-Immobilien-CRM für den mexikanischen Markt ohne dokumentierte Missbrauchsmuster."
+  },
+  "Nocodelytics": {
+    "description": "Nocodelytics ist ein Werkzeug zum Tracking von Klicks, Suchen, CMS-Elementen und mehr auf deiner Webflow-Site. Damit kannst du Nutzeraktivität und wichtige Kennzahlen ohne Programmierung überwachen.",
+    "history": "Nocodelytics ist ein Analytics-Plugin für Webflow-Sites, das No-Code-Tracking von Klicks und Nutzerverhalten ermöglicht. Es wurde um 2021 gegründet, ohne bekannte bedeutende Unternehmensereignisse.",
+    "summary_abuse": "Nocodelytics zeigt kein auffälliges Missbrauchssignal. Es ist ein Webflow-Analytics-Add-on ohne Endnutzer-Content-Hosting oder anonym zugängliche Funktionen."
+  },
+  "Noddus": {
+    "description": "Noddus bietet Marken und Agenturen Zugang zu einer fortschrittlichen proprietären Content-Marketing-Plattform, die Content-Produktion, Distribution und Analytics automatisiert.",
+    "history": "Noddus ist eine Content-Marketing-Automation-Plattform für Marken und Agenturen. Ein bedeutendes Gründungsjahr oder eine Unternehmensgeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Noddus zeigt kein auffälliges Missbrauchssignal. Es ist ein B2B-Content-Marketing-SaaS ohne endnutzerorientiertes Hosting, das Phishing- oder Scam-Akteure anziehen würde."
+  },
+  "Node.js": {
+    "description": "Node.js ist eine quelloffene, plattformübergreifende JavaScript-Laufzeitumgebung, die JavaScript-Code ausserhalb eines Webbrowsers ausführt.",
+    "history": "Node.js wurde von Ryan Dahl entwickelt und 2009 erstmals veröffentlicht, wodurch JavaScript serverseitig auf der V8-Engine laufen konnte. 2014 entstand wegen Governance-Konflikten der wichtige Fork io.js, doch beide Projekte wurden 2015 unter der neu gegründeten Node.js Foundation wieder zusammengeführt. Diese Foundation fusionierte 2019 mit der JS Foundation zur OpenJS Foundation, die Node.js heute steuert.",
+    "summary_abuse": "Node.js zeigt als Plattform kein auffälliges Missbrauchssignal. Es ist eine grundlegende serverseitige Laufzeitumgebung ohne Endnutzeroberfläche. Malware kann zwar in Node.js geschrieben werden, die Laufzeit selbst ist im Verhältnis zu ihrer überwältigend legitimen Nutzung aber kein bevorzugtes Werkzeug für Scammer oder Phishing-Akteure."
+  },
+  "NodeBB": {
+    "description": "NodeBB-Forumsoftware basiert auf Node.js und nutzt entweder eine Redis- oder MongoDB-Datenbank.",
+    "history": "NodeBB wurde 2014 in Toronto, Kanada, von Julian, Andrew und Barış gegründet, die zuvor gemeinsam bei einem Social-Gaming-Unternehmen gearbeitet hatten. Auf Basis von Node.js mit MongoDB oder Redis wurde es zu einer beliebten Open-Source-Forenplattform. NodeBB Inc. bietet neben der selbst gehosteten GPL-3-Edition auch eine Cloud-Version an.",
+    "summary_abuse": "NodeBB ist eine Open-Source-Forenplattform ohne auffälliges systemisches Missbrauchssignal. Selbst gehostete Foren können für beliebige Zwecke eingerichtet werden, die Software selbst ist jedoch ein legitimes Community-Werkzeug mit aktiver Wartung. Eine dokumentierte Nutzung als Phishing-Infrastruktur ist nicht bekannt."
+  },
+  "NodePing": {
+    "description": "NodePing ist ein Werkzeug aus der Kategorie Website Monitoring eines Tech-Stacks. NodePing ist ein Open-Source-Tool mit GitHub-Sternen und GitHub-Forks.",
+    "history": "NodePing wurde 2011 von Shawn Parrish in Phoenix, Arizona, als Dienst zur Überwachung der Verfügbarkeit von Websites und Servern gegründet. Es blieb ein unabhängiges, bootstrapped Produkt ohne bekannte bedeutende Eigentümerwechsel.",
+    "summary_abuse": "NodePing zeigt kein auffälliges Missbrauchssignal. Es ist ein Uptime-Monitoring-Dienst ohne endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "Nody": {
+    "description": "Nody ist eine Plattform, mit der Online-Shops ohne Programmierkenntnisse erstellt werden können.",
+    "history": "Nody ist eine No-Code-E-Commerce-Plattform, mit der Online-Shops ohne Programmierung erstellt werden können. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Nody ist ein No-Code-E-Commerce-Builder mit kostenloser Stufe. Er könnte zur Erstellung gefälschter Shops genutzt werden, es sind aber keine dokumentierten Missbrauchsfälle bekannt."
+  },
+  "NoFraud": {
+    "description": "NoFraud ist eine Betrugspräventionslösung für E-Commerce-Unternehmen.",
+    "history": "NoFraud wurde 2014 in New York als Betrugspräventionsplattform für E-Commerce-Händler gegründet und bietet Chargeback-Garantien sowie Echtzeitprüfung von Transaktionen. Das Unternehmen ist durch VC-Finanzierung gewachsen und ernannte 2023 Scott Gifis zum CEO.",
+    "summary_abuse": "NoFraud ist ein Betrugspräventionswerkzeug, das Händlern hilft, betrügerische Transaktionen zu erkennen und zu blockieren. Als Technologie zeigt es kein auffälliges Missbrauchssignal und ist nicht für Missbrauch in Phishing- oder Scam-Infrastruktur bekannt."
+  },
+  "Nogin": {
+    "description": "Nogin ist eine Commerce-as-a-Service-Plattform (CaaS), die cloudbasierte E-Commerce-Funktionen und Infrastruktur für nahtlose Integration und Entwicklung von E-Commerce-Lösungen bietet.",
+    "history": "Nogin wurde ursprünglich 2010 in Tustin, Kalifornien, als Branded Online gegründet und in Nogin umbenannt, als das Unternehmen auf ein Commerce-as-a-Service-Modell wechselte. Das Unternehmen ging unter dem Ticker NOGN an die Nasdaq und kündigte 2024 eine Restrukturierung an.",
+    "summary_abuse": "Nogin zeigt kein auffälliges Missbrauchssignal. Es ist eine E-Commerce-Infrastrukturplattform für Marken, ohne endnutzerorientierte Content-Hosting-Funktionen, die für Phishing oder Betrug relevant wären."
+  },
+  "Noibu": {
+    "description": "Noibu hilft E-Commerce-Websites, umsatzrelevante Fehler auf ihren Websites zu erkennen, und liefert die Informationen, die zu deren Behebung nötig sind.",
+    "history": "Noibu ist ein SaaS für E-Commerce-Fehlererkennung und Umsatzrückgewinnung, das um 2019 in Kanada gegründet wurde. Bedeutende Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Noibu zeigt kein auffälliges Missbrauchssignal. Es ist ein technisches Error-Monitoring-Werkzeug für E-Commerce-Sites ohne endnutzerorientierte Hosting-Funktionen."
+  },
+  "Nolt": {
+    "description": "Nolt ist eine kollaborative Plattform zur Verwaltung von Nutzeranfragen, die veraltete Tabellen und Trello-Boards ersetzen und verwertbare Kundeneinblicke liefern soll.",
+    "history": "Nolt wurde 2018 in Toronto, Kanada, als Werkzeug zur Verwaltung von Kundenfeedback und Feature-Anfragen gegründet und als Ersatz für Tabellen und Trello-Boards positioniert. Es blieb ein kleines bootstrapped Produkt ohne bekannte bedeutende Eigentümerwechsel.",
+    "summary_abuse": "Nolt zeigt kein auffälliges Missbrauchssignal. Es ist ein Feedback-Sammelwerkzeug für Produktteams ohne öffentliches Endnutzer-Hosting oder anonyme Registrierung, die Betrüger anziehen würde."
+  },
+  "Noodle Factory": {
+    "description": "Noodle Factory ist eine Tutoring-Plattform, die Unterricht durch personalisierte und ansprechende Lernerfahrungen für Schüler verbessert.",
+    "history": "Noodle Factory wurde 2018 in Singapur von Yvonne Soh und Jim Wagstaff als KI-gestützte Tutoring-Plattform für Lehrpersonen gegründet. Das Unternehmen nahm eine Seed-Runde über 500'000 US-Dollar auf, um international zu expandieren.",
+    "summary_abuse": "Noodle Factory zeigt kein auffälliges Missbrauchssignal. Es ist eine Bildungstechnologie-Plattform für Lehrpersonen und Institutionen ohne endnutzerorientiertes Content-Hosting oder anonyme Registrierungsfunktionen."
+  },
+  "Nookal": {
+    "description": "Nookal ist eine Praxisverwaltungssoftware, die medizinische Termine organisiert und verwaltet.",
+    "history": "Nookal wurde 2010 in Oxenford, Queensland, Australien, von Jamie Chalmers und Darren Rieck als Praxisverwaltungsplattform für Allied-Health-Anbieter gegründet. Das Unternehmen blieb unabhängig und bedient Kliniken in Australien und international.",
+    "summary_abuse": "Nookal zeigt kein auffälliges Missbrauchssignal. Es ist ein SaaS für die Verwaltung medizinischer Praxen im Allied-Health-Bereich ohne endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "Nootiz": {
+    "description": "Nootiz ist ein visuelles Feedback-Werkzeug, das das Sammeln und Verwalten von Nutzerfeedback auf Websites vereinfacht.",
+    "history": "Nootiz ist ein visuelles Website-Feedback-Werkzeug, mit dem Kunden- oder Teamkommentare direkt auf Webseiten gesammelt und verwaltet werden können. Ein bedeutendes Gründungsjahr oder eine Unternehmensgeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Nootiz zeigt kein auffälliges Missbrauchssignal. Es ist ein Feedback-Sammelwerkzeug für Webteams ohne endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "NoPaperForms": {
+    "description": "NoPaperForms ist eine cloudbasierte Plattform, die Prozesse für Studierendenanmeldung und Zulassung automatisiert und verwaltet.",
+    "history": "NoPaperForms wurde 2017 in Gurugram, Indien, von Naveen Goyal und Suraj Sapra als cloudbasierte Plattform für die Automatisierung von Studierendenanmeldung und Zulassung gegründet. Das Unternehmen wurde später in eine öffentliche Gesellschaft umgewandelt, um einen IPO vorzubereiten.",
+    "summary_abuse": "NoPaperForms zeigt kein auffälliges Missbrauchssignal. Es ist ein SaaS für Zulassungsmanagement im Bildungssektor ohne Content-Hosting für Verbraucher oder anonyme Registrierungsfunktionen, die Betrüger anziehen würden."
+  },
+  "nopCommerce": {
+    "description": "nopCommerce ist eine Open-Source-E-Commerce-Lösung auf Basis von Microsofts ASP.NET Core Framework und MS SQL Server 2012 oder neuer als Backend-Datenbank.",
+    "history": "nopCommerce wurde von Andrei Mazulnitsyn entwickelt und 2008 erstmals als quelloffene, ASP.NET-basierte E-Commerce-Plattform veröffentlicht. Es wird vom nopCommerce-Team gepflegt und ist zu einer der beliebtesten .NET-E-Commerce-Plattformen geworden, die breit von kleinen und mittleren Unternehmen eingesetzt wird.",
+    "summary_abuse": "nopCommerce ist eine selbst gehostete Open-Source-E-Commerce-Plattform. Wie jede E-Commerce-Plattform kann sie von Betrügern installiert und konfiguriert werden, um gefälschte Shops zu erstellen. Durch den selbst gehosteten Betrieb liegt die Verantwortung jedoch bei den Betreibern. Ein systematischer Missbrauch der Plattformdistribution selbst ist nicht dokumentiert."
+  },
+  "nopStation": {
+    "description": "nopStation ist eine One-Stop-E-Commerce-Lösung mit individuellen Integrationen und massgeschneiderten Plugins auf Basis spezifischer Anforderungen oberhalb von nopCommerce.",
+    "history": "nopStation wurde 2011 als E-Commerce-Geschäftseinheit von Brain Station 23 gegründet, einem Softwareentwicklungsunternehmen aus Bangladesch. Das Unternehmen spezialisiert sich auf nopCommerce-Plugins, Themes und individuelle Entwicklungsdienste und ist zu einem führenden nopCommerce-Lösungspartner gewachsen.",
+    "summary_abuse": "nopStation ist ein nopCommerce-Entwicklungsunternehmen ohne auffälliges Missbrauchssignal. Es bietet E-Commerce-Entwicklungsdienste und Plugins für legitime Unternehmen."
+  },
+  "Norby": {
+    "description": "Norby ist eine KI-gestützte Chatlösung für E-Commerce, Gesundheitswesen, Krypto und Fintech.",
+    "history": "Norby AI wurde 2020 in Tallinn, Estland, als KI-gestützter Chat-Assistent für E-Commerce-, Gesundheits- und Fintech-Unternehmen gegründet. Bedeutende Eigentümerwechsel oder Finanzierungsereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Norby zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-KI-Chatplattform für Kundensupport ohne endnutzerorientierte Content-Hosting-Funktionen, die Betrüger anziehen würden."
+  },
+  "Norce": {
+    "description": "Norce ist eine Headless-SaaS-Plattform für Digital Commerce, die Unternehmen mit anspruchsvollen Anforderungen unterstützt.",
+    "history": "Norce entstand 2021 durch den Zusammenschluss der norwegischen E-Commerce-Plattformen Jetshop und Storm Commerce. Dabei wurden über zwei Jahrzehnte E-Commerce-Plattformentwicklung in einer einzigen nordischen Headless-Commerce-Plattform für skandinavische Unternehmen gebündelt.",
+    "summary_abuse": "Norce zeigt kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Headless-E-Commerce-Backend-Plattform für etablierte skandinavische Marken, ohne endnutzerorientiertes Content-Hosting, das Betrugsakteure anziehen würde."
+  },
+  "Nordcraft": {
+    "description": "Nordcraft ist eine Plattform, die ein visuelles Designwerkzeug mit einem Webframework verbindet und so die Erstellung von Webanwendungen und Websites in einer gemeinsamen Umgebung ermöglicht.",
+    "history": "Nordcraft wurde 2022 in Dänemark von Andreas Moller und Kasper Svenning Hansen als visuelle Webentwicklungsplattform gegründet, die Designwerkzeuge mit einem Webframework kombiniert; sie vermarktet sich als Open-Source-Alternative zu Webflow und Framer.",
+    "summary_abuse": "Nordcraft zeigt kein auffälliges Missbrauchssignal. Es ist ein visuelles Webentwicklungswerkzeug für Entwickler mit kostenloser Stufe, aber begrenzten anonymen Hosting-Möglichkeiten, die Betrüger anziehen würden."
+  },
+  "Normalize.css": {
+    "description": "Normalize.css ist eine CSS-Bibliothek, die Browser Elemente nach modernen Standards rendern lässt, indem nur die Styles normalisiert werden, die eine Normalisierung benötigen.",
+    "history": "Normalize.css wurde von Nicolas Gallagher und Jonathan Neal entwickelt und 2011 erstmals als MIT-lizenzierte Alternative zu CSS-Resets veröffentlicht, die nützliche Standardwerte bewahrt, statt alles zurückzusetzen. Es wurde zu einer der am häufigsten genutzten CSS-Grundlagen im Web.",
+    "summary_abuse": "Normalize.css hat kein Missbrauchssignal. Es ist eine grundlegende CSS-Bibliothek ohne Endnutzeroberfläche."
+  },
+  "Normi": {
+    "description": "Normi ist eine Compliance-Management-Plattform, die die Einhaltung von Québecs C-25-Regelung sicherstellen soll.",
+    "history": "Normi ist ein Compliance-Management-SaaS aus Québec, Kanada, das speziell dafür entwickelt wurde, Organisationen bei der Einhaltung von Québecs Bill C-25 (Law 25) zu Datenschutzvorgaben zu unterstützen. Eine bedeutende Unternehmensgeschichte oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Normi zeigt kein auffälliges Missbrauchssignal. Es ist ein Compliance-Management-Werkzeug für Datenschutzregulierung ohne endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "Norse Env": {
+    "description": "Norse Env ist ein leichtgewichtiges PHP-CMS für contentgetriebene Websites mit visuellem Editor, Mediathek und eigener Admin-URL.",
+    "history": "Norse Env ist ein leichtgewichtiges Open-Source-PHP-CMS für contentgetriebene Websites mit visueller Bearbeitungsoberfläche. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Norse Env ist ein PHP-CMS in einer Open-Source-Nische ohne dokumentiertes Missbrauchssignal."
+  },
+  "Northbeam": {
+    "description": "Northbeam ist eine Plattform für Marketingmessung, die Machine Learning für DTC- und E-Commerce-Marken einsetzt.",
+    "history": "Northbeam wurde 2019 in El Segundo, Kalifornien, von Austin Harrison und dem KI-Forscher Dan Huang als Plattform für Marketing-Attribution und Analytics für DTC-E-Commerce-Marken gegründet. Das Unternehmen ist durch VC-Finanzierung gewachsen und bedient einen beachtlichen Teil des DTC-Analytics-Markts.",
+    "summary_abuse": "Northbeam ist eine Marketing-Analytics- und Attributionsplattform ohne auffälliges Missbrauchssignal; sie hostet keine Nutzerinhalte, bietet keinen anonymen Zugang und ist nicht in Betrugs- oder Phishing-Infrastruktur verwickelt."
+  },
+  "NorthStar Civic": {
+    "description": "NorthStar Civic ist ein individuelles Content- und Digital-Asset-Management-System, das Nachrichtenseiten im NorthStar-Civic-Media-Netzwerk unterstützt.",
+    "history": "NorthStar Civic ist ein CMS und Digital-Asset-Management-System für zivilgesellschaftliche und staatliche Organisationen. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "NorthStar Civic ist ein CMS für den Regierungsbereich ohne dokumentiertes Missbrauchssignal. Die Zielgruppe aus Verwaltung und Civic-Organisationen macht endnutzerorientierten Betrug unwahrscheinlich."
+  },
+  "Northstar Club Management": {
+    "description": "Northstar Club Management ist eine Plattform, die Mitgliedschaft, Buchhaltung, Reservationen, Veranstaltungen und Kommunikation integriert, um den täglichen Betrieb privater Clubs und Verbände zu vereinfachen.",
+    "history": "Northstar Club Management ist eine SaaS-Plattform für Clubverwaltung in privaten Clubs und Verbänden mit Mitgliedschafts-, Buchhaltungs- und Eventmanagement. Ein bedeutendes Gründungsjahr oder eine Eigentümergeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Northstar Club Management zeigt kein auffälliges Missbrauchssignal. Es ist ein SaaS für den Betrieb privater Clubs ohne endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "Norton Shopping Guarantee": {
+    "description": "Norton Shopping Guarantee bietet Kunden eine Einkaufsabsicherung durch Dritte und zusätzliche Bestätigung, dass sie sicher einkaufen können.",
+    "history": "Norton Shopping Guarantee ist ein Händler-Vertrauenssiegel, das von BuySafe in Partnerschaft mit NortonLifeLock betrieben wird. Der Dienst wurde um 2014 gegründet und bietet Käufern auf teilnehmenden E-Commerce-Sites Schutz vor Identitätsdiebstahl und Einkaufsgarantien.",
+    "summary_abuse": "Norton Shopping Guarantee wird gelegentlich in Phishing-Kampagnen nachgeahmt, die das Vertrauenssiegel fälschlich anzeigen, um betrügerischen Shops mehr Glaubwürdigkeit zu geben. Das Siegel selbst ist ein legitimes Vertrauenssignal, aber seine Markenbekanntheit macht es zu einem Ziel für Spoofing auf gefälschten Shopping-Sites. Wie schnell der Anbieter gegen Missbrauch des Badges vorgeht, ist nicht gut dokumentiert."
+  },
+  "Nosto": {
+    "description": "Nosto ist eine E-Commerce-Plattform, die Produktempfehlungen auf Basis individueller Verhaltensdaten bereitstellt.",
+    "history": "Nosto wurde 2011 in Helsinki, Finnland, von Jani Luostarinen, Antti Pohyonen und Juha Valvanne als Plattform für Produktempfehlungen und Personalisierung im E-Commerce gegründet. Das Unternehmen expandierte weltweit und nahm über fünf Finanzierungsrunden 32,8 Millionen US-Dollar auf. 2019 übernahm Nosto Stackla, eine UGC-Plattform, die zu Nosto Visual UGC wurde.",
+    "summary_abuse": "Nosto ist eine Plattform für Produktempfehlungen und Personalisierung auf legitimen E-Commerce-Sites; sie sammelt Verhaltensdaten wie Browsing- und Kaufhistorie, um personalisierte Empfehlungen auszuliefern. Das ist im E-Commerce üblich, bringt aber Datenschutzimplikationen mit sich. Eine dokumentierte Nutzung in Phishing- oder Betrugsinfrastruktur ist nicht bekannt."
+  },
+  "Nosto Visual UGC": {
+    "description": "Nosto Visual UGC, früher Stackla, ist eine cloudbasierte Content-Marketing-Plattform, mit der nutzergenerierte Inhalte über digitale Marketingplattformen hinweg entdeckt, kuratiert, angezeigt und zur Interaktion genutzt werden können.",
+    "history": "Nosto Visual UGC wurde ursprünglich als Stackla gestartet, eine Plattform zur Kuratierung nutzergenerierter Inhalte. Nosto übernahm Stackla 2019 und benannte es in Nosto Visual UGC um, um es in das breitere Commerce-Experience-Platform-Angebot von Nosto für E-Commerce-Händler zu integrieren.",
+    "summary_abuse": "Nosto Visual UGC zeigt als Plattform kein auffälliges Missbrauchssignal; sie hilft Marken, nutzergenerierte Social-Media-Inhalte zu sammeln und darzustellen, und arbeitet als B2B-Dienst ohne direktes endnutzerorientiertes Hosting beliebiger Inhalte."
+  },
+  "Nostra": {
+    "description": "Nostra ist eine Lösung zur Web-Performance-Optimierung.",
+    "history": "Nostra ist eine Plattform für Web-Performance-Optimierung und Edge Delivery im E-Commerce, die um 2018 gegründet wurde. Eine bedeutende Unternehmensgeschichte oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Nostra zeigt kein auffälliges Missbrauchssignal. Es ist ein Backend-CDN- und Performance-Optimierungsdienst für E-Commerce-Sites ohne endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "Noticeable": {
+    "description": "Noticeable ist eine Plattform, die Produktupdates und Unternehmensankündigungen vereinfacht und zugleich Nutzerkommunikation und Feedbackanalyse verbessert.",
+    "history": "Noticeable ist ein französisches SaaS-Unternehmen, das 2017 gegründet wurde und Werkzeuge für Produktupdates und Changelog-Management für Softwareteams anbietet. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Noticeable zeigt kein auffälliges Missbrauchssignal. Es ist ein Produktkommunikationswerkzeug für Softwareteams ohne endnutzerorientiertes Content-Hosting, das Betrüger anziehen würde."
+  },
+  "Notie": {
+    "description": "Notie ist eine Suite für Benachrichtigungen, Eingaben und Auswahl in JavaScript, ohne Abhängigkeiten.",
+    "history": "Notie ist eine Open-Source-JavaScript-Bibliothek für Benachrichtigungen, die 2016 von Jared Reich erstellt und unter der MIT-Lizenz veröffentlicht wurde. Das Repository ist seit etwa 2018 weitgehend inaktiv und faktisch aufgegeben.",
+    "summary_abuse": "Notie hat kein Missbrauchssignal. Es ist eine kleine, aufgegebene JavaScript-Benachrichtigungsbibliothek ohne Endnutzeroberfläche."
+  },
+  "Notifly": {
+    "description": "Notifly ist ein Marketing-Automation-Werkzeug, das die Durchführung von Multi-Channel-Kampagnen vereinfacht.",
+    "history": "Notifly ist eine Marketing-Automation-Plattform für Multi-Channel-Kampagnenmanagement. Ein bedeutendes Gründungsjahr oder eine Unternehmensgeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Notifly zeigt kein auffälliges Missbrauchssignal. Es ist ein Marketing-Automation-Werkzeug für Unternehmen ohne direkte endnutzerorientierte Content-Hosting-Funktionen."
+  },
+  "Notion": {
+    "description": "Notion ist eine Kollaborationsplattform mit angepasster Markdown-Unterstützung, die Kanban-Boards, Aufgaben, Wikis und Datenbanken integriert.",
+    "history": "Notion wurde 2016 von Ivan Zhao und Simon Last in San Francisco gegründet. Nach einer stillen frühen Phase startete das Unternehmen 2018 mit einem neu gestalteten Produkt neu und wuchs während der Remote-Work-Ära stark. 2021 erreichte es nach einer Finanzierungsrunde über 275 Millionen US-Dollar eine Bewertung von 10 Milliarden US-Dollar und wurde zu einem der weltweit bekanntesten Produktivitätswerkzeuge.",
+    "summary_abuse": "Notion zeigt ein niedriges, aber nicht inexistentes Missbrauchssignal. Öffentliche Seiten und Datenbankfunktionen wurden gelegentlich genutzt, um Phishing-Inhalte oder gefälschte Login-Seiten zu hosten, weil Notions legitime Domain von URL-Filtern oft vertraut wird. Notion reagiert aktiv auf Missbrauchsmeldungen und entfernt bösartige Seiten. Die Plattform hat eine AUP und einen Takedown-Kontakt veröffentlicht."
+  },
+  "Notix": {
+    "description": "Notix ist ein Web-Push-Benachrichtigungsdienst zur erneuten Ansprache von Zielgruppen.",
+    "history": "Notix ist ein Web-Push-Benachrichtigungsdienst zur erneuten Zielgruppenansprache, der um 2019 gestartet wurde. Bedeutende Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Notix ist ein Web-Push-Benachrichtigungsdienst. Push-Notification-Anbieter werden gelegentlich von Adware-Verteilern missbraucht, die Nutzer zum Abonnieren verleiten und danach Spam-Benachrichtigungen oder Links zu bösartigen Weiterleitungen senden. Die kostenlose Stufe von Notix mit einfacher Registrierung erhöht die Risikoexposition, auch wenn keine spezifischen dokumentierten Vorfälle für diesen Anbieter bekannt sind."
+  },
+  "Nova Busca": {
+    "description": "Nova Busca ist ein KI-Werkzeug, das die Suchfunktion auf E-Commerce-Websites verbessert, indem es die Relevanz der Ergebnisse und die Nutzererfahrung steigert.",
+    "history": "Nova Busca ist ein KI-gestütztes Werkzeug zur Verbesserung der Site-Suche, vermutlich mit Fokus auf den brasilianischen oder portugiesischsprachigen Markt. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Nova Busca ist ein SaaS zur Suchverbesserung ohne dokumentiertes Missbrauchssignal."
+  },
+  "NovaDB": {
+    "description": "NovaDB ist eine Unified Content Cloud, die Headless CMS und Product Information Management kombiniert, um strukturierte digitale Inhalte zu erstellen, zu verwalten und auszuliefern.",
+    "history": "NovaDB ist eine Plattform für Headless CMS und Product Information Management (PIM), die Content- und Datenmanagement kombiniert. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "NovaDB ist eine Headless-CMS- und PIM-Plattform ohne dokumentiertes Missbrauchssignal."
+  },
+  "Novaresa": {
+    "description": "Novaresa ist eine cloudbasierte Plattform zur Verwaltung, zum Betrieb und zur Vermarktung von Hosting-Diensten mit zentralen Werkzeugen für Administration, Servicebereitstellung und Kundenbindung.",
+    "history": "Novaresa ist eine cloudbasierte Plattform zur Verwaltung und Vermarktung von Gastgewerbebetrieben. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Novaresa ist ein SaaS für das Gastgewerbemanagement ohne dokumentiertes Missbrauchssignal."
+  },
+  "Novel": {
+    "description": "Novel ist eine Plattform, mit der Nutzer NFTs veröffentlichen und tokenbasierte Produkte, Inhalte und Rabatte in wenigen Minuten einrichten können.",
+    "history": "Novel ist eine Plattform für NFT-basierte token-gated Produkte und E-Commerce, die um 2021 während des NFT-Markthypes gestartet wurde. Bedeutende Eigentümerwechsel oder eine Unternehmensgeschichte sind nicht dokumentiert.",
+    "summary_abuse": "Novel ist im Bereich NFT und Token-Gating tätig, der historisch erhebliche Scam-Aktivität wie Rug Pulls und gefälschte NFT-Drops gesehen hat. Die Plattform selbst richtet sich an legitime Händler, doch das NFT-Ökosystem, an dem sie teilnimmt, trägt ein erhöhtes Betrugsrisiko. Für diesen Anbieter sind keine spezifischen dokumentierten Missbrauchsfälle bekannt."
+  },
+  "novomind iSHOP": {
+    "description": "novomind iSHOP lässt sich schnell einführen, ist hoch skalierbar, bietet offene APIs, Headless E-Commerce und ist in der novomind Cloud GDPR-konform.",
+    "history": "Die novomind AG wurde 2000 in Hamburg als Softwareunternehmen mit Schwerpunkt auf Digital Commerce und Kundenservice-Lösungen gegründet. Das Produkt iSHOP ist eine Headless-E-Commerce-Plattform für Omnichannel-Händler im B2C- und B2B-Bereich.",
+    "summary_abuse": "novomind iSHOP ist eine Enterprise-E-Commerce-Plattform ohne auffälliges Missbrauchssignal; sie bedient legitime Omnichannel-Händler und hat keine endnutzerorientierten Funktionen, die Betrüger anziehen würden."
+  },
+  "NowButtons": {
+    "description": "NowButtons ist ein Floating-Action-Button-Plugin, das die Interaktivität von Websites verbessert, schnellen Zugriff auf wichtige Aktionen bietet und Conversion-Raten steigern soll.",
+    "history": "NowButtons ist ein Floating-Action-Button-Plugin für WordPress und Websites zur Verbesserung der Nutzer-Conversion. Ein bedeutendes Gründungsjahr oder eine Unternehmensgeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "NowButtons zeigt kein auffälliges Missbrauchssignal. Es ist ein einfaches Website-Widget zum Hinzufügen von Call-to-Action-Buttons ohne Content-Hosting oder anonyme Nutzerzugriffsfunktionen."
+  },
+  "Nowfloats": {
+    "description": "Nowfloats ist eine standortbasierte Plattform, die SEO für Unternehmenswebsites automatisiert.",
+    "history": "NowFloats wurde 2012 in Hyderabad, Indien, von Neeraj Sabharwal, Nitin Jain, Ronak Kumar Samantray und Jasminder Gulati als standortbasierte SEO-Plattform für kleine Unternehmen gegründet. Im Dezember 2019 übernahm Reliance Strategic Business Ventures eine Beteiligung von 85 Prozent für rund 20 Millionen US-Dollar.",
+    "summary_abuse": "NowFloats zeigt kein auffälliges Missbrauchssignal. Es ist eine Plattform für Unternehmenswebsites und lokale SEO für KMU in Indien, ohne dokumentierte Nutzung in Phishing- oder Betrugsinfrastruktur."
+  },
+  "NProgress": {
+    "description": "NProgress ist eine JavaScript-Bibliothek, die oben auf Websites oder Webanwendungen eine sehr kleine Fortschrittsleiste anzeigt. Trickle-Animationen signalisieren Ladeaktivität und verbessern die Nutzererfahrung, indem sichtbar wird, dass Inhalte geladen werden.",
+    "history": "NProgress ist eine JavaScript-Bibliothek für eine nanokleine Fortschrittsleiste, erstellt von Rico Sta. Cruz und erstmals um 2013 veröffentlicht; sie wurde in Webanwendungen breit eingesetzt, um Ladezustände anzuzeigen.",
+    "summary_abuse": "NProgress ist eine clientseitige JavaScript-Bibliothek ohne Endnutzeroberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Nrdevo": {
+    "description": "Nrdevo ist eine abonnementbasierte Software, mit der jeder eine Website, einen Online-Shop und mehr einrichten kann.",
+    "history": "Nrdevo ist eine abonnementbasierte CMS- und Website-Baukastenplattform mit Open-Source-Elementen. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Nrdevo ist ein Website-Baukasten-CMS mit kostenloser Stufe. Als hostingfähige Plattform könnte es theoretisch bösartige Seiten hosten, konkrete Missbrauchsfälle sind jedoch nicht dokumentiert."
+  },
+  "NSW Design System": {
+    "history": "Das NSW Design System wurde von der Regierung des australischen Bundesstaats New South Wales geschaffen und um 2019 als Open-Source-UI-Komponentenbibliothek eingeführt, um digitale Dienste auf Websites und Anwendungen der NSW-Regierung zu standardisieren. Es wird vom NSW Department of Customer Service gepflegt.",
+    "summary_abuse": "NSW Design System ist ein staatlich gepflegtes Open-Source-UI-Framework ohne Endnutzeroberfläche. Es zeigt kein auffälliges Missbrauchssignal."
+  },
+  "NTLM": {
+    "description": "NTLM ist eine Authentifizierungsmethode, die häufig von Windows-Servern verwendet wird.",
+    "history": "NTLM (NT LAN Manager) ist ein proprietäres Authentifizierungsprotokoll von Microsoft, das 1993 mit Windows NT eingeführt wurde. Es löste das ältere LM-Protokoll ab und wurde ab Windows 2000 in Active-Directory-Domänen selbst von Kerberos als bevorzugte Authentifizierungsmethode verdrängt. Microsoft empfiehlt wegen bekannter Sicherheitsmängel wie Pass-the-Hash- und Relay-Angriffen seit Langem die Migration weg von NTLM und kündigte 2023 die formelle Abkündigung von NTLMv1 an.",
+    "summary_abuse": "NTLM hat gut dokumentierte Sicherheitslücken, darunter Pass-the-Hash-Angriffe, NTLM-Relay-Angriffe und Credential Theft. Angreifer nutzen NTLM häufig bei internen Netzwerkkompromittierungen, um sich lateral zu bewegen oder Rechte auszuweiten. Besonders NTLMv1 gilt als unsicher und wurde von Microsoft formell abgekündigt. NTLM-Relay-Angriffe bleiben eine gängige Technik zur Ausnutzung von Active Directory. Trotzdem ist NTLM eine Protokollspezifikation ohne Endnutzeroberfläche für Scam- oder Phishing-Hosting."
+  },
+  "Nucleus CMS": {
+    "description": "Nucleus CMS ist ein kostenloses, quelloffenes Webanwendungsframework und Content-Management-System.",
+    "history": "Nucleus CMS wurde vom belgischen Informatikstudenten Wouter Demuynck entwickelt, Version 1.0 erschien 2002. Im Juni 2014 wurde das Projekt als beendet angekündigt, im Januar 2016 nahm die Community-Entwicklung jedoch wieder Fahrt auf. Es bleibt ein Nischen-Open-Source-System für Blogging und Content Management.",
+    "summary_abuse": "Nucleus CMS zeigt kein auffälliges Missbrauchssignal. Es ist eine selbst gehostete Open-Source-Blogging-Plattform ohne zentralisiertes Hosting, das Betrugsaktivität bündeln würde."
+  },
+  "Nudgify": {
+    "description": "Nudgify ist ein Social-Proof- und FOMO-App-Werkzeug, das sich nahtlos in E-Commerce-Plattformen wie Shopify, WooCommerce und Magento integriert.",
+    "history": "Nudgify wurde 2018 in London, UK, von Philippe Aime als Social-Proof- und FOMO-Benachrichtigungswerkzeug für E-Commerce-Sites gegründet. Es integriert sich mit Shopify, WooCommerce und anderen Plattformen, um Echtzeit-Besucherzahlen, kürzliche Käufe und Dringlichkeitsmeldungen anzuzeigen.",
+    "summary_abuse": "Nudgify ist ein Dienst für Social-Proof-Benachrichtigungen. Die Produktkategorie ist mit Dark Patterns verbunden, etwa falschen oder irreführenden Knappheitsbehauptungen und erfundenen Aktivitätsmeldungen, die Käufer beeinflussen. Nudgify kann legitime Echtzeitdaten anzeigen, doch der Werkzeugtyp wird verbreitet für täuschende Dringlichkeit in E-Commerce-Shops eingesetzt. Spezifische dokumentierte Betrugsfälle mit Nudgify selbst sind nicht gemeldet."
+  },
+  "Nukeviet CMS": {
+    "description": "NukeViet CMS ist ein vietnamesisches Content-Management-System.",
+    "history": "NukeViet CMS ist das erste in Vietnam entwickelte Open-Source-Content-Management-System und entstand 2004. Es wurde mit Vietnam Talent 2011 ausgezeichnet und wird vom vietnamesischen Ministerium für Bildung und Ausbildung offiziell empfohlen.",
+    "summary_abuse": "Für NukeViet CMS gibt es kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes vietnamesisches CMS ohne zentrale Hosting-Infrastruktur, die Betrugsaktivitäten bündeln würde."
+  },
+  "Nuqlium": {
+    "description": "Nuqlium ist eine integrierte cloudbasierte Plattform für Online-Merchandising.",
+    "history": "Nuqlium wurde 2016 in London, Vereinigtes Königreich, als cloudbasierte Plattform für Online-Merchandising und Personalisierung gegründet; sie richtet sich an Ecommerce-Händler, die Markenbindung, Konversionsraten und durchschnittliche Bestellwerte mit durchgängigen Tools für die Customer Experience verbessern wollen.",
+    "summary_abuse": "Nuqlium ist eine britische Ecommerce-Plattform für Personalisierung und Merchandising ohne dokumentierte Missbrauchsgeschichte. Es ist ein B2B-SaaS-Tool, das von Ecommerce-Betreibern integriert wird, ohne anonymes oder verbrauchernahes Content-Hosting, das es für Betrugsakteure attraktiv machen würde."
+  },
+  "Nurture": {
+    "description": "Nurture ist eine All-in-one-Software für Marketing-Automation, die Kampagnenmanagement, Lead-Tracking und Kundeninteraktion auf einer Plattform bündelt.",
+    "history": "Nurture ist eine Marketing-Automation-Plattform für Kampagnenmanagement und Lead-Tracking. Ein nennenswertes Gründungsjahr oder eine Unternehmensgeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Nurture gibt es kein auffälliges Missbrauchssignal. Es ist ein Marketing-Automation-SaaS für Geschäftskampagnen ohne verbrauchernahe Funktionen für anonymen Zugriff."
+  },
+  "Nurture Boss": {
+    "description": "Nurture Boss ist eine AI-Plattform für die Interaktion mit Interessenten und Bewohnern, die den Vermietungsprozess vom Lead bis zur Verlängerung automatisiert.",
+    "history": "Nurture Boss ist eine AI-gestützte Plattform zur Automatisierung von Vermietungsprozessen im Mehrfamilien-Immobilienbereich und hilft Wohnanlagen, Leads und Bewohner anzusprechen. Ein nennenswertes Gründungsjahr oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Für Nurture Boss gibt es kein auffälliges Missbrauchssignal. Es ist ein SaaS für die Automatisierung von Immobilienvermietung ohne verbrauchernahe Content-Hosting-Funktionen."
+  },
+  "Nuvemshop": {
+    "description": "Nuvemshop ist ein Website-Builder mit anpassbaren Layouts, Produkt-, Versand- und Zahlungsverwaltung, Marketing-Tools und mobiler App.",
+    "history": "Nuvemshop, in spanischsprachigen Märkten als Tiendanube bekannt, wurde Ende 2010 in Buenos Aires, Argentinien, gegründet und 2011 offiziell lanciert, später folgte die Expansion nach Brasilien. Die Plattform wurde zur führenden Ecommerce-Plattform in Lateinamerika und erreichte 2021 nach einer Finanzierungsrunde über 500 Millionen US-Dollar den Unicorn-Status.",
+    "summary_abuse": "Nuvemshop ist eine etablierte Ecommerce-Plattform mit Millionen aktiver Shops in Lateinamerika. Wie bei allen gehosteten Ecommerce-Plattformen wurden auch dort einzelne betrügerische Shops erstellt. Nuvemshop hat akzeptable Nutzungsbedingungen und Standardwege zur Missbrauchsmeldung, aber kein dokumentiertes spezialisiertes Anti-Abuse-Programm. Das Missbrauchsrisiko entspricht der Grösse der Plattform."
+  },
+  "Nuxt UI": {
+    "description": "Nuxt UI ist eine anpassbare UI-Bibliothek für Nuxt.",
+    "history": "Nuxt UI ist die offizielle Komponentenbibliothek für Nuxt.js-Anwendungen und wird von NuxtLabs gepflegt; sie bietet auf Tailwind CSS basierende Komponenten für den Einsatz in Nuxt-Projekten.",
+    "summary_abuse": "Nuxt UI hat kein Missbrauchssignal. Es ist eine UI-Komponentenbibliothek ohne verbrauchernahe Oberfläche."
+  },
+  "Nuxt.js": {
+    "description": "Nuxt ist ein Vue-Framework für die Entwicklung moderner Webanwendungen.",
+    "history": "Nuxt.js wurde von Sebastien Chopin entwickelt und 2016 als Open-Source-Framework auf Basis von Vue.js veröffentlicht. Es brachte Funktionen für serverseitiges Rendering und statische Seitengenerierung mit. 2019 wurde NuxtLabs gegründet, um das Ökosystem kommerziell zu unterstützen. Nuxt 3 erschien im November 2022 mit einer vollständigen Neuentwicklung auf Basis von Vite und Vue 3.",
+    "summary_abuse": "Nuxt.js hat kein Missbrauchssignal. Es ist ein grundlegendes Framework für serverseitiges Rendering und statische Seitengenerierung ohne verbrauchernahe Oberfläche."
+  },
+  "NVD3": {
+    "description": "NVD3 ist eine JavaScript-Bibliothek für Visualisierungen und ein freies Open-Source-Tool.",
+    "history": "NVD3 entstand um 2012 beim Datenvisualisierungsteam von Novus Partners als wiederverwendbare Charting-Bibliothek auf Basis von D3.js. Nach anfänglicher Beliebtheit verlangsamte sich die Entwicklung deutlich. Das Projekt wechselte zu einem von der Community gepflegten Fork, zeigt seit 2018 aber kaum noch Aktivität und gilt weitgehend als aufgegeben.",
+    "summary_abuse": "NVD3 ist eine clientseitige JavaScript-Charting-Bibliothek ohne serverseitige oder gehostete Komponente. Es gibt kein auffälliges Missbrauchssignal."
+  },
+  "Nyehandel": {
+    "description": "Nyehandel ist eine Ecommerce-Plattform, die den gesamten Prozess vom Kauf bis zur Lieferung verwaltet und auf höhere operative Effizienz und Wettbewerbsfähigkeit ausgerichtet ist.",
+    "history": "Nyehandel wurde 2020 gegründet und hat seinen Sitz in Kristianstad, Schweden. Das Unternehmen bietet eine Ecommerce-Plattform, die den gesamten Prozess vom Kauf bis zur Lieferung abdeckt. Es ist ein unabhängiges Unternehmen ohne Finanzierung und mit rund 150 aktiven Shops.",
+    "summary_abuse": "Nyehandel ist eine kleine schwedische Ecommerce-Plattform ohne dokumentiertes Missbrauchssignal."
+  }
+}

@@ -1,0 +1,996 @@
+{
+  "H2O": {
+    "description": "H2O ist ein schneller und sicherer HTTP/2-Server, den Kazuho Oku in C geschrieben hat.",
+    "history": "H2O.ai wurde 2012 von Sri Ambati in Mountain View, Kalifornien, als Open-Source-Plattform für Machine Learning auf Big Data gegründet. Das Unternehmen erhielt umfangreiche VC-Finanzierung, unter anderem von GE Ventures und Nvidia. Bekannt ist H2O.ai für AutoML-Funktionen, Driverless AI und das Wave UI Framework. H2O.ai ist unabhängig geblieben und wird in Unternehmen breit für Training und Deployment von ML-Modellen eingesetzt.",
+    "summary_abuse": "H2O.ai ist eine Machine-Learning-Plattform ohne Missbrauchssignal; sie ist grundlegende ML-Infrastruktur für Data Scientists und Unternehmen und hat keine verbrauchernahe Oberfläche, die für Betrug oder Spam ausgenutzt werden könnte."
+  },
+  "h5ai": {
+    "description": "h5ai ist ein moderner HTTP-Webserver-Index für Apache httpd, lighttpd und nginx.",
+    "history": "h5ai ist ein Open-Source-Verzeichnisindex für HTTP-Webserver von Lars Jung. Das Projekt stellt einen modernen HTML5-Dateibrowser für Apache, lighttpd und nginx bereit und wird seit etwa 2011 als unabhängiges Projekt gepflegt.",
+    "summary_abuse": "h5ai ist ein selbst gehostetes Tool für Verzeichnislisten ohne verbrauchernahe Oberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Haddock": {
+    "description": "Haddock ist ein Tool, das aus annotiertem Haskell-Quellcode automatisch Dokumentation erzeugt.",
+    "history": "Haddock ist das Standardwerkzeug zur Dokumentationserzeugung für Haskell. Es wurde um 2002 zuerst von Simon Marlow entwickelt und wird heute von der Haskell Foundation gepflegt. Es ist ein fester Bestandteil des Haskell-Build-Ökosystems mit Cabal und Stack und erzeugt API-Dokumentation aus annotiertem Haskell-Quellcode.",
+    "summary_abuse": "Haddock ist ein Haskell-Dokumentationstool ohne verbrauchernahe Oberfläche und ohne dokumentierte Missbrauchsmuster. Es ist grundlegendes Werkzeug im Haskell-Ökosystem."
+  },
+  "Haku": {
+    "description": "Haku ist eine Technologieplattform für Ausdauerrennen, die Organisationen dabei unterstützt, Teilnahmezahlen, Anmeldungen und Event-Erlebnisse zu verbessern.",
+    "history": "Haku ist eine US-basierte SaaS-Plattform für Anmeldung und Management von Ausdauersportveranstaltungen; sie bietet Rennveranstaltern Werkzeuge für Registrierung, Zeitmessung und Teilnehmerverwaltung. Gegründet wurde Haku Mitte der 2010er-Jahre als spezialisierter Wettbewerber zu Plattformen wie RunSignUp und Race Roster.",
+    "summary_abuse": "Haku ist eine Nischenplattform für Sportveranstaltungsregistrierung. Dokumentierte Missbrauchsmuster sind nicht bekannt. Da die Plattform Zahlungen für Event-Anmeldungen verarbeitet, gelten übliche Erwartungen an PCI-Compliance. Es handelt sich um einen kleinen Anbieter ohne öffentliches Security-Programm."
+  },
+  "Halo": {
+    "description": "Halo ist ein leistungsfähiges, benutzerfreundliches Open-Source-Tool zum Erstellen von Websites mit dynamischen Themes, Echtzeitbearbeitung und Mehrsprachigkeit.",
+    "history": "Halo ist ein in Java entwickeltes Open-Source-CMS und eine Blogging-Plattform aus China, die um 2019 erstmals auf GitHub veröffentlicht wurde. Es unterstützt dynamische Themes, Plugins und mehrsprachige Setups. Das Projekt hat als selbst gehostete Blogging-Alternative eine bedeutende chinesischsprachige Nutzerschaft gewonnen.",
+    "summary_abuse": "Halo ist ein selbst gehostetes Open-Source-CMS. Dokumentierte Missbrauchsmuster sind nicht bekannt. Wie bei jeder selbst gehosteten Publishing-Plattform entsteht Risiko vor allem, wenn Betreiber sie für schädliche Zwecke einsetzen, die Software selbst hat aber keine inhärenten Missbrauchsvektoren. Auffällige CVEs sind nicht dokumentiert."
+  },
+  "Haloscan": {
+    "description": "Haloscan ist ein Tool, mit dem Blogs Trackbacks und Kommentare einbinden konnten, damit Nutzer über Diskussionen und Feedback mit Blog-Inhalten interagieren konnten.",
+    "history": "Haloscan war ein früher Dienst für Blog-Kommentare und Trackbacks, der in der Blogging-Ära der mittleren 2000er-Jahre beliebt war. Er bot kostenloses Kommentar-Hosting für Blogs. Der Dienst wurde im Januar 2009 eingestellt, nachdem JS-Kit, später Echo, ihn übernommen hatte. Nutzer wurden zu Echo Comments migriert, bevor auch dieser Dienst später eingestellt wurde.",
+    "summary_abuse": "Haloscan war ein Legacy-Dienst für Blog-Kommentare und wurde 2009 eingestellt. Er ist nicht mehr in Betrieb. Historisch wurde er für legitime Blog-Diskussionen genutzt, ohne dass auffällige Missbrauchsmuster dokumentiert sind. Der Dienst ist eingestellt."
+  },
+  "Hamechio": {
+    "description": "Hamechio ist ein Web-Application-Framework.",
+    "history": "Hamechio ist ein kleines Web-Application-Framework mit sehr wenig öffentlicher Dokumentation oder Community-Präsenz. Es tauchte um 2020 erstmals auf. Die beobachtete Nutzung und Aktivität ist sehr begrenzt.",
+    "summary_abuse": "Hamechio ist ein unbekanntes Web-Framework mit verschwindend geringer Verbreitung und ohne dokumentierte Missbrauchsmuster. Es hat keine verbrauchernahe Oberfläche."
+  },
+  "Hammer.js": {
+    "description": "Hammer.js ist eine JavaScript-Bibliothek, mit der Webanwendungen Touch-Gesten wie Swipe, Pinch und Rotate unterstützen können.",
+    "history": "Hammer.js ist eine JavaScript-Bibliothek für Multi-Touch-Gesten, erstellt von Jorik Tangelder und erstmals um 2012 veröffentlicht; sie wurde breit genutzt, um Swipe-, Pinch-, Rotate- und Tap-Gesten in Webanwendungen zu ermöglichen. Das Projekt erreichte Version 2.0, befindet sich inzwischen aber in einem Wartungsmodus mit geringer Aktivität; das Maintainer-Team verweist auf rein freiwillige Entwicklung und sehr begrenzte Aktivität in den letzten Jahren.",
+    "summary_abuse": "Hammer.js ist eine clientseitige Gestenbibliothek ohne Serverkomponente, Datenerhebung oder Missbrauchsfläche; sie hat kein relevantes Missbrauchsprofil."
+  },
+  "Handlebars": {
+    "description": "Handlebars ist eine JavaScript-Bibliothek zum Erstellen wiederverwendbarer Webseiten-Templates.",
+    "history": "Handlebars.js ist eine JavaScript-Template-Sprache, die Mustache-Templates erweitert; sie wurde von Yehuda Katz entwickelt und um 2011 erstmals veröffentlicht. Durch Ember.js und den breiten Einsatz für serverseitige Templates wurde sie populär. Das Projekt wechselte zur GitHub-Organisation handlebars-lang und erhält weiterhin gelegentliche Wartungsupdates, mit letzter beobachteter Commit-Aktivität Anfang 2026.",
+    "summary_abuse": "Handlebars.js ist eine client- und serverseitige Template-Bibliothek ohne Netzwerkkomponente oder nutzernahe Oberfläche. Es hat kein bekanntes Missbrauchsprofil und stellt ein vernachlässigbares Risiko dar."
+  },
+  "Handsontable": {
+    "description": "Handsontable ist eine JavaScript-Komponente, die Datagrid-Funktionen mit einer tabellenkalkulationsähnlichen Bedienung kombiniert.",
+    "history": "Handsontable ist eine JavaScript-Datagrid-Bibliothek, die 2012 von Handsoncode, einem polnischen Unternehmen, erstmals veröffentlicht wurde. Ursprünglich stand das Projekt unter der MIT-Lizenz, wechselte 2019 ab Version 7 aber zu einem proprietären, kommerziellen Lizenzmodell, was in der Community deutliche Kontroversen auslöste. Eine kostenlose nicht-kommerzielle Lizenz bleibt verfügbar. Das Unternehmen entwickelt die Bibliothek aktiv weiter und bietet Wrapper für React, Angular und Vue.",
+    "summary_abuse": "Handsontable ist eine clientseitige JavaScript-Datagrid-Komponente. Dokumentierte Missbrauchsmuster sind nicht bekannt. Der Wechsel von MIT zu einer proprietären Lizenz im Jahr 2019 war umstritten, ist aber kein Missbrauchsthema. Sicherheitsvorfälle sind nicht dokumentiert."
+  },
+  "Handtalk": {
+    "description": "Handtalk ist ein Accessibility-Plugin, das Gebärdensprache nutzt, um Websites zugänglicher zu machen.",
+    "history": "Handtalk ist ein brasilianisches Unternehmen für Accessibility-Technologie, gegründet 2012, das ein KI-gestütztes Plugin für Gebärdensprachübersetzung auf Websites anbietet. Der Schwerpunkt liegt auf Barrierefreiheitsanforderungen für LIBRAS, die brasilianische Gebärdensprache. Das Unternehmen erhielt Investitionen und bedient brasilianische Behörden und Unternehmenskunden, die Web-Accessibility-Vorgaben erfüllen wollen.",
+    "summary_abuse": "Handtalk ist ein Accessibility-Plugin-Anbieter mit Fokus auf Gebärdensprachübersetzung. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als Drittanbieter-Script auf Websites hat es Zugriff auf Seiteninhalte, was für Accessibility-Plugins üblich ist. Sicherheitsvorfälle sind nicht bekannt."
+  },
+  "Hanko": {
+    "description": "Hanko ist eine passwortlose Authentifizierungslösung für sichere Login-Integration.",
+    "history": "Hanko ist eine Plattform für passwortlose Authentifizierung, die um 2021 von einem deutschen Team gegründet wurde; sie bietet passkey- und WebAuthn-basierte Authentifizierung als Open-Source-Projekt unter Apache 2.0 sowie als Managed-Cloud-Dienst. Mit der wachsenden Verbreitung von Passkeys nach der FIDO2-Standardisierung gewann Hanko in der Entwickler-Community an Zugkraft.",
+    "summary_abuse": "Hanko ist ein Anbieter von Authentifizierungsinfrastruktur. Authentifizierungssysteme können Ziel von Credential-Angriffen sein, doch als Auth-Provider statt verbrauchernaher Dienst ist das Missbrauchsrisiko hauptsächlich auf API-Endpunkte begrenzt. Dokumentierte Zweckentfremdung oder Sicherheitsvorfälle sind nicht bekannt. Das deutsche Unternehmen legt den Fokus auf GDPR."
+  },
+  "Hansel": {
+    "description": "Hansel ist eine B2B-Unternehmenssoftware, die in Echtzeit Nudges ausspielt, um Feature-Adoption zu fördern und Nutzerabbrüche in grossem Massstab zu reduzieren.",
+    "history": "Hansel ist ein indisches B2B-SaaS-Unternehmen für In-App-Produktadoption und User-Onboarding in Mobile- und Web-Apps, etwa mit Nudges, Tooltips und Walkthroughs. Es wurde um 2015 in Indien gegründet und richtet sich an Enterprise-Kunden im Bereich Product-led Growth, im Wettbewerb mit Appcues und WalkMe.",
+    "summary_abuse": "Hansel ist eine SaaS für Produktadoption, die UI-Overlays in Host-Anwendungen einbindet. Als Drittanbieter-Script mit DOM-Zugriff sollten Nutzer die Datenerhebung prüfen. Dokumentierte Missbrauchsmuster oder Sicherheitsvorfälle sind nicht bekannt. Es handelt sich um ein kleines indisches Startup ohne formales Security-Programm."
+  },
+  "hantana": {
+    "description": "hantana bietet Tools zur Analyse des Nutzerverhaltens wie Heatmaps, Umfragen und Feedback-Widgets, um Website-UX und Kundenzufriedenheit zu verbessern.",
+    "history": "hantana ist eine Plattform für Nutzerverhaltensanalyse mit Heatmaps, Umfragen und Feedback-Widgets zur Verbesserung der Website-UX. In öffentlichen Quellen finden sich kein Gründungsjahr und keine auffällige Eigentümerhistorie.",
+    "summary_abuse": "hantana ist ein Tool für Nutzerverhaltensanalyse ohne verbrauchernahe Content-Hosting-Fläche. Dokumentierte Missbrauchsmuster sind nicht bekannt."
+  },
+  "Hapana": {
+    "description": "Hapana ist eine Managementplattform für Fitnessstudios und Gyms, die Betriebsabläufe vereinfachen soll.",
+    "history": "Hapana ist eine australische SaaS-Plattform für Management von Fitnessstudios und Gyms mit Funktionen für Buchungen, Mitgliedschaften, Zahlungen und Betrieb; sie wurde um 2014 gegründet und bedient Boutique-Fitnessmarken und Fitness-Franchises. Die Plattform hiess früher Clubworx, bevor sie zu Hapana umbenannt wurde.",
+    "summary_abuse": "Hapana ist eine Managementplattform für Fitnessbetriebe. Dokumentierte Missbrauchsmuster sind nicht bekannt. Die Plattform verarbeitet Zahlungs- und Mitgliederdaten für Fitnessstudios, daher gelten übliche PCI- und Datenschutzthemen. Es handelt sich um einen kleinen australischen Anbieter ohne formales Security-Programm."
+  },
+  "Happy Meal Prep": {
+    "description": "Happy Meal Prep ist ein System zur Verwaltung von Essensbestellungen für die Lebensmittelbranche.",
+    "history": "Happy Meal Prep ist ein System zur Verwaltung von Essensbestellungen für Meal-Prep- und Food-Delivery-Unternehmen. Öffentlich ist nur wenig zur Historie verfügbar.",
+    "summary_abuse": "Happy Meal Prep ist eine Nischenplattform für die Verwaltung von Essensbestellungen ohne auffälliges Missbrauchssignal; sie verwaltet Betriebsabläufe von Meal-Prep-Unternehmen und bietet kein öffentliches Content-Hosting."
+  },
+  "Happy Returns": {
+    "description": "Happy Returns ist ein Unternehmen für Retourensoftware und Reverse Logistics, das Kunden ermöglicht, Onlinekäufe verpackungsfrei vor Ort zurückzugeben und sofort eine Rückerstattung zu erhalten.",
+    "history": "Happy Returns wurde 2015 gegründet, um E-Commerce-Käufern verpackungsfreie Rückgaben an physischen Abgabestellen zu ermöglichen. PayPal übernahm Happy Returns 2021. UPS kaufte den Dienst 2023 von PayPal. Der Dienst betreibt ein Netzwerk von Return-Bar-Standorten in den USA und bietet Retourensoftware für E-Commerce-Händler.",
+    "summary_abuse": "Happy Returns ist eine Plattform für Reverse Logistics und Retourenmanagement unter UPS. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als verbrauchernahes Retourenportal und Händler-Software bestehen typische Betrugsrisiken im Einzelhandel, etwa Retourenbetrug, diese betreffen jedoch vor allem Händler und nicht Plattformmissbrauch. Unter UPS gelten übliche Compliance-Strukturen."
+  },
+  "Happy Talk": {
+    "description": "HappyTalk ist ein in Korea entwickeltes Tool für Kundenberatung, das Interaktionen automatisiert und Unternehmenskommunikation unterstützt.",
+    "history": "HappyTalk ist eine südkoreanische SaaS-Plattform für automatisierte Kundenberatung und Chatbot-Werkzeuge in der Unternehmenskommunikation, vor allem für den koreanischen Markt. Gegründet wurde sie Mitte der 2010er-Jahre und bietet Live-Chat, Chatbot-Automatisierung und CRM-Integrationen für E-Commerce- und Enterprise-Kunden in Korea.",
+    "summary_abuse": "HappyTalk ist eine koreanische SaaS für Kundenkommunikation. Für westliche Märkte sind keine dokumentierten Missbrauchsmuster bekannt. Die Plattform bedient primär den koreanischen Markt. Als Chat-Widget-Anbieter hat sie Zugriff auf Daten von Website-Besuchern, was für Live-Chat-Tools üblich ist. Ein formales Security-Programm ist nicht dokumentiert."
+  },
+  "HappyFox Helpdesk": {
+    "description": "HappyFox ist ein cloudgehostetes Helpdesk-Ticketsystem für mehrere Support-Kanäle wie E-Mail, Voice und Live-Chat.",
+    "history": "HappyFox wurde im August 2011 von Shalin Jain gegründet und wird von Tenmiles Technologies betrieben, dem Unternehmen hinter dem früheren Produkt Help Desk Pilot. Es ist bootstrapped und wuchs ohne Venture Capital auf über 12'000 Kunden in 120 Ländern. Das Unternehmen hat seinen Hauptsitz in Irvine, Kalifornien.",
+    "summary_abuse": "HappyFox ist eine B2B-Helpdesk-SaaS ohne auffälliges Missbrauchsprofil; sie bedient Geschäftskunden über authentifizierte Konten und hat keine anonyme oder verbrauchernahe Registrierungsfläche, die Missbrauch anziehen würde. Öffentliche Vorfälle mit missbräuchlicher Nutzung sind nicht dokumentiert."
+  },
+  "HappyFox Live Chat": {
+    "description": "HappyFox ist ein cloudgehostetes Helpdesk-Ticketsystem für mehrere Support-Kanäle wie E-Mail, Voice und Live-Chat.",
+    "history": "HappyFox Live Chat ist ein Live-Chat-Produkt von HappyFox Inc., gegründet 2011 von Shalin Jain und betrieben von Tenmiles Technologies. Es erweitert das Helpdesk-Angebot des Unternehmens um Echtzeit-Kundenchat. HappyFox ist bootstrapped und wird unabhängig von Irvine, Kalifornien, aus betrieben.",
+    "summary_abuse": "HappyFox Live Chat ist ein B2B-Live-Chat-Widget, das in Unternehmenswebsites eingebettet wird. Das Widget könnte theoretisch genutzt werden, um Unternehmen mit Spam oder Social Engineering zu kontaktieren, doch das ist ein geringes und in dieser Kategorie bekanntes Risiko. Spezifische Missbrauchsvorfälle zu HappyFox Live Chat sind öffentlich nicht dokumentiert."
+  },
+  "HappySync": {
+    "description": "HappySync ist ein in Korea entwickeltes Tool für Marketing-Automatisierung und Conversion-Optimierung.",
+    "history": "HappySync ist ein koreanisches Tool für Marketing-Automatisierung und Conversion-Optimierung. Öffentlich ist nur wenig zur Historie verfügbar.",
+    "summary_abuse": "HappySync ist ein koreanisches Marketing-Automation-Tool ohne dokumentiertes auffälliges Missbrauchssignal. Es wird zu Conversion-Tracking-Zwecken in Websites eingebettet."
+  },
+  "Haptik": {
+    "description": "Haptik ist eine indische Conversational-AI-Plattform für Unternehmen, gegründet im August 2013 und 2019 von Reliance Industries Limited übernommen.",
+    "history": "Haptik wurde im August 2013 in Mumbai, Indien, als Conversational-AI- und Chatbot-Plattform gegründet. Das Unternehmen nahm erhebliche VC-Mittel auf, bevor es 2019 für rund 100 Millionen US-Dollar von Reliance Industries Limited, Jio Platforms, übernommen wurde und damit Teil eines der grössten indischen Konglomerate wurde. Heute konzentriert sich Haptik auf Enterprise-Deployments von KI-Assistenten für grosse indische und internationale Unternehmen.",
+    "summary_abuse": "Haptik ist eine Enterprise-Plattform für Conversational AI unter Reliance Industries. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als Anbieter von Chatbots und KI-Assistenten verarbeitet Haptik Nutzergespräche, was übliche Datenschutzfragen aufwirft. Die Plattform bedient vor allem Enterprise-Kunden in Indien. Auffällige Sicherheitsvorfälle sind nicht dokumentiert."
+  },
+  "Harafunnel": {
+    "description": "Harafunnel ist ein Marketing-Automation-Tool, das mit Facebook Messenger Bot integriert und Kundeninteraktion vereinfacht.",
+    "history": "Harafunnel ist eine japanische Marketing-Automation-Plattform, die Facebook Messenger integriert, um chatbotgestützte Kundeninteraktion und Sales Funnels zu ermöglichen; sie wurde um 2017 gegründet und bedient vor allem den japanischen Markt für E-Commerce und digitale Marketing-Automatisierung über Messenger-Bots.",
+    "summary_abuse": "Harafunnel ist eine Marketingplattform für Facebook Messenger Bots. Messenger-basierte Marketing-Automation-Tools können für Spam-Kampagnen und unerwünschte Nachrichten missbraucht werden. Spezifische dokumentierte Vorfälle sind nicht bekannt, doch solche Tools werden periodisch für massenhaftes Werbe-Messaging zweckentfremdet. Es handelt sich um einen kleinen japanischen Anbieter ohne dokumentiertes Security-Programm."
+  },
+  "Haravan": {
+    "description": "Haravan ist ein Anbieter von Multi-Channel-E-Commerce-Diensten aus Vietnam.",
+    "history": "Haravan wurde im März 2014 von Lamho Huynh in Ho-Chi-Minh-Stadt, Vietnam, gegründet. Das Unternehmen startete als Website-Builder für vietnamesische E-Commerce-Unternehmen und entwickelte sich zu einer vollständigen Omnichannel-Commerce-Plattform für SMBs in Vietnam, Thailand und den Philippinen. Bis 2026 bedient Haravan über 50'000 Kunden, wobei die Zahl der Stores 2025 im Jahresvergleich um rund 15 Prozent zurückging.",
+    "summary_abuse": "Haravan ist eine regionale E-Commerce-Plattform für vietnamesische und südostasiatische SMBs. Wie jede E-Commerce-Plattform könnte sie gefälschte oder betrügerische Shops hosten, doch der Fokus auf lokale SMB-Märkte und bekannte Händler reduziert das Risiko anonymer Registrierungen, wie es bei globalen Plattformen üblich ist. Grössere Missbrauchsvorfälle sind öffentlich nicht dokumentiert."
+  },
+  "Harbor": {
+    "description": "Harbor ist eine Open-Source-Registry, die Artefakte mit Policies und rollenbasierter Zugriffskontrolle absichert, Images auf Schwachstellen prüft und Images als vertrauenswürdig signiert.",
+    "history": "Harbor ist eine Open-Source-Registry für Container-Images, entwickelt von VMware und erstmals 2016 veröffentlicht. 2018 wurde sie an die Cloud Native Computing Foundation (CNCF) übergeben und 2020 als CNCF-Projekt graduiert. Harbor bietet policybasierte Zugriffskontrolle, Schwachstellen-Scans, Image-Signierung und Replikation für Container-Images und wird breit in Kubernetes-Umgebungen eingesetzt.",
+    "summary_abuse": "Harbor ist eine selbst gehostete Container-Registry ohne verbrauchernahe Oberfläche. Dokumentierte Missbrauchsmuster sind nicht bekannt. Für Harbor wurden CVEs gemeldet, etwa SSRF-Schwachstellen in älteren Versionen, diese werden jedoch zeitnah gepatcht. Es ist ein graduiertes CNCF-Projekt mit aktivem Security-Disclosure-Prozess."
+  },
+  "HarborByte": {
+    "description": "HarborByte ist eine Website-Plattform für kleine Unternehmen mit Template-Websites und integrierten E-Commerce-, Marketing- und Hosting-Lösungen.",
+    "history": "HarborByte ist eine kleine US-basierte Website-Plattform mit Template-Websites sowie integriertem E-Commerce, Marketing und Hosting für kleine Unternehmen. Die öffentliche Präsenz ist sehr begrenzt und die Marktdurchdringung minimal. Wahrscheinlich handelt es sich um einen Micro-ISV oder ein bootstrapped Produkt.",
+    "summary_abuse": "HarborByte ist ein unbekannter Website-Builder für kleine Unternehmen ohne dokumentierte Missbrauchsmuster. Die Verbreitung ist sehr gering. Ein formales Security-Programm ist nicht bekannt. Übliche Website-Hosting-Themen gelten."
+  },
+  "Harness": {
+    "description": "Harness ist eine Fundraising-Lösung, die das Sammeln von Spenden für verschiedene Zwecke und Initiativen vereinfachen soll.",
+    "history": "Harness, goharness.com, ist eine US-basierte SaaS-Fundraising-Plattform für Nonprofits mit Online-Spendentools, Peer-to-Peer-Fundraising und Spenderverwaltung; sie wurde Mitte der 2010er-Jahre als Nischenanbieter im Nonprofit-Technologiesektor gegründet; sie ist nicht mit Harness.io, der Enterprise-CI/CD-Plattform, zu verwechseln.",
+    "summary_abuse": "Harness ist eine Fundraising-Plattform für Nonprofits. Spendenplattformen können Ziele von Wohltätigkeitsbetrug und Fake-Fundraiser-Scams sein. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt. Die Plattform verarbeitet Spendenzahlungen, weshalb PCI-Compliance relevant ist. Es handelt sich um einen kleinen Anbieter mit begrenzter öffentlicher Security-Dokumentation."
+  },
+  "Hashnode": {
+    "description": "Hashnode ist eine kostenlose Blogging-Plattform für Entwickler, mit der du Artikel auf deiner eigenen Domain veröffentlichen und mit einer globalen Entwickler-Community verbunden bleiben kannst.",
+    "history": "Hashnode ist eine kostenlose Blogging-Plattform für Entwickler, die um 2020 startete und Veröffentlichungen auf eigenen Domains ermöglicht; sie gewann in der Entwickler-Community als Alternative zu Medium und Dev.to deutlich an Bedeutung und positionierte sich über Content-Eigentum und Custom Domains. 2022 nahm Hashnode 6,7 Millionen US-Dollar in einer Series A auf. Mit Headless Hashnode bietet die Plattform auch Headless-CMS-Anwendungsfälle.",
+    "summary_abuse": "Hashnode ist eine Blogging-Plattform für Entwickler mit kostenlosem Tarif und Unterstützung für Custom Domains. Als Content-Hosting-Plattform mit einfacher Kontoerstellung wurde sie gelegentlich für SEO-Spam und minderwertige KI-generierte Inhalte genutzt. Die kostenlose Custom-Domain-Funktion kann für Phishing-Landingpages ausgenutzt werden. Systematischer Missbrauch ist nicht dokumentiert, und Hashnode moderiert Inhalte gemäss seinen Bedingungen."
+  },
+  "Hashtag Labs": {
+    "description": "Hashtag Labs ist ein Full-Service-Unternehmen für digitale Ad Operations.",
+    "history": "Hashtag Labs ist ein US-basiertes Unternehmen für digitale Ad Operations, das verwaltete Ad-Tech-Dienste wie Header Bidding, Ad-Stack-Management und programmatische Umsatzoptimierung für Publisher anbietet. Es ist ein kleiner Boutique-Anbieter im Ad-Tech-Bereich für Medienpublisher.",
+    "summary_abuse": "Hashtag Labs ist ein Unternehmen für digitale Ad Operations, das programmatische Werbung auf Publisher-Websites verwaltet. Ad-Tech-Unternehmen bringen naturgemäss Drittanbieter-Tracker und Datenerhebung über Publisher-Websites hinweg mit. Spezifische Missbrauchsvorfälle sind nicht dokumentiert, doch Ad-Ops-Anbieter arbeiten in einem Bereich mit systemischen Datenschutzbedenken. Publisher sollten Datenflüsse vor der Integration prüfen."
+  },
+  "HashThemes Total": {
+    "description": "HashThemes Total ist ein leistungsfähiges und kreatives Mehrzweck-Theme für WordPress.",
+    "history": "HashThemes Total ist ein Mehrzweck-WordPress-Theme von HashThemes, einem nepalesischen WordPress-Theme-Anbieter. Das Unternehmen entwickelt seit Mitte der 2010er-Jahre mehrere kostenlose und Premium-WordPress-Themes, wobei Total das zentrale Mehrzweckprodukt ist.",
+    "summary_abuse": "HashThemes Total ist ein WordPress-Theme eines nepalesischen Entwicklers. Dokumentierte Missbrauchsmuster sind nicht bekannt. WordPress-Themes können Sicherheitslücken enthalten, doch für dieses Theme sind keine auffälligen CVEs dokumentiert. Übliche Sicherheitsaspekte für WordPress-Themes gelten."
+  },
+  "Haskell": {
+    "history": "Haskell ist eine rein funktionale, statisch typisierte Programmiersprache mit Lazy Evaluation; sie wurde 1987 von einem Forschungskomitee entworfen, das Forschung zu funktionaler Programmierung vereinheitlichen wollte; die erste Version wurde 1990 standardisiert. Haskell 98 war ein auf Stabilität ausgerichteter Standard. Haskell 2010 ist der aktuelle Standard. Trotz mässiger direkter Verbreitung hatte die Sprache enormen Einfluss auf moderne Typsysteme, etwa in TypeScript, Rust und Swift.",
+    "summary_abuse": "Haskell ist eine Programmiersprache ohne inhärente Missbrauchsfläche. Dokumentierte Missbrauchsmuster über die allgemeiner Programmiersprachen hinaus sind nicht bekannt; sie ist eine grundlegende Sprache für Wissenschaft und Forschung."
+  },
+  "Hasura": {
+    "description": "Hasura ist eine Open-Source-Engine, mit der Entwickler ohne grossen Aufwand Echtzeit-GraphQL-APIs aus bestehenden Datenbankschemas automatisch erzeugen können.",
+    "history": "Hasura wurde 2018 gegründet und veröffentlichte seine Open-Source-GraphQL-Engine, die aus PostgreSQL-Schemas automatisch eine Echtzeit-GraphQL-API erzeugt. Das Unternehmen nahm 2020 25 Millionen US-Dollar in einer Series B und 2022 100 Millionen US-Dollar in einer Series C auf. Hasura DDN, Data Delivery Network, wurde 2024 als nächste Generation einer Datenzugriffsschicht vorgestellt. Der Hauptsitz liegt in San Francisco, mit Ursprüngen in Bangalore, Indien.",
+    "summary_abuse": "Hasura ist ein Backend-Infrastrukturtool zum Erstellen von GraphQL-APIs. Dokumentierte Missbrauchsmuster sind nicht bekannt. Da Hasura als API-Schicht vor Datenbanken sitzt, ist korrekte Autorisierungskonfiguration entscheidend, falsch konfigurierte Berechtigungen könnten Daten offenlegen. Das ist jedoch Verantwortung der Entwickler und kein Plattformmissbrauch. Die Security-Position ist stark, mit SOC 2 Type 2 und Bug-Bounty-Programm."
+  },
+  "Hatena Blog": {
+    "description": "Hatena Blog ist eine der traditionellen Blogging-Plattformen in Japan.",
+    "history": "Hatena Blog ist eine grosse japanische Blogging-Plattform von Hatena Co., Ltd., einem 2001 gegründeten japanischen Internetunternehmen, das für seinen Social-Bookmarking-Dienst Hatena Bookmark bekannt ist. Hatena Blog startete 2011 als Nachfolger von Hatena Diary, das 2003 eingeführt wurde, und bleibt eine der beliebtesten Blogging-Plattformen Japans. Hatena Co. ist an der Tokyo Stock Exchange kotiert.",
+    "summary_abuse": "Hatena Blog ist eine grosse japanische Blogging-Plattform. Als kostenloser Hosting-Dienst wurde sie gelegentlich für Spam-SEO-Inhalte und Phishing-Seiten gegen japanische Internetnutzer genutzt. Hatena moderiert Inhalte aktiv gemäss japanischen rechtlichen Anforderungen und den eigenen Nutzungsbedingungen. Die primäre Nutzerbasis sind japanischsprachige Content-Ersteller."
+  },
+  "HawkSearch": {
+    "description": "HawkSearch ist eine responsive E-Commerce-Site-Search-Lösung, die Produkterkennung und Suchfunktionalität verbessern soll.",
+    "history": "HawkSearch ist eine KI-gestützte Plattform für Site Search und Product Discovery mit Schwerpunkt auf B2B-E-Commerce; sie hat ihren Sitz in Des Plaines, Illinois, und ein kleines Team. Das Unternehmen hat über 800 Implementierungen abgeschlossen und bedient Hersteller, Distributoren und Händler, die fortgeschrittene Katalogsuche benötigen. Der Jahresumsatz erreichte im August 2025 3,8 Millionen US-Dollar.",
+    "summary_abuse": "HawkSearch ist eine B2B-Enterprise-Suchplattform ohne auffälliges Missbrauchsprofil; sie stellt Händlern Suchfunktionen bereit und bietet keine verbrauchernahe anonyme Registrierung oder Hosting für nutzergenerierte Inhalte. Das Missbrauchsrisiko ist vernachlässigbar."
+  },
+  "hCaptcha": {
+    "description": "hCaptcha ist eine Anti-Bot-Lösung, die Datenschutz für Nutzer schützen und Websites vergüten soll.",
+    "history": "hCaptcha wurde 2018 von Intuition Machines als datenschutzorientierte Alternative zu Googles reCAPTCHA eingeführt. Cloudflare übernahm hCaptcha 2020 als Standard-CAPTCHA-Anbieter, was erhebliches Wachstum brachte. Der Dienst unterscheidet sich durch ein Geschäftsmodell, bei dem Website-Betreiber für gelöste CAPTCHAs über Data Labeling vergütet werden.",
+    "summary_abuse": "hCaptcha ist ein Anti-Bot-CAPTCHA-Dienst ohne auffälliges direktes Missbrauchssignal. Er soll automatisierten Missbrauch verhindern, nicht ermöglichen. Einige CAPTCHA-Solving-Dienste zielen auf hCaptcha, doch das ist ein generisches Risiko für alle CAPTCHA-Anbieter."
+  },
+  "HCL Commerce": {
+    "description": "HCL Commerce ist ein Softwareplattform-Framework für E-Commerce mit Funktionen für Marketing, Verkauf, Kunden- und Auftragsverarbeitung.",
+    "history": "HCL Commerce, ursprünglich IBM WebSphere Commerce, wurde 1996 von IBM entwickelt. IBM verkaufte die WebSphere-Commerce-Produktlinie 2019 im Rahmen eines 1,8-Milliarden-US-Dollar-Deals über mehrere IBM-Softwareprodukte an HCL Technologies. Unter HCL wurde sie in HCL Commerce umbenannt und bedient weiterhin grosse Enterprise-Retailer weltweit.",
+    "summary_abuse": "HCL Commerce ist Enterprise-E-Commerce-Software ohne auffällige Missbrauchshistorie; sie wird von grossen Händlern und Marken auf eigener Infrastruktur mit strengen Sicherheitskontrollen betrieben."
+  },
+  "HCL Digital Experience": {
+    "description": "HCL Digital Experience ermöglicht das Erstellen, Verwalten und Ausliefern ansprechender digitaler Omnichannel-Erlebnisse für nahezu jede Zielgruppe.",
+    "history": "HCL Digital Experience, ursprünglich IBM WebSphere Portal und IBM Web Content Manager, wurde ab den späten 1990er-Jahren von IBM entwickelt. IBM verkaufte es 2019 an HCL Technologies, im selben 1,8-Milliarden-US-Dollar-Deal, zu dem auch HCL Commerce gehörte. Es wird weiterhin als führende Enterprise-Portal- und Digital-Experience-Plattform betrieben.",
+    "summary_abuse": "HCL Digital Experience ist Enterprise-Portal-Software für grosse Organisationen. Eine Missbrauchshistorie ist nicht bekannt. Die Software läuft auf kundenseitig kontrollierter Infrastruktur."
+  },
+  "HCL Domino": {
+    "description": "HCL Domino, früher IBM Domino seit 1995 und Lotus Domino seit 1989, ist eine Enterprise-Serverplattform für Anwendungsentwicklung.",
+    "history": "IBM Lotus Notes/Domino wurde ursprünglich 1989 von Iris Associates erstellt und von Lotus Development Corporation übernommen, die IBM 1995 kaufte. Es wurde zu einer führenden Enterprise-Plattform für Zusammenarbeit, E-Mail und Anwendungsentwicklung. IBM verkaufte die Domino-Produktlinie 2019 für 1,8 Milliarden US-Dollar an HCL Technologies. Unter HCL wird Domino mit regelmässigen Major Releases weitergeführt, nachdem es unter IBM zeitweise vernachlässigt worden war.",
+    "summary_abuse": "HCL Domino ist Enterprise-Collaboration-Software, die von grossen Organisationen on-premises betrieben wird. Historische Schwachstellen wurden gepatcht. Domino-Server mit veralteten Versionen sind gelegentlich im Internet exponiert, HCL pflegt das Produkt jedoch aktiv mit regelmässigen Sicherheitsupdates."
+  },
+  "Header Bidding Ai": {
+    "description": "Header Bidding Ai bietet eine automatisierte und verwaltete Header-Bidding-Lösung. Bei Header Bidding bieten Publisher ihr Werbeinventar über eine moderne Technik mehreren Ad Exchanges an.",
+    "history": "Header Bidding Ai ist eine automatisierte Managed-Header-Bidding-Plattform, die Publisher über ein einzelnes Script mit Werbekäufern verbindet. Öffentliche Informationen zur Gründung sind begrenzt.",
+    "summary_abuse": "Header Bidding Ai ist ein Dienst zur Werbemonetarisierung, der Ad-Auction-Scripts auf Publisher-Seiten einbettet. Wie die meiste Ad-Tech liefert er standardmässig Tracker und Drittanbieter-Aufrufe aus. Kleine Ad-Tech-Anbieter können Vektoren für Malvertising sein, auch wenn für diesen Anbieter keine spezifischen Vorfälle dokumentiert sind."
+  },
+  "HeadJS": {
+    "description": "HeadJS ist eine JavaScript-Bibliothek, die Web-Performance optimiert, indem sie das Laden und Ausführen von Scripts und Stylesheets steuert, um schnellere Seitenladezeiten und effiziente Ressourcenverarbeitung zu ermöglichen.",
+    "history": "HeadJS ist eine JavaScript-Bibliothek zum Laden von Scripts, die um 2010 von Tero Piirainen erstellt wurde; sie sollte Scripts parallel laden, aber in der richtigen Reihenfolge ausführen, und Browser-Funktionen erkennen. Das Projekt wurde um 2014 inaktiv, als native HTML5-Funktionen und die Attribute async und defer seine Funktionalität ersetzten.",
+    "summary_abuse": "HeadJS ist ein aufgegebener clientseitiger Script Loader. Es gibt keine Missbrauchsfläche ausser der Einbindung als Legacy-Abhängigkeit. Sicherheitsvorfälle sind nicht bekannt."
+  },
+  "Headless UI": {
+    "description": "Headless UI ist eine ungestylte Komponentenbibliothek für React.js oder Vue.js von denselben Personen, die Tailwind CSS geschaffen haben.",
+    "history": "Headless UI ist eine ungestylte, barrierearme Open-Source-UI-Komponentenbibliothek für React und Vue, entwickelt von Tailwind Labs, den Machern von Tailwind CSS; sie wurde 2020 veröffentlicht, um zusammen mit Tailwind CSS zugängliche Komponenten ohne vorgegebene visuelle Styles zu bauen. Im Tailwind-CSS-Ökosystem ist sie breit verbreitet.",
+    "summary_abuse": "Headless UI ist eine Frontend-Komponentenbibliothek ohne Missbrauchsfläche; sie besteht aus rein clientseitigen UI-Komponenten. Dokumentierte Zweckentfremdungsmuster sind nicht bekannt."
+  },
+  "Headroom.js": {
+    "description": "Headroom.js ist ein JS-Widget, mit dem du auf das Scrollen des Nutzers reagieren kannst. Der Header gleitet beim Scrollen nach unten aus dem Blickfeld und beim Scrollen nach oben wieder hinein.",
+    "history": "Headroom.js ist eine leichtgewichtige JavaScript-Bibliothek, die um 2013 von Nick Williams erstellt wurde; sie blendet einen Seiten-Header je nach Scrollrichtung ein oder aus und verbessert so die mobile UX. Das MIT-lizenzierte Open-Source-Projekt wurde über mehrere Jahre mit moderater, aber stabiler Verbreitung gepflegt.",
+    "summary_abuse": "Headroom.js ist eine kleine clientseitige Bibliothek für Scroll-Verhalten ohne Missbrauchsfläche. Es ist ein grundlegendes UI-Hilfswerkzeug ohne gemeldete Sicherheitsprobleme."
+  },
+  "Headway": {
+    "description": "Headway ist ein Produkt-Widget, das Kunden über Updates und Änderungen informiert.",
+    "history": "Headway ist ein Tool für Produkt-Changelogs und Ankündigungen, gegründet 2015 von Oskar Krawczyk und Michal Laskowski. Es ist ein unabhängiges, bootstrapped Produkt ohne Fremdfinanzierung und ermöglicht SaaS-Unternehmen, einbettbare Changelogs zu veröffentlichen. Der Pro-Plan kostet 29 US-Dollar pro Monat, der kostenlose Tarif ist dauerhaft verfügbar.",
+    "summary_abuse": "Headway ist ein Changelog-Benachrichtigungs-Widget für SaaS-Produkte. Es hat kein relevantes Missbrauchsprofil, keine verbrauchernahe anonyme Registrierung und kein Hosting für Nutzerinhalte, das Missbrauch anziehen würde."
+  },
+  "Heap": {
+    "description": "Heap ist eine Analytics-Plattform.",
+    "history": "Heap wurde 2013 als Product-Analytics-Plattform gegründet, die alle Nutzerinteraktionen automatisch erfasst, ohne dass Events manuell instrumentiert werden müssen. Das Unternehmen nahm insgesamt 216 Millionen US-Dollar über mehrere Finanzierungsrunden auf, darunter eine Series D über 110 Millionen US-Dollar bei einer Bewertung von 960 Millionen US-Dollar. Im September 2023 kündigte Contentsquare die Übernahme von Heap an und schloss den Deal im Dezember 2023 ab, bezeichnet als die bis dahin grösste Akquisition des Unternehmens.",
+    "summary_abuse": "Heap ist eine Product-Analytics-Plattform, die Nutzerverhalten auf Kundenwebsites aufzeichnet. Als Analytics-Tracker sammelt sie Interaktionsdaten, was ein inhärentes Datenschutzthema ist. Heap ist SOC2- und ISO 27001-zertifiziert sowie GDPR-konform. Bedeutende Missbrauchsvorfälle sind öffentlich nicht dokumentiert, auch wenn Scripts einer Analytics-Plattform theoretisch für Fingerprinting genutzt werden könnten."
+  },
+  "Hearth": {
+    "description": "Hearth ist eine Finanzdienstleistungsplattform, die Finanzierungsoptionen für Heimwerker- und Renovationsprojekte anbietet.",
+    "history": "Hearth ist ein US-Fintech-Startup, gegründet um 2017, das Finanzierungsoptionen in Websites von Heimwerker- und Renovationsbetrieben einbettet. Es ermöglicht Auftragnehmern, Kunden sofortige Finanzierung für Renovationsprojekte anzubieten. Die Plattform verbindet Hausbesitzer über ein White-Label-Widget mit Kreditgebern.",
+    "summary_abuse": "Hearth ist eine Finanzierungsplattform für Heimwerker- und Renovationsprojekte. Finanzierungsplattformen auf Contractor-Websites können Ziele von Fake-Contractor-Betrug sein; sie verarbeitet Finanzdaten von Verbrauchern und Kreditanträge. Als Fintech-Startup sind regulatorische Anforderungen, etwa Verbraucherkreditrecht, relevant. Auffällige Sicherheitsvorfälle sind nicht dokumentiert."
+  },
+  "Heartland Payment Systems": {
+    "description": "Heartland Payment Systems ist ein US-basierter Anbieter von Zahlungsabwicklung und Technologie.",
+    "history": "Heartland Payment Systems wurde 1997 als US-Zahlungsabwickler gegründet. 2008 bis 2009 erlitt das Unternehmen einen der grössten Zahlungskartendatenlecks der Geschichte, bei dem über 100 Millionen Kartennummern über SQL Injection in Verarbeitungssystemen offengelegt wurden. Global Payments Inc. übernahm das Unternehmen 2016 für rund 4,3 Milliarden US-Dollar. Heute arbeitet es als Tochtergesellschaft für Restaurants, Hotels, Bildungseinrichtungen und kleine Unternehmen.",
+    "summary_abuse": "Heartland erlitt 2008 ein massives Zahlungskarten-Datenleck, bei dem über 100 Millionen Karten via SQL Injection kompromittiert wurden, damals einer der grössten Datenlecks in der US-Geschichte. Der Angreifer Albert Gonzalez wurde verurteilt. Nach dem Vorfall investierte Heartland stark in Sicherheit und führte Ende-zu-Ende-Verschlüsselung ein. Heute gehört Heartland zu Global Payments und unterhält PCI-DSS-Zertifizierung sowie SOC 2. Fortlaufende Wachsamkeit bleibt nötig, da Zahlungsabwickler Ziel von Threat Actors bleiben."
+  },
+  "Heeet": {
+    "description": "Heeet ist ein Tool für Lead-Tracking und Marketing-Analytics.",
+    "history": "Heeet ist eine französische SaaS für Lead-Tracking und Marketing-Attribution, gegründet um 2017; sie verbindet Salesforce-CRM-Daten mit Marketingausgaben, um Umsatz Marketingkampagnen zuzuordnen, besonders für B2B-Unternehmen. Zielgruppe sind Marketingteams mit starkem Salesforce-Fokus.",
+    "summary_abuse": "Heeet ist eine B2B-Marketing-Analytics-Plattform, die Tracking-Scripts auf Kundenwebsites einsetzt. Als Tracking-Tool sammelt sie Verhaltensdaten für Marketing-Attribution. Als französisches Unternehmen ist GDPR-Compliance wahrscheinlich. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Bedenken zu Analytics-Tools gelten."
+  },
+  "Heights Platform": {
+    "description": "Heights Platform ist eine All-in-one-Plattform zum Erstellen und Verkaufen von Online-Kursen.",
+    "history": "Heights Platform ist eine US-basierte SaaS, mit der Creator Online-Kurse und Coaching-Programme erstellen und verkaufen können; sie wurde um 2018 als bootstrapped Alternative zu Teachable und Thinkific gegründet und positioniert sich über Einfachheit und creatorfreundliche Preise ohne Transaktionsgebühren.",
+    "summary_abuse": "Heights Platform ist eine SaaS zum Erstellen von Online-Kursen. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Themen rund um Kursqualität und Rückerstattungsregeln gelten, aber Plattformmissbrauch ist nicht dokumentiert. Es handelt sich um einen kleinen bootstrapped Anbieter."
+  },
+  "Helhost": {
+    "description": "Helhost ist ein Webhosting-Anbieter und Internet-Domain-Registrar aus der Demokratischen Republik Kongo.",
+    "history": "Helhost ist ein Webhosting-Anbieter und Domain-Registrar mit Sitz in der Demokratischen Republik Kongo, der vor allem den zentralafrikanischen Markt bedient. Es ist ein sehr kleiner Anbieter mit minimaler öffentlicher Präsenz ausserhalb der DRC-Region.",
+    "summary_abuse": "Helhost ist ein kleiner Webhosting-Anbieter aus der Demokratischen Republik Kongo. Kleine regionale Hoster mit begrenzter Infrastruktur zur Missbrauchsüberwachung können zum Hosten schädlicher Inhalte genutzt werden. Spezifische dokumentierte Vorfälle sind nicht bekannt, doch die Kombination aus geringer Sichtbarkeit, begrenzten Ressourcen und fehlendem formalem Security-Programm rechtfertigt Vorsicht. Die Reaktionsfähigkeit bei Abuse-Meldungen ist unbekannt."
+  },
+  "HeliumWeb": {
+    "description": "HeliumWeb ist ein serverseitiges Backend-Webframework, geschrieben in PHP und JavaScript.",
+    "history": "HeliumWeb ist ein unbekanntes PHP- und JavaScript-Webframework ohne nennenswerte öffentliche Verbreitung oder Dokumentation. Die Präsenz ist sehr begrenzt; wahrscheinlich handelt es sich um ein Hobby- oder Studentenprojekt.",
+    "summary_abuse": "HeliumWeb ist ein unbekanntes, obskures Webframework mit vernachlässigbarer Verbreitung. Es hat keine verbrauchernahe Oberfläche und keine dokumentierten Missbrauchsmuster."
+  },
+  "Helix Ultimate": {
+    "description": "Helix Ultimate ist ein kostenloses Template-Framework für Joomla.",
+    "history": "Helix Ultimate ist ein kostenloses Open-Source-Template-Framework für Joomla, entwickelt von JoomShaper, einem bangladeschischen Joomla-Template-Unternehmen. Es wurde als Weiterentwicklung früherer Helix-Frameworks veröffentlicht und bietet eine Basis für den Aufbau von Joomla-Templates mit Drag-and-drop-Layouteditor. In der Joomla-Community ist es breit verbreitet.",
+    "summary_abuse": "Helix Ultimate ist ein Joomla-Template-Framework. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Sicherheitsaspekte für Joomla-Erweiterungen gelten, Nutzer sollten es aktuell halten. Auffällige CVEs speziell für dieses Framework sind nicht dokumentiert."
+  },
+  "Helixo UFE": {
+    "description": "Helixo UFE ist eine leichtgewichtige Shopify-App für Upsell-Sales-Funnels.",
+    "history": "Helixo UFE, Upsell Funnel Engine, ist eine Shopify-App, die Upsell- und Cross-Sell-Popups, One-Click-Upsells und Sales-Funnel-Funktionen in Shopify-Shops einfügt; sie wird von einem kleinen indischen Team entwickelt und ist seit etwa 2019 im Shopify App Store verfügbar.",
+    "summary_abuse": "Helixo UFE ist eine Shopify-Upsell-App. Upsell-Apps sollen den durchschnittlichen Bestellwert über Angebote nach dem Kauf erhöhen, können aber auch für Dark Patterns genutzt werden, etwa aggressive Upsell-Popups oder verwirrende Ablehn-Buttons. Plattformweiter Missbrauch ist nicht dokumentiert. Nutzer sollten die über die App umgesetzten Consent-Flows prüfen."
+  },
+  "HelixPay": {
+    "description": "HelixPay ist eine Event-Ticketing-Plattform mit Online-Zahlungsintegration, digitalen Tickets und anpassbaren Event-Websites für Grossveranstaltungen.",
+    "history": "HelixPay ist ein philippinisches Fintech-Startup für Event-Ticketing, Online-Zahlungsintegration und Event-Management-Tools für Grossveranstaltungen auf den Philippinen. Es wurde um 2018 gegründet und fokussiert den philippinischen Markt mit Unterstützung lokaler Zahlungsmethoden.",
+    "summary_abuse": "HelixPay ist eine philippinische Event-Ticketing- und Zahlungsplattform. Ticketing-Plattformen können Ziele von Scalping-Bots und Fake-Event-Scams sein. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt. Es handelt sich um ein kleines philippinisches Startup ohne dokumentiertes formales Security-Programm."
+  },
+  "Hello Bar": {
+    "description": "Hello Bar ist eine anpassbare Benachrichtigungsleiste, die Besucher auf einen wichtigen Call to Action auf der Website lenkt.",
+    "history": "Hello Bar wurde um 2012 von Neil Patel und Mitgründern als einfaches Tool für Website-Benachrichtigungsleisten erstellt. Das Unternehmen durchlief mehrere Übernahmen und Eigentümerwechsel. Es bietet anpassbare obere und untere Leisten, Popups und Slider, um E-Mail-Anmeldungen und Conversions zu fördern. Neil Patel verkaufte es später; heute wird es unabhängig betrieben.",
+    "summary_abuse": "Hello Bar ist ein Website-Conversion-Tool für Benachrichtigungsleisten und Popups. Als Drittanbieter-Script auf vielen Websites sammelt es Besucherdaten und kann beliebige vom Website-Betreiber konfigurierte Inhalte anzeigen, auch potenziell irreführende UX. Der kostenlose Tarif senkt die Hürde für breite Nutzung. Plattformweiter Missbrauch durch den Anbieter ist nicht dokumentiert."
+  },
+  "Hello Elementor": {
+    "description": "Hello Elementor ist ein WordPress-Theme für die Elementor-Website-Builder-Plattform. Es nutzt minimales Styling und wenige Scripts für maximale Geschwindigkeit und Gestaltungsfreiheit.",
+    "history": "Hello Elementor, auch Hello Theme genannt, ist das offizielle kostenlose WordPress-Starter-Theme von Elementor Ltd. aus Israel und wurde um 2019 veröffentlicht. Es ist als kanonisches Begleit-Theme für den Elementor Page Builder gedacht und bietet eine sehr schlanke Basis mit minimalem Code für Elementors Drag-and-drop-Editor. Es gehört zu den meistinstallierten WordPress-Themes.",
+    "summary_abuse": "Hello Elementor ist ein kostenloses WordPress-Starter-Theme von Elementor. Dokumentierte Missbrauchsmuster sind nicht bekannt. Es ist auf WordPress-Websites vieler Kategorien weit verbreitet. Elementor-Themes und -Plugins sind wegen ihrer grossen Verbreitung beliebte Ziele für Ausnutzung, doch Hello Elementor selbst hat wegen des minimalen Codes nur wenige CVEs. Nutzer sollten es aktuell halten."
+  },
+  "Hello Retail": {
+    "description": "Hello Retail ist eine KI-gestützte Plattform, die personalisierte Produktempfehlungen, intelligente Suche und E-Mail-Lösungen für E-Commerce bereitstellt.",
+    "history": "Hello Retail ist eine dänische Plattform für E-Commerce-Personalisierung und KI-Produktempfehlungen, gegründet 2012; sie bietet personalisierte Suche, Produktempfehlungen und E-Mail-Personalisierung für Onlinehändler. Das Unternehmen bedient vor allem nordische und europäische E-Commerce-Händler.",
+    "summary_abuse": "Hello Retail ist eine E-Commerce-Personalisierungsplattform, die Tracking-Scripts auf Händlerseiten einsetzt. Als Tool für Verhaltens-Tracking und Profiling sammelt sie detaillierte Einkaufsverhaltensdaten. Als dänisches Unternehmen unterliegt sie starken GDPR-Pflichten. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Datenschutzbedenken bei Drittanbieter-Analytics-Scripts gelten."
+  },
+  "Help Scout": {
+    "description": "Help Scout ist eine Kundenservice-Plattform mit E-Mail, Knowledge-Base-Tool und Live-Chat.",
+    "history": "Help Scout wurde 2011 von Nick Francis, Denny Swindle und Jared McDaniel in Boston, Massachusetts, gegründet. Das Unternehmen nahm rund 52,9 Millionen US-Dollar über mehrere Venture-Runden auf, die letzte 2017. Es wuchs auf 140 Mitarbeitende und bleibt unabhängig. Help Scout bietet E-Mail-basierte Kundensupport-Tools, die persönlicher statt transaktional wirken sollen. Übernahmen durch oder von Help Scout gab es nicht.",
+    "summary_abuse": "Help Scout ist eine Kundensupport-Plattform für Unternehmen; sie verfügt über SOC2-Type-2-Zertifizierung sowie GDPR- und HIPAA-Compliance. Auffällige Missbrauchsvorfälle sind öffentlich nicht dokumentiert. Als B2B-Tool mit Geschäftskonto-Registrierung ist die Exposition gegenüber anonymer Missbrauchsregistrierung oder verbrauchernahem Betrug minimal."
+  },
+  "Help.com": {
+    "description": "Help.com ist ein Dienst für Domainregistrierung und Website-Hosting mit vereinfachter Einrichtung und Verwaltung.",
+    "history": "Help.com ist ein US-basierter Dienst für Webhosting und Domainregistrierung. Die Premium-Domain wechselte über die Jahre Besitz und Nutzung. Der aktuelle Betrieb konzentriert sich auf vereinfachtes Hosting und Website-Setup.",
+    "summary_abuse": "Help.com ist ein Anbieter für Webhosting und Domainregistrierung. Kleine Hoster mit minimaler Missbrauchsüberwachung können zum Hosten schädlicher Inhalte genutzt werden. Öffentlich sind nur sehr begrenzte Informationen verfügbar. Spezifische Vorfälle sind nicht dokumentiert."
+  },
+  "HelpCrunch": {
+    "description": "HelpCrunch ist eine Kundenservice-Softwareplattform, die zentrale Anforderungen an Unternehmenskommunikation und Kundensupport in Organisationen unterstützt.",
+    "history": "HelpCrunch ist eine in der Ukraine entwickelte Plattform für Kundenkommunikation, deren MVP 2016 startete; sie kombiniert Live-Chat, E-Mail-Marketing und Helpdesk-Ticketing in einem Abonnement. Das Unternehmen erhielt im März 2020 eine Finanzierungsrunde über 490'000 US-Dollar und erreichte bis 2025 rund 1,8 Millionen US-Dollar Jahresumsatz. HelpCrunch bedient weltweit über 10'000 Kunden und gilt als ukrainische SaaS-Erfolgsgeschichte.",
+    "summary_abuse": "HelpCrunch ist eine B2B-Kundensupport-Plattform ohne auffälliges Missbrauchsprofil; sie bietet Unternehmen Live-Chat- und Ticketing-Werkzeuge über authentifizierte Konten. Das in Kundenwebsites eingebettete Chat-Widget könnte theoretisch Spam-Nachrichten erhalten, doch das ist kategorietypisch und kein plattformspezifisches Risiko."
+  },
+  "HelpDocs": {
+    "description": "HelpDocs ist ein Knowledge-Management-System.",
+    "history": "HelpDocs ist eine britische SaaS-Plattform für Knowledge Bases und Dokumentation, gegründet um 2017; sie bietet Teams eine gehostete Knowledge Base für kundengerichtete Dokumentation und interne Wikis. Das bootstrapped Indie-SaaS konkurriert mit Zendesk Guide, Intercom Articles und Document360.",
+    "summary_abuse": "HelpDocs ist eine Knowledge-Base-SaaS. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als Hosting-Dienst für Dokumentation hat sie nur eine geringe Missbrauchsfläche. Es handelt sich um einen kleinen britischen bootstrapped Anbieter mit GDPR-Compliance. Auffällige Sicherheitsvorfälle sind nicht bekannt."
+  },
+  "HelpOnClick": {
+    "description": "HelpOnClick ist eine Live-Chat- und Kundentracking-Plattform für Echtzeitkommunikation und die Überwachung von Besucherinteraktionen auf Websites.",
+    "history": "HelpOnClick ist eine SaaS-Plattform für Live-Chat und Besucher-Tracking, gegründet um 2009 und wahrscheinlich mit israelischem Ursprung; sie bietet Echtzeit-Chat-Widgets, Besuchermonitoring und grundlegende CRM-Funktionen für Websites. Es ist eine relativ kleine und etablierte Live-Chat-Plattform für kleine Unternehmen.",
+    "summary_abuse": "HelpOnClick ist eine Live-Chat-Plattform mit Besucher-Tracking. Als Chat-Widget-Anbieter hat sie Zugriff auf Daten von Website-Besuchern. Dokumentierte Missbrauchsmuster sind nicht bekannt. Es handelt sich um einen kleinen Anbieter ohne formales Security-Programm. Übliche Datenschutzthemen bei Live-Chat gelten."
+  },
+  "Helpwise": {
+    "description": "Helpwise ist eine Kundenservice-Plattform, mit der du die gesamte Kundenkommunikation an einem Ort verwalten kannst.",
+    "history": "Helpwise ist ein indisches SaaS-Startup, gegründet um 2018, das eine Shared-Inbox-Plattform bietet, über die Teams Kundenkommunikation aus E-Mail, WhatsApp, SMS und sozialen Kanälen an einem Ort verwalten können. Es konkurriert mit Freshdesk, Help Scout und Front. Das Unternehmen erhielt Seed-Finanzierung und richtet sich an SMBs.",
+    "summary_abuse": "Helpwise ist eine Shared-Inbox- und Kundenservice-Plattform. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als E-Mail- und Messaging-Plattform unterliegt sie üblichen Spam-Risiken, falls sie missbraucht wird. Das indische Startup beansprucht GDPR-Compliance. Auffällige Sicherheitsvorfälle sind nicht dokumentiert."
+  },
+  "Here": {
+    "description": "HERE ist eine PaaS zum Erstellen eigener Karten, Visualisieren von Standortdatensätzen, Gewinnen von Erkenntnissen sowie Kaufen und Verkaufen von Standort-Assets.",
+    "history": "HERE wurde 1985 als Navteq, ein Unternehmen für digitale Kartendaten, gegründet. Nokia übernahm es 2008 für 8,1 Milliarden US-Dollar. 2015 kaufte ein Konsortium deutscher Autohersteller, BMW, Audi und Mercedes-Benz, HERE für rund 2,8 Milliarden Euro von Nokia. Bosch und Continental erwarben 2018 jeweils Beteiligungen von 5 Prozent.",
+    "summary_abuse": "HERE Technologies bietet Mapping- und Location-APIs für Entwickler und Unternehmen. Die Geolocation- und Mapping-APIs der Plattform könnten in Tracking- oder Überwachungsanwendungen genutzt werden, doch HERE arbeitet unter Enterprise-Verträgen mit legitimen Anwendungsfällen. Dokumentierte grossflächige Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "Hermes": {
+    "description": "Hermes bietet integrierte Lösungen entlang der Lieferkette und arbeitet mit nationalen und internationalen Handelsunternehmen zusammen.",
+    "history": "Hermes wurde 1972 in Deutschland als Paket- und Logistikdienst gegründet. Das Unternehmen ist eine Tochter der Otto Group, eines der grössten deutschen Handels- und Logistikkonglomerate. Der Fokus liegt vor allem auf dem deutschen und europäischen Markt für Paketzustellung und Supply-Chain-Dienste.",
+    "summary_abuse": "Hermes ist ein deutscher Logistik- und Versanddienst unter der Otto Group. Er bietet Paketzustellungsintegration für E-Commerce-Plattformen. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden; sie wird von legitimen Onlinehändlern für Auftragserfüllung und Versanddienstintegration genutzt."
+  },
+  "Hero": {
+    "description": "Hero ist eine virtuelle Shopping-Plattform für E-Commerce- und Retail-Stores.",
+    "history": "Hero wurde als virtuelle Shopping-Plattform gegründet, die Onlinekäufer mit Filialmitarbeitenden verbindet. Klarna übernahm Hero im Juli 2021, um seine Social-Shopping-Fähigkeiten auszubauen. 2024 verkaufte Klarna Hero an Bambuser, ein schwedisches Unternehmen für Live-Video-Commerce, wo der Dienst weitergeführt wird.",
+    "summary_abuse": "Hero ist eine B2B-Plattform für virtuelles Shopping, die von Retail-Marken genutzt wird; sie arbeitet unter Enterprise-Verträgen und hat kein auffälliges Missbrauchssignal. Die Plattform verbindet Käufer per Videochat mit Verkaufspersonal und ist keine Oberfläche, die üblicherweise für Betrug oder Zweckentfremdung angegriffen wird."
+  },
+  "Heroic": {
+    "description": "Heroic ist eine Plattform mit Design-Templates und Tools zum Erstellen von Websites.",
+    "history": "Heroic wurde 2014 von Marisa Murgatroyd und Murray Gray gegründet und richtete sich an Coaches und Consultants. Im Juli 2021 erhielt die Plattform neue Eigentümer und wurde im Serviceangebot überarbeitet.",
+    "summary_abuse": "Heroic ist ein Nischen-Website-Builder für Coaches und Consultants mit begrenzter verbrauchernaher Oberfläche. Die Page-Builder-Funktionen könnten theoretisch für Fake-Business-Websites genutzt werden, doch mit der Plattform ist kein dokumentiertes Missbrauchsmuster verbunden. Legitime Nutzung dominiert deutlich."
+  },
+  "Heroku": {
+    "description": "Heroku ist eine Cloud Platform as a Service, PaaS, die mehrere Programmiersprachen unterstützt.",
+    "history": "Heroku wurde 2007 von Orion Henry, James Lindenbaum und Adam Wiggins als Ruby-PaaS gegründet. Salesforce übernahm Heroku im Dezember 2010 für rund 212 Millionen US-Dollar. Nach Jahren als Entwicklerfavorit entfernte Heroku 2022 den kostenlosen Tarif, was deutliche Kritik aus der Community und Migrationen zu Alternativen wie Render und Railway auslöste.",
+    "summary_abuse": "Heroku ist eine bekannte PaaS-Plattform zum Hosten von Webanwendungen. Historisch wurde sie wegen des kostenlosen Tarifs, der 2022 entfernt wurde, und der einfachen Bereitstellung zum Hosten von Phishing-Seiten und Malware-C2-Servern missbraucht. Seit der Abschaffung des kostenlosen Tarifs sind Abuse-Meldungen deutlich zurückgegangen, auch wenn bezahlte Konten weiterhin missbraucht werden können. Salesforce unterhält eine AUP und Mechanismen zur Abuse-Meldung."
+  },
+  "HeroUI": {
+    "description": "HeroUI ermöglicht dir, unabhängig von deiner Designerfahrung schöne, moderne und schnelle Websites oder Anwendungen zu erstellen. Es wurde mit React.js und Stitches entwickelt, basiert auf React Aria und ist von Vuesax inspiriert.",
+    "history": "HeroUI, früher NextUI, ist eine React-Komponentenbibliothek von Junior Garcia, die um 2021 erstmals veröffentlicht wurde; sie hiess ursprünglich NextUI und wurde später zu HeroUI umbenannt; sie bietet zugängliche, anpassbare UI-Komponenten auf Basis von React Aria und Tailwind CSS.",
+    "summary_abuse": "HeroUI ist eine React-Komponentenbibliothek ohne Missbrauchssignal; sie ist ein Frontend-Entwicklungstool zum Erstellen von Benutzeroberflächen und hat keine verbrauchernahe gehostete Oberfläche, die ausgenutzt werden könnte."
+  },
+  "Hesk": {
+    "description": "Hesk ist ein Helpdesk- und Kundensupport-System.",
+    "history": "HESK ist eine kostenlose PHP-basierte Helpdesk-Software von Klemen Stirn, einem slowenischen Entwickler. Die kostenlose selbst gehostete Version ist seit etwa 2005 verfügbar. Später kamen kostenpflichtige Lizenzeditionen für kommerzielle Nutzung hinzu. HESK blieb ein Produkt eines Einzelentwicklers und ist bei kleinen Unternehmen, die ein günstiges selbst gehostetes Support-Ticketsystem suchen, konstant beliebt.",
+    "summary_abuse": "HESK hat ein minimales Missbrauchssignal. Es ist eine selbst gehostete Helpdesk-Anwendung auf dem Server des Betreibers. Als Backend-Support-Software ohne öffentliche Hosting-Fläche ist sie kein relevantes Ziel für Betrug oder Phishing. Alte verwundbare Versionen tauchten gelegentlich in CVE-Datenbanken auf, das ist jedoch ein Wartungsthema und kein gezielter Missbrauch."
+  },
+  "Hestia": {
+    "description": "Hestia ist ein modernes WordPress-Theme für Profis mit Mehrzweck-One-Page-Design, widgetisiertem Footer, Blog- beziehungsweise News-Seite und klarer Optik.",
+    "history": "Hestia ist ein kostenloses WordPress-Theme von ThemeIsle, einem rumänischen Unternehmen für WordPress-Themes und -Plugins. Es wurde um 2016 als Mehrzweck-One-Page-Theme für WordPress veröffentlicht. ThemeIsle pflegt und aktualisiert es weiterhin.",
+    "summary_abuse": "Hestia ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. Als Theme, das über WordPress.org und ThemeIsle verteilt wird, ist es ein normales Website-Template und nicht mit betrügerischer Aktivität verbunden."
+  },
+  "HetrixTools": {
+    "description": "HetrixTools ist eine Plattform für Uptime- und Blacklist-Monitoring.",
+    "history": "HetrixTools startete im Mai 2015 als bootstrapped Dienst für Uptime- und Blacklist-Monitoring. Seither sind keine auffälligen Übernahmen oder Eigentümerwechsel bekannt.",
+    "summary_abuse": "HetrixTools ist ein Backend-Monitoring-Tool ohne Content-Hosting oder nutzernahe Oberfläche. Es hat kein auffälliges Missbrauchssignal. Es überwacht IPs und Domains, statt sie zu hosten, wodurch Betrüger keinen sinnvollen Hebel haben."
+  },
+  "Hetzner": {
+    "description": "Hetzner bietet Dedicated Hosting, Shared Web Hosting, Virtual Private Servers, Managed Servers, Domainnamen, SSL-Zertifikate, Storage Boxes und Cloud-Dienste.",
+    "history": "Hetzner Online wurde 1997 in Deutschland von Martin Hetzner gegründet. Das Unternehmen wuchs von einem Shared-Hosting-Anbieter zu einem der grössten und preislich aggressivsten europäischen Anbieter für Cloud- und Dedicated Hosting. Es bleibt in Privatbesitz und hat keine grösseren Übernahmen durchlaufen.",
+    "summary_abuse": "Hetzner ist ein deutscher Hosting- und Cloud-Anbieter, bekannt für aggressive Preise. In Threat-Intelligence-Berichten wird Hetzner wiederholt als Host für Malware, Phishing-Infrastruktur und Botnet-Command-and-Control-Server genannt. Die niedrigen Preise ziehen legitime Nutzer ebenso wie Threat Actors an. Hetzner unterhält einen Abuse-Kontakt und eine AUP, wurde aber im Vergleich zu grösseren Anbietern für langsame Takedown-Reaktionen kritisiert."
+  },
+  "Hexia": {
+    "description": "Hexia ist eine öffentliche Application Programming Interface, API, von Hex Technologies für den Zugriff auf Dienste und Daten des Unternehmens.",
+    "history": "Hexia ist eine kleine API-Plattform von Hex Technologies, die Entwicklern Zugriff auf Analytics-Dienste von Hex bietet. Öffentlich ist nur wenig zur Historie verfügbar.",
+    "summary_abuse": "Hexia ist eine Entwickler-API ohne verbrauchernahe Content-Hosting-Fläche. Ein dokumentiertes Missbrauchssignal ist nicht bekannt."
+  },
+  "Hexo": {
+    "description": "Hexo ist ein Blog-Framework auf Basis von Node.js.",
+    "history": "Hexo ist ein schneller, einfacher, Node.js-basierter Blog-Framework und Static-Site-Generator, erstellt von Tommy Chen und erstmals 2012 veröffentlicht. Ursprünglich war es in der chinesischen Entwickler-Community beliebt, später gewann es internationale Verbreitung. Das Projekt wird von einem kleinen Open-Source-Freiwilligenteam gepflegt und unter der GitHub-Organisation hexojs gehostet. Es erzeugt statische Dateien, die auf jedem Static-Hosting-Anbieter bereitgestellt werden können.",
+    "summary_abuse": "Hexo ist ein Static-Site-Generator, der lokal beim Entwickler einfache HTML-, CSS- und JS-Dateien erzeugt. Es hat keine Serverkomponente, keine Nutzerkonten, keinen Hosting-Dienst und keine Missbrauchsfläche. Es hat kein relevantes Missbrauchsprofil."
+  },
+  "Hextom Free Shipping Bar": {
+    "description": "Free Shipping Bar ist eine Shopify-App von Hextom; sie bewirbt kostenlosen Versand mit progressiven Nachrichten, um Kunden zu weiteren Käufen zu motivieren.",
+    "history": "Hextom Free Shipping Bar wurde am 16. September 2015 von Hextom Inc. veröffentlicht, einem in Toronto ansässigen Shopify-App-Unternehmen, das von Ingenieuren gegründet wurde. Die App zeigt Shopify-Shop-Kunden progressive Hinweise zu kostenlosem Versand und ist auf über 41'000 Stores installiert, mit einer Bewertung von 4,9 Sternen aus fast 3'000 Reviews. Hextom bedient über sein App-Portfolio mehr als 270'000 Händler.",
+    "summary_abuse": "Hextom Free Shipping Bar ist ein Shopify-Conversion-Tool, das Werbebanner auf Händler-Storefronts anzeigt. Es hat keine verbrauchernahe Registrierung, keine nutzergenerierten Inhalte und keine relevante Missbrauchsfläche. Als über Shopify vertriebene App unterliegt es Shopifys Developer Policies."
+  },
+  "Hextom Ultimate Sales Boost": {
+    "description": "Ultimate Sales Boost von Hextom ist eine App, die mit Dringlichkeit, Knappheit und Vertrauenselementen mehr Verkäufe auslösen soll.",
+    "history": "Hextom Ultimate Sales Boost, später in Hextom Upsell Sales Boost umbenannt, ist eine Shopify-App von Hextom Inc., einem von Ingenieuren gegründeten Unternehmen aus Toronto; sie bietet über 30 Conversion-Werkzeuge, darunter Countdown-Timer, Trust Badges, Upsell-Hinweise und BOGO-Angebote. Die App ist seit etwa 2016 verfügbar und gehört neben der Free Shipping Bar zu den wichtigsten Produkten von Hextom.",
+    "summary_abuse": "Hextom Ultimate Sales Boost ist ein Shopify-Werkzeug zur Conversion-Optimierung. Es fügt Werbe-Widgets wie Countdown-Timer und Trust Badges in Händler-Shops ein, also gängige Conversion-Taktiken. Das Dark-Pattern-Risiko ist moderat, weil Countdown-Timer manipulativ eingesetzt werden können, auch wenn dies von der Konfiguration des Händlers abhängt. Für die App selbst sind keine bedeutenden Missbrauchsfälle dokumentiert."
+  },
+  "Heyflow": {
+    "description": "Heyflow ist eine All-in-one-Plattform, mit der Nutzer interaktive Lead-Funnels, mehrstufige Formulare und individuelle Landingpages ohne Programmierung erstellen können.",
+    "history": "Heyflow wurde 2020 in Hamburg als No-Code-Plattform für interaktive Lead-Generation-Funnels und Click-Flows gegründet. Das Unternehmen nahm 14,7 Millionen Euro Venture-Finanzierung auf und wuchs bis 2024 auf rund 86 Mitarbeitende und 9,5 Millionen US-Dollar Jahresumsatz. Heyflow ist weiterhin ein unabhängiges, VC-finanziertes Startup und wurde weder übernommen noch umbenannt.",
+    "summary_abuse": "Heyflow ist ein No-Code-Flow-Builder für Lead-Generation-Landingpages und Formulare. Wie andere No-Code-Page-Builder könnte er theoretisch für Phishing-Landingpages genutzt werden, doch das Abo-Modell ohne kostenlosen Tarif und das GDPR-geprägte deutsche Regulierungsumfeld erschweren anonymen Missbrauch. Öffentlich sind keine konkreten Fälle von gross angelegtem Phishing oder Betrug mit Heyflow bekannt."
+  },
+  "HeyLight": {
+    "description": "HeyLight ist ein BNPL-System für Ratenzahlungen bei Online-Käufen.",
+    "history": "HeyLight ist eine länderübergreifende Buy Now Pay Later-Plattform von Compass Banca, Italiens führendem Konsumkreditunternehmen und einer Tochter von Mediobanca; sie entstand auf Basis von HeidiPay, einem Schweizer BNPL-Fintech, das Compass 2023 übernahm, sowie PagoLight, der italienischen BNPL-Sparte von Compass. Die Plattform ist in Italien mit über 1'000 digitalen Shops und 26'000 Verkaufsstellen aktiv und in der Schweiz mit über 850 Händlern.",
+    "summary_abuse": "HeyLight ist eine regulierte BNPL- und Konsumkreditplattform unter der Mediobanca-Tochter Compass. Als lizenzierte Zahlungsinstitution mit banknaher KYC-Prüfung und Kreditprüfung ist das Missbrauchsrisiko tief. Der Dienst bietet Ratenfinanzierungen für geprüfte Unternehmen und Verbraucher und eignet sich daher kaum als Infrastruktur für Betrug. Bedeutende öffentliche Missbrauchsfälle sind nicht dokumentiert."
+  },
+  "HeyPongo": {
+    "description": "HeyPongo hilft Händlern, Besucher mit Kundenbindungs- und Engagement-Werkzeugen in treue Kunden zu verwandeln und den Umsatz zu steigern.",
+    "history": "HeyPongo ist eine französische Plattform für Kundenbindung und Loyalty im Handel und E-Commerce mit über 2'000 Händlern. Auffällige Übernahmen oder Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "HeyPongo ist ein Loyalty- und Customer-Engagement-Werkzeug für Händler ohne relevantes Missbrauchssignal. Die Funktionen werden typischerweise nicht von Betrügern ausgenutzt."
+  },
+  "HeySummit": {
+    "description": "HeySummit ist eine Plattform zur Organisation virtueller Summits.",
+    "history": "HeySummit wurde 2019 von Benjamin Dell gegründet, nachdem ihn die Werkzeuge seiner Digitalagentur für virtuelle Events frustriert hatten. Die Plattform richtet sich an Creators und Bildungsanbieter, die Online-Summits und Webinare veranstalten.",
+    "summary_abuse": "HeySummit ist eine Plattform für Online-Events, die vor allem von Bildungsanbietern und Creators genutzt wird. Theoretisch könnten gefälschte Events zum Einziehen von Zahlungen erstellt werden, doch ein dokumentiertes Missbrauchsmuster gibt es nicht. Legitime Nutzung dominiert."
+  },
+  "HHVM": {
+    "history": "HHVM (HipHop Virtual Machine) wurde ab 2010 von Facebook entwickelt und 2013 als JIT-kompilierende PHP-Laufzeitumgebung open-source veröffentlicht, um Zend aus Performance-Gründen zu ersetzen. 2014 führte Facebook dazu die Sprache Hack ein. 2018 kündigte HHVM an, die Kompatibilität mit PHP 7+ aufzugeben und sich ganz auf Hack zu konzentrieren, worauf die meisten PHP-Betreiber, darunter Wikipedia, wegmigrierten. Meta entwickelt HHVM weiterhin intern für seine Hack-Codebasis.",
+    "summary_abuse": "HHVM ist eine Backend-Laufzeitumgebung ohne verbraucherseitige Oberfläche. Es sind keine Missbrauchsmuster dokumentiert. Der Haupteinsatz ist serverseitige PHP- und Hack-Ausführung, mit keinen anderen Missbrauchsvektoren als bei jeder JIT-Laufzeitumgebung."
+  },
+  "Hi Platform": {
+    "description": "Hi Platform ist Anbieter einer Online-Plattform für Customer Relationship Management.",
+    "history": "Hi Platform entstand 2017 durch den Zusammenschluss von Direct Talk, einem führenden brasilianischen Anbieter für digitalen Kundenservice, und Seekr. Das kombinierte Unternehmen ist Brasiliens grösste Plattform für Kundenbeziehungen und Engagement und nahm 35 Millionen brasilianische Real an Finanzierung auf.",
+    "summary_abuse": "Hi Platform ist eine Omnichannel-Kundenserviceplattform mit Fokus auf den brasilianischen Markt. Es gibt kein auffälliges Missbrauchssignal. Der Einsatzzweck ist Unternehmenskommunikation mit Kunden, nicht das Hosting verbraucherseitiger Inhalte."
+  },
+  "Hiawatha": {
+    "description": "Hiawatha ist ein sicherer, leichtgewichtiger Webserver von Hugo Leisink, ausgelegt auf einfache Bedienung und Schutzfunktionen gegen SQL Injection, XSS und CSRF.",
+    "history": "Hiawatha ist ein Open-Source-Webserver des niederländischen Entwicklers Hugo Leisink, der etwa 2002 erstmals veröffentlicht wurde. Er wurde als leichtgewichtige, sicherheitsorientierte Alternative zu Apache und Nginx konzipiert. In den letzten Jahren gab es nur wenig Aktivität, das Projekt wirkt weitgehend ruhend.",
+    "summary_abuse": "Hiawatha ist ein selbst gehosteter Open-Source-Webserver ohne auffälliges Missbrauchssignal. Er bietet keinen verbraucherseitigen Hostingdienst und wird von technisch versierten Betreibern auf eigener Infrastruktur eingesetzt."
+  },
+  "HiBob": {
+    "description": "HiBob ist eine moderne HR-Plattform, die Produktivität, Mitarbeiterengagement und Bindung in Unternehmen verbessern soll.",
+    "history": "HiBob wurde 2015 in Tel Aviv, Israel, von Ronni Zehavi und Israel David gegründet. Das Unternehmen nahm viel Venture Capital auf und wuchs schnell als moderner HRIS-Konkurrent zu klassischen HR-Systemen. Es expandierte mit Büros nach London, New York und in weitere Städte.",
+    "summary_abuse": "HiBob ist eine Unternehmensplattform für HR und verarbeitet sensible Mitarbeiterdaten wie Vergütung, Leistung und persönliche Angaben; sie ist eine B2B-Plattform ohne öffentliche Verbraucheroberfläche. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden."
+  },
+  "Hibu": {
+    "description": "Hibu ist eine KI-gestützte Plattform, die Leads über einen Anbieter erzeugt, verwaltet, beantwortet und konvertiert sowie laufendes Kundenengagement unterstützt.",
+    "history": "Hibu geht auf Merchant Advertising Services von 1930 zurück, später Yellow Book USA. Im Mai 2012 benannte sich das Unternehmen in Hibu um, um den Wechsel von gedruckten Branchenverzeichnissen zu digitalen Marketingdiensten für lokale US-Kleinunternehmen abzubilden.",
+    "summary_abuse": "Hibu ist eine Digitalmarketing-Agentur für kleine Unternehmen und bietet Websites, SEO und Werbung. Es gibt kein auffälliges Missbrauchssignal. Der Dienst arbeitet betreut mit aufgenommenen Geschäftskunden statt öffentliches Self-Service-Hosting anzubieten."
+  },
+  "Highcharts": {
+    "description": "Highcharts ist eine in reinem JavaScript geschriebene Charting-Bibliothek für interaktive Diagramme in Websites und Webanwendungen. Highcharts erfüllt Accessibility-Standards und funktioniert mit Python, Angular, React, iOS, Android und weiteren Plattformen.",
+    "history": "Highcharts wurde 2009 von Torstein Honsi als persönliches Projekt in Norwegen geschaffen und entwickelte sich später zur Firma Highsoft. Die Bibliothek wird von 80 der 100 grössten Unternehmen der Welt genutzt und wurde um Produkte wie Highcharts Stock, Maps, Gantt und Dashboards erweitert. Für nicht-kommerzielle Nutzung ist sie kostenlos, für geschäftliche Nutzung sind kommerzielle Lizenzen erforderlich.",
+    "summary_abuse": "Highcharts ist eine clientseitige JavaScript-Bibliothek für Diagramme ohne verbraucherseitige Angriffsfläche; sie rendert Charts im Browser und hat weder Kontensystem noch Hosting-Funktionen oder Datenerhebung, die für Missbrauch nützlich wären. Eine dokumentierte Missbrauchsgeschichte gibt es nicht."
+  },
+  "Higher Logic": {
+    "description": "Higher Logic ist ein Anbieter digitaler Marketinglösungen und war früher als Informz bekannt.",
+    "history": "Higher Logic wurde 2007 von Rob Wenger und Andy Steggles in Arlington, Virginia, gegründet, um Community- und Engagement-Software für Verbände zu entwickeln. Das Unternehmen wuchs zwischen 2017 und 2020 durch fünf Übernahmen (Socious, Kavi, Real Magnet, Informz, Customer Imperative) und kaufte 2021 Vanilla, um in den Corporate-B2C-Markt zu expandieren.",
+    "summary_abuse": "Higher Logic ist eine B2B-Plattform für Communities und Engagement, die Verbände und Unternehmen bedient. Es gibt kein auffälliges Missbrauchssignal. Der Dienst wird als verwaltete Community-Lösung für geprüfte Organisationen betrieben."
+  },
+  "Higher Logic Vanilla": {
+    "description": "Higher Logic Vanilla ist eine cloudbasierte Kundencommunity-Plattform mit Diskussionsforen, Q&A, Ideation, Gamification und erweiterten Analysen, mit der Unternehmen Kundenbindung und Support verbessern können.",
+    "history": "Vanilla wurde 2009 in Montreal, Kanada, als cloudbasierte Community-Plattform gegründet. Higher Logic übernahm Vanilla im Mai 2021 und benannte es in Higher Logic Vanilla um, um den Corporate-B2C-Community-Markt zu bedienen.",
+    "summary_abuse": "Higher Logic Vanilla ist eine verwaltete Community-Plattform für Enterprise-B2C-Marken. Es gibt kein auffälliges Missbrauchssignal. Community-Moderation ist im Produkt enthalten und die Kunden sind geprüfte Unternehmensorganisationen."
+  },
+  "HigherMe HR": {
+    "description": "HigherMe HR ist eine Hiring-Plattform für Stundenlohn-Belegschaften mit Stellenanzeigen, Bewerberprüfung, Interviewplanung und Onboarding-Workflows.",
+    "history": "HigherMe wurde 2014 von Jef Chedeville und Rob Hunter in Toronto, Kanada, gegründet, zunächst als von Y Combinator unterstütztes Startup für Recruiting in Gastronomie und Detailhandel. Die Plattform konzentriert sich auf Franchise-Restaurantketten.",
+    "summary_abuse": "HigherMe ist eine HR-Recruiting-Plattform für Arbeitgeber in Gastronomie und Detailhandel ohne auffälliges Missbrauchssignal. Die Plattform ist ausschliesslich B2B und bietet kein verbraucherseitiges Content-Hosting."
+  },
+  "HighLevel": {
+    "description": "HighLevel ist eine All-in-one-Marketing- und Automatisierungsplattform für Marketingagenturen und kleine Unternehmen, die CRM, Kampagnen, Sales Funnels, Terminplanung und mehr verwaltet.",
+    "history": "HighLevel (GoHighLevel) wurde 2018 von Shaun Clark, Varun Vairavan und Robin Alex als All-in-one-CRM und Marketingautomatisierungsplattform vor allem für Digitalmarketing-Agenturen gegründet. Agenturen können die gesamte Suite als White-Label-Angebot an ihre Kunden weiterverkaufen. Die Plattform wuchs im Agenturmarkt schnell, erreichte zunächst ohne klassisches VC-Kapital bedeutende Umsätze und nahm später Investment auf. In der Community ist sie als GHL bekannt.",
+    "summary_abuse": "HighLevel ist eine All-in-one-Marketingplattform mit SMS-, E-Mail- und Telefonfunktionen, wodurch ein relevantes Spam-Risiko entsteht. Die Plattform wurde mit unerwünschten SMS- und E-Mail-Marketingkampagnen über Agenturkonten in Verbindung gebracht. Da Agenturen den Dienst als White Label weiterverkaufen können, ist die Durchsetzung von Spam-Regeln uneinheitlich. Es gibt Berichte über massenhaft unerwünschte Textnachrichten aus GHL-gestützten Systemen. Die Plattform enthält Funktionen für Massen-E-Mails und SMS-Blasts, die verantwortungsvoll genutzt werden müssen."
+  },
+  "Highlight.io": {
+    "description": "Highlight.io ist Monitoring-Software für Entwickler und bietet Einblick in Anwendungen mit Session Replay, Fehlerüberwachung und Logging für Frontend- und Backend-Probleme.",
+    "history": "Highlight.io ist eine Open-Source-Monitoring-Plattform, die etwa 2021 gegründet wurde; sie bietet Session Replay, Error Tracking und Logging sowohl als Cloud-SaaS als auch selbst hostbare Lösung und positioniert sich als Open-Source-Alternative zu Tools wie LogRocket und Datadog.",
+    "summary_abuse": "Highlight.io ist ein Monitoring-Werkzeug für Entwickler zur Observability von Anwendungen. Es sammelt Sitzungsdaten und Anwendungslogs für Entwickler. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden."
+  },
+  "Highlight.js": {
+    "description": "Highlight.js ist eine JavaScript-Bibliothek für Syntax-Highlighting mit Unterstützung für 192 Sprachen und 496 Themes.",
+    "history": "Highlight.js wurde von Ivan Sagalaev entwickelt und 2006 erstmals veröffentlicht. Es wurde zu einer der am weitesten verbreiteten Bibliotheken für Syntax-Highlighting und unterstützt hunderte Programmiersprachen und Themes. Das Projekt wird auf GitHub von der Community gepflegt.",
+    "summary_abuse": "Highlight.js ist eine JavaScript-Bibliothek für Syntax-Highlighting ohne Missbrauchssignal. Es ist ein Frontend-Entwicklerwerkzeug ohne verbraucherseitige gehostete Oberfläche und ohne Funktionen, die für betrügerische Aktivitäten relevant wären."
+  },
+  "Highstock": {
+    "history": "Highstock ist eine Finanzchart-Bibliothek von Highcharts, einem norwegischen Unternehmen. Highcharts wurde 2009 von Torstein Honsi gegründet. Highstock erweitert Highcharts speziell für Aktien- und allgemeine Zeitreihendiagramme mit Funktionen wie Navigator, Scrollbar und Datumsbereichsauswahl.",
+    "summary_abuse": "Highstock ist eine JavaScript-Charting-Bibliothek für die Visualisierung von Finanzdaten; sie hat keine verbraucherseitige gehostete Oberfläche und kein Missbrauchssignal. Entwickler betten sie in Webanwendungen ein, um Aktien- und Zeitreihendiagramme darzustellen."
+  },
+  "HighStore": {
+    "description": "HighStore ist eine E-Commerce-Plattform aus Iran.",
+    "history": "HighStore ist eine iranische E-Commerce-Plattform, die unter digitalserver.ir gehostet wird. Öffentlich ist nur wenig Geschichte verfügbar.",
+    "summary_abuse": "HighStore ist eine Nischen-E-Commerce-Plattform aus Iran. Wegen der begrenzten öffentlichen Informationen und des Iran-basierten Hostings sind die Vertrauenssignale schwach, doch der Plattform werden keine konkreten dokumentierten Missbrauchskampagnen zugeschrieben."
+  },
+  "Hikari CS": {
+    "description": "Hikari CS ist eine Lösung, mit der Webshops durch guten Kundenservice Umsatz und Kundenbindung steigern können.",
+    "history": "Hikari CS ist eine in den Niederlanden ansässige Plattform für ausgelagerten Kundenservice für Online-Shops; sie bietet mehrsprachigen Support über Chat- und Messaging-Kanäle auf Pay-per-Conversation-Basis. Auffällige Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "Hikari CS ist eine Kundenserviceplattform für Webshops ohne auffälliges Missbrauchssignal. Der Dienst bearbeitet Kundenanfragen, statt Verbraucher-Inhalte zu hosten."
+  },
+  "HikaShop": {
+    "description": "HikaShop ist eine Joomla-Erweiterung zur Verwaltung von Shop-Inhalten, Preisen und Store-Ansichten über eine intuitive Oberfläche.",
+    "history": "HikaShop ist eine E-Commerce-Erweiterung für Joomla und WordPress von Hikari Software, einem französischen Team, das das Produkt seit über 15 Jahren pflegt. Eine kostenlose Starter-Edition sowie kostenpflichtige Essential- und Business-Editionen sind seit etwa 2010 verfügbar.",
+    "summary_abuse": "HikaShop ist ein selbst gehostetes E-Commerce-Plugin für Joomla. Wie bei jeder E-Commerce-Erweiterung könnten kompromittierte Joomla-Installationen mit HikaShop für gefälschte Shops genutzt werden, doch es gibt keine spezifischen Missbrauchskampagnen gegen die Erweiterung selbst."
+  },
+  "HikeOrders": {
+    "description": "HikeOrders ist ein Web-Accessibility-Overlay, das verspricht, deine Website behindertenfreundlich zu machen.",
+    "history": "HikeOrders ist ein Web-Accessibility-Overlay, das eine automatisierte Toolbar bereitstellt, mit der Websites ADA/WCAG-Compliance beanspruchen können. Es wird unter dem WITHES-Framework-Branding vertrieben und bietet Shopify-Apps. Accessibility-Overlays als Kategorie stehen in der Branche stark in der Kritik, weil Accessibility-Experten argumentieren, dass sie keine echte Compliance erreichen und Menschen mit Behinderungen sogar schaden können.",
+    "summary_abuse": "HikeOrders ist ein Web-Accessibility-Overlay, mit dem Websites über ein automatisiertes JavaScript-Widget ADA/WCAG-Compliance beanspruchen können. Die breitere Overlay-Branche wurde von der Disability-Community und Sicherheitsforschern breit kritisiert, weil sie falsche Compliance-Sicherheit vermitteln und Website-Betreiber rechtlichen Risiken aussetzen kann. Für HikeOrders selbst sind keine konkreten Betrugs- oder Phishing-Fälle dokumentiert."
+  },
+  "Hinza Advanced CMS": {
+    "history": "Hinza Advanced CMS ist ein wenig bekanntes Content-Management-System von Hinza Co. Auffällige Eigentümer- oder Übernahmeereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Hinza Advanced CMS hat kein dokumentiertes Missbrauchssignal. Es ist ein obskures CMS mit sehr kleiner Nutzerbasis."
+  },
+  "HiPay": {
+    "description": "HiPay ist ein Payment-Gateway-Anbieter und eine Plattform für Payment Orchestration.",
+    "history": "HiPay entstand aus der Hi-Media Group, einem französischen Digitalwerbeunternehmen. 2015 wurde HiPay unabhängig, als es sich von Hi-Media abspaltete und nach Genehmigung der französischen Aufsicht AMF an der Euronext Paris kotiert wurde. Das Unternehmen bietet Zahlungsdienste in Europa mit Büros in Frankreich, Italien, Belgien und Portugal. 2018 lancierte es eine Omnichannel-Zahlungslösung für Online- und stationäre Transaktionen.",
+    "summary_abuse": "HiPay ist ein regulierter europäischer Zahlungsdienstleister mit Lizenz der französischen Finanzaufsicht. Als PCI-DSS-konformer Zahlungsabwickler mit strengen KYC-Anforderungen ist HiPay kein auffälliger Missbrauchsvektor. Zahlungsunternehmen haben allgemein Standardrisiken wie Card Testing und Chargeback-Betrug, die HiPay mit einer Machine-Learning-Risikomanagement-Engine mindert."
+  },
+  "Hireology": {
+    "description": "Hireology ist eine Personal- und Recruiting-Plattform für Franchise- und Retail-Automotive-Branchen.",
+    "history": "Hireology wurde 2010 in Chicago, Illinois, als HR- und Recruiting-Plattform für Franchise- und Multi-Location-Unternehmen wie Autohäuser und Hospitality-Gruppen gegründet.",
+    "summary_abuse": "Hireology ist eine B2B-HR-Plattform ohne verbraucherseitige Oberfläche und ohne auffälliges Missbrauchssignal."
+  },
+  "Hirschmann HiOS": {
+    "description": "Hirschmann HiOS ist ein Betriebssystem für industrielle Netzwerkausrüstung.",
+    "history": "HiOS (Hirschmann Operating System) ist die Firmware für industrielle Ethernet-Switches von Hirschmann, entwickelt von Hirschmann Automation and Control GmbH, die zu Belden Inc. gehört. HiOS löste die Classic-Softwarelinie ab und ergänzte TSN- und OPC UA-Funktionen für Industry 4.0-Deployments.",
+    "summary_abuse": "Hirschmann HiOS ist Firmware für industrielle Netzwerk-Switches in Fabrik- und Infrastrukturautomationsumgebungen. Es hat keine verbraucherseitige Oberfläche und kein Missbrauchssignal."
+  },
+  "Histats": {
+    "description": "Histats ist ein einfaches Werkzeug für Besucheranalyse und Tracking auf Websites.",
+    "history": "Histats ist ein kostenloser Webanalyse- und Hit-Counter-Dienst, der ungefähr seit 2006 läuft. Er gehört zu den älteren kostenlosen Analytics-Diensten, die noch aktiv sind, und richtet sich an kleine Website-Betreiber und Blogger, die einfache Besucherstatistiken ohne Komplexität wünschen. Das Unternehmen wirkt klein oder einzelbetrieben, sitzt in Italien und hat den Dienst über viele Jahre ohne auffällige Eigentümerwechsel stabil weitergeführt.",
+    "summary_abuse": "Histats bindet ein Tracking-Script in Websites ein und sammelt Besucherdaten wie IP-Adressen, Browserinformationen und Geolocation. Als kostenloser Analytics-Dienst ohne starke KYC- oder Account-Prüfung kann er auf beliebigen Websites eingebettet werden, auch auf schädlichen, wird aber normalerweise nicht als aktives Missbrauchswerkzeug genutzt. Der Dienst sammelt Besucherdaten, die mit der Histats-Plattform geteilt werden, was für Endnutzer betroffener Websites Datenschutzbedenken auslöst."
+  },
+  "History": {
+    "description": "Verwaltet Sitzungsverlauf mit JavaScript",
+    "history": "Die Bibliothek history.js wurde vom React-Training-Team, insbesondere Ryan Florence und Michael Jackson, entwickelt, um den Browser-Sitzungsverlauf in JavaScript-Single-Page-Applications zu verwalten; sie wurde zu einer grundlegenden Abhängigkeit von React Router und ist im React-Ökosystem weit verbreitet.",
+    "summary_abuse": "History.js ist eine JavaScript-Bibliothek zur Verwaltung des Browser-Sitzungsverlaufs; sie hat keine verbraucherseitige gehostete Oberfläche und kein Missbrauchssignal. Es ist ein Frontend-Hilfswerkzeug für Entwickler von Single-Page-Applications."
+  },
+  "Hit-Mall": {
+    "description": "Hit-Mall ist eine japanische E-Commerce-Lösung für den Online-Handel von Unternehmen aus verschiedenen Branchen.",
+    "history": "Hit-Mall ist eine japanische E-Commerce-SaaS für Online-Händler. Öffentlich ist auf Englisch nur wenig Geschichte verfügbar.",
+    "summary_abuse": "Hit-Mall ist eine japanische E-Commerce-Plattform ohne auffälliges internationales Missbrauchssignal. Legitime Handelsnutzung dominiert."
+  },
+  "Hiver": {
+    "description": "Hiver verwandelt Gmail in ein Kollaborations- und Kundensupport-System.",
+    "history": "Hiver wurde 2011 in Bangalore, Indien, ursprünglich als GrexIt gegründet. Das Unternehmen benannte sich in Hiver um und verlagerte den Fokus auf ein Gmail-basiertes Shared-Inbox- und Kundensupport-Werkzeug. Es nahm mehrere Venture-Finanzierungsrunden auf und wuchs auf tausende Teams weltweit.",
+    "summary_abuse": "Hiver ist ein Gmail-basiertes Werkzeug für Teamzusammenarbeit und Kundensupport. Unternehmen nutzen es, um gemeinsame Postfächer und Kunden-E-Mails zu verwalten. Mit dieser Technologie ist kein auffälliges Missbrauchssignal verbunden."
+  },
+  "Hocalwire": {
+    "description": "Hocalwire ist eine vereinfachte Newsroom-CMS-Plattform mit Fokus auf Digital-Media-Publisher.",
+    "history": "Hocalwire wurde 2015 von Suresh K Jangir, Ashwani K Mishra und Vinoth Poovalingam in Noida, Indien, als SaaS-Newsroom-CMS für lokale Nachrichtenverlage gegründet.",
+    "summary_abuse": "Hocalwire ist ein digitales Newsroom-CMS für Nachrichtenverlage ohne auffälliges Missbrauchssignal. Die Plattform verwaltet redaktionelle Workflows, statt beliebige Nutzerinhalte zu hosten."
+  },
+  "HockeyStack": {
+    "description": "HockeyStack ist ein Analytics- und Attribution-Werkzeug für B2B-Unternehmen mit Sitz in San Francisco.",
+    "history": "HockeyStack wurde 2021 von drei türkischen Mitgründern gegründet, die ihre US-Colleges abbrachen. Das Unternehmen nahm 2023 an Y Combinator teil, erhielt im Januar 2025 eine Series A über 20 Millionen US-Dollar von Bessemer Venture Partners und steigerte den Umsatz 2024 um das 4,5-Fache.",
+    "summary_abuse": "HockeyStack ist eine B2B-Plattform für Analytics und Revenue Attribution ohne auffälliges Missbrauchssignal; sie verarbeitet Marketing- und Vertriebsdaten von Unternehmen, statt Verbraucher-Inhalte zu hosten."
+  },
+  "Hoefler&Co": {
+    "description": "Hoefler&Co ist eine digitale Type Foundry in Woburn, Massachusetts, früher New York City, gegründet vom Schriftdesigner Jonathan Hoefler. Hoefler&Co entwirft Schriften für Kunden und für den Verkauf über die eigene Website.",
+    "history": "Hoefler&Co (H&Co) ist eine renommierte digitale Type Foundry, die Jonathan Hoefler 1989 in New York gründete. Bekannt ist sie für Schriften wie Hoefler Text, Gotham und Tungsten, die von grossen Marken und Publikationen genutzt werden. Später zog das Unternehmen von New York nach Woburn, Massachusetts.",
+    "summary_abuse": "Hoefler&Co ist ein Premiumdienst für Schriftlizenzen. Schriftpiraterie ist der einzige relevante Missbrauchsvektor, betrifft aber eher den Anbieter, statt Endnutzern Schaden zu ermöglichen. Für Endnutzer gibt es kein auffälliges Missbrauchssignal."
+  },
+  "Hogan.js": {
+    "description": "Hogan.js ist eine von Twitter entwickelte JavaScript-Template-Engine für Client- und Server-Anwendungen, die die Mustache-Template-Syntax für effizientes und flexibles Rendering nutzt.",
+    "history": "Hogan.js wurde von den Twitter-Ingenieuren Robert Sayre und Jacob Thornton entwickelt und 2011 erstmals veröffentlicht. Es ist ein Compiler für die Mustache-Template-Sprache und wurde für schnelles Template-Rendering auf Client und Server mit getrennten Scan-, Parse- und Codegenerierungsphasen gebaut. Twitter markierte das Projekt offiziell per Open-Source-Status-Badge als unmaintained. Die letzte Version (v3.0.2) erschien im Juni 2014.",
+    "summary_abuse": "Hogan.js hat kein auffälliges Missbrauchssignal. Es ist eine JavaScript-Mustache-Templating-Bibliothek ohne verbraucherseitige Oberfläche, ohne Content-Hosting, ohne Custom-Domain-Unterstützung und ohne User-Generated-Content-Funktionen, die Betrüger ausnutzen könnten. Als Backend- und Frontend-Rendering-Bibliothek ohne Service-Komponente gibt es keine dokumentierte Missbrauchsgeschichte durch Phishing, Scams oder Malware."
+  },
+  "Hoiio": {
+    "description": "Hoiio ist eine Cloud-Kommunikationsplattform, die Messaging, Voice und weitere Kommunikationsdienste einfacher einrichtbar macht.",
+    "history": "Hoiio wurde am 18. April 2007 in Singapur als Cloud-Kommunikations- und Telephony-API-Anbieter gegründet. Das Unternehmen expandierte regional nach Malaysia, Hongkong und Vietnam und lancierte 2012 seine Entwickler-API.",
+    "summary_abuse": "Hoiio ist eine Cloud-Kommunikations- und Voice-API-Plattform. Kommunikations-APIs können für SMS-Spam, Voice-Robocalls oder OTP-Bypass-Angriffe missbraucht werden, auch wenn keine spezifischen dokumentierten Kampagnen direkt auf Hoiio zielen. Legitime geschäftliche Nutzung dominiert."
+  },
+  "HoldMyTicket": {
+    "description": "HoldMyTicket bietet Event-Ticketing- und Box-Office-Lösungen für Veranstalter.",
+    "history": "HoldMyTicket wurde etwa 2009 in Albuquerque, New Mexico, als Event-Ticketing- und Box-Office-Lösung für Venues, Festivals und unabhängige Promoter gegründet. Das Unternehmen betreibt seit über 15 Jahren eine für Veranstalter kostenlose Ticketing-Plattform und erhebt Servicegebühren bei Ticketkäufern statt bei Organisatoren. Auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "HoldMyTicket ist eine Event-Ticketing-Plattform. Ticketing-Plattformen können als Betrugsvektor für den Verkauf von Tickets zu gefälschten Events genutzt werden, doch für HoldMyTicket sind keine konkreten gross angelegten Fälle dokumentiert. Die Plattform bedient unabhängige Venues und Festivals in einem regionalen Nischenmarkt, was die Gesamtexposition gegenüber organisiertem Missbrauch begrenzt."
+  },
+  "Holduix CMS": {
+    "description": "Holduix CMS ist ein leichtgewichtiges Content-Management-System, das Entwicklern und Endnutzern eine anpassbare Erfahrung bieten soll.",
+    "history": "Holduix CMS ist ein leichtgewichtiges Content-Management-System für Entwickler mit anpassbarer Self-Hosted- oder SaaS-Option. Auffällige Eigentümer- oder Übernahmeereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Holduix CMS hat kein dokumentiertes Missbrauchssignal. Es ist ein nischenhaftes, entwicklerorientiertes CMS."
+  },
+  "HollerBox": {
+    "description": "HollerBox ist ein Popup-Werkzeug für Lead Generation in WordPress.",
+    "history": "HollerBox ist ein Open-Source-WordPress-Plugin für Popups und Lead Generation, ursprünglich von Scott Bolinger erstellt und später von Groundhogg Inc. gepflegt. Es ist vollständig selbst gehostet, GPL-lizenziert, unbegrenzt kostenlos nutzbar und bedient derzeit über 6'000 Unternehmen.",
+    "summary_abuse": "HollerBox hat kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Popup-Plugin mit GDPR-freundlichen Funktionen. Popup-Werkzeuge bergen allgemein ein geringes Risiko für Missbrauch durch Dark Patterns, doch es sind keine Vorfälle spezifisch für HollerBox dokumentiert."
+  },
+  "Homebot": {
+    "description": "Homebot wandelt Kundenengagement in messbare Finanztransaktionen um und liefert verwertbare Erkenntnisse für bessere Geschäftsergebnisse.",
+    "history": "Homebot ist eine US-Fintech-SaaS-Plattform, die etwa 2015 gegründet wurde und Hausbesitzern automatisierte Einblicke in ihr Eigenkapital bietet, damit Hypothekengeber und Immobilienmakler Kunden binden können.",
+    "summary_abuse": "Homebot ist ein B2B-Fintech-Werkzeug für Hypotheken- und Immobilienfachleute ohne auffälliges Missbrauchssignal. Es bietet kein verbraucherseitiges Content-Hosting."
+  },
+  "Homefiniti": {
+    "description": "Homefiniti ist eine Plattform für Hausbauer mit Werkzeugen für Websites, virtuelle Rundgänge und weitere Marketinglösungen.",
+    "history": "Homefiniti ist das Flaggschiffprodukt von ONeil Interactive, einer Webdesign- und Marketingagentur aus Maryland mit Spezialisierung auf die Hausbaubranche. Die Plattform wurde von Dennis O'Neil, einem Branchenveteranen im Bauwesen, gegründet und bietet CMS, Lead-Management, XML-Syndication und interaktive Grundrisse für Hausbauer. Die Marke Homefiniti wurde im Dezember 2019 angemeldet. Auffällige Finanzierungsereignisse oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Homefiniti ist eine Nischen-Marketingplattform für Hausbauer ohne verbraucherseitige Content-Hosting-Oberfläche. Es gibt kein dokumentiertes Missbrauchssignal."
+  },
+  "Homerr": {
+    "description": "Homerr ist ein Logistikunternehmen in den Niederlanden und Belgien.",
+    "history": "Homerr wurde im Dezember 2016 in Amsterdam von Juriaan Matthijssen, Mark-Jan Pieterse und Theo Hoeksema als Last-Mile-Netzwerk für Paketabholung und -abgabe in den Niederlanden gegründet. Vinted Go übernahm Homerr im Oktober 2023 und benannte den Dienst im März 2024 in den Benelux-Märkten in Vinted Go um.",
+    "summary_abuse": "Homerr ist eine Paketlogistikplattform ohne auffälliges Missbrauchssignal. Physische Paketdienste werden typischerweise nicht für digitalen Betrug ausgenutzt."
+  },
+  "Homerun": {
+    "description": "Homerun ist eine Plattform zur Organisation von Recruiting-Prozessen und Verwaltung von Bewerbungen.",
+    "history": "Homerun wurde 2015 in Amsterdam von Willem van Roosmalen, Thomas Moes und Bob Kreefft als designorientiertes ATS für KMU gegründet. 2025 wurde es von ISH Holding übernommen. Im selben Jahr fusionierte Homerun mit Staff Squared und lancierte Homerun HR.",
+    "summary_abuse": "Homerun ist ein B2B-Bewerbermanagementsystem ohne auffälliges Missbrauchssignal. Es verarbeitet Recruiting-Workflows für KMU ohne verbraucherseitige Content-Oberfläche."
+  },
+  "Homestead": {
+    "description": "Homestead ist ein Website-Builder.",
+    "history": "Homestead Technologies wurde 1997 gegründet und brachte 1998 einen Drag-and-drop-Website-Builder für kleine Unternehmen auf den Markt. Intuit kaufte das Unternehmen 2007 für rund 170 Millionen US-Dollar. 2012 verkaufte Intuit das Website-Geschäft an Endurance International Group, unter der Homestead weiter betrieben wird.",
+    "summary_abuse": "Homestead ist ein älterer Website-Builder für kleine Unternehmen und gehört heute zu Endurance International Group. Als allgemeiner Page Builder könnte er theoretisch gefälschte Unternehmensseiten hosten, wird aber vor allem von legitimen Kleinunternehmen genutzt. Bedeutende dokumentierte Missbrauchskampagnen sind nicht bekannt."
+  },
+  "HomHero": {
+    "description": "HomHero ist eine Plattform mit Werkzeugen und Diensten, die Ferienwohnungsanbieter bei Immobilienverwaltung und Buchungen unterstützt.",
+    "history": "HomHero (Homhero) ist eine australische SaaS-Plattform für Property Management und Channel Management in der Ferienvermietung mit Sitz an der Gold Coast, Queensland. Per September 2025 unterstützte sie über 160 Kunden mit mehr als 17'000 Immobilien. Der Umsatz lag bei rund 5,2 Millionen australischen Dollar und 26 Mitarbeitenden.",
+    "summary_abuse": "HomHero hat kein auffälliges Missbrauchssignal. Es ist eine spezialisierte Property-Management-Plattform für die australische Ferienvermietungsbranche ohne dokumentierte betrügerische Einsatzmuster."
+  },
+  "Honeybadger": {
+    "description": "Honeybadger bietet Exception- und Uptime-Monitoring, damit deine Webanwendungen fehlerfrei bleiben.",
+    "history": "Honeybadger wurde im Oktober 2012 von Joshua Wood und Benjamin Curtis als bootstrapped Dienst für Exception- und Uptime-Monitoring auf Basis von Ruby on Rails gegründet und richtet sich an Rails- und Webentwickler.",
+    "summary_abuse": "Honeybadger ist ein entwicklerorientiertes Exception-Monitoring-Werkzeug ohne auffälliges Missbrauchssignal. Es hat keine verbraucherseitige Content-Oberfläche und keine dokumentierten Missbrauchsmuster."
+  },
+  "Hono": {
+    "description": "Hono ist ein kleines, einfaches und ultraschnelles Webframework für Edge-Umgebungen.",
+    "history": "Hono ist ein ultraschnelles TypeScript-Webframework auf Basis von Web Standards, entwickelt von Yusuke Wada und 2021 erstmals veröffentlicht. Es wurde für Cloudflare Workers und Edge-Runtimes konzipiert, unterstützt heute aber auch Node.js, Deno, Bun und weitere Runtimes. Im Edge-Computing-Ökosystem ist es schnell populär geworden.",
+    "summary_abuse": "Hono ist eine Open-Source-Webframework-Bibliothek. Es hat keine verbraucherseitige Oberfläche und kein Missbrauchssignal."
+  },
+  "hoolah": {
+    "description": "hoolah ist Asiens Omnichannel-Buy Now Pay Later-Plattform.",
+    "history": "hoolah wurde 2018 in Singapur als Asiens Omnichannel-Buy Now Pay Later-Plattform gegründet. Im November 2021 übernahm ShopBack hoolah, um seine BNPL-Angebote im asiatisch-pazifischen Raum auszubauen. Die Dienste von hoolah wurden später in ShopBack PayLater umbenannt.",
+    "summary_abuse": "hoolah, heute ShopBack PayLater, ist eine BNPL-Plattform für legitime Händler im asiatisch-pazifischen Raum. BNPL-Plattformen bergen gewisse Betrugsrisiken durch Kontoübernahmen und synthetische Identitäten, doch das händlerorientierte Modell von hoolah und die etablierte Compliance-Haltung der Muttergesellschaft ShopBack begrenzen die auffällige Missbrauchsexposition."
+  },
+  "Hoory": {
+    "description": "Hoory ist eine Conversational-AI-Plattform, die Kundensupport automatisiert.",
+    "history": "Hoory ist eine Conversational-AI-Plattform für Kundensupport mit Sitz in Armenien (Jerewan) und einem US-Büro in Glendale, Kalifornien; sie wurde etwa 2021 lanciert.",
+    "summary_abuse": "Hoory ist eine Kundenservice-Chatbot-Plattform ohne auffälliges Missbrauchssignal. Die KI-Automatisierungsfunktionen sind auf geschäftlichen Kundendienst ausgerichtet, nicht auf das Hosting von Verbraucher-Inhalten."
+  },
+  "Hoowla": {
+    "description": "Hoowla ist Case-Management-Software für Kanzleien zur Organisation, Verfolgung und Verwaltung juristischer Workflows und Mandantendaten.",
+    "history": "Hoowla ist eine britische Cloud-Plattform für Legal Case Management, die über 350 Kanzleien im Vereinigten Königreich bedient und auf Conveyancing und Immobilienrecht spezialisiert ist. Auffällige Übernahmen oder Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "Hoowla ist eine Legal-Case-Management-Plattform für Solicitors im Vereinigten Königreich; sie hat keine verbraucherseitige Oberfläche und kein Missbrauchssignal."
+  },
+  "Horoshop": {
+    "description": "Horoshop ist eine All-in-one-Plattform für den Start und Betrieb von Online-Shops für Unternehmen in der Ukraine.",
+    "history": "Horoshop wurde 2014 in Kyiv, Ukraine, als SaaS-E-Commerce-Plattform für ukrainische Online-Händler gegründet und bietet Store Builder, CMS sowie Zahlungs- und Lieferintegrationen.",
+    "summary_abuse": "Horoshop ist eine ukrainische E-Commerce-SaaS für Online-Händler ohne auffälliges internationales Missbrauchssignal. E-Commerce-Plattformen können gefälschte Shops hosten, doch keine spezifischen dokumentierten Kampagnen zielen auf Horoshop."
+  },
+  "Hostens": {
+    "description": "Hostens ist ein Webhosting-Unternehmen mit Angeboten für Hosting-Dienste, Virtual Private Server und Domains.",
+    "history": "Hostens wurde 2003 als Sparte des litauischen Unternehmens Interneto Vizija gegründet. Der Dienst wuchs auf über 100'000 Kunden in Europa und betreibt ein eigenes Tier III-Rechenzentrum in Vilnius. Er bietet Shared Hosting, VPS und Domain-Dienste zu wettbewerbsfähigen Preisen.",
+    "summary_abuse": "Hostens hat ein geringes Missbrauchsrisiko, wie es für günstige Shared-Hosting-Anbieter typisch ist. Budget-Hosting wird gelegentlich für Phishing- oder Spam-Seiten genutzt. Für Hostens selbst sind keine grossen dokumentierten Vorfälle bekannt, und der Hauptmarkt sind legitime europäische Kleinunternehmen."
+  },
+  "HostEurope": {
+    "description": "HostEurope ist ein europäisches Unternehmen für Website-Hosting, E-Mail und Domainregistrierung mit Sitz in Hayes, West London.",
+    "history": "Host Europe wurde 1997 in Köln als Webhosting- und Domainregistrar gegründet. Das Unternehmen wurde zur grössten unabhängigen Webhosting-Gruppe Europas, bevor es 2013 von der Private-Equity-Firma Cinven für 438 Millionen Pfund und 2017 von GoDaddy für 1,69 Milliarden Euro übernommen wurde.",
+    "summary_abuse": "HostEurope ist ein grosser europäischer Webhosting-Anbieter und gehört heute zu GoDaddy. Als allgemeiner Hosting-Anbieter mit Shared-Hosting-Tarifen kann ein Teil der gehosteten Websites missbräuchlich sein. GoDaddy/HostEurope bietet einen Abuse-Meldekanal, doch grosse Hosting-Plattformen haben bei schnellen Takedowns oft gemischte Erfolgsbilanzen."
+  },
+  "Hostgator": {
+    "description": "HostGator ist ein Anbieter von Shared-, Reseller-, VPS- und Dedicated-Webhosting mit Sitz in Houston und zusätzlicher Präsenz in Austin, Texas.",
+    "history": "HostGator wurde im Oktober 2002 von Brent Oxley an der Florida Atlantic University gegründet und wuchs zu einem der grössten Shared-Hosting-Anbieter der USA. Endurance International Group (EIG) übernahm HostGator im Juli 2012 für 299,8 Millionen US-Dollar. EIG fusionierte 2021 mit Web.com zu Newfold Digital, der heutigen Muttergesellschaft.",
+    "summary_abuse": "HostGator ist ein grosser Shared-Hosting-Anbieter im Besitz von Newfold Digital. Wie bei anderen grossen Shared-Hosting-Plattformen wird ein kleiner Teil der gehosteten Websites für Phishing, Malware und Spam genutzt. HostGator veröffentlicht eine AUP und einen Abuse-Kontakt, und Newfold Digital nutzt automatisierte Missbrauchserkennung. Die günstigen Shared-Hosting-Angebote der Plattform haben historisch dennoch einige missbräuchliche Anmeldungen angezogen."
+  },
+  "Hosting Ukraine": {
+    "description": "Hosting Ukraine ist ein Webhosting-Anbieter und Domainregistrar.",
+    "history": "Hosting Ukraine (ukraine.com.ua) ist ein ukrainischer Webhosting-Anbieter und Domainregistrar. Auffällige Eigentümerwechsel oder Übernahmen sind nicht bekannt.",
+    "summary_abuse": "Hosting Ukraine ist ein regionaler Webhosting-Anbieter. Als Shared-Hosting-Plattform könnte ein Teil der gehosteten Websites missbräuchlich sein, doch der Plattform selbst werden keine spezifischen dokumentierten Missbrauchskampagnen zugeschrieben."
+  },
+  "Hostinger": {
+    "description": "Hostinger ist ein mitarbeitereigener Webhosting-Anbieter und Domainregistrar.",
+    "history": "Hostinger wurde 2004 in Kaunas, Litauen, als Hosting Media gegründet. 2007 lancierte das Unternehmen den kostenlosen Hostingdienst 000webhost. 2011 erfolgte die Umbenennung in Hostinger. Das Unternehmen expandierte weltweit mit Tochtergesellschaften in Indonesien, Brasilien und weiteren Märkten und lancierte 2023 den AI Website Builder. In jüngerer Zeit meldete Hostinger 29 Millionen Kunden und über 100 Millionen US-Dollar Umsatz.",
+    "summary_abuse": "Hostinger ist ein grosser globaler Webhosting-Anbieter mit 29 Millionen Kunden. Die sehr tiefen Einstiegspreise und das hohe Volumen gehosteter Seiten machen die Plattform häufig nutzbar für Spam-Betreiber und Phishing-Kampagnen. Hostinger veröffentlicht eine AUP und bearbeitet Abuse-Meldungen, doch aufgrund von Grösse und Niedrigpreisangeboten treten auf der Plattform regelmässig Missbrauchsfälle auf."
+  },
+  "Hostinger CDN": {
+    "description": "Hostinger Content Delivery Network (CDN).",
+    "history": "Hostinger wurde 2004 in Kaunas, Litauen, als Hosting Media gegründet und 2011 in Hostinger umbenannt. Das CDN ist ein Bestandteil der globalen Hosting-Infrastruktur, die zehn Rechenzentren in acht Ländern umfasst.",
+    "summary_abuse": "Hostinger CDN ist Teil einer grossen Hosting-Plattform. Wie bei jedem grossen CDN- oder Hosting-Anbieter kann ein kleiner Teil der ausgelieferten Inhalte missbräuchlich sein. Hostinger veröffentlicht eine AUP und hat Mechanismen für Abuse-Meldungen."
+  },
+  "Hostinger Horizons": {
+    "description": "Hostinger Horizons ist ein No-Code-Web-App-Builder, der die Erstellung von Webanwendungen ohne Programmierkenntnisse vereinfachen soll.",
+    "history": "Hostinger Horizons ist ein No-Code-Web-App-Builder, den Hostinger etwa 2024 lancierte und der KI nutzt, um Webanwendungen aus Nutzerbeschreibungen zu generieren. Es ist eine Produktlinie von Hostinger International, gegründet 2004 in Litauen.",
+    "summary_abuse": "Hostinger Horizons ist ein No-Code-KI-Builder für Webanwendungen. Der kostenlose Tarif mit gehosteten Deployments könnte theoretisch für Phishing- oder Scam-Landingpages genutzt werden, wie bei jedem Page Builder mit geringer Einstiegshürde. Spezifische dokumentierte Missbrauchsmuster gibt es nicht."
+  },
+  "Hostinger Website Builder": {
+    "description": "Hostinger Website Builder ist eine webbasierte Plattform, mit der Nutzer Websites ohne Code und ohne umfangreiches technisches Wissen erstellen und gestalten können.",
+    "history": "Hostinger Website Builder wurde 2019 als Drag-and-drop-No-Code-Builder unter der Hosting-Marke Hostinger lanciert, die 2004 in Litauen gegründet wurde. 2023 ergänzte Hostinger KI-gestützte Website-Generierung.",
+    "summary_abuse": "Hostinger Website Builder ist ein grosser Drag-and-drop-Site-Builder mit tiefem Einstiegspreis. Wie bei anderen grossen Website-Buildern kann ein Teil der erstellten Websites für gefälschte Shops oder Phishing-Landingpages genutzt werden. Hostinger betreibt eine AUP und einen Abuse-Meldekanal."
+  },
+  "Hostiq": {
+    "description": "Hostiq ist ein Webhosting-Anbieter und Domainregistrar.",
+    "history": "HOSTiQ wurde etwa 2010 in Kharkiv, Ukraine, als Webhosting-Anbieter und Domainregistrar mit Servern in der Ukraine, den Niederlanden, den USA und Frankreich gegründet.",
+    "summary_abuse": "HOSTiQ ist ein ukrainischer regionaler Webhosting-Anbieter. Als Shared-Hosting-Plattform könnte ein kleiner Teil der gehosteten Websites missbräuchlich genutzt werden, doch der Plattform werden keine spezifischen dokumentierten Missbrauchskampagnen zugeschrieben."
+  },
+  "Hostmeapp": {
+    "description": "Hostmeapp ist Restaurantsoftware mit Reservierung, Warteliste, Gästebuch und Marketing-Werkzeugen.",
+    "history": "Hostmeapp ist eine Restaurantmanagement-SaaS mit Reservierungen, Wartelisten, Gästebuch und Marketing-Werkzeugen. Öffentlich ist nur wenig Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hostmeapp ist ein Werkzeug für Restaurantreservierungen und Wartelistenmanagement ohne auffälliges Missbrauchssignal."
+  },
+  "Hostpoint": {
+    "description": "Hostpoint ist ein Webhosting-Unternehmen mit Sitz in der Schweiz.",
+    "history": "Hostpoint wurde im Frühling 2001 von Markus Gebert und Claudius Röllin in Rapperswil-Jona, Schweiz, gegründet und wuchs zum grössten Webhosting-Anbieter und führenden Domainregistrar der Schweiz. Das Unternehmen ist seit über 25 Jahren unabhängig geblieben.",
+    "summary_abuse": "Hostpoint ist der grösste unabhängige Webhosting-Anbieter der Schweiz. Als Shared-Hosting-Plattform könnte eine Minderheit der gehosteten Websites missbräuchlich sein, doch die Plattform untersteht Schweizer Datenschutzrecht und hat einen starken Ruf für reaktionsschnellen Support."
+  },
+  "Hosttech Website Creator": {
+    "description": "Hosttech Website Creator ist ein Webentwicklungswerkzeug des Schweizer Unternehmens Hosttech mit anpassbaren Vorlagen und Funktionen zur Website-Verwaltung.",
+    "history": "Hosttech Website Creator ist ein Drag-and-drop-Website-Builder von hosttech, einem Schweizer Webhosting-Unternehmen mit zwei Rechenzentren in der Schweiz. Er bietet über 50 Designvorlagen und ist in hosttech-Hostingplänen enthalten. Daten werden in der Schweiz unter Schweizer und EU-Datenschutzrecht gespeichert.",
+    "summary_abuse": "Hosttech Website Creator hat kein auffälliges Missbrauchssignal. Es ist ein in der Schweiz gehosteter Website-Builder mit Datenhaltung in der Schweiz. Dokumentierte betrügerische Einsatzmuster sind nicht bekannt."
+  },
+  "Hotaru CMS": {
+    "history": "Hotaru CMS ist ein Open-Source-CMS auf PHP-Basis für soziale Inhalte, das um eine Plugin-Architektur aufgebaut ist und etwa 2009 erstmals veröffentlicht wurde. Die Entwicklung scheint seit vielen Jahren ohne grössere Updates zu stagnieren.",
+    "summary_abuse": "Hotaru CMS ist ein aufgegebenes Open-Source-PHP-CMS. Veraltete PHP-Installationen können für Spam-Hosting oder Malware-Verteilung ausgenutzt werden, doch die Plattform hat kein spezifisches dokumentiertes Missbrauchsmuster."
+  },
+  "Hotbot": {
+    "description": "Hotbot ist eine Plattform für die Online-Verwaltung von Hotel-Serviceverkäufen.",
+    "history": "Hotbot.ai wurde 2018 als KI-gestützte Chatbot- und Online-Sales-Management-Plattform für die Hospitality-Branche gegründet.",
+    "summary_abuse": "Hotbot ist ein Hospitality-KI-Chatbot ohne auffälliges Missbrauchssignal. Er wird als B2B-Werkzeug für Hotelbetriebe eingesetzt."
+  },
+  "HotDoc": {
+    "description": "HotDoc ist eine Plattform zur Buchung von Gesundheitsterminen und gibt Patienten Zugang zu medizinischen Fachpersonen und Kliniken.",
+    "history": "HotDoc wurde 2012 von Dr. Ben Hurst, John Servinis, Simon Holland und Tom Spacek in Melbourne, Australien, als Online-Plattform für Arztterminbuchungen gegründet. Es wuchs zur grössten Patient-Engagement-Plattform Australiens und wird von jedem fünften Australier genutzt.",
+    "summary_abuse": "HotDoc ist eine australische Plattform zur Buchung von Gesundheitsterminen ohne auffälliges Missbrauchssignal. Medizinische Terminsysteme verarbeiten persönliche Gesundheitsdaten, werden aber typischerweise nicht für Betrugsmaschen genutzt."
+  },
+  "Hotel Propeller": {
+    "description": "Hotel Propeller ist eine Webdesign-Plattform, die responsive Websites für Hotels erstellt.",
+    "history": "Hotel Propeller ist eine Webdesign-Plattform, die responsive Websites für Hotels erstellt. Öffentlich ist nur wenig Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hotel Propeller ist ein Hotel-Website-Builder ohne auffälliges Missbrauchssignal. Er bedient die Hospitality-Branche und bietet kein verbraucherseitiges Hosting beliebiger Inhalte."
+  },
+  "Hotjar": {
+    "description": "Hotjar ist eine Suite von Analysewerkzeugen zur Erhebung qualitativer Daten und liefert Feedback über Heatmaps, Session Recordings und Umfragen.",
+    "history": "Hotjar wurde 2014 in Malta von David Darmanin und einem kleinen Team gegründet und wuchs auf über 1,1 Millionen Websites in mehr als 180 Ländern. Im September 2021 übernahm Contentsquare Hotjar zu einem nicht offengelegten Preis und verband damit SMB- und Enterprise-Funktionen für Digital Analytics. 2024 integrierte Contentsquare alle Hotjar-Werkzeuge in die Contentsquare-Plattform.",
+    "summary_abuse": "Hotjar zeichnet Nutzersitzungen auf und erfasst Heatmap-Daten auf Websites, auf denen es installiert ist. Als Behaviour-Analytics-Werkzeug sammelt es sensible Interaktionsdaten wie Mausbewegungen, Klicks und Formulareingaben. Datenschutzvertreter haben Bedenken geäussert, dass Hotjar über Session Recordings personenbezogene Informationen erfassen kann, besonders auf Websites mit falsch konfigurierter Datenmaskierung. Hotjar hat GDPR-Kontrollen wie IP-Anonymisierung und Data-Masking-Funktionen implementiert. Es gibt keinen direkten Nachweis für böswillige Nutzung von Hotjar, doch die Session-Recording-Funktionen machen es bei Fehlkonfiguration zu einem möglichen Datenschutzrisiko."
+  },
+  "Hotjar Incoming Feedback": {
+    "description": "Hotjar Incoming Feedback ist ein Widget, das am Rand einer Seite platziert wird.",
+    "history": "Hotjar wurde 2014 in Malta von David Darmanin und seinem Team als Analyse- und Feedback-Werkzeug gegründet. Das Incoming Feedback-Widget war ein Feedback-Werkzeug am Seitenrand, mit dem Besucher Seiten bewerten und kommentieren konnten. Hotjar wurde 2021 von Contentsquare übernommen. Im September 2024 wurde die Incoming Feedback-Funktion in Hotjar Surveys migriert und damit als eigenständiges Widget faktisch abgekündigt.",
+    "summary_abuse": "Hotjar Incoming Feedback hat ein tiefes Missbrauchssignal. Als Session-Analytics- und Feedback-Widget von Contentsquare sammelt es Nutzerinteraktionsdaten, was Datenschutzfragen aufwirft, wird aber nicht auffällig für Betrug oder Scams ausgenutzt. Hotjar hat GDPR-Dokumentation und ein DPA veröffentlicht. Das Hauptrisiko liegt im Missbrauch der gesammelten Besucherdaten durch Website-Betreiber, nicht im direkten Missbrauch der Plattform."
+  },
+  "Hotmart": {
+    "description": "HotMart ist ein Affiliate-Marketing-System mit Sitz in Brasilien.",
+    "history": "Hotmart wurde 2011 in Belo Horizonte, Brasilien, von Mateus Bicalho und Jo Costa als Marktplatz für digitale Produkte gegründet, auf dem Creators Kurse, E-Books und Mitgliedschaften verkaufen können. Die Plattform wuchs zu einer der grössten Digital-Commerce-Plattformen Lateinamerikas und expandierte international. Das Unternehmen hat bedeutende VC-Finanzierung aufgenommen und ist in mehreren Ländern tätig.",
+    "summary_abuse": "Hotmart hat ein moderates Missbrauchsrisiko, weil das Affiliate-Marketing- und Digitalprodukte-Modell häufig ausgenutzt wird. Die Plattform hostet digitale Kurse und E-Books tausender unabhängiger Creators, von denen einige minderwertige oder irreführende Produkte verkaufen. Von der Plattform erzeugte Affiliate-Links werden regelmässig in Spam-Kampagnen und irreführenden Anzeigen verwendet. Die kostenlose Creator-Anmeldung mit performancebasierten Gebühren senkt die Hürde für schlechte Akteure. Hotmart veröffentlicht Nutzungsbedingungen und reagiert auf Beschwerden, doch das Volumen an Creator-Inhalten macht die Durchsetzung uneinheitlich."
+  },
+  "Housecall Pro": {
+    "description": "Housecall Pro ermöglicht Unternehmen Terminplanung, Einsatzdispatching, Rechnungsstellung und Online-Buchungen durch Kunden.",
+    "history": "Housecall Pro wurde 2013 in San Diego, Kalifornien, als Field-Service-Management-SaaS für Home-Service-Unternehmen gegründet. Das Unternehmen nahm über 100 Millionen US-Dollar VC-Finanzierung auf und wuchs auf zehntausende Servicebetriebe aus Sanitär, HVAC, Elektro und ähnlichen Gewerken.",
+    "summary_abuse": "Housecall Pro hat kein auffälliges Missbrauchssignal. Es ist eine B2B-SaaS-Plattform für Home-Service-Unternehmen, ohne verbraucherseitiges Content-Hosting oder anonyme Kontoerstellung. Der Dienst ist kein bekanntes Werkzeug für Betrug oder Scams."
+  },
+  "Howler.js": {
+    "description": "Howler.js ist eine Audio-Bibliothek mit Unterstützung für die Web Audio API und einem Fallback-Mechanismus für HTML5 Audio.",
+    "history": "Howler.js wurde von James Simpson erstellt und 2013 erstmals als Open-Source-JavaScript-Audio-Bibliothek veröffentlicht. Durch Unterstützung der Web Audio API mit HTML5-Audio-Fallback wurde sie zum De-facto-Standard für Webaudio und funktioniert zuverlässig über Browser hinweg. Es gab keine grossen Eigentümerwechsel oder Kontroversen.",
+    "summary_abuse": "Howler.js hat kein auffälliges Missbrauchssignal. Es ist eine clientseitige JavaScript-Audio-Bibliothek ohne netzwerkseitige Oberfläche, die Scammer gezielt ausnutzen würden."
+  },
+  "HP Compact Server": {
+    "history": "HP ProLiant Compact Servers, später HPE, sind eine Linie rackmontierter Server, die Hewlett-Packard seit den 1990er-Jahren entwickelt. 2015 spaltete sich HP in HP Inc. und Hewlett Packard Enterprise (HPE) auf, wobei die Serverlinie zu HPE wechselte. HPE entwickelt ProLiant und verwandte Compact-Server-Linien weiterhin für Rechenzentren und Unternehmenseinsatz.",
+    "summary_abuse": "HP/HPE-Serverhardware ist Unternehmensinfrastruktur für Rechenzentren ohne relevante Missbrauchsoberfläche. Es gibt keinen dokumentierten Missbrauch jenseits der üblichen Aspekte jeder physischen Serverhardware. HPE betreibt ein Responsible-Disclosure-Programm für Firmware-Schwachstellen."
+  },
+  "HP iLO": {
+    "description": "HP iLO bietet mehrere Möglichkeiten, Server aus der Ferne zu konfigurieren, zu aktualisieren, zu überwachen und zu betreiben.",
+    "history": "HP iLO (Integrated Lights-Out) ist eine proprietäre eingebettete Servermanagement-Technologie von Hewlett-Packard, erstmals etwa 2001 veröffentlicht; sie ermöglicht Remote-Administration unabhängig vom Betriebssystem. Nach der HP-Aufspaltung 2015 blieb iLO bei Hewlett Packard Enterprise. iLO 5 erschien 2017 für Gen10-Server, iLO 6 folgte 2022 für Gen11. Sicherheitslücken in iLO haben wiederholt Aufmerksamkeit erregt, darunter Exploits gegen ungepatchte iLO-Schnittstellen, die im Internet erreichbar waren.",
+    "summary_abuse": "HP iLO ist eine Remote-Management-Schnittstelle für Server. Wenn iLO ungepatcht im Internet exponiert ist, wurde es von Bedrohungsakteuren einschliesslich APT-Gruppen ausgenutzt. Mehrere kritische CVEs betrafen iLO, zum Beispiel CVE-2017-12542 mit Authentication Bypass. Sicherheitsforscher empfehlen dringend, iLO-Schnittstellen von öffentlichen Netzwerken zu isolieren. HPE veröffentlicht Firmware-Updates, die Reaktionszeit variiert aber. Eine nutzerseitige Missbrauchsoberfläche gibt es nicht."
+  },
+  "HrFlow.ai": {
+    "description": "HrFlow.ai ist eine API-Plattform zur Automatisierung von HR-Daten.",
+    "history": "HrFlow.ai wurde 2020 in Paris, Frankreich, als API-Plattform zur Automatisierung von HR-Daten gegründet. Der Fokus liegt auf dem Parsen und Standardisieren von HR-Dokumenten wie Lebensläufen und Stellenbeschreibungen mit KI. Zielkunden sind ATS-Anbieter und HR-Softwareunternehmen. Auffällige Übernahmen oder Eigentümerwechsel sind nicht bekannt.",
+    "summary_abuse": "HrFlow.ai hat kein auffälliges Missbrauchssignal. Es ist eine B2B-API-Plattform für HR-Datenverarbeitung und nicht verbraucherseitigen Betrugs- oder Scam-Vektoren ausgesetzt."
+  },
+  "HSTS": {
+    "description": "HTTP Strict Transport Security (HSTS) teilt Browsern mit, dass eine Website nur über HTTPS aufgerufen werden soll.",
+    "history": "HTTP Strict Transport Security (HSTS) wurde im November 2012 von der IETF als RFC 6797 standardisiert. Ursprünglich wurde es 2009 von Collin Jackson und Adam Barth vorgeschlagen. HSTS Preloading über in Browsern gebündelte Listen wurde später von Google Chrome eingeführt, um den Schutz auf Erstbesuche auszuweiten. Heute wird HSTS von allen grossen Browsern unterstützt und von Webservern breit eingesetzt.",
+    "summary_abuse": "HSTS ist ein Browser-Sicherheitsstandard ohne Missbrauchsoberfläche. Es ist ein defensiver Mechanismus, der HTTPS-Verbindungen erzwingt und das Risiko von Man-in-the-Middle-Angriffen senkt. Dokumentierte Missbrauchsmuster gibt es nicht."
+  },
+  "HT Mega": {
+    "description": "Elementor-Addon-Paket für Elementor.",
+    "history": "HT Mega ist ein WordPress-Plugin mit mehr als 80 Elementor-Widgets und Addons. Es wird von HasThemes entwickelt, einem WordPress-Theme- und Plugin-Anbieter aus Bangladesch. Das Plugin erschien etwa 2019 und setzte sich als eines von vielen konkurrierenden Elementor-Addon-Paketen durch. HasThemes bietet auch weitere WordPress-Produkte an.",
+    "summary_abuse": "HT Mega ist ein WordPress-Plugin für Elementor-Widgets ohne deutlich dokumentierte Missbrauchsmuster. Als kleiner WordPress-Plugin-Anbieter aus Bangladesch hat HasThemes keine ausgeprägten formellen Sicherheitsprogramme. Nutzer sollten das Plugin aktuell halten, da Elementor-Addon-Plugins häufige Einfallstore für Schwachstellen in WordPress-Websites sind. Es sind keine nennenswerten CVEs oder Missbrauchsvorfälle dokumentiert."
+  },
+  "html2canvas": {
+    "description": "Screenshots mit JavaScript.",
+    "history": "html2canvas wurde von Niklas von Hertzen erstellt und etwa 2012 erstmals veröffentlicht. Die Bibliothek rendert HTML-Elemente in ein Canvas-Element, indem sie das DOM ausliest und per JavaScript eine Darstellung der Seite aufbaut, ohne serverseitiges Rendering zu benötigen; sie ist weiterhin eine beliebte Open-Source-Bibliothek ohne grössere Eigentümerwechsel.",
+    "summary_abuse": "html2canvas ist eine clientseitige JavaScript-Bibliothek ohne Oberfläche für Endnutzer und ohne dokumentierte Missbrauchssignale."
+  },
+  "HTML5 Media": {
+    "description": "HTML5 Media ermöglicht Video- und Audio-Tags in allen wichtigen Browsern.",
+    "history": "HTML5 Media bezeichnet die nativen Audio- und Videoelemente, die mit der HTML5-Spezifikation eingeführt wurden; sie wurden vom WHATWG etwa 2004 bis 2007 vorgeschlagen und in der 2014 abgeschlossenen W3C-HTML5-Spezifikation formell standardisiert. Die nativen Medienelemente ersetzten Flash und andere Plugins für die Medienwiedergabe im Browser. Heute werden sie von allen modernen Browsern unterstützt und vom WHATWG als Living Standard weitergeführt.",
+    "summary_abuse": "HTML5 Media ist ein Browserstandard ohne eigene Missbrauchsfläche. Video- und Audioelemente gehören zur grundlegenden Webtechnologie. Es sind keine dokumentierten Missbrauchsmuster bekannt, abgesehen von allgemeinen Risiken bei Webinhalten."
+  },
+  "Htmx": {
+    "description": "Htmx ist eine JavaScript-Bibliothek, mit der HTML-Elemente direkt AJAX-Anfragen auslösen, CSS-Transitions starten sowie WebSocket- und Server-Sent-Events nutzen können.",
+    "history": "Htmx wurde von Carson Gross entwickelt und 2020 als Nachfolger von intercooler.js veröffentlicht, an dem er seit 2013 gearbeitet hatte. Die Bibliothek erlaubt HTML, AJAX-Anfragen, CSS-Transitions und WebSocket-Verbindungen auszulösen, ohne JavaScript zu schreiben. Htmx gewann in der Entwicklercommunity deutlich an Bedeutung, weil es eine Alternative zu schweren JavaScript-Frameworks bietet und sich an HATEOS-Prinzipien orientiert.",
+    "summary_abuse": "Htmx zeigt keine nennenswerten Missbrauchssignale. Es ist eine clientseitige JavaScript-Bibliothek, die HTML-Attribute erweitert, ohne eigenen Netzwerkdienst oder gehostete Inhalte, die für Betrug attraktiv wären."
+  },
+  "HTTP/2": {
+    "description": "HTTP/2, ursprünglich HTTP/2.0 genannt, ist eine umfassende Überarbeitung des HTTP-Netzwerkprotokolls, das im World Wide Web verwendet wird.",
+    "history": "HTTP/2 wurde im Mai 2015 von der IETF-Arbeitsgruppe HTTPbis als RFC 7540 standardisiert und basiert auf Googles SPDY-Protokoll. Es führte Multiplexing, Header-Kompression mit HPACK und Server Push über eine einzige TCP-Verbindung ein. HTTP/2 wird heute von allen wichtigen Webservern wie nginx, Apache und IIS sowie von CDNs unterstützt. RFC 9113 ersetzte 2022 den ursprünglichen RFC.",
+    "summary_abuse": "HTTP/2 ist ein IETF-Transportprotokoll ohne inhärente Missbrauchsfläche. Es ist ein grundlegender Webstandard. Es sind keine protokollspezifischen Missbrauchsmuster dokumentiert, die über allgemeine Risiken von HTTPS-Datenverkehr hinausgehen."
+  },
+  "HTTP/3": {
+    "description": "HTTP/3 ist die dritte Hauptversion des Hypertext Transfer Protocol für den Informationsaustausch im World Wide Web.",
+    "history": "HTTP/3 wurde im Juni 2022 von der IETF als RFC 9114 standardisiert. Es baut auf QUIC (RFC 9000) auf, einem UDP-basierten Transportprotokoll, das ursprünglich von Google als QUIC (Quick UDP Internet Connections) entwickelt wurde. HTTP/3 beseitigt das Head-of-Line-Blocking, das beim TCP-basierten Multiplexing von HTTP/2 auftritt. Cloudflare, Google und Meta gehörten zu den frühen Anwendern. Wichtige Webserver und CDNs unterstützen HTTP/3 mit QUIC inzwischen.",
+    "summary_abuse": "HTTP/3 ist ein IETF-Transportprotokoll ohne inhärente Missbrauchsfläche. Wegen der UDP-Basis kann es für Firewalls schwieriger zu prüfen sein, ist aber nicht spezifisch mit Missbrauch verbunden. Es sind keine protokollspezifischen Missbrauchsmuster dokumentiert, die nur HTTP/3 betreffen."
+  },
+  "Hub Platform": {
+    "description": "Hub Platform ist eine Suite datengetriebener Lösungen für Marketing und Customer-Experience-Management.",
+    "history": "Hub Platform ist eine Suite für Marketing und Customer-Experience-Management. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hub Platform ist eine Marketing-Tool-Suite ohne nennenswerte Missbrauchssignale."
+  },
+  "Hubalz": {
+    "description": "Hubalz ist ein All-in-one-Tool für Analytics und Marketing.",
+    "history": "Hubalz ist ein All-in-one-Tool für Analytics und Marketing. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hubalz ist ein kleines Analytics- und Marketing-Tool ohne nennenswerte Missbrauchssignale."
+  },
+  "Hubb": {
+    "description": "Hubb ist ein integriertes All-in-one-System für Kirchen, mit dem Website-Inhalte ohne technisches Fachwissen verwaltet werden können.",
+    "history": "Hinweis: Der DB-Eintrag bezieht sich auf Hubb als Kirchen-Website- und Verwaltungsplattform (hubb.church), nicht auf die Konferenztechnologie Hubb (hubb.me). Es handelt sich um ein CMS für Kirchen, das Website-Verwaltung ohne Programmierkenntnisse ermöglicht. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hubb (hubb.church) ist ein Kirchenverwaltungs- und Website-CMS ohne nennenswerte Missbrauchssignale."
+  },
+  "Huberway": {
+    "description": "Huberway ist ein auf PHP und JavaScript basierendes Content-Management-System für fortgeschrittene, auf Industrie 4.0 ausgerichtete Vertriebsportale.",
+    "history": "Huberway ist ein PHP- und JavaScript-basiertes CMS für Vertriebsportale. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Huberway ist ein spezialisiertes CMS für Vertriebsportale ohne nennenswerte Missbrauchssignale."
+  },
+  "Huberway Analytics": {
+    "description": "Huberway Analytics ist ein kostenloser Webanalyse-Dienst, der Website-Traffic erfasst und auswertet.",
+    "history": "Huberway Analytics ist ein kostenloser Webanalyse-Dienst von Huberway. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Huberway Analytics ist ein kostenloses Webanalyse-Tool ohne nennenswerte Missbrauchssignale."
+  },
+  "Hubilo": {
+    "description": "Hubilo ist eine Plattform für gebrandete interaktive Erlebnisse, KI-gestützte Wiederverwendung von Inhalten und Verhaltensanalysen zur Maximierung des Webinar-ROI.",
+    "history": "Hubilo wurde 2015 in Indien gegründet und startete ursprünglich als Anbieter für physisches Eventmanagement, bevor das Unternehmen während der COVID-19-Pandemie 2020 auf SaaS für virtuelle und hybride Events umschwenkte. Das Unternehmen ist VC-finanziert und verlegte seinen Hauptsitz später nach San Francisco. Hubilo wandelte sich von einem Eventlogistik-Anbieter zu einer Webinar- und Virtual-Event-Plattform.",
+    "summary_abuse": "Hubilo zeigt keine nennenswerten Missbrauchssignale. Es ist eine B2B-Plattform für virtuelle Events und Webinare mit Enterprise-Preisen, die Kontakt mit dem Anbieter erfordern. Dadurch bietet sie wenig Raum für anonymen Missbrauch."
+  },
+  "HubSpot": {
+    "description": "HubSpot ist eine Marketing- und Vertriebssoftware, die Unternehmen dabei hilft, Besucher anzuziehen, Leads zu konvertieren und Kunden zu gewinnen.",
+    "history": "HubSpot wurde 2006 von Brian Halligan und Dharmesh Shah am MIT in Cambridge, Massachusetts gegründet und prägte das Konzept des Inbound Marketing. Das Unternehmen ging 2014 unter dem Ticker HUBS an die NYSE, zu 25 Dollar pro Aktie, und nahm über 140 Millionen Dollar ein. Es wuchs durch Übernahmen wie Oneforty (2010), Kemvi, PieSync, Clearbit, The Hustle und Frame AI. Heute bietet HubSpot eine vollständige CRM-Plattform für Marketing, Sales, Service, CMS und Operations.",
+    "summary_abuse": "HubSpot ist eine grosse Marketing- und CRM-Plattform, deren E-Mail-Marketing-Tools gelegentlich für Marketing-Spam verwendet werden. Formulare und Landingpages wurden auch in Phishing-Kampagnen eingesetzt. HubSpot überwacht Missbrauch aktiv und verbietet Spam in seinen Nutzungsbedingungen. Bei einer grossen Plattform mit Millionen Nutzern ist ein gewisses Mass an Missbrauch unvermeidlich, HubSpot hat jedoch ein eigenes Abuse-Team und reagiert auf Meldungen. Phishing-Seiten auf Subdomains von hubspot.com oder hubspotpagebuilder.com werden gelegentlich gemeldet."
+  },
+  "HubSpot Analytics": {
+    "description": "HubSpot ist eine Marketing- und Vertriebssoftware, die Unternehmen dabei hilft, Besucher anzuziehen, Leads zu konvertieren und Kunden zu gewinnen.",
+    "history": "HubSpot wurde 2006 von Brian Halligan und Dharmesh Shah am MIT gegründet und prägte das Konzept des Inbound Marketing. Das Unternehmen ging 2014 an die NYSE. HubSpot Analytics ist die Tracking- und Reporting-Komponente der HubSpot-Marketingplattform und sammelt Website-Besucher- und Kampagnendaten für Kunden.",
+    "summary_abuse": "HubSpot Analytics weist ein geringes Missbrauchssignal auf. Als Marketing-Analytics-Tracking-Script auf Kundenwebsites sammelt es Besucherdaten für legitime Marketingzwecke. HubSpot ist ein börsenkotiertes Unternehmen mit solidem Trust Portal, SOC 2-Zertifizierung, GDPR DPA und Bug-Bounty-Programm. Das wichtigste Datenschutzthema ist die Erfassung von Verhaltensdaten durch das Tracking-Script, was jedoch üblichen Marketing-Analytics entspricht. HubSpot hat eine sichtbare AUP und ein Compliance-Programm."
+  },
+  "HubSpot Chat": {
+    "description": "HubSpot Chat ist ein Tool, mit dem eingehende Nachrichten aus mehreren Kanälen angezeigt, verwaltet und beantwortet werden können.",
+    "history": "HubSpot Chat ist die Live-Chat- und Chatbot-Funktion innerhalb der kostenlosen CRM-Suite von HubSpot; sie entstand im Zuge der Erweiterung von HubSpot von einer Marketing-Automation-Plattform zu einem vollständigen CRM. Die Funktion ist mit dem gemeinsamen Posteingang von HubSpot integriert und verbindet Website-Chat, WhatsApp und Facebook Messenger; sie wird von HubSpot entwickelt und gepflegt, einem 2006 gegründeten börsenkotierten Unternehmen.",
+    "summary_abuse": "HubSpot Chat bettet ein Live-Chat-Widget in Websites ein und sammelt Interaktionsdaten von Besuchern, die im HubSpot CRM gespeichert werden. Als Teil der breiteren HubSpot-Plattform teilt es deren Datenschutz- und Datenerfassungsmerkmale. Für das Chat-Widget selbst sind keine spezifischen Missbrauchsmuster dokumentiert, abgesehen von den allgemeinen Risiken der HubSpot-Plattform."
+  },
+  "HubSpot CMS Hub": {
+    "description": "CMS Hub ist eine Content-Management-Plattform von HubSpot, mit der Marketer Inhalte auf Websites, Blogs und Landingpages verwalten, optimieren und ihre Performance nachverfolgen können.",
+    "history": "HubSpot CMS Hub ist die Website- und Content-Management-Komponente der HubSpot-Plattform und wurde als integriertes CMS mit enger Anbindung an HubSpots CRM eingeführt. Etwa 2022 bis 2023 wurde sie in Content Hub umbenannt, um breitere Content-Management-Funktionen über den Websitebau hinaus abzubilden. Entwickelt und gepflegt wird sie von HubSpot, einem 2006 in Cambridge, Massachusetts gegründeten börsenkotierten Unternehmen.",
+    "summary_abuse": "Seiten von HubSpot CMS Hub wurden gelegentlich genutzt, um Phishing-Landingpages zu hosten, die legitime Marken nachahmen, etwa über die Domain hubspotpagebuilder.com oder eigene Domains. Wie bei allen Website-Buildern erzeugt ein Free-Tier mit Custom-Domain-Support ein gewisses Missbrauchsrisiko. HubSpot entfernt gemeldete Phishing-Inhalte aktiv und betreibt einen Meldeweg für Missbrauch."
+  },
+  "HubSpot Cookie Policy Banner": {
+    "description": "HubSpot Cookie Policy Banner ist eine Cookie-Compliance-Funktion von HubSpot.",
+    "history": "HubSpot Cookie Policy Banner ist eine Funktion für Cookie-Einwilligung und Compliance innerhalb des HubSpot CMS und der Marketingplattform; sie wurde eingeführt, um Kunden bei der Einhaltung von GDPR und ePrivacy-Regeln zu unterstützen. HubSpot wurde 2006 gegründet und ging 2014 an die Börse. Die Cookie-Banner-Funktion gehört seit der Einführung der GDPR-Compliance-Funktionen um 2018 zur Plattform.",
+    "summary_abuse": "HubSpot Cookie Policy Banner zeigt keine nennenswerten Missbrauchssignale. Es ist eine Compliance-Funktion der HubSpot-Plattform zur Einholung und Verwaltung von Cookie-Einwilligungen. Als Funktion eines grossen börsenkotierten Unternehmens mit sichtbarem Compliance- und Sicherheitsprogramm ist sie kein bekannter Vektor für Betrug oder Scams."
+  },
+  "HubSpot WordPress plugin": {
+    "description": "HubSpot ist eine Plattform mit Tools und Integrationen für Marketing, Vertrieb und Kundenservice. Das HubSpot WordPress plugin ermöglicht Kontaktverwaltung (CRM), Besucheransprache mit Live-Chat und Chatbots, schöne Formulare auf Seiten, E-Mail-Marketing-Kampagnen und mehr.",
+    "history": "Das HubSpot WordPress plugin, ursprünglich Leadin genannt, wurde von HubSpot erstellt und im WordPress-Plugin-Verzeichnis veröffentlicht. HubSpot wurde 2006 von Brian Halligan und Dharmesh Shah gegründet und ging 2014 an die Börse. Das WordPress-Plugin dient als Integrationspunkt, der WordPress-Websites mit HubSpots CRM, Formularen, Live-Chat und Analytics-Tools verbindet.",
+    "summary_abuse": "Das HubSpot WordPress plugin weist ein geringes Missbrauchssignal auf. Es ist ein offizielles Integrationsplugin eines börsenkotierten Unternehmens und verbindet WordPress mit HubSpot-CRM-Diensten. Das Plugin bettet HubSpot-Tracking-Code ein, der Besucherdaten sammelt. Das entspricht seinem erklärten Zweck, und HubSpot veröffentlicht GDPR DPA, SOC 2-Zertifizierung und eine AUP."
+  },
+  "Hubtiger": {
+    "description": "Hubtiger bietet Softwarelösungen für Vermietungs- und Werkstattmanagement, mit denen Unternehmen Abläufe und Effizienz verbessern können.",
+    "history": "Hubtiger wurde 2018 in Johannesburg, Südafrika, von Stuart Blyth als Software für Vermietungs- und Werkstattmanagement in Velogeschäften lanciert. Die Plattform wird von rund 300 Geschäften in 15 Ländern genutzt.",
+    "summary_abuse": "Hubtiger ist ein spezialisiertes Werkstattmanagement-SaaS für Velogeschäfte ohne nennenswerte Missbrauchssignale."
+  },
+  "Huckabuy": {
+    "description": "Huckabuy ist ein Softwareprodukt, das Googles Initiativen für Dynamic Rendering und strukturierte Daten nutzt, um organisches Kanalwachstum zu verbessern.",
+    "history": "Huckabuy wurde von Geoff Atkinson, dem früheren SVP Marketing von Overstock.com, in Park City, Utah gegründet. Es ist ein technisches SEO-SaaS, das Markup für strukturierte Daten und Dynamic Rendering automatisiert, um die organische Suchperformance zu verbessern.",
+    "summary_abuse": "Huckabuy ist eine technische SEO-Plattform ohne nennenswerte Missbrauchssignale; sie verarbeitet Website-Metadaten, hostet aber keine Nutzerinhalte."
+  },
+  "Huddle": {
+    "description": "Huddle ist eine Digital-Product-Agentur mit Sitz in Amsterdam, Niederlande, die sich auf Entwicklung und Design individueller Softwarelösungen für Startups und Unternehmen spezialisiert, darunter E-Learning-Produkte, Community-Plattformen und mobile Apps.",
+    "history": "Huddle ist eine Digital-Product-Agentur mit Sitz in Amsterdam, Niederlande, die sich auf individuelle Softwareentwicklung und Design spezialisiert. Es sind keine nennenswerten Übernahmen oder Eigentümerwechsel bekannt.",
+    "summary_abuse": "Huddle ist eine Digitalagentur, die individuelle Software baut; sie bietet kein öffentliches Content-Hosting für Endnutzer und zeigt keine nennenswerten Missbrauchssignale."
+  },
+  "Huggy": {
+    "description": "Huggy ist eine Service-Automation-Plattform, die Abläufe zentralisiert und Chatbots integriert, die jederzeit antworten können.",
+    "history": "Huggy ist eine brasilianische Plattform für Service-Automation und Chatbots, die Kommunikationskanäle mit Kunden zentralisiert. Es sind keine nennenswerten Eigentümerwechsel bekannt.",
+    "summary_abuse": "Huggy ist eine Plattform für Kundenautomatisierung und Chatbots ohne nennenswerte Missbrauchssignale; sie wird vor allem von Support-Teams in Unternehmen genutzt."
+  },
+  "Hugo": {
+    "description": "Hugo ist ein in Go geschriebener Open-Source-Static-Site-Generator.",
+    "history": "Hugo wurde 2013 von Steve Francia erstellt und ist in Go gebaut. Es gehört zu den weltweit beliebtesten Static-Site-Generatoren und ist für seine aussergewöhnliche Build-Geschwindigkeit bekannt. Das Projekt ist unter der Apache 2.0-Lizenz Open Source, wird auf GitHub mit Tausenden Beitragenden gehostet und wird breit für Dokumentationsseiten, Blogs und Unternehmenswebsites genutzt.",
+    "summary_abuse": "Hugo zeigt keine nennenswerten Missbrauchssignale. Es ist ein Static-Site-Generator, der einfache HTML-Dateien ausgibt, die vom Betreiber bereitgestellt werden. Es gibt keinen gehosteten Dienst oder keine Plattform, die Betrüger ausnutzen könnten. Missbrauch würde vom Hosting der Ausgabedateien abhängen, nicht von Hugo selbst."
+  },
+  "HulkApps Age Verification": {
+    "description": "HulkApps Age Verification lässt Kunden ihr Alter bestätigen, bevor sie deinen Store betreten.",
+    "history": "HulkApps Age Verification ist eine Shopify-App von HulkApps, einem Shopify-App-Entwickler, die Online-Shops mit altersbeschränkten Produkten Age-Gate-Popups hinzufügt.",
+    "summary_abuse": "HulkApps Age Verification ist eine Shopify-Compliance-App für Shops mit altersbeschränkten Produkten. Es gibt keine nennenswerten Missbrauchssignale, da sie Altersbeschränkungen durchsetzt statt umgeht."
+  },
+  "HulkApps Form Builder": {
+    "description": "HulkApps Form Builder ist eine Anwendung zum Erstellen anpassbarer, zweckspezifischer Formulare für jeweilige Anforderungen.",
+    "history": "HulkApps Form Builder ist eine von mehr als 18 Shopify-Apps von HulkApps, einem Shopify-Expert-Unternehmen mit Hauptsitz in Chicago. HulkApps wurde 2012 gegründet, begann mit Shopify-Themes und expandierte später ins App-Ökosystem. Das Unternehmen wuchs auf über 250 Mitarbeitende mit Teams in den USA, Indien und Bosnien. Es sind keine nennenswerten Eigentümerwechsel oder Übernahmen dokumentiert.",
+    "summary_abuse": "HulkApps Form Builder ist eine Shopify-App zum Erstellen individueller Formulare; sie läuft innerhalb des Shopify-Ökosystems und hat keine eigenständige Hosting-Oberfläche. Es sind keine dokumentierten Missbrauchsvorfälle mit dieser spezifischen App oder HulkApps als Entwickler verbunden."
+  },
+  "HulkApps GDPR/CCPA Compliance Manager": {
+    "description": "HulkApps GDPR/CCPA Compliance Manager ist eine Consent-Management-Lösung.",
+    "history": "HulkApps GDPR/CCPA Compliance Manager ist eine Cookie-Consent- und Datenschutz-Compliance-App für Shopify-Shops, entwickelt von HulkApps, einer 2012 gegründeten Shopify-Expert-Agentur aus Chicago. Die App hilft Händlern, Cookie-Banner anzuzeigen und Einwilligungen gemäss GDPR und CCPA zu verwalten. Abgesehen von der allgemeinen Firmengeschichte von HulkApps sind keine nennenswerten Eigentümer- oder Rebranding-Ereignisse bekannt.",
+    "summary_abuse": "Dies ist ein Datenschutz-Compliance-Tool für Shopify-Händler ohne öffentliches Hosting oder Content-Oberfläche für Endnutzer. Es gibt keine dokumentierten Missbrauchssignale."
+  },
+  "HulkApps Infinite Product Options": {
+    "description": "HulkApps Infinite Product Options bietet unbegrenzte benutzerdefinierte Optionen für Produkte, darunter Varianten als Buttons, Farb- und Bild-Swatches und mehr.",
+    "history": "HulkApps Infinite Product Options ist eine Shopify-App, mit der Händler unbegrenzt benutzerdefinierte Produktoptionen und Varianten hinzufügen können; sie wird von HulkApps entwickelt, einer 2012 gegründeten Shopify-Expert-Agentur aus Chicago. Die App gehört zu den beliebtesten Angeboten von HulkApps im Shopify App Store.",
+    "summary_abuse": "HulkApps Infinite Product Options ist eine Shopify-App für Produktanpassungen ohne eigenständiges Hosting oder öffentliche Endnutzer-Oberfläche. Es sind keine Missbrauchsvorfälle mit dieser App dokumentiert."
+  },
+  "HulkApps Product Reviews": {
+    "description": "HulkApps Product Reviews ist eine App für Kundenbewertungen, mit der Shops Social Proof für Produkte aufbauen können.",
+    "history": "HulkApps Product Reviews ist eine App zum Sammeln und Anzeigen von Kundenbewertungen in Shopify-Shops; sie wird von HulkApps entwickelt, einer 2012 gegründeten Shopify-Expert-Agentur aus Chicago. Händler können damit Social Proof auf Produktseiten sammeln, moderieren und darstellen.",
+    "summary_abuse": "HulkApps Product Reviews ist eine Shopify-Bewertungs-App. Bewertungsplattformen können theoretisch für gefälschte Bewertungen missbraucht werden, aber der Anbieter kontrolliert die Moderationswerkzeuge und arbeitet innerhalb des Shopify-Ökosystems. Es sind keine spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "Hull": {
+    "description": "Hull ist eine Plattform, die Produkt-, Marketing- und Vertriebsdaten sammelt, vereinheitlicht und anreichert und sie anschliessend über verschiedene Tools hinweg synchronisiert.",
+    "history": "Hull wurde 2013 in Atlanta und Paris als B2B Customer Data Platform (CDP) gegründet. Das Unternehmen nahm an Techstars teil und erhielt Venture-Finanzierung. MessageBird, heute Bird, übernahm Hull im März 2021, um seiner Omnichannel-Kommunikationsplattform CDP-Funktionen hinzuzufügen.",
+    "summary_abuse": "Hull ist eine B2B Customer Data Platform ohne nennenswerte Missbrauchssignale; sie verarbeitet Marketing- und Vertriebsdaten von Unternehmen, statt Inhalte für Endnutzer zu hosten."
+  },
+  "Human Presence": {
+    "description": "Human Presence ist Software für Bot-Erkennung und Spam-Schutz für WordPress und Shopify.",
+    "history": "Human Presence ist ein WordPress-Spamschutzdienst, der per Verhaltensanalyse menschliche Besucher erkennt, etwa über Tastatur-, Maus- und Touchpad-Tracking, statt CAPTCHA-Abfragen zu verlangen. Er integriert sich mit beliebten WordPress-Formularplugins wie Gravity Forms, WPForms und Contact Form 7. Das Unternehmen ist klein, unabhängig und auf das WordPress-Ökosystem fokussiert.",
+    "summary_abuse": "Human Presence ist ein Anti-Spam- und Bot-Erkennungsdienst für WordPress-Formulare. Sein Zweck ist es, Missbrauch zu verhindern, nicht ihn zu ermöglichen. Der verwendete Behavioral-Fingerprinting-Ansatz sammelt Interaktionsdaten von Website-Besuchern, was ein Datenschutzthema ist, auch wenn die Daten nur zur Bot-Erkennung genutzt werden. Ein Missbrauch des Dienstes selbst ist nicht dokumentiert."
+  },
+  "Humblytics": {
+    "description": "Humblytics ist ein Analytics-Tool, das Tracking von Custom Events ohne Programmierung vereinfacht. Es überwacht Echtzeitmetriken, optimiert Conversion Rates und liefert wertvolle Einblicke.",
+    "history": "Humblytics startete 2023 in Toronto, Kanada, und positionierte sich als privacy-first Webanalyse-Plattform. Im Dezember 2023 nahm das Unternehmen 1,1 Millionen Dollar Seed-Finanzierung auf. Die Plattform kombiniert cookielose Analytics, A/B-Testing, Heatmaps und Funnel-Analytics mit GDPR-freundlichen Standardeinstellungen und richtet sich als Google-Analytics-Alternative an Solo-Entwickler, kleine Teams und Agenturen.",
+    "summary_abuse": "Humblytics zeigt keine nennenswerten Missbrauchssignale. Es ist eine privacy-first Analytics-Plattform, die ausdrücklich auf die Erfassung von PII verzichtet. Es sind keine dokumentierten betrügerischen Einsatzmuster damit verbunden."
+  },
+  "HumCommerce": {
+    "description": "HumCommerce ist eine Plattform mit Ecommerce-Lösungen für B2B- und B2C-Marken, mit Fokus auf bessere Online-Verkäufe und stärkere Kundenbindung.",
+    "history": "HumCommerce ist eine Ecommerce-Plattform für B2B- und B2C-Lösungen. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "HumCommerce ist eine Ecommerce-Plattform ohne nennenswerte Missbrauchssignale."
+  },
+  "HumHub": {
+    "description": "HumHub ist eine Softwareplattform, die organisatorische Prozesse digitalisiert, indem sie strukturierte interne Kommunikation, Zusammenarbeit und Informationsaustausch ermöglicht.",
+    "history": "HumHub ist ein Open-Source Enterprise Social Network und eine Intranet-Plattform auf PHP-Basis mit dem Yii-Framework; sie wurde etwa 2013 von einem deutschen Entwicklungsteam erstellt. Die Software ist selbst hostbar und unter LGPL-3.0 verfügbar, zusätzlich wird eine SaaS-Option angeboten. HumHub unterstützt mehr als 30 Sprachen und wird weltweit in über 4'500 Organisationen genutzt.",
+    "summary_abuse": "HumHub zeigt nur minimale Missbrauchssignale. Es ist ein selbst gehostetes Enterprise Social Network für interne Teamkommunikation. Es sind keine dokumentierten Muster bekannt, nach denen Betrüger es ausnutzen, auch wenn falsch konfigurierte Self-Hosted-Installationen interne Daten offenlegen können."
+  },
+  "Humm": {
+    "description": "Humm, früher Flexigroup, ist ein Buy-now-pay-later-Dienst in Australien.",
+    "history": "Humm ist ein australischer Buy-now-pay-later-Dienst (BNPL), der neben Afterpay und Zip zu den wichtigen Anbietern im australischen Markt gehörte. Im Juni 2025 wurde das BNPL-Produkt humm Classic eingestellt. Das Unternehmen erhielt 2023 von ASIC eine vorläufige Stop Order nach einer Prüfung seiner Kreditvergabepraktiken. Ab dem 10. Juni 2025 wechselte das Geschäft zu einem neuen Produktmodell.",
+    "summary_abuse": "Humm erhielt 2023 während einer Prüfung seiner Buy-now-pay-later-Kreditvergabepraktiken eine vorläufige Stop Order von ASIC, was auf regulatorische Bedenken gegenüber dem Verbraucherfinanzierungsansatz hinweist. BNPL-Dienste bergen allgemein das Risiko, Verbraucherüberschuldung zu begünstigen, und stehen wegen unzureichender Kreditwürdigkeitsprüfungen in der Kritik. Die australische Regierung verabschiedete den Treasury Laws Amendment (Responsible Buy Now Pay Later) Bill 2024, um branchenweite Bedenken anzugehen."
+  },
+  "Hummerce": {
+    "description": "Hummerce ist eine B2C/B2B-Ecommerce-Plattform, die Online-Verkäufe mit einer stabilen und skalierbaren Grundlage unterstützt.",
+    "history": "Hummerce ist eine B2C/B2B-Ecommerce-Plattform, die stabile und skalierbare Infrastruktur für Online-Verkäufe bereitstellt. Es sind keine nennenswerten Eigentümer- oder Übernahmeereignisse dokumentiert.",
+    "summary_abuse": "Hummerce ist eine B2B-Ecommerce-Plattform ohne dokumentierte Missbrauchssignale."
+  },
+  "Hund.io": {
+    "description": "Hund.io bietet automatisierte Statusseiten mit Monitoring.",
+    "history": "Hund.io ist ein gehosteter Statusseiten-Dienst, der Monitoring, Statusseiten und Incident Management in einer Plattform verbindet. Er wurde entwickelt, um die Lücke zwischen Monitoring-Tools und Kommunikationstools im Statusseiten-Markt zu schliessen. Hund.io konkurriert mit Atlassian Statuspage und Status.io und fällt durch einen entwicklerzentrierten Ansatz mit vollständiger Terraform-Unterstützung und nutzungsbasierter Preisgestaltung auf.",
+    "summary_abuse": "Hund.io ist eine Statusseiten- und Monitoring-Plattform für Engineering-Teams ohne relevante öffentliche Angriffsfläche für Endnutzer. Die Dienste werden von legitimen Unternehmen genutzt, um Systemstatus zu kommunizieren. Eine dokumentierte Missbrauchsgeschichte gibt es nicht."
+  },
+  "HurryTimer": {
+    "description": "HurryTimer ist ein modernes WordPress-Plugin, mit dem Nutzer anpassbare, geplante Countdown-Timer erstellen können, um Besucher stärker einzubinden und Conversions zu steigern.",
+    "history": "HurryTimer ist ein WordPress-Plugin zum Erstellen von Countdown-Timern und im WordPress-Plugin-Verzeichnis verfügbar. Es bietet eine kostenlose Version sowie Premium-Addons. Es sind keine nennenswerten Eigentümer- oder Übernahmeereignisse dokumentiert.",
+    "summary_abuse": "HurryTimer ist ein Countdown-Timer-Plugin für WordPress. Wie andere Urgency- und Scarcity-Tools kann es für Dark-Pattern-Countdowns auf manipulativen Verkaufsseiten verwendet werden. Auf Plattformebene ist für das Plugin selbst jedoch kein Missbrauch dokumentiert."
+  },
+  "Hushly": {
+    "description": "Hushly ist eine All-in-one-Plattform für B2B-Marketingsoftware.",
+    "history": "Hushly wurde etwa 2013 als B2B-Plattform für Content Engagement und Lead Conversion gegründet und nutzt KI-gestützte Personalisierung. Das Unternehmen hat seinen Sitz in den USA und hilft B2B-Marketern, den ROI von Inhalten durch KI-basierte Empfehlungen und Formularoptimierung zu verbessern. Es sind keine nennenswerten Eigentümerwechsel oder Kontroversen bekannt.",
+    "summary_abuse": "Hushly ist eine B2B-Marketingplattform ohne nennenswerte Missbrauchssignale. Die Plattform sammelt im Auftrag ihrer Kunden Lead-Daten wie E-Mail-Adressen und Formularübermittlungen, was übliche Datenschutzaspekte mit sich bringt, aber kein dokumentierter Missbrauch ist. Der Anbieter veröffentlicht eine Datenschutzerklärung und unterstützt seine Kunden bei GDPR-Compliance."
+  },
+  "Hydra-Shield": {
+    "description": "Hydra-Shield ist ein Anti-DDoS-Reverse-Proxy, der bösartigen Traffic filtert und abschwächt, um Server vor Distributed-Denial-of-Service-Angriffen zu schützen.",
+    "history": "Hydra-Shield ist ein französischer Anti-DDoS-Schutzdienst, der als Reverse Proxy bösartigen Traffic filtert und abschwächt. Der Dienst mit Sitz in Val d'Oight, Frankreich, wurde etwa 2020 gegründet und richtet sich an kleine bis mittelgrosse Websites, die Layer-7-DDoS-Schutz benötigen. Die Plattform bietet Webschutz und IP-Tunnel-Funktionen für Server. Es ist ein kleines unabhängiges französisches Cybersecurity-Startup mit begrenzter öffentlicher Präsenz ausserhalb der eigenen Website und Trustpilot-Bewertungen. Im französischen Markt konkurriert der Dienst mit grösseren Anbietern wie Cloudflare und OVH, unter anderem durch lokalisierten Support.",
+    "summary_abuse": "Es wurden keine Missbrauchsbedenken identifiziert. Hydra-Shield ist ein legitimer Anti-DDoS-Dienst. Als Reverse-Proxy- und Infrastrukturanbieter verarbeitet er Traffic im Auftrag von Kunden, was die üblichen Risiken jedes CDN oder Sicherheitsproxys mit sich bringt, etwa mögliche Zweckentfremdung durch Kunden. Es sind jedoch keine Missbrauchsvorfälle durch den Betreiber selbst dokumentiert. Als kleines französisches Startup fehlen formelle Sicherheitszertifizierungen, der Anbieter unterliegt aber EU- und französischem Recht."
+  },
+  "Hydrogen": {
+    "description": "Hydrogen ist ein Frontend-Webentwicklungsframework zum Erstellen individueller Shopify-Storefronts.",
+    "history": "Hydrogen ist Shopifys Open-Source-Framework für Headless Commerce auf React-Basis. Es wurde ab 2021 entwickelt und erstmals an der Shopify Unite 2022 öffentlich veröffentlicht. Es ermöglicht Entwicklern, individuelle Storefronts mit Shopifys Storefront API, React Server Components, optimiertem Caching und eingebauten Commerce-Primitiven zu bauen. Das MIT-lizenzierte GitHub-Repository hat 2'691 Commits und 449 Releases, wobei das jüngste Release im April 2026 die aktive Pflege bestätigt. Shopify (TSX/NYSE: SHOP) ist ein börsenkotiertes kanadisches Unternehmen. Hydrogen ist für Deployment auf Oxygen, Shopifys Hosting, oder in jeder Node.js-kompatiblen Umgebung ausgelegt. Die Begleitbibliothek @shopify/hydrogen-react kann frameworkagnostisch genutzt werden.",
+    "summary_abuse": "Es gibt keine Missbrauchsbedenken. Hydrogen ist ein offizielles Open-Source-Framework, das von Shopify, einem börsenkotierten und angesehenen Unternehmen, gepflegt wird. Die MIT-Lizenz sorgt für vollständige Code-Transparenz und Prüfbarkeit. Es sind keine Sicherheitslücken oder bösartigen Verhaltensweisen gemeldet. Shopify betreibt ein Responsible-Disclosure-Programm und ein Bug Bounty. Das Framework ist strikt ein Build-Tool und sammelt zur Laufzeit selbst keine Daten."
+  },
+  "HypeLab": {
+    "description": "HypeLab ist eine Plattform, die Audience Development unterstützt, indem sie Sichtbarkeit erhöht, Wiedererkennung fördert und beim Aufbau einer loyalen Community hilft.",
+    "history": "HypeLab wurde 2022 in San Francisco von Edward Weng, früher PM bei Google AdMob, und Joseph Kim gegründet. Das Unternehmen nahm 4 Millionen Dollar Seed-Finanzierung unter Führung von Shima Capital und Makers Fund auf, um ein Web3-Krypto-Werbenetzwerk mit On-Chain-Wallet-aware Targeting aufzubauen.",
+    "summary_abuse": "HypeLab ist ein Krypto- und Web3-Werbenetzwerk. Krypto-Werbenetzwerke wurden mit der Verbreitung von Scam-ICO-, Rug-Pull- und Phishing-Anzeigen in Verbindung gebracht. Das Nutzertracking über On-Chain-Wallet-Daten wirft Datenschutzfragen auf. Zu den Kunden gehören legitime Web3-Projekte, aber der Krypto-Werbesektor hat insgesamt einen überdurchschnittlich hohen Anteil betrügerischer Werbekampagnen."
+  },
+  "Hypercloudhost": {
+    "description": "Hypercloudhost ist ein Hosting-Dienst in Indonesien mit Anti-DDoS-Schutz und leistungsstarkem Cloud-Hosting.",
+    "history": "Hypercloudhost ist ein indonesischer Webhosting-Anbieter mit Anti-DDoS-Schutz. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hypercloudhost ist ein kleiner indonesischer Hosting-Anbieter. Wie bei Shared-Hosting-Plattformen kann ein Teil der gehosteten Websites missbräuchlich genutzt werden, aber es sind keine spezifischen dokumentierten Kampagnen dem Anbieter zugeordnet."
+  },
+  "Hypercorn": {
+    "description": "Hypercorn ist ein ASGI-Webserver, der HTTP/1, HTTP/2, WebSockets, ASGI/2 und ASGI/3 unterstützt und für asynchrone Abläufe asyncio, uvloop oder trio nutzen kann.",
+    "history": "Hypercorn ist ein Open-Source-Python-ASGI-Webserver, erstellt von Philip Jones und etwa 2018 erstmals veröffentlicht. Er unterstützt HTTP/1, HTTP/2, HTTP/3 und WebSockets und ist für asynchrone Python-Webframeworks konzipiert.",
+    "summary_abuse": "Hypercorn ist ein Python-ASGI-Webserver ohne Missbrauchssignal. Es ist ein Entwickler-Infrastrukturtool, das auf privaten Servern installiert wird und keine gehostete Dienstkomponente mit öffentlicher Endnutzer-Oberfläche hat."
+  },
+  "Hyperia": {
+    "description": "Hyperia ist ein Tool für Lead-Generierung und Affiliate-Marketing.",
+    "history": "Hyperia ist ein slowakisches Tool für Lead-Generierung und Affiliate-Marketing (hyperia.sk). Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hyperia ist eine Plattform für Lead-Generierung und Affiliate-Marketing. Affiliate- und Lead-Gen-Tools können für Spam oder betrügerische Lead-Erfassung missbraucht werden, aber es sind keine spezifischen dokumentierten Vorfälle zu Hyperia bekannt."
+  },
+  "Hyperlane": {
+    "description": "Hyperlane ist eine Hosting-Plattform für Websites mit WordPress und Craft CMS.",
+    "history": "Hyperlane ist eine leichtgewichtige Rust-HTTP-Serverbibliothek und ein Webframework auf Basis der Tokio-Async-Runtime. Das Projekt entstand etwa 2024 und positionierte sich als performante Alternative zu schwergewichtigeren Rust-Webframeworks. Es fand Beachtung in Entwicklerblogs, hat aber eine sehr kleine Nutzerbasis.",
+    "summary_abuse": "Hyperlane zeigt keine nennenswerten Missbrauchssignale. Es ist eine Backend-HTTP-Bibliothek für Rust-Entwickler ohne öffentliche Endnutzer-Oberfläche."
+  },
+  "Hyperspeed": {
+    "description": "Hyperspeed ist ein fortgeschrittener Speed Booster für Shopify.",
+    "history": "Hyperspeed ist eine Shopify-App zur Performance-Optimierung von Storefronts, also ein Speed Booster. Es sind keine nennenswerten Eigentümer- oder Übernahmeereignisse dokumentiert.",
+    "summary_abuse": "Hyperspeed ist eine Shopify-Performance-App ohne dokumentierte Missbrauchssignale; ihre Funktion ist rein technische Optimierung ohne öffentliches Content-Hosting für Endnutzer."
+  },
+  "Hypervisual Page Builder": {
+    "description": "Hypervisual Page Builder ist ein Page Builder für Shopify.",
+    "history": "Hypervisual Page Builder ist eine Shopify-Page-Builder-App zum Erstellen individueller Landing- und Produktseiten. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hypervisual Page Builder ist ein Shopify-Page-Builder ohne nennenswerte Missbrauchssignale."
+  },
+  "Hypestyle CSS": {
+    "description": "Hypestyle CSS ist eine kleine CSS-Bibliothek, die auf Utility-Klassen und Komponenten basiert.",
+    "history": "Hypestyle CSS ist eine kleine Open-Source-CSS-Utility-Bibliothek. Öffentlich ist nur wenig zur Gründungsgeschichte verfügbar.",
+    "summary_abuse": "Hypestyle CSS ist eine kleine CSS-Bibliothek ohne nennenswerte Missbrauchssignale."
+  },
+  "Hyros": {
+    "description": "Hyros ist eine Plattform für Marketing-Analytics und Optimierung.",
+    "history": "Hyros wurde 2019 von Alex Becker in Austin, Texas, als KI-gestützte Plattform für Ad Tracking und Attribution gegründet und richtet sich an Digital Marketer und SaaS-Unternehmen. Im Dezember 2022 wurde Hyros von Banzai International für 110 Millionen Dollar übernommen. Die Plattform nutzt serverseitiges Tracking und patentierte KI, um Attributionsdaten unabhängig von Ad-Platform-Pixeln bereitzustellen.",
+    "summary_abuse": "Hyros ist eine Ad-Tracking-Plattform mit geringem direktem Missbrauchsrisiko; sie sammelt First-Party-Conversion-Daten im Auftrag ihrer Kunden und betreibt keine öffentlichen Endnutzer-Oberflächen, die ausgenutzt werden könnten. Als serverseitiges Tracking-Tool injiziert sie keine clientseitigen Scripts, die häufig missbraucht werden. Es sind keine dokumentierten Missbrauchsvorfälle oder Sicherheitsforschungsberichte zur Plattform bekannt."
+  },
+  "Hyva Themes": {
+    "description": "Hyva Themes ist ein performanceoptimiertes Theme für Magento 2, das Drittanbieterbibliotheken entfernt und nur zwei Abhängigkeiten nutzt: Alpine.js und Tailwind CSS.",
+    "history": "Hyvä Themes wurde vom niederländischen Entwickler Willem Wigman erstellt und im Februar 2021 als performantes Magento-2-Frontend-Framework mit Tailwind CSS und Alpine.js lanciert. Es ersetzt Magentos langsames RequireJS/Knockout-Frontend. Seit November 2025 ist das Theme vollständig kostenlos und Open Source unter den Lizenzen OSL 3.0 und AFL 3.0 verfügbar.",
+    "summary_abuse": "Hyvä Themes ist ein Open-Source-Theme für Magento 2 ohne nennenswerte Missbrauchssignale. Es ist eine selbst gehostete Frontend-Bibliothek ohne öffentliche Endnutzer-Oberfläche, die ausgenutzt werden könnte."
+  }
+}

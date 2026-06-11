@@ -1,0 +1,926 @@
+{
+  "V2Board": {
+    "description": "V2Board ist ein Multi-Agent-Protokollverwaltungssystem mit einer Oberfläche zur Verwaltung mehrerer Proxy-Protokolle.",
+    "history": "V2Board ist ein chinesisches Open-Source-Verwaltungspanel für Proxy-Protokolle, das vor allem mit V2Ray und ähnlichen Proxy-Protokollen genutzt wird. Es entstand um 2019 als Weboberfläche zur Verwaltung von Proxy-Abonnements und wird häufig eingesetzt, um Internetzensur in China zu umgehen.",
+    "summary_abuse": "V2Board birgt ein deutliches Missbrauchsrisiko. Es ist ein Verwaltungspanel für Proxy-Protokolle wie V2Ray, Shadowsocks und Trojan, die primär zur Umgehung von Internetzensur eingesetzt werden. Für datenschutzbewusste Nutzer in zensierten Regionen gibt es legitime Anwendungen, doch dieselbe Infrastruktur wird häufig für kommerzielle VPN-ähnliche Dienste genutzt, die böswilligen Akteuren anonymen Internetzugang erleichtern können. V2Board taucht zudem in Sicherheitsforschung zu Proxy-Missbrauch und Diensten zur Traffic-Verschleierung auf."
+  },
+  "v4Guard Checkpoint": {
+    "description": "Checkpoint ist ein Produkt von v4Guard, das Website-Nutzer prüft und betrügerischen Zugriff auf sensible Bereiche verhindert, indem es die Nutzung von Anonymisierungsdiensten mit einem CAPTCHA-ähnlichen Widget erkennt.",
+    "history": "v4Guard Checkpoint ist ein Website-Sicherheitsprodukt von v4Guard, das Nutzer verifiziert und Zugriffe über Anonymisierungsdienste mit einem CAPTCHA-ähnlichen Widget blockiert. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "v4Guard Checkpoint zeigt kein nennenswertes Missbrauchssignal. Das Sicherheits-Widget soll anonymisierte oder betrügerische Zugriffe verhindern und ist selbst nicht als Werkzeug für Angreifer bekannt."
+  },
+  "Vaadin": {
+    "description": "Vaadin ist ein Open-Source-Framework zum Erstellen von Benutzeroberflächen und Single-Page-Anwendungen mit Java und TypeScript.",
+    "history": "Vaadin wurde Anfang der 2000er-Jahre bei IT Mill in Finnland als AJAX-UI-Framework für Java entwickelt. Das Unternehmen benannte sich um 2010 in Vaadin Ltd um, und das Framework wurde unter Apache 2.0 als Open Source veröffentlicht. Vaadin wird über mehrere grosse Versionslinien hinweg aktiv weiterentwickelt, darunter Vaadin 7, 8, 14 und spätere Releases, mit einem kommerziellen Pro-Abonnement neben dem offenen Kern.",
+    "summary_abuse": "Vaadin ist ein Java/TypeScript-Webframework ohne nennenswertes Missbrauchssignal. Es ist ein backend-gerendertes UI-Toolkit für Enterprise-Java-Entwickler. Es gibt keine Endnutzer-Oberfläche und keine dokumentierte Nutzung in Phishing-, Malware- oder Betrugskampagnen."
+  },
+  "Vacation Labs": {
+    "description": "Vacation Labs ist eine Travel-Management-Plattform mit vollständig integrierter, mobil responsiver Buchungsengine.",
+    "history": "Vacation Labs wurde 2012 von Shubham Satyarth und Saurabh Nanda in Panaji, Indien, gegründet. Das Unternehmen bietet einen SaaS-basierten Website-Builder, eine Buchungsengine und operative Verwaltungstools für Tour- und Aktivitätenanbieter weltweit. Die Plattform bedient Anbieter in Nordamerika, Europa, Afrika und Asien, etwa in Bereichen wie Tauchen, Trekking, Camping und privaten Touren. Das Unternehmen hat eine kleine Seed-Finanzierungsrunde aufgenommen und arbeitet mit einem kleinen Team von 11 bis 50 Mitarbeitenden.",
+    "summary_abuse": "Vacation Labs ist eine SaaS-Plattform für Touranbieter ohne nennenswertes Missbrauchssignal. Die Plattform ermöglicht Buchungswebsites und Betriebsverwaltung, ohne dokumentierte Fälle von Phishing, Betrug oder Scam-Hosting; sie erfordert eine Händler-Einrichtung und steht anonymen Nutzern nicht frei offen."
+  },
+  "Vagaro": {
+    "description": "Vagaro ist eine Softwareplattform, mit der Unternehmen Termine online über ein zentrales Planungssystem verwalten und buchen lassen können.",
+    "history": "Vagaro wurde 2009 in Dublin, Kalifornien, als Terminplanungs- und Unternehmensverwaltungsplattform für Salons, Spas und Fitnessstudios gegründet. Das Unternehmen ist organisch gewachsen, bleibt unabhängig und bedient über 200'000 Fachpersonen.",
+    "summary_abuse": "Vagaro ist eine Termin- und Zahlungsplattform für Beauty- und Wellnessbetriebe; sie verarbeitet Zahlungen PCI-konform. Es sind keine nennenswerten Missbrauchsmuster dokumentiert; die Kundenbasis besteht aus kleinen Dienstleistungsunternehmen mit vertraglichen Konten."
+  },
+  "Valuad": {
+    "description": "Valuad ist eine Plattform, die Publishern algorithmusbasiertes Header Bidding zur Optimierung von Werbeerlösen bietet.",
+    "history": "Valuad ist eine algorithmusbasierte Header-Bidding-Plattform, mit der Publisher ihre Werbeerlöse optimieren können. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Valuad ist eine Programmatic-Advertising-Plattform für Header Bidding. Adtech-Plattformen können als Vektoren für Malvertising dienen, für Valuad selbst sind jedoch keine spezifischen dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "ValueCommerce": {
+    "description": "ValueCommerce ist ein Affiliate-Marketing-Netzwerk für performancebasierte Werbung.",
+    "history": "ValueCommerce wurde 1996 in Japan als eines der ersten Affiliate-Marketing-Netzwerke in Asien gegründet. Es ist vor allem im japanischen Markt tätig und mit Yahoo Japan verbunden, wodurch es grosse Reichweite bei japanischen Publishern und Werbetreibenden hat.",
+    "summary_abuse": "ValueCommerce ist ein japanisches Affiliate-Marketing-Netzwerk. Wie alle Affiliate-Plattformen kann es für Cookie Stuffing oder betrügerische Klickzuordnung missbraucht werden, operiert aber primär im regulierten japanischen Markt mit etablierter Publisher-Prüfung. Grössere öffentliche Vorfälle sind nicht dokumentiert."
+  },
+  "Vanco Payment Solutions": {
+    "description": "Vanco Payment Solutions bietet Kreditkartenabwicklung für Non-Profit-Organisationen.",
+    "history": "Vanco Payment Solutions wurde 1999 gegründet und ist auf elektronische Zahlungsabwicklung für Non-Profit-Organisationen, Kirchen und glaubensbasierte Organisationen spezialisiert. Es ist ein Nischen-Zahlungsanbieter mit Fokus auf wiederkehrende Spenden und Spendenverwaltung.",
+    "summary_abuse": "Vanco ist ein Zahlungsabwickler für Non-Profit- und religiöse Organisationen. Das Unternehmen ist PCI-DSS-konform und arbeitet in einem stark regulierten Umfeld. Nennenswerte Missbrauchsmuster sind nicht dokumentiert; der B2B-Fokus auf geprüfte Non-Profit-Kunden begrenzt das Risiko gegenüber Endnutzern."
+  },
+  "Vanilla": {
+    "description": "Vanilla ist eine cloudbasierte SaaS- und Open-Source-Software für Community-Foren.",
+    "history": "Vanilla Forums wurde 2005 von Mark O'Sullivan in Kanada als Open-Source-Community-Forum auf PHP-Basis entwickelt. Später wurde Vanilla Forums Inc. gegründet, um gehostete und Enterprise-Versionen anzubieten. 2019 wurde Vanilla Forums von Higher Logic übernommen, einem Anbieter für Community-Management-Plattformen.",
+    "summary_abuse": "Vanilla Forums ist eine Community-Forum-Plattform. Wie jede Community-Plattform können gehostete Foren bei unzureichender Moderation für Spam, Linkfarming oder die Verbreitung schädlicher Inhalte missbraucht werden. Selbst gehostete Instanzen unterliegen keiner Anbieteraufsicht. In der gehosteten Version stellt der Anbieter Moderationswerkzeuge und Spam-Filter bereit. Nennenswerte Missbrauchsvorfälle auf Plattformebene sind nicht dokumentiert."
+  },
+  "Vant": {
+    "description": "Vant ist eine leichtgewichtige, anpassbare Vue-UI-Bibliothek für mobile Web-Apps.",
+    "history": "Vant ist eine Open-Source-Bibliothek für Vue-UI-Komponenten in mobilen Web-Apps, entwickelt und gepflegt vom chinesischen E-Commerce-Unternehmen Youzan (有赞). Seit der ersten Veröffentlichung 2017 wurde sie zu einer der beliebtesten mobilen Vue-UI-Bibliotheken in China.",
+    "summary_abuse": "Vant ist eine Vue-UI-Komponentenbibliothek ohne Endnutzer-Oberfläche und ohne nennenswertes Missbrauchssignal. Es ist ein Frontend-Toolkit, mit dem Entwickler mobile Weboberflächen erstellen."
+  },
+  "Vanta": {
+    "description": "Vanta ist eine Plattform zur Automatisierung von Compliance für SOC 2, HIPAA, ISO 27001, PCI und GDPR.",
+    "history": "Vanta wurde 2018 von Christina Cacioppo und Austin Arensberg in San Francisco gegründet. Das Unternehmen erhielt umfangreiche VC-Finanzierung, darunter 2021 eine Series B über 40 Millionen US-Dollar und 2022 eine Series C über 150 Millionen US-Dollar bei einer Bewertung von 1,6 Milliarden US-Dollar, womit es zum Unicorn im Bereich Compliance-Automatisierung wurde. Vanta integriert sich mit grossen Cloud-Anbietern und SaaS-Tools, um Sicherheitskontrollen kontinuierlich zu überwachen.",
+    "summary_abuse": "Vanta ist eine Compliance-Automatisierungsplattform, die selbst SOC 2-, ISO 27001-, HIPAA- und PCI-Zertifizierungen hält; sie ist ein sicherheitsorientierter Anbieter ohne nennenswertes Missbrauchssignal. Das wichtigste Risikoprofil liegt im Datenzugriff: Vanta benötigt Integrationen mit Leserechten auf Cloud-Infrastruktur, was bei einer Kompromittierung von Vanta ein Supply-Chain-Risiko darstellen würde. Der Anbieter hat eine starke Responsible-Disclosure-Policy und eine solide Sicherheitsposition."
+  },
+  "Vantaca": {
+    "description": "Vantaca ist eine Performance-Software für Community Management, mit der Eigentümer, Betreiber, Community-Management-Teams, Buchhaltungsteams und Verbandsvorstände die Geschäftsentwicklung verbessern können.",
+    "history": "Vantaca ist ein US-amerikanisches Softwareunternehmen für Community-Association-Management, das HOA-Verwaltungsfirmen bedient. Es wurde um 2016 gegründet und fokussiert auf Property-Management-Technologie.",
+    "summary_abuse": "Vantaca ist eine spezialisierte B2B-Property-Management-Plattform für HOA-Community-Manager; sie hat keine Endnutzer-Oberfläche und kein dokumentiertes Missbrauchssignal."
+  },
+  "VAPTCHA": {
+    "description": "VAPTCHA steht für Variation Analysis based Public Turing Test to Tell Computers and Humans Apart, auch als Gesten-Verifizierungscode bekannt, und ist eine auf künstlicher Intelligenz und Big Data basierende Lösung zur Mensch-Maschine-Verifizierung.",
+    "history": "VAPTCHA ist ein chinesischer KI-basierter CAPTCHA- und Human-Verification-Dienst, der um 2016 gegründet wurde. Statt klassischer Text- oder Bild-CAPTCHAs nutzt er gestenbasierte Aufgaben und sammelt Verhaltensdaten, um Menschen von Bots zu unterscheiden.",
+    "summary_abuse": "VAPTCHA ist ein chinesischer CAPTCHA-Dienst. Wie alle CAPTCHA-Lösungen, die auf externen Websites eingebettet werden, sammelt er Verhaltensdaten von Endnutzern. Als Dienst mit Sitz in China entsprechen die Datenverarbeitungspraktiken möglicherweise nicht der GDPR oder anderen westlichen Datenschutzregeln. Ein dokumentiertes Muster betrugsspezifischen Missbrauchs gibt es nicht."
+  },
+  "Varbase": {
+    "history": "Varbase ist eine Drupal-Distribution von Vardot, einer Drupal-Agentur mit Sitz in Jordanien; sie wurde um 2014 erstmals veröffentlicht und bietet eine vorkonfigurierte Drupal-Umgebung mit Enterprise-Funktionen wie Mehrsprachigkeit, SEO-Optimierung und Content-Workflows. Vardot pflegt Varbase sowohl als Open-Source-Community-Projekt als auch als Enterprise-Produkt.",
+    "summary_abuse": "Varbase ist eine Drupal-Distribution ohne nennenswertes Missbrauchssignal. Als Open-Source-CMS-Framework stehen selbst gehostete Instanzen unter Kontrolle der jeweiligen Betreiber. Für Varbase selbst sind keine dokumentierten Missbrauchsmuster auf Plattformebene bekannt."
+  },
+  "Variance": {
+    "description": "Variance ist ein Anbieter von Werkzeugen für individuelle Diagramme und Datengrafiken auf Webplattformen mit HTML und CSS.",
+    "history": "Variance Charts ist eine kommerzielle JavaScript-Diagrammbibliothek, die individuelle Datengrafiken mit HTML und CSS für Webplattformen bereitstellt und unter variancecharts.com verfügbar ist. Das Produkt hat ein begrenztes öffentliches Profil; der aktuelle Entwicklungsstand und der Unternehmenshintergrund sind nicht gut dokumentiert.",
+    "summary_abuse": "Variance Charts ist eine JavaScript-Bibliothek zur Datenvisualisierung ohne nennenswertes Missbrauchssignal; sie ist ein Entwicklerwerkzeug ohne Endnutzer-Oberfläche, und es sind keine Missbrauchsfälle oder Sicherheitsvorfälle im Zusammenhang mit der Bibliothek dokumentiert."
+  },
+  "Varify": {
+    "description": "Varify ist eine A/B-Testing-Plattform mit Traffic-Flatrates für datenbasierte Webseitenoptimierung zur Steigerung von Conversions.",
+    "history": "Varify ist eine deutsche Plattform für A/B-Testing und Weboptimierung mit Traffic-Flatrate-Preisen für Conversion-Optimierung; sie wurde um 2020 gegründet und richtet sich an deutschsprachige E-Commerce- und SaaS-Unternehmen.",
+    "summary_abuse": "Varify ist ein Tool für A/B-Testing und Weboptimierung ohne nennenswertes Missbrauchssignal. Das eingebettete JavaScript sammelt Besucherverhaltensdaten für Conversion-Tests, was in dieser Kategorie üblich ist. Aufgrund der deutschen Herkunft wird eine GDPR-konforme Einbindung unterstützt."
+  },
+  "Variti": {
+    "description": "Variti ist ein Anbieter von Netzwerksicherheitslösungen, der schädliche Bots blockiert und Nutzer vor verschiedenen Formen automatisierten Missbrauchs, Angriffen und Betrugstechniken schützt.",
+    "history": "Variti wurde 2010 gegründet und hat seinen Hauptsitz in Luzern, Schweiz. Das Unternehmen spezialisiert sich auf DDoS-Schutz und aktive Bot-Abwehr mit proprietärer Echtzeit-Traffic-Analyse und Machine-Learning-Technologie.",
+    "summary_abuse": "Variti ist ein Sicherheitsanbieter für DDoS-Schutz und Bot-Mitigation ohne nennenswertes Missbrauchssignal. Es handelt sich um ein defensives Cybersecurity-Produkt und nicht um eine Oberfläche, die von Angreifern genutzt wird."
+  },
+  "Varnish": {
+    "description": "Varnish ist ein Reverse-Caching-Proxy.",
+    "history": "Varnish Cache wurde 2006 von Poul-Henning Kamp, einem FreeBSD-Entwickler, im Auftrag der norwegischen Zeitung Verdens Gang (VG) entwickelt. Es wurde schnell zum De-facto-Standard für HTTP-Reverse-Proxies und Caching auf Websites mit hohem Traffic. Varnish Software wurde gegründet, um kommerziellen Support und Enterprise-Funktionen anzubieten. Das Projekt steht unter BSD-Lizenz und bleibt eine der am weitesten verbreiteten Webbeschleunigungstechnologien.",
+    "summary_abuse": "Varnish Cache ist eine grundlegende Web-Caching- und Reverse-Proxy-Technologie ohne nennenswertes Missbrauchssignal. Es ist eine Backend-Infrastrukturkomponente ohne Endnutzer-Oberfläche, die Betrüger gezielt ausnutzen würden. Selbst gehostete Deployments liegen vollständig unter Kontrolle der Betreiber."
+  },
+  "Varos": {
+    "description": "Varos ist ein persönlicher Berater für Competitive Intelligence, Benchmarks und Marktforschung, der einen einmaligen Bericht zum Vergleich der eigenen Leistung mit dem Markt liefert.",
+    "history": "Varos wurde 2020 von Yarden Shaked und Lior Chen in San Francisco gegründet. Das Unternehmen entstand aus Y Combinator (W21) und nahm im Februar 2022 eine Seed-Runde über 4 Millionen US-Dollar unter Führung von Ibex Investors auf. Varos betreibt eine Benchmarking-Datenkooperative für DTC- und E-Commerce-Unternehmen, in der Marken Leistungskennzahlen wie ROAS, CAC und Umsatz anonym teilen und mit Branchenkollegen vergleichen können.",
+    "summary_abuse": "Varos ist eine Analytics-Plattform für Wettbewerbs-Benchmarking ohne nennenswertes Missbrauchssignal. Die Plattform aggregiert anonymisierte Geschäftsdaten teilnehmender Unternehmen und hat keine Endnutzer-Oberfläche, die Phishing oder Betrug anziehen würde. Für den Dienst sind keine Missbrauchsfälle dokumentiert."
+  },
+  "Vaven": {
+    "description": "Vaven ist eine Plattform, mit der Nutzer Werbe-Widgets auf Websites erstellen und anzeigen können, um ein personalisiertes Werbenetzwerk mit präzisem Targeting aufzubauen.",
+    "history": "Vaven ist eine Plattform zur Erstellung von Werbe-Widgets für Websites. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Vaven ist eine Plattform für Werbe-Widgets. Werbeplattformen, die nutzererstellte Widgets zulassen, können potenziell für Malvertising genutzt werden, für Vaven sind jedoch keine spezifischen dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "VB Media": {
+    "description": "VB Media ist eine E-Commerce-Plattform für den Online-Verkauf von Druckprodukten.",
+    "history": "VB Media ist eine auf den Online-Verkauf von Druckprodukten spezialisierte E-Commerce-Plattform. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "VB Media ist eine spezialisierte E-Commerce-Plattform für Druckprodukte ohne dokumentiertes nennenswertes Missbrauchssignal."
+  },
+  "vBulletin": {
+    "description": "vBulletin ist ein Werkzeug zum Erstellen und Verwalten von Online-Foren oder Diskussionsplattformen. Es ist in PHP geschrieben und nutzt einen MySQL-Datenbankserver.",
+    "history": "vBulletin wurde 2000 von John Percival und James Limm über Jelsoft Enterprises als kostenpflichtige PHP-Forenplattform entwickelt. Internet Brands übernahm vBulletin 2007 von Jelsoft. Die leitenden Entwickler verliessen das Projekt 2010 nach einem Streit mit Internet Brands und gründeten mit XenForo einen Wettbewerber. vBulletin bleibt ein aktives Produkt unter Internet Brands.",
+    "summary_abuse": "vBulletin-Installationen werden regelmässig von Hackern angegriffen, die bekannte Schwachstellen ausnutzen, darunter mehrere kritische RCE-Schwachstellen ab 2019. Kompromittierte vBulletin-Foren wurden für Spam, Credential Harvesting und Malware-Verbreitung eingesetzt. Die Software selbst ist legitim, doch die grosse installierte Basis veralteter Deployments schafft Angriffsfläche."
+  },
+  "vChat": {
+    "description": "vChat ist eine Chat-Lösung aus Vietnam.",
+    "history": "vChat ist eine vietnamesische Live-Chat-Lösung für Websites, die vor allem den vietnamesischen Markt bedient. Nennenswerte Eigentümerwechsel oder Abkündigungen sind nicht dokumentiert.",
+    "summary_abuse": "vChat ist ein vietnamesisches Live-Chat-Widget ohne nennenswertes Missbrauchssignal."
+  },
+  "vcita": {
+    "description": "vcita ist eine All-in-one-Software für Kundenservice und Geschäftsverwaltung, die für Dienstleister entwickelt wurde.",
+    "history": "vcita wurde 2010 von Itzik Levy und Eran Utmazgin gegründet, zunächst als Client-Engagement-Plattform für kleine Dienstleistungsunternehmen. Mit Hauptsitz in Seattle und R&D in Tel Aviv hat das Unternehmen Venture-Finanzierung aufgenommen und bedient heute weltweit rund 1,5 Millionen kleine Unternehmen mit Funktionen für Terminplanung, CRM, Abrechnung und Marketing.",
+    "summary_abuse": "vcita ist eine Managementplattform für kleine Unternehmen ohne nennenswertes Missbrauchssignal; sie wird von legitimen Dienstleistern für Terminplanung und Kundenverwaltung genutzt. Die Plattform erfordert die Einrichtung eines Geschäftskontos, reduziert damit das Risiko anonymer Registrierung und bietet weder Free-Tier-Hosting noch Custom-Domain-Funktionen, die für Phishing- oder Scam-Infrastruktur typisch sind."
+  },
+  "VClasses": {
+    "description": "VClasses ist eine abonnementbasierte Softwareplattform, mit der Nutzer ein sicheres Learning Management System (LMS) einrichten und Kurse verkaufen können.",
+    "history": "VClasses ist eine abonnementbasierte LMS-Plattform zum Aufbau von Online-Lernumgebungen. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "VClasses ist ein Learning Management System ohne nennenswertes Missbrauchssignal. LMS-Plattformen bedienen Bildungseinrichtungen und sind normalerweise kein typisches Ziel für Betrug."
+  },
+  "VDX.tv": {
+    "description": "VDX.tv, ehemals Exponential, ist ein globales Werbetechnologieunternehmen, das verändert, wie Marken in der heutigen zusammenwachsenden Videolandschaft relevante Zielgruppen erreichen.",
+    "history": "VDX.tv, ehemals Exponential Interactive, ist ein globales Videowerbetechnologieunternehmen, das sich um 2019 umbenannte. Es bietet Videowerbelösungen für Premium-Publisher und Marken mit Fokus auf Connected TV und digitales Videoinventar.",
+    "summary_abuse": "VDX.tv ist eine Videowerbetechnologieplattform. Wie die meisten Adtech-Unternehmen setzt sie umfangreiches Tracking in ihrem Publisher-Netzwerk ein. Videowerbenetzwerke sind als Träger von Malvertising-Kampagnen dokumentiert, und Drittanbieter-Adtech ist allgemein mit Ad Fraud und Impression Laundering konfrontiert. Öffentlich dokumentierte Vorfälle, die spezifisch VDX.tv zugeschrieben werden, sind nicht bekannt."
+  },
+  "Ve Global": {
+    "description": "Ve Global, früher Ve Interactive, ist ein globales Technologieunternehmen, das E-Commerce-Unternehmen einen Managed Service aus proprietärer Marketingsoftware und digitalen Werbelösungen bietet.",
+    "history": "Ve Interactive wurde 2009 in London als E-Commerce-Marketingtechnologieunternehmen gegründet. 2016 geriet es in eine erhebliche Kontroverse, als es nach finanziellen Schwierigkeiten und Vorwürfen betrügerischer Rechnungsfinanzierung von über 100 Millionen Pfund in die Insolvenzverwaltung fiel. Das Unternehmen wurde restrukturiert und als Ve Global neu positioniert.",
+    "summary_abuse": "Ve Global, ehemals Ve Interactive, hat eine belastete Vorgeschichte, nachdem das Vorgängerunternehmen 2016 im Umfeld von Vorwürfen zu Rechnungsbetrug zulasten von Investoren und Gläubigern kollabierte. Die umbenannte Einheit Ve Global bietet E-Commerce-Marketingsoftware. Durch die Nähe zu Adtech sammelt sie Besucherverhaltensdaten. Die frühere Finanzbetrugs-Kontroverse rechtfertigt Vorsicht bei der Bewertung des Anbieter-Vertrauens."
+  },
+  "Vectary": {
+    "description": "Vectary ist ein voll ausgestattetes 3D-Modellierungswerkzeug mit fotorealistischem Echtzeit-Rendering, Augmented Reality, Interaktionen und Animationen.",
+    "history": "Vectary wurde 2014 in der Slowakei als browserbasiertes 3D-Design- und AR-Tool gegründet. Das Unternehmen nahm Seed-Finanzierung auf und wuchs als webnative Alternative zu Desktop-3D-Modellierungssoftware, für Produktdesigner und Webentwickler, die 3D-Inhalte für Websites und Apps benötigen.",
+    "summary_abuse": "Vectary ist eine Plattform für 3D-Design und Augmented-Reality-Erstellung; sie hat kein nennenswertes Missbrauchssignal; der Anwendungsfall ist kreative Designarbeit ohne Endnutzer-Infrastruktur, die Betrugsakteure anziehen würde."
+  },
+  "Velaro": {
+    "description": "Velaro ist eine Live-Chat-Plattform, die Website-Besucher und Kunden einbindet und Online-Verkaufsconversions verbessert.",
+    "history": "Velaro wurde 2000 gegründet und hat seinen Hauptsitz in den USA mit Büros in Los Angeles und Baltimore. Das Unternehmen ist ein unabhängiger Anbieter von Live-Chat- und Customer-Engagement-Software für Firmen, die Website-Besucher besser ansprechen und Online-Verkäufe steigern wollen. Velaro ist seit über zwei Jahrzehnten tätig, ohne dass nennenswerte Übernahmen oder Eigentümerwechsel verzeichnet sind.",
+    "summary_abuse": "Velaro ist eine Live-Chat-Plattform für Kundensupport und Vertrieb. Wie alle Live-Chat-Tools, die auf Dritt-Websites eingebettet werden, kann sie geringfügig missbraucht werden, wenn sie auf betrügerischen Seiten installiert ist. Die Plattform selbst ist jedoch ein B2B-Produkt ohne dokumentierte Geschichte als Angriffsvektor. Nennenswerte Phishing-Kampagnen, Betrugsvorfälle oder Sicherheitsberichte zu Velaro sind nicht bekannt."
+  },
+  "Vello": {
+    "description": "Vello ist ein Online-Buchungstool, das geschäftliche Buchungen automatisiert.",
+    "history": "Vello ist eine finnische Online-Buchungsplattform für kleine Unternehmen und Dienstleister; sie wurde um 2014 in Finnland gegründet und bietet Terminplanungssoftware für Freelancer und kleine Unternehmen im nordischen Markt.",
+    "summary_abuse": "Vello ist eine Terminbuchungsplattform für kleine Unternehmen aus Finnland; sie hat kein nennenswertes Missbrauchssignal; es handelt sich um ein Planungstool mit begrenzter Angriffsfläche für kleine lokale Dienstleistungsbetriebe."
+  },
+  "Veloce": {
+    "description": "Veloce ist ein Anbieter von CRM-, Marketing- und Website-Diensten für Arztpraxen, um Patientenbindung und operative Effizienz zu verbessern.",
+    "history": "Veloce Solutions ist ein US-amerikanischer Anbieter von Healthcare-CRM und Praxismanagementsoftware. Das Unternehmen richtet sich an medizinische Praxen, die Werkzeuge für Patientenbindung und Betrieb benötigen. Über die Gründung sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "Veloce ist eine CRM-Plattform für medizinische Praxen; sie ist in einer regulierten Branche tätig und hat kein nennenswertes Missbrauchssignal. Der B2B-Fokus auf zugelassene Gesundheitsanbieter begrenzt das Risiko gegenüber Endnutzern."
+  },
+  "Velocify": {
+    "description": "Velocify ist ein Sales-Tool zur Conversion-Optimierung, das Verkaufsprozesse verbessern und Lead-Conversion-Raten erhöhen soll.",
+    "history": "Velocify wurde 2004 als Lead-Management- und Sales-Acceleration-Plattform gegründet, ursprünglich mit Fokus auf Hypotheken- und Versicherungsbranchen. 2017 wurde Velocify von Ellie Mae übernommen, einem führenden Hypothekentechnologieunternehmen. Ellie Mae wurde später von ICE (Intercontinental Exchange) übernommen und in ICE Mortgage Technology umbenannt; Velocify ist heute Teil dieses Portfolios.",
+    "summary_abuse": "Velocify ist eine CRM- und Lead-Management-Plattform für die Hypothekenbranche und heute Teil von ICE Mortgage Technology. Es ist ein B2B-Enterprise-Tool für regulierte Finanzdienstleister. Mit Velocify ist kein nennenswertes Missbrauchssignal verbunden."
+  },
+  "Vendaecia": {
+    "description": "Vendaecia ist eine Plattform zum Aufbau von Online-Shops oder zum Verkauf von Produkten über verschiedene Marktplätze, mit Werkzeugen zur Verwaltung des gesamten Verkaufsprozesses.",
+    "history": "Vendaecia, auch bekannt als Venda e Cia, ist eine brasilianische E-Commerce-Plattform, die um 2014 von Marcelo Paiva gegründet wurde. Das Unternehmen bietet ein Multichannel-E-Commerce-Ökosystem für Kleinst-, kleine und mittlere Unternehmen in Brasilien, darunter Dropshipping-Werkzeuge, Online-Shop-Erstellung und Integrationen mit brasilianischen Marktplätzen wie Mercado Livre, Shopee und Amazon. Die Plattform fokussiert ausschliesslich auf den brasilianischen Binnenmarkt für Dropshipping und E-Commerce.",
+    "summary_abuse": "Vendaecia ist eine brasilianische Dropshipping- und E-Commerce-Plattform für kleine Händler. Dropshipping-Plattformen können zum Aufbau betrügerischer oder gefälschter Shops genutzt werden, und Brasilien hat eine hohe Rate an Online-Verbraucherbetrug. Für Vendaecia selbst sind jedoch keine spezifischen dokumentierten Vorfälle oder Sicherheitsberichte bekannt. Das Modell 'erst verkaufen, später zahlen' könnte die Hürden für betrügerische Händlerregistrierungen senken, falls KYC-Kontrollen schwach sind."
+  },
+  "Vendio": {
+    "description": "Vendio ist eine E-Commerce-Software, die Verkäufe über Plattformen wie eBay, Amazon und Etsy erleichtert.",
+    "history": "Vendio wurde 1999 gegründet und ist eine Multichannel-E-Commerce-Management-Plattform für kleine und mittlere Händler. 2006 übernahm Vendio Andale und erweiterte damit seine Funktionen. 2010 wurde Vendio von Alibaba.com übernommen, als Teil von Alibabas Investition von 100 Millionen US-Dollar in US-amerikanische E-Commerce-Unternehmen. Auf dem Höhepunkt bediente die Plattform über 80'000 Händler, die kanalübergreifend, unter anderem über eBay, Amazon und Google, Warenumsätze von fast 2 Milliarden US-Dollar pro Jahr verwalteten.",
+    "summary_abuse": "Vendio ist eine Multichannel-E-Commerce-Management-Plattform mit niedrigem Missbrauchssignal. Die Plattform wird vor allem von legitimen kleinen Händlern genutzt, um Produktlistings über Marktplätze hinweg zu verwalten. Als Werkzeug für Verkäufe auf Drittmarktplätzen hostet sie keine Shops direkt. Dokumentierte Phishing-, Betrugs- oder Scam-Hosting-Vorfälle im Zusammenhang mit Vendio sind nicht bekannt."
+  },
+  "Vendre": {
+    "description": "Vendre ist ein modulbasiertes E-Commerce-System, bei dem du auswählst, welche Funktionen deine Organisation benötigt.",
+    "history": "Vendre ist eine modulare E-Commerce-Plattform, mit der Organisationen gezielt benötigte Funktionsmodule auswählen können; sie wirkt wie eine E-Commerce-Lösung mit Sitz im Vereinigten Königreich und begrenzter öffentlicher Präsenz.",
+    "summary_abuse": "Vendre ist ein spezialisiertes modulares E-Commerce-System. Es hat kein nennenswertes Missbrauchssignal und bedient Organisationen, die bestimmte Commerce-Module auswählen."
+  },
+  "Venly": {
+    "description": "Venly ist ein Blockchain-Technologieanbieter, der Produkte entwickelt, mit denen Unternehmen im Web3 erfolgreich sein können.",
+    "history": "Venly wurde 2018 in Belgien als Anbieter von Blockchain-Wallets und Web3-APIs gegründet, ursprünglich unter dem Namen Arkane Network. Das Unternehmen benannte sich in Venly um und bietet NFT- und Wallet-APIs für Entwickler, die Web3- und Gaming-Anwendungen bauen.",
+    "summary_abuse": "Venly ist ein Web3-Infrastrukturanbieter für Blockchain-Wallets und NFTs. Der Kryptowährungs- und NFT-Bereich birgt erhöhte Risiken durch Scams, Token-Betrug und Rug Pulls. Venlys Infrastruktur kann von legitimen und betrügerischen Projekten gleichermassen genutzt werden. Das Unternehmen veröffentlicht Acceptable-Use-Bedingungen, doch die dezentrale Natur der Blockchain erschwert die Durchsetzung. Nutzer sollten bei Web3-Projekten mit Venly-Infrastruktur vorsichtig sein."
+  },
+  "Venmo": {
+    "description": "Venmo ist ein mobiler Zahlungsdienst von PayPal. Inhaber von Venmo-Konten können per Mobile-App Geld an andere überweisen.",
+    "history": "Venmo wurde 2009 von Andrew Kortina und Iqram Magdon-Ismail als Peer-to-Peer-Zahlungs-App gegründet. 2012 wurde es von Braintree übernommen, das 2013 selbst von PayPal gekauft wurde. Venmo wuchs zu einer der beliebtesten P2P-Zahlungsplattformen in den USA mit zig Millionen aktiven Nutzern.",
+    "summary_abuse": "Venmo wird wegen seiner sozialen Zahlungsfunktionen und der Unumkehrbarkeit abgeschlossener Transaktionen häufig in Scam-Kampagnen missbraucht. Typische Muster sind Romance Scams, Overpayment Scams, bei denen Betrüger zu viel senden und eine Teilrückzahlung verlangen, falscher Kundensupport und Kontoübernahmen über Phishing. Venmo-Transaktionen sind standardmässig öffentlich, was auch zur Sammlung finanzieller und sozialer Daten ausgenutzt wurde. PayPal/Venmo verfügt über Betrugsabwehr und Streitfallprozesse, doch Rückbuchungen bei P2P-Zahlungen sind nicht garantiert."
+  },
+  "Venngage": {
+    "description": "Venngage ist eine Plattform zur Erstellung von Infografiken mit KI-gestützten Werkzeugen, die Design und Visualisierung vereinfachen.",
+    "history": "Venngage wurde 2012 in Toronto, Kanada, als Online-Plattform für Infografiken und Datenvisualisierungsdesign gegründet; sie richtet sich an Marketing- und Kommunikationsfachleute und ist über Content-Marketing gewachsen. In den letzten Jahren hat die Plattform KI-gestützte Designwerkzeuge ergänzt.",
+    "summary_abuse": "Venngage ist eine Plattform für Infografiken und visuelles Design; sie hat kein nennenswertes Missbrauchssignal; es handelt sich um ein Kreativwerkzeug ohne relevante Endnutzer-Oberfläche, die Betrugsakteure für Phishing oder Scam-Operationen ausnutzen würden."
+  },
+  "VentasxMayor": {
+    "description": "VentasxMayor ist eine E-Commerce-Plattform für Grosshändler, Marken, Distributoren und Importeure, um Grosshandelsverkäufe zu vereinfachen und zu steigern.",
+    "history": "VentasxMayor ist eine spanischsprachige E-Commerce-Plattform für Grosshändler, Distributoren und Importeure in Lateinamerika. Über Gründung und Geschichte sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "VentasxMayor ist eine spezialisierte B2B-Grosshandels-E-Commerce-Plattform für lateinamerikanische Märkte. Wie jede E-Commerce-Plattform könnte sie für betrügerische Shops genutzt werden, doch ihr B2B-Grosshandelsfokus und die begrenzte öffentliche Präsenz sprechen für eine geringe Missbrauchsverbreitung."
+  },
+  "VentraIP": {
+    "description": "VentraIP ist der grösste privat gehaltene Webhoster und Domain-Registrar in Australien.",
+    "history": "VentraIP wurde 2010 in Australien gegründet und ist zum grössten privat gehaltenen Webhosting- und Domain-Registrar Australiens gewachsen. Das Unternehmen bedient Hunderttausende australische Kunden und bleibt unabhängig.",
+    "summary_abuse": "VentraIP ist ein grosser australischer Webhosting- und Domain-Registrar. Wie bei allen Shared-Hosting- und Domainregistrierungsdiensten kann seine Infrastruktur zum Hosten von Phishing-Seiten oder Spam-Sites genutzt werden. VentraIP hat ein Abuse-Team und eine AUP und reagiert auf Missbrauchsmeldungen. Das Missbrauchsrisiko ist typisch für einen allgemeinen Webhoster und nicht erhöht."
+  },
+  "Ventrata": {
+    "description": "Ventrata ist eine Buchungsplattform für Touren und Attraktionen mit hohem Volumen und bietet All-in-one-Ticketingsysteme.",
+    "history": "Ventrata wurde 2016 in Prag, Tschechien, als Ticketing- und Buchungsplattform für stark frequentierte Tourismusattraktionen, Museen und Touranbieter gegründet; sie ist für komplexe Ticketing-Anforderungen grosser Attraktionen ausgelegt.",
+    "summary_abuse": "Ventrata ist eine Enterprise-Ticketing-Plattform für Tourismusattraktionen. Das B2B-Modell mit geprüften Betreiberkunden begrenzt das Missbrauchsrisiko gegenüber Endnutzern. Nennenswerte Missbrauchsmuster sind nicht dokumentiert."
+  },
+  "VentryShield": {
+    "description": "VentryShield bietet DDoS-geschützte VPS und Webhosting.",
+    "history": "VentryShield ist ein Anbieter von DDoS-geschützten VPS und Webhosting. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "VentryShield ist ein DDoS-geschützter Hosting-Anbieter. Kleine Hosting-Anbieter mit starkem DDoS-Schutz können Akteure anziehen, die bulletproof oder schwer störbare Infrastruktur suchen, auch wenn für VentryShield kein spezifisches dokumentiertes Missbrauchsmuster vorliegt."
+  },
+  "Venyoo": {
+    "description": "Venyoo ist ein Live- und Robot-Chat-Widget zur Erleichterung der Kommunikation.",
+    "history": "Venyoo ist ein Live-Chat- und Callback-Widget-Dienst für kleine und mittlere Unternehmen. Ein nennenswertes Gründungsdatum, Eigentümerwechsel oder Übernahmen sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Venyoo ist ein Live-Chat- und Callback-Widget ohne nennenswertes Missbrauchssignal. Es bindet ein Kommunikations-Widget auf Händler-Websites ein und bietet keine anonyme Content-Hosting-Oberfläche."
+  },
+  "Veonr": {
+    "description": "Veonr ist eine Analytics- und Tracking-Suite für Unternehmenswebsites mit Werkzeugen zur Überwachung von Website-Aktivitäten und Optimierung von Conversions.",
+    "history": "Veonr ist eine SaaS-Lösung für Website-Analytics und Aktivitätstracking für Unternehmen. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Veonr ist ein Website-Analytics-Tool. Analytics-Plattformen, die Besucher tracken, können Datenschutzbedenken auslösen, für Veonr sind jedoch keine spezifischen dokumentierten Missbrauchsvorfälle bekannt."
+  },
+  "Veoxa": {
+    "history": "Veoxa wird als Werbeplattform eingeordnet; über Geschichte oder Gründung sind nur minimale öffentliche Informationen verfügbar.",
+    "summary_abuse": "Veoxa zeigt auf Basis der verfügbaren Informationen kein nennenswertes Missbrauchssignal. Es scheint sich um eine spezialisierte Werbeplattform zu handeln."
+  },
+  "Vepaar": {
+    "description": "Vepaar ist eine Softwarelösung zur Unterstützung von Online-Unternehmen, mit Funktionen wie WhatsApp CRM, Online-Shop und WhatsApp-Umfrage.",
+    "history": "Vepaar ist ein indisches SaaS-Startup, das WhatsApp CRM, Online-Shop- und Messaging-Werkzeuge für kleine Unternehmen anbietet. Es wurde um 2020 gegründet und richtet sich an Kleinunternehmer in Südasien, die WhatsApp für Geschäftskommunikation nutzen.",
+    "summary_abuse": "Vepaar ist eine WhatsApp-CRM- und Online-Shop-Plattform für kleine Unternehmen. WhatsApp-basierte CRM-Tools können für Spam-Kampagnen oder unerwünschte Geschäftsnachrichten genutzt werden. Für Vepaar sind keine spezifischen dokumentierten Missbrauchsvorfälle bekannt. Der Free Tier mit WhatsApp-Messaging-Funktionen verdient Aufmerksamkeit im Hinblick auf möglichen Spam-Einsatz."
+  },
+  "Vera": {
+    "description": "Vera, ehemals Privasee, ist ein Self-Compliance-Tool, das GDPR für KMU vereinfachen soll, damit sie ihre Daten verstehen und Risiken wirksam mindern können.",
+    "history": "Vera, ehemals Privasee, ist ein britisches GDPR-Self-Compliance-Tool für KMU, das zu getvera.ai umbenannt wurde. Es hilft kleinen Unternehmen, ihre Datenverarbeitung zu verstehen und GDPR-Compliance nachzuweisen, ohne eine eigene Datenschutzfachperson zu benötigen.",
+    "summary_abuse": "Vera ist ein GDPR-Compliance-Tool, das Unternehmen beim Datenschutzmanagement unterstützt. Es hat kein nennenswertes Missbrauchssignal; der Zweck ist die Verbesserung der Privacy-Compliance, und es bietet keine Endnutzer-Oberfläche, die Betrugsakteure anziehen würde."
+  },
+  "VeraCore": {
+    "description": "VeraCore ist eine Softwareplattform für Auftragsabwicklung, die Bestandsverwaltung, Lagerhaltung, Auftragsverarbeitung und Versandprozesse unterstützt.",
+    "history": "VeraCore ist eine US-amerikanische Softwareplattform für Auftragsabwicklung, die Bestandsverwaltungs- und Lagerwerkzeuge für Distributoren und Fulfillment-Anbieter bereitstellt; sie bedient die Fulfillment-Branche seit über zwei Jahrzehnten.",
+    "summary_abuse": "VeraCore ist eine B2B-Fulfillment-Software ohne dokumentierte Missbrauchsfälle."
+  },
+  "VeraSafe": {
+    "description": "VeraSafe ist ein Privacy-Compliance-System, das Organisationen bei der Einhaltung globaler Datenschutzvorschriften und Datenschutzgesetze unterstützt.",
+    "history": "VeraSafe wurde 2012 in Washington DC als Datenschutzkanzlei und Compliance-Technologieanbieter gegründet. Das Unternehmen spezialisiert sich auf transatlantische Datenschutz-Compliance, GDPR und US-Datenschutzvorschriften. VeraSafe ist ein für EU-US Privacy Shield und EU-Vertretung zertifizierter Anbieter.",
+    "summary_abuse": "VeraSafe ist eine Privacy-Compliance-Plattform und Kanzlei für Rechtsdienstleistungen. Das Kernprodukt hilft Organisationen, GDPR und globale Datenschutzgesetze einzuhalten. Mit VeraSafe ist kein nennenswertes Missbrauchssignal verbunden."
+  },
+  "Vercel": {
+    "description": "Vercel ist eine Cloud-Plattform für statische Frontends und serverlose Funktionen.",
+    "history": "Vercel wurde 2015 von Guillermo Rauch, auch Schöpfer von Next.js, als ZEIT gegründet und 2020 in Vercel umbenannt. Das Unternehmen hat über 00 Millionen US-Dollar an Venture-Finanzierung aufgenommen und ist die primäre Hosting- und Deployment-Plattform für Next.js. Es popularisierte das JAMstack-Deployment-Modell und serverloses Edge Computing für Frontend-Teams.",
+    "summary_abuse": "Vercel ist eine Mainstream-Infrastrukturplattform. Der Free Tier mit Custom-Domain-Unterstützung macht sie gelegentlich zum Ziel für das Hosting von Phishing-Seiten, ähnlich wie Netlify und GitHub Pages. Vercel veröffentlicht Mechanismen zur Missbrauchsmeldung und entfernt regelwidrige Deployments, doch automatisierte Deployments über CI-Pipelines können kurzlebige Missbrauchsfenster schaffen."
+  },
+  "Vercel Analytics": {
+    "history": "Vercel Analytics ist ein datenschutzorientiertes Web-Analytics-Produkt, das in die Vercel-Plattform integriert ist und um 2022 eingeführt wurde. Es bietet Real User Monitoring und Zielgruppen-Insights für Websites, die auf Vercel bereitgestellt werden.",
+    "summary_abuse": "Vercel Analytics ist ein B2B-Analytics-Produkt, das an die Vercel-Deployment-Plattform gebunden ist, ohne dokumentierte Missbrauchsfälle."
+  },
+  "Vercel Speed Insights": {
+    "description": "Vercel Speed Insights bietet dir einen detaillierten Blick auf die Performance-Metriken deiner Website auf Basis von Core Web Vitals.",
+    "history": "Vercel Speed Insights ist ein Tool für Core Web Vitals und Performance-Monitoring, das in die Vercel-Plattform integriert ist und um 2023 eingeführt wurde. Es erfasst Real-User-Metriken für Websites, die auf Vercel bereitgestellt werden.",
+    "summary_abuse": "Vercel Speed Insights ist ein Performance-Monitoring-Produkt ohne dokumentierte Missbrauchsfälle."
+  },
+  "Verfacto": {
+    "description": "Verfacto ist ein Marketing-Analytics-Tool für E-Commerce, das Faktoren im Kundenverhalten erkennt und zeigt, was Besucher zu Kunden macht.",
+    "history": "Verfacto ist eine Plattform für E-Commerce-Marketing-Analytics und Kundensegmentierung; sie integriert sich mit Shopify, WooCommerce, Magento und anderen Plattformen und machte ihre Analytics-Stufe 2021 kostenlos.",
+    "summary_abuse": "Verfacto ist ein E-Commerce-Analytics- und Personalisierungstool ohne nennenswertes Missbrauchssignal. Es sammelt Verhaltensdaten im Auftrag von Händlern und hat keine anonyme Content-Hosting- oder öffentliche Oberfläche."
+  },
+  "VergeCloud": {
+    "description": "VergeCloud ist ein Cloud-Services-Anbieter mit CDN- und DNS-Diensten, Sicherheitslösungen und einem zuverlässigen TCP-Proxy zur Unterstützung der Online-Präsenz.",
+    "history": "VergeCloud wurde im Oktober 2024 in Indien von Hamid Rostami und Amin Habibi gegründet. Das Unternehmen nahm 3 Millionen US-Dollar auf und expandierte schnell auf über 40 globale PoPs, mit der Positionierung als Indiens erste weltweit vertrauenswürdige CDN- und Edge-Plattform.",
+    "summary_abuse": "VergeCloud ist ein junger Infrastruktur-Anbieter für CDN und DDoS-Schutz. Wie alle CDN-Betreiber trägt er ein inhärentes Risiko, dass missbräuchliche Kunden das Netzwerk nutzen, doch spezifische Vorfälle sind nicht dokumentiert und das Unternehmen ist zu frühphasig für ein etabliertes Missbrauchsprofil."
+  },
+  "Vergic": {
+    "description": "Vergic ist eine Plattform, die Echtzeit-Online-Interaktion zwischen Website-Betreibern, Kundendienstmitarbeitenden und einzelnen Kunden, Interessenten oder Besuchern ermöglicht.",
+    "history": "Vergic wurde 2007 in Schweden von Alexander Lunde, Fredrik Lunde und Johan Ringsberg gegründet, um Software für digitale Kundeninteraktion bereitzustellen. Im Oktober 2021 wurde das Unternehmen von Puzzel übernommen, einer nordischen Contact-Centre-Plattform.",
+    "summary_abuse": "Vergic ist eine Plattform für digitale Kundeninteraktion und Live-Chat ohne nennenswertes Missbrauchssignal; sie bedient Enterprise-Kunden in Finanzdienstleistungen und Handel und bietet keine anonyme Content-Hosting-Oberfläche."
+  },
+  "Verifone 2Checkout": {
+    "description": "Verifone ist ein amerikanischer multinationaler Konzern mit Hauptsitz in Coral Springs, Florida, der Technologie für elektronische Zahlungstransaktionen und Mehrwertdienste am Point of Sale bereitstellt.",
+    "history": "2Checkout wurde 2000 als Online-Zahlungsgateway gegründet und 2017 von Avangate übernommen. Verifone, der Hersteller von Zahlungsterminals, übernahm Avangate 2018 und betreibt die Plattform als Verifone 2Checkout; sie bedient globale Händler mit digitalen Gütern und Abonnementabrechnung.",
+    "summary_abuse": "Verifone 2Checkout ist ein Zahlungsabwickler ohne dokumentierte spezifische Missbrauchsvorfälle ausserhalb des normalen Betrugsrisikos, das Zahlungsabwicklung grundsätzlich mit sich bringt. PCI-DSS-Compliance bietet eine grundlegende Sicherheitsabsicherung."
+  },
+  "VerifyPass": {
+    "description": "VerifyPass ist ein Unternehmen, das sichere Identitätsprüfung, Authentifizierung und Zugehörigkeitsprüfung für Lehrkräfte und Studierende bereitstellt.",
+    "history": "VerifyPass wurde 2020 in Paramus, New Jersey, als Plattform für Identitätsprüfung und Community-Authentifizierung gegründet und bietet geschützte Rabatte für bestimmte Gruppen wie Senioren und Militärangehörige.",
+    "summary_abuse": "VerifyPass ist ein Widget für Identitäts- und Community-Verifizierung ohne nennenswertes Missbrauchssignal. Es beschränkt Werbeangebote auf verifizierte Gruppen und enthält KYC-Prüfungen, die betrügerische Nutzung begrenzen."
+  },
+  "VerifyPress": {
+    "description": "VerifyPress ist eine Social-Proof-App, mit der Pop-up-Benachrichtigungen, HelloBar-Hinweise und Social-Proof-Elemente mit einer einzigen Codezeile eingebunden werden können.",
+    "history": "VerifyPress ist eine SaaS-Lösung für Social-Proof-Benachrichtigungen, die Pop-up-Mitteilungen und HelloBar-Hinweise auf Websites ermöglicht. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "VerifyPress ist ein Tool für Social Proof und Benachrichtigungen. Solche Tools zeigen Pop-ups mit angeblichen jüngsten Nutzeraktivitäten und können täuschend eingesetzt werden, um falschen Social Proof zu erzeugen. Für VerifyPress gibt es jedoch keine spezifisch dokumentierte Missbrauchshistorie."
+  },
+  "Verisign": {
+    "description": "Verisign ist ein Anbieter von Internet-Infrastrukturdiensten, bekannt für seine sichere Domainnamen-Registry.",
+    "history": "Verisign wurde 1995 als Ausgründung von RSA Security gegründet, um Internet-Vertrauensdienste wie SSL-Zertifikate und Domainnamen-Registry bereitzustellen. Das Unternehmen wurde zum autoritativen Registry-Betreiber für die TLDs .com und .net. Im Lauf der Zeit veräusserte Verisign viele Geschäftsbereiche und ist heute ein börsenkotiertes Unternehmen (NASDAQ: VRSN), das sich ausschliesslich auf Domainnamen-Registry und Internetsicherheit konzentriert.",
+    "summary_abuse": "Verisign betreibt kritische Internet-Infrastruktur, die .com- und .net-Domain-Registries. Domains unter von Verisign verwalteten TLDs können zwar für Phishing oder Spam genutzt werden, doch das ist eher ein Problem auf Registrar-Ebene als ein direkter Dienst von Verisign. Verisign beteiligt sich an ICANN-Prozessen zur Missbrauchsminderung und kann Domains gemäss seinen Registry-Verträgen suspendieren. Die direkte Dienstoberfläche zeigt kein nennenswertes Missbrauchsmuster."
+  },
+  "Verizon Media": {
+    "description": "Verizon Media ist ein Technologie- und Medienunternehmen mit globalen Assets für Werbetreibende, Konsumenten und Medienunternehmen.",
+    "history": "Verizon Media entstand 2015, als Verizon AOL übernahm, und wurde später nach der Übernahme von Yahoo im Jahr 2017 umbenannt. 2021 verkaufte Verizon die Sparte mit AOL- und Yahoo-Assets für 5 Milliarden US-Dollar an Apollo Global Management, worauf sie als Yahoo Inc. neu positioniert wurde. Die Werbeplattform wird heute unter der Marke Yahoo betrieben.",
+    "summary_abuse": "Verizon Media, heute Yahoo Advertising, ist eine grosse Adtech- und Medienplattform. Als Werbenetzwerk mit Milliarden von Impressions war sie historisch in Malvertising-Vorfälle verwickelt, wie sie bei grossen Werbenetzwerken üblich sind; sie unterhält eine AUP und Prozesse zur Missbrauchsmeldung, doch ihre Grösse bedeutet, dass über Werbung ausgelieferte Malware und betrügerische Werbetreibende dokumentierte Branchenrisiken bleiben."
+  },
+  "Verloop": {
+    "description": "Verloop ist eine Plattform für Kundensupport und Engagement, die sich auf die Automatisierung von Kundeninteraktionen mit KI-gestützten Chatbots und Conversational Interfaces konzentriert.",
+    "history": "Verloop wurde um 2016 in Indien als KI-gestützte Plattform zur Automatisierung von Kundensupport gegründet und richtet sich vor allem an Unternehmen in Südostasien und Indien. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Verloop ist eine B2B-Plattform für Chatbots und Kundensupport; sie zeigt kein nennenswertes Missbrauchssignal, da der Zugriff Enterprise-Onboarding erfordert und keine anonyme oder endnutzerorientierte Registrierung bietet."
+  },
+  "Vero": {
+    "description": "Vero ist ein Tool, das Nutzeraktionen verfolgt und E-Mails gezielt aussteuert, damit du Kunden anhand ihres Verhaltens personalisiertere E-Mails senden kannst.",
+    "history": "Vero wurde um 2012 als Plattform für verhaltensbasiertes E-Mail-Marketing gegründet. Das Unternehmen blieb unabhängig und fokussiert auf ereignisgesteuerte E-Mail-Kampagnen, ohne nennenswerte Übernahmen oder Eigentümerwechsel.",
+    "summary_abuse": "Vero ist eine Plattform für transaktionale und verhaltensbasierte E-Mails. Wie alle Bulk-E-Mail-Dienste kann sie zum Versand von Spam oder Phishing-E-Mails missbraucht werden, doch B2B-Onboarding und nutzungsbasierte Preise schrecken einfachen Missbrauch ab. Dokumentierte grossflächige Missbrauchsvorfälle sind nicht bekannt."
+  },
+  "Versa Commerce": {
+    "description": "Versa Commerce ist ein Online-Shop- und Point-of-Sale-System (POS) aus Deutschland.",
+    "history": "VersaCommerce ist eine deutsche E-Commerce-SaaS-Plattform, die um 2012 gegründet wurde und Online-Shop- sowie POS-Funktionen vor allem für kleine deutschsprachige Unternehmen anbietet. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "VersaCommerce ist eine legitime deutsche E-Commerce-Plattform für KMU und zeigt kein nennenswertes Missbrauchssignal. Wie jeder E-Commerce-Enabler könnte sie für betrügerische Shops genutzt werden, doch das ist ein typisches Branchenrisiko ohne dokumentierte Probleme auf Plattformebene."
+  },
+  "VersaTailor": {
+    "description": "VersaTailor ist ein Web-Analytics-Tool für Online-Unternehmen mit stundenweiser Filterung und der Möglichkeit, authentifizierte Nutzer aus den Analysen auszuschliessen.",
+    "history": "VersaTailor ist ein Web-Analytics-Tool für Online-Unternehmen mit stundenweisen Filterfunktionen. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "VersaTailor ist ein B2B-Web-Analytics-Tool ohne dokumentiertes nennenswertes Missbrauchssignal."
+  },
+  "VerseOne": {
+    "description": "VerseOne ist ein Anbieter von Content Management Systems (CMS) für den Gesundheits- und Wohnungssektor.",
+    "history": "VerseOne ist ein britischer CMS-Anbieter mit Spezialisierung auf Gesundheits- und Wohnungswesen. Das Unternehmen ist seit Mitte der 2000er-Jahre tätig, ohne dokumentierte nennenswerte Eigentümerwechsel oder Übernahmen.",
+    "summary_abuse": "VerseOne ist ein branchenspezifisches CMS für Organisationen im Gesundheits- und Wohnungswesen. Aufgrund des spezialisierten B2B-Fokus und des kontrollierten Deployment-Modells zeigt es kein nennenswertes Missbrauchssignal."
+  },
+  "Vertex": {
+    "description": "Vertex ist ein responsives und schlichtes Theme, hauptsächlich für Portfolio-Websites sowie Fotografie- und Blogseiten, entwickelt von DessignThemes.",
+    "history": "Vertex ist ein kostenloses WordPress-Theme von DessignThemes, gestaltet für Portfolio- und Fotografie-Websites. Es ist ein einfaches Theme ohne nennenswerte Eigentums- oder Entwicklungsgeschichte jenseits einer grundlegenden kostenlosen Template-Ausgabe.",
+    "summary_abuse": "Vertex ist ein WordPress-Theme ohne nennenswertes Missbrauchssignal. Es ist ein statisches Website-Theme ohne Endnutzer-Dienst oder Content-Hosting-Oberfläche, die Betrüger gezielt ausnutzen würden."
+  },
+  "VerticalScope": {
+    "description": "VerticalScope ist ein kanadisches Technologieunternehmen, das ein Netzwerk von Online-Communities und Diskussionsforen zu verschiedenen Interessen und Hobbys wie Autos, Haustieren, Sport und Technologie besitzt und betreibt. VerticalScope erzielt Einnahmen hauptsächlich über Werbung, darunter Banneranzeigen, gesponserte Inhalte und Affiliate-Marketing.",
+    "history": "VerticalScope ist eine kanadische Online-Community-Plattform, die um 2006 gegründet wurde und ein grosses Netzwerk spezialisierter Foren und Diskussionscommunities zu Hobbys wie Autos, Sport und Haustieren besitzt und betreibt. Die Monetarisierung erfolgt über Display-Werbung; 2021 ging das Unternehmen an die Toronto Stock Exchange.",
+    "summary_abuse": "VerticalScope hostet nutzergenerierte Inhalte über Hunderte spezialisierter Foren hinweg, was eine moderate Oberfläche für Spam und Account-Missbrauch schafft. Forennetzwerke dieser Art werden häufig von Spammern angegriffen, die Konten registrieren, um Links zu posten. Die Plattform ist werbefinanziert und sammelt umfangreiche Nutzerverhaltensdaten, wird aber nicht primär mit Betrugs- oder Phishing-Infrastruktur in Verbindung gebracht."
+  },
+  "Vertster": {
+    "description": "Vertster ist eine Plattform für multivariate Tests, mit der Nutzer mehrere Webseiten- oder App-Varianten gleichzeitig vergleichen können, um anhand von Nutzerverhalten und Datenanalyse die beste Kombination von Elementen zu finden.",
+    "history": "Vertster ist eine SaaS-Lösung für multivariates A/B-Testing. Es handelt sich um eine kleine Nischenplattform ohne nennenswerte Eigentümerwechsel oder dokumentierte Geschichte ausserhalb ihres Kernangebots.",
+    "summary_abuse": "Vertster ist eine Website-A/B-Testing-Plattform ohne nennenswertes Missbrauchssignal; sie ist ein Backend-Analytics-Tool ohne Endnutzer- oder Content-Hosting-Oberfläche."
+  },
+  "Very Good Security": {
+    "description": "Very Good Security (VGS) ist eine Plattform für Datensicherheit und Compliance, mit der Entwickler sensible Daten sicher verarbeiten können, indem sie diese über einen Zwischendienst verschlüsseln, tokenisieren und übertragen.",
+    "history": "Very Good Security (VGS) wurde 2015 in San Francisco gegründet, um Data-Vault- und Tokenisierungsinfrastruktur für den Umgang mit sensiblen PII- und Zahlungsdaten bereitzustellen, ohne dass Entwickler direkt damit in Berührung kommen. Das Unternehmen hat über 90 Millionen US-Dollar an Venture-Finanzierung aufgenommen und richtet sich an Fintech- und Zahlungsunternehmen.",
+    "summary_abuse": "VGS ist eine Plattform für Datensicherheit und Tokenisierung, die gezielt darauf ausgelegt ist, die Exposition sensibler Daten zu reduzieren; sie zeigt kein nennenswertes Missbrauchssignal. Der Kernzweck ist die Verhinderung von Datenpannen, nicht die Ermöglichung von Missbrauch, und das Enterprise-B2B-Modell bietet keine Endnutzer-Oberfläche."
+  },
+  "Vestico": {
+    "description": "Vestico ist eine Digital-Asset-Management-Plattform zum Organisieren, Verwalten und Verteilen digitaler Inhalte.",
+    "history": "Vestico ist eine SaaS-Lösung für Digital Asset Management (DAM) zum Organisieren und Verteilen digitaler Inhalte. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Vestico ist eine Digital-Asset-Management-Plattform ohne nennenswertes Missbrauchssignal. DAM-Systeme sind B2B-Werkzeuge für Marketingteams und stellen keine endnutzerorientierte Content-Oberfläche bereit."
+  },
+  "Vev": {
+    "description": "Vev ist eine cloudbasierte Design- und Publishing-Plattform, mit der Nutzer interaktive digitale Inhalte ohne Programmierung über eine Drag-and-drop-Oberfläche sowie integrierte Vorlagen und Integrationen erstellen können.",
+    "history": "Vev ist eine norwegische cloudbasierte Plattform für interaktives Design und Publishing, die um 2017 gegründet wurde und sich an digitale Content-Teams und Agenturen richtet. Das Unternehmen hat Venture-Finanzierung aufgenommen und blieb unabhängig.",
+    "summary_abuse": "Vev ist ein Web-Publishing- und Design-Tool mit Free Tier. Wie andere Page-Builder-Plattformen könnte es potenziell Phishing- oder Scam-Landingpages hosten, ist aber nicht als bevorzugter Missbrauchsvektor bekannt und erfordert eine Nutzerregistrierung zum Veröffentlichen von Inhalten."
+  },
+  "Vex": {
+    "description": "Vex ist eine leichtgewichtige Bibliothek zum Erstellen funktionaler Dialoge mit Vanilla JavaScript ohne externe Abhängigkeiten.",
+    "history": "Vex ist eine leichtgewichtige Dialogbibliothek für Vanilla JavaScript; sie wurde um 2013 erstellt und wurde in den letzten Jahren weitgehend nicht mehr gepflegt.",
+    "summary_abuse": "Vex ist eine kleine clientseitige Dialogbibliothek ohne Endnutzer-Oberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Vextras": {
+    "description": "Vextras ist eine Plattform, die Online-Händlern hilft, Verkäufe zu steigern, Kundensupport zu leisten und verschiedene Aufgaben zu automatisieren.",
+    "history": "Vextras ist eine kleine SaaS-Plattform, die Marketing- und Support-Add-ons für WooCommerce-Shops bereitstellt. Eine nennenswerte Eigentümergeschichte ist öffentlich nicht dokumentiert.",
+    "summary_abuse": "Vextras ist eine WooCommerce-Add-on-Plattform ohne nennenswertes Missbrauchssignal; sie erweitert bestehende E-Commerce-Shops und hat keine eigenständige Content-Hosting- oder anonyme Registrierungsoberfläche."
+  },
+  "vFairs": {
+    "description": "vFairs ist eine Event-Management-Plattform zur Organisation anpassbarer Präsenz- und virtueller Veranstaltungen.",
+    "history": "vFairs wurde 2016 von Muhammad Younas und Arfeen Godil als Plattform für virtuelle und hybride Events gegründet. Das Unternehmen hat seinen Hauptsitz in Coppell, Texas, während der Grossteil der Belegschaft in Pakistan sitzt. Während der COVID-19-Pandemie erzielte vFairs 2020 ein 20-faches Umsatzwachstum, als Organisationen schnell auf virtuelle Veranstaltungsformate umstellten.",
+    "summary_abuse": "vFairs ist eine Plattform für Event-Management und virtuelle Veranstaltungen ohne nennenswertes Missbrauchssignal; sie wird von Unternehmen und Organisationen für Messen, Karrieremessen und Konferenzen genutzt. Es gibt keine offene Endnutzer-Plattform oder keinen Free Tier, der Betrüger anziehen würde."
+  },
+  "Vfinder": {
+    "description": "Vfinder ist eine Plattform, auf der Nutzer koordinierte Artikel und empfohlene Artikel gleichzeitig verkaufen und anzeigen können.",
+    "history": "Vfinder ist eine E-Commerce-Plattform zur Anzeige von Produktkoordinationen und Empfehlungen. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Vfinder ist ein E-Commerce-Tool für Upselling und Empfehlungen ohne dokumentiertes nennenswertes Missbrauchssignal."
+  },
+  "ViaBill": {
+    "description": "ViaBill ist eine cloudbasierte Zahlungslösung für kleine bis mittelgrosse Händler und Webshops.",
+    "history": "ViaBill ist eine dänische Buy-now-pay-later-Zahlungslösung, die um 2013 gegründet wurde und sich vor allem an E-Commerce-Händler in Dänemark und den USA richtet. Das Unternehmen ist unabhängig geblieben und wurde nicht in grösserem Umfang übernommen.",
+    "summary_abuse": "ViaBill ist ein Buy-now-pay-later-Zahlungsdienst. BNPL-Modelle können für Zahlungsbetrug und Friendly-Fraud-Chargebacks missbraucht werden, und BNPL-Anbieter haben generell höhere Betrugsraten als Kartenzahlungen. ViaBills Risiko entspricht diesem Branchenrisiko, ohne dokumentierte plattformspezifische Missbrauchskampagnen."
+  },
+  "Viafoura": {
+    "description": "Viafoura ist eine Plattform für Audience Engagement und soziale Monetarisierung.",
+    "history": "Viafoura ist eine kanadische Audience-Engagement-Plattform, die um 2012 gegründet wurde; sie bietet Kommentarbereiche, Liveblogs und soziale Interaktionstools für Medienverlage, hat Venture-Finanzierung erhalten und ist unabhängig geblieben.",
+    "summary_abuse": "Viafoura stellt Audience-Engagement- und Kommentartools bereit, die auf Websites von Medienverlagen eingebettet werden. Kommentarbereiche mit nutzergenerierten Inhalten können Spam und Belästigung anziehen, weshalb die Plattform Moderation in grossem Umfang bewältigen muss. Dokumentierter Missbrauch auf Plattformebene für Phishing oder Malware ist nicht bekannt."
+  },
+  "ViArt Shop": {
+    "description": "ViArt Shop ist eine PHP-basierte Warenkorb-Lösung mit Content-Management-System (CMS) und integrierter Helpdesk-Funktion.",
+    "history": "ViArt Shop ist eine PHP-basierte E-Commerce-Warenkorb- und CMS-Lösung, die seit den frühen 2000er-Jahren verfügbar ist. Das lizenzierte Self-Hosting-Produkt richtet sich an kleine Händler und weist keine bedeutenden Eigentümerwechsel auf.",
+    "summary_abuse": "ViArt Shop ist ein selbst gehostetes E-Commerce-Paket. Wie jede Shopsoftware kann es für betrügerische Shops eingesetzt werden, die Plattform selbst zeigt aber kein auffälliges Missbrauchssignal und muss manuell auf einem Webhost installiert werden."
+  },
+  "ViaSay": {
+    "description": "ViaSay ist ein Conversational-AI-Tool, mit dem sich angepasste automatisierte Prozesse für schnelleren und effizienteren Kundendienst erstellen lassen.",
+    "history": "ViaSay ist eine französische Conversational-AI- und Chatbot-Plattform, früher als Mindsay bekannt; sie richtet sich an Unternehmen, die Kundendienst automatisieren, und wurde um 2021 zu ViaSay umbenannt.",
+    "summary_abuse": "ViaSay ist eine B2B-Plattform für Chatbots und Conversational AI ohne auffälliges Missbrauchssignal. Das Enterprise-Bereitstellungsmodell mit dediziertem Onboarding bietet keine anonyme, öffentlich zugängliche Angriffsfläche für Konsumenten."
+  },
+  "vibecommerce": {
+    "history": "vibecommerce ist eine brasilianische E-Commerce-Plattform unter vibecommerce.com.br. Zum Gründungsdatum und zur Geschichte sind nur sehr wenige öffentliche Informationen verfügbar.",
+    "summary_abuse": "vibecommerce ist eine kleine brasilianische E-Commerce-Plattform ohne dokumentiertes Missbrauchssignal in öffentlichen Quellen. Als regionale E-Commerce-Lösung für KMU hat sie begrenzte Reichweite."
+  },
+  "Vicomi": {
+    "description": "Vicomi liefert Einblicke in die Reaktionen des Publikums auf Inhalte.",
+    "history": "Vicomi ist ein israelisches Tool für Content Analytics und Publikumsreaktionen, das um 2013 gegründet wurde. Es bietet Sentiment- und Reaktionswidgets für Publisher-Websites und weist keine bedeutenden Eigentümerwechsel auf.",
+    "summary_abuse": "Vicomi ist ein Audience-Analytics-Widget, das auf Content-Websites eingebettet wird. Es erfasst Reaktionsdaten von Nutzern und sendet sie an Vicomi-Server, wodurch ein seitenübergreifendes Tracking-Profil entsteht. Phishing oder aktive Missbrauchsmuster sind nicht dokumentiert."
+  },
+  "Vidazoo": {
+    "description": "Vidazoo ist eine Plattform für Videoinhalte und Yield Management.",
+    "history": "Vidazoo ist eine israelische Plattform für Videoinhalte und Yield Management, die um 2016 gegründet wurde; sie richtet sich mit Video-Monetarisierungstools an digitale Publisher und hat Venture-Finanzierung erhalten.",
+    "summary_abuse": "Vidazoo ist eine Plattform für Video-Ad-Yield-Management, die auf Publisher-Websites eingebettet wird. Video-Werbenetzwerke waren historisch Vektoren für Malvertising und Domain Spoofing. Vidazoos Ad-Tech-Ausrichtung bedeutet umfangreiche Tracking- und Werbeskripte, konkrete gross angelegte Missbrauchsfälle sind jedoch nicht dokumentiert."
+  },
+  "Video Greet": {
+    "description": "Video Greet lässt deine Kunden Geschenken per QR-Code eine Videobotschaft hinzufügen.",
+    "history": "Video Greet ist eine Shopify-App, mit der Kunden Geschenkkäufen Videobotschaften per QR-Code hinzufügen können. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Video Greet ist eine Nischen-App für Geschenk-Videobotschaften ohne auffälliges Missbrauchssignal; sie arbeitet innerhalb des Shopify-App-Ökosystems."
+  },
+  "VideoJS": {
+    "description": "Video.js ist eine JavaScript- und CSS-Bibliothek, die die Arbeit mit HTML5-Video und darauf aufbauende Entwicklungen erleichtert.",
+    "history": "Video.js wurde 2010 von Steve Heffernan als Open-Source-HTML5-Videoplayer erstellt. Es wurde zu einem der meistgenutzten Videoplayer im Web. Brightcove, ein Unternehmen für Videoplattformen, wurde zum wichtigsten Sponsor und Maintainer des Projekts.",
+    "summary_abuse": "Video.js ist eine grundlegende Open-Source-Bibliothek für Videoplayer ohne Oberfläche für Konsumenten und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Videoly": {
+    "description": "Videoly integriert automatisch passende Produktvideo-Reviews von YouTube in Onlineshops.",
+    "history": "Videoly ist eine finnische SaaS-Plattform, die um 2015 gegründet wurde und Produktvideo-Reviews automatisch passenden E-Commerce-Produktseiten zuordnet und einbettet. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Videoly ist ein Tool zur Videoeinbindung im E-Commerce ohne auffälliges Missbrauchssignal. Es bettet vorab freigegebene Videoinhalte auf Händlerseiten ein und erlaubt keine beliebigen Uploads durch Nutzer."
+  },
+  "Videoo.tv": {
+    "description": "Videoo.tv verbessert Website-Performance und Nutzererlebnis mit innovativen Video- und Displayformaten und bietet fortgeschrittene Tools zur Umsatzsteigerung.",
+    "history": "Videoo.tv ist eine Videoplattform zur Verbesserung der Website-Performance durch Auslieferung von Videoinhalten. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Videoo.tv ist ein Nischen-SaaS für Videoauslieferung und Website-Verbesserung ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "VideoPal": {
+    "description": "VideoPal ist ein Avatar-Widget, das als Hilfesystem dient und direkt in der Benutzeroberfläche interaktive Unterstützung bietet.",
+    "history": "VideoPal ist ein interaktives Avatar-Widget für Websites, das interaktive Hilfe und Nutzerbindung bietet. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "VideoPal ist ein Tool für interaktive Avatar-Widgets ohne auffälliges Missbrauchssignal. Es ist ein einbettungsbasiertes B2B-Tool ohne Funktionen für von Nutzern gehostete Inhalte."
+  },
+  "Vidjet": {
+    "description": "Vidjet ist eine Shoppable-Video-Plattform für moderne E-Commerce-Shops, mit der Videos auf Websites eingebettet und anhand von Besucheraktionen ausgelöst werden können.",
+    "history": "Vidjet ist eine französische SaaS-Plattform für Shoppable Videos, die um 2021 gegründet wurde; sie richtet sich an E-Commerce-Shops und ermöglicht interaktive kaufbare Videos. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Vidjet ist ein Shoppable-Video-Tool für E-Commerce ohne auffälliges Missbrauchssignal. Es erfordert Händler-Onboarding und hostet keine beliebigen nutzergenerierten Inhalte."
+  },
+  "Vidora": {
+    "description": "Vidora ist eine Echtzeit-Machine-Learning-Plattform mit Fokus auf Konsumentendaten.",
+    "history": "Vidora ist eine US-basierte ML-Plattform für Konsumentendaten und Verhaltensprognosen, die um 2014 gegründet wurde; sie richtet sich mit Echtzeit-Personalisierungs-Pipelines an Medien- und E-Commerce-Unternehmen und hat Venture-Finanzierung erhalten.",
+    "summary_abuse": "Vidora ist eine Machine-Learning-Personalisierungsplattform, die Verhaltensdaten von Konsumenten verarbeitet; sie liegt nahe an Ad-Tech und kann Daten aggregieren, arbeitet aber als B2B-Enterprise-Service ohne direkte Konsumentenoberfläche oder dokumentierte Missbrauchsmuster."
+  },
+  "Vidscrip": {
+    "description": "Vidscrip ist eine digitale Plattform, mit der Ärzte über personalisierte Videoinhalte mit Patienten kommunizieren und so Patientenbindung und Versorgungskoordination verbessern können.",
+    "history": "Vidscrip ist eine US-basierte SaaS-Plattform, über die Ärzte personalisierte Videobotschaften an Patienten senden können; sie ist ein Nischenwerkzeug für Gesundheitskommunikation ohne bedeutende Eigentümerwechsel.",
+    "summary_abuse": "Vidscrip ist ein Video-Messaging-Tool für die Kommunikation zwischen Ärzten und Patienten. Es zeigt kein auffälliges Missbrauchssignal und erfordert eine Akkreditierung medizinischer Anbieter, ohne anonymen Zugang für Konsumenten."
+  },
+  "Vigbo": {
+    "description": "Vigbo ist eine Plattform zum Erstellen und Verwalten von Websites und Webanwendungen mit Fokus auf benutzerfreundliches Design und wenig Coding.",
+    "history": "Vigbo ist ein ukrainischer Website-Builder, der um 2013 gegründet wurde und sich an Fotografen und Portfolio-Ersteller richtet. Die Plattform bietet Hosting und Website-Management-Tools und ist unabhängig geblieben.",
+    "summary_abuse": "Vigbo ist ein Website-Builder mit gehosteten Tarifen. Wie andere SaaS-Website-Builder mit kostenlosen oder günstigen Angeboten könnte er für betrügerische oder Phishing-Seiten genutzt werden, für diese konkrete Plattform sind jedoch keine dokumentierten Missbrauchskampagnen bekannt."
+  },
+  "Vigil": {
+    "description": "Vigil ist eine Statusseite für Microservices; sie überwacht verteilte Infrastruktur und sendet Benachrichtigungen, etwa über Slack oder SMS.",
+    "history": "Vigil ist ein Open-Source-Tool für Microservice-Statusseiten auf Rust-Basis, das um 2018 entstand. Es ist eine selbst gehostete Lösung zur Überwachung verteilter Infrastruktur und blieb ein unabhängiges, von einer Einzelperson gepflegtes Projekt.",
+    "summary_abuse": "Vigil ist ein selbst gehostetes OSS-Tool für Statusseiten ohne auffälliges Missbrauchssignal. Es hat keine cloudgehostete Konsumentenoberfläche und wird vollständig in der eigenen Infrastruktur des Nutzers betrieben."
+  },
+  "Vignette": {
+    "history": "Vignette war ein bedeutender Anbieter von Enterprise-CMS und wurde 1995 in Austin, Texas, gegründet. 2009 wurde das Unternehmen von Open Text Corporation übernommen, danach ging das Produkt schrittweise in OpenTexts Web Experience Management Suite auf. Die Marke Vignette ist faktisch eingestellt.",
+    "summary_abuse": "Vignette ist ein Legacy-Enterprise-CMS, das heute zu OpenText gehört, ohne auffälliges Missbrauchssignal. Es ist ein Enterprise-On-Premise-System ohne Konsumentenoberfläche und weitgehend eingestellt."
+  },
+  "VikaOn": {
+    "description": "VikaOn ist eine türkische E-Commerce-Plattform, über die Unternehmen und Konsumenten Produkte auf einem zentralen digitalen Marktplatz online kaufen und verkaufen können.",
+    "history": "VikaOn ist eine türkische E-Commerce-Plattform, mit der Unternehmen und Konsumenten Onlineshops erstellen und verwalten können. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "VikaOn ist eine türkische E-Commerce-Plattform ohne dokumentiertes spezifisches Missbrauchssignal. Wie jede E-Commerce-Infrastruktur könnte sie für betrügerische Shops genutzt werden, plattformweite Missbrauchsmuster sind jedoch nicht bekannt."
+  },
+  "Vike": {
+    "description": "Vike erweitert Vite-Anwendungen um serverseitiges Rendering (SSR) und statische Seitengenerierung (SSG) und ermöglicht flexible Integration sowie progressive Erweiterung.",
+    "history": "Vike ist ein Open-Source-Framework, das Vite-basierten Anwendungen SSR- und SSG-Funktionen hinzufügt. Es wird vor allem als Community-OSS-Projekt gepflegt und ist seit etwa 2021 aktiv in Entwicklung.",
+    "summary_abuse": "Vike ist eine Open-Source-Erweiterung für das Vite-Framework ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne Konsumentenoberfläche."
+  },
+  "Vikreta": {
+    "description": "Vikreta ist eine Web-Storefront- und POS-Plattform auf Basis von React, Next.js und Tailwind CSS, die auf Vercel bereitgestellt wird und dynamisches Produkt- und Bestellmanagement unterstützt.",
+    "history": "Vikreta ist eine Open-Source-Lösung für Web-Storefronts und POS, gebaut mit React, Next.js und Tailwind CSS. Es ist ein relativ neues Projekt mit begrenzter öffentlicher Geschichte.",
+    "summary_abuse": "Vikreta ist ein Open-Source-E-Commerce-Framework ohne Missbrauchssignal. Als Entwicklerwerkzeug für Storefronts liegt die Missbrauchsfläche bei den Bereitstellungen der Nutzer, nicht beim Framework selbst."
+  },
+  "Viloud": {
+    "description": "Viloud ermöglicht Marken, Online-TV-Kanäle mit geplanten oder On-Demand-Streams zu erstellen.",
+    "history": "Viloud wurde 2015 in Alicante, Spanien, als Online-Videoplattform zum Erstellen und Verteilen linearer und On-Demand-TV-Kanäle gegründet. Bedeutende Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Viloud ist eine Plattform zur Erstellung von Videokanälen ohne auffälliges Missbrauchssignal; sie bedient Marken und Publisher, die legitime Online-TV-Kanäle erstellen, und bietet keine anonyme öffentliche Upload-Fläche."
+  },
+  "Vimeo": {
+    "description": "Vimeo ist eine Plattform für Video-Hosting, Video-Sharing und Videodienste. Vimeo arbeitet werbefrei und finanziert sich über Abonnements.",
+    "history": "Vimeo wurde 2004 von Jake Lodwick und Zach Klein als Video-Sharing-Plattform mit Fokus auf hochwertige kreative Inhalte gegründet. 2021 wurde Vimeo durch die Abspaltung von IAC zu einem unabhängigen börsenkotierten Unternehmen. Vimeo positioniert sich als creator-fokussierte, werbefreie Alternative zu YouTube.",
+    "summary_abuse": "Vimeo hostet von Nutzern hochgeladene Videoinhalte und bietet eine kostenlose Stufe, wodurch eine gewisse Missbrauchsfläche für schädliche oder irreführende Videos entsteht. Vimeo hat jedoch ein Moderationsteam, veröffentlicht Richtlinien und reagiert auf DMCA- und Missbrauchsmeldungen. Wegen seines Rufs für kreative und professionelle Inhalte ist Missbrauch nur ein kleiner Anteil der Gesamtnutzung."
+  },
+  "Vimeo OTT": {
+    "description": "Vimeo OTT ermöglicht Marken und Creators, eigene White-Label-Video-Abo-Kanäle zu starten, auf denen Abonnenten Inhalte kostenlos, zur Miete oder zum Kauf abrufen können.",
+    "history": "Vimeo OTT, früher VHX, wurde 2016 von Vimeo übernommen, damit Creators und Marken White-Label-Abo-Videodienste starten können. Es ist heute vollständig als OTT-Angebot von Vimeo integriert.",
+    "summary_abuse": "Vimeo OTT ist eine Abo-Videoplattform für Creators. Die Missbrauchsfläche ist begrenzt, da jeder Kanal von einem zahlenden Creator separat verwaltet wird und eine Zahlungseinrichtung erfordert. Bedeutende plattformspezifische Missbrauchskampagnen sind nicht dokumentiert."
+  },
+  "Vimos": {
+    "description": "Vimos ist ein Marketing-SaaS mit Spezialisierung auf Marketingautomatisierung.",
+    "history": "Vimos ist ein SaaS für Marketingautomatisierung. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Vimos ist eine Plattform für Marketingautomatisierung. Solche Tools können für Spam-Kampagnen missbraucht werden, für Vimos sind jedoch keine konkreten dokumentierten Missbrauchsfälle bekannt."
+  },
+  "Vincere": {
+    "description": "Vincere ist eine All-in-one-Software für Personalvermittlungsagenturen.",
+    "history": "Vincere ist eine in Singapur ansässige Recruiting-Softwareplattform, die 2012 gegründet wurde; sie bietet CRM, ATS und Business-Intelligence-Tools für Personal- und Recruiting-Agenturen, hat Finanzierung erhalten und ist unabhängig geblieben.",
+    "summary_abuse": "Vincere ist eine B2B-Softwareplattform für Recruiting-Agenturen ohne auffälliges Missbrauchssignal; sie erfordert Enterprise-Kontoeinrichtung und hat keine anonyme oder konsumentenorientierte Oberfläche."
+  },
+  "vinSUITE": {
+    "description": "vinSUITE ist eine DTC-Softwareplattform speziell für Weingüter, die Kundenbeziehungen, Inventar, Verkauf und Marketing zentralisiert verwaltet.",
+    "history": "vinSUITE wurde 2003 als Softwareplattform speziell für US-Weingüter gegründet und kombiniert Direct-to-Consumer-E-Commerce, Wine-Club-Management, Tasting-Room-POS und CRM in einem System. Das Unternehmen wurde von Constellation Software übernommen, einem kanadischen börsenkotierten Käufer von Vertical-Market-Softwareunternehmen.",
+    "summary_abuse": "vinSUITE ist eine Nischen-DTC-Softwareplattform für Weingüter ohne auffälliges Missbrauchssignal; sie verarbeitet Weinverkäufe und Clubmitgliedschaften für lizenzierte Weingüter, also regulierte Unternehmen. Es gibt keine offene Konsumentenplattform, die für Phishing oder Betrug ausgenutzt werden könnte."
+  },
+  "Vintcer": {
+    "description": "Vintcer ist ein Drag-and-drop-Website-Builder mit integriertem Seitenmanager, Hosting und E-Mail-Diensten.",
+    "history": "Vintcer ist ein Drag-and-drop-Website-Builder mit Hosting und E-Mail-Marketing. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Vintcer ist ein Website-Builder mit Hosting. Website-Builder mit kostenlosem Hosting können zum Erstellen von Phishing-Seiten genutzt werden, Vintcer ist jedoch ein kleiner Nischenanbieter und es sind keine konkreten dokumentierten Missbrauchsfälle verzeichnet."
+  },
+  "Vioma": {
+    "description": "Vioma ist ein Online-Marketing-System.",
+    "history": "Vioma ist ein deutsches Online-Marketing-System für Gastgewerbe- und Tourismusbetriebe. Es ist seit den frühen 2000er-Jahren tätig, ohne dokumentierte bedeutende Eigentümerwechsel.",
+    "summary_abuse": "Vioma ist ein Marketingsystem für Gastgewerbebetriebe ohne auffälliges Missbrauchssignal. Es ist ein B2B-Tool für Reise- und Hotelanbieter ohne anonyme Konsumentenoberfläche."
+  },
+  "Viqeo": {
+    "description": "Viqeo ist eine Kurzvideo-Plattform, die Medien und E-Commerce visueller und interessanter macht.",
+    "history": "Viqeo ist eine Kurzvideo-Plattform für Medien- und E-Commerce-Publisher, die um 2017 in Russland gegründet wurde; sie bietet einbettbare Video-Widgets und weist keine dokumentierten bedeutenden Eigentümerwechsel auf.",
+    "summary_abuse": "Viqeo ist eine Videoplattform für Publisher ohne auffälliges Missbrauchssignal; sie ist ein B2B-Tool, erfordert Händler-Integration und hostet keine beliebigen nutzergenerierten Inhalte."
+  },
+  "Viral Loops": {
+    "description": "Viral Loops ist eine Plattform für virales und Referral-Marketing, mit der Ranking-Wettbewerbe, Gewinnspiele, Pre-Launch- und Empfehlungsprogramme gestartet werden können.",
+    "history": "Viral Loops ist ein in Griechenland gegründetes SaaS für Referral- und virales Marketing aus dem Jahr 2017. Es bietet Kampagnenvorlagen für Empfehlungsprogramme, die erfolgreichen Kampagnen wie Dropbox und Airbnb nachempfunden sind.",
+    "summary_abuse": "Viral Loops ist eine Plattform für Referral-Marketing. Empfehlungsprogramme können für Prämienbetrug missbraucht werden, etwa durch gefälschte Empfehlungen oder Account Farming, was ein branchenweites Risiko solcher Tools ist. Dokumentierte plattformspezifische Exploits sind nicht bekannt."
+  },
+  "Virgool": {
+    "history": "Virgool ist eine iranische Blogging- und Content-Publishing-Plattform, die um 2017 gegründet wurde; sie ist in der persischsprachigen Community als Medium-ähnlicher Dienst beliebt und operiert vor allem im Iran.",
+    "summary_abuse": "Virgool ist eine iranische Blogging-Plattform mit nutzergenerierten Inhalten. Als offene Publishing-Plattform hat sie ein gewisses Risiko für Spam und minderwertige Inhalte, es sind jedoch keine gross angelegten Missbrauchskampagnen für Phishing oder Malware-Verteilung dokumentiert."
+  },
+  "VirtFusion": {
+    "description": "VirtFusion ist eine moderne Virtualisierungsmanagement-Plattform für Hosting-Anbieter, um virtuelle Maschinen, Nutzer, Billing-Integrationen und Infrastrukturprozesse zentral zu verwalten.",
+    "history": "VirtFusion ist eine Virtualisierungsmanagement-Plattform für Hosting-Anbieter, die um 2018 gegründet wurde; sie ermöglicht Hosting-Unternehmen, KVM-VMs für ihre Kunden bereitzustellen und zu verwalten.",
+    "summary_abuse": "VirtFusion ist eine VPS-Management-Plattform für Hosting-Anbieter. VPS-Infrastruktur wird breit für legitime und illegitime Zwecke genutzt, VirtFusion selbst ist aber die Verwaltungsschicht, die von seriösen Hosting-Anbietern eingesetzt wird. Missbrauch hängt von den Richtlinien des jeweiligen Hosting-Unternehmens ab."
+  },
+  "Virtooal": {
+    "description": "Virtooal ermöglicht Käufern, dekorative Kosmetik, Sonnenbrillen, Kontaktlinsen, Schmuck und Modeaccessoires mit Modellen, eigenem Foto oder Live-Webcam-Feed virtuell anzuprobieren und zu kombinieren.",
+    "history": "Virtooal ist eine israelische Augmented-Reality-Plattform für virtuelle Anproben von Kosmetik, Brillen und Accessoires im E-Commerce. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Virtooal ist ein E-Commerce-AR-Widget für virtuelle Anproben ohne auffälliges Missbrauchssignal. Es ist ein B2B-Produkt, das Händler-Integration erfordert und keine direkte eigenständige Konsumentenoberfläche bietet."
+  },
+  "Virtuagym": {
+    "description": "Virtuagym ist eine cloudbasierte Plattform für Mitgliederverwaltung und Coaching, entwickelt für Personal Trainer und Fitnessunternehmen jeder Grösse.",
+    "history": "Virtuagym ist eine niederländische cloudbasierte Plattform für Fitness- und Studiomanagement, die 2010 gegründet wurde; sie bietet Mitgliederverwaltung, Coaching und Terminplanung für Fitnessstudios und Gesundheitsclubs, hat Venture-Finanzierung erhalten und ist unabhängig geblieben.",
+    "summary_abuse": "Virtuagym ist ein SaaS für Fitnessclub-Management ohne auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Fitnessstudios ohne anonyme oder konsumentenorientierte Content-Hosting-Fläche."
+  },
+  "Virtual Chat": {
+    "description": "Virtual Chat ist ein Live-Chat-Dienst für Websites.",
+    "history": "Virtual Chat ist ein israelischer Live-Chat-Dienst für Websites. Bedeutende Gründungsdetails, Eigentümerwechsel oder Übernahmen sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Virtual Chat ist ein Live-Chat-Widget ohne auffälliges Missbrauchssignal. Es bietet betreibervermittelten Chat-Support und keine anonyme Content-Hosting-Fläche."
+  },
+  "VirtualSpirits": {
+    "description": "VirtualSpirits ist ein Chatbot- und Live-Chat-Dienst für Websites.",
+    "history": "VirtualSpirits ist eine israelische Chatbot- und Live-Chat-Plattform für Websites, die um 2012 gegründet wurde; sie bietet automatisierte Chatbots mit Übergabe an Live-Agenten und weist keine bedeutenden Eigentümerwechsel auf.",
+    "summary_abuse": "VirtualSpirits ist ein Chatbot- und Live-Chat-Dienst ohne auffälliges Missbrauchssignal. Er erfordert Händler-Integration und stellt keine anonyme, konsumentenorientierte Kommunikationsfläche bereit."
+  },
+  "VirtueMart": {
+    "description": "VirtueMart ist eine Open-Source-E-Commerce-Lösung als Erweiterung für Joomla, mit der Nutzer Onlineshops mit Funktionen für Produktverwaltung, Zahlungsabwicklung und Bestellabwicklung erstellen und betreiben können.",
+    "history": "VirtueMart ist eine Open-Source-E-Commerce-Erweiterung für Joomla und wurde 2004 erstmals veröffentlicht. Es basierte ursprünglich auf mambo-phpShop und wurde 2006 als VirtueMart 1.0 neu geschrieben. Es bleibt eines der meistgenutzten E-Commerce-Plugins für das Joomla CMS.",
+    "summary_abuse": "VirtueMart ist eine selbst gehostete Joomla-E-Commerce-Erweiterung. Wie jede E-Commerce-Software kann sie zum Betrieb betrügerischer Shops installiert werden, dies liegt jedoch im Ermessen des Website-Betreibers und ist kein Plattformproblem. Veraltete Installationen werden gelegentlich über bekannte Schwachstellen ausgenutzt, wie es bei Legacy-PHP-Software üblich ist."
+  },
+  "Virtuoso": {
+    "history": "Virtuoso von OpenLink Software ist eine Multi-Model-Datenbank-Engine für RDF und relationale Daten, die erstmals Ende der 1980er-Jahre veröffentlicht wurde; sie treibt den DBpedia Knowledge Graph an und wird breit in Semantic-Web- und Linked-Data-Anwendungen eingesetzt. OpenLink Software pflegt sie seit Jahrzehnten.",
+    "summary_abuse": "Virtuoso ist eine Datenbank-Engine für Semantic-Web- und Linked-Data-Anwendungen; sie zeigt kein auffälliges Missbrauchssignal, da sie eine Backend-Infrastrukturkomponente ohne Konsumentenoberfläche ist."
+  },
+  "Virtuous": {
+    "description": "Virtuous ist eine responsive Fundraising-Softwareplattform.",
+    "history": "Virtuous ist eine US-basierte Fundraising- und Spenderverwaltungsplattform, die um 2014 gegründet wurde und sich an Nonprofit-Organisationen richtet; sie hat Venture-Finanzierung erhalten und fokussiert auf responsive Fundraising-Praktiken.",
+    "summary_abuse": "Virtuous ist eine Nonprofit-CRM- und Fundraising-Plattform ohne auffälliges Missbrauchssignal. Es ist ein B2B-Produkt für registrierte Nonprofits ohne anonyme oder konsumentenorientierte Content-Fläche."
+  },
+  "Virtusize": {
+    "description": "Virtusize ist ein Personalisierungsdienst, der Grössen- und Produktempfehlungen passend zu den Massen und Stilpräferenzen eines Nutzers liefert.",
+    "history": "Virtusize ist ein schwedisch-japanisches E-Commerce-Personalisierungsunternehmen, das 2011 gegründet wurde. Es bietet Grössenempfehlungs- und Passformtechnologie für Modehändler, hat Büros in Stockholm und Tokio und bedient grosse Modemarken.",
+    "summary_abuse": "Virtusize ist ein B2B-Widget für Grössenempfehlungen bei Modehändlern ohne auffälliges Missbrauchssignal. Es hostet keine Nutzerinhalte und erfordert Händler-Integration."
+  },
+  "Visa": {
+    "history": "Visa wurde 1958 von Bank of America als BankAmericard gegründet, bevor daraus VisaNet und später Visa Inc. entstand. 2008 ging das Unternehmen an der NYSE an die Börse. Heute betreibt Visa das weltweit grösste elektronische Zahlungsnetzwerk im Einzelhandel und verarbeitet jährlich Milliarden von Transaktionen.",
+    "summary_abuse": "Visa ist kritische Zahlungsinfrastruktur und Ziel von Card-not-present-Betrug, Kartenskimming und Account Takeover auf Ebene von Issuern und Acquirern, nicht direkt bei Visa selbst. Visa betreibt umfangreiche Betrugspräventionssysteme wie Visa Secure und veröffentlicht PCI DSS-Compliance-Frameworks. Betrüger missbrauchen das Visa-Netzwerk über kompromittierte Händler und gestohlene Kartendaten, nicht über Visas eigene Systeme."
+  },
+  "Visa Checkout": {
+    "description": "Visa ermöglicht weltweit elektronische Geldtransfers, meist über Kreditkarten, Debitkarten und Prepaid-Karten mit Visa-Branding.",
+    "history": "Visa Checkout war Visas One-Click-Digital-Wallet-Lösung, die 2014 eingeführt wurde. Visa kündigte ab 2019 an, sie durch Visas Click to Pay auf Basis des EMV SRC-Standards zu ersetzen. Visa Checkout wurde zugunsten des Branchenstandards Click to Pay eingestellt.",
+    "summary_abuse": "Visa Checkout ist ein eingestellter Digital-Wallet-Dienst von Visa. Er zeigte kein auffälliges Missbrauchssignal über die allgemeinen Zahlungsbetrugsrisiken hinaus, die bei allen digitalen Zahlungsdiensten vorkommen und durch Visas Betrugserkennung adressiert werden."
+  },
+  "VisBook": {
+    "description": "VisBook ist ein Property-Management-System, mit dem Hotels und Unterkunftsanbieter Reservierungen, tägliche Abläufe und gastbezogene Aktivitäten zentral verwalten.",
+    "history": "VisBook ist ein norwegisches Property-Management-System für Hotels und Unterkunftsanbieter, das um 1998 gegründet wurde. Es bedient den nordischen Gastgewerbemarkt und ist unabhängig geblieben.",
+    "summary_abuse": "VisBook ist ein Property-Management-SaaS für Hotels ohne auffälliges Missbrauchssignal. Es ist ein B2B-System für Unterkunftsanbieter ohne öffentliche Konsumenten-Content-Fläche."
+  },
+  "Visely": {
+    "description": "Visely ist eine Shopify-App, die Produktempfehlungen für Shopify-Websites personalisiert.",
+    "history": "Visely ist eine App für Produktempfehlungen in Shopify-Shops, die um 2016 gegründet wurde; sie bietet KI-gestützte Produktpersonalisierung für E-Commerce-Händler und weist keine bedeutenden Eigentümerwechsel auf.",
+    "summary_abuse": "Visely ist ein Shopify-Widget für Produktempfehlungen ohne auffälliges Missbrauchssignal. Es ist ein B2B-Tool, das Händler-Integration erfordert und keine eigenständige Konsumentenoberfläche bietet."
+  },
+  "Visenze": {
+    "description": "Visenze ist eine AI-Commerce-Plattform mit Spezialisierung auf Suche und Discovery, damit Unternehmen Produktsichtbarkeit und Kundenbindung verbessern können.",
+    "history": "ViSenze ist eine singapurische AI-Commerce-Plattform, die 2012 gegründet wurde und auf visuelle Suche und Product Discovery im E-Commerce spezialisiert ist; sie hat erhebliche Venture-Finanzierung erhalten und bedient grosse globale Händler.",
+    "summary_abuse": "ViSenze ist eine B2B-KI-Suchplattform für Händler ohne auffälliges Missbrauchssignal; sie verarbeitet Produktbilder für Händler und bietet keine konsumentenorientierte Content-Hosting-Fläche."
+  },
+  "Visible Privacy": {
+    "description": "Visible Privacy ist eine datenschutzorientierte Consent-Management-Plattform, die mit grossen CMS- und E-Commerce-Systemen kompatibel ist.",
+    "history": "Visible Privacy ist eine Consent-Management-Plattform für GDPR-Compliance, kompatibel mit grossen CMS- und E-Commerce-Plattformen. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Visible Privacy ist ein GDPR-Consent-Management-Tool ohne auffälliges Missbrauchssignal. CMP-Tools dienen der Umsetzung von Datenschutz-Compliance und sind keine typischen Missbrauchsvektoren."
+  },
+  "VisiOpt": {
+    "description": "VisiOpt™ ist ein leistungsfähiges, einfach nutzbares KI-gestütztes Optimierungssystem, mit dem sich passende Kunden in grossem Umfang gezielt gewinnen lassen.",
+    "history": "VisiOpt ist eine KI-gestützte Plattform für A/B-Testing und CRO-Optimierung. Bedeutende Gründungsdetails, Eigentümerwechsel oder Übernahmen sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "VisiOpt ist ein Tool für A/B-Testing und Funnel-Optimierung ohne auffälliges Missbrauchssignal. Es richtet sich an Digital Marketer und bietet keine anonyme Content-Hosting-Fläche."
+  },
+  "Visitor Chat": {
+    "description": "Visitor Chat bietet Unternehmen gemanagte Live-Chat-Lösungen für den Automotive-Bereich, um Kundenbeziehungen zu verbessern.",
+    "history": "Visitor Chat ist ein gemanagter Live-Chat-Dienst mit menschlichen Agenten für Automotive- und andere Branchenwebsites. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Visitor Chat ist ein gemanagter Live-Chat-Dienst ohne auffälliges Missbrauchssignal. Er stellt menschliche Agentengespräche für Unternehmenswebsites bereit und öffnet keine anonyme Konsumentenfläche."
+  },
+  "Visitor.js": {
+    "description": "Visitor.js personalisiert Website-Inhalte, um Nutzerbindung und Conversion Rates zu verbessern.",
+    "history": "Visitor.js ist ein Website-Personalisierungstool, das Inhalte anhand des Nutzerverhaltens anpasst. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Visitor.js ist ein Personalisierungstool. Website-Personalisierungsskripte können Datenschutzbedenken auslösen, für Visitor.js sind jedoch keine konkreten dokumentierten Missbrauchsfälle bekannt."
+  },
+  "VisitorVille": {
+    "description": "VisitorVille visualisiert Website-Besucher als SimCity-ähnliche Karte und bietet eine interaktive Art, Traffic und Nutzerverhalten zu analysieren.",
+    "history": "VisitorVille ist ein Website-Analytics-Tool, das Webtraffic als Stadtlandschaft im SimCity-Stil visualisiert. Es gehörte zu den frühen kreativen Analytics-Visualisierungstools und zeigt in den letzten Jahren rückläufige Aktivität.",
+    "summary_abuse": "VisitorVille ist ein Web-Analytics-Visualisierungstool ohne auffälliges Missbrauchssignal. Es ist ein reiner Analysedienst ohne Konsumentenoberfläche oder Content-Hosting-Fläche."
+  },
+  "Viskan": {
+    "description": "Viskan ist eine skalierbare Plattform zur Unterstützung von E-Commerce-Wachstum.",
+    "history": "Viskan ist eine schwedische skalierbare E-Commerce-Plattform, die um 2000 gegründet wurde und sich an Mid-Market- und Enterprise-Händler in der nordischen Region richtet; sie ist unabhängig geblieben.",
+    "summary_abuse": "Viskan ist eine B2B-E-Commerce-Plattform ohne auffälliges Missbrauchssignal; sie bedient Enterprise-Händler und erfordert umfangreiche Integration, ohne anonyme Konsumenten-Content-Fläche."
+  },
+  "Visual Composer": {
+    "description": "Visual Composer ist ein All-in-one-Webdesign-Tool für alle, die WordPress nutzen.",
+    "history": "Visual Composer ist ein WordPress-Page-Builder-Plugin, das ursprünglich von WPBakery als WPBakery Page Builder, früher VC, erstellt wurde. Später entstanden daraus zwei getrennte Produkte: WPBakery Page Builder und Visual Composer Website Builder, letzterer entwickelt vom lettischen Unternehmen Visual Composer. Beide bleiben beliebte WordPress-Page-Builder.",
+    "summary_abuse": "Visual Composer ist ein WordPress-Page-Builder-Plugin ohne spezifisches Missbrauchssignal. Als Frontend-Design-Tool für WordPress-Websites führt es keine besonderen Missbrauchsvektoren ein, die über die allgemeinen Risiken von WordPress-Installationen hinausgehen."
+  },
+  "Visual Portfolio": {
+    "description": "Visual Portfolio ist ein Plugin mit umfangreichen Funktionen, um Galerien zu erstellen, die kreative Projekte wirkungsvoll präsentieren.",
+    "history": "Visual Portfolio ist ein WordPress-Galerie-Plugin von nK, einem ukrainischen Entwickler, und ist auf WordPress.org als kostenlose und Pro-Version verfügbar. Bedeutende Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Visual Portfolio ist ein WordPress-Galerie-Plugin ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Tool und bietet keine Content-Hosting-Fläche für Konsumenten."
+  },
+  "Visual Quiz Builder": {
+    "description": "Visual Quiz Builder ist eine Shopify-App von AskWhai.",
+    "history": "Visual Quiz Builder ist eine von AskWhai entwickelte Shopify-Quiz-App. Bedeutende Eigentümerwechsel oder ein Gründungsdatum sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Visual Quiz Builder ist ein Shopify-Quiz-Tool ohne auffälliges Missbrauchssignal. Es arbeitet innerhalb des Shopify-Ökosystems."
+  },
+  "Visualsoft": {
+    "description": "Visualsoft ist eine E-Commerce-Agentur, die Webdesign, Entwicklung und Marketingdienste für Onlinehändler anbietet.",
+    "history": "Visualsoft ist eine britische E-Commerce-Plattform und Agentur, die 1998 gegründet wurde; sie bietet Webdesign, Entwicklung und digitales Marketing für Onlinehändler und ist unabhängig geblieben.",
+    "summary_abuse": "Visualsoft ist eine britische E-Commerce-Plattform ohne auffälliges Missbrauchssignal; sie bedient etablierte Händler unter Enterprise-Verträgen und bietet keine anonyme Konsumenten-Content-Fläche."
+  },
+  "Visx": {
+    "description": "Visx ist eine Sammlung React-basierter Datenvisualisierungstools, entwickelt von Airbnb.",
+    "history": "Visx ist eine Sammlung React-basierter Primitive für Datenvisualisierung, die von Airbnb entwickelt und um 2020 als Open Source veröffentlicht wurde; sie bietet grundlegende Bausteine zum Erstellen eigener Visualisierungen mit D3 und React.",
+    "summary_abuse": "Visx ist eine clientseitige Bibliothek für Datenvisualisierung ohne Konsumentenoberfläche und ohne dokumentiertes Missbrauchssignal."
+  },
+  "Vitals": {
+    "description": "Vitals ist eine All-in-one-Marketingsoftware für Shopify.",
+    "history": "Vitals ist eine All-in-one-Marketing-App für Shopify aus Portugal, die mehr als 40 Marketingfunktionen in einer App anbietet; sie ist zu einer der bestbewerteten Apps im Shopify App Store geworden.",
+    "summary_abuse": "Vitals ist eine legitime Shopify-Marketing-App ohne auffälliges Missbrauchssignal; sie arbeitet innerhalb des Shopify-App-Ökosystems mit dessen eigenen Prüf- und Missbrauchsrichtlinien."
+  },
+  "Vite": {
+    "description": "Vite ist ein schnelles Entwicklungstool für moderne Webprojekte.",
+    "history": "Vite wurde von Evan You, dem Schöpfer von Vue.js, entwickelt und 2020 erstmals veröffentlicht. Es wurde rasch zum führenden Frontend-Build-Tool und ersetzte in vielen Projekten webpack-basierte Setups. Es wird vom Vue/Vite-Ökosystem getragen und breit in React, Vue, Svelte und anderen Frameworks übernommen.",
+    "summary_abuse": "Vite ist ein Frontend-Build-Tool ohne auffälliges Missbrauchssignal. Es ist ein Entwicklungswerkzeug ohne serverseitige oder Content-Hosting-Fläche, die Betrüger gezielt ausnutzen."
+  },
+  "VitePress": {
+    "description": "VitePress ist ein von Vite und Vue angetriebener Static Site Generator.",
+    "history": "VitePress ist ein Open-Source-Static-Site-Generator auf Basis von Vite und Vue, der vom Vite/Vue-Ökosystemteam erstellt und um 2021 veröffentlicht wurde. Er ist der Nachfolger von VuePress und wird für Dokumentationsseiten genutzt.",
+    "summary_abuse": "VitePress ist ein Static Site Generator ohne auffälliges Missbrauchssignal. Es ist ein Build-Tool zur Erzeugung statischer Dokumentationsseiten ohne serverseitige oder Content-Hosting-Fläche."
+  },
+  "Vitrin.me": {
+    "description": "Vitrin.me ist eine No-Code-Plattform, mit der jeder Web-Apps erstellen kann, ohne Code zu schreiben.",
+    "history": "Vitrin.me ist ein persischsprachiger No-Code-Web-App-Builder für iranische Unternehmer und KMU, mit dem Nutzer Webanwendungen ohne Programmierung erstellen können. Die Plattform wurde um 2018 gegründet, operiert vor allem im iranischen Markt und bietet günstige Tarife.",
+    "summary_abuse": "Vitrin.me ist ein No-Code-Page-Builder mit minimalem öffentlichen Missbrauchssignal. Als Plattform für eigene Webinhalte könnte sie theoretisch Phishing-Seiten hosten, doch der persischsprachige Nischenmarkt und das geringe Profil sprechen gegen dokumentierte Missbrauchsmuster. Öffentliche Details zu AUP oder Missbrauchsmeldungen sind nicht sichtbar."
+  },
+  "Vivenu": {
+    "description": "Vivenu ist eine Ticketing-Plattform.",
+    "history": "Vivenu ist eine deutsche Ticketing-Plattform, die 2019 gegründet wurde; sie bietet Tools für Eventticket-Management und Verkauf für Veranstalter und hat Venture-Finanzierung erhalten.",
+    "summary_abuse": "Vivenu ist eine Ticketing-Plattform. Ticketplattformen können zum Verkauf gefälschter Eventtickets missbraucht werden, für Vivenu sind jedoch keine dokumentierten plattformspezifischen Missbrauchskampagnen bekannt. Das B2B-Modell für legitime Veranstalter reduziert das Missbrauchsrisiko."
+  },
+  "VIVVO": {
+    "history": "VIVVO ist ein CMS, das ursprünglich in Serbien entwickelt wurde und vor allem in Medien und Publishing eingesetzt wurde. Über den aktuellen Entwicklungsstand sind nur begrenzte öffentliche Informationen verfügbar.",
+    "summary_abuse": "VIVVO zeigt kein auffälliges Missbrauchssignal. Es ist ein Legacy-CMS für selbst gehostete Medienpublisher ohne gehostete Content-Funktionen für Konsumenten."
+  },
+  "Vizium": {
+    "description": "Vizium ist eine Plattform, die Patientenbewertungen aggregiert und analysiert, um die Beurteilung der Gesundheitsqualität zu unterstützen.",
+    "history": "Vizium360 ist eine US-basierte Plattform für Reputationsmanagement im Gesundheitswesen mit Patientenumfragen, Generierung von Onlinebewertungen und Reputationsmanagement für Arztpraxen. Die Plattform betreibt RealPatientRatings.com und hat über 1,5 Millionen verifizierte Patientenbewertungen gesammelt.",
+    "summary_abuse": "Vizium360 ist eine healthcare-spezifische Plattform für Bewertungsmanagement ohne nennenswertes Missbrauchssignal; sie bedient medizinische Anbieter, die Patientenfeedback und Reputationsmanagement benötigen, ein Kontext, der betrügerische Nutzung nahezu ausschliesst. Der Fokus auf verifizierte Patienten und Healthcare-Compliance senkt das Missbrauchsrisiko zusätzlich."
+  },
+  "Vizury": {
+    "description": "Vizury ist eine E-Commerce-Marketingplattform.",
+    "history": "Vizury wurde 2008 in Indien von Chetan Kulkarni, Gourav Chindlur und Vikram Nayak als Plattform für E-Commerce-Retargeting und Marketingautomatisierung gegründet. Im September 2018 übernahm Affle India Vizurys Commerce-Geschäft für 10 Millionen US-Dollar. Marke und Plattform laufen heute unter Affle.",
+    "summary_abuse": "Vizury ist eine Plattform für E-Commerce-Marketingautomatisierung und Retargeting ohne auffälliges Missbrauchssignal. Als B2B-Tool für Marken im E-Commerce und BFSI ist es kein konsumentenorientierter Dienst, den Betrüger typischerweise angreifen. Push-Benachrichtigungen könnten theoretisch für Spam missbraucht werden, dokumentierte Vorfälle sind jedoch nicht bekannt."
+  },
+  "VK Pixel": {
+    "description": "VK ist ein russischer Online-Social-Media- und Social-Networking-Dienst.",
+    "history": "VK Pixel ist das Werbe-Tracking-Pixel für VKontakte (VK), Russlands grösstes soziales Netzwerk, das 2006 gegründet wurde. Das Pixel verfolgt Nutzerverhalten für VK-Werbe-Retargeting. VK gehört zur VK Group, früher Mail.ru Group, einem russischen Technologiekonglomerat.",
+    "summary_abuse": "VK Pixel ist das Tracking-Pixel für VKontakte, Russlands grösstes soziales Netzwerk. Es sammelt Verhaltensdaten über Websites hinweg für Werbe-Retargeting. Als russisches Unternehmen unter russischem Recht ist VK nicht GDPR-konform, und Daten können russischen Behörden zugänglich sein. Für Nutzer in EU- und westlichen Jurisdiktionen trägt es ein erhebliches Datenschutzrisiko. VK unterliegt in einigen Ländern Sanktionen."
+  },
+  "VKUI": {
+    "description": "VKUI ist eine Sammlung von React-Komponenten, mit denen du Oberflächen erstellen kannst, die visuell kaum von unseren iOS- und Android-Apps zu unterscheiden sind.",
+    "history": "VKUI ist eine von VK (VKontakte) entwickelte React-Komponentenbibliothek, die um 2019 als Open Source veröffentlicht wurde; sie bietet UI-Komponenten im Designstil der mobilen VK-Apps für den Bau von VK-Mini-Apps und Weboberflächen.",
+    "summary_abuse": "VKUI hat als UI-Bibliothek ein minimales Missbrauchssignal; sie wird von VK, dem russischen sozialen Netzwerk, entwickelt, und Anwendungen, die damit gebaut werden, können VKs Datenrichtlinien unterliegen. Die Bibliothek selbst ist jedoch kein Mittel für Betrug."
+  },
+  "Vnda": {
+    "description": "Vnda ist eine Omnichannel-E-Commerce-Plattform.",
+    "history": "Vnda wurde 2010 von Denis Osorio und Gustavo Reis in Porto Alegre, Brasilien, gegründet. Das Unternehmen bietet eine Omnichannel-E-Commerce-Plattform für brasilianische Händler. Vnda wurde später von Olist, einer bedeutenden brasilianischen E-Commerce-Gruppe, übernommen und ist heute Teil der E-Commerce-Lösungssuite der Olist Group.",
+    "summary_abuse": "Vnda ist eine B2B-E-Commerce-Plattform für brasilianische Händler ohne auffälliges Missbrauchssignal. Die Plattform wird von legitimen Unternehmen zum Aufbau von Onlineshops genutzt, und es gibt keine dokumentierten Fälle von Phishing, Scam-Shops oder Betrug, die speziell Vnda zugeschrieben werden."
+  },
+  "VNN Sports": {
+    "description": "VNN Sports ist eine Marketingsoftware für Schulsport, die Administratoren, Athleten, Eltern, Fans und Marken rund um High-School-Sport verbindet.",
+    "history": "VNN (Varsity News Network) wurde 2010 von Ryan Vaughn und Matt Anderson in Grand Rapids, Michigan, als Marketing- und Kommunikationsplattform für Schulsport gegründet. 2020 übernahm VNN RallyAroundUs, Washington Prep Athletics Network und Wisconsin Sports Network. Im März 2022 schloss VNN eine bargeldlose Fusion mit rSchoolToday ab, wodurch nutzerorientierte Produkte mit rSchoolTodays Backoffice-Tools für Athletic Directors kombiniert wurden. Die gemeinsame Einheit trat im Mai 2023 PlayOn Sports bei, wodurch VNN zu einem Produkt unter dem Dach von PlayOn Sports wurde.",
+    "summary_abuse": "VNN Sports ist eine SaaS-Kommunikationsplattform für Schulsportabteilungen ohne auffälliges Missbrauchssignal. Die Plattform bedient High-School-Athletic-Departments und hat keine Konsumentenoberfläche, die Phishing oder Betrug anziehen würde. Dokumentierte Missbrauchsfälle oder Sicherheitsvorfälle im Zusammenhang mit dem Dienst sind nicht bekannt."
+  },
+  "Vntana": {
+    "description": "Vntana, stilisiert als VNTANA, ist ein amerikanisches Unternehmen für Social Augmented Reality.",
+    "history": "VNTANA wurde 2012 in Los Angeles von Ashley Crowder und Ben Conway gegründet und konzentrierte sich zunächst auf Social Augmented Reality. Das Unternehmen wechselte später zu 3D-Asset-Management und AR für E-Commerce und sammelte insgesamt 13,2 Millionen US-Dollar Finanzierung ein, darunter eine Runde 2021 mit Unterstützung von Mark Cuban und dem früheren Oculus-CEO Brendan Iribe.",
+    "summary_abuse": "VNTANA ist eine Plattform für 3D-Asset-Management und Augmented Reality im E-Commerce und Marketing ohne auffälliges Missbrauchssignal. Die Plattform bedient Marken- und Enterprise-Kunden, die digitale Assets verwalten, und ist kein konsumentenorientierter Dienst mit erheblicher Betrugsfläche."
+  },
+  "VocalReferences": {
+    "description": "VocalReferences bietet Tools für Testimonials, Bewertungen und Ratings, mit denen Onlineunternehmen Kundenfeedback sammeln und anzeigen können.",
+    "history": "VocalReferences wurde 2008 gegründet und wird von Local Hits Media LLC, einem israelischen Startup, betrieben. Die Plattform sammelt Video- und Text-Testimonials von Kunden, optimiert sie für Suchmaschinen und bettet sie auf Unternehmenswebsites ein.",
+    "summary_abuse": "VocalReferences ist eine Plattform zum Sammeln von Testimonials und Bewertungen mit minimalem Missbrauchsrisiko; sie erlaubt keine anonyme Inhaltserstellung und richtet sich an KMU, die verifizierte Kundenreferenzen sammeln. Dokumentierte Missbrauchsmuster sind nicht bekannt."
+  },
+  "Voice Intuitive": {
+    "description": "Voice Intuitive verbessert die Barrierefreiheit von Webinhalten durch Sprach- und Übersetzungsdienste mit Unterstützung mehrerer Sprachen.",
+    "history": "Voice Intuitive ist eine Accessibility-Plattform mit Sprach- und Übersetzungstools für Webinhalte. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Voice Intuitive ist ein Accessibility-Tool ohne auffälliges Missbrauchssignal. Es dient der Barrierefreiheit von Websites und bietet keine Konsumenten-Content-Hosting-Fläche."
+  },
+  "Voizee": {
+    "description": "Voizee ist eine KI-gestützte Plattform, mit der Unternehmen automatisierte und menschlich unterstützte Textnachrichten und Sprachanrufe für Kundenkommunikation und operative Workflows verwalten können.",
+    "history": "Voizee ist eine KI-gestützte Plattform für Geschäftskommunikation, die um 2020 gestartet wurde; sie bietet SMS-Marketing, Massen-SMS, virtuelle Telefonsysteme und Website-Chat-Widgets für KMU. Die Tarife reichen von 25 bis 249 US-Dollar pro Monat.",
+    "summary_abuse": "Voizee bietet SMS- und Sprachkommunikationsdienste für Unternehmen. Massen-SMS-Funktionen könnten für SMS-Spam missbraucht werden, wenn die Kontoüberprüfung schwach ist. Die Plattform erfordert jedoch ein kostenpflichtiges Abonnement und richtet sich an KMU mit legitimer Kundenkommunikation. Konkrete dokumentierte Missbrauchsfälle sind nicht bekannt."
+  },
+  "Volley": {
+    "description": "Volley ist ein Website-Annotationstool für visuelles Feedback auf Websites.",
+    "history": "Volley ist ein visuelles Website-Annotations- und Feedbacktool, das um 2018 gegründet wurde. Teams nutzen es, um während Design-Reviews visuelle Kommentare auf Live-Websites zu sammeln.",
+    "summary_abuse": "Volley ist ein Website-Annotationstool für Designfeedback ohne auffälliges Missbrauchssignal. Es ist ein B2B-Kollaborationstool ohne anonyme Konsumenten-Content-Fläche."
+  },
+  "Voltage": {
+    "description": "Voltage ist eine Zahlungsplattform, mit der Nutzer Bitcoin weltweit über ein sicheres Netzwerk senden können.",
+    "history": "Voltage ist eine Zahlungsplattform für das Bitcoin Lightning Network. Gründungsdetails sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Voltage ist ein Zahlungsdienst für das Bitcoin Lightning Network. Kryptowährungs-Zahlungsdienste können für illegale Transaktionen wie Geldwäsche oder Zahlungen für illegale Waren genutzt werden, wobei das öffentliche Routing des Lightning Network die Anonymität etwas begrenzt. Die Plattform bedient Entwickler und legitime Unternehmen."
+  },
+  "Voltn": {
+    "description": "Voltn ist ein Anbieter von Marketing-Technologiediensten.",
+    "history": "Voltn ist ein Anbieter von Marketing-Technologiediensten. Es sind keine bemerkenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Voltn ist ein Marketing-Technologieanbieter ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "Volusion": {
+    "description": "Volusion ist eine cloudbasierte, gehostete E-Commerce-Lösung.",
+    "history": "Volusion wurde 1999 in Austin, Texas, als eine der frühen gehosteten E-Commerce-Plattformen gegründet. 2020 meldete das Unternehmen Gläubigerschutz nach Chapter 11 an, führte den Betrieb aber weiter und ging als restrukturiertes Unternehmen daraus hervor. 2019 erlitt Volusion eine schwere Datenpanne, als Card-Skimming-Malware über eine kompromittierte Google Cloud CDN-Lieferkette eingeschleust wurde und Tausende Händlerseiten betraf.",
+    "summary_abuse": "Volusion ist eine gehostete E-Commerce-Plattform, die zum Aufbau betrügerischer Shops missbraucht werden kann. 2019 war die Plattform von einem bedeutenden Supply-Chain-Angriff betroffen, bei dem bösartiges Card-Skimming-JavaScript über eine kompromittierte Subdomain ausgeliefert wurde und Tausende Checkout-Seiten von Händlern traf. Das ist ein relevantes historisches Missbrauchsereignis auf Infrastrukturebene."
+  },
+  "Vonage Video API": {
+    "description": "Die Vonage Video API erleichtert es, interaktive Echtzeitvideos in hoher Qualität, Messaging, Bildschirmfreigabe und weitere Funktionen in Web- und Mobile-Apps einzubetten.",
+    "history": "Die Vonage Video API, früher OpenTok von TokBox, wurde von TokBox entwickelt. TokBox wurde um 2010 gegründet und gehörte zu den Pionieren WebRTC-basierter Videokommunikation. Vonage übernahm TokBox 2018. Vonage wurde anschliessend 2022 von Ericsson übernommen.",
+    "summary_abuse": "Die Vonage Video API ist eine WebRTC-Plattform für Videokommunikation und wird in legitimen Anwendungen für Telemedizin, Bildung und Zusammenarbeit eingesetzt. Es sind keine auffälligen plattformspezifischen Missbrauchsmuster dokumentiert. Es handelt sich um einen B2B-API-Dienst mit Enterprise-Onboarding."
+  },
+  "Vondera": {
+    "description": "Vondera ist eine E-Commerce-Plattform in Ägypten, die Online-Shop-Verwaltung mit lokalem Versand, sicheren Zahlungen sowie Integrationen mit Social-Media-Plattformen und Marktplätzen ermöglicht.",
+    "history": "Vondera ist eine ägyptische E-Commerce-Plattform, die um 2019 für die Verwaltung von Online-Shops gegründet wurde; sie richtet sich an Händler in Ägypten und der weiteren MENA-Region.",
+    "summary_abuse": "Vondera ist eine ägyptische E-Commerce-Plattform ohne auffälliges Missbrauchssignal. Wie jeder E-Commerce-Host könnte sie für betrügerische Shops genutzt werden, es sind aber keine dokumentierten Missbrauchsmuster auf Plattformebene bekannt."
+  },
+  "Voog": {
+    "description": "Voog ist eine benutzerfreundliche Plattform zum Erstellen von Websites.",
+    "history": "Voog ist eine estnische Website-Builder-Plattform, die 2009 gegründet wurde; sie bietet Werkzeuge für mehrsprachige Websites und ist unabhängig geblieben.",
+    "summary_abuse": "Voog ist ein Website-Builder mit gehosteten Tarifen. Wie andere SaaS-Website-Builder könnte er für betrügerische Seiten missbraucht werden, es sind aber keine dokumentierten plattformspezifischen Missbrauchskampagnen bekannt."
+  },
+  "Voog.com Website Builder": {
+    "history": "Voog.com Website Builder ist das Website-Builder-Produkt von Voog, einer estnischen CMS- und E-Commerce-Plattform, die 2009 gegründet wurde. Dahinter steht dasselbe Unternehmen wie bei Voog, mit einem benutzerfreundlichen Website- und Shop-Builder.",
+    "summary_abuse": "Voog.com Website Builder ist ein gehosteter Website-Builder ohne dokumentierte Missbrauchskampagnen. Wie bei allen Website-Buildern mit gehosteten Tarifen könnten theoretisch betrügerische Websites erstellt werden."
+  },
+  "Voomly": {
+    "description": "Voomly ist ein gehostetes Videokurssystem zum Erstellen, Verwalten und Verteilen videobasierter Bildungsinhalte.",
+    "history": "Voomly ist eine gehostete Plattform für Videokurse und interaktive Videos. ClickFunnels gründete Voomly LLC im September 2021 durch Übernahmen und integrierte die Plattform in seine Marketing-Tool-Suite; sie richtet sich an Content-Ersteller und Anbieter von Online-Kursen.",
+    "summary_abuse": "Voomly ist eine Plattform für Video-Hosting und Kursauslieferung ohne auffälliges Missbrauchssignal; sie bedient Content-Ersteller und Kursanbieter unter der Eigentümerschaft von ClickFunnels und bietet keine typische verbraucherseitige Angriffsfläche, die Betrüger häufig ausnutzen."
+  },
+  "Vop": {
+    "description": "Vop ist ein Dienst, der die Integration von E-Commerce in soziale Inhalte erleichtert.",
+    "history": "Vop ist ein Social-Commerce-Integrationsdienst, mit dem E-Commerce in soziale Inhalte eingebettet werden kann. Es sind keine bemerkenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Vop ist ein Social-Commerce-Integrationstool ohne dokumentiertes auffälliges Missbrauchssignal."
+  },
+  "Voracio": {
+    "description": "Voracio ist eine Cloud-SaaS-E-Commerce-Plattform auf Basis von Microsoft .NET und dem Microsoft Azure Cloud Framework.",
+    "history": "Voracio ist eine britische Cloud-SaaS-E-Commerce-Plattform auf Basis von Microsoft .NET, die sich an mittelgrosse Händler richtet. Es sind keine bemerkenswerten Eigentümerwechsel dokumentiert.",
+    "summary_abuse": "Voracio ist eine britische E-Commerce-Plattform ohne auffälliges Missbrauchssignal; sie bedient etablierte Händler über Enterprise-Verträge."
+  },
+  "Vouched": {
+    "description": "Vouched ist eine Plattform zur Unterstützung von Identitätsprüfung in verschiedenen Branchen.",
+    "history": "Vouched ist eine US-amerikanische Plattform für Identitätsprüfung, die um 2018 gegründet wurde; sie bietet KI-gestützte Ausweis- und Selfie-Verifikation für Online-Plattformen und hat Venture-Finanzierung aufgenommen.",
+    "summary_abuse": "Vouched ist ein Dienst zur Identitätsprüfung, der Betrug und Missbrauch verhindern soll. Als Werkzeug weist er kein auffälliges Missbrauchssignal auf. Sein Zweck ist es, Identitäten zu verifizieren und die Erstellung gefälschter Konten für Kunden zu reduzieren."
+  },
+  "Voucherify": {
+    "description": "Voucherify ist eine Engine zur Optimierung von Anreizen für hochfrequenten Handel.",
+    "history": "Voucherify ist eine polnische Promotion- und Loyalty-Engine, die 2014 gegründet wurde; sie stellt APIs für Coupon-, Empfehlungs- und Treueprogramme bereit und hat Venture-Finanzierung aufgenommen.",
+    "summary_abuse": "Voucherify ist eine API für Promotions und Coupons. Rabatt- und Couponsysteme werden gelegentlich durch Code-Sharing oder Coupon-Missbrauch wie Stapeln und Wiederverwendung ausgenutzt, das sind jedoch meist Richtlinienfragen einzelner Händler und keine Ausnutzung der Plattform. Es sind keine dokumentierten Sicherheitsvorfälle auf Plattformebene bekannt."
+  },
+  "Vouchley": {
+    "description": "Vouchley ist eine Bewertungsplattform für Freelancer, über die sie Kundenbewertungen erhalten und präsentieren können, um Glaubwürdigkeit aufzubauen und mehr Geschäft zu gewinnen.",
+    "history": "Vouchley ist eine Bewertungsplattform, über die Freelancer Kundenstimmen sammeln und anzeigen können. Es sind keine bemerkenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "summary_abuse": "Vouchley ist eine Freelancer-Bewertungsplattform ohne auffälliges Missbrauchssignal. Bewertungsplattformen können mit gefälschten Bewertungen manipuliert werden, für Vouchley sind jedoch keine spezifischen Missbrauchsvorfälle dokumentiert."
+  },
+  "Vox Media": {
+    "description": "Vox Media ist eine digitale Plattform, die Nachrichten- und Meinungswebsites betreibt.",
+    "history": "Vox Media wurde 2003 als SB Nation gegründet, ein Sport-Blogging-Netzwerk, und entwickelte sich zu einem digitalen Medienunternehmen mit Publikationen wie The Verge, Vox, Polygon, Eater und weiteren Angeboten. Die CMS-Plattform Chorus wird an andere Publisher lizenziert.",
+    "summary_abuse": "Vox Media ist ein digitales Medienunternehmen mit etablierten Nachrichtenpublikationen. Es sind keine Missbrauchsfälle im Zusammenhang mit seiner CMS-Plattform dokumentiert."
+  },
+  "Voximplant": {
+    "description": "Voximplant ist eine cloudbasierte Kommunikationsplattform, die Sprachanrufe direkt aus einer Webseite über einen Computer ermöglicht, früher bekannt als Zingaya.",
+    "history": "Voximplant ist eine Cloud-Communications-PaaS mit APIs für Sprache, Video und Messaging. Die Plattform wurde um 2013 gegründet und richtet sich an Entwickler, die Kommunikationsanwendungen bauen.",
+    "summary_abuse": "Voximplant ist eine Cloud-Kommunikationsplattform. Voice- und SMS-APIs bergen ein gewisses Risiko für Robocalling oder SMS-Spam, für Voximplant ist aber keine bedeutende Missbrauchsgeschichte dokumentiert."
+  },
+  "VP-ASP": {
+    "history": "VP-ASP gehört zu den frühesten ASP-basierten Warenkorb-Softwarepaketen und reicht bis 1997 zurück. In den frühen 2000er-Jahren wurde es verbreitet für Online-Shops genutzt, ist seither aber weitgehend aufgegeben worden, weil moderne E-Commerce-Plattformen es verdrängt haben.",
+    "summary_abuse": "VP-ASP weist heute kein auffälliges Missbrauchssignal auf. Es ist eine aufgegebene Legacy-E-Commerce-Plattform aus den späten 1990er-Jahren ohne aktive Entwicklung oder Hosting-Dienst."
+  },
+  "VReview": {
+    "description": "VReview ist eine KI-gestützte Review-Marketing-Lösung, die mithilfe von Kundenbewertungen die Kaufkonversionsrate eines Shopping-Malls erhöht.",
+    "history": "VReview ist ein koreanisches KI-gestütztes Review-Marketing-SaaS für E-Commerce. Es nutzt Video- und Fotobewertungen von Kunden, um Konversionsraten zu steigern, und bedient vor allem koreanische Online-Shopping-Malls.",
+    "summary_abuse": "VReview weist kein auffälliges Missbrauchssignal auf. Es ist eine Nischenplattform für Review-Marketing im koreanischen E-Commerce, und ihre Funktionen zur Bewertungserfassung bieten keine klaren Ansatzpunkte für Scam- oder Betrugsnutzung."
+  },
+  "Vrio": {
+    "description": "Vrio ist eine Headless-E-Commerce-Plattform mit API-gesteuerten und gehosteten Lösungen zum Aufbau und Betrieb von Online-Shops.",
+    "history": "Vrio ist eine Headless-E-Commerce-Plattform mit API-gesteuerten und gehosteten Lösungen zum Aufbau und Betrieb von Online-Shops. Es sind keine bemerkenswerten Eigentümerwechsel oder grösseren Ereignisse bekannt.",
+    "summary_abuse": "Vrio ist eine Nischenplattform für Headless-E-Commerce ohne dokumentiertes Missbrauchssignal. Der B2B-SaaS-Fokus und das Fehlen eines prominenten Gratisangebots mit Custom-Domain-Hosting reduzieren die Exposition gegenüber typischem Missbrauch als E-Commerce-Betrugsinfrastruktur."
+  },
+  "VTEX": {
+    "description": "VTEX ist eine E-Commerce-Software zur Verwaltung mehrerer Online-Shops.",
+    "history": "VTEX wurde 2000 in Brasilien gegründet und entwickelte sich zu einer der führenden Enterprise-E-Commerce-Plattformen in Lateinamerika. Das Unternehmen expandierte global und ging 2021 unter dem Ticker VTEX an die NYSE, wobei der Börsengang mehr als 361 Millionen US-Dollar einbrachte. VTEX bedient grosse globale Marken wie Whirlpool, AB InBev und Motorola.",
+    "summary_abuse": "VTEX ist eine Enterprise-E-Commerce-Plattform, die vor allem von grossen Marken und Händlern genutzt wird. Das reine Enterprise-Modell mit dediziertem Onboarding macht sie im Vergleich zu Self-Service-Plattformen zu einem weniger attraktiven Missbrauchsziel. Es sind keine bedeutenden dokumentierten Missbrauchsmuster mit VTEX verbunden. Die Kundenbasis besteht aus etablierten Händlern mit Vertragsbeziehungen und Identitätsprüfung."
+  },
+  "Vtiger": {
+    "description": "Vtiger ist eine cloudbasierte Suite für Marketing, Vertrieb und Helpdesk, die einzeln oder als integriertes All-in-One-Ökosystem eingesetzt werden kann.",
+    "history": "Vtiger CRM wurde 2004 in den USA gegründet, ursprünglich als Open-Source-Fork von SugarCRM. Mit der Zeit entwickelte es sich zu einem kommerziellen SaaS-Angebot, behielt aber eine selbst gehostete Community-Edition bei. Es sind keine grossen Eigentümerwechsel bekannt, das Unternehmen wird weiterhin unabhängig betrieben.",
+    "summary_abuse": "Vtiger ist eine CRM- und Geschäftsplattform ohne auffälliges Missbrauchssignal. Als B2B-SaaS-Tool bietet sie keine verbraucherseitigen Flächen, die Betrüger häufig ausnutzen, und ihr Hauptnutzen liegt in der Verwaltung von Kundenbeziehungen für legitime Unternehmen."
+  },
+  "Vue Storefront": {
+    "description": "Vue Storefront ist eine Frontend-Plattform für Headless-E-Commerce.",
+    "history": "Vue Storefront wurde 2017 in Polen als Open-Source-Frontend-Framework für Headless-E-Commerce gegründet. Das Unternehmen nahm VC-Finanzierung auf und wurde um 2023 kommerziell zu Alokai umbenannt, während das Open-Source-Projekt weiterlief.",
+    "summary_abuse": "Vue Storefront ist ein Frontend-Framework für Headless-E-Commerce ohne auffälliges Missbrauchssignal. Es ist Entwickler-Infrastruktur zum Bau von Storefronts und kein gehosteter verbraucherseitiger Dienst, wodurch die Missbrauchsexposition begrenzt ist."
+  },
+  "Vue.ai": {
+    "description": "Vue.ai ist eine KI-gestützte Experience-Management-Suite, die Produkt-, Kunden- und Business-Intelligence mit Computer Vision und NLP verbindet.",
+    "history": "Vue.ai, früher Mad Street Den, wurde 2013 in den USA von Ashwini Asokan und Anand Chandrasekaran gegründet, um Computer Vision und KI auf Retail-Personalisierung anzuwenden. Das Unternehmen benannte sich um 2019 in Vue.ai um.",
+    "summary_abuse": "Vue.ai ist eine Enterprise-Plattform für KI-gestützte Personalisierung, die sich an Retail-Marken richtet. Es gibt kein dokumentiertes Missbrauchssignal. Der Dienst arbeitet als B2B-Angebot ohne verbraucherseitige Flächen, die häufig in Betrugs- oder Phishing-Schemata ausgenutzt werden."
+  },
+  "Vue.js": {
+    "description": "Vue.js ist ein Open-Source-JavaScript-Framework nach dem Model-View-ViewModel-Muster zum Erstellen von Benutzeroberflächen und Single-Page-Applications.",
+    "history": "Vue.js wurde von Evan You entwickelt und im Februar 2014 erstmals veröffentlicht, nachdem er während seiner Zeit bei Google die besten Teile von Angular herausgelöst hatte. Vue 2 erschien 2016 und wurde eines der meistgezeichneten Projekte auf GitHub. Vue 3 wurde 2020 mit Composition API und verbesserter TypeScript-Unterstützung veröffentlicht und 2022 zur empfohlenen Version.",
+    "summary_abuse": "Vue.js ist ein grundlegendes JavaScript-UI-Framework ohne Missbrauchssignal. Es ist Open-Source-Bibliotheksinfrastruktur zum Bau von Webanwendungen und hat keine verbraucherseitige Fläche, auf die Betrüger abzielen."
+  },
+  "Vue2-animate": {
+    "description": "Vue2-animate ist eine Vue.js-Portierung von Animate.css.",
+    "history": "Vue2-animate ist eine Vue.js-Portierung von Animate.css, die um 2016 entstand. Es ist eine kleine Utility-Bibliothek ohne kommerzielle Unterstützung und mit minimaler Wartungsaktivität.",
+    "summary_abuse": "Vue2-animate ist ein kleiner CSS-Animationshelfer für Vue.js ohne Missbrauchssignal. Es handelt sich um reinen Frontend-Bibliothekscode ohne Netzwerk- oder Datenverarbeitungsfläche."
+  },
+  "VuePress": {
+    "description": "VuePress ist ein Static-Site-Generator mit einem Vue-basierten Theming-System und einem Standardtheme für technische Dokumentation.",
+    "history": "VuePress wurde von Evan You, dem Schöpfer von Vue.js, entwickelt und 2018 erstmals als Vue-basierter Static-Site-Generator für technische Dokumentation veröffentlicht. VuePress 2 erschien 2022 mit Unterstützung für Vue 3.",
+    "summary_abuse": "VuePress ist ein Static-Site-Generator für technische Dokumentation ohne Missbrauchssignal. Die erzeugten Sites werden von Entwicklern selbst gehostet, und das Tool selbst bietet keine gehostete Dienstfläche, die Betrüger ausnutzen könnten."
+  },
+  "VueStrap": {
+    "description": "VueStrap ist eine Sammlung von Bootstrap-Komponenten, die mit Vue.js gebaut sind.",
+    "history": "VueStrap ist eine Sammlung von Bootstrap-Komponenten auf Basis von Vue.js, die um 2015 entstand. Die Bibliothek fand nur begrenzte Verbreitung und wurde weitgehend von umfassenderen Vue-UI-Frameworks wie Vuetify und BootstrapVue abgelöst.",
+    "summary_abuse": "VueStrap ist eine kleine Vue.js-Komponentenbibliothek ohne Missbrauchssignal. Es handelt sich um Frontend-Bibliothekscode ohne gehostete Dienstfläche."
+  },
+  "Vuetify": {
+    "description": "Vuetify ist ein wiederverwendbares semantisches Komponenten-Framework für Vue.js, das saubere, semantische und wiederverwendbare Komponenten bereitstellen soll.",
+    "history": "Vuetify wurde von John Leider entwickelt und 2016 erstmals veröffentlicht. Es ist ein Material-Design-Komponentenframework für Vue.js und wurde zu einer der beliebtesten Vue-UI-Bibliotheken. Vuetify 3 erschien 2022 mit vollständiger Unterstützung für Vue 3 und TypeScript.",
+    "summary_abuse": "Vuetify ist eine Vue.js-UI-Komponentenbibliothek ohne Missbrauchssignal. Es ist Open-Source-Frontend-Bibliothekscode ohne gehostete Dienstfläche, auf die Betrüger abzielen würden."
+  },
+  "Vuex": {
+    "description": "Vuex ist ein State-Management-Muster und eine Bibliothek für Vue.js-Anwendungen.",
+    "history": "Vuex entstand als offizielle State-Management-Bibliothek für Vue.js-Anwendungen und wurde um 2015 zusammen mit dem Vue.js-Ökosystem erstmals veröffentlicht. Mit Vue 3 wurde Pinia zur offiziell empfohlenen State-Management-Lösung, während Vuex 4 vor allem zur Unterstützung der Migration auf Vue 3 erschien. Für neue Projekte wird Pinia empfohlen.",
+    "summary_abuse": "Vuex ist eine State-Management-Bibliothek für Vue.js ohne Missbrauchssignal. Es ist JavaScript-Bibliotheksinfrastruktur ohne verbraucherseitige Fläche."
+  },
+  "VuFind": {
+    "description": "VuFind ist ein Bibliotheksressourcenportal, das von der Villanova University Library entworfen und entwickelt wurde.",
+    "history": "VuFind wurde 2007 an der Villanova University Library als Open-Source-Discovery-Portal für Bibliotheksressourcen entwickelt. Es wird von der breiteren Bibliotheksgemeinschaft gepflegt und bleibt in akademischen und öffentlichen Bibliotheken weit verbreitet.",
+    "summary_abuse": "VuFind ist ein Discovery-Portal für Bibliotheksressourcen ohne Missbrauchssignal. Es ist Backend-Bibliotheksinfrastruktur, die in akademischen und öffentlichen Einrichtungen eingesetzt wird, ohne verbraucherseitige Fläche, die Betrüger ausnutzen könnten."
+  },
+  "Vultr": {
+    "description": "Vultr ist ein Anbieter von Cloud-Computing-Diensten.",
+    "history": "Vultr wurde 2014 von David Aninowsky als Cloud-Infrastrukturanbieter für Bare-Metal-Server und virtuelle private Server gegründet. Das Unternehmen ist zu einer etablierten Cloud-Alternative zu AWS, Azure und GCP mit globaler Rechenzentrumspräsenz gewachsen.",
+    "summary_abuse": "Vultr ist ein Cloud-Hosting-Anbieter mit gewisser dokumentierter Missbrauchsexposition, wie sie für IaaS-Plattformen typisch ist. Bösartige Akteure nutzen VPS-Instanzen gelegentlich für Malware-C2-Server, Spam und Credential-Stuffing-Angriffe, wie bei allen Commodity-Cloud-Anbietern. Vultr veröffentlicht eine AUP und bietet einen Abuse-Kontakt, die Durchsetzung gilt jedoch im Vergleich zu Hyperscalern als moderat."
+  },
+  "Vuture": {
+    "description": "Vuture ist eine globale All-in-One-Technologieplattform für Marketinglösungen.",
+    "history": "Vuture wurde um 2002 im Vereinigten Königreich als Marketing-Technologieplattform für Professional-Services-Unternehmen gegründet. Die Plattform bietet digitale Marketing-Kommunikationstools, die auf Kanzleien, Wirtschaftsprüfungs- und Beratungsfirmen zugeschnitten sind.",
+    "summary_abuse": "Vuture ist eine B2B-Marketing-Automation-Plattform für Professional Services. Es gibt kein auffälliges Missbrauchssignal; sie funktioniert als geschlossenes Enterprise-Tool ohne anonyme Registrierung oder Gratisfunktionen, die häufig für Spam ausgenutzt werden."
+  },
+  "Vuukle": {
+    "description": "Vuukle ist eine Plattform für Audience Engagement und Kommentare.",
+    "history": "Vuukle wurde um 2015 als Plattform für Audience Engagement und Kommentare für Publisher gegründet; sie kombiniert Kommentare, Emojis und Social-Sharing-Werkzeuge mit Funktionen zur Anzeigenmonetarisierung für Medienseiten.",
+    "summary_abuse": "Vuukle ist eine Kommentar- und Engagement-Plattform für Medienpublisher. Wie die meisten Kommentarsysteme kann sie für Kommentarspam und Link-Injection missbraucht werden, wobei dies primär eine Herausforderung der Inhaltsmoderation und keine grossflächige Betrugsinfrastruktur ist. Durch die Integration mit Werbenetzwerken sammelt Vuukle seitenübergreifend Verhaltensdaten von Nutzern."
+  },
+  "Vvveb CMS": {
+    "description": "Vvveb CMS ist benutzerfreundliche Software zum Erstellen professioneller Websites, Blogs und E-Commerce-Shops.",
+    "history": "Vvveb CMS ist ein Open-Source-PHP-CMS mit visuellem Drag-and-Drop-Page-Builder, das um 2015 als Solo-Entwicklerprojekt entstand. Es ist ein Nischenprojekt geblieben, mit aktiver Präsenz auf GitHub, aber begrenzter breiterer Verbreitung.",
+    "summary_abuse": "Vvveb CMS ist ein selbst gehostetes Open-Source-Content-Management-System mit niedrigem Missbrauchssignal. Als selbst gehostetes PHP-CMS wird jedes Missbrauchsrisiko vom Seitenbetreiber und nicht vom Softwareanbieter bestimmt."
+  },
+  "VWO": {
+    "description": "VWO ist eine Plattform für Website-Tests und Conversion-Optimierung.",
+    "history": "VWO (Visual Website Optimizer) wurde 2009 von Sparsh Gupta und Paras Chopra in Indien als Produkt von Wingify gegründet. Es gehört zu den ersten Self-Service-Plattformen für A/B-Tests. VWO ist unabhängig und bootstrapped geblieben und bedient inzwischen weltweit Tausende Kunden.",
+    "summary_abuse": "VWO ist eine legitime Plattform für A/B-Tests und Conversion-Optimierung ohne auffällige Missbrauchsmuster. Die eingebetteten JavaScript-Tracking-Skripte sind analytics-nah und erfassen Besucherverhaltensdaten, was Nutzer im Hinblick auf GDPR-Einwilligung beachten sollten. Es ist keine Nutzung in Phishing- oder bösartigen Kampagnen dokumentiert."
+  },
+  "VWO Engage": {
+    "description": "VWO Engage ist Teil der VWO Platform und eine webbasierte Push-Benachrichtigungsplattform für SaaS- und B2B-Marketer, Online-Content-Publisher und Betreiber von E-Commerce-Shops.",
+    "history": "VWO Engage, früher PushCrew, ist das Push-Benachrichtigungsprodukt innerhalb der VWO-Plattform von Wingify, einem indischen Softwareunternehmen. Es wurde umbenannt und als einheitliches Marketing-Automation-Tool für SaaS- und E-Commerce-Marketer in die VWO-Produktsuite integriert.",
+    "summary_abuse": "VWO Engage ist eine Push-Benachrichtigungsplattform, die Browser-Push-Nachrichten an Nutzer mit Einwilligung sendet. Push-Benachrichtigungsdienste haben ein dokumentiertes Missbrauchspotenzial, darunter Spam oder Phishing-Benachrichtigungen über gekaperte oder irreführende Abo-Flows. VWO hat Acceptable-Use-Regeln und fokussiert auf legitime Marketinganwendungen. Aufgrund der Art der Push-Zustellung ist das Risiko moderat."
+  },
+  "vxe-table": {
+    "description": "vxe-table ist eine auf Vue.js basierende PC-Formularkomponente mit Unterstützung für Hinzufügen, Löschen, Ändern, virtuelles Scrollen, Lazy Loading, Kontextmenüs, Datenvalidierung, Baumstrukturen, Druckexport, Formular-Rendering, Datenpaginierung, virtuelle Listen, Modalfenster, eigene Templates, Renderer, flexible Konfiguration und Erweiterungsschnittstellen.",
+    "history": "vxe-table ist eine Vue.js-Tabellenkomponentenbibliothek, die um 2018 entstand und vom Open-Source-Entwickler xuliangzhan (Xu Liangzhan) in China gepflegt wird; sie unterstützt komplexe Data-Grid-Funktionen wie virtuelles Scrollen, Baumstrukturen, Bearbeitung und Drucken. Es sind keine bemerkenswerten Eigentümerwechsel oder Abkündigungen bekannt.",
+    "summary_abuse": "vxe-table ist eine Vue.js-Data-Grid-Komponente ohne auffälliges Missbrauchssignal; sie wird als Frontend-Bibliothek in Anwendungen eingebettet und hat keine verbraucherseitige Fläche, die für Phishing oder Betrug ausgenutzt werden könnte."
+  },
+  "Vyper": {
+    "description": "Vyper ist ein System zum Erstellen und Verwalten von Giveaways oder viralen Wettbewerben, um Engagement und Reichweite zu steigern.",
+    "history": "Vyper ist eine SaaS-Plattform für virale Giveaways und Wettbewerbe zum Aufbau von Social-Media-Reichweite, gegründet um 2013; sie richtet sich mit Growth-Hacking-Werkzeugen an kleine Unternehmen und Marketer.",
+    "summary_abuse": "Vyper ist eine Plattform für Giveaways und virale Wettbewerbe mit niedrigem dokumentiertem Missbrauchssignal. Solche Plattformen können missbraucht werden, um Social-Media-Followerzahlen aufzublähen oder gefälschte Teilnahmen zu erzeugen, Vyper arbeitet jedoch als bezahlter B2B-Dienst mit Kontrollen auf Kontoebene, die grossflächigen Missbrauch begrenzen."
+  },
+  "Vyve+": {
+    "description": "Vyve+ ist eine KI-gestützte Plattform, die Marketing- und Vertriebsautomatisierung in einem einzigen System verbindet.",
+    "history": "Vyve+ ist eine KI-gestützte Plattform für Marketing- und Vertriebsautomatisierung; sie wirkt wie ein kürzlich gestartetes SaaS-Startup mit begrenzter öffentlicher Geschichte.",
+    "summary_abuse": "Vyve+ ist eine Marketing-Automation-Plattform ohne dokumentiertes Missbrauchssignal. Als bezahlter B2B-Dienst liegt das Hauptrisiko in möglicher Nutzung für Marketing-Spam, allerdings innerhalb üblicher kommerzieller Einschränkungen."
+  }
+}

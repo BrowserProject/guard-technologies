@@ -108,7 +108,6 @@ Scores are integers `0-10`.
 | `inherent_attack_surface_score`, `inherent_privacy_risk_score`, `inherent_third_party_data_sharing_score`, `inherent_pii_exposure_score`, `tracker_likelihood_score` | score | inherent risk for the category |
 | `regulatory_relevance` | string[] | `gdpr` / `ccpa` / `pci-dss` / `hipaa` / `coppa` / `ferpa` / `glba` / `soc2` / `cookie-law` / `pii-handling` |
 | `recommended_scrutiny_level` | enum | `low` / `moderate` / `high` / `critical` |
-| `summary_security`, `summary_privacy` | string | |
 | `confidence` | score | |
 | `source_urls` | string[] | |
 

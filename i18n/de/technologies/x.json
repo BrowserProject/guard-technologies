@@ -1,0 +1,168 @@
+{
+  "X-Cart": {
+    "description": "X-Cart ist eine Open-Source-E-Commerce-Plattform für Warenkoerbe auf PHP-Basis.",
+    "history": "X-Cart wurde 2001 von Ruslan Fazlyev und Yury Zaytsev gegründet und gehoerte zu den ersten PHP-basierten Warenkorb-Plattformen für E-Commerce. 2019 wurde es von Seller Labs übernommen, einem US-amerikanischen Softwareunternehmen für Amazon-Händler.",
+    "summary_abuse": "X-Cart ist eine selbst gehostete Open-Source-E-Commerce-Plattform ohne auffaelliges Missbrauchssignal. Wie jede selbst gehostete E-Commerce-Software könnte sie theoretisch für gefaelschte Shops eingesetzt werden, es gibt aber kein dokumentiertes Muster, dass X-Cart gezielt in grossem Umfang für Betrug missbraucht wird."
+  },
+  "X-Clacks-Overhead": {
+    "description": "X-Clacks-Overhead ist ein nicht standardisierter HTTP-Header, der in Serverantworten Gedenkbotschaften übermittelt.",
+    "history": "X-Clacks-Overhead entstand 2015 als nicht standardisierter HTTP-Header und als Community-Hommage an Terry Pratchett nach seinem Tod. Inspiriert vom fiktiven Clacks-Nachrichtensystem der Discworld-Reihe übermittelt er in Serverantworten den Wert \"GNU Terry Pratchett\", wodurch der Name sinngemaess dauerhaft weitergetragen wird. Die Clacks Overhead Working Group bildete sich, um eine Standardisierung durch die IETF anzustreben.",
+    "summary_abuse": "X-Clacks-Overhead hat kein Missbrauchssignal. Es handelt sich um einen spielerischen HTTP-Gedenkheader ohne operative Sicherheitsrelevanz und ohne nutzerseitige Angriffsoberfläche."
+  },
+  "X.ai": {
+    "description": "X.ai ist ein Terminplanungstool, das Besprechungszeiten organisiert und mit eingebetteten Buchungsbuttons auf Websites oder in Live-Chat-Anwendungen die Lead-Konversion verbessert.",
+    "history": "X.ai wurde 2014 als KI-gestützter Terminplanungsassistent gegründet. Im Juni 2021 übernahm Bizzabo, eine Plattform für Eventmanagement, das Unternehmen. Kurz darauf stellte Bizzabo den eigenstaendigen Dienst x.ai ein, der Betrieb endete am 31. Oktober 2021, und integrierte die Technologie in die Bizzabo-Plattform.",
+    "summary_abuse": "X.ai hat kein auffaelliges Missbrauchssignal. Es war ein SaaS-Tool für Kalender- und Terminplanung, das 2021 eingestellt wurde, ohne dokumentiertes Muster von Missbrauch oder Betrug."
+  },
+  "Xajax": {
+    "history": "Xajax ist eine Open-Source-PHP-Bibliothek, mit der Entwickler Ajax-basierte Webanwendungen einfach mit PHP erstellen konnten; sie war Mitte der 2000er-Jahre beliebt, bevor moderne JavaScript-Frameworks sie verdraengten. Das Projekt ist heute weitgehend aufgegeben.",
+    "summary_abuse": "Xajax hat kein auffaelliges Missbrauchssignal. Es ist eine aufgegebene serverseitige PHP-AJAX-Bibliothek ohne nutzerseitige Oberfläche, auf die Betrüger typischerweise zielen."
+  },
+  "XAMPP": {
+    "history": "XAMPP wurde 2002 von Apache Friends erstmals als plattformübergreifender Webserver-Stack veröffentlicht. Es buendelt Apache HTTP Server, MariaDB, PHP und Perl für die lokale Entwicklung. Weltweit ist XAMPP zu einer der beliebtesten lokalen Entwicklungsumgebungen für PHP-Entwickler geworden.",
+    "summary_abuse": "XAMPP hat kein auffaelliges Missbrauchssignal. Es ist ein lokaler Entwicklungs-Stack für Entwicklerrechner und wird in der Produktion nicht auf öffentlich erreichbaren Servern eingesetzt. Der Einsatzzweck bietet keine nutzerseitige Oberfläche, auf die Betrüger typischerweise zielen."
+  },
+  "Xanario": {
+    "description": "Xanario ist eine E-Commerce-Plattform mit einer umfassenden Lösung für Online-Shops, darunter CMS, CRM, Shopverwaltung, Blog-Integration, POS-System und Lagerverwaltung.",
+    "history": "Xanario ist eine deutsche E-Commerce-Plattform mit integrierten Funktionen für Shop, CMS, CRM, POS und Lagerverwaltung; sie richtet sich an kleine und mittlere Händler im deutschsprachigen Markt.",
+    "summary_abuse": "Xanario hat kein auffaelliges Missbrauchssignal. Es ist eine deutsche Nischenplattform für E-Commerce ohne dokumentiertes Muster, dass sie von Betrügern ausgenutzt wird."
+  },
+  "Xano": {
+    "description": "Xano ist eine No-Code-Backend-Plattform, mit der Nutzer Datenbanken, APIs und serverseitige Logik erstellen und verwalten können, ohne Code zu schreiben.",
+    "history": "Xano wurde 2014 als No-Code-Backend-Plattform gegründet, mit der Nutzer Datenbanken, APIs und serverseitige Logik ohne Programmierung erstellen können. In den frühen 2020er-Jahren wurde Xano in der No-Code-Bewegung bekannter, mit einem Freemium-Preismodell ab 29 US-Dollar pro Monat.",
+    "summary_abuse": "Xano hat kein auffaelliges Missbrauchssignal. Es ist eine No-Code-Backend-Plattform, die vor allem von Entwicklern und Startups für legitime Anwendungen genutzt wird, ohne dokumentiertes Ausnutzungsmuster."
+  },
+  "xCharts": {
+    "history": "xCharts ist eine auf D3 basierende JavaScript-Bibliothek für Diagramme, die etwa 2013 von der Organisation tenxer erstellt wurde; sie wurde auf GitHub unter tenxer/xcharts gehostet und scheint seit vielen Jahren ohne nennenswerte Aktivität aufgegeben zu sein.",
+    "summary_abuse": "xCharts ist eine aufgegebene D3-basierte Diagrammbibliothek ohne auffaelliges Missbrauchssignal. Es handelt sich um eine clientseitige Visualisierungsbibliothek ohne nutzerseitige Oberfläche, die für Betrug ausgenutzt werden könnte."
+  },
+  "XenForo": {
+    "description": "XenForo ist eine PHP-basierte Forumsoftware für Communities, die für den Betrieb auf einem entfernten Webserver ausgelegt ist.",
+    "history": "XenForo wurde 2010 in Reading, UK, von Kier Darby und Mike Sullivan gegründet, zwei ehemaligen leitenden Entwicklern von vBulletin. Nach einem Streit mit Internet Brands über vBulletin startete es als kommerzielle Alternative für Forumsoftware. XenForo 1.0 erschien im Maerz 2011, und das Unternehmen ist weiterhin unabhängig.",
+    "summary_abuse": "XenForo hat kein auffaelliges Missbrauchssignal. Es ist eine kommerzielle, selbst gehostete Forumplattform für legitime Online-Communities. Ein dokumentiertes Muster der Ausnutzung durch Betrüger gibt es nicht."
+  },
+  "Xenioo": {
+    "description": "Xenioo ist eine Omnichannel-Chatbot-Plattform zum Erstellen, Verwalten und Bereitstellen von Konversationsagenten über mehrere Messaging-Kanäle hinweg.",
+    "history": "Xenioo ist eine Omnichannel-Chatbot-Plattform zum Aufbau von Konversationsagenten für verschiedene Messaging-Kanäle. Der Anbieter ist ein kleiner unabhängiger SaaS-Hersteller ohne auffaellige Übernahmen oder groessere Ereignisse.",
+    "summary_abuse": "Xenioo hat kein auffaelliges Missbrauchssignal. Es ist eine Nischenplattform für Chatbots ohne dokumentiertes Muster der Ausnutzung durch Betrüger."
+  },
+  "Xeno Chat": {
+    "description": "Xeno Chat ist eine Messaging-App, die Live-Antworten für Kundengewinnung, Konversion und Kundenbindung ermöglicht.",
+    "history": "Xeno Chat ist eine Live-Chat- und Messaging-Anwendung für Kundensupport und Kundeninteraktion. Es ist ein kleines unabhängiges SaaS-Tool ohne auffaellige Übernahmen oder Ereignisse.",
+    "summary_abuse": "Xeno Chat hat kein auffaelliges Missbrauchssignal. Es ist eine kleine Live-Chat-SaaS-Plattform ohne dokumentierte Geschichte der Ausnutzung."
+  },
+  "Xeora": {
+    "history": "Xeora ist ein Open-Source-Webframework. Es sind keine auffaelligen Eigentümeränderungen oder Ereignisse dokumentiert.",
+    "summary_abuse": "Xeora hat kein auffaelliges Missbrauchssignal. Es ist eine wenig bekannte Webframework-Bibliothek ohne nutzerseitige Oberfläche, auf die Betrüger typischerweise zielen."
+  },
+  "XGen Ai": {
+    "description": "XGen Ai ist ein cloudbasiertes Tool für Customer-Journey-Mapping, das Unternehmen hilft, Produktempfehlungen mit kuenstlicher Intelligenz (AI) zu steuern.",
+    "history": "XGen Ai ist eine cloudbasierte, KI-gestützte Plattform für Customer-Journey-Mapping und Produktempfehlungen. Der Anbieter ist ein kleiner unabhängiger SaaS-Hersteller ohne dokumentierte Übernahmen oder groessere Ereignisse.",
+    "summary_abuse": "XGen Ai hat kein auffaelliges Missbrauchssignal. Es ist ein Nischen-SaaS für KI-gestützte Personalisierung ohne dokumentiertes Muster der Ausnutzung durch Betrüger."
+  },
+  "Xitami": {
+    "history": "Xitami ist ein kleiner, schneller Webserver, der Mitte der 1990er-Jahre entstand. Für leichtgewichtige Deployments war er beliebt, wurde aber weitgehend aufgegeben, als Apache und Nginx dominierten. Das Projekt wird nicht mehr aktiv gepflegt.",
+    "summary_abuse": "Xitami hat kein auffaelliges Missbrauchssignal. Es ist ein aufgegebener leichtgewichtiger Webserver ohne nutzerseitige Oberfläche, auf die Betrüger typischerweise zielen."
+  },
+  "Xiuno BBS": {
+    "description": "Xiunobbs ist eine leichtgewichtige Open-Source-Forumsoftware für einfache Community-Verwaltung und Anpassung.",
+    "history": "Xiuno BBS (Xiunobbs) ist eine leichtgewichtige chinesische Open-Source-Forumsoftware, die einfache Community-Verwaltung und Anpassung ermöglicht; sie wurde in China entwickelt und richtet sich an chinesischsprachige Online-Communities.",
+    "summary_abuse": "Xiuno BBS hat ausserhalb seiner Nische kein auffaelliges Missbrauchssignal. Es ist eine selbst gehostete chinesische Forumsoftware ohne dokumentiertes Muster der Ausnutzung durch Betrüger."
+  },
+  "XMB": {
+    "history": "XMB (Extreme Message Board) ist eine Open-Source-Forumsoftware auf PHP/MySQL-Basis, die 2001 erstmals veröffentlicht wurde; sie steht unter der GPL und wird seit Beginn als Community-Projekt gepflegt.",
+    "summary_abuse": "XMB hat kein auffaelliges Missbrauchssignal. Es ist eine selbst gehostete Forumsoftware für kleinere Communities ohne dokumentiertes Muster der Ausnutzung durch Betrüger."
+  },
+  "Xonic": {
+    "history": "XONIC wurde 2005 in Chemnitz gegründet und seitdem kontinuierlich als deutsche E-Commerce-Plattform weiterentwickelt. Die Produktseite hebt einen Aktualisierungszyklus 2024 und frühere grosse Modernisierungsschritte hervor, nicht aber eine Übernahme oder Abkündigung.",
+    "summary_abuse": "Kein auffaelliges Missbrauchssignal über das uebliche Betrugsrisiko jeder E-Commerce-Plattform hinaus. XONIC ist ein kostenpflichtiges Shopsystem für legitime Händler und bietet keine offensichtlich missbrauchsfoerdernden Funktionen wie anonyme Registrierung oder eine kostenlose Stufe mit eigener Domain."
+  },
+  "XOOPS": {
+    "history": "XOOPS (Extensible Object Oriented Portal System) ist ein in PHP geschriebenes Open-Source-CMS und Portalsystem, das etwa 2001 erstmals veröffentlicht wurde. Mitte der 2000er-Jahre gewann es besonders in asiatischen Web-Communities an Beliebtheit und bleibt ein aktives, von der Community gepflegtes Projekt.",
+    "summary_abuse": "XOOPS hat kein auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes CMS ohne dokumentiertes Muster der Ausnutzung durch Betrüger oder andere boeswillige Akteure."
+  },
+  "XpressEngine": {
+    "description": "XpressEngine (XE) ist ein Open-Source-Content-Management-System (CMS) zum Erstellen und Verwalten von Websites, Blogs und Online-Communities.",
+    "history": "XpressEngine wurde von Xehub Corp als koreanischsprachiges Open-Source-CMS auf Basis des Laravel-PHP-Frameworks entwickelt. XE3 erschien etwa 2020 als dritte Hauptversion. Die Software steht unter LGPL-3.0. Die letzte stabile Version war 3.1.1 im September 2023; sie wird vor allem in der koreanischen Webentwicklungs-Community genutzt und international nur begrenzt eingesetzt.",
+    "summary_abuse": "XpressEngine ist ein Open-Source-PHP-CMS für Websites und Online-Communities. Als selbst gehostete CMS-Plattform haengt Missbrauch vollständig davon ab, wie Betreiber ihre Installationen konfigurieren, was ausserhalb der Kontrolle des Projekts liegt. Das CMS hostet selbst keine Inhalte und betreibt keinen zentralen Dienst. Gegen das Projekt selbst sind keine auffaelligen Missbrauchsvorfälle dokumentiert. Die geringe Verbreitung (236 GitHub-Sterne) begrenzt die gesamte Missbrauchsexposition."
+  },
+  "Xpresslane": {
+    "description": "Xpresslane ist eine Checkout-Plattform für E-Commerce, die auf hoehere Konversion im Bezahlprozess ausgerichtet ist.",
+    "history": "Xpresslane wurde 2021 von Bueno Labs Private Limited in Bengaluru als universelle 1-Click-Checkout-Plattform gestartet. Öffentlich sind keine auffaelligen Eigentümeränderungen oder Abkündigungen sichtbar.",
+    "summary_abuse": "Xpresslane hat kein auffaelliges Missbrauchssignal. Es ist eine durch KYC abgesicherte Checkout-Plattform, die vor allem von legitimen E-Commerce-Händlern genutzt wird, mit PCI-DSS- und GDPR-Angaben sowie händlerseitigen Kontrollen statt einer nutzerseitigen Oberfläche, die Betrüger leicht zweckentfremden können."
+  },
+  "XRegExp": {
+    "history": "XRegExp ist eine JavaScript-Bibliothek für Regex, die erweiterte und ausbaubare regulaere Ausdruecke in JavaScript bereitstellt; sie wurde von Steven Levithan erstellt und ist seit den spaeten 2000er-Jahren als Open-Source-Bibliothek verfuegbar.",
+    "summary_abuse": "XRegExp hat kein auffaelliges Missbrauchssignal. Es ist eine JavaScript-Hilfsbibliothek für Regex ohne nutzerseitige Oberfläche, auf die Betrüger typischerweise zielen."
+  },
+  "Xretail": {
+    "description": "Xretail ist ein abonnementbasiertes Produkt, das Kunden einen Omnichannel-Ansatz für E-Commerce ermöglicht.",
+    "history": "Xretail wurde 2011 als einheitliche Omnichannel-Commerce-Plattform gegründet und gehoert zur Tecnologia LLC mit Sitz in New York City. Seit dem Start sind keine auffaelligen Eigentümeränderungen, Forks oder Abkündigungen dokumentiert.",
+    "summary_abuse": "Xretail ist eine auf Unternehmen ausgerichtete B2B-SaaS-Plattform für Omnichannel-E-Commerce ohne relevantes Missbrauchssignal; sie richtet sich über Partnerkanäle an grosse Händler, bietet keine kostenlose Stufe oder anonyme Registrierung und stellt keine nutzerseitigen Hosting- oder URL-Weiterleitungsfunktionen bereit, die Betrüger typischerweise ausnutzen."
+  },
+  "Xserver": {
+    "description": "Xserver bietet Webhosting, Webanwendungen und internetbezogene Dienste an.",
+    "history": "Xserver wurde in den frühen 2000er-Jahren von XServer Inc. als japanische Shared-Hosting-Marke gestartet und spaeter um Business-Hosting, VPS, Domains und verwandte Dienste erweitert.",
+    "summary_abuse": "Xserver ist ein etablierter Hosting-Anbieter, Missbrauch ist also nicht der Hauptzweck. Wie die meisten Shared-Hosts kann der Dienst jedoch für Phishing-Seiten und betrügerische Landingpages genutzt werden. Geringe laufende Kosten, eigene Domains und eine 10-taegige Testphase sind Funktionen, die Betrüger ausnutzen können. Xserver veröffentlicht zugleich missbrauchsbezogene Hinweise und Sicherheitsanleitungen und scheint über einen formellen Supportkanal zu reagieren."
+  },
+  "XSLT": {
+    "description": "XSLT ist für die Verwendung als Teil von XSL konzipiert, einer Stylesheet-Sprache für XML.",
+    "history": "XSLT (Extensible Stylesheet Language Transformations) wurde vom W3C entwickelt und im November 1999 als Teil von XSL erstmals als Recommendation veröffentlicht. XSLT 2.0 folgte 2007, XSLT 3.0 im Jahr 2017. Der Standard wird breit in XML-Verarbeitungspipelines von Unternehmen eingesetzt.",
+    "summary_abuse": "XSLT ist ein Standard für XML-Transformationen ohne Missbrauchssignal. Es handelt sich um eine serverseitige oder werkzeugnahe Technologie ohne nutzerseitige Oberfläche und nicht um einen Vektor für Betrug oder Phishing."
+  },
+  "Xsolla": {
+    "description": "Xsolla ist ein Geschäftssystem für Videospiele mit Zahlungslösungen und Shopverwaltung.",
+    "history": "Xsolla wurde 2005 von Aleksandr Agapitov als Unternehmen für Spielemonetarisierung und Zahlungen gegründet. Spaeter entwickelte es sich zu einer globalen Plattform mit Hauptsitz in Los Angeles und Büros in mehreren Regionen.",
+    "summary_abuse": "Xsolla ist kein missbrauchsorientierter Dienst, doch Zahlungs- und Shopwerkzeuge können für betrügerische Game-Shops oder gefaelschte Checkout-Ablaeufe verwendet werden. Die Nutzung wird von legitimen Spiele-Publishern dominiert, und Xsolla veröffentlicht Kontrollen für Betrugsbekaempfung, Sicherheit und Compliance, die auf Chargebacks und Scam-Prävention abzielen, statt eine laxe anonyme Hosting-Oberfläche zu bieten."
+  },
+  "xtCommerce": {
+    "description": "xtCommerce ist eine E-Commerce-Plattform mit einer Komplettlösung für Online-Shop-Verwaltung, einschliesslich SEO, mobiler Optimierung und integrierten Zahlungssystemen.",
+    "history": "xtCommerce ist eine deutsche E-Commerce-Plattform, die in den frühen 2000er-Jahren als PHP-basierte Online-Shop-Lösung aus der Open-Source-Codebasis von osCommerce hervorging; sie wird von der xt:Commerce GmbH in Deutschland als kommerzielles Produkt für kleine und mittlere Online-Händler weiterentwickelt und gepflegt, vor allem im deutschsprachigen Markt.",
+    "summary_abuse": "xtCommerce ist eine selbst gehostete E-Commerce-Plattform, die vor allem von legitimen Online-Händlern im deutschen Markt genutzt wird. Wie bei jeder E-Commerce-Plattform könnten kompromittierte Installationen für Skimming oder gefaelschte Shops verwendet werden, es gibt aber kein spezifisches Missbrauchsmuster, das xtCommerce von typischer selbst gehosteter E-Commerce-Software unterscheidet."
+  },
+  "Xtime": {
+    "description": "Xtime ist ein Unternehmen, das Lösungen für Terminplanung und Management im Automobilservice anbietet, vor allem für Autohandlungen und Servicecenter.",
+    "history": "Xtime wurde 1999 als unabhängige CRM- und Terminplanungsplattform für den Automobilservice gegründet. Cox Automotive übernahm Xtime im November 2014.",
+    "summary_abuse": "Xtime hat ein begrenztes Missbrauchssignal. Es ist eine B2B-Plattform für Serviceprozesse bei Händlern, daher dominiert legitime Nutzung. Möglicher Missbrauch kaeme eher von kompromittierten Händlerkonten, die Messaging-, Terminplanungs- oder Inspektionsablaeufe für Spam oder Phishing einsetzen, als von einer direkt auf Verbraucher ausgerichteten Scam-Oberfläche. Cox Automotive veröffentlicht Sicherheits- und Responsible-Disclosure-Kanäle."
+  },
+  "Xtra": {
+    "description": "Xtra ist ein kreatives, responsives WordPress-Theme mit Live-Drag-and-Drop-Bearbeitung für Websites aller Art.",
+    "history": "Xtra ist ein WordPress-Theme von xtratheme.com mit responsivem Drag-and-Drop-Seitenaufbau. Es sind keine auffaelligen Eigentümereignisse dokumentiert.",
+    "summary_abuse": "Xtra ist ein selbst gehostetes WordPress-Theme ohne auffaelliges Missbrauchssignal."
+  },
+  "Xtremepush": {
+    "description": "Xtremepush ist eine Plattform für Kundenbindung, Personalisierung und Daten; sie ist speziell für Multichannel- und Mobile-Marketing entwickelt.",
+    "history": "Xtremepush wurde 2014 in Dublin von Tommy Kearns und Kevin Collins gegründet. Spaeter übernahm Xtremepush Emailcenter im Jahr 2018 und Alchemetrics im Jahr 2019, als sich das Unternehmen von Mobile Engagement zu einer breiteren Plattform für Kundendaten und Messaging entwickelte.",
+    "summary_abuse": "Xtremepush hat eine moderate Missbrauchsoberfläche, weil der Dienst E-Mail, SMS, Push-Benachrichtigungen sowie Microsites und Landingpages bereitstellen kann, Funktionen, die Betrüger für Phishing oder Spam missbrauchen können. Legitime Enterprise-Marketing-Nutzung scheint zu dominieren, und das Unternehmen veröffentlicht einen security.txt-Kontakt für Meldungen, statt Anzeichen einer missbrauchsorientierten Ausrichtung zu zeigen."
+  },
+  "XtrixUI": {
+    "description": "XtrixUI ist eine CrossFramework-UI-Bibliothek zum Erstellen von WebApps, unabhängig von Designerfahrung.",
+    "history": "XtrixUI entstand im November 2024 als Repository einer GitHub-Organisation für eine GPL-lizenzierte TypeScript-UI-Bibliothek. Sichtbare Eigentümeränderungen oder Abkündigungen gibt es nicht.",
+    "summary_abuse": "Kein auffaelliges Missbrauchssignal: Es handelt sich um eine kleine OSS-UI-Bibliothek ohne nutzerseitige Hosting-, Messaging- oder Weiterleitungsoberfläche, auf die Betrüger typischerweise zielen."
+  },
+  "Xverify": {
+    "description": "Xverify ist ein intelligentes System zur E-Mail-Verifizierung, das Marketern hilft, harte Bounces zu vermeiden, Spam-Beschwerden zu reduzieren und Betrug zu minimieren, um die Inbox-Zustellung zu verbessern.",
+    "history": "Xverify wurde 2011 von Robert Huey gegründet und hat seinen Hauptsitz in Northbrook, Illinois. Das Unternehmen bietet Echtzeitdienste zur E-Mail-Verifizierung für Marketer, um Bounce-Raten, Spam-Beschwerden und Betrug zu reduzieren. Im Februar 2019 wurde Xverify von TowerData übernommen, einem führenden Anbieter für E-Mail-Intelligence. TowerData fusionierte 2021 mit FreshAddress und benannte sich im Mai 2022 in AtData um, wodurch Xverify zu einem Produkt unter dem Dach von AtData wurde.",
+    "summary_abuse": "Xverify ist ein Dienst zur E-Mail-Verifizierung mit niedrigem bis moderatem Missbrauchsprofil. Der Dienst verarbeitet E-Mail-Adressdaten in grossen Mengen, was theoretisch zur Validierung von E-Mail-Listen für Spam-Kampagnen missbraucht werden könnte. Xverify wird jedoch primaer an legitime E-Mail-Marketer zur Verbesserung der Zustellbarkeit verkauft. Die Muttergesellschaft AtData, früher TowerData, ist ein Datenbroker im Bereich E-Mail-Intelligence, was gewisse Datenschutzfragen rund um Datenweitergabe aufwirft."
+  },
+  "XWiki": {
+    "description": "XWiki ist eine freie Wiki-Softwareplattform, die in Java geschrieben ist.",
+    "history": "XWiki wurde von Ludovic Dubost erstellt und im Januar 2004 erstmals unter der GPL veröffentlicht. 2006 wechselte die Lizenz zu LGPL, um Entwicklern mehr Flexibilitaet zu geben. XWiki SAS, das franzoesische Unternehmen hinter dem Projekt, entwickelt die Software weiterhin aktiv und bietet Enterprise-Hosting sowie Supportdienste an.",
+    "summary_abuse": "XWiki hat kein auffaelliges Missbrauchssignal. Es ist eine selbst gehostete Enterprise-Wiki-Plattform ohne nutzerseitige Oberfläche, auf die Betrüger typischerweise zielen. Der Hauptanwendungsfall ist internes Wissensmanagement."
+  },
+  "XYZScripts": {
+    "description": "XYZScripts ist ein Anbieter von PHP-Clone-Skripten und WordPress-Plugins. Er bietet hochwertige PHP- und MySQL-Skripte für den Aufbau von Online-Geschäften, mit einsatzbereiten Lösungen für die Website-Erstellung.",
+    "history": "XYZScripts ist ein Anbieter von PHP-Clone-Skripten und WordPress-Plugins für Online-Unternehmer und kleine Unternehmen. Das Unternehmen bietet einsatzbereite PHP- und MySQL-Skripte zum Aufbau verschiedener Website-Typen an.",
+    "summary_abuse": "XYZScripts verkauft PHP-Clone-Skripte, die grundsaetzlich für gefaelschte Shops oder minderwertige Websites eingesetzt werden könnten. Es gibt aber kein dokumentiertes Muster von breitem Missbrauch, das spezifisch diesem Anbieter zugeordnet ist."
+  },
+  "Xzero Analytics": {
+    "description": "Xzero Analytics ist ein Tool zum Überwachen von User Journeys, Analysieren von Besuchersitzungen, Erfassen von Heatmaps und weiteren Funktionen, um Website-Traffic zu beobachten und weiterzuentwickeln.",
+    "history": "Xzero Analytics ist ein britisches Webanalyse-SaaS, das eine datenschutzorientierte, cookielose Alternative zu Google Analytics anbietet. Zu den Funktionen gehoeren Replays von Besuchersitzungen, Heatmaps, Zielverfolgung und Echtzeitanalysen. Der Dienst arbeitet mit einem Abomodell ab 10 GBP pro Monat und bedient über 200 Unternehmen. Auffaellige Eigentümeränderungen, Übernahmen oder Abkündigungen sind nicht dokumentiert.",
+    "summary_abuse": "Xzero Analytics hat kein relevantes Missbrauchssignal. Es ist ein B2B-Webanalysetool für legitime Überwachung von Website-Traffic, ohne nutzerseitige Oberfläche oder Hosting für nutzergenerierte Inhalte. Die Plattform bewirbt ausdruecklich Datenschutzkonformitaet (GDPR, cookieloses Tracking, keine IP-Erfassung, DNT-Unterstützung). Als serverseitiges Analysetool bietet sie kein kostenloses Hosting mit eigener Domain, keine anonyme Registrierung und keine Massenkommunikationsfunktionen, die Betrüger ausnutzen könnten."
+  },
+  "Xzero JS": {
+    "description": "Xzero JS ist eine JavaScript-Bibliothek (ES6-Modul) zur Darstellung von 3D-Modellen, Szenen und 360-Grad-Panoramen im Web.",
+    "history": "Xzero JS wurde im Maerz 2024 von Xzero Entertainment erstmals auf npm veröffentlicht. In öffentlichen Quellen sind keine auffaelligen Forks, Eigentümeränderungen oder Abkündigungen ersichtlich.",
+    "summary_abuse": "Xzero JS hat kein auffaelliges Missbrauchssignal. Es ist eine selbst gehostete 3D-Rendering-Bibliothek ohne nutzerseitige Dienstoberfläche, auf die Betrüger typischerweise zielen."
+  }
+}
