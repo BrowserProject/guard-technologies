@@ -51,12 +51,12 @@
   },
   "Zanox": {
     "history": "Zanox war ein deutsches Affiliate-Marketing-Netzwerk, das 2000 gegründet wurde. Nach der Fusion der Affiliate-Netzwerke Awin und Zanox unter der Axel-Springer- / PubliGroupe-Struktur wurde es 2017 in Awin umbenannt.",
-    "summary_abuse": "Zanox, heute Awin, war ein Affiliate-Marketing-Netzwerk. Affiliate-Netzwerke können branchenweit von böswilligen Akteuren für Cookie Stuffing, betrügerischen Klicktraffic und gefälschte Conversion-Modelle missbraucht werden. Das Netzwerk wurde umbenannt und in Awin integriert."
+    "summary_abuse": "Zanox, heute Awin, war ein Affiliate-Marketing-Netzwerk. Affiliate-Netzwerke können branchenweit von böswilligen Akteuren für Cookie Stuffing, betrügerischen Klicktraffic und gefälschte Conversion-Betrugssysteme missbraucht werden. Das Netzwerk wurde umbenannt und in Awin integriert."
   },
   "Zapiet": {
     "description": "Zapiet ist eine Lösung für Abholung im Laden und lokale Lieferung im E-Commerce.",
-    "history": "Zapiet wurde 2015 von Andrew Cargill im Vereinigten Königreich gegründet. Das Unternehmen bietet Werkzeuge für Abholung im Laden, lokale Lieferung und Versandterminierung ausschliesslich für Shopify-Händler. Was als einfache Abhol-App begann, ist zu einer Plattform für tausende Händler in mehr als 150 Ländern mit einem remote-first Team gewachsen.",
-    "summary_abuse": "Zapiet ist ein reines Shopify-Tool für die Terminierung der Auftragsabwicklung ohne auffälliges Missbrauchssignal. Die Plattform ist eine Backend-Logistik-App und hat keine direkte verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsfälle mit dem Dienst verbunden."
+    "history": "Zapiet wurde 2015 von Andrew Cargill im Vereinigten Königreich gegründet. Das Unternehmen bietet Werkzeuge für Abholung im Laden, lokale Lieferung und Versandplanung ausschliesslich für Shopify-Händler. Was als einfache Abhol-App begann, ist zu einer Plattform für tausende Händler in mehr als 150 Ländern mit einem Remote-first-Team gewachsen.",
+    "summary_abuse": "Zapiet ist ein reines Shopify-Tool für die Planung der Auftragsabwicklung ohne auffälliges Missbrauchssignal. Die Plattform ist eine Backend-Logistik-App und hat keine direkte verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsfälle mit dem Dienst verbunden."
   },
   "Zapnito": {
     "description": "Zapnito ist eine Plattform, mit der B2B-Organisationen digitales Engagement, Bildung und communitygetriebenes Wachstum über integrierte Content- und Experience-Tools verwalten und skalieren können.",
@@ -90,7 +90,7 @@
   },
   "Zeleris": {
     "description": "Zeleris bietet Tür-zu-Tür-Paketlieferungen nach Irland, ins Vereinigte Königreich und in die EU an.",
-    "history": "Zeleris, rechtlich Telefónica Servicios Integrales de Distribución S.A.U., wurde 1999 in Madrid, Spanien, zunächst unter dem Namen Aeris gegründet. Das Unternehmen ist eine Tochtergesellschaft von Telefónica, dem grossen spanischen Telekommunikationskonzern, und spezialisiert sich auf Logistik, Eilnachrichten, Transport und Distribution sowie die Verteilung mobiler Geräte. Das Unternehmen bietet Lieferdienste in Spanien, Portugal, Irland, dem Vereinigten Königreich und der EU an.",
+    "history": "Zeleris, rechtlich Telefónica Servicios Integrales de Distribución S.A.U., wurde 1999 in Madrid, Spanien, zunächst unter dem Namen Aeris gegründet. Das Unternehmen ist eine Tochtergesellschaft von Telefónica, dem grossen spanischen Telekommunikationskonzern, und spezialisiert sich auf Logistik, Kurierdienste, Transport und Distribution sowie die Verteilung mobiler Geräte. Das Unternehmen bietet Lieferdienste in Spanien, Portugal, Irland, dem Vereinigten Königreich und der EU an.",
     "summary_abuse": "Zeleris ist eine Logistik- und Liefer-Tochtergesellschaft von Telefónica ohne auffälliges Missbrauchssignal. Die Plattform ist ein B2B-Versanddienst, über den Unternehmen Pakete versenden, und bietet keine verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsvorfälle mit Zeleris verbunden."
   },
   "Zen Cart": {
@@ -130,7 +130,7 @@
   "Zendesk": {
     "description": "Zendesk ist eine cloudbasierte Helpdesk-Management-Lösung mit anpassbaren Werkzeugen für Kundenservice-Portale, Wissensdatenbanken und Online-Communities.",
     "history": "Zendesk wurde 2007 in Kopenhagen, Dänemark, von Mikkel Svane, Morten Primdahl und Alexander Aghassipour gegründet und verlegte seinen Hauptsitz später nach San Francisco. Das Unternehmen ging 2014 an die NYSE und wuchs zu einer führenden Plattform für Kundenservice heran. 2022 übernahm ein Private-Equity-Konsortium unter Führung von Hellman & Friedman und Permira Zendesk für rund 10,2 Milliarden US-Dollar und nahm das Unternehmen von der Börse.",
-    "summary_abuse": "Zendesk hat wegen seines B2B-Fokus auf Kundenservice ein geringes Missbrauchsprofil. Die wichtigste Oberfläche, gebrandete Support-Portale und Live-Chat-Widgets, ist kein typischer Vektor für Phishing oder Betrug. Zendesk veröffentlicht eine AUP, betreibt ein aktives Sicherheitsprogramm einschliesslich SOC 2 Type 2-Zertifizierung und ein HackerOne-Bug-Bounty-Programm. Gelegentlicher Missbrauch betrifft die Nachahmung legitimer Zendesk-Support-E-Mails in Phishing-Kampagnen, ist aber beiläufig und nicht an Plattformfunktionen gebunden. Legitime Enterprise-Nutzung überwiegt klar."
+    "summary_abuse": "Zendesk hat wegen seines B2B-Fokus auf Kundenservice ein geringes Missbrauchsprofil. Die wichtigste Oberfläche, gebrandete Support-Portale und Live-Chat-Widgets, ist kein typischer Vektor für Phishing oder Betrug. Zendesk veröffentlicht eine AUP, betreibt ein aktives Sicherheitsprogramm einschliesslich SOC 2 Type 2-Zertifizierung und ein HackerOne-Bug-Bounty-Programm. Gelegentlicher Missbrauch betrifft die Nachahmung legitimer Zendesk-Support-E-Mails in Phishing-Kampagnen, ist aber nebensächlich und nicht an Plattformfunktionen gebunden. Legitime Enterprise-Nutzung überwiegt klar."
   },
   "Zendesk Chat": {
     "description": "Zendesk Chat ist ein Live-Chat- und Kommunikations-Widget.",
@@ -277,7 +277,7 @@
     "summary_abuse": "Für ZingChart gibt es kein auffälliges Missbrauchssignal. Es ist eine JavaScript-Diagrammbibliothek ohne verbraucherorientierte Netzwerkoberfläche."
   },
   "Zinnia": {
-    "description": "Zimbra ist eine Kollaborationssoftware-Suite mit E-Mail-Server und Webclient.",
+    "description": "Zinnia ist eine Open-Source-Blog-Anwendung für Django.",
     "history": "Zinnia ist eine Open-Source-Blog-Anwendung für Django, die Anfang bis Mitte der 2010er-Jahre beliebt war, um Django-Websites um Blogfunktionen zu ergänzen. Das Projekt scheint weitgehend aufgegeben zu sein und zeigt kaum jüngere Aktivität.",
     "summary_abuse": "Für Zinnia gibt es kein auffälliges Missbrauchssignal. Es ist eine selbst gehostete Django-Blog-Anwendung ohne Netzwerkdienste, die Betrüger typischerweise anvisieren."
   },
@@ -410,12 +410,12 @@
     "summary_abuse": "Zone.js hat kein auffälliges Missbrauchssignal. Es ist eine grundlegende JavaScript-Bibliothek für Angular-Anwendungen ohne verbraucherorientierte Angriffs- oder Dienstfläche."
   },
   "Zonos": {
-    "description": "Zonos ist eine Software- und App-Lösung für grenzüberschreitenden Ecommerce bei Unternehmen mit internationalem Geschäft.",
+    "description": "Zonos ist eine Software- und App-Lösung für grenzüberschreitenden E-Commerce bei Unternehmen mit internationalem Geschäft.",
     "history": "Zonos wurde um 2009 gegründet und bietet Lösungen für grenzüberschreitenden Ecommerce, darunter die Berechnung von Zöllen und Steuern, internationalen Checkout und Zoll-Compliance. Die Plattform richtet sich an B2B-Händler, die international expandieren wollen.",
     "summary_abuse": "Zonos hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für grenzüberschreitenden Handel, die Händlern Compliance- und Zollberechnungsdienste bereitstellt."
   },
   "ZoodPay": {
-    "description": "ZoodPay ist ein Fintech-Unternehmen, das Zahlungs- und Finanzierungslösungen bereitstellt, darunter Buy-now-pay-later (BNPL) und Point-of-Sale-Finanzierung für Verbraucher und Unternehmen.",
+    "description": "ZoodPay ist ein Fintech-Unternehmen, das Zahlungs- und Finanzierungslösungen bereitstellt, darunter Buy-now-pay-later (BNPL) und Point-of-Sale-Finanzierung für Konsumenten und Unternehmen.",
     "history": "ZoodPay ist ein um 2019 gegründetes BNPL-Fintech mit Fokus auf Märkte im Nahen Osten und in Zentralasien. Das Unternehmen bietet Ratenzahlungs- und Finanzierungslösungen für Verbraucher, unter anderem in den UAE, Jordanien und Kasachstan.",
     "summary_abuse": "ZoodPay ist ein BNPL-Fintech im Nahen Osten und in Zentralasien. Verbraucherkredite in Schwellenmärkten haben erhöhte Risiken durch Identitätsbetrug und synthetische Identitäten. Als verbraucherorientierter Finanzdienst kann die Marke in Phishing-Kampagnen imitiert werden. Spezifische Missbrauchsfälle im grossen Massstab sind nicht dokumentiert."
   },

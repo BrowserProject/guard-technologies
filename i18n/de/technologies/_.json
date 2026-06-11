@@ -6,7 +6,7 @@
   },
   "1C-Bitrix": {
     "description": "1C-Bitrix ist ein System für das Management von Webprojekten und eine universelle Software zum Erstellen, Betreiben und Weiterentwickeln von Unternehmenswebsites und Onlineshops.",
-    "history": "1C-Bitrix wurde 1998 in Russland gegründet und entwickelte sich zu einer der beliebtesten CMS-Plattformen im russischsprachigen Markt. Das Unternehmen entwickelte Bitrix Site Manager, das selbst gehostete CMS-Produkt, und brachte später Bitrix24 als cloudbasierte Business-Suite auf den Markt. Die Plattform ist in Russland, der Ukraine und den GUS-Staaten stark verbreitet und unterhält regionale Büros in mehreren Ländern. Der anhaltende Russland-Ukraine-Konflikt hat bei einigen internationalen Kunden Unsicherheit rund um Datensouveränität ausgelöst.",
+    "history": "1C-Bitrix wurde 1998 in Russland gegründet und entwickelte sich zu einer der beliebtesten CMS-Plattformen im russischsprachigen Markt. Das Unternehmen entwickelte Bitrix Site Manager, das On-Premise-CMS-Produkt, und brachte später Bitrix24 als cloudbasierte Business-Suite auf den Markt. Die Plattform ist in Russland, der Ukraine und den GUS-Staaten stark verbreitet und unterhält regionale Büros in mehreren Ländern. Der anhaltende Russland-Ukraine-Konflikt hat bei einigen internationalen Kunden Unsicherheit rund um Datensouveränität ausgelöst.",
     "summary_abuse": "1C-Bitrix ist ein etabliertes CMS, das vor allem in Russland und den GUS-Staaten genutzt wird. Es gibt keine spezifisch dokumentierten Missbrauchsmuster ausser den üblichen CMS-Risiken, etwa Angriffe auf veraltete Installationen. Die Plattform wird primär für legitime Unternehmenswebsites eingesetzt. Wegen des Hauptsitzes in Russland äussern manche Unternehmenskunden Bedenken zur Datenresidenz, selbst gehostete Installationen können dies jedoch abmildern. Der Anbieter betreibt einen aktiven Prozess für Sicherheitshinweise."
   },
   "24nettbutikk": {
@@ -15,7 +15,7 @@
     "summary_abuse": "24nettbutikk ist eine norwegische E-Commerce-Plattform für KMU ohne dokumentierte Missbrauchsgeschichte; sie wird vor allem von legitimen kleinen Unternehmen genutzt und bedient einen regionalen Nischenmarkt. Die Plattform bietet keine Funktionen, die für betrügerische Shops besonders attraktiv wären, und ihre Kundenbasis besteht aus verifizierten norwegischen Unternehmen."
   },
   "2B Advice": {
-    "description": "2B Advice bietet ein Plug-in zur Verwaltung der GDPR-Cookie-Einwilligung.",
+    "description": "2B Advice bietet ein Plug-in zur Verwaltung von Cookie-Einwilligungen nach GDPR.",
     "history": "Die 2B Advice GmbH wurde 2003 in Bonn, Deutschland, gegründet und ist auf Datenschutzberatung sowie Software für Compliance-Management spezialisiert. Das Unternehmen entwickelte die Datenschutzmanagement-Plattform Ailance und bietet externe DPO-Dienste an. Es expandierte mit Büros in mehreren europäischen Städten und in den USA. Nennenswerte Eigentümerwechsel oder Kontroversen sind nicht bekannt.",
     "summary_abuse": "2B Advice ist ein SaaS-Angebot für Datenschutz-Compliance mit Fokus auf GDPR und Sicherheitsmanagement. Als Werkzeug für Compliance-Verantwortliche und Rechtsteams hat es keine dokumentierte Missbrauchsgeschichte und ist keine Plattform, die typischerweise für Phishing oder Betrug genutzt würde. Datenschutz ist für das Unternehmen selbst ein Kernbereich, entsprechend zentral ist die Privacy-Positionierung."
   },
@@ -35,13 +35,13 @@
     "summary_abuse": "Für 321 CMS gibt es kein auffälliges Missbrauchssignal. Es ist ein tschechischer Website-Builder in einer Nische ohne dokumentierte Missbrauchsmuster."
   },
   "33Across": {
-    "description": "33Across ist ein Technologieunternehmen, das sich darauf konzentriert, die Herausforderung der Verbraucheraufmerksamkeit in automatisierter Werbung zu lösen.",
+    "description": "33Across ist ein Technologieunternehmen, das sich darauf konzentriert, die Aufmerksamkeit von Konsumenten in automatisierter Werbung besser zu erschliessen.",
     "history": "33Across wurde 2008 von Eric Wheeler und Greg Levitt in Sunnyvale, Kalifornien, gegründet und ist eine Plattform für programmatische Werbung und Publisher-Monetarisierung. Das Unternehmen nahm in fünf Finanzierungsrunden 25,7 Millionen US-Dollar auf. 2014 entwickelte es die Intent Signal Platform, um mit Machine Learning zielgruppenbasierte Werbung auszuliefern.",
     "summary_abuse": "33Across ist im Programmatic-Ad-Tech-Umfeld tätig und bindet Tracking-Code von Drittanbietern auf Publisher-Websites ein. Wie bei den meisten Ad-Tech-Unternehmen sammelt die Plattform verhaltensbezogene Daten über viele Websites hinweg für Targeting-Zwecke, was Datenschutzbedenken auslöst. Das Missbrauchssignal ist moderat, insbesondere wegen Risiken durch Werbebetrug und ungültigen Traffic im offenen programmatischen Ökosystem. Das Unternehmen beteiligt sich an Brancheninitiativen gegen Betrug, etwa IAB-Standards."
   },
   "34SP.com": {
     "description": "34SP.com ist auf Website-Hosting, günstige Domainnamen, preiswerte VPS-Server und dedizierte Server spezialisiert.",
-    "history": "34SP.com wurde 2000 von Daniel Foster und Stuart Melling in Manchester, England, gegründet und ist ein unabhängiger Webhosting-Anbieter aus dem Vereinigten Königreich. Das Unternehmen ist seit der Gründung unabhängig geblieben, mit Fokus auf WordPress-Hosting und nachhaltigem Betrieb mit 100% grüner Energie. Es besitzt ISO-9001- und ISO-14001-Akkreditierungen und ist für menschlichen Support aus dem Vereinigten Königreich bekannt.",
+    "history": "34SP.com wurde 2000 von Daniel Foster und Stuart Melling in Manchester, England, gegründet und ist ein unabhängiger Webhosting-Anbieter aus dem Vereinigten Königreich. Das Unternehmen ist seit der Gründung unabhängig geblieben, mit Fokus auf WordPress-Hosting und nachhaltigem Betrieb mit 100% grüner Energie. Es besitzt ISO-9001- und ISO-14001-Akkreditierungen und ist für persönlichen Support aus dem Vereinigten Königreich bekannt.",
     "summary_abuse": "34SP.com ist ein kleiner unabhängiger Webhost aus dem Vereinigten Königreich mit insgesamt guten Anti-Abuse-Praktiken. Als Managed-WordPress-Host mit verifizierten Kundenkonten ist die Anfälligkeit für anonymen Missbrauch begrenzt. Shared-Hosting-Umgebungen bringen ein grundsätzliches Risiko durch Spam von Nachbarmandanten mit sich, doch der Fokus auf KMU und gemeinnützige Kunden hält das Missbrauchsprofil niedrig. Grössere Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "4-Tell": {
@@ -56,18 +56,18 @@
   },
   "42stores": {
     "description": "42stores ist eine französische SaaS-Lösung für E-Commerce, die 2008 gegründet wurde; sie bietet Funktionen wie Monitoring, Kundensupport und regelmässige Updates. Die Plattform ist für ihre Flexibilität und Modularität bekannt und lässt sich mit verschiedenen ERP-Systemen integrieren.",
-    "history": "42stores wurde 2008 in Rouen, Frankreich, gegründet und ist eine französische SaaS-E-Commerce-Plattform mit Spezialisierung auf Multi-Store-Management für B2B- und B2C-Händler. Das Unternehmen richtet sich an Branchen wie Distribution, Autoteile und Industrie. Es hat über 1'000 Websites betrieben und beschäftigt 20 bis 49 Mitarbeitende.",
+    "history": "42stores wurde 2008 in Rouen, Frankreich, gegründet und ist eine französische SaaS-E-Commerce-Plattform mit Spezialisierung auf Multi-Store-Management für B2B- und B2C-Händler. Das Unternehmen richtet sich an Branchen wie Distribution, Autoteile und Industrie. Die Plattform hat über 1'000 Websites unterstützt und beschäftigt 20 bis 49 Mitarbeitende.",
     "summary_abuse": "42stores ist ein französisches B2B-E-Commerce-SaaS ohne dokumentierte Missbrauchsgeschichte. Der Hauptmarkt sind Industrie- und Distributionsunternehmen, die Geschäftskonten benötigen. Es gibt keine nutzerseitige anonyme Registrierung oder kostenloses Hosting, das Missbrauch anziehen würde."
   },
   "4Partners": {
     "description": "4Partners ist ein internationaler Dropshipping-Dienst, mit dem du einen fertigen Onlineshop starten kannst.",
     "history": "4Partners wurde 2017 in den Vereinigten Arabischen Emiraten gegründet und ist eine Plattform für Dropshipping und E-Commerce-Enabling mit Lagern in den VAE, Deutschland, den USA, der Türkei und China. Das Unternehmen nahm 2024 3,6 Millionen US-Dollar auf, um in der MENA-Region zu expandieren. Ursprünglich entstand es in Russland, bevor der Betrieb in die VAE verlegt wurde.",
-    "summary_abuse": "4Partners ist eine Dropshipping-Plattform, die eine schnelle Erstellung von Onlineshops mit Zugriff auf Millionen von Produkten ermöglicht. Dropshipping-Plattformen bergen ein moderates Missbrauchsrisiko, weil sie zum Aufbau gefälschter oder minderwertiger Shops gegen Verbraucher genutzt werden können. Die Plattform bedient vor allem legitime Händler, doch die einfache Shop-Erstellung und begrenztes KYC bei kleineren Konten könnten für Scam-Shops ausgenutzt werden."
+    "summary_abuse": "4Partners ist eine Dropshipping-Plattform, die eine schnelle Erstellung von Onlineshops mit Zugriff auf Millionen von Produkten ermöglicht. Dropshipping-Plattformen bergen ein moderates Missbrauchsrisiko, weil sie zum Aufbau gefälschter oder minderwertiger Shops genutzt werden können, die auf Konsumenten zielen. Die Plattform bedient vor allem legitime Händler, doch die einfache Shop-Erstellung und begrenztes KYC bei kleineren Konten könnten für Scam-Shops ausgenutzt werden."
   },
   "4Partners CMS": {
     "description": "4Partners CMS ist eine cloudbasierte Lösung für E-Commerce-Shops.",
     "history": "4Partners CMS ist eine cloudbasierte E-Commerce-Storefront-Plattform von 4Partners, einem 2017 gegründeten Dropshipping-Unternehmen mit Sitz in den VAE. Das CMS bietet Zugriff auf Millionen von Produkten und ermöglicht Händlern die Verwaltung von E-Commerce-Aktivitäten über mehrere Länder hinweg. Eine eigenständige Unternehmensgeschichte ausserhalb der Muttergesellschaft 4Partners ist nicht bekannt.",
-    "summary_abuse": "4Partners CMS ermöglicht den schnellen Aufbau von Onlineshops für Dropshipping, was ein moderates Missbrauchsrisiko für gefälschte oder minderwertige Shops mit sich bringt. Die Plattform bedient vor allem legitime Händler, doch die einfache Einrichtung und begrenztes KYC könnten für Scam-Betrieb ausgenutzt werden. Konkrete Vorfälle sind nicht dokumentiert."
+    "summary_abuse": "4Partners CMS ermöglicht den schnellen Aufbau von Onlineshops für Dropshipping, was ein moderates Missbrauchsrisiko für gefälschte oder minderwertige Shops mit sich bringt. Die Plattform bedient vor allem legitime Händler, doch die einfache Einrichtung und begrenztes KYC könnten für betrügerische Aktivitäten ausgenutzt werden. Konkrete Vorfälle sind nicht dokumentiert."
   },
   "51.LA": {
     "description": "51.LA ist ein chinesischer Besucherzähler für Websites.",
@@ -87,7 +87,7 @@
   "6sense": {
     "description": "6sense ist eine B2B-Plattform für Predictive Intelligence in Marketing und Vertrieb.",
     "history": "6sense wurde 2013 in San Francisco von Viral Bajaria, Premal Shah und Amanda Kahlow gegründet und ist eine B2B-Plattform für Account-Based Marketing und Revenue Intelligence. Das Unternehmen nahm 426 Millionen US-Dollar auf und erreichte 2022 eine Bewertung von 5,2 Milliarden US-Dollar. Bis 2024 wuchs der ARR auf über 200 Millionen US-Dollar, bei anhaltend dreistelligen Wachstumsraten. Grössere Eigentümerwechsel gab es nicht, das Unternehmen bleibt VC-finanziert und unabhängig.",
-    "summary_abuse": "6sense aggregiert B2B-Intent-Daten und Account Intelligence aus dem Web, was Datenschutzfragen aufwirft, weil anonymes Kaufverhalten in grossem Umfang verfolgt wird. Die Plattform wird legitim von Enterprise-Teams in Vertrieb und Marketing genutzt. Als datenbrokernahe Firma stand 6sense unter GDPR und CCPA wegen seiner Datenerhebungspraktiken unter Beobachtung. Eine Nutzung für Phishing oder Betrug ist nicht dokumentiert."
+    "summary_abuse": "6sense aggregiert B2B-Intent-Daten und Account Intelligence aus dem Web, was Datenschutzfragen aufwirft, weil anonymes Kaufverhalten in grossem Umfang verfolgt wird. Die Plattform wird legitim von Enterprise-Teams in Vertrieb und Marketing genutzt. Als datenbrokerähnliches Unternehmen stand 6sense wegen seiner Datenerhebungspraktiken unter GDPR und CCPA in der Kritik. Eine Nutzung für Phishing oder Betrug ist nicht dokumentiert."
   },
   "6Valley eCommerce CMS": {
     "description": "6Valley eCommerce CMS ist eine Multi-Vendor-Plattform, die Unternehmensgründungen erleichtern soll, indem sie Werkzeuge zur Verwaltung von Anbietern, Produkten und Transaktionen in einem E-Commerce-Ökosystem bereitstellt.",
@@ -100,7 +100,7 @@
     "summary_abuse": "7moor ist eine chinesische Cloud-Plattform für Kundenservice und CRM, die unter chinesischen Datenregeln betrieben wird. Als in China gehostetes Kommunikationswerkzeug unterliegt sie chinesischen Gesetzen zum staatlichen Datenzugriff, was für Unternehmen mit internationalen Nutzerdaten relevant ist. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, die Telemarketing-Funktionen könnten jedoch für unerwünschte ausgehende Anrufe missbraucht werden."
   },
   "7Shifts": {
-    "description": "7Shifts ist eine All-in-one-Plattform für Teammanagement, die Restaurantabläufe vereinfacht und Werkzeuge für Planung, Kommunikation und Aufgabenmanagement für Führungskräfte und Mitarbeitende bereitstellt.",
+    "description": "7Shifts ist eine All-in-One-Plattform für Teammanagement, die Restaurantabläufe vereinfacht und Werkzeuge für Dienstplanung, Kommunikation und Aufgabenmanagement für Führungskräfte und Mitarbeitende bereitstellt.",
     "history": "7shifts wurde 2014 in Saskatoon, Saskatchewan, Kanada, von Jordan Boesch gegründet, inspiriert von den Planungsproblemen seines Vaters in Quiznos-Restaurants. 7shifts wuchs auf über 50'000 Restaurants und 1 Million Nutzer und nahm mehr als 150 Millionen CAD auf, darunter 2022 eine Series C über 80 Millionen USD vom SoftBank Vision Fund 2. Eigentümerwechsel gab es nicht, das Unternehmen bleibt unabhängig.",
     "summary_abuse": "7shifts ist ein SaaS für Workforce Management in Restaurants ohne dokumentierte Missbrauchsgeschichte. Die Plattform verarbeitet Dienstplan- und Lohndaten für die Gastronomie; sie erfordert Geschäftskonten und verarbeitet personenbezogene Mitarbeiterdaten, wodurch starke Datenschutzpraktiken wichtig sind. Eine Nutzung in Phishing-, Betrugs- oder Schadkampagnen ist nicht dokumentiert."
   },

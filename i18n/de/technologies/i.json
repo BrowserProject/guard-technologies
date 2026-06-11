@@ -332,7 +332,7 @@
     "summary_abuse": "Impressure hat wegen seiner Offer-Path- und Landingpage-Funktionen mit Custom-Domain-Unterstützung und kostenloser Testphase ein moderates Missbrauchspotenzial. Diese Kombination wird häufig für Phishing-Landingpages und irreführende Leadgenerierung ausgenutzt. Die Plattform bedient Performance-Marketer, und legitime Nutzung ist verbreitet, die Werkzeugeigenschaften entsprechen jedoch Mustern aus Scam-Funnel-Operationen. Konkrete dokumentierte Vorfälle wurden nicht gefunden."
   },
   "Imunify360": {
-    "description": "Imunify360 ist eine umfassende Sicherheitsplattform für Linux-Webserver, die Machine Learning und andere fortgeschrittene Techniken nutzt, um vor verschiedenen Cyberbedrohungen wie Malware, Viren und anderen Angriffen zu schützen.",
+    "description": "Imunify360 ist eine umfassende Sicherheitsplattform für Linux-Webserver, die maschinelles Lernen und andere fortgeschrittene Techniken nutzt, um vor verschiedenen Cyberbedrohungen wie Malware, Viren und anderen Angriffen zu schützen.",
     "history": "Imunify360 ist eine Sicherheitsplattform für Linux-Webserver, entwickelt von CloudLinux, einem Unternehmen mit Fokus auf Linux-basierte Shared-Hosting-Umgebungen. CloudLinux ist seit 2010 tätig, und Imunify360 wurde als Sicherheitsproduktlinie gestartet.",
     "summary_abuse": "Imunify360 ist ein Sicherheitswerkzeug zum Schutz von Webservern vor Malware und Angriffen. Es ist ein defensives Produkt ohne endnutzerorientierte Angriffsfläche und ohne auffälliges Missbrauchssignal."
   },
@@ -543,7 +543,7 @@
     "summary_abuse": "inSided ist eine B2B-Community-Plattform für SaaS-Unternehmen ohne dokumentierte Missbrauchsfälle."
   },
   "Insider": {
-    "description": "Insider ist eine integrierte Growth-Management-Plattform, mit der Digital Marketers Wachstum über den gesamten Funnel hinweg fördern, von Acquisition über Activation und Retention bis Revenue, auf einer einheitlichen Plattform mit Artificial Intelligence und Machine Learning.",
+    "description": "Insider ist eine integrierte Growth-Management-Plattform, mit der Marketingteams Wachstum über den gesamten Funnel hinweg fördern können, von Acquisition über Activation und Retention bis Revenue, auf einer einheitlichen Plattform mit künstlicher Intelligenz und maschinellem Lernen.",
     "history": "Insider wurde 2012 in Istanbul, Türkei, von Hande Çilingir und Mitgründern gegründet. Ursprünglich eine Marketing-Automation-Plattform, expandierte Insider weltweit und verlegte den Hauptsitz nach Singapur. Im März 2022 erreichte das Unternehmen nach einer Series D über 121 Millionen Dollar von QIA mit einer Bewertung von 1,22 Milliarden Dollar Unicorn-Status. 2024 nahm es in einer von General Atlantic geführten Series E 500 Millionen Dollar auf und erreichte eine Bewertung von 2 Milliarden Dollar. Ende 2025 benannte sich das Unternehmen in Insider One um.",
     "summary_abuse": "Insider ist eine grosse B2B-Plattform für Kundendaten und Marketing-Automation, die von Unternehmen genutzt wird. Als Martech-Tool verarbeitet sie Verhaltensdaten von Besuchern in grossem Umfang und sammelt Browsing- und Interaktionsdaten über Kunden-Websites hinweg, was übliche Datenschutzfragen aufwirft. Die Plattform unterliegt GDPR und verfügt über Compliance-Kontrollen. Dokumentierte Fälle von Plattformmissbrauch für Betrug oder Phishing sind nicht gemeldet."
   },
@@ -646,7 +646,7 @@
     "summary_abuse": "Integral Ad Science ist eine Plattform für Ad Verification und Brand Safety, die tief im digitalen Werbeökosystem verankert ist. Als Ad-Tech-Infrastruktur verarbeitet sie enorme Mengen an Zielgruppendaten und Web-Browsing-Verhalten, was Datenschutzbedenken aufwirft. Grosse Werbetreibende nutzen sie zur Prüfung von Ad Viewability und Brand Safety; sie wird nicht direkt missbraucht, doch die zugrunde liegende Tracking-Infrastruktur kann im weiteren Werbeökosystem von böswilligen Akteuren zweckentfremdet werden."
   },
   "Integrately": {
-    "description": "Integrately ist eine Click-Automation-Software, die mehrere Anwendungen miteinander verbindet.",
+    "description": "Integrately ist eine Automatisierungssoftware, die mehrere Anwendungen mit wenigen Klicks miteinander verbindet.",
     "history": "Integrately wurde 2020 von Karan Thakkar in Nashik, Indien, gegründet. Die Plattform bietet Workflow-Automation durch die Verbindung von über 1'000 Apps mit vorgefertigten Automationsvorlagen und positioniert sich als benutzerfreundliche Alternative zu Zapier. Das Unternehmen blieb unabhängig und bootstrapped. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Integrately ist eine Workflow-Automation-Plattform, die Business-Apps verbindet. Wie ähnliche Automatisierungstools kann sie missbraucht werden, wenn legitime Konten kompromittiert werden, um Spam zu versenden oder Daten über verbundene App-Integrationen abzufliessen. Die Plattform verlangt Kontoauthentifizierung und hat eine AUP. Spezifische dokumentierte Vorfälle breitflächigen Missbrauchs sind nicht gemeldet."
   },
@@ -661,7 +661,7 @@
     "summary_abuse": "Intelligems ist eine Shopify-Plattform für A/B-Testing ohne bedeutendes Missbrauchssignal; sie verarbeitet E-Commerce-Preis- und Conversion-Daten für legitime Marken und es sind keine Missbrauchsmuster dokumentiert."
   },
   "Intellimize": {
-    "description": "Intellimize ist eine Plattform, die Machine Learning nutzt, um Website-Erlebnisse in Echtzeit zu optimieren und Conversions zu erhöhen.",
+    "description": "Intellimize ist eine Plattform, die maschinelles Lernen nutzt, um Website-Erlebnisse in Echtzeit zu optimieren und Conversions zu erhöhen.",
     "history": "Intellimize wurde 2016 in San Mateo, Kalifornien, von Guy Yalif, Brian Webb und Jin Lim gegründet, Veteranen von Yahoo, Twitter und BrightRoll. Das Unternehmen nahm über vier Finanzierungsrunden insgesamt 52 Millionen Dollar auf, darunter eine Runde über 30 Millionen Dollar. Es bot KI-gestützte Website-Personalisierung und Optimierung. Webflow übernahm Intellimize und benannte es in Webflow Optimize um.",
     "summary_abuse": "Intellimize ist eine B2B-Plattform für Website-Optimierung, genutzt von Enterprise-Marketingteams. Als Teil von Webflow verarbeitet sie Verhaltensdaten von Besuchern für Personalisierungszwecke. Dokumentierte Missbrauchsvorfälle sind nicht gemeldet. Die Plattform hat nur minimale Endkundenexponierung, die für Betrug ausgenutzt werden könnte."
   },
@@ -782,7 +782,7 @@
   },
   "Ionicons": {
     "description": "Ionicons ist ein Open-Source-Iconset für Web-, iOS-, Android- und Desktop-Apps.",
-    "history": "Ionicons ist eine kostenlose Open-Source-Iconbibliothek, die vom Ionic-Team entwickelt und gepflegt wird, heute unter OutSystems; sie bietet über 1'300 SVG-Icons mit Material-Design- und iOS-Varianten. Die Bibliothek erschien um 2013 zusammen mit dem Ionic-Framework unter MIT License.",
+    "history": "Ionicons ist eine kostenlose Open-Source-Iconbibliothek, die vom Ionic-Team entwickelt und gepflegt wird, heute unter OutSystems; sie bietet über 1'300 SVG-Icons mit Material-Design- und iOS-Varianten. Die Bibliothek erschien um 2013 zusammen mit dem Ionic-Framework unter MIT-Lizenz.",
     "summary_abuse": "Ionicons ist eine statische Open-Source-SVG-Iconbibliothek ohne gehosteten Dienst und ohne Missbrauchssignal."
   },
   "IONOS": {
@@ -801,7 +801,7 @@
   "IP2Location.io": {
     "description": "IP2Location.io ist ein Webdienst, der über seine API Geolocation-Daten auf Basis von IP-Adressen bereitstellt, damit Entwickler genaue physische Standortinformationen in Anwendungen integrieren können.",
     "history": "IP2Location wurde um 2002 in Malaysia als Anbieter von Geolocation-Datenbanken gegründet. Die Marke IP2Location.io ist das API-first-Angebot auf Basis der langjährigen IP2Location-Datenprodukte und richtet sich an Entwickler, die IP-basierte Geolocation-Daten über eine REST API benötigen.",
-    "summary_abuse": "IP2Location.io ist ein Geolocation-API-Dienst ohne auffälligen Missbrauch als Threat-Actor-Werkzeug. Geolocation-APIs können theoretisch von Betrugsakteuren für Footprinting genutzt werden, IP2Location.io selbst ist jedoch eine legitime Daten-API ohne bekannte Weaponization-Historie. Der Dienst verlangt API-Keys und bietet keinen anonymen Zugriff."
+    "summary_abuse": "IP2Location.io ist ein Geolocation-API-Dienst ohne auffälligen Missbrauch als Werkzeug für Angreifer. Geolocation-APIs können theoretisch von Betrugsakteuren für Footprinting genutzt werden, IP2Location.io selbst ist jedoch eine legitime Daten-API ohne bekannte Geschichte als missbrauchtes Angriffswerkzeug. Der Dienst verlangt API-Keys und bietet keinen anonymen Zugriff."
   },
   "iPaper": {
     "description": "iPaper ist eine Plattform, die gedruckte Materialien in interaktive digitale Kataloge umwandelt, um Kundenbindung und Verkauf zu unterstützen.",
@@ -830,7 +830,7 @@
   "ipdata": {
     "description": "ipdata ist eine JSON-API für IP-Adress-Geolocation, mit der sich der Standort von IPv4- und IPv6-Adressen abfragen lässt.",
     "history": "ipdata.co ist eine API für IP-Geolocation und Threat Intelligence, die über 20 Milliarden Anfragen bedient hat; sie läuft in 11 AWS-Rechenzentren weltweit und wird von Kunden wie NASA und Disney genutzt. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "ipdata.co ist eine API für IP-Geolocation und Threat Intelligence. Wie alle IP-Datendienste kann sie von automatisierten Threat Actors abgefragt werden, dies ist jedoch nebensächlich gegenüber der primär legitimen Nutzung. Der Dienst enthält selbst Threat-Intelligence-Funktionen, mit denen Kunden Missbrauch erkennen können."
+    "summary_abuse": "ipdata.co ist eine API für IP-Geolocation und Threat Intelligence. Wie alle IP-Datendienste kann sie von automatisierten Angreifern abgefragt werden, dies ist jedoch nebensächlich gegenüber der überwiegend legitimen Nutzung. Der Dienst enthält selbst Threat-Intelligence-Funktionen, mit denen Kunden Missbrauch erkennen können."
   },
   "IPFS": {
     "description": "IPFS ist ein Peer-to-Peer-Hypermedia-Protokoll für ein verteiltes Hypermedia-Web.",
@@ -874,7 +874,7 @@
   "Iress": {
     "description": "Iress ist eine Plattform, die Softwarelösungen für die Finanzdienstleistungsbranche bereitstellt.",
     "history": "Iress wurde 1993 in Australien von Peter Dunai, Neil Detering und Hung Do als Dunai Financial Systems gegründet. 1997 übernahm Bridge Information Systems 80 Prozent. Im Jahr 2000 erfolgte die Kotierung an der ASX als BridgeDFS. 2001 wurde das Unternehmen in Iress Market Technology und 2012 in Iress Limited umbenannt. Durch Übernahmen expandierte es global. Die Software wird von über 500'000 Nutzern in Finanzdienstleistungen eingesetzt.",
-    "summary_abuse": "Iress ist Enterprise-Software für Finanzdienstleistungen, die von regulierten Institutionen genutzt wird; sie hat keine Consumer-facing Oberfläche und kein auffälliges Missbrauchssignal."
+    "summary_abuse": "Iress ist Enterprise-Software für Finanzdienstleistungen, die von regulierten Institutionen genutzt wird; sie hat keine verbraucherorientierte Oberfläche und kein auffälliges Missbrauchssignal."
   },
   "IrisLMS": {
     "description": "IrisLMS ist ein umfassendes Bildungsmanagementsystem zur Unterstützung von E-Learning und zur Durchführung von Online- und Offline-Kursen mit passenden Funktionen.",
@@ -888,7 +888,7 @@
   "ISAY": {
     "description": "ISAY (Internet Pages Management) ist ein CMS-Dienst des türkischen Innenministeriums für Gouverneursämter, Bezirksgouverneursämter und verschiedene offizielle Websites.",
     "history": "ISAY (Internet Sayfaları Yönetimi, also Internet Pages Management) ist ein proprietäres CMS, das vom türkischen Innenministerium und für dieses entwickelt wurde. Es verwaltet offizielle Regierungswebsites für Gouverneursämter, Bezirksgouverneursämter und verwandte Behörden in der Türkei.",
-    "summary_abuse": "ISAY ist ein regierungsinternes CMS, das ausschliesslich für türkische Staatswebsites genutzt wird. Es hat keine Consumer-facing Oberfläche, keine öffentliche Registrierung und ist ausserhalb offizieller Regierungsabläufe nicht zugänglich. Ein bekanntes Missbrauchsprofil zu diesem System gibt es nicht."
+    "summary_abuse": "ISAY ist ein regierungsinternes CMS, das ausschliesslich für türkische Staatswebsites genutzt wird. Es hat keine verbraucherorientierte Oberfläche, keine öffentliche Registrierung und ist ausserhalb offizieller Regierungsabläufe nicht zugänglich. Ein bekanntes Missbrauchsprofil zu diesem System gibt es nicht."
   },
   "iScripts": {
     "description": "iScripts ist ein PHP-basiertes CMS-System für mehrere Produkttypen.",
@@ -912,7 +912,7 @@
   },
   "Isso": {
     "description": "Isso ist ein leichtgewichtiger Kommentarserver in Python und JavaScript, dessen Name auf das deutsche \"Ich schrei sonst\" verweist.",
-    "history": "Isso ist ein leichtgewichtiges, selbst gehostetes Kommentarsystem in Python mit SQLite-Backend, entwickelt als datenschutzfreundliche Alternative zu Disqus. Es wurde zunächst von Martin Zimmermann entwickelt und später von Community-Beitragenden unter der GitHub-Organisation isso-comments gepflegt. Es steht unter MIT License und speichert alle Daten lokal.",
+    "history": "Isso ist ein leichtgewichtiges, selbst gehostetes Kommentarsystem in Python mit SQLite-Backend, entwickelt als datenschutzfreundliche Alternative zu Disqus. Es wurde zunächst von Martin Zimmermann entwickelt und später von Community-Beitragenden unter der GitHub-Organisation isso-comments gepflegt. Es steht unter MIT-Lizenz und speichert alle Daten lokal.",
     "summary_abuse": "Isso ist ein selbst gehostetes Kommentarsystem mit vollständiger Kontrolle durch den Betreiber. Es hat keine gehostete SaaS-Oberfläche und keine Infrastruktur zur Missbrauchsverfolgung, daher müssen Betreiber Spam selbst verwalten. Auffällige Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "Issuu": {
@@ -963,7 +963,7 @@
   "iubenda": {
     "description": "iubenda ist Compliance-Software, die Unternehmen für ihre Websites und Apps nutzen.",
     "history": "iubenda wurde 2011 in Bologna, Italien, als Compliance-Softwareplattform gegründet, die Websites beim Erstellen rechtlich konformer Datenschutzerklärungen und Cookie-Banner unterstützt. Das Unternehmen wuchs auf über 150'000 Kunden weltweit. In den letzten Jahren schloss sich iubenda mit team.blue, einer europäischen Webservices-Gruppe, zusammen, blieb dabei aber operativ unabhängig.",
-    "summary_abuse": "iubenda ist ein Tool für Compliance und Cookie Consent ohne auffälliges Missbrauchssignal. Als Hilfsmittel für rechtliche Compliance wird es typischerweise von legitimen Unternehmen eingesetzt, die regulatorische Vorgaben erfüllen wollen, und es bietet keine Consumer-facing Oberfläche, die Betrüger gezielt ausnutzen würden."
+    "summary_abuse": "iubenda ist ein Tool für Compliance und Cookie Consent ohne auffälliges Missbrauchssignal. Als Hilfsmittel für rechtliche Compliance wird es typischerweise von legitimen Unternehmen eingesetzt, die regulatorische Vorgaben erfüllen wollen, und es bietet keine verbraucherorientierte Oberfläche, die Betrüger gezielt ausnutzen würden."
   },
   "iugu": {
     "description": "iugu ist eine Finanzmanagementplattform, mit der Unternehmen Zahlungen, Billing und Rechnungsstellung über ein einheitliches System abwickeln können.",
@@ -973,12 +973,12 @@
   "Ivory Search": {
     "description": "Ivory Search ist ein WordPress-Suchplugin, das die WordPress-Suche mit erweiterten Optionen zum Ausweiten der Suche oder Ausschliessen bestimmter Inhalte verbessert.",
     "history": "Ivory Search ist ein WordPress-Plugin, das die Standardsuche von WordPress durch erweiterte Filter- und Ausschlussoptionen ersetzt. Es wird über das WordPress.org-Plugin-Repository verteilt.",
-    "summary_abuse": "Ivory Search ist ein WordPress-Plugin zur Verbesserung der Suche ohne auffälliges Missbrauchssignal. Es erweitert die Site-Suche und hat keine Consumer-facing Oberfläche, die Betrüger ausnutzen würden."
+    "summary_abuse": "Ivory Search ist ein WordPress-Plugin zur Verbesserung der Suche ohne auffälliges Missbrauchssignal. Es erweitert die Site-Suche und hat keine verbraucherorientierte Oberfläche, die Betrüger ausnutzen würden."
   },
   "iWeb": {
     "description": "iWeb ist ein Werkzeug zum Erstellen von Websites.",
     "history": "iWeb war eine von Apple entwickelte Anwendung zur Website-Erstellung, die 2006 erstmals als Teil der iLife-Suite veröffentlicht wurde. Apple stellte iWeb 2011 ein und schaltete 2012 den Hosting-Dienst MobileMe ab, womit das Produkt faktisch endete.",
-    "summary_abuse": "iWeb war eine eingestellte Apple-Desktopanwendung zum Erstellen von Websites; sie hat keine Consumer-facing Oberfläche und kein dokumentiertes Missbrauchssignal."
+    "summary_abuse": "iWeb war eine eingestellte Apple-Desktopanwendung zum Erstellen von Websites; sie hat keine verbraucherorientierte Oberfläche und kein dokumentiertes Missbrauchssignal."
   },
   "iWiki": {
     "description": "iWiki ist ein niederländischer Anbieter von Content-Management-Systemen, früher bekannt als Kirra.",

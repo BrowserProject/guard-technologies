@@ -1,13 +1,13 @@
 {
   "Q1Media": {
-    "description": "Q1Media ist eine Plattform für Erstellung, Nachfrage und Angebot digitaler Werbung.",
+    "description": "Q1Media ist eine Plattform für die Erstellung, Nachfrage und Auslieferung digitaler Werbung.",
     "history": "Q1Media ist eine digitale Werbeplattform für Angebot und Nachfrage. Ein Gründungsjahr oder wichtige Eigentümerwechsel sind öffentlich nicht dokumentiert.",
     "summary_abuse": "Q1Media ist eine digitale Werbeplattform mit mehreren Drittanbieter-Ad-Trackern. Ad-Tech-Plattformen bringen grundsätzlich ein Malvertising-Risiko mit sich, konkrete Betrugsfälle mit Q1Media sind jedoch nicht dokumentiert."
   },
   "Q4": {
     "description": "Q4 ist eine SaaS-Plattform, die Kommunikations- und Intelligence-Lösungen für Investor-Relations-Fachleute bereitstellt.",
     "history": "Q4 ist eine US-amerikanische Investor-Relations-SaaS-Plattform für IR-Teams börsenkotierter Unternehmen und an der TSX Venture Exchange gelistet. Eine nennenswerte Übernahmehistorie ist nicht dokumentiert.",
-    "summary_abuse": "Q4 weist kein nennenswertes Missbrauchssignal auf. Es handelt sich um eine B2B-Plattform für Investor Relations ohne verbrauchernahe Funktionen, die mit Betrug in Verbindung stehen."
+    "summary_abuse": "Q4 weist kein nennenswertes Missbrauchssignal auf. Es handelt sich um eine B2B-Plattform für Investor Relations ohne verbrauchernahe Funktionen, die typischerweise mit Betrug in Verbindung stehen."
   },
   "Q4 Cookie Monster": {
     "description": "Q4 Cookie Monster ist ein von Q4 entwickeltes Widget für Cookie-Compliance.",
@@ -20,12 +20,12 @@
     "summary_abuse": "Qbrick ist eine B2B-Videoplattform ohne nennenswertes Missbrauchssignal; sie wird hauptsächlich von seriösen Unternehmen und öffentlichen Organisationen für Verwaltung und Streaming von Videoinhalten genutzt, öffentliche Berichte über eine Ausnutzung für schädliche Zwecke gibt es nicht."
   },
   "QForm": {
-    "description": "QForm ist ein Werkzeug zum Entwerfen und Verwalten anpassbarer Formulare für Datenerfassung und Verarbeitung.",
+    "description": "QForm ist ein Werkzeug zum Entwerfen und Verwalten anpassbarer Formulare für die Datenerfassung und Verarbeitung.",
     "history": "QForm ist ein Formularbaukasten für die Datenerfassung. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
     "summary_abuse": "QForm weist kein nennenswertes Missbrauchssignal auf. Es ist ein Formularbaukasten ohne dokumentierte Verbindung zu Phishing oder Betrug."
   },
   "Qgiv": {
-    "description": "Qgiv ist eine Online-Fundraising-Plattform, die Nonprofit-, Glaubens-, Gesundheits- und Bildungsorganisationen beim Sammeln von Spenden unterstützt.",
+    "description": "Qgiv ist eine Online-Fundraising-Plattform, die Nonprofit-Organisationen, religiöse Gemeinschaften sowie Gesundheits- und Bildungseinrichtungen beim Sammeln von Spenden unterstützt.",
     "history": "Qgiv ist eine US-amerikanische Online-Fundraising-Plattform für Nonprofits, Glaubensgemeinschaften sowie Gesundheits- und Bildungseinrichtungen; sie wurde um 2007 gegründet und ist weiterhin unabhängig.",
     "summary_abuse": "Qgiv weist kein nennenswertes Missbrauchssignal auf. Es ist eine Fundraising-Plattform für etablierte Nonprofit-Organisationen mit Zahlungsabwicklung und ohne dokumentierte Nutzung in Betrugskampagnen."
   },
@@ -40,9 +40,9 @@
     "summary_abuse": "Qikify-Apps umfassen Popup- und Social-Proof-Werkzeuge, die für irreführende Verknappungssignale oder falsche Besucherzahlen konfiguriert werden können, ein moderates Dark-Pattern-Risiko, das bei Conversion-Optimierungswerkzeugen üblich ist. Konkrete Betrugsfälle sind nicht dokumentiert."
   },
   "Qiscus": {
-    "description": "Qiscus ist eine Plattform mit Chat SDK und Messaging API, mit der Echtzeit-Chatfunktionen in Anwendungen integriert werden können.",
-    "history": "Qiscus ist eine indonesische Plattform für Echtzeit-Chat-SDKs und Messaging APIs, die um 2013 gegründet wurde; sie richtet sich an Entwickler, die einbettbare Chatfunktionen benötigen, und wurde mit Risikokapital unterstützt.",
-    "summary_abuse": "Qiscus weist kein nennenswertes Missbrauchssignal auf. Es ist eine B2B-Messaging-API, mit der Entwickler Chatfunktionen einbetten, ohne dokumentierte Nutzung in Betrugskampagnen."
+    "description": "Qiscus ist eine Plattform mit Chat SDK und Messaging API, mit der sich Echtzeit-Chatfunktionen in Anwendungen integrieren lassen.",
+    "history": "Qiscus ist eine indonesische Plattform für Echtzeit-Chat-SDKs und Messaging APIs, die um 2013 gegründet wurde. Die Plattform richtet sich an Entwickler, die einbettbare Chatfunktionen benötigen, und wurde mit Risikokapital unterstützt.",
+    "summary_abuse": "Qiscus weist kein nennenswertes Missbrauchssignal auf. Es ist eine B2B-Messaging-API, mit der Entwickler Chatfunktionen einbetten; eine Nutzung in Betrugskampagnen ist nicht dokumentiert."
   },
   "Qiyeku": {
     "description": "Qiyeku ist eine chinesische Unternehmensdatenbank mit Geschäftsinformationen, Firmenverzeichnissen und Branchenressourcen für Marktforschung und Handelskontakte.",
@@ -50,8 +50,8 @@
     "summary_abuse": "Qiyeku weist ein begrenztes Missbrauchssignal auf. Chinesische B2B-Verzeichnisse können für Scraping und Kontaktsammlung missbraucht werden, konkrete Betrugsfälle sind jedoch nicht dokumentiert."
   },
   "Qomon": {
-    "description": "Qomon ist eine SaaS-Software sowie Plattform und Mobile App für Bürgerbeteiligung, die NGOs, Bewegungen, Kampagnen, Advocacy-Gruppen und bürgergetriebene Organisationen unterstützt.",
-    "history": "Qomon, früher Fightfor, wurde um 2017 in Frankreich als Plattform für Bürgerbeteiligung und Kampagnenmanagement für NGOs, politische Kampagnen und Advocacy-Gruppen gegründet. Die Umbenennung zu Qomon sollte die breitere Mission über politische Kampagnen hinaus abbilden.",
+    "description": "Qomon ist eine SaaS-Plattform und Mobile App für Bürgerbeteiligung, die NGOs, Bewegungen, Kampagnen, Advocacy-Gruppen und zivilgesellschaftliche Organisationen unterstützt.",
+    "history": "Qomon, früher Fightfor, wurde um 2017 in Frankreich als Plattform für Bürgerbeteiligung und Kampagnenmanagement für NGOs, politische Kampagnen und Advocacy-Gruppen gegründet. Die Umbenennung zu Qomon sollte zeigen, dass die Mission über politische Kampagnen hinausgeht.",
     "summary_abuse": "Qomon ist eine Nischenplattform für NGO- und Kampagnenmanagement ohne nennenswertes Missbrauchssignal. Der Fokus auf Bürgerbeteiligung, Advocacy und Graswurzelorganisation zieht nicht die Phishing- oder Betrugsmuster an, die bei Consumer-SaaS häufiger sind."
   },
   "Qonnex": {
@@ -72,12 +72,12 @@
   "Qpien": {
     "description": "Qpien ist eine SaaS-Plattform für Multichannel-Kundenkommunikation mit KI-Antwortautomatisierung, Smart Inbox, Callcenter-Integration und Workflow-Orchestrierung.",
     "history": "Qpien wurde 2020 in Istanbul, Türkei, als SaaS für Multichannel-Kundenkommunikation mit KI-gestützter Inbox-Automatisierung gegründet.",
-    "summary_abuse": "Qpien ist eine kleine B2B-Plattform für Kundenkommunikation ohne dokumentiertes Missbrauchssignal. Live-Chat- und Messaging-Funktionen richten sich an Geschäftsbetriebe statt direkt an Endverbraucher, wodurch sie als Betrugs- oder Spam-Vektor unwahrscheinlich ist."
+    "summary_abuse": "Qpien ist eine kleine B2B-Plattform für Kundenkommunikation ohne dokumentiertes Missbrauchssignal. Die Live-Chat- und Messaging-Funktionen richten sich an Unternehmen statt direkt an Endverbraucher, wodurch sie als Betrugs- oder Spam-Vektor unwahrscheinlich ist."
   },
   "Qshop": {
     "description": "Qshop ist eine koreanische E-Commerce-Plattform zum Erstellen von Online-Shops.",
     "history": "Qshop ist eine koreanische E-Commerce-Plattform unter qshop.ai, die kleine Unternehmen anspricht, die rasch Online-Shops erstellen möchten. Konkrete Gründungsdetails sind öffentlich nicht prominent dokumentiert.",
-    "summary_abuse": "Qshop ist ein kleiner koreanischer E-Commerce-Baukasten, der vor allem kleine Unternehmen bedient. Wie die meisten E-Commerce-Baukästen könnte er theoretisch minderwertige Shops hosten, hat aber keine dokumentierte Missbrauchshistorie und bleibt durch seinen Nischenfokus begrenzt exponiert."
+    "summary_abuse": "Qshop ist ein kleiner koreanischer E-Commerce-Baukasten, der vor allem kleine Unternehmen bedient. Wie die meisten E-Commerce-Baukästen könnte er theoretisch minderwertige Shops hosten, hat aber keine dokumentierte Missbrauchshistorie; durch seinen Nischenfokus bleibt die Exponierung begrenzt."
   },
   "Qstomizer": {
     "description": "Qstomizer ist eine App für Shopify und WooCommerce, mit der du deinem Shop einen visuellen Designer für anpassbare Produkte hinzufügen kannst.",
@@ -110,7 +110,7 @@
     "summary_abuse": "Qualitelis ist eine B2B-Plattform für Hotelbewertungen und Gästefeedback ohne verbrauchernahe gehostete Inhaltsfläche und ohne dokumentiertes Missbrauchssignal."
   },
   "Quality Unit Help Desk": {
-    "description": "Quality Unit Help Desk ist eine Kundensupport- und Helpdesk-Software zum Verwalten und Straffen von Serviceprozessen.",
+    "description": "Quality Unit Help Desk ist eine Kundensupport- und Helpdesk-Software zum Verwalten und Optimieren von Serviceprozessen.",
     "history": "Quality Unit ist ein slowakisches Softwareunternehmen, das 2004 gegründet wurde und LiveAgent entwickelt, eine Plattform für Helpdesk und Live-Chat. Das Unternehmen ist eigenfinanziert und unabhängig. Der Hauptsitz liegt in Bratislava, Slowakei.",
     "summary_abuse": "Quality Unit Help Desk (LiveAgent) weist kein nennenswertes Missbrauchssignal auf. Es ist eine B2B-Kundensupportplattform, die Unternehmen für Helpdesk- und Live-Chat-Funktionen einsetzen."
   },
@@ -135,7 +135,7 @@
     "summary_abuse": "Quant ist ein japanisches CMS ohne nennenswertes Missbrauchssignal. Es ist ein Content-Management-Werkzeug ohne dokumentierte Ausnutzungshistorie."
   },
   "Quanta": {
-    "description": "Quanta ist eine Lösung für Web-Performance-Management. Quanta bietet eine Analyselösung, die speziell darauf ausgelegt ist, dass geschäftliche und technische E-Commerce-Teams zusammenarbeiten und Web-Performance laufend direkt auf Online-Umsatz ausrichten können.",
+    "description": "Quanta ist eine Lösung für Web-Performance-Management. Quanta bietet nach eigener Darstellung die einzige Analyselösung, die speziell darauf ausgelegt ist, geschäftliche und technische E-Commerce-Teams zusammenzubringen und Web-Performance laufend direkt auf Online-Umsatz auszurichten.",
     "history": "Quanta (quanta.io) startete um 2012 als Lösung für Web-Performance-Management mit Sitz in Paris, Frankreich, und konzentriert sich darauf, E-Commerce-Teams dabei zu helfen, Web-Performance-Metriken mit Umsatzwirkung zu verknüpfen.",
     "summary_abuse": "Quanta ist ein B2B-Werkzeug für Web-Performance-Analyse ohne verbrauchernahe Oberfläche und ohne dokumentiertes Missbrauchssignal."
   },
@@ -187,7 +187,7 @@
   "Queue-it": {
     "description": "Queue-it ist eine virtuelle Warteraum-Plattform, die deine Website und Mobile App bei Lastspitzen von Endnutzern vor Verlangsamung oder Ausfällen schützt.",
     "history": "Queue-it wurde 2010 in Kopenhagen, Dänemark, von Niels Henrik Sodemann, Camilla Ley Valentin und Martin Pronk gegründet. Die Idee war von Warteschlangensystemen dänischer Bäckereien inspiriert. Das Unternehmen schützt Websites bei stark nachgefragten Ereignissen wie Ticketverkäufen und Produktdrops vor Traffic-Spitzen.",
-    "summary_abuse": "Queue-it ist ein Infrastrukturdienst für virtuelle Warteräume, den Unternehmen und Behörden zur Steuerung von Website-Traffic-Spitzen nutzen. Als Backend-Schicht für Traffic-Management ohne Konsuminhaltsfläche weist er kein dokumentiertes Missbrauchssignal auf."
+    "summary_abuse": "Queue-it ist ein Infrastrukturdienst für virtuelle Warteräume, den Unternehmen und Behörden zur Steuerung von Website-Traffic-Spitzen nutzen. Als Backend-Schicht für Traffic-Management ohne verbrauchernahe Inhaltsfläche weist er kein dokumentiertes Missbrauchssignal auf."
   },
   "Quform": {
     "description": "Quform ist ein WordPress-Plugin zum Erstellen und Verwalten von Formularen.",
@@ -285,7 +285,7 @@
   "Qumra": {
     "description": "Qumra ist eine Plattform, mit der Nutzer E-Commerce-Websites ohne Programmierkenntnisse erstellen können.",
     "history": "Qumra ist ein No-Code-Baukasten für E-Commerce-Websites mit Freemium-Modell. Es ist eine kleine cloudbasierte Plattform mit sehr begrenzter öffentlicher Historie.",
-    "summary_abuse": "Qumra ist ein No-Code-E-Commerce-Baukasten mit geringem Missbrauchspotenzial durch Shop-Erstellung in einer kostenlosen Stufe. Kostenlose E-Commerce-Plattformen können für Fake-Shops ausgenutzt werden, für Qumra ist jedoch keine spezifisch dokumentierte Missbrauchshistorie bekannt."
+    "summary_abuse": "Qumra ist ein No-Code-E-Commerce-Baukasten mit geringem Missbrauchspotenzial durch Shop-Erstellung in einer kostenlosen Stufe. Kostenlose E-Commerce-Plattformen können für Fake-Shops ausgenutzt werden, für Qumra ist jedoch keine spezifische Missbrauchshistorie dokumentiert."
   },
   "Quoli": {
     "description": "Quoli ist eine Shopify-App, mit der Händler Social Proof sammeln und präsentieren können, darunter Produktbewertungen, Fotos/Videos, Attribute, Nuggets, Fragen und nutzergenerierte Inhalte (UGC).",

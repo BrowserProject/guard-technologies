@@ -75,9 +75,9 @@
     "summary_abuse": "NationBuilder ist eine CRM- und Website-Plattform, die vor allem von politischen Kampagnen und Nonprofits genutzt wird. Die Plattform speichert Wähler- und Unterstützerdaten, was bei politischer Nutzung Datenschutzbedenken ausgelöst hat. Bedeutender Missbrauch auf Plattformebene, etwa Phishing oder Betrug, ist nicht dokumentiert."
   },
   "NativeForms": {
-    "description": "NativeForms ist ein Werkzeug zum Erstellen von Formularen, Umfragen und Abstimmungen für verschiedene Plattformen.",
+    "description": "NativeForms ist ein Werkzeug zum Erstellen von Formularen, Umfragen und Abstimmungen über verschiedene Plattformen hinweg.",
     "history": "NativeForms ist eine SaaS-Plattform zum Erstellen von Formularen, die um 2019 gegründet wurde und Formulare, Umfragen sowie Abstimmungen für Web- und Mobile-Plattformen anbietet. Es handelt sich um ein kleines unabhängiges Unternehmen.",
-    "summary_abuse": "NativeForms ist eine Formularplattform. Wie alle Form Builder kann sie für Phishing-Formulare oder Datensammlung missbraucht werden, doch es sind keine spezifischen Missbrauchsfälle auf Plattformebene dokumentiert und das Produkt ist eine kleine Nische."
+    "summary_abuse": "NativeForms ist eine Formularplattform. Wie alle Form Builder kann sie für Phishing-Formulare oder Datensammlung missbraucht werden, doch es sind keine spezifischen Missbrauchsfälle auf Plattformebene dokumentiert und das Produkt bleibt eine kleine Nische."
   },
   "Nativo": {
     "description": "Nativo ist ein Anbieter von Werbetechnologie.",
@@ -85,7 +85,7 @@
     "summary_abuse": "Nativo ist eine Ad-Tech-Plattform für Native Advertising. Wie jede Werbetechnologie kann sie für Malvertising ausgenutzt werden, wenn die Prüfung von Werbemitteln unzureichend ist, wobei Nativo auf Partnerschaften mit Premium-Publishern fokussiert ist. Die Plattform bringt durch umfangreiches Tracking typische Datenschutzexposition im Ad-Tech-Bereich mit sich."
   },
   "Natural Intelligence": {
-    "description": "Natural Intelligence ist eine Plattform für Produkterkennung und Produktfindung.",
+    "description": "Natural Intelligence ist eine Plattform zur Produktentdeckung und Produktsuche.",
     "history": "Natural Intelligence ist ein israelisches Unternehmen, das um 2007 gegründet wurde und eine Produktentdeckungs- und Vergleichsplattform betreibt, die Konsumenten beim Finden von Produkten und Dienstleistungen hilft. Das Unternehmen betreibt mehrere Vergleichs- und Bewertungswebsites.",
     "summary_abuse": "Natural Intelligence betreibt Websites für Produktvergleich und Produkterkennung. Als Vergleichs- und Content-Curation-Plattform sammelt sie erhebliche Nutzungsverhaltensdaten für Targeting. Grössere dokumentierte Betrugs- oder Phishing-Missbrauchsfälle sind nicht bekannt."
   },
@@ -351,7 +351,7 @@
   },
   "Next.js App Router": {
     "description": "Der Next.js App Router ist ein neues Paradigma für den Aufbau von Anwendungen mit den neuesten React-Funktionen.",
-    "history": "Der Next.js App Router wurde in Next.js 13 (2022) von Vercel als neues Paradigma für den Aufbau von React-Anwendungen mit dem aktuellen Feature React Server Components eingeführt. Er existiert neben dem älteren Pages Router und gilt als empfohlene Richtung für neue Next.js-Projekte.",
+    "history": "Der Next.js App Router wurde in Next.js 13 (2022) von Vercel als neues Paradigma für den Aufbau von React-Anwendungen mit aktuellen React-Features wie React Server Components eingeführt. Er existiert neben dem älteren Pages Router und gilt als empfohlene Richtung für neue Next.js-Projekte.",
     "summary_abuse": "Der Next.js App Router hat kein auffälliges Missbrauchssignal. Er ist ein serverseitiges Rendering-Paradigma innerhalb eines Entwicklerframeworks ohne verbraucherseitige Oberfläche."
   },
   "Next.js Page Router SSG": {
@@ -689,7 +689,7 @@
     "summary_abuse": "NovaDB ist eine Headless-CMS- und PIM-Plattform ohne dokumentiertes Missbrauchssignal."
   },
   "Novaresa": {
-    "description": "Novaresa ist eine cloudbasierte Plattform zur Verwaltung, zum Betrieb und zur Vermarktung von Hosting-Diensten mit zentralen Werkzeugen für Administration, Servicebereitstellung und Kundenbindung.",
+    "description": "Novaresa ist eine cloudbasierte Plattform zur Verwaltung, zum Betrieb und zur Vermarktung von Gastgewerbediensten mit zentralen Werkzeugen für Administration, Servicebereitstellung und Kundenbindung.",
     "history": "Novaresa ist eine cloudbasierte Plattform zur Verwaltung und Vermarktung von Gastgewerbebetrieben. Bedeutende Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
     "summary_abuse": "Novaresa ist ein SaaS für das Gastgewerbemanagement ohne dokumentiertes Missbrauchssignal."
   },
@@ -714,8 +714,8 @@
     "summary_abuse": "NowFloats zeigt kein auffälliges Missbrauchssignal. Es ist eine Plattform für Unternehmenswebsites und lokale SEO für KMU in Indien, ohne dokumentierte Nutzung in Phishing- oder Betrugsinfrastruktur."
   },
   "NProgress": {
-    "description": "NProgress ist eine JavaScript-Bibliothek, die oben auf Websites oder Webanwendungen eine sehr kleine Fortschrittsleiste anzeigt. Trickle-Animationen signalisieren Ladeaktivität und verbessern die Nutzererfahrung, indem sichtbar wird, dass Inhalte geladen werden.",
-    "history": "NProgress ist eine JavaScript-Bibliothek für eine nanokleine Fortschrittsleiste, erstellt von Rico Sta. Cruz und erstmals um 2013 veröffentlicht; sie wurde in Webanwendungen breit eingesetzt, um Ladezustände anzuzeigen.",
+    "description": "NProgress ist eine JavaScript-Bibliothek, die oben auf Websites oder Webanwendungen eine winzige Fortschrittsleiste anzeigt. Trickle-Animationen signalisieren Ladeaktivität und verbessern die Nutzererfahrung, indem sichtbar wird, dass Inhalte geladen werden.",
+    "history": "NProgress ist eine JavaScript-Bibliothek für eine winzige Fortschrittsleiste, erstellt von Rico Sta. Cruz und erstmals um 2013 veröffentlicht; sie wurde in Webanwendungen breit eingesetzt, um Ladezustände anzuzeigen.",
     "summary_abuse": "NProgress ist eine clientseitige JavaScript-Bibliothek ohne Endnutzeroberfläche und ohne dokumentiertes Missbrauchssignal."
   },
   "Nrdevo": {
@@ -758,8 +758,8 @@
     "summary_abuse": "Für Nurture gibt es kein auffälliges Missbrauchssignal. Es ist ein Marketing-Automation-SaaS für Geschäftskampagnen ohne verbrauchernahe Funktionen für anonymen Zugriff."
   },
   "Nurture Boss": {
-    "description": "Nurture Boss ist eine AI-Plattform für die Interaktion mit Interessenten und Bewohnern, die den Vermietungsprozess vom Lead bis zur Verlängerung automatisiert.",
-    "history": "Nurture Boss ist eine AI-gestützte Plattform zur Automatisierung von Vermietungsprozessen im Mehrfamilien-Immobilienbereich und hilft Wohnanlagen, Leads und Bewohner anzusprechen. Ein nennenswertes Gründungsjahr oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "description": "Nurture Boss ist eine KI-Plattform für die Interaktion mit Interessenten und Bewohnern, die den Vermietungsprozess vom Lead bis zur Verlängerung automatisiert.",
+    "history": "Nurture Boss ist eine KI-gestützte Plattform zur Automatisierung von Vermietungsprozessen im Mehrfamilien-Immobilienbereich und hilft Wohnanlagen, Leads und Bewohner anzusprechen. Ein nennenswertes Gründungsjahr oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
     "summary_abuse": "Für Nurture Boss gibt es kein auffälliges Missbrauchssignal. Es ist ein SaaS für die Automatisierung von Immobilienvermietung ohne verbrauchernahe Content-Hosting-Funktionen."
   },
   "Nuvemshop": {

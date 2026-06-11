@@ -7,7 +7,7 @@
   "K-Sup": {
     "description": "K-Sup ist eine Open-Source-CMS- und Portallösung von Kosmos Education für Hochschulen und Forschungseinrichtungen.",
     "history": "K-Sup wurde von Kosmos entwickelt, einem 1998 gegründeten französischen Unternehmen mit Sitz in Nantes, Frankreich. Die Open-Source-Lösung ist als CMS und digitaler Arbeitsplatz (ENT) speziell für Hochschulen und Forschungseinrichtungen ausgelegt. Die Java-basierte Plattform unterstützt von Haus aus Multisite-, Mehrsprachen- und Multichannel-Betrieb, sodass Universitäten komplexe Webinfrastrukturen zentral verwalten können. Kosmos hat K-Sup unter anderem bei der Université Libre de Bruxelles eingeführt.",
-    "summary_abuse": "K-Sup ist ein spezialisiertes Open-Source-CMS für Universitäten und Forschungseinrichtungen und wird von IT-Abteilungen statt von Endnutzern betrieben. Es gibt keine auffälligen Missbrauchssignale. Als selbst gehostete Backend-Plattform bietet es keine öffentliche Content-Hosting-Fläche, die Phisher oder Scammer anziehen würde."
+    "summary_abuse": "K-Sup ist ein spezialisiertes Open-Source-CMS für Universitäten und Forschungseinrichtungen und wird von IT-Abteilungen statt von Endnutzern betrieben. Es gibt keine auffälligen Missbrauchssignale. Als selbst gehostete Backend-Plattform bietet es keine öffentliche Content-Hosting-Fläche, die Phisher oder Betrüger anziehen würde."
   },
   "K2": {
     "description": "K2 ist eine von JoomlaWorks entwickelte Content-Management-Erweiterung für Joomla, die Joomla um Funktionen wie reichhaltige Inhaltsformulare, verschachtelte Kategorien, Tags, Kommentare und mehr ergänzt.",
@@ -54,8 +54,8 @@
     "summary_abuse": "Keine Missbrauchshistorie. Kalio ist ein Mid-Market-E-Commerce-SaaS mit PCI-DSS-Konformität. Das kleine Unternehmen hat keine gemeldeten Vorfälle."
   },
   "Kalix": {
-    "description": "Kalix ist eine HIPAA-konforme Plattform für elektronische Patientenakten, Praxisverwaltung und Telemedizin für Ernährungsberater, Nutritionists und andere Gesundheitsfachpersonen.",
-    "history": "Kalix wurde 2012 als HIPAA-konforme Cloud-Plattform für EMR und Praxisverwaltung für Ernährungsberater und verwandte Gesundheitsberufe gegründet; sie bedient über 2'500 Fachpersonen und mehr als 800'000 Patienten. Der Einstiegspreis liegt bei 27 US-Dollar pro Monat. Die Plattform ist HIPAA-konform und erfüllt die Australian Privacy Principles.",
+    "description": "Kalix ist eine HIPAA-konforme Plattform für elektronische Patientenakten, Praxisverwaltung und Telemedizin für Ernährungsberater, Ernährungsspezialisten und andere Gesundheitsfachpersonen.",
+    "history": "Kalix wurde 2012 als HIPAA-konforme Cloud-Plattform für EMR und Praxisverwaltung für Ernährungsberater und verwandte Gesundheitsberufe gegründet. Die Plattform bedient über 2'500 Fachpersonen und mehr als 800'000 Patienten. Der Einstiegspreis liegt bei 27 US-Dollar pro Monat. Die Plattform ist HIPAA-konform und erfüllt die Australian Privacy Principles.",
     "summary_abuse": "Keine Missbrauchshistorie. Kalix dient der Praxisverwaltung kleiner Gesundheitsanbieter, ist HIPAA-konform und hat transparente Preise."
   },
   "Kaltura": {
@@ -100,7 +100,7 @@
   "Kapa.ai": {
     "description": "Kapa.ai wandelt Dokumente in einen LLM-gestützten Chatbot für Informationssuche und Fragebeantwortung um.",
     "history": "Kapa.ai wurde von Emil Sorensen und Finn Bauer mitgegründet und von Y Combinator unterstützt. Im Oktober 2024 nahm das Unternehmen 3,2 Millionen US-Dollar Seed-Finanzierung auf, angeführt von Initialized Capital mit Beteiligung von Y Combinator. Zu den Kunden zählen OpenAI, Docker, Monday.com und Next.js.",
-    "summary_abuse": "Kapa.ai ist eine B2B-AI-Chatbot-Plattform für technische Dokumentation; sie ist nach SOC 2 Type II zertifiziert und bietet Funktionen zur PII-Erkennung. Es sind keine Missbrauchsvorfälle dokumentiert. Als AI-Tool für technische Inhalte liegt das Hauptrisiko in möglichen Fehlinformationen der AI, was das Unternehmen mit Quellenangaben und Grounding adressiert."
+    "summary_abuse": "Kapa.ai ist eine B2B-KI-Chatbot-Plattform für technische Dokumentation; sie ist nach SOC 2 Type II zertifiziert und bietet Funktionen zur PII-Erkennung. Es sind keine Missbrauchsvorfälle dokumentiert. Als KI-Tool für technische Inhalte liegt das Hauptrisiko in möglichen Fehlinformationen der KI, was das Unternehmen mit Quellenangaben und Grounding adressiert."
   },
   "Kapix Studio": {
     "description": "Kapix Studio ist eine No-Code-Plattform, mit der jeder Web-Apps ohne Programmierung erstellen kann.",
@@ -134,7 +134,7 @@
   },
   "Kartmax": {
     "description": "Kartmax ist eine D2C-E-Commerce-Lösung für Direct-to-Consumer-Geschäftsmodelle.",
-    "history": "KartmaX ist eine headless und serverless E-Commerce-Plattform von GreenHonchos aus Noida, Indien, gegründet 2018 von Navin Joshua; sie bedient über 50 indische D2C-Marken, darunter W For Women, Aurelia und Metro Shoes. Die Plattform nutzt AI für Nachfrageprognosen und eine serviceorientierte Architektur für Skalierbarkeit.",
+    "history": "KartmaX ist eine Headless- und Serverless-E-Commerce-Plattform von GreenHonchos aus Noida, Indien, gegründet 2018 von Navin Joshua. Die Plattform bedient über 50 indische D2C-Marken, darunter W For Women, Aurelia und Metro Shoes. Die Plattform nutzt KI für Nachfrageprognosen und eine serviceorientierte Architektur für Skalierbarkeit.",
     "summary_abuse": "Keine Missbrauchshistorie. Kartmax ist eine indische D2C-E-Commerce-Plattform von GreenHonchos für mittelgrosse indische Mode- und Retail-Marken und ist PCI-DSS-konform."
   },
   "Kartra": {
@@ -163,8 +163,8 @@
     "summary_abuse": "KaTeX ist eine JavaScript-Bibliothek zum Rendern mathematischer Notation; sie hat keine Endnutzerfläche und keine dokumentierten Missbrauchsmuster. Es handelt sich um eine reine Rendering-Bibliothek ohne Netzwerkaufrufe oder Datensammlung."
   },
   "Kauz": {
-    "description": "Kauz ist eine Self-Service-Plattform, mit der Unternehmen AI-Assistenten für unterschiedliche betriebliche Anforderungen verwalten und trainieren können.",
-    "history": "Kauz ist eine Schweizer Plattform für Conversational AI und Chatbots, gegründet um 2016; sie spezialisiert sich auf Natural Language Processing für Enterprise-Kundendienstanwendungen, besonders im deutschsprachigen Markt. Das Unternehmen fokussiert auf AI-gestützte Dialogsysteme für Unternehmen in der Schweiz und Deutschland.",
+    "description": "Kauz ist eine Self-Service-Plattform, mit der Unternehmen KI-Assistenten für unterschiedliche betriebliche Anforderungen verwalten und trainieren können.",
+    "history": "Kauz ist eine Schweizer Plattform für Conversational AI und Chatbots, gegründet um 2016. Kauz spezialisiert sich auf Natural Language Processing für Enterprise-Kundendienstanwendungen, besonders im deutschsprachigen Markt. Das Unternehmen fokussiert auf KI-gestützte Dialogsysteme für Unternehmen in der Schweiz und Deutschland.",
     "summary_abuse": "Kauz ist eine B2B-Enterprise-Plattform für Chatbots und Conversational AI ohne auffälliges Missbrauchssignal; sie bedient Unternehmen in der DACH-Region mit Kundendienstautomatisierung. Dokumentierte Missbrauchsmuster speziell zu dieser Plattform sind nicht bekannt."
   },
   "KeaBuilder": {
@@ -213,7 +213,7 @@
     "summary_abuse": "Kendo UI ist eine UI-Komponentenbibliothek ohne auffälliges Missbrauchssignal. Es ist ein Frontend-Framework zum Erstellen von Webanwendungen und hat keine verbraucherorientierte Oberfläche, die Betrüger gezielt nutzen würden."
   },
   "Kenect": {
-    "description": "Kenect bietet Reputationsmanagement und Business-Texting für Kundenbindung und Feedback-Erfassung.",
+    "description": "Kenect bietet Reputationsmanagement und geschäftliche SMS-Kommunikation für Kundenbindung und Feedback-Erfassung.",
     "history": "Kenect ist eine US-Plattform für Kundenkommunikation und SMS, gegründet um 2015; sie richtet sich vor allem an Autohändler, Home-Services-Anbieter und Gesundheitsunternehmen und ermöglicht Kommunikation mit Kunden per Textnachricht. Das Unternehmen hat Risikokapital aufgenommen.",
     "summary_abuse": "Kenect ist eine SaaS-Plattform für Textnachrichten und Kundenkommunikation. Wie bei allen Bulk-SMS-Plattformen besteht theoretisch ein Risiko für Missbrauch durch Spam oder Phishing-SMS, was jedoch für SMS-Marketingplattformen allgemein gilt. Kenect bedient hauptsächlich legitime Unternehmen in regulierten Branchen. Auffällige Missbrauchsfälle speziell zu Kenect sind nicht dokumentiert."
   },
@@ -289,7 +289,7 @@
   "Kibana": {
     "description": "Kibana ist ein Open-Source-Dashboard zur Datenvisualisierung für Elasticsearch. Es bietet Visualisierungen für Inhalte, die in einem Elasticsearch-Cluster indexiert sind. Nutzer können Balken-, Linien- und Streudiagramme, Kreisdiagramme und Karten auf grossen Datenmengen erstellen.",
     "history": "Kibana wurde von Rashid Khan entwickelt und 2013 als Open-Source-Visualisierungstool für Elasticsearch veröffentlicht. Elastic, früher Elasticsearch BV, übernahm es und machte es zum offiziellen Frontend für den Elastic Stack (ELK Stack). 2021 lizenzierte Elastic Kibana von Apache 2.0 auf Elastic License 2.0 und SSPL um, was die Nutzung durch Cloud-Anbieter kontrovers einschränkte und AWS dazu veranlasste, Kibana als OpenSearch Dashboards zu forken.",
-    "summary_abuse": "Kein Missbrauchssignal. Kibana ist Infrastruktur- und Analytics-Tooling für Unternehmen und Ops-Teams. Es hat keine Endnutzerfläche und keine kostenlosen Hosting-Funktionen, die Missbrauch anziehen würden. Die Relizenzierung 2021 war eine Geschäftsentscheidung, kein Sicherheits- oder Missbrauchsproblem."
+    "summary_abuse": "Kein Missbrauchssignal. Kibana ist Infrastruktur- und Analytics-Tooling für Unternehmen und Ops-Teams. Es hat keine Endnutzerfläche und keine kostenlosen Hosting-Funktionen, die Missbrauch anziehen würden. Die Lizenzänderung 2021 war eine Geschäftsentscheidung, kein Sicherheits- oder Missbrauchsproblem."
   },
   "Kibo Commerce": {
     "description": "Kibo Commerce ist eine Enterprise-E-Commerce-Plattform mit einer cloudbasierten End-to-End-Commerce-Lösung für Händler und Markenhersteller.",
@@ -307,7 +307,7 @@
     "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kickflip ist ein spezialisiertes B2B-Tool für Produktanpassung mit begrenzter Verbraucherexposition. Es ist kein Vektor für gängige Missbrauchsmuster."
   },
   "Kicksite": {
-    "description": "Kicksite ist eine Verwaltungssoftware für Fitnessstudios und Kampfsportschulen mit Anwesenheitserfassung, automatisierter Abrechnung, kostenlosem Texting, Lead-Capture-Formularen und mehr.",
+    "description": "Kicksite ist eine Verwaltungssoftware für Fitnessstudios und Kampfsportschulen mit Anwesenheitserfassung, automatisierter Abrechnung, kostenloser SMS-Funktion, Lead-Capture-Formularen und mehr.",
     "history": "Kicksite ist eine SaaS-Plattform für die Verwaltung von Kampfsportschulen, gegründet 2008; sie bietet Abrechnung, Anwesenheitserfassung und Schülerverwaltung speziell für Martial-Arts-Studios. Das Produkt blieb unabhängig und bedient eine klar abgegrenzte Nische.",
     "summary_abuse": "Keine wesentlichen Missbrauchsberichte. Kicksite ist ein vertikales Nischen-SaaS für Kampfsportschulen mit begrenzter Verbraucherfläche und einem Abomodell, das eine legitime Geschäftseinrichtung voraussetzt."
   },
@@ -334,7 +334,7 @@
   "Kindful": {
     "description": "Kindful ist eine cloudbasierte Software und Datenbank für Spenderverwaltung und Fundraising von Nonprofit-Organisationen.",
     "history": "Kindful ist eine cloudbasierte Plattform für Spenderverwaltung und Fundraising von Nonprofits; sie wurde im Januar 2021 von Bloomerang übernommen, in einem Zusammenschluss zweier wichtiger Spenderverwaltungsplattformen.",
-    "summary_abuse": "Kindful ist eine Plattform für Spenderverwaltung von Nonprofits ohne auffälliges Missbrauchssignal; sie verarbeitet Fundraising-Daten legitimer Nonprofits und hat keine verbraucherorientierte Oberfläche, die Scammer gezielt nutzen würden."
+    "summary_abuse": "Kindful ist eine Plattform für Spenderverwaltung von Nonprofits ohne auffälliges Missbrauchssignal; sie verarbeitet Fundraising-Daten legitimer Nonprofits und hat keine verbraucherorientierte Oberfläche, die Betrüger gezielt nutzen würden."
   },
   "KineticJS": {
     "history": "KineticJS war eine JavaScript-Bibliothek für HTML5 Canvas, erstellt von Eric Rowell um 2011, und wurde zum Bau interaktiver Canvas-Anwendungen genutzt. 2015 wurde sie offiziell deprecated, nachdem die Entwicklung eingestellt wurde. Das Projekt wurde als Konva.js geforkt, das als aktiver Nachfolger weitergeführt wird.",
@@ -377,7 +377,7 @@
   "Kit": {
     "description": "Kit ist eine Plattform mit Werkzeugen für E-Mail-, Mobile- und Social-Listenmanagement, mit denen Kontaktzielgruppen über digitale Kommunikationskanäle organisiert, verwaltet und angesprochen werden können.",
     "history": "Kit, früher ConvertKit, ist eine 2013 von Nathan Barry gegründete E-Mail-Marketing-Plattform für Creator; sie entwickelte sich zu einer der führenden E-Mail-Plattformen für Blogger, YouTuber und Creator. 2024 benannte sich ConvertKit in Kit um, um die breitere Vision rund um Creator Commerce abzubilden.",
-    "summary_abuse": "Kit (ConvertKit) ist eine E-Mail-Marketing-Plattform und birgt damit grundsätzlich Missbrauchsrisiken für Spam. Das Unternehmen hat Anti-Spam-Richtlinien und überwacht Missbrauch, doch E-Mail-Plattformen mit Free Tier werden gelegentlich für Cold-Outreach-Spam genutzt. Insgesamt geniesst Kit in der Creator-Community einen guten Ruf und reagiert aktiv auf Abuse-Meldungen."
+    "summary_abuse": "Kit (ConvertKit) ist eine E-Mail-Marketing-Plattform und birgt damit grundsätzlich Missbrauchsrisiken für Spam. Das Unternehmen hat Anti-Spam-Richtlinien und überwacht Missbrauch, doch E-Mail-Plattformen mit kostenlosem Tarif werden gelegentlich für Kaltakquise-Spam genutzt. Insgesamt geniesst Kit in der Creator-Community einen guten Ruf und reagiert aktiv auf Missbrauchsmeldungen."
   },
   "KIT CMS": {
     "description": "KIT CMS ist ein .NET-basiertes Content-Management-System von Kontrolit.net zum Erstellen und Verwalten dynamischer Websites und digitaler Inhalte.",
@@ -387,7 +387,7 @@
   "Kitcart": {
     "description": "KitCart ist eine cloudbasierte Lösung, mit der Unternehmen E-Commerce-Shops erstellen, Bestände verwalten und weitere Handelsprozesse abwickeln können.",
     "history": "Kitcart ist eine nigerianische E-Commerce-Plattform, die um 2020 gegründet wurde und afrikanischen Händlern Werkzeuge zum Aufbau von Online-Shops bietet; sie ist ein regionaler Anbieter im wachsenden Markt für afrikanische E-Commerce-Infrastruktur.",
-    "summary_abuse": "Zu Kitcart gibt es nur wenige öffentliche Daten. Als E-Commerce-Plattform mit Free Tier besteht ein gewisses Risiko, dass gefälschte Shops für Betrug erstellt werden. Die Transparenz zu Anti-Abuse-Massnahmen ist begrenzt."
+    "summary_abuse": "Zu Kitcart gibt es nur wenige öffentliche Daten. Als E-Commerce-Plattform mit kostenlosem Tarif besteht ein gewisses Risiko, dass gefälschte Shops für Betrug erstellt werden. Die Transparenz zu Massnahmen gegen Missbrauch ist begrenzt."
   },
   "Kites": {
     "description": "Kites ist ein No-Code-Builder mit Drag-and-drop-Funktionen zum Erstellen interaktiver mobiler Websites.",
@@ -712,7 +712,7 @@
     "summary_abuse": "Kount ist ein Dienst zur Betrugserkennung und -prävention und dient eher der Bekämpfung von Missbrauch als seiner Ermöglichung. Die Plattform verarbeitet grosse Mengen an Transaktionsdaten, um Betrugssignale zu erkennen, darunter sensible Finanz- und Verhaltensdaten. Ein auffälliger Missbrauch der Plattform selbst ist nicht dokumentiert."
   },
   "KPHP": {
-    "description": "KPHP (kPHP oder KittenPHP) ist ein freier Source-to-source-Translator von PHP nach C++, entwickelt von VKontakte.",
+    "description": "KPHP (kPHP oder KittenPHP) ist ein freier Source-to-Source-Translator von PHP nach C++, entwickelt von VKontakte.",
     "history": "KPHP ist ein PHP-zu-C++-Compiler, der über Jahre intern von VK.com, Russlands grösstem sozialen Netzwerk, entwickelt wurde, bevor er Ende 2020 unter GPL-3.0 als Open Source veröffentlicht wurde. Er kompiliert eine Teilmenge von PHP zu nativem Code und erreicht Leistungssteigerungen um den Faktor 3 bis 10. Bei VK.com wird er in sehr grossem Massstab eingesetzt.",
     "summary_abuse": "KPHP ist ein GPL-3.0-Open-Source-PHP-Compiler von VK.com aus Russland. Die russische Kontrolle bringt seit den Sanktionen nach 2022 geopolitische Bedenken für westliche Deployments mit sich. Es wurde kein bösartiger Code gefunden, doch die Herkunft rechtfertigt genaue Prüfung bei sensiblen Einsatzumgebungen."
   },

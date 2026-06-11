@@ -2,7 +2,7 @@
   "F5 BigIP": {
     "description": "F5 BIG-IP ist eine Produktfamilie aus Software und Hardware für Anwendungsverfügbarkeit, Zugriffskontrolle und Sicherheitslösungen.",
     "history": "F5 Networks wurde 1996 in Seattle, Washington gegründet und ging 1999 an die Börse. BIG-IP, erstmals 1997 vorgestellt, wurde zum führenden Application Delivery Controller (ADC) für Unternehmen und übernimmt Load Balancing, SSL-Offload, WAF und Traffic Management. 2019 übernahm F5 NGINX, 2021 benannte sich das Unternehmen in F5 Inc. um. F5 wird an der NASDAQ gehandelt.",
-    "summary_abuse": "F5 BIG-IP ist kritische Netzwerkinfrastruktur, die von grossen Unternehmen und Behörden eingesetzt wird. Das Produkt ist selbst kein Missbrauchswerkzeug, mehrere bekannte CVEs, darunter CVE-2020-5902 und CVE-2021-22986, wurden jedoch aktiv von Angreifern ausgenutzt, um Zugriff auf Unternehmensnetze zu erhalten. F5 reagiert in der Regel schnell auf Schwachstellen und stellt Patches bereit. Das Produkt wird nicht selbst als Missbrauchsvehikel genutzt."
+    "summary_abuse": "F5 BIG-IP ist kritische Netzwerkinfrastruktur, die von grossen Unternehmen und Behörden eingesetzt wird. Das Produkt ist selbst kein Missbrauchswerkzeug, mehrere bekannte CVEs, darunter CVE-2020-5902 und CVE-2021-22986, wurden jedoch aktiv von Angreifern ausgenutzt, um Zugriff auf Unternehmensnetze zu erhalten. F5 reagiert schnell auf Schwachstellen und stellt Patches bereit. Das Produkt wird nicht selbst als Missbrauchswerkzeug genutzt."
   },
   "F5 Distributed Cloud Services": {
     "description": "F5 Distributed Cloud Services ist eine SaaS-Plattform für Security, Networking und Anwendungsmanagement, mit der Anwendungen in cloud-nativen Umgebungen bereitgestellt, geschützt und betrieben werden.",
@@ -42,7 +42,7 @@
   "Facebook Pixel Advanced Matching": {
     "description": "Facebook Pixel Advanced Matching ist eine Funktion, die Meta Ads optimiert, indem gehashte Kundendaten mit Meta-Pixel-Ereignissen gesendet werden, um Conversion-Zuordnung und Reichweite zu verbessern.",
     "history": "Facebook Pixel Advanced Matching wurde im Juli 2018 von Meta eingeführt, um das Conversion-Tracking zu verbessern. Dabei werden personenbezogene Daten wie E-Mail, Telefonnummer und Name gehasht und an Meta gesendet, um Website-Besucher Facebook-Profilen zuzuordnen. Die Funktion entstand als Reaktion auf strengere Cookie-Beschränkungen in Browsern und iOS-Datenschutzänderungen. In der EU stand sie im Zentrum mehrerer GDPR- und ePrivacy-Verfahren.",
-    "summary_abuse": "Facebook Pixel Advanced Matching hasht und übermittelt in vielen Implementierungen personenbezogene Daten aus Website-Formularen direkt an Meta, ohne ausdrückliche Nutzereinwilligung. EU-Aufsichtsbehörden, darunter die österreichische DSB, haben die Nutzung ohne wirksame Einwilligungsmechanismen als rechtswidrig nach GDPR eingestuft. Gesundheitsanbieter mit Pixel-Einsatz haben unbeabsichtigt sensible medizinische Formulardaten an Meta übertragen, was in den USA Untersuchungen der FTC und von State Attorneys General auslöste."
+    "summary_abuse": "Facebook Pixel Advanced Matching hasht und übermittelt in vielen Implementierungen personenbezogene Daten aus Website-Formularen direkt an Meta, ohne ausdrückliche Nutzereinwilligung. EU-Aufsichtsbehörden, darunter die österreichische DSB, haben die Nutzung ohne wirksame Einwilligungsmechanismen als rechtswidrig nach GDPR eingestuft. Gesundheitsanbieter mit Pixel-Einsatz haben unbeabsichtigt sensible medizinische Formulardaten an Meta übertragen, was in den USA Untersuchungen der FTC und von Generalstaatsanwälten der Bundesstaaten auslöste."
   },
   "Facil-iti": {
     "description": "Facil-iti ist ein Web-Accessibility-Overlay, das bestimmte Menschen mit Behinderungen und ältere Nutzer unterstützt.",
@@ -106,17 +106,17 @@
   },
   "FaraPy": {
     "history": "FaraPy wurde im Dezember 2020 von Mohammad Amin Ghaemi als Open-Source-Python-CMS auf Basis von Django erstellt. Es wurde unter BSD-Lizenz auf PyPI veröffentlicht und unterstützt die Installation per pip. Das Projekt fand nur minimale Verbreitung, mit 11 GitHub-Sternen und 3 Forks, und erhielt sein letztes Code-Update im November 2021. Es sind keine nennenswerten Eigentümerwechsel, Forks oder Kontroversen bekannt.",
-    "summary_abuse": "FaraPy ist ein nischenhaftes, selbst gehostetes Python-CMS ohne dokumentierten Missbrauch. Theoretisch kann es beliebige Webinhalte unter eigenen Domains hosten, doch die minimale Verbreitung mit 11 GitHub-Sternen und die Aufgabe seit 2021 bedeuten praktisch keine Missbrauchsfläche. Es gibt keine Sicherheitsberichte, bekannten Phishingfälle oder Betrugskampagnen im Zusammenhang damit."
+    "summary_abuse": "FaraPy ist ein selbst gehostetes Nischen-Python-CMS ohne dokumentierten Missbrauch. Theoretisch kann es beliebige Webinhalte unter eigenen Domains hosten, doch die minimale Verbreitung mit 11 GitHub-Sternen und die Aufgabe seit 2021 bedeuten praktisch keine Missbrauchsfläche. Es gibt keine Sicherheitsberichte, bekannten Phishingfälle oder Betrugskampagnen im Zusammenhang damit."
   },
   "Farazi Bilişim": {
     "description": "Farazi Bilişim ist eine Plattform, die Online-Sichtbarkeit durch Suchmaschinenoptimierung verbessert und damit Ranking und Performance von Websites auf grossen Suchplattformen steigern soll.",
     "history": "Farazi Bilişim ist ein türkisches SEO- und Digitalmarketing-Unternehmen, das Suchmaschinenoptimierung für Unternehmen in der Türkei anbietet.",
-    "summary_abuse": "Farazi Bilişim ist eine nischenhafte türkische SEO-Dienstleistungsplattform ohne dokumentiertes Missbrauchsprofil. Die begrenzte geografische Reichweite und das B2B-Modell bedeuten ein minimales direktes Missbrauchsrisiko."
+    "summary_abuse": "Farazi Bilişim ist eine türkische Nischenplattform für SEO-Dienstleistungen ohne dokumentiertes Missbrauchsprofil. Die begrenzte geografische Reichweite und das B2B-Modell bedeuten ein minimales direktes Missbrauchsrisiko."
   },
   "FarCry": {
     "description": "FarCry ist ein Webanwendungsframework, das CFML-Entwicklern beim Aufbau massgeschneiderter Content-Lösungen hilft.",
     "history": "FarCry ist ein Open-Source-Webanwendungsframework für CFML-Entwickler (ColdFusion Markup Language). Es entstand etwa 2003 in Australien und wurde für Websites mit Content Management genutzt. Das Framework ist heute weitgehend inaktiv, mit nur wenig neuer Aktivität, da die Nutzung von CFML zurückging.",
-    "summary_abuse": "FarCry ist ein nischenhaftes CFML-Framework mit sehr begrenzter Nutzung. Als selbst gehostetes Framework in einem schrumpfenden Sprachökosystem hat es keine relevante Missbrauchsfläche. Nennenswerte Vorfälle sind nicht dokumentiert."
+    "summary_abuse": "FarCry ist ein CFML-Nischenframework mit sehr begrenzter Nutzung. Als selbst gehostetes Framework in einem schrumpfenden Sprachökosystem hat es keine relevante Missbrauchsfläche. Nennenswerte Vorfälle sind nicht dokumentiert."
   },
   "FareHarbor": {
     "description": "FareHarbor ist eine Buchungs- und Terminverwaltungslösung für Touren- und Aktivitätsanbieter.",
@@ -131,7 +131,7 @@
   "Farmakom": {
     "description": "Farmakom ist eine Plattform in Italien, die Apotheken bei der digitalen Transformation unterstützt, mit Channel Management, konsistentem Kundensupport und Werkzeugen für Geschäftswachstum.",
     "history": "Farmakom ist eine italienische SaaS-Plattform für Apothekenbetriebe und bietet Werkzeuge für digitale Transformation, darunter Channel Management und Kundensupport-Funktionen; sie wurde in Italien mit Fokus auf den italienischen Apothekensektor gegründet.",
-    "summary_abuse": "Farmakom ist eine nischenhafte italienische Plattform für Apotheken und hat kein dokumentiertes Missbrauchsprofil; sie arbeitet in einem regulierten Apothekensektor mit legitimen B2B-Kunden, was ein minimales Missbrauchsrisiko bedeutet."
+    "summary_abuse": "Farmakom ist eine italienische Nischenplattform für Apotheken und hat kein dokumentiertes Missbrauchsprofil; sie arbeitet in einem regulierten Apothekensektor mit legitimen B2B-Kunden, was ein minimales Missbrauchsrisiko bedeutet."
   },
   "Faslet": {
     "description": "Faslet ist eine Grössenberatungslösung für Online-Bekleidungsshops, die grössenbedingte Retouren reduziert und Conversion Rates verbessert.",
@@ -140,8 +140,8 @@
   },
   "FASO": {
     "description": "FASO ist eine von BoldBrush entwickelte Webplattform, mit der Künstler professionelle Online-Portfolios für Fine Art erstellen und verwalten können.",
-    "history": "FASO (Fine Art Studio Online) ist ein nischenhafter Website-Builder und eine Marketingplattform speziell für bildende Künstler. Die Plattform unterstützt Künstler seit über 20 Jahren beim Online-Verkauf ihrer Werke. Die Muttergesellschaft wurde in BoldBrush umbenannt. Grössere Eigentümerwechsel oder Kontroversen sind nicht dokumentiert.",
-    "summary_abuse": "FASO ist ein spezialisierter Website-Builder für bildende Künstler mit abonnementbasiertem Hosting. Aufgrund der nischenhaften Künstler-Community, des geringen Zugangs über Gratisangebote und des Zwecks Kunstverkauf hat die Plattform nur ein minimales Missbrauchsprofil. Nennenswerte Phishing- oder Betrugsaktivitäten sind nicht dokumentiert."
+    "history": "FASO (Fine Art Studio Online) ist ein Nischen-Website-Builder und eine Marketingplattform speziell für bildende Künstler. Die Plattform unterstützt Künstler seit über 20 Jahren beim Online-Verkauf ihrer Werke. Die Muttergesellschaft wurde in BoldBrush umbenannt. Grössere Eigentümerwechsel oder Kontroversen sind nicht dokumentiert.",
+    "summary_abuse": "FASO ist ein spezialisierter Website-Builder für bildende Künstler mit abonnementbasiertem Hosting. Aufgrund der Nischen-Community aus Künstlern, des geringen Zugangs über Gratisangebote und des Zwecks Kunstverkauf hat die Plattform nur ein minimales Missbrauchsprofil. Nennenswerte Phishing- oder Betrugsaktivitäten sind nicht dokumentiert."
   },
   "Fast Bundle": {
     "description": "Fast Bundle ermöglicht das Erstellen von Produktbundle-Angeboten mit Rabatten.",
@@ -196,7 +196,7 @@
   "Fastly": {
     "description": "Fastly ist ein Anbieter von Cloud-Computing-Diensten. Fastlys Cloud-Plattform umfasst Content Delivery Network, Internet-Sicherheitsdienste, Load Balancing sowie Video- und Streamingdienste.",
     "history": "Fastly wurde 2011 von Artur Bergman gegründet und ging 2019 an die NYSE. Das Unternehmen baute ein entwicklerorientiertes CDN und eine Edge-Cloud-Plattform mit über 60 globalen Points of Presence auf. Fastly trieb Echtzeit-Purging und Edge Computing auf WebAssembly voran. Zu den Kunden gehören GitHub, Spotify, The New York Times und Pinterest. Im Juni 2021 verursachte ein Konfigurationsfehler einen grossen globalen Internetausfall, der Hunderte grosser Websites betraf.",
-    "summary_abuse": "Fastly ist ein vertrauenswürdiger Enterprise-CDN- und Edge-Computing-Anbieter ohne Geschichte absichtlichen Missbrauchs. Der bekannte globale Ausfall im Juni 2021 wurde durch einen Softwarefehler ausgelöst, der von einer Kundenkonfigurationsänderung getriggert wurde, nicht durch böswillige Absicht. Fastly unterhält umfassende Sicherheitszertifizierungen, darunter SOC2 Type II, ISO 27001, PCI-DSS und HIPAA. Als Content-Delivery-Plattform wurde Fastly gelegentlich für das Hosten kontroverser Inhalte kritisiert, verfügt jedoch über Moderationsrichtlinien."
+    "summary_abuse": "Fastly ist ein vertrauenswürdiger Enterprise-CDN- und Edge-Computing-Anbieter ohne Geschichte absichtlichen Missbrauchs. Der bekannte globale Ausfall im Juni 2021 wurde durch einen Softwarefehler verursacht, ausgelöst durch eine Kundenkonfigurationsänderung und nicht durch böswillige Absicht. Fastly unterhält umfassende Sicherheitszertifizierungen, darunter SOC2 Type II, ISO 27001, PCI-DSS und HIPAA. Als Content-Delivery-Plattform wurde Fastly gelegentlich für das Hosten kontroverser Inhalte kritisiert, verfügt jedoch über Moderationsrichtlinien."
   },
   "Fastmind": {
     "description": "Fastmind ist ein KI-gestützter Chatbot-Builder, der Kundeninteraktionen mit Live-Daten direkt aus einer Suchmaschine ermöglicht.",
@@ -245,7 +245,7 @@
   "Fatsoma": {
     "description": "Fatsoma ist eine Plattform zum Erstellen von Event- und Konzert-Websites, mit der Veranstalter Listings und Ticketverkäufe verwalten können.",
     "history": "Fatsoma ist eine britische Event-Ticketing-Plattform, die etwa 2010 gegründet wurde und sich auf Live-Events, Konzerte und Clubnächte konzentriert. Veranstalter können Events listen und Tickets direkt verkaufen.",
-    "summary_abuse": "Fatsoma ist eine Event-Ticketing-Plattform, die theoretisch Listings für gefälschte Veranstaltungen hosten könnte. Als nischenhafte britische Plattform für geprüfte Veranstalter ist dokumentierter Missbrauch jedoch minimal. Das Unternehmen hält die üblichen britischen Verbraucherschutzanforderungen ein."
+    "summary_abuse": "Fatsoma ist eine Event-Ticketing-Plattform, die theoretisch Listings für gefälschte Veranstaltungen hosten könnte. Als britische Nischenplattform für geprüfte Veranstalter ist dokumentierter Missbrauch jedoch minimal. Das Unternehmen hält die üblichen britischen Verbraucherschutzanforderungen ein."
   },
   "Faveo": {
     "description": "Faveo ist ein Open-Source-Helpdesk- und Ticketmanagement-System zur Nachverfolgung, Zuweisung und Lösung von Support-Tickets.",
@@ -627,8 +627,8 @@
   },
   "Flashchat": {
     "description": "Flashchat ist ein automatisiertes Tool für Messenger-Unterhaltungen.",
-    "history": "Flashchat ist eine Web3-Social-Media-App von Flashtrend LLC, gestartet etwa 2022; sie ermöglicht Wallet-zu-Wallet-Messaging, tokenisierte Gruppenchats auf Basis von NFT-Besitz, Web3-Aktivitätsfeeds und NFT-Anzeigeprofile. Nutzer können sich mit einer Crypto-Wallet ohne E-Mail oder Telefon anmelden. Die App bietet Flashcoins, die über Empfehlungen verdient werden, und ist für iOS und Android verfügbar; sie richtet sich an die Web3- und Crypto-Community als Alternative zu traditionellen sozialen Netzwerken.",
-    "summary_abuse": "Flashchat ist eine Web3-Social-App mit begrenzter öffentlicher Erfolgsbilanz. Der Crypto-Fokus wirft Bedenken zu Finanzspekulationsfunktionen und möglicher Exposition gegenüber NFT-Scams auf. Formale Sicherheitszertifizierungen sind nicht bekannt. Die App sammelt Wallet-Daten und soziale Interaktionen. Die Datenschutzpraktiken sind unklar. Wie bei frühen Web3-Apps üblich, ist die regulatorische Aufsicht begrenzt."
+    "history": "Flashchat ist eine Web3-Social-Media-App von Flashtrend LLC, gestartet etwa 2022; sie ermöglicht Wallet-zu-Wallet-Messaging, tokenisierte Gruppenchats auf Basis von NFT-Besitz, Web3-Aktivitätsfeeds und NFT-Anzeigeprofile. Nutzer können sich mit einer Krypto-Wallet ohne E-Mail oder Telefon anmelden. Die App bietet Flashcoins, die über Empfehlungen verdient werden, und ist für iOS und Android verfügbar; sie richtet sich an die Web3- und Krypto-Community als Alternative zu traditionellen sozialen Netzwerken.",
+    "summary_abuse": "Flashchat ist eine Web3-Social-App mit begrenzter öffentlicher Erfolgsbilanz. Der Krypto-Fokus wirft Bedenken zu Finanzspekulationsfunktionen und möglicher Exposition gegenüber NFT-Scams auf. Formale Sicherheitszertifizierungen sind nicht bekannt. Die App sammelt Wallet-Daten und soziale Interaktionen. Die Datenschutzpraktiken sind unklar. Wie bei frühen Web3-Apps üblich, ist die regulatorische Aufsicht begrenzt."
   },
   "Flask": {
     "description": "Flask ist ein Python-Micro-Webframework, das sich durch Minimalismus, Flexibilität und Modularität für den schnellen Aufbau von Webanwendungen eignet.",
@@ -707,7 +707,7 @@
   "FlipBuilder": {
     "description": "FlipBuilder ist ein Tool, das Standard-PDFs stapelweise in interaktive Booklets mit Umblätteranimationen und Soundeffekten umwandelt.",
     "history": "FlipBuilder ist ein chinesisches Softwareunternehmen mit HTML5-Flipbook-Software, die PDFs und Bilder in interaktive Publikationen mit Seitenblättereffekt umwandelt. Das Hauptprodukt Flip PDF Plus Pro erlaubt das Einbetten von Multimedia, YouTube und interaktiven Elementen. Veröffentlichte Inhalte können als HTML, EXE, APP oder APK ausgegeben werden. Es gibt eine kostenlose Stufe und kostenpflichtige Lizenzen mit lebenslangem Zugriff. Das Unternehmen bedient weltweit Marketer, Bildungseinrichtungen, Publisher und Unternehmen.",
-    "summary_abuse": "Es wurden keine grösseren Missbrauchsvorfälle identifiziert. FlipBuilder ist eine in China entwickelte Desktop-Software. GDPR-Compliance und formale Sicherheitszertifizierungen werden nicht prominent beworben. Das Unternehmen ist seit vielen Jahren aktiv und hat keine nennenswerte Datenpannen- oder Scam-Historie, auch wenn die chinesische Herkunft gewisse Unsicherheiten bei der Data Governance mit sich bringt."
+    "summary_abuse": "Es wurden keine grösseren Missbrauchsvorfälle identifiziert. FlipBuilder ist eine in China entwickelte Desktop-Software. GDPR-Compliance und formale Sicherheitszertifizierungen werden nicht prominent beworben. Das Unternehmen ist seit vielen Jahren aktiv und hat keine nennenswerte Datenpannen- oder Scam-Historie, auch wenn die chinesische Herkunft gewisse Unsicherheiten bei der Daten-Governance mit sich bringt."
   },
   "FlipClock.js": {
     "description": "FlipClock.js ist eine JavaScript-Bibliothek, die Zeit- und Countdown-Anzeigen in Webanwendungen modern im Flip-Clock-Stil darstellt.",
@@ -866,7 +866,7 @@
   "Fly.io": {
     "description": "Fly ist eine Plattform zum Ausführen von Full-Stack-Apps und Datenbanken.",
     "history": "Fly.io wurde 2017 als Cloud-Plattform für App-Hosting gegründet, die Container als hardwarevirtualisierte VMs in mehr als 35 globalen Regionen ausführt. Das Unternehmen positioniert sich als Alternative zu Heroku und Vercel mit mehr Kontrolle über die Infrastruktur. Es ist VC-finanziert und in der Entwickler-Community deutlich gewachsen.",
-    "summary_abuse": "Fly.io ist eine Cloud-Hosting-Plattform mit Free Tier, auf der beliebige Anwendungen betrieben werden können. Wie andere PaaS-Anbieter kann sie zum Hosten schädlicher Dienste, Proxy-Server oder C2-Infrastruktur missbraucht werden, was bei Entwickler-Clouds mit kostenlosen Stufen üblich ist. Das Unternehmen hat eine AUP und einen Prozess zur Meldung von Missbrauch."
+    "summary_abuse": "Fly.io ist eine Cloud-Hosting-Plattform mit kostenloser Stufe, auf der beliebige Anwendungen betrieben werden können. Wie andere PaaS-Anbieter kann sie zum Hosten schädlicher Dienste, Proxy-Server oder C2-Infrastruktur missbraucht werden, was bei Entwickler-Clouds mit kostenlosen Stufen üblich ist. Das Unternehmen hat eine AUP und einen Prozess zur Meldung von Missbrauch."
   },
   "Flybook": {
     "description": "Flybook ist spezialisierte Reservierungssoftware für Buchungen, Verfügbarkeiten und Betrieb in den Bereichen Abenteuer, Touren und Vermietung.",
@@ -900,7 +900,7 @@
   "Flyvi": {
     "description": "Flyvi ist eine Plattform, die visuell ansprechende, für Social Media optimierte Grafiken erstellt.",
     "history": "Flyvi ist eine russische KI-gestützte Grafikdesign-Plattform, die um 2022 gestartet wurde und sich als Canva-Alternative für russischsprachige Nutzer positioniert, nachdem Canva in Russland nicht mehr verfügbar war. Die Plattform bietet über 5'000 kostenlose Vorlagen und mehr als 30'000 Premium-Vorlagen, KI-Bildwerkzeuge wie Hintergrundentfernung, Objektersetzung, Bildverbesserung und WebP-Konvertierung sowie Designelemente für Social Media, Marketing und Geschäftsinhalte.",
-    "summary_abuse": "Flyvi ist eine russische Designplattform, die vor allem russischsprachige Nutzer bedient. Die russische Jurisdiktion wirft Fragen zur Datensouveränität auf. Die Plattform positioniert sich nach Sanktionen als Canva-Ersatz, wodurch ihre Nutzerbasis teilweise aus Nutzern in sanktionierten Jurisdiktionen besteht. Konkrete Missbrauchsfälle sind nicht dokumentiert, Eigentümerschaft und Zielmarkt in Russland schaffen jedoch Überlegungen zur Data Governance."
+    "summary_abuse": "Flyvi ist eine russische Designplattform, die vor allem russischsprachige Nutzer bedient. Die russische Jurisdiktion wirft Fragen zur Datensouveränität auf. Die Plattform positioniert sich nach Sanktionen als Canva-Ersatz, wodurch ihre Nutzerbasis teilweise aus Nutzern in sanktionierten Jurisdiktionen besteht. Konkrete Missbrauchsfälle sind nicht dokumentiert, Eigentümerschaft und Zielmarkt in Russland schaffen jedoch Fragen zur Daten-Governance."
   },
   "Flywheel": {
     "history": "Flywheel wurde 2012 in Omaha, Nebraska, als Managed-WordPress-Hosting-Plattform für Designer und Kreativagenturen gegründet. Das Unternehmen baute Workflow-Werkzeuge für Agenturen, darunter Abrechnungsübertragung und Kollaborationsfunktionen. 2019 übernahm WP Engine Flywheel und integrierte es in sein Portfolio verwalteter WordPress-Hosting-Produkte. Die Plattform bedient über 100'000 Kunden.",
@@ -1079,7 +1079,7 @@
   "Formcan": {
     "description": "Formcan ist ein Formular-Builder zum Erstellen, Anpassen und Bereitstellen von Online-Formularen für Datenerfassung und Verwaltung.",
     "history": "Formcan ist ein Online-Formular-Builder-SaaS, gestartet um 2021, das Erstellung, Anpassung und Bereitstellung von Formularen zur Datenerfassung anbietet. Es ist ein kleines unabhängiges Startup mit begrenzter öffentlicher Unternehmenshistorie.",
-    "summary_abuse": "Formcan ist eine Formular-Builder-Plattform, mit der Datenerfassungsformulare erstellt werden können. Online-Formular-Builder können missbraucht werden, um Phishing-Seiten zum Abgreifen von Zugangsdaten zu erstellen. Der Free Tier und die Self-Service-Registrierung machen Formcan für nicht authentifizierte Nutzung zugänglich. Für diesen Anbieter sind keine konkreten dokumentierten Missbrauchsfälle bekannt."
+    "summary_abuse": "Formcan ist eine Formular-Builder-Plattform, mit der Datenerfassungsformulare erstellt werden können. Online-Formular-Builder können missbraucht werden, um Phishing-Seiten zum Abgreifen von Zugangsdaten zu erstellen. Die kostenlose Stufe und die Self-Service-Registrierung machen Formcan für nicht authentifizierte Nutzung zugänglich. Für diesen Anbieter sind keine konkreten dokumentierten Missbrauchsfälle bekannt."
   },
   "FormDr": {
     "description": "FormDr ist eine HIPAA-konforme Plattform für sichere Online-Formulare zur Erfassung und Verwaltung sensibler Gesundheitsinformationen.",
@@ -1109,7 +1109,7 @@
   "Formli": {
     "description": "Formli ist ein webbasierter Formular-Builder, mit dem Nutzer Online-Formulare für verschiedene Zwecke wie Umfragen, Feedbackformulare und Event-Anmeldungen erstellen und anpassen können.",
     "history": "Formli ist ein webbasierter Formular-Builder für Umfrage-, Feedback- und Registrierungsformulare mit Freemium-Preismodell. Es ist ein kleines, kürzlich gestartetes unabhängiges Produkt mit begrenzter öffentlicher Unternehmenshistorie.",
-    "summary_abuse": "Formli ist ein Formular-Builder mit Free Tier und Self-Service-Registrierung. Online-Formular-Builder mit anonymem Zugang können missbraucht werden, um Phishing-Seiten zum Abgreifen von Zugangsdaten zu erstellen. Für diesen Anbieter sind keine konkreten dokumentierten Missbrauchsfälle bekannt."
+    "summary_abuse": "Formli ist ein Formular-Builder mit kostenloser Stufe und Self-Service-Registrierung. Online-Formular-Builder mit anonymem Zugang können missbraucht werden, um Phishing-Seiten zum Abgreifen von Zugangsdaten zu erstellen. Für diesen Anbieter sind keine konkreten dokumentierten Missbrauchsfälle bekannt."
   },
   "Formrun": {
     "description": "Formrun ist ein Werkzeug zur Formularerstellung.",
@@ -1241,7 +1241,7 @@
     "summary_abuse": "France Express zeigt als Technologie kein auffälliges Missbrauchssignal. Es handelt sich um eine französische Paketkurier-Tracking-Integration, und das physische Liefernetz ist über Geodis eine legitime Tochter der SNCF. Versanddienstleister-Integrationen werden legitim zur Paketverfolgung genutzt."
   },
   "Frappe": {
-    "description": "Frappe ist ein Full-Stack-Webframework mit Batteries-included-Ansatz, geschrieben in Python und Javascript.",
+    "description": "Frappe ist ein Full-Stack-Webframework mit Batteries-included-Ansatz, geschrieben in Python und JavaScript.",
     "history": "Frappe wurde 2008 von Rushabh Mehta in Mumbai, Indien, gegründet. Mehta baute das Framework ursprünglich, um eine gescheiterte ERP-Einführung im Möbelgeschäft seiner Familie zu lösen. Das zugrunde liegende Webframework, Frappe Framework, treibt ERPNext an, das ab 2010 als Open Source veröffentlicht und ab 2012 als Open-Source-ERP positioniert wurde. Das Unternehmen ist bemerkenswert profitabel und unabhängig, ohne externe Investoren.",
     "summary_abuse": "Frappe ist ein Python-Webframework und eine ERP-Plattform, die vor allem in Unternehmensumgebungen genutzt wird. Es ist selbst gehostete Software ohne auffälliges Missbrauchssignal als Softwareprojekt."
   },
@@ -1315,7 +1315,7 @@
     "summary_abuse": "Geringes Missbrauchsrisiko. Ein Shopify-Upsell-Plugin ohne direkte Endnutzer-Angriffsfläche."
   },
   "Fresco": {
-    "description": "Fresco ist eine responsive Lightbox. Fresco bietet Thumbnail-Unterstützung, Vollbild-Zoom, YouTube- und Vimeo-Integration für HTML5-Video sowie eine leistungsfähige Javascript API.",
+    "description": "Fresco ist eine responsive Lightbox. Fresco bietet Thumbnail-Unterstützung, Vollbild-Zoom, YouTube- und Vimeo-Integration für HTML5-Video sowie eine leistungsfähige JavaScript API.",
     "history": "Fresco ist eine kollaborative visuelle Planungs- und Whiteboarding-Plattform, die um 2019 gegründet wurde und Teams Infinite-Canvas-Werkzeuge bietet.",
     "summary_abuse": "Geringes Missbrauchsrisiko. Ein kollaboratives Workspace-Tool ohne auffällig dokumentierten Missbrauch."
   },
@@ -1390,7 +1390,7 @@
     "summary_abuse": "Frizbit ist eine Plattform für Web-Push-Benachrichtigungen und Marketingautomatisierung. Web-Push-Dienste können missbraucht werden, um Spam oder täuschende Benachrichtigungen zu versenden. Frizbit richtet sich jedoch an legitime E-Commerce-Unternehmen, und es sind keine spezifischen dokumentierten Missbrauchsvorfälle bekannt. Die Technologie kann missbraucht werden, wenn Website-Betreiber Push-Berechtigungen über Dark Patterns einholen."
   },
   "Froala Editor": {
-    "description": "Froala Editor ist ein in Javascript geschriebener WYSIWYG-HTML-Editor, der Rich-Text-Bearbeitung in Anwendungen ermöglicht.",
+    "description": "Froala Editor ist ein in JavaScript geschriebener WYSIWYG-HTML-Editor, der Rich-Text-Bearbeitung in Anwendungen ermöglicht.",
     "history": "Froala Editor entstand um 2012 als leichtgewichtiger WYSIWYG-HTML-Editor in JavaScript für Entwickler, die eine einbettbare Rich-Text-Komponente benötigten. Seit 2020 wird er über ComponentSource vertrieben. Im Januar 2021 führte das Unternehmen jährliche und unbefristete Lizenzoptionen ein. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Froala Editor ist eine clientseitige JavaScript-Bibliothek, die für Rich-Text-Bearbeitung in Websites Dritter eingebettet wird. Es gibt kein auffälliges Missbrauchssignal, da keine Endnutzer-Angriffsfläche, keine Hosting-Fähigkeiten und keine URL-Shortening- oder File-Hosting-Funktionen bestehen. Missbrauchspotenzial beschränkt sich auf XSS bei unsachgemässer Bereinigung durch Entwickler, ein Standardrisiko aller WYSIWYG-Editoren und kein Froala-spezifisches Problem. Es sind keine dokumentierten Missbrauchsvorfälle oder spezifischen Security-Research-Ergebnisse zu Froala bekannt."
   },

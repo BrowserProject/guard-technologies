@@ -72,7 +72,7 @@
   "RainLoop": {
     "description": "RainLoop ist ein webbasierter E-Mail-Client.",
     "history": "RainLoop ist ein Open-Source-PHP-Webmail-Client, der 2013 unter der MIT-Lizenz erstmals veröffentlicht wurde. Das Projekt wurde über mehrere Jahre nicht aktiv gepflegt und gilt praktisch als aufgegeben. SnappyMail entstand als aktiv gepflegter Community-Fork.",
-    "summary_abuse": "RainLoop ist ein selbst gehosteter Webmail-Client. Die Software selbst hat keine Missbrauchsfläche, aber verlassene Webmail-Installationen mit veralteten RainLoop-Versionen wurden in der Vergangenheit von Angreifern über ungepatchte Schwachstellen attackiert, um Zugriff auf Mailserver zu erhalten. Da das Projekt nicht mehr gepflegt wird, gibt es keine Vendor-Anti-Abuse-Haltung."
+    "summary_abuse": "RainLoop ist ein selbst gehosteter Webmail-Client. Die Software selbst hat keine Missbrauchsfläche, aber verlassene Webmail-Installationen mit veralteten RainLoop-Versionen wurden in der Vergangenheit von Angreifern über ungepatchte Schwachstellen attackiert, um Zugriff auf Mailserver zu erhalten. Da das Projekt nicht mehr gepflegt wird, gibt es keine Anti-Abuse-Haltung eines Anbieters."
   },
   "RaiseDonors": {
     "description": "RaiseDonors richtet sich an Organisationen, die online Spenden sammeln und Beziehungen zu Spendern pflegen.",
@@ -115,7 +115,7 @@
   "Rambler": {
     "description": "Rambler ist ein in Russland entwickeltes Website-Ranking-System und Besucherzähler.",
     "history": "Rambler wurde 1996 von Stack Ltd als russisches Internetportal und Webanalyse-Dienst gestartet. Das Unternehmen ging 2005 an die Börse, wurde 2006 von Prof-Media übernommen, und 2020 übernahm Sberbank die vollständige Kontrolle über die Rambler Media Group.",
-    "summary_abuse": "Rambler agiert als russisches Internetportal und Website-Ranking- beziehungsweise Analyse-Dienst. Als russisch betriebener Analytics- und Werbedienst unterliegt es nicht der GDPR und westlichen Datenschutzstandards. Daten, die über Tracking-Pixel gesammelt werden, können zu russischen Unternehmens- und staatsnahen Stellen fliessen. Konkrete dokumentierte Muster grossflächigen Betrugsmissbrauchs sind nicht bekannt, das Datenschutzrisiko ist für nicht russische Nutzer jedoch erhöht."
+    "summary_abuse": "Rambler agiert als russisches Internetportal und Website-Ranking- beziehungsweise Analyse-Dienst. Als russisch betriebener Analytics- und Werbedienst unterliegt es nicht der GDPR und westlichen Datenschutzstandards. Daten, die über Tracking-Pixel gesammelt werden, können zu russischen Unternehmens- und staatsnahen Stellen fliessen. Konkrete dokumentierte Muster grossflächigen Betrugsmissbrauchs sind nicht bekannt, das Datenschutzrisiko ist für nichtrussische Nutzer jedoch erhöht."
   },
   "Ramda": {
     "description": "Ramda ist eine praxisorientierte Bibliothek für funktionale Programmierung in JavaScript, mit Fokus auf Immutability, Currying und Funktionskomposition für deklarativeren, modulareren Code.",
@@ -768,7 +768,7 @@
   "Remixd": {
     "description": "Remixd ist eine Plattform, mit der Podcast-Ersteller ihre Podcasts effizient produzieren und weltweit veröffentlichen können; sie bietet Werkzeuge für Erstellung, Hosting, Distribution, Analysen, Monetarisierung und Social-Media-Integration.",
     "history": "Remixd wurde 2019 von Gordan Topalovic in Washington DC als Plattform für Audio- und Podcast-Kampagnenmanagement für Podcast-Ersteller und Werbekunden gegründet. Im Oktober 2021 wurde Remixd von Global, einem Medien- und Unterhaltungsunternehmen aus dem Vereinigten Königreich, übernommen.",
-    "summary_abuse": "Remixd ist eine B2B-Plattform für Podcast-Hosting und Audio-Werbemangement. Es gibt kein auffälliges Missbrauchssignal, da sie als geschlossenes Werkzeug für Podcast-Ersteller und Media Buyer mit direkten Geschäftsbeziehungen betrieben wird."
+    "summary_abuse": "Remixd ist eine B2B-Plattform für Podcast-Hosting und Audio-Werbemanagement. Es gibt kein auffälliges Missbrauchssignal, da sie als geschlossenes Werkzeug für Podcast-Ersteller und Media Buyer mit direkten Geschäftsbeziehungen betrieben wird."
   },
   "Remotion": {
     "description": "Remotion ist ein Softwarewerkzeug, mit dem Videos per React-Programmierung erstellt werden können.",
@@ -1314,7 +1314,7 @@
   "Riskified": {
     "description": "Riskified ist ein Privatunternehmen, das SaaS-Technologie zur Betrugs- und Chargeback-Prävention anbietet.",
     "history": "Riskified wurde 2012 in Tel Aviv von Eido Gal und Assaf Feldman als Plattform zur Betrugsprävention im E-Commerce gegründet. Das Unternehmen nahm 232 Millionen US-Dollar Finanzierung auf und ging im Juli 2021 mit einer Bewertung von 4,3 Milliarden US-Dollar an die NYSE.",
-    "summary_abuse": "Riskified ist eine Betrugspräventionsplattform ohne auffälliges Missbrauchssignal auf Infrastrukturseite. Ihr Zweck ist Anti-Fraud und Chargeback-Prävention für Händler; als börsenkotiertes Unternehmen unterliegt sie strengen Compliance- und Governance-Standards."
+    "summary_abuse": "Riskified ist eine Betrugspräventionsplattform ohne auffälliges Missbrauchssignal auf Infrastrukturseite. Der Zweck ist Anti-Fraud und Chargeback-Prävention für Händler; als börsenkotiertes Unternehmen unterliegt sie strengen Compliance- und Governance-Standards."
   },
   "Rispose": {
     "description": "Rispose ist eine Plattform zum Erstellen und Einbetten von KI-Agenten auf Websites und in Anwendungen, um Support, Sales und Nutzerinteraktion über KI-gestützte Assistenten zu automatisieren.",
@@ -1358,7 +1358,7 @@
   "RoadRunner": {
     "description": "RoadRunner ist ein leistungsstarker PHP Application Server, Load Balancer und Prozessmanager, geschrieben in Golang.",
     "history": "RoadRunner wurde ab 2017 von Anton Titov bei Spiral Scout entwickelt, um Lastspitzen grosser PHP-Anwendungen zu bewältigen, und 2018 unter der MIT-Lizenz als Open Source veröffentlicht. Es dient als leistungsstarker PHP Application Server in Go und ersetzt traditionelle PHP-FPM-Setups. Für die weitere Entwicklung zog das Projekt in die GitHub-Organisation roadrunner-server um.",
-    "summary_abuse": "RoadRunner ist eine serverseitige PHP-Laufzeitumgebung ohne auffälliges Missbrauchssignal. Es läuft als Anwendungserver-Infrastrukturkomponente und bietet keine verbraucherorientierte Oberfläche, die betrügerische Nutzung anziehen würde."
+    "summary_abuse": "RoadRunner ist eine serverseitige PHP-Laufzeitumgebung ohne auffälliges Missbrauchssignal. Es läuft als Anwendungsserver-Infrastrukturkomponente und bietet keine verbraucherorientierte Oberfläche, die betrügerische Nutzung anziehen würde."
   },
   "Roas Funnels": {
     "description": "Roas Funnels ist eine All-in-one-Plattform für digitales Marketing, die Unternehmenswachstum mit Tools und Strategien unterstützen soll.",

@@ -5,7 +5,7 @@
     "summary_abuse": "Gallabox ist eine WhatsApp Business API-Plattform. Messaging-Werkzeuge auf WhatsApp-Basis bergen das Risiko, für Spam und Massenkampagnen genutzt zu werden. Gallabox ist zwar ein legitimer Meta Business Partner, Automatisierungstools für WhatsApp-Messaging werden in indischen Märkten jedoch häufig für unerwünschtes Marketing und Betrugsnachrichten eingesetzt."
   },
   "Gallery": {
-    "description": "Gallery ist ein quelloffener, webbasierter Fotoalbum-Organisator.",
+    "description": "Gallery ist eine quelloffene, webbasierte Anwendung zum Organisieren von Fotoalben.",
     "history": "Gallery ist eine quelloffene PHP-Anwendung für Fotoalben und Bildergalerien, die 2000 erstmals von Bharat Mediratta veröffentlicht wurde. In den frühen 2000er-Jahren gehörte sie zu den beliebtesten Webgalerie-Anwendungen. Gallery 3 war die letzte Hauptversion. Die Entwicklung ist faktisch eingestellt, seit etwa 2015 gab es keine nennenswerten Commits mehr, wodurch das Projekt praktisch aufgegeben ist.",
     "summary_abuse": "Gallery ist eine aufgegebene quelloffene PHP-Fotogalerie. Alte Installationen mit ungepatchten Schwachstellen wurden in der Vergangenheit gezielt zur Serverkompromittierung und Malware-Einschleusung angegriffen. Da das Projekt aufgegeben wurde, gibt es keine Sicherheitsupdates mehr, was für weiterhin betriebene Websites ein Risiko schafft."
   },
@@ -72,7 +72,7 @@
   "Gcore": {
     "description": "Gcore ist ein Unternehmen für Public Cloud und Content Delivery Network (CDN).",
     "history": "Gcore, früher G-Core Labs, ist ein globaler Anbieter von Edge-Netzwerk- und Cloud-Infrastruktur, der 2014 in Luxemburg gegründet wurde. Das Unternehmen bietet CDN, DDoS-Schutz, Cloud-Hosting, Gaming-Infrastruktur und Streaming-Dienste mit über 140 PoPs weltweit.",
-    "summary_abuse": "Als B2B-Infrastrukturanbieter besteht nur ein minimales Verbrauchermissbrauchsrisiko. Die Dienste richten sich an Unternehmenskunden. Dark Patterns oder täuschende Praktiken sind nicht bekannt. Es handelt sich um einen üblichen SLA-basierten Infrastrukturdienst."
+    "summary_abuse": "Als B2B-Infrastrukturanbieter besteht nur ein minimales Missbrauchsrisiko für Verbraucher. Die Dienste richten sich an Unternehmenskunden. Dark Patterns oder täuschende Praktiken sind nicht bekannt. Es handelt sich um einen üblichen SLA-basierten Infrastrukturdienst."
   },
   "GDPR Cookie Consent Plugin by Webtoffee": {
     "description": "GDPR Cookie Consent Plugin by Webtoffee ist eine WordPress-Lösung für GDPR- und CCPA-Compliance mit Unterstützung für IAB-Standards und Integration in Google Consent Mode.",
@@ -87,7 +87,7 @@
   "Geggio": {
     "description": "Geggio ist ein All-in-one-Funnel-Tool für KMU, das Landingpages, E-Mails, Automatisierungen und CRM verbindet.",
     "history": "Geggio ist ein in den Niederlanden ansässiges All-in-one-Funnel-Tool für KMU, das Landingpages, E-Mail, Automatisierungen und CRM kombiniert. Zur öffentlichen Geschichte sind nur wenige Informationen verfügbar.",
-    "summary_abuse": "Geggio ist ein kleines Nischen-SaaS für Marketing-Funnels ohne dokumentiertes nennenswertes Missbrauchssignal. Es scheint keine anonymen Registrierungen oder beliebiges Content-Hosting anzubieten."
+    "summary_abuse": "Geggio ist ein kleiner Nischen-SaaS-Dienst für Marketing-Funnels ohne dokumentiertes nennenswertes Missbrauchssignal. Es scheint keine anonymen Registrierungen oder beliebiges Content-Hosting anzubieten."
   },
   "Gekosale": {
     "description": "Gekosale ist eine quelloffene E-Commerce-Lösung zum Aufbau und zur Verwaltung von Onlineshops.",
@@ -110,13 +110,13 @@
   },
   "GenerateBlocks": {
     "description": "GenerateBlocks ist ein WordPress-Plugin mit typischen Funktionen eines Page Builders.",
-    "history": "GenerateBlocks ist ein leichtgewichtiges WordPress-Gutenberg-Block-Plugin von Tom Usborne, der auch hinter GeneratePress steht. Es wurde um 2020 gestartet und bietet Kernblöcke zum Erstellen von Layouts ohne die Schwere klassischer Page Builder.",
+    "history": "GenerateBlocks ist ein leichtgewichtiges WordPress-Gutenberg-Block-Plugin von Tom Usborne, der auch hinter GeneratePress steht. Es wurde um 2020 gestartet und bietet Kernblöcke zum Erstellen von Layouts ohne den Ballast klassischer Page Builder.",
     "summary_abuse": "Quelloffenes WordPress-Plugin eines angesehenen Entwicklers. Keine Missbrauchsmuster. Es gibt eine kostenpflichtige Premium-Version, aber keine Dark Patterns."
   },
   "GeneratePress": {
     "description": "GeneratePress ist ein leichtgewichtiges WordPress-Theme mit Fokus auf Geschwindigkeit, Stabilität und Barrierefreiheit.",
     "history": "GeneratePress ist ein leichtgewichtiges WordPress-Theme von Tom Usborne. Es wurde 2014 erstmals veröffentlicht und legt Wert auf Performance und Barrierefreiheit. Es gibt eine kostenlose Version auf WordPress.org und ein kostenpflichtiges Premium-Plugin.",
-    "summary_abuse": "Angesehener unabhängiger WordPress-Theme-Entwickler. Keine Missbrauchsmuster oder Dark Practices. Transparente Preisgestaltung mit Option auf lebenslange Lizenz."
+    "summary_abuse": "Angesehener unabhängiger WordPress-Theme-Entwickler. Keine Missbrauchsmuster oder dunklen Praktiken. Transparente Preisgestaltung mit Option auf lebenslange Lizenz."
   },
   "GeneratePress GP Premium": {
     "description": "GP Premium ist ein Premium-Add-on-Plugin für das WordPress-Theme GeneratePress.",
@@ -148,7 +148,7 @@
     "summary_abuse": "Lang etablierte Enterprise-Low-code-Plattform ohne Missbrauchsmuster. B2B-Fokus mit üblicher Lizenzierung. Starke Präsenz in Lateinamerika und Japan."
   },
   "genezio": {
-    "description": "Genezio ist ein Codegenerierungswerkzeug, das den Fokus auf App-Logik erleichtert, Backend-API-Code in deploybaren Klassen organisiert, Klassenschnittstellen mit JSON-RPC für typsichere API-Aufrufe automatisch erzeugt, REST und Webhooks unterstützt, einfache API-Deployments auf vorkonfigurierter Infrastruktur per Shell-Befehl ermöglicht und ein SDK bereitstellt, das den Umgang mit URLs und Headers erspart.",
+    "description": "Genezio ist ein Codegenerierungswerkzeug, das den Fokus auf App-Logik erleichtert, Backend-API-Code in bereitstellbaren Klassen organisiert, Klassenschnittstellen mit JSON-RPC für typsichere API-Aufrufe automatisch erzeugt, REST und Webhooks unterstützt, einfache API-Deployments auf vorkonfigurierter Infrastruktur per Shell-Befehl ermöglicht und ein SDK bereitstellt, das den Umgang mit URLs und Headern erspart.",
     "history": "Genezio ist eine Cloud-Plattform zum Bereitstellen von Backend-Anwendungen, die um 2022 in Rumänien entstand. Nur wenige Gründungsdetails sind öffentlich verfügbar.",
     "summary_abuse": "Genezio ist eine Entwicklerplattform für Deployments ohne nennenswertes Missbrauchssignal; sie richtet sich an Entwickler und stellt keine verbraucherseitigen Content-Hosting-Funktionen bereit."
   },
@@ -316,7 +316,7 @@
   },
   "GetSocial": {
     "description": "GetSocial ist eine Plattform für Social Analytics und Publishing.",
-    "history": "GetSocial ist eine Social-Engagement-Plattform für mobile Apps und bietet Empfehlungs­kampagnen, Social Sharing und Analytics; sie wurde um 2013 gegründet und hilft Spiele- und App-Entwicklern, virale Wachstumsmechaniken umzusetzen.",
+    "history": "GetSocial ist eine Social-Engagement-Plattform für mobile Apps und bietet Empfehlungskampagnen, Social Sharing und Analytics; sie wurde um 2013 gegründet und hilft Spiele- und App-Entwicklern, virale Wachstumsmechaniken umzusetzen.",
     "summary_abuse": "Social-Engagement-Plattform für mobile Apps. Erfasst Nutzerinteraktionen und Sharing-Daten. Datenschutzpraktiken sind auf Mobile Analytics ausgerichtet. Keine Dark Patterns."
   },
   "GetTerms": {
@@ -375,7 +375,7 @@
     "summary_abuse": "Einfache Shopify-App für Geschenkfunktionen. Keine Dark Patterns. Standard-Abonnement mit klarer Preisangabe im Shopify App Store."
   },
   "Gista": {
-    "description": "Gista ist ein AI-Conversion-Agent, der Websites hilft, Besucher durch automatisierte Ansprache in Leads und Kunden umzuwandeln.",
+    "description": "Gista ist ein KI-Conversion-Agent, der Websites hilft, Besucher durch automatisierte Ansprache in Leads und Kunden umzuwandeln.",
     "history": "Gista ist eine Plattform für Kundensupport und Engagement, die WhatsApp und andere Messaging-Kanäle für E-Commerce-Unternehmen integriert; sie bietet einen gemeinsamen Posteingang und Automatisierung für die Kundenkommunikation.",
     "summary_abuse": "Kunden-Messaging-Plattform mit üblicher Datenverarbeitung. Keine auffälligen Dark Patterns. Richtet sich an E-Commerce-Händler."
   },
@@ -451,7 +451,7 @@
   },
   "Gladly": {
     "description": "Gladly ist eine Plattform für Kundenservice.",
-    "history": "Gladly wurde 2014 in San Francisco von Michael Wolfe, Joseph Ansanelli und Dirk Kessler gegründet. Das Unternehmen entwickelte eine AI-gestützte Kundenservice-Plattform mit Fokus auf menschenzentrierten Support, bei dem Kunden als Personen und nicht als Ticketnummern behandelt werden. Gladly nahm in sechs Finanzierungsrunden über 208 Millionen US-Dollar auf, darunter 2022 eine Runde über 55 Millionen US-Dollar unter Führung von Riverwood Capital und 2024 eine Runde über 40 Millionen US-Dollar unter Führung von AXA Venture Partners. Der Umsatz erreichte 2024 47,7 Millionen US-Dollar.",
+    "history": "Gladly wurde 2014 in San Francisco von Michael Wolfe, Joseph Ansanelli und Dirk Kessler gegründet. Das Unternehmen entwickelte eine KI-gestützte Kundenservice-Plattform mit Fokus auf menschenzentrierten Support, bei dem Kunden als Personen und nicht als Ticketnummern behandelt werden. Gladly nahm in sechs Finanzierungsrunden über 208 Millionen US-Dollar auf, darunter 2022 eine Runde über 55 Millionen US-Dollar unter Führung von Riverwood Capital und 2024 eine Runde über 40 Millionen US-Dollar unter Führung von AXA Venture Partners. Der Umsatz erreichte 2024 47,7 Millionen US-Dollar.",
     "summary_abuse": "Gladly ist eine Enterprise-Plattform für Kundenservice, die von Retail- und Consumer-Marken genutzt wird. Durch den B2B-Fokus und das reine Enterprise-Preismodell ist die Exposition gegenüber endnutzernahem Missbrauch oder Betrug minimal. Dokumentierte Missbrauchsvorfälle im Zusammenhang mit der Plattform sind nicht bekannt."
   },
   "Glami": {
@@ -489,14 +489,14 @@
     "summary_abuse": "Gleam ist eine Plattform für virales Marketing und Giveaways. Solche Plattformen werden häufig für gefälschte Giveaway-Betrügereien oder zur künstlichen Aufblähung von Social-Media-Kennzahlen missbraucht. Gleam verlangt Social Actions wie Folgen und Teilen als Wettbewerbseinträge, was zur Erzeugung falschen Engagements genutzt werden kann. Die Plattform hat eine AUP, die Durchsetzungshistorie ist aber unklar. Gefälschte oder irreführende Giveaways sind ein bekannter Missbrauchsvektor dieser Tool-Kategorie."
   },
   "Gleap": {
-    "description": "Gleap ist eine All-in-one-Plattform für Kundenfeedback mit Funktionen wie In-App-Bug-Reporting, Live-Chat, AI-Support-Bots, Produkt-Roadmaps, Kundenumfragen und Marketingautomatisierung zur Verbesserung von Kundenservice und Produktentwicklung.",
+    "description": "Gleap ist eine All-in-one-Plattform für Kundenfeedback mit Funktionen wie In-App-Bug-Reporting, Live-Chat, KI-Support-Bots, Produkt-Roadmaps, Kundenumfragen und Marketingautomatisierung zur Verbesserung von Kundenservice und Produktentwicklung.",
     "history": "Gleap wurde 2020 in Dornbirn, Österreich, als All-in-one-Plattform für Kundenfeedback und Bug-Reporting gegründet. Seitdem sind keine nennenswerten Eigentümerwechsel bekannt.",
-    "summary_abuse": "Gleap ist eine SaaS für Kundenfeedback und Bug-Reporting ohne nennenswertes Missbrauchssignal; sie bedient Softwareteams und bietet kein öffentliches Content-Hosting oder anonyme Registrierungen."
+    "summary_abuse": "Gleap ist ein SaaS-Dienst für Kundenfeedback und Bug-Reporting ohne nennenswertes Missbrauchssignal; er bedient Softwareteams und bietet kein öffentliches Content-Hosting oder anonyme Registrierungen."
   },
   "Gleen": {
-    "description": "Gleen ist ein generativer AI-Chatbot, der Kunden vertrauenswürdige Antworten liefert, Aktionen automatisiert und einheitliches Wissen integriert.",
-    "history": "Gleen ist eine AI-gestützte Chatbot-Plattform für Kundensupport, gegründet um 2022 in den USA. Die Gründer sind ehemalige Nutanix-Mitarbeiter.",
-    "summary_abuse": "Gleen ist eine B2B-SaaS für AI-Chatbots ohne nennenswertes Missbrauchssignal. Theoretisches Risiko durch Prompt Injection, aber keine öffentlichen Vorfälle."
+    "description": "Gleen ist ein generativer KI-Chatbot, der Kunden vertrauenswürdige Antworten liefert, Aktionen automatisiert und einheitliches Wissen integriert.",
+    "history": "Gleen ist eine KI-gestützte Chatbot-Plattform für Kundensupport, gegründet um 2022 in den USA. Die Gründer sind ehemalige Nutanix-Mitarbeiter.",
+    "summary_abuse": "Gleen ist ein B2B-SaaS-Dienst für KI-Chatbots ohne nennenswertes Missbrauchssignal. Theoretisches Risiko durch Prompt Injection, aber keine öffentlichen Vorfälle."
   },
   "Glia": {
     "description": "Glia ist ein Chat- und Digital-Assistant-System, das in verschiedenen Branchen eingesetzt wird.",
@@ -556,12 +556,12 @@
   "GlobRes": {
     "description": "GlobRes ist eine Hospitality-Management-Lösung, die Betrieb, Reservierungen und Kundenservice für Hotels und andere Beherbergungsanbieter vereinfacht.",
     "history": "GlobRes ist ein globales Hotelreservierungssystem, gegründet um 2000, das zentrale Reservierungssoftware für unabhängige Hotels bereitstellt.",
-    "summary_abuse": "GlobRes ist eine SaaS für Hotelreservierungen ohne dokumentiertes Missbrauchssignal; sie arbeitet im B2B-Hospitality-Kontext."
+    "summary_abuse": "GlobRes ist ein SaaS-Dienst für Hotelreservierungen ohne dokumentiertes Missbrauchssignal; er arbeitet im B2B-Hospitality-Kontext."
   },
   "Glofox": {
-    "description": "Glofox ist eine Fitness-Management-Plattform, die Fitnessstudios und Studios bei Mitgliedschaften, Kursplanung und weiteren Geschäftsabläufen unterstützt.",
-    "history": "Glofox ist eine Verwaltungssoftware für Fitnessstudios und Fitnessstudios, gegründet 2014 in Dublin, Irland. Das Unternehmen nahm Series-B-Finanzierung auf und wurde 2022 von ABC Fitness Solutions übernommen.",
-    "summary_abuse": "Glofox ist eine SaaS für Fitnessstudio-Management ohne nennenswertes Missbrauchssignal; sie arbeitet im B2B-Kontext der Fitnessbranche."
+    "description": "Glofox ist eine Fitness-Management-Plattform, die Fitnessstudios und Boutique-Studios bei Mitgliedschaften, Kursplanung und weiteren Geschäftsabläufen unterstützt.",
+    "history": "Glofox ist eine Verwaltungssoftware für Fitnessstudios und Boutique-Studios, gegründet 2014 in Dublin, Irland. Das Unternehmen nahm Series-B-Finanzierung auf und wurde 2022 von ABC Fitness Solutions übernommen.",
+    "summary_abuse": "Glofox ist ein SaaS-Dienst für Fitnessstudio-Management ohne nennenswertes Missbrauchssignal; er arbeitet im B2B-Kontext der Fitnessbranche."
   },
   "Gloo": {
     "description": "Gloo ist eine Plattform, die Kirchen beim Aufbau einer stärker vernetzten Gemeindearbeit unterstützt.",
@@ -619,7 +619,7 @@
     "summary_abuse": "Go Instore ist eine B2B-Plattform für Live-Video-Commerce ohne nennenswertes Missbrauchssignal; sie verbindet Online-Kunden per Live-Video mit Retail-Mitarbeitenden und bietet kein anonymes Content-Hosting."
   },
   "GoAffPro": {
-    "description": "Goaffpro ist eine Affiliate-Marketing-Lösung für E-Commerce-Shops.",
+    "description": "GoAffPro ist eine Affiliate-Marketing-Lösung für E-Commerce-Shops.",
     "history": "GoAffPro ist eine Affiliate-Marketing-Plattform für E-Commerce-Shops mit Integrationen für Shopify, WooCommerce und BigCommerce; sie wurde um 2017 gegründet und bietet sowohl eine kostenlose Stufe als auch Premium-Pläne für kleine Unternehmen. Händler können gebrandete Affiliate-Portale einrichten, in denen sich Kunden und Influencer registrieren, Empfehlungslinks erzeugen und Provisionen auf Verkäufe verdienen. Die Plattform ist vor allem im Shopify-App-Ökosystem beliebt.",
     "summary_abuse": "GoAffPro ist eine Affiliate-Marketing-Plattform mit moderatem Missbrauchspotenzial. Affiliate-Programme sind allgemein anfällig für Affiliate-Betrug wie gefälschte Klicks, Cookie Stuffing oder Selbstempfehlungen, und kleinere Plattformen wie GoAffPro haben im Vergleich zu grossen Enterprise-Lösungen begrenzte automatische Betrugserkennung. Grosse dokumentierte Missbrauchsvorfälle speziell zu GoAffPro wurden öffentlich nicht gemeldet."
   },
@@ -663,8 +663,8 @@
     "summary_abuse": "GoCache ist ein CDN- und WAF-Infrastrukturanbieter mit Schwerpunkt auf dem brasilianischen Markt. CDN-Dienste können zum Zwischenspeichern und Ausliefern schädlicher Inhalte genutzt werden, doch GoCaches WAF-Positionierung und aktiver DDoS-Schutz sprechen für eine sicherheitsbewusste Haltung. Spezifische öffentliche Missbrauchsvorfälle sind für diesen Anbieter nicht dokumentiert."
   },
   "GoCertify": {
-    "description": "GoCertify ist eine conversion-orientierte und kosteneffiziente Möglichkeit, Studierende, Schlüsselarbeitskräfte, Unter-26-Jährige, Über-60-Jährige, Militärangehörige und weitere Gruppen für exklusive Rabatte zu verifizieren.",
-    "history": "GoCertify ist eine bootstrapped Verifizierungsplattform aus dem Vereinigten Königreich, gegründet von Jonny Matthews; sie prüft die Berechtigung für Studierenden-, Key-Worker-, Militär- und altersbasierte Rabatte bei Händlern und ist ohne externe Investitionen auf über 350 Retail-Partner gewachsen.",
+    "description": "GoCertify ist eine conversion-orientierte und kosteneffiziente Möglichkeit, Studierende, systemrelevante Arbeitskräfte, Unter-26-Jährige, Über-60-Jährige, Militärangehörige und weitere Gruppen für exklusive Rabatte zu verifizieren.",
+    "history": "GoCertify ist eine eigenfinanzierte Verifizierungsplattform aus dem Vereinigten Königreich, gegründet von Jonny Matthews; sie prüft die Berechtigung für Studierenden-, Key-Worker-, Militär- und altersbasierte Rabatte bei Händlern und ist ohne externe Investitionen auf über 350 Retail-Partner gewachsen.",
     "summary_abuse": "GoCertify ist eine Plattform zur Berechtigungsverifizierung für Retail-Rabatte. Das Verifizierungs-Gateway könnte potenziell auf Umgehungen getestet werden, doch das Unternehmen bedient legitime Händler und sein Hauptanwendungsfall ist die Verhinderung betrügerischer Rabattansprüche, nicht deren Ermöglichung."
   },
   "GoDaddy": {
@@ -776,7 +776,7 @@
   },
   "Goodbits": {
     "description": "Goodbits ist eine Software zum Erstellen von E-Mail-Newslettern, die beim Sammeln und Kuratieren von Inhalten für den Newsletter-Versand hilft.",
-    "history": "Goodbits wurde 2014 als Tool zum Erstellen, Kuratieren und Versenden von Content-Newslettern gegründet. Das Produkt ist bootstrapped, auffällige Eigentümerwechsel sind nicht bekannt.",
+    "history": "Goodbits wurde 2014 als Tool zum Erstellen, Kuratieren und Versenden von Content-Newslettern gegründet. Das Produkt ist eigenfinanziert, auffällige Eigentümerwechsel sind nicht bekannt.",
     "summary_abuse": "Goodbits ist ein kleines Tool zur Newsletter-Erstellung ohne auffälliges Missbrauchssignal. Es wird von legitimen Publishern zum Kuratieren von E-Mail-Newslettern genutzt und bietet kein beliebiges Content-Hosting."
   },
   "GoodEshop": {
@@ -945,7 +945,7 @@
   },
   "Google Workspace": {
     "description": "Google Workspace, früher G Suite, ist eine Sammlung von Cloud-Computing-, Produktivitäts- und Kollaborationstools.",
-    "history": "Google veröffentlichte Google Apps 2006 als kostenlose Produktivitätssuite und führte 2007 eine kostenpflichtige Stufe ein. 2016 wurde das Angebot in G Suite umbenannt, um es als Office-Produktivitätsplattform zu positionieren. 2020 folgte die Umbenennung in Google Workspace, als Signal für eine digitale Zentrale für Teams. Im Januar 2025 erhöhte Google die Preise je nach Plan um 17 bis 22 Prozent und bündelte Gemini-AI-Funktionen in alle Business- und Enterprise-Stufen.",
+    "history": "Google veröffentlichte Google Apps 2006 als kostenlose Produktivitätssuite und führte 2007 eine kostenpflichtige Stufe ein. 2016 wurde das Angebot in G Suite umbenannt, um es als Office-Produktivitätsplattform zu positionieren. 2020 folgte die Umbenennung in Google Workspace, als Signal für eine digitale Zentrale für Teams. Im Januar 2025 erhöhte Google die Preise je nach Plan um 17 bis 22 Prozent und bündelte Gemini-KI-Funktionen in alle Business- und Enterprise-Stufen.",
     "summary_abuse": "Google Workspace ist breit vertrauenswürdige Unternehmenssoftware. Die Gmail-Komponente wird gelegentlich genutzt, um Phishing oder Spam aus kompromittierten oder Testkonten zu versenden, doch Google setzt ausgefeilte automatisierte Missbrauchserkennung und schnelle Takedown-Prozesse ein. Wegen der enormen Plattformgrösse kommt etwas Missbrauch vor, das Verhältnis von Missbrauch zu legitimer Nutzung ist jedoch sehr niedrig, und Googles Anti-Abuse-Reaktion gehört zu den besten der Branche."
   },
   "Goope": {
@@ -1010,7 +1010,7 @@
   },
   "Govalo": {
     "description": "Govalo ist ein Software-Startup, das eine Shopify-App entwickelt.",
-    "history": "Govalo wurde 2021 von Kelly Vaughn und Rhian Beutler als Shopify-App für digitale Geschenkkarten und Store Credit für E-Commerce-Händler gegründet. Das Unternehmen ist bootstrapped und arbeitet unabhängig im Shopify-App-Ökosystem.",
+    "history": "Govalo wurde 2021 von Kelly Vaughn und Rhian Beutler als Shopify-App für digitale Geschenkkarten und Store Credit für E-Commerce-Händler gegründet. Das Unternehmen ist eigenfinanziert und arbeitet unabhängig im Shopify-App-Ökosystem.",
     "summary_abuse": "Govalo ist eine Shopify-App für Geschenkkarten und Store Credit für E-Commerce-Händler. Geschenkkartenplattformen können gelegentlich für Geldwäsche oder Betrug missbraucht werden, etwa durch den Kauf von Geschenkkarten mit gestohlenen Zahlungsmitteln. Govalo arbeitet jedoch innerhalb des Shopify-Ökosystems, das Zahlungsprüfung durchsetzt. Für diesen Anbieter sind keine spezifischen Vorfälle oder Sicherheitsberichte dokumentiert."
   },
   "govCMS": {
@@ -1024,7 +1024,7 @@
   },
   "GoZen Forms": {
     "description": "GoZen Forms ist ein KI-gestützter No-Code-Formularbaukasten, der Formularerstellung automatisiert und Registrierungsdaten, Zahlungen sowie E-Signaturen sammelt.",
-    "history": "GoZen Forms ist ein KI-gestützter Online-Formularbaukasten von GoZen, einem bootstrapped SaaS-Startup mit Sitz in Indien. Er ist Teil der breiteren GoZen-Suite von Marketingtools, zu der GoZen Growth für E-Mail-Automation und GoZen Notify für Push-Benachrichtigungen gehören. Die Plattform wurde als Konkurrenz zu Tools wie Typeform und SurveyMonkey entwickelt und richtet sich mit Freemium-Modell und KI-gestützter Fragenerstellung an kleine Unternehmen und Agenturen.",
+    "history": "GoZen Forms ist ein KI-gestützter Online-Formularbaukasten von GoZen, einem eigenfinanzierten SaaS-Startup mit Sitz in Indien. Er ist Teil der breiteren GoZen-Suite von Marketingtools, zu der GoZen Growth für E-Mail-Automation und GoZen Notify für Push-Benachrichtigungen gehören. Die Plattform wurde als Konkurrenz zu Tools wie Typeform und SurveyMonkey entwickelt und richtet sich mit Freemium-Modell und KI-gestützter Fragenerstellung an kleine Unternehmen und Agenturen.",
     "summary_abuse": "GoZen Forms hat nur gering dokumentierte Missbrauchsrisiken. Als Formularbaukasten könnte es theoretisch für Phishing-Formulare genutzt werden, ein Risiko, das alle Formulartools teilen. Der Anbieter ist ein kleines indisches SaaS-Startup mit begrenzt dokumentierter AUP-Durchsetzungskapazität. Es sind keine konkreten Missbrauchsvorfälle öffentlich gemeldet."
   },
   "GPT AI Power": {
@@ -1096,7 +1096,7 @@
     "summary_abuse": "GraphQL ist ein API-Spezifikationsstandard ohne inhärenten Missbrauchsvektor. Unsicher konfigurierte GraphQL APIs werden jedoch häufig angegriffen, weil offengelegte Introspection und Batch-Missbrauch Datenexfiltration ermöglichen können."
   },
   "Graphy": {
-    "description": "Graphy ist eine Plattform, mit der sich Kurse, Communities und digitale Produkte mithilfe von AI-Tools erstellen und skalieren lassen.",
+    "description": "Graphy ist eine Plattform, mit der sich Kurse, Communities und digitale Produkte mithilfe von KI-Tools erstellen und skalieren lassen.",
     "history": "Graphy ist eine No-Code-Plattform zur Monetarisierung von Inhalten, die um 2019 gegründet wurde; sie ermöglicht Creators, Kurse, Mitgliedschaften und digitale Produkte zu verkaufen, sammelte Finanzierung ein und richtete sich an die Creator Economy.",
     "summary_abuse": "Graphy ist eine Creator-Economy-Plattform ohne auffällige Missbrauchshistorie. Übliche Zahlungs- und Inhaltsrichtlinien gelten."
   },
@@ -1205,7 +1205,7 @@
   },
   "Groobee": {
     "description": "Groobee ist eine Lösung für personalisiertes E-Commerce-Marketing mit Funktionen zur Kundenpersonalisierung.",
-    "history": "Groobee ist eine südkoreanische Plattform für E-Commerce-Personalisierung und Produktempfehlungen, gegründet um 2014; sie richtet sich an Onlinehändler mit AI-gestützten Empfehlungsmaschinen und Verhaltensanalysen.",
+    "history": "Groobee ist eine südkoreanische Plattform für E-Commerce-Personalisierung und Produktempfehlungen, gegründet um 2014; sie richtet sich an Onlinehändler mit KI-gestützten Empfehlungsmaschinen und Verhaltensanalysen.",
     "summary_abuse": "Groobee ist eine Empfehlungsmaschine ohne bekannte Missbrauchshistorie; sie sammelt Verhaltensdaten zur Personalisierung, was für E-Commerce-Analytics-Tools üblich ist."
   },
   "Groove": {
@@ -1230,7 +1230,7 @@
   },
   "GroupBy": {
     "description": "GroupBy ist eine Suchmaschine für E-Commerce-Websites.",
-    "history": "GroupBy Inc. ist eine kanadische Plattform für E-Commerce-Suche, Merchandising und Personalisierung, gegründet 2013 in Toronto. Das Unternehmen sammelte VC-Finanzierung ein, bedient Enterprise-Händler und integriert sich mit den Retail-AI-Funktionen von Google Cloud. Es blieb unabhängig.",
+    "history": "GroupBy Inc. ist eine kanadische Plattform für E-Commerce-Suche, Merchandising und Personalisierung, gegründet 2013 in Toronto. Das Unternehmen sammelte VC-Finanzierung ein, bedient Enterprise-Händler und integriert sich mit den Retail-KI-Funktionen von Google Cloud. Es blieb unabhängig.",
     "summary_abuse": "GroupBy ist eine Enterprise-Plattform für E-Commerce-Suche ohne bekannte Missbrauchshistorie; sie arbeitet im Hintergrund von Retail-Websites und hat keine direkt konsumentenorientierte Angriffsfläche."
   },
   "Growave": {
@@ -1259,7 +1259,7 @@
   },
   "GrowSurf": {
     "description": "GrowSurf ist eine Referral-Marketing-Software, die virales Wachstum für Websites automatisieren soll.",
-    "history": "GrowSurf ist ein entwicklerorientiertes SaaS für Empfehlungsprogramme, gegründet 2019. Es richtet sich an B2B-SaaS-Unternehmen mit technischen Integrationen über API und konkurriert mit Viral Loops und ReferralHero. Das Unternehmen ist gebootstrappt oder nur leicht finanziert und blieb unabhängig.",
+    "history": "GrowSurf ist ein entwicklerorientierter SaaS-Dienst für Empfehlungsprogramme, gegründet 2019. Er richtet sich an B2B-SaaS-Unternehmen mit technischen Integrationen über API und konkurriert mit Viral Loops und ReferralHero. Das Unternehmen ist eigenfinanziert oder nur leicht finanziert und blieb unabhängig.",
     "summary_abuse": "GrowSurf betreibt Empfehlungsprogramme für B2B-SaaS, die für Referral-Betrug ausgenutzt werden können. Konkrete Missbrauchsvorfälle sind nicht dokumentiert. In jedem Referral-System sind übliche Anti-Fraud-Massnahmen zu erwarten."
   },
   "GrowthBook": {
@@ -1335,7 +1335,7 @@
   "Gumroad": {
     "description": "Gumroad ist eine Self-Publishing- und Digital-Marktplatz-Plattform zum Verkauf digitaler Dienste und Produkte wie Bücher, Mitgliedschaften, Kurse und weitere digitale Angebote.",
     "history": "Gumroad wurde 2011 von Sahil Lavingia, zuvor bei Pinterest, gegründet. Das Unternehmen sammelte VC-Finanzierung ein und baute eine Plattform, auf der Creators digitale Produkte verkaufen können. Gumroad entliess 2015 nach einer gescheiterten Series-B-Finanzierung bekanntlich den Grossteil des Teams und wurde zu einem extrem schlanken Unternehmen. Sahil schrieb später öffentlich über diese Erfahrung. Das Unternehmen erholte sich und wuchs weiter, später mit einem Open-Source-Ansatz für Teile der Codebasis.",
-    "summary_abuse": "Gumroad ermöglicht es praktisch jedem, digitale Produkte mit minimaler Verifikation zu verkaufen. Die Plattform wurde zum Verkauf piratierter Inhalte, betrügerischer Produkte und minderwertiger AI-generierter Materialien genutzt. Die kostenlose Stufe und einfache Registrierung senken Hürden für böswillige Akteure. Gumroad untersucht Betrugsmeldungen und entfernt regelwidrige Angebote, doch wegen der Nutzungsskala bleibt ein Teil des Missbrauchs bestehen. Zahlungsbetrug und Refund-Missbrauch sind auch aus Verkäufersicht dokumentierte Probleme."
+    "summary_abuse": "Gumroad ermöglicht es praktisch jedem, digitale Produkte mit minimaler Verifikation zu verkaufen. Die Plattform wurde zum Verkauf piratierter Inhalte, betrügerischer Produkte und minderwertiger KI-generierter Materialien genutzt. Die kostenlose Stufe und einfache Registrierung senken Hürden für böswillige Akteure. Gumroad untersucht Betrugsmeldungen und entfernt regelwidrige Angebote, doch wegen der Nutzungsskala bleibt ein Teil des Missbrauchs bestehen. Zahlungsbetrug und Refund-Missbrauch sind auch aus Verkäufersicht dokumentierte Probleme."
   },
   "Gumstack": {
     "description": "Gumstack bietet eine Live-Video-Shopping-Lösung für E-Commerce.",

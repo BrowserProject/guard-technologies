@@ -54,8 +54,8 @@
     "summary_abuse": "EaselJS ist eine sichere MIT-lizenzierte Open-Source-Bibliothek ohne bekannte Missbrauchsvorfälle. Entwickler nutzen sie für canvasbasierte Web-Erlebnisse; sie hat keine verbraucherorientierte Oberfläche, die Missbrauch ermöglichen würde."
   },
   "EasiChat": {
-    "description": "Easichat ist eine Online-Kundendienstplattform, die KI nutzt, um Kundeninteraktionen zu automatisieren und zu verwalten.",
-    "history": "EasiChat ist ein britisches SaaS-Unternehmen für KI-gestützte Live-Chat-Software, die KI-Chatbots mit menschlichen Agenten kombiniert. Zielgruppen sind KMU, Callcenter und Kundendienstbüros im Vereinigten Königreich. Die Plattform erlaubt einem Agenten, mit KI-Vorschlägen bis zu zehn Gespräche gleichzeitig zu betreuen, während Menschen jederzeit eingreifen können; sie integriert Websites, Social Media und Messaging-Apps.",
+    "description": "Easichat ist eine Online-Kundendienstplattform, die AI nutzt, um Kundeninteraktionen zu automatisieren und zu verwalten.",
+    "history": "EasiChat ist ein britisches SaaS-Unternehmen für AI-gestützte Live-Chat-Software, die AI-Chatbots mit menschlichen Agenten kombiniert. Zielgruppen sind KMU, Callcenter und Kundendienstbüros im Vereinigten Königreich. Die Plattform erlaubt einem Agenten, mit AI-Vorschlägen bis zu zehn Gespräche gleichzeitig zu betreuen, während Menschen jederzeit eingreifen können; sie integriert Websites, Social Media und Messaging-Apps.",
     "summary_abuse": "EasiChat ist eine legitime britische Live-Chat-Plattform ohne bekannte Missbrauchsvorfälle. Das Unternehmen ist GDPR-konform und richtet sich an britische Unternehmen. Öffentlich sind keine Sicherheitsvorfälle oder betrügerischen Nutzungen bekannt."
   },
   "Easol": {
@@ -140,7 +140,7 @@
   },
   "Easysize": {
     "description": "Easysize ist ein System für Grössenempfehlungen bei Kleidung, das Passform verbessert und Grössenfehler reduziert.",
-    "history": "Easysize ist eine KI-gestützte Plattform für Grössenempfehlungen bei Kleidung, die Online-Retouren in der Modebranche reduzieren soll, indem Käufer vor dem Kauf die passende Grösse finden. Das Tool integriert Shopify und andere E-Commerce-Plattformen und nutzt fragebogenbasierte Grössenlogik statt Körpermessungen.",
+    "history": "Easysize ist eine AI-gestützte Plattform für Grössenempfehlungen bei Kleidung, die Online-Retouren in der Modebranche reduzieren soll, indem Käufer vor dem Kauf die passende Grösse finden. Das Tool integriert Shopify und andere E-Commerce-Plattformen und nutzt fragebogenbasierte Grössenlogik statt Körpermessungen.",
     "summary_abuse": "Easysize ist ein Tool für Grössenempfehlungen in der Modebranche ohne auffälliges Missbrauchssignal. Es erfasst Grössenpräferenzen, hostet aber keine Nutzerinhalte und bietet keine Dienste, die üblicherweise für Betrug ausgenutzt werden."
   },
   "EasyStore": {
@@ -264,8 +264,8 @@
     "summary_abuse": "Ecommercen ist eine E-Commerce-Plattform ohne dokumentiertes Missbrauchssignal."
   },
   "EcomScout": {
-    "description": "EcomScout ist eine Plattform mit KI-gestützten Werkzeugen für Analytics, Attribution, Merchandising und Prognosen.",
-    "history": "EcomScout ist eine KI-gestützte Plattform für Shopify-Wettbewerbsanalyse und Store-Analytics; sie bietet Werkzeuge zur Analyse konkurrierender Shopify-Shops, zum Tracking von Umsatzschätzungen, zum Entdecken trendender Produkte und zur Analyse von App-Stacks. Die Browser-Erweiterung ist kostenlos im Chrome Web Store verfügbar.",
+    "description": "EcomScout ist eine Plattform mit AI-gestützten Werkzeugen für Analytics, Attribution, Merchandising und Prognosen.",
+    "history": "EcomScout ist eine AI-gestützte Plattform für Shopify-Wettbewerbsanalyse und Store-Analytics; sie bietet Werkzeuge zur Analyse konkurrierender Shopify-Shops, zum Tracking von Umsatzschätzungen, zum Entdecken trendender Produkte und zur Analyse von App-Stacks. Die Browser-Erweiterung ist kostenlos im Chrome Web Store verfügbar.",
     "summary_abuse": "EcomScout ist ein Analyse- und Wettbewerbsrecherchetool für Shopify. Die Plattform sammelt öffentlich verfügbare Shop-Daten. Auffällige Missbrauchsmuster sind nicht dokumentiert."
   },
   "Ecomtrack": {
@@ -274,9 +274,9 @@
     "summary_abuse": "Ecomtrack ist eine E-Commerce-Analytics-SaaS ohne dokumentiertes Missbrauchssignal."
   },
   "EcomX": {
-    "description": "EcomX ist eine Plattform, die mit KI automatisch SEO-optimierte Inhalte für Produkte, Kollektionen und Blogs erstellt.",
-    "history": "EcomX ist eine KI-gestützte SaaS für Content-Erstellung im E-Commerce, die SEO-Produkt- und Blog-Inhalte automatisiert; sie entstand um 2022 im Zuge der KI-Marketing-Automation-Welle.",
-    "summary_abuse": "EcomX ist ein KI-gestütztes Content-Tool für E-Commerce ohne dokumentiertes Missbrauchssignal. Automatisierte Content-Erstellung kann theoretisch zur massenhaften Produktion von Spam-Inhalten genutzt werden, konkrete Vorfälle sind jedoch nicht bekannt."
+    "description": "EcomX ist eine Plattform, die mit AI automatisch SEO-optimierte Inhalte für Produkte, Kollektionen und Blogs erstellt.",
+    "history": "EcomX ist eine AI-gestützte SaaS für Content-Erstellung im E-Commerce, die SEO-Produkt- und Blog-Inhalte automatisiert; sie entstand um 2022 im Zuge der AI-Marketing-Automation-Welle.",
+    "summary_abuse": "EcomX ist ein AI-gestütztes Content-Tool für E-Commerce ohne dokumentiertes Missbrauchssignal. Automatisierte Content-Erstellung kann theoretisch zur massenhaften Produktion von Spam-Inhalten genutzt werden, konkrete Vorfälle sind jedoch nicht bekannt."
   },
   "Ecomz": {
     "description": "Ecomz ist eine Plattform zum Erstellen, Verwalten und Ausbauen von Online-Unternehmen mit integrierten E-Commerce-Werkzeugen.",
@@ -350,7 +350,7 @@
   },
   "Edmingle": {
     "description": "Edmingle ist ein Kurserstellungssystem, mit dem Organisationen Online-Schulungsprogramme gestalten, verwalten und ausliefern können.",
-    "history": "Edmingle ist eine indische SaaS-LMS-Plattform aus Bengaluru, die sich an Coaching-Zentren, Dozenten und Trainingsunternehmen richtet. Die Plattform bietet KI-gestützte Analytics, Mehrfilialverwaltung, Custom Domains und Mobile-App-Publishing für Online-Akademien.",
+    "history": "Edmingle ist eine indische SaaS-LMS-Plattform aus Bengaluru, die sich an Coaching-Zentren, Dozenten und Trainingsunternehmen richtet. Die Plattform bietet AI-gestützte Analytics, Mehrfilialverwaltung, Custom Domains und Mobile-App-Publishing für Online-Akademien.",
     "summary_abuse": "Edmingle ist eine legitime EdTech-Plattform ohne dokumentiertes Missbrauchsmuster. Die Plattform bedient Trainingsunternehmen mit kontrolliertem Nutzerzugang."
   },
   "eDokan": {
@@ -384,7 +384,7 @@
   },
   "Efilli": {
     "description": "Efilli ist ein Tool zur Verwaltung von Cookies auf Websites und unterstützt Datenschutzkontrollen durch GDPR-Compliance.",
-    "history": "Efilli ist eine E-Commerce-Personalisierungsplattform mit Verhaltensanalysen, Produktempfehlungen und Conversion-Optimierung für Onlinehändler. Die Plattform richtet sich an E-Commerce-Unternehmen mit KI-gestützten Personalisierungsfunktionen.",
+    "history": "Efilli ist eine E-Commerce-Personalisierungsplattform mit Verhaltensanalysen, Produktempfehlungen und Conversion-Optimierung für Onlinehändler. Die Plattform richtet sich an E-Commerce-Unternehmen mit AI-gestützten Personalisierungsfunktionen.",
     "summary_abuse": "Efilli ist ein E-Commerce-Personalisierungstool. Als Plattform für Verhaltenstracking und Personalisierung sammelt es Besucherdaten für Targeting, was übliche Datenschutzrisiken mit sich bringt. Konkrete Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "eGain Conversation": {
@@ -399,7 +399,7 @@
   },
   "Eggplant": {
     "description": "Eggplant ist ein Unternehmen für Softwaretests und Monitoring.",
-    "history": "Eggplant wurde 2002 als TestPlant Ltd im Vereinigten Königreich gegründet und entwickelte das bildbasierte automatisierte Testtool eggPlant Functional. Keysight Technologies übernahm das Unternehmen 2020 für rund 330 Millionen USD, danach wurde das Produkt in Keysight Eggplant Test umbenannt. Es nutzt KI-gestützte Testgenerierung mit scriptloser Modellierung.",
+    "history": "Eggplant wurde 2002 als TestPlant Ltd im Vereinigten Königreich gegründet und entwickelte das bildbasierte automatisierte Testtool eggPlant Functional. Keysight Technologies übernahm das Unternehmen 2020 für rund 330 Millionen USD, danach wurde das Produkt in Keysight Eggplant Test umbenannt. Es nutzt AI-gestützte Testgenerierung mit scriptloser Modellierung.",
     "summary_abuse": "Eggplant ist ein Enterprise-Tool für Softwaretests ohne Oberfläche für Endnutzer. Ein Missbrauchssignal ist nicht dokumentiert."
   },
   "EKM": {
@@ -472,7 +472,7 @@
   },
   "Elementor": {
     "description": "Elementor ist eine Website-Builder-Plattform für WordPress-Profis.",
-    "history": "Elementor wurde 2016 von Yoni Luksenberg und Ariel Klikstein in Israel gegründet. Das Plugin wurde rasch zum beliebtesten WordPress-Page-Builder und wuchs auf über 10 Millionen aktive Installationen. Das Unternehmen nahm erhebliche Venture-Finanzierung auf und expandierte in Hosting (Elementor Cloud), einen KI-Assistenten und ein vollständiges Website-Builder-Produkt. 2023 übernahm Elementor Strattic für statisches WordPress-Hosting.",
+    "history": "Elementor wurde 2016 von Yoni Luksenberg und Ariel Klikstein in Israel gegründet. Das Plugin wurde rasch zum beliebtesten WordPress-Page-Builder und wuchs auf über 10 Millionen aktive Installationen. Das Unternehmen nahm erhebliche Venture-Finanzierung auf und expandierte in Hosting (Elementor Cloud), einen AI-Assistenten und ein vollständiges Website-Builder-Produkt. 2023 übernahm Elementor Strattic für statisches WordPress-Hosting.",
     "summary_abuse": "Elementor ist der dominierende WordPress-Page-Builder und wird wegen der einfachen Erstellung überzeugender Fake-Seiten häufig in Phishing- und Betrugskampagnen genutzt. Sicherheitsforscher melden regelmässig Schwachstellen in Elementor-Plugins, die für Site-Hijacking ausgenutzt werden. Die Plattform treibt einen erheblichen Anteil betrügerischer WordPress-Sites an, auch wenn der Anbieter ein Responsible-Disclosure-Programm betreibt und Security Advisories veröffentlicht."
   },
   "Elementor Addon Elements": {
@@ -522,7 +522,7 @@
   },
   "Elfsight": {
     "description": "Elfsight ist eine All-in-One-Plattform mit über 70 anpassbaren Widgets für Websites.",
-    "history": "Elfsight wurde 2012 in Jerewan, Armenien, als eigenfinanziertes SaaS-Unternehmen gegründet. Es bietet no-code, einbettbare Website-Widgets für 2,5 Millionen Website-Betreiber weltweit. Das Unternehmen wuchs vollständig ohne externe Finanzierung auf 3,9 Millionen USD Jahresumsatz mit einem Team von 35 Mitarbeitenden. Die Widgets umfassen Social-Media-Feeds, Formulare, Bewertungen, Chat-Buttons und über 80 weitere Typen. Das Unternehmen benannte sich teilweise neu, um KI-gestützte Widget-Funktionen einzubeziehen.",
+    "history": "Elfsight wurde 2012 in Jerewan, Armenien, als eigenfinanziertes SaaS-Unternehmen gegründet. Es bietet no-code, einbettbare Website-Widgets für 2,5 Millionen Website-Betreiber weltweit. Das Unternehmen wuchs vollständig ohne externe Finanzierung auf 3,9 Millionen USD Jahresumsatz mit einem Team von 35 Mitarbeitenden. Die Widgets umfassen Social-Media-Feeds, Formulare, Bewertungen, Chat-Buttons und über 80 weitere Typen. Das Unternehmen benannte sich teilweise neu, um AI-gestützte Widget-Funktionen einzubeziehen.",
     "summary_abuse": "Elfsight-Widgets sind JavaScript-Einbettungen von Drittanbietern, die von Elfsight-Servern laden und dadurch Zugriff auf Besucherdaten der Host-Websites haben. Das ist ein übliches Datenschutzthema bei widgetbasierten SaaS-Produkten. Es sind keine Sicherheitsvorfälle bekannt, aber das Embed-Modell schafft Abhängigkeiten bei Datenflüssen. Je nach Konfiguration können Widgets trackerähnliches Verhalten einführen."
   },
   "Elgg": {
@@ -536,9 +536,9 @@
     "summary_abuse": "Keine bekannte Missbrauchshistorie. Elina PMS bedient einen spezialisierten Hospitality-Markt mit üblicher SaaS-Datenverarbeitung für Gäste- und Buchungsinformationen. Die Plattform arbeitet im regulierten Hospitality-Sektor mit GDPR-relevanten personenbezogenen Gästedatenflüssen. Sicherheitsvorfälle oder bösartige Nutzungsmuster sind nicht dokumentiert."
   },
   "EliseAI": {
-    "description": "EliseAI ist eine KI-gestützte Conversational-Plattform für Geschäftsautomatisierung.",
-    "history": "EliseAI ist eine KI-gestützte Plattform für Automatisierung im Property Management, ursprünglich als Meet Elise als KI-Leasing-Assistentin für Mehrfamilienhäuser gestartet. Das Unternehmen nutzt Natural Language Processing, um Interessentenkommunikation, Besichtigungstermine und Bewohner-Workflows per Voice, Text und E-Mail in mehreren Sprachen zu automatisieren. EliseAI verarbeitet über 1,5 Millionen Kundeninteraktionen pro Jahr und ist in Healthcare-Vertikalen expandiert. Das Unternehmen ist venturefinanziert und hat seinen Hauptsitz in New York.",
-    "summary_abuse": "EliseAI arbeitet im Property Management und verarbeitet personenbezogene Daten von Mietinteressenten und Bewohnern, darunter Kontaktinformationen, Wohnanfragen und Terminplanung. Das Datenschutzrisiko ist angesichts des Umfangs persönlicher Kommunikation, die durch KI verarbeitet wird, moderat. Es sind keine Sicherheitsvorfälle bekannt, das KI-Assistentenmodell wirft aber Fragen zu Einwilligung und Aufbewahrung von Kommunikationsdaten auf."
+    "description": "EliseAI ist eine AI-gestützte Conversational-Plattform für Geschäftsautomatisierung.",
+    "history": "EliseAI ist eine AI-gestützte Plattform für Automatisierung im Property Management, ursprünglich als Meet Elise als AI-Leasing-Assistentin für Mehrfamilienhäuser gestartet. Das Unternehmen nutzt Natural Language Processing, um Interessentenkommunikation, Besichtigungstermine und Bewohner-Workflows per Voice, Text und E-Mail in mehreren Sprachen zu automatisieren. EliseAI verarbeitet über 1,5 Millionen Kundeninteraktionen pro Jahr und ist in Healthcare-Vertikalen expandiert. Das Unternehmen ist venturefinanziert und hat seinen Hauptsitz in New York.",
+    "summary_abuse": "EliseAI arbeitet im Property Management und verarbeitet personenbezogene Daten von Mietinteressenten und Bewohnern, darunter Kontaktinformationen, Wohnanfragen und Terminplanung. Das Datenschutzrisiko ist angesichts des Umfangs persönlicher Kommunikation, die durch AI verarbeitet wird, moderat. Es sind keine Sicherheitsvorfälle bekannt, das AI-Assistentenmodell wirft aber Fragen zu Einwilligung und Aufbewahrung von Kommunikationsdaten auf."
   },
   "Elixir": {
     "description": "Elixir ist eine dynamische, funktionale Sprache zum Erstellen skalierbarer und wartbarer Anwendungen.",
@@ -625,7 +625,7 @@
   },
   "Emarsys": {
     "description": "Emarsys ist eine cloudbasierte B2C-Marketing-Plattform.",
-    "history": "Emarsys wurde 2000 in Wien, Österreich, als eine der frühen KI-gestützten Marketing-Automation-Plattformen für B2C-Marken gegründet. Das Unternehmen entwickelte ausgefeilte Personalisierungs- und Omnichannel-Marketing-Funktionen für Retail- und E-Commerce-Unternehmen. SAP übernahm Emarsys im Oktober 2020 für eine nicht offengelegte Summe und integrierte es in das Customer-Experience-Portfolio von SAP. 2026 benannte SAP Emarsys in SAP Engagement Cloud um. Über 1'500 Marken weltweit nutzen die Plattform.",
+    "history": "Emarsys wurde 2000 in Wien, Österreich, als eine der frühen AI-gestützten Marketing-Automation-Plattformen für B2C-Marken gegründet. Das Unternehmen entwickelte ausgefeilte Personalisierungs- und Omnichannel-Marketing-Funktionen für Retail- und E-Commerce-Unternehmen. SAP übernahm Emarsys im Oktober 2020 für eine nicht offengelegte Summe und integrierte es in das Customer-Experience-Portfolio von SAP. 2026 benannte SAP Emarsys in SAP Engagement Cloud um. Über 1'500 Marken weltweit nutzen die Plattform.",
     "summary_abuse": "Emarsys, heute SAP Engagement Cloud, ist eine grosse Enterprise-Marketing-Automation-Plattform, die von bekannten Retail- und E-Commerce-Marken genutzt wird; sie verarbeitet grosse Mengen an Kundenverhaltensdaten für Personalisierung und Marketing. Als SAP-Tochter arbeitet sie unter strengen Compliance-Rahmen wie ISO 27001 und GDPR. Es ist keine Missbrauchshistorie bekannt, auch wenn die Plattform erhebliche personenbezogene Daten für Marketingzwecke verarbeitet."
   },
   "Ematic Solutions": {
@@ -665,7 +665,7 @@
   },
   "EmbedSocial": {
     "description": "EmbedSocial ist eine Plattform für Social-Media-Management.",
-    "history": "EmbedSocial wurde etwa 2015 gegründet und bietet eine KI-gestützte UGC-Plattform (User Generated Content) zum Aggregieren und Anzeigen von Social-Media-Feeds, Bewertungen und anderen Inhalten auf Websites. Die Plattform bedient über 300'000 Nutzer weltweit mit Funktionen für Social-Media-Aggregation, Widget-Erstellung und Social Commerce; sie integriert sich mit Instagram, Facebook, TikTok, YouTube und anderen grossen sozialen Netzwerken.",
+    "history": "EmbedSocial wurde etwa 2015 gegründet und bietet eine AI-gestützte UGC-Plattform (User Generated Content) zum Aggregieren und Anzeigen von Social-Media-Feeds, Bewertungen und anderen Inhalten auf Websites. Die Plattform bedient über 300'000 Nutzer weltweit mit Funktionen für Social-Media-Aggregation, Widget-Erstellung und Social Commerce; sie integriert sich mit Instagram, Facebook, TikTok, YouTube und anderen grossen sozialen Netzwerken.",
     "summary_abuse": "EmbedSocial aggregiert Social-Media-Inhalte und bettet sie über JavaScript-Widgets auf Drittwebsites ein. Der Dienst benötigt OAuth-Zugriff auf Social-Media-Konten der Nutzer, um Inhalte abzurufen, und die eingebetteten Widgets erfassen Besucherverhalten auf Host-Websites. Das Datenschutzrisiko ist wegen des Zugriffsmodells auf Social-Media-Daten moderat. Bösartige Nutzung ist nicht bekannt, das Datenmodell verdient aber genaue Prüfung."
   },
   "EmbedThis Appweb": {
@@ -683,9 +683,9 @@
     "summary_abuse": "emBlue ist eine Plattform für Marketing-Automation und E-Mail. Wie alle Bulk-E-Mail-Tools birgt sie ein gewisses Risiko, für Spam genutzt zu werden, konkrete grössere Missbrauchsvorfälle sind jedoch nicht dokumentiert."
   },
   "Emergent": {
-    "description": "Emergent ist eine KI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webapps aus natürlichsprachlichen Prompts bauen können, statt Code zu schreiben.",
-    "history": "Emergent ist eine KI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webanwendungen aus natürlichsprachlichen Prompts erstellen können, ohne Code zu schreiben. Die Plattform steht für eine neue Welle KI-unterstützter App-Builder, die nach den Fortschritten grosser Sprachmodelle um 2023 bis 2024 entstanden; sie wird als CMS-nahe Plattform eingeordnet, die aus einfachen englischen Beschreibungen deploybare Webanwendungen generiert.",
-    "summary_abuse": "Emergent ist eine Plattform für KI-generierte Apps. Plattformen, die Nutzern erlauben, Webapps per KI-Prompt zu erstellen, haben ein erhöhtes Risiko, schnell Phishing-Sites, Scam-Shops oder Social-Engineering-Inhalte zu generieren. Der KI-generierte Charakter der ausgegebenen Anwendungen erschwert Policy Enforcement. Konkrete dokumentierte Missbrauchsvorfälle gibt es nicht, die Kategorie trägt aber ein inhärentes Risiko."
+    "description": "Emergent ist eine AI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webapps aus natürlichsprachlichen Prompts bauen können, statt Code zu schreiben.",
+    "history": "Emergent ist eine AI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webanwendungen aus natürlichsprachlichen Prompts erstellen können, ohne Code zu schreiben. Die Plattform steht für eine neue Welle AI-unterstützter App-Builder, die nach den Fortschritten grosser Sprachmodelle um 2023 bis 2024 entstanden; sie wird als CMS-nahe Plattform eingeordnet, die aus einfachen englischen Beschreibungen deploybare Webanwendungen generiert.",
+    "summary_abuse": "Emergent ist eine Plattform für AI-generierte Apps. Plattformen, die Nutzern erlauben, Webapps per AI-Prompt zu erstellen, haben ein erhöhtes Risiko, schnell Phishing-Sites, Scam-Shops oder Social-Engineering-Inhalte zu generieren. Der AI-generierte Charakter der ausgegebenen Anwendungen erschwert Policy Enforcement. Konkrete dokumentierte Missbrauchsvorfälle gibt es nicht, die Kategorie trägt aber ein inhärentes Risiko."
   },
   "Emfont": {
     "description": "Emfont ist ein Open-Source-Webfont-Dienst für CJK-Schriften, der selbst gehostete, cache-effiziente und datenschutzbewusste Bereitstellung von Open-Source-Fonts ermöglicht.",
@@ -744,13 +744,13 @@
   },
   "eNamad": {
     "description": "eNamad ist ein elektronisches Vertrauenssiegel.",
-    "history": "eNamad ist ein vom iranischen Staat vorgeschriebenes elektronisches Vertrauenszertifikat für Online-Unternehmen. Es wird von der iranischen E-Commerce-Aufsicht betrieben und ist erforderlich, um iranische E-Commerce-Websites rechtmaessig zu betreiben.",
-    "summary_abuse": "eNamad ist ein iranisches E-Trust-Siegel, das von einer staatlichen Stelle ausgestellt wird. Betrügerische Websites können das Siegel nachahmen und so legitime Zertifizierung vortaeuschen, was im iranischen E-Commerce dokumentiert ist. Die Plattform selbst ist jedoch kein Betrugswerkzeug."
+    "history": "eNamad ist ein vom iranischen Staat vorgeschriebenes elektronisches Vertrauenszertifikat für Online-Unternehmen. Es wird von der iranischen E-Commerce-Aufsicht betrieben und ist erforderlich, um iranische E-Commerce-Websites rechtmässig zu betreiben.",
+    "summary_abuse": "eNamad ist ein iranisches E-Trust-Siegel, das von einer staatlichen Stelle ausgestellt wird. Betrügerische Websites können das Siegel nachahmen und so legitime Zertifizierung vortäuschen, was im iranischen E-Commerce dokumentiert ist. Die Plattform selbst ist jedoch kein Betrugswerkzeug."
   },
   "Endurance Page Cache": {
-    "description": "Endurance Page Cache fuegt WordPress einfaches dateibasiertes Caching hinzu.",
-    "history": "Endurance Page Cache ist ein WordPress-Caching-Plugin, das von Bluehost (Endurance International Group, heute Newfold Digital) entwickelt und gepflegt wird. Es wird automatisch auf bei Bluehost und HostGator gehosteten WordPress-Websites installiert, um dateibasiertes Caching ohne manuelle Konfiguration bereitzustellen. Das Plugin ist unter der Bluehost-Organisation auf GitHub als Open Source verfuegbar.",
-    "summary_abuse": "Endurance Page Cache ist ein einfaches WordPress-Caching-Plugin, das mit Bluehost-Hosting gebuendelt wird. Es liefert zwischengespeicherte HTML-Dateien aus, hat keine nutzerseitigen Funktionen und liefert daher kein Missbrauchssignal."
+    "description": "Endurance Page Cache fügt WordPress einfaches dateibasiertes Caching hinzu.",
+    "history": "Endurance Page Cache ist ein WordPress-Caching-Plugin, das von Bluehost (Endurance International Group, heute Newfold Digital) entwickelt und gepflegt wird. Es wird automatisch auf bei Bluehost und HostGator gehosteten WordPress-Websites installiert, um dateibasiertes Caching ohne manuelle Konfiguration bereitzustellen. Das Plugin ist unter der Bluehost-Organisation auf GitHub als Open Source verfügbar.",
+    "summary_abuse": "Endurance Page Cache ist ein einfaches WordPress-Caching-Plugin, das mit Bluehost-Hosting gebündelt wird. Es liefert zwischengespeicherte HTML-Dateien aus, hat keine nutzerseitigen Funktionen und liefert daher kein Missbrauchssignal."
   },
   "enduro.js": {
     "history": "enduro.js ist ein minimalistisches Node.js-CMS auf Basis von Handlebars und Express, das um 2016 von Gottwik (Vojtech Dusek) entwickelt wurde. Es nutzt flache Dateien statt einer Datenbank und fiel durch schnelle Kompilierung mit BrowserSync auf. Das Projekt scheint nicht mehr aktiv gepflegt zu werden.",
@@ -758,21 +758,21 @@
   },
   "Enecto": {
     "description": "Enecto ist ein Werkzeug zur Analyse der Demografie von Website-Besuchern und liefert Einblicke in Zusammensetzung und Verhalten des Publikums.",
-    "history": "Enecto Sverige AB wurde 2002 in Lidingoe, Schweden, gegründet und gehoerte zu den frühen Pionieren der B2B-Website-Besucheridentifikation. Das Unternehmen brachte 2003 ProspectFinder für den europaeischen Markt heraus und startete 2015 Enecto Web Leads. Die Website war 2026 im Umbau, was darauf hindeutet, dass der Dienst möglicherweise zurückgefahren wurde.",
+    "history": "Enecto Sverige AB wurde 2002 in Lidingö, Schweden, gegründet und gehörte zu den frühen Pionieren der B2B-Website-Besucheridentifikation. Das Unternehmen brachte 2003 ProspectFinder für den europäischen Markt heraus und startete 2015 Enecto Web Leads. Die Website war 2026 im Umbau, was darauf hindeutet, dass der Dienst möglicherweise zurückgefahren wurde.",
     "summary_abuse": "Enecto ist ein B2B-Besuchertracking-Tool, das Unternehmen hinter Website-Besuchen anhand von IP-Adressen erkennt und mit Firmendatenbanken abgleicht. Diese IP-basierte Identifikation wirft unter der GDPR Datenschutzfragen auf. Das Missbrauchssignal beschränkt sich eher auf Datenschutzrisiken als auf aktive Ausnutzung. Der Dienst scheint weniger aktiv zu sein."
   },
   "Engaga": {
     "description": "Engaga ist eine Plattform für Call-to-Action-Popups und Popup-Formulare, mit denen Websites Besucher in Kunden und Abonnenten umwandeln können.",
-    "history": "Engaga ist ein kleiner SaaS-Builder für Popups und Call-to-Actions, der Websites dabei hilft, Besucher in Abonnenten und Kunden zu verwandeln. Das Unternehmen scheint unabhängig betrieben zu werden und ist eher nischig aufgestellt. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
-    "summary_abuse": "Engaga ist ein Popup-Builder mit begrenzter Missbrauchsfläche. Popup-Tools können für taeuschende Einwilligungsformulare oder falsche Overlays auf Phishing-Seiten genutzt werden, Engaga selbst ist jedoch ein legitimer kleiner Anbieter. Bedeutende Missbrauchsfaelle sind nicht dokumentiert."
+    "history": "Engaga ist ein kleiner SaaS-Builder für Popups und Call-to-Actions, der Websites dabei hilft, Besucher in Abonnenten und Kunden zu verwandeln. Das Unternehmen scheint unabhängig betrieben zu werden und ist eher nischig aufgestellt. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
+    "summary_abuse": "Engaga ist ein Popup-Builder mit begrenzter Missbrauchsfläche. Popup-Tools können für täuschende Einwilligungsformulare oder falsche Overlays auf Phishing-Seiten genutzt werden, Engaga selbst ist jedoch ein legitimer kleiner Anbieter. Bedeutende Missbrauchsfälle sind nicht dokumentiert."
   },
   "EngagementHQ": {
-    "description": "Wichtige Software für Veränderer; sie hilft, Dialoge zwischen dir und deiner Community zu ermöglichen, zu buendeln und auszuwerten.",
-    "history": "EngagementHQ wurde urspruenglich von Bang the Table entwickelt, einem australischen Civic-Tech-Unternehmen, das um 2011 in Victoria gegründet wurde. Es entwickelte sich zur weltweit führenden Plattform für öffentliche Konsultationen im Regierungsumfeld. Spaeter wurde Bang the Table von Granicus übernommen, einem US-Anbieter für Regierungstechnologie. EngagementHQ wurde in die Granicus-Plattformsuite integriert, die Verwaltungen in Australien, Grossbritannien, Kanada und den USA bedient.",
-    "summary_abuse": "EngagementHQ ist eine Plattform für Beteiligung von Gemeinschaften im Regierungsumfeld ohne nennenswertes Missbrauchssignal; sie wird ausschliesslich von lokalen und zentralen Behoerden für öffentliche Konsultationen genutzt. Eine 24/7-Moderation durch Menschen reduziert das Missbrauchsrisiko deutlich."
+    "description": "Wichtige Software für Veränderer; sie hilft, Dialoge zwischen dir und deiner Community zu ermöglichen, zu bündeln und auszuwerten.",
+    "history": "EngagementHQ wurde ursprünglich von Bang the Table entwickelt, einem australischen Civic-Tech-Unternehmen, das um 2011 in Victoria gegründet wurde. Es entwickelte sich zur weltweit führenden Plattform für öffentliche Konsultationen im Regierungsumfeld. Später wurde Bang the Table von Granicus übernommen, einem US-Anbieter für Regierungstechnologie. EngagementHQ wurde in die Granicus-Plattformsuite integriert, die Verwaltungen in Australien, Grossbritannien, Kanada und den USA bedient.",
+    "summary_abuse": "EngagementHQ ist eine Plattform für Beteiligung von Gemeinschaften im Regierungsumfeld ohne nennenswertes Missbrauchssignal; sie wird ausschliesslich von lokalen und zentralen Behörden für öffentliche Konsultationen genutzt. Eine 24/7-Moderation durch Menschen reduziert das Missbrauchsrisiko deutlich."
   },
   "Engagio": {
-    "history": "Engagio wurde Anfang 2015 von Jon Miller, Mitgründer von Marketo, und Brian Babcock gegründet. Das Unternehmen praegte das Konzept der Account-Based-Marketing-Orchestrierung (ABM) und half B2B-Marketern, bestimmte Enterprise-Konten gezielt anzusprechen und einzubinden. Im Juni 2020 übernahm Demandbase Engagio. Miller wurde Chief Product Officer und Babcock CTO bei Demandbase. Die Marke Engagio ging anschliessend in der Demandbase-Plattform auf.",
+    "history": "Engagio wurde Anfang 2015 von Jon Miller, Mitgründer von Marketo, und Brian Babcock gegründet. Das Unternehmen prägte das Konzept der Account-Based-Marketing-Orchestrierung (ABM) und half B2B-Marketern, bestimmte Enterprise-Konten gezielt anzusprechen und einzubinden. Im Juni 2020 übernahm Demandbase Engagio. Miller wurde Chief Product Officer und Babcock CTO bei Demandbase. Die Marke Engagio ging anschliessend in der Demandbase-Plattform auf.",
     "summary_abuse": "Engagio war eine B2B-Marketingplattform für Vertriebs- und Marketingteams in Unternehmen; sie hatte keine nutzerseitige Fläche und kein nennenswertes Missbrauchssignal. Nach der Übernahme durch Demandbase im Jahr 2020 wurde das Produkt eingestellt."
   },
   "Engati": {
@@ -782,7 +782,7 @@
   },
   "Engintron": {
     "description": "Engintron ist ein Plugin, das Nginx in cPanel/WHM-Server integriert.",
-    "history": "Engintron ist ein Open-Source-Tool, das um 2014 entstand, um die Nginx-Integration auf cPanel/WHM-Servern zu vereinfachen. Es installiert Nginx als Reverse-Caching-Proxy vor Apache, um die Leistung zu verbessern und die Serverlast zu senken. Das Projekt wird auf GitHub gepflegt und von vielen cPanel-Serveradministratoren genutzt, die Nginx-Leistungsvorteile ohne Aufgabe des cPanel-Oekosystems wollen.",
+    "history": "Engintron ist ein Open-Source-Tool, das um 2014 entstand, um die Nginx-Integration auf cPanel/WHM-Servern zu vereinfachen. Es installiert Nginx als Reverse-Caching-Proxy vor Apache, um die Leistung zu verbessern und die Serverlast zu senken. Das Projekt wird auf GitHub gepflegt und von vielen cPanel-Serveradministratoren genutzt, die Nginx-Leistungsvorteile ohne Aufgabe des cPanel-Ökosystems wollen.",
     "summary_abuse": "Engintron ist ein serverseitiges Infrastrukturwerkzeug für cPanel-Administratoren ohne nutzerseitige Fläche. Es gibt kein nennenswertes Missbrauchssignal, da es ein technisches Optimierungswerkzeug für Hosting-Anbieter und Serveradministratoren ist."
   },
   "Enhanced Responsive Images": {
@@ -791,43 +791,43 @@
     "summary_abuse": "Enhanced Responsive Images ist ein technisches WordPress-Plugin des offiziellen WordPress Performance Team ohne nutzerseitige Fläche und ohne Missbrauchssignal. Es verändert Bildattribute auf serverseitig gerenderten WordPress-Seiten."
   },
   "Enigma": {
-    "description": "Enigma ist ein populaeres, besonders schlankes, vielseitiges und responsives WordPress-Theme von Infigo Software.",
+    "description": "Enigma ist ein populäres, besonders schlankes, vielseitiges und responsives WordPress-Theme von Infigo Software.",
     "history": "Enigma Technologies wurde 2011 in New York City als Data-Intelligence-Unternehmen gegründet. Es aggregiert öffentliche und Drittquellen, um umfassende Informationen zur Identität sowie finanziellen Gesundheit kleiner und mittlerer Unternehmen zu erstellen. Das Unternehmen hat bedeutendes Venture-Kapital aufgenommen und Datenprodukte auf dem Databricks Marketplace eingeführt, die Finanzinstitute und Unternehmen bei Risiko- und Compliance-Anwendungen unterstützen.",
     "summary_abuse": "Enigma ist eine B2B-Data-Intelligence-Plattform, die Unternehmenskunden Daten zu Unternehmensidentität und finanzieller Gesundheit bereitstellt; sie verarbeitet sensible kommerzielle Daten, bietet aber keine nutzerseitigen Funktionen, die direkt missbraucht werden könnten. Kunden sind Finanzinstitute und Unternehmen, die KYC- und Risikoanalysen durchführen."
   },
   "Enjin CMS": {
     "description": "Enjin CMS ist ein Content-Management-System für Websites von Gaming-Gilden, Clans, Minecraft-Servern oder Fan-Communities.",
-    "history": "Enjin CMS ist ein Website-Builder, der um 2009 speziell für Gaming-Gilden, Clans, Minecraft-Server und Fan-Communities gestartet wurde. Er bietet eine kostenlose Stufe für einfache Community-Websites und blieb in einer Gaming-Community-Nische praesent. Nutzerbewertungen ab 2020 vermerkten sinkende Qualitaet und schlechten Support, was auf geringere Investitionen in die Plattform hindeutet.",
+    "history": "Enjin CMS ist ein Website-Builder, der um 2009 speziell für Gaming-Gilden, Clans, Minecraft-Server und Fan-Communities gestartet wurde. Er bietet eine kostenlose Stufe für einfache Community-Websites und blieb in einer Gaming-Community-Nische präsent. Nutzerbewertungen ab 2020 vermerkten sinkende Qualität und schlechten Support, was auf geringere Investitionen in die Plattform hindeutet.",
     "summary_abuse": "Enjin CMS ist ein Website-Builder für Gaming-Communities mit kostenloser Stufe, über die Nutzer öffentliche Websites erstellen können. Die kostenlose Stufe und das Hosting nutzergenerierter Inhalte schaffen begrenzte Risiken für falsche Community-Seiten oder Spam-Websites, Enjin hat jedoch keine bedeutend dokumentierte Missbrauchsgeschichte."
   },
   "Enjore": {
-    "description": "Enjore ist ein Online-System für Sportverwaltung, das Spielplaene, Ergebnisse, Statistiken und Nachrichten für Ligen und Turniere verwaltet.",
-    "history": "Enjore ist eine nischige Online-Plattform für Sportverwaltung, mit der Ligen, Turniere, Spielplaene, Ergebnisse und Statistiken verwaltet werden; sie bedient Amateursportligen und Organisationen. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
-    "summary_abuse": "Enjore ist eine Sportverwaltungsplattform für Ligen und Turniere ohne nennenswertes Missbrauchssignal; sie bedient eine spezifische Nische von Sportorganisatoren und bietet keine nutzerseitigen Funktionen, die ueblicherweise für Betrug oder Spam ausgenutzt werden."
+    "description": "Enjore ist ein Online-System für Sportverwaltung, das Spielpläne, Ergebnisse, Statistiken und Nachrichten für Ligen und Turniere verwaltet.",
+    "history": "Enjore ist eine nischige Online-Plattform für Sportverwaltung, mit der Ligen, Turniere, Spielpläne, Ergebnisse und Statistiken verwaltet werden; sie bedient Amateursportligen und Organisationen. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
+    "summary_abuse": "Enjore ist eine Sportverwaltungsplattform für Ligen und Turniere ohne nennenswertes Missbrauchssignal; sie bedient eine spezifische Nische von Sportorganisatoren und bietet keine nutzerseitigen Funktionen, die üblicherweise für Betrug oder Spam ausgenutzt werden."
   },
   "Enkod": {
     "description": "Enkod ist eine CDP-Plattform für Marketing-Automation.",
-    "history": "Enkod ist eine Customer-Data-Plattform und ein Marketing-Automation-Tool mit Fokus auf den russischen Markt. Es bietet CDP-Funktionen wie Zielgruppensegmentierung und Orchestrierung von Marketingkanälen. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
-    "summary_abuse": "Enkod ist eine CDP-Plattform für Marketing-Automation. Solche Werkzeuge können bei Missbrauch für E-Mail-Spam eingesetzt werden, Enkod scheint jedoch legitime Business-Marketing-Anwendungsfaelle zu bedienen. Dokumentierte Missbrauchsfaelle wurden nicht gefunden."
+    "history": "Enkod ist eine Customer-Data-Plattform und ein Marketing-Automation-Tool mit Fokus auf den russischen Markt. Es bietet CDP-Funktionen wie Zielgruppensegmentierung und Orchestrierung von Marketingkanälen. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
+    "summary_abuse": "Enkod ist eine CDP-Plattform für Marketing-Automation. Solche Werkzeuge können bei Missbrauch für E-Mail-Spam eingesetzt werden, Enkod scheint jedoch legitime Business-Marketing-Anwendungsfälle zu bedienen. Dokumentierte Missbrauchsfälle wurden nicht gefunden."
   },
   "Enlistly": {
-    "description": "Enlistly verfolgt Empfehlungsbestellungen in Echtzeit. Teilweise rueckerstattete, rueckerstattete oder stornierte Bestellungen werden laufend aktualisiert.",
-    "history": "Enlistly ist ein kleines SaaS für Referral-Tracking, das Empfehlungsbestellungen in Echtzeit überwacht und dabei teilweise Rueckerstattungen, Stornierungen und Bestellaktualisierungen verarbeitet. Die Plattform richtet sich an E-Commerce-Unternehmen, die Affiliate- oder Empfehlungsprogramme betreiben wollen. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "description": "Enlistly verfolgt Empfehlungsbestellungen in Echtzeit. Teilweise rückerstattete, rückerstattete oder stornierte Bestellungen werden laufend aktualisiert.",
+    "history": "Enlistly ist ein kleines SaaS für Referral-Tracking, das Empfehlungsbestellungen in Echtzeit überwacht und dabei teilweise Rückerstattungen, Stornierungen und Bestellaktualisierungen verarbeitet. Die Plattform richtet sich an E-Commerce-Unternehmen, die Affiliate- oder Empfehlungsprogramme betreiben wollen. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Enlistly ist ein Werkzeug zur Verfolgung von Empfehlungsbestellungen im E-Commerce. Es gibt kein nennenswertes Missbrauchssignal. Referral-Tracking-Plattformen haben eine minimale Missbrauchsfläche, da sie B2B-Werkzeuge für Händler sind und sich nicht an Endverbraucher richten."
   },
   "Enonic": {
     "description": "Enonic ist eine Plattform, mit der du digitale Erlebnisse durch Strukturierung und Zusammenstellung von Inhalten erstellen kannst.",
-    "history": "Enonic wurde 2000 in Oslo, Norwegen, gegründet und entwickelte sich zum groessten norwegischen CMS-Anbieter. Das Hauptprodukt Enonic XP ist ein Headless-Content-Management-System mit integriertem JavaScript-Anwendungsframework. Zu den bekannten norwegischen Kunden gehoeren Norway Post, die Versicherung Gjensidige und die norwegische Arbeits- und Wohlfahrtsverwaltung. Das CMS hat einen Open-Source-Kern mit Enterprise-Support-Stufen.",
-    "summary_abuse": "Enonic ist ein Enterprise-Headless-CMS, das von Behoerden und grossen norwegischen Organisationen genutzt wird. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird typischerweise in kontrollierten Unternehmensumgebungen betrieben und bietet kein anonymes Hosting von Inhalten."
+    "history": "Enonic wurde 2000 in Oslo, Norwegen, gegründet und entwickelte sich zum grössten norwegischen CMS-Anbieter. Das Hauptprodukt Enonic XP ist ein Headless-Content-Management-System mit integriertem JavaScript-Anwendungsframework. Zu den bekannten norwegischen Kunden gehören Norway Post, die Versicherung Gjensidige und die norwegische Arbeits- und Wohlfahrtsverwaltung. Das CMS hat einen Open-Source-Kern mit Enterprise-Support-Stufen.",
+    "summary_abuse": "Enonic ist ein Enterprise-Headless-CMS, das von Behörden und grossen norwegischen Organisationen genutzt wird. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird typischerweise in kontrollierten Unternehmensumgebungen betrieben und bietet kein anonymes Hosting von Inhalten."
   },
   "Enquire.js": {
     "description": "enquire.js ist eine leichtgewichtige, reine JavaScript-Bibliothek zum Reagieren auf CSS-Media-Queries.",
-    "history": "Enquire.js ist eine leichtgewichtige JavaScript-Bibliothek (rund 0,8 kB), mit der CSS-Media-Queries programmatisch verarbeitet werden können; sie wurde um 2012 von Nick Williams erstellt. Die Bibliothek hat keine Abhängigkeiten und erlaubt Entwicklern, Callbacks für Match- und Unmatch-Änderungen von Media Queries zu registrieren. In der Aera des Responsive Design wurde sie moderat genutzt, verlor aber an Aktivität, als die native window.matchMedia API besser wurde.",
+    "history": "Enquire.js ist eine leichtgewichtige JavaScript-Bibliothek (rund 0,8 kB), mit der CSS-Media-Queries programmatisch verarbeitet werden können; sie wurde um 2012 von Nick Williams erstellt. Die Bibliothek hat keine Abhängigkeiten und erlaubt Entwicklern, Callbacks für Match- und Unmatch-Änderungen von Media Queries zu registrieren. In der Ära des Responsive Design wurde sie moderat genutzt, verlor aber an Aktivität, als die native window.matchMedia API besser wurde.",
     "summary_abuse": "Enquire.js ist eine Frontend-JavaScript-Utility-Bibliothek ohne nutzerseitige Fläche und ohne Missbrauchssignal; sie ist ein rein technisches Werkzeug für Media-Query-Ereignisse in JavaScript."
   },
   "Enquisite": {
-    "description": "Enquisite ist eine Plattform für Webanalysen und Kennzahlen, die in normalen Webmaster-Tools typischerweise nicht verfuegbar sind.",
-    "history": "Enquisite war eine Webanalyseplattform, die Suchmetriken und Keyword-Intelligence bereitstellte, die in Standard-Webmaster-Tools nicht verfuegbar waren. Dem Website-Status nach scheint der Dienst nicht mehr aktiv entwickelt zu werden und möglicherweise nicht mehr in Betrieb zu sein.",
+    "description": "Enquisite ist eine Plattform für Webanalysen und Kennzahlen, die in normalen Webmaster-Tools typischerweise nicht verfügbar sind.",
+    "history": "Enquisite war eine Webanalyseplattform, die Suchmetriken und Keyword-Intelligence bereitstellte, die in Standard-Webmaster-Tools nicht verfügbar waren. Dem Website-Status nach scheint der Dienst nicht mehr aktiv entwickelt zu werden und möglicherweise nicht mehr in Betrieb zu sein.",
     "summary_abuse": "Enquisite war ein Webanalysedienst ohne nennenswertes Missbrauchssignal. Die Plattform sammelte Website-Besucherdaten für SEO- und Suchanalysezwecke. Der Dienst scheint aufgegeben zu sein."
   },
   "Enrollware": {
@@ -843,40 +843,40 @@
   "Ensighten": {
     "description": "Ensighten ist eine Lösung für sichere Verwaltung, Implementierung und Kontrolle von Website-Technologien.",
     "history": "Ensighten wurde 2009 als Enterprise-Tag-Management-System gegründet und konkurrierte mit Adobe DTM und Tealium. Das Unternehmen gewann in Unternehmen erhebliche Verbreitung durch seinen sicherheitsorientierten Ansatz für Tag-Governance und Datenschutz-Compliance. Ensighten wurde von CHEQ, einem Anbieter für Go-to-Market-Sicherheit, übernommen und in CHEQ Control and Compliance umbenannt, auch wenn der Markenname Ensighten weiterhin verwendet wird.",
-    "summary_abuse": "Ensighten ist eine Enterprise-Tag-Management-Plattform, die grosse Organisationen zur Kontrolle von Drittanbieter-Skripten und für Datenschutz-Compliance nutzen. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform ist selbst ein Sicherheitswerkzeug, das auf das Blockieren boesartiger Tags und die Durchsetzung von Data Governance ausgerichtet ist."
+    "summary_abuse": "Ensighten ist eine Enterprise-Tag-Management-Plattform, die grosse Organisationen zur Kontrolle von Drittanbieter-Skripten und für Datenschutz-Compliance nutzen. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform ist selbst ein Sicherheitswerkzeug, das auf das Blockieren bösartiger Tags und die Durchsetzung von Data Governance ausgerichtet ist."
   },
   "Enterprise Bot": {
-    "description": "Enterprise Bot entwickelt und betreibt komplexe Conversational-AI-Systeme für Unternehmensumgebungen und nutzt Natural Language Processing, Machine Learning und Automatisierung, um Kundeninteraktionen zu verbessern und Ablaeufe zu vereinfachen.",
+    "description": "Enterprise Bot entwickelt und betreibt komplexe Conversational-AI-Systeme für Unternehmensumgebungen und nutzt Natural Language Processing, Machine Learning und Automatisierung, um Kundeninteraktionen zu verbessern und Abläufe zu vereinfachen.",
     "history": "Enterprise Bot ist eine Conversational-AI-Plattform, die um 2018 in der Schweiz gegründet wurde und sich auf komplexe Chatbot-Implementierungen für Unternehmenskunden spezialisiert. Das Unternehmen konzentriert sich auf Finanzdienstleistungen, Versicherungen und Automatisierung im Enterprise-Kundendienst und bietet mehrsprachige AI-Chatbots sowie Prozessautomatisierungslösungen an.",
     "summary_abuse": "Enterprise Bot ist eine Enterprise-Plattform für Conversational AI mit Kunden in Finanzdienstleistungen und Versicherungen. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform erfordert Enterprise-Verträge und ist nicht öffentlich für anonyme Nutzung zugänglich."
   },
   "Entresoft": {
     "description": "Entresoft ist eine Plattform mit CRM- und Pipeline-Management-Werkzeugen für Geschäftsprozesse.",
-    "history": "Entresoft ist eine kleine Software für CRM und Pipeline-Management. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "history": "Entresoft ist eine kleine Software für CRM und Pipeline-Management. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Entresoft ist eine kleine CRM-Plattform ohne nennenswertes Missbrauchssignal; sie ist ein B2B-Werkzeug zur Verwaltung von Kundenbeziehungen und Vertriebspipelines."
   },
   "Entrust": {
     "description": "Entrust ist ein Anbieter von SSL-Zertifikatsabzeichen für Websites.",
-    "history": "Entrust wurde 1994 in Ottawa, Kanada, gegründet und hat heute seinen Hauptsitz in Shakopee, Minnesota. Das Unternehmen entwickelte sich zu einem wichtigen Anbieter für digitale Sicherheit, Zertifizierungsstellen und Identitätssicherheit. 2025 verkaufte Entrust sein Geschäft mit öffentlichen TLS-Zertifikaten nach Browser-Distrust-Vorfällen an Sectigo und stellte im Maerz 2025 die Ausgabe öffentlicher TLS-Zertifikate aus Entrust-Root-CAs ein. Private PKI, Managed PKI und Identitätslösungen werden weiter angeboten.",
-    "summary_abuse": "Entrust ist eine Zertifizierungsstelle und ein Unternehmen für digitale Sicherheit. 2024 entschieden grosse Browser wie Chrome und Firefox, Entrust-TLS-Zertifikaten wegen Compliance-Maengeln und unzureichender Vorfallsreaktionen nicht mehr zu vertrauen. Das führte 2025 zum Verkauf des öffentlichen CA-Geschäfts an Sectigo. Dies war ein bedeutender Vertrauensvorfall für eine grosse CA. Die Private-PKI- und Enterprise-Identity-Produkte bleiben aktiv."
+    "history": "Entrust wurde 1994 in Ottawa, Kanada, gegründet und hat heute seinen Hauptsitz in Shakopee, Minnesota. Das Unternehmen entwickelte sich zu einem wichtigen Anbieter für digitale Sicherheit, Zertifizierungsstellen und Identitätssicherheit. 2025 verkaufte Entrust sein Geschäft mit öffentlichen TLS-Zertifikaten nach Browser-Distrust-Vorfällen an Sectigo und stellte im März 2025 die Ausgabe öffentlicher TLS-Zertifikate aus Entrust-Root-CAs ein. Private PKI, Managed PKI und Identitätslösungen werden weiter angeboten.",
+    "summary_abuse": "Entrust ist eine Zertifizierungsstelle und ein Unternehmen für digitale Sicherheit. 2024 entschieden grosse Browser wie Chrome und Firefox, Entrust-TLS-Zertifikaten wegen Compliance-Mängeln und unzureichender Vorfallsreaktionen nicht mehr zu vertrauen. Das führte 2025 zum Verkauf des öffentlichen CA-Geschäfts an Sectigo. Dies war ein bedeutender Vertrauensvorfall für eine grosse CA. Die Private-PKI- und Enterprise-Identity-Produkte bleiben aktiv."
   },
   "Envialia": {
-    "history": "Envialia wurde 2001 in Coslada, Spanien, von zwoelf Unternehmern aus dem Eiltransportsektor gegründet. Ziel war der Aufbau eines nationalen Paketnetzwerks, das mit grossen Zustellern konkurrieren konnte. Das Unternehmen wuchs auf 35'000 Kunden und 85'000 taegliche Sendungen. 2023 wurde Envialia von Ontime, einem spanischen Logistikunternehmen, übernommen.",
-    "summary_abuse": "Envialia ist ein spanischer Paketdienst ohne nennenswertes Missbrauchssignal. Das Unternehmen arbeitet mit einem Franchise-Netz für Paketzustellung in Spanien, Portugal und internationale Ziele. Dokumentierte Missbrauchsfaelle sind nicht bekannt."
+    "history": "Envialia wurde 2001 in Coslada, Spanien, von zwölf Unternehmern aus dem Eiltransportsektor gegründet. Ziel war der Aufbau eines nationalen Paketnetzwerks, das mit grossen Zustellern konkurrieren konnte. Das Unternehmen wuchs auf 35'000 Kunden und 85'000 tägliche Sendungen. 2023 wurde Envialia von Ontime, einem spanischen Logistikunternehmen, übernommen.",
+    "summary_abuse": "Envialia ist ein spanischer Paketdienst ohne nennenswertes Missbrauchssignal. Das Unternehmen arbeitet mit einem Franchise-Netz für Paketzustellung in Spanien, Portugal und internationale Ziele. Dokumentierte Missbrauchsfälle sind nicht bekannt."
   },
   "Enviopack": {
     "description": "Enviopack ist eine technologische Lösung zur Optimierung der E-Commerce-Logistik, die Effizienz verbessert und operative Prozesse vereinfacht.",
-    "history": "Enviopack ist eine argentinische Plattform zur Optimierung von E-Commerce-Logistik; sie hilft Online-Verkaeufern, Sendungen über mehrere Versanddienstleister hinweg zu verwalten. Die Plattform integriert argentinische Carrier und E-Commerce-Plattformen, um Pack- und Versandprozesse für KMU-Händler zu vereinfachen.",
-    "summary_abuse": "Enviopack ist eine Logistikmanagement-Plattform für argentinische E-Commerce-Verkaeufer. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird von Händlern für Versandmanagement genutzt und bietet keine Funktionen, die ueblicherweise für Betrug ausgenutzt werden."
+    "history": "Enviopack ist eine argentinische Plattform zur Optimierung von E-Commerce-Logistik; sie hilft Online-Verkäufern, Sendungen über mehrere Versanddienstleister hinweg zu verwalten. Die Plattform integriert argentinische Carrier und E-Commerce-Plattformen, um Pack- und Versandprozesse für KMU-Händler zu vereinfachen.",
+    "summary_abuse": "Enviopack ist eine Logistikmanagement-Plattform für argentinische E-Commerce-Verkäufer. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird von Händlern für Versandmanagement genutzt und bietet keine Funktionen, die üblicherweise für Betrug ausgenutzt werden."
   },
   "Envo eCommerce": {
     "description": "Envo eCommerce ist ein schnelles, klares und modern wirkendes responsives kostenloses WooCommerce-Theme für WordPress.",
-    "history": "Envo eCommerce ist ein kostenloses responsives WordPress-WooCommerce-Theme von Envo Themes und gehoert zur selben Familie wie Envo Shop und Envo Storefront. Das Theme wird über das WordPress-Theme-Verzeichnis unter der GPL-Lizenz verteilt.",
+    "history": "Envo eCommerce ist ein kostenloses responsives WordPress-WooCommerce-Theme von Envo Themes und gehört zur selben Familie wie Envo Shop und Envo Storefront. Das Theme wird über das WordPress-Theme-Verzeichnis unter der GPL-Lizenz verteilt.",
     "summary_abuse": "Envo eCommerce ist ein kostenloses WordPress-WooCommerce-Theme ohne nennenswertes Missbrauchssignal. Es ist eine Entwickler-Theme-Vorlage ohne gehostete Dienstfläche."
   },
   "Envo Shop": {
     "description": "Envo Shop ist ein schnelles, klares und modern wirkendes responsives kostenloses WooCommerce-WordPress-Theme von Envo Themes.",
-    "history": "Envo Shop ist ein kostenloses WordPress-WooCommerce-Theme von Envo Themes, einem kommerziellen Theme-Entwickler. Es gehoert zu einer Familie kostenloser WooCommerce-Themes wie Envo Storefront und Envo eCommerce, die vom selben Entwickler veröffentlicht wurden. Das Theme wird im WordPress-Theme-Repository unter der GPL-Lizenz verteilt.",
+    "history": "Envo Shop ist ein kostenloses WordPress-WooCommerce-Theme von Envo Themes, einem kommerziellen Theme-Entwickler. Es gehört zu einer Familie kostenloser WooCommerce-Themes wie Envo Storefront und Envo eCommerce, die vom selben Entwickler veröffentlicht wurden. Das Theme wird im WordPress-Theme-Repository unter der GPL-Lizenz verteilt.",
     "summary_abuse": "Envo Shop ist ein kostenloses WordPress-WooCommerce-Theme ohne nennenswertes Missbrauchssignal. Es wird zum Aufbau von Online-Shops genutzt und hat keinen direkten nutzerseitigen Dienst, der ausgenutzt werden könnte."
   },
   "Envo Storefront": {
@@ -886,43 +886,43 @@
   },
   "Envoke": {
     "description": "Envoke ist eine CASL-konforme E-Mail-Marketing-Software für Kommunikationsfachleute in Unternehmen, Bildung und öffentlichem Sektor, mit Fokus auf Sicherheit und Compliance.",
-    "history": "Envoke ist eine kanadische E-Mail-Marketing-Plattform, die speziell für CASL-Compliance (Canada's Anti-Spam Legislation) entwickelt wurde. Das Unternehmen speichert alle Daten in Kanada, in Rechenzentren in Toronto und Montreal, und rechnet in CAD ab. Es bedient Gemeinden, Universitaeten, Gesundheitsorganisationen und andere kanadische Einrichtungen, die strenges E-Mail-Einwilligungsmanagement benoetigen.",
-    "summary_abuse": "Envoke ist eine CASL-konforme E-Mail-Marketing-Plattform mit Fokus auf den kanadischen Markt. Das Compliance-first-Design, die Datenhaltung in Kanada und die Einwilligungsverwaltung machen sie weniger anfaellig für Spam-Nutzung als generische E-Mail-Plattformen. Bedeutende Missbrauchsfaelle sind nicht dokumentiert."
+    "history": "Envoke ist eine kanadische E-Mail-Marketing-Plattform, die speziell für CASL-Compliance (Canada's Anti-Spam Legislation) entwickelt wurde. Das Unternehmen speichert alle Daten in Kanada, in Rechenzentren in Toronto und Montreal, und rechnet in CAD ab. Es bedient Gemeinden, Universitäten, Gesundheitsorganisationen und andere kanadische Einrichtungen, die strenges E-Mail-Einwilligungsmanagement benötigen.",
+    "summary_abuse": "Envoke ist eine CASL-konforme E-Mail-Marketing-Plattform mit Fokus auf den kanadischen Markt. Das Compliance-first-Design, die Datenhaltung in Kanada und die Einwilligungsverwaltung machen sie weniger anfällig für Spam-Nutzung als generische E-Mail-Plattformen. Bedeutende Missbrauchsfälle sind nicht dokumentiert."
   },
   "Envolve Tech": {
-    "description": "Envolve Tech ist eine Plattform für virtuelle Einkaufsassistenten, die Kunden durch Online-Kaeufe führen.",
-    "history": "Envolve Tech ist eine kleine Plattform, die virtuelle Einkaufsassistenten für E-Commerce-Websites bereitstellt. Das Unternehmen wird unabhängig betrieben und ist eher nischig aufgestellt. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "description": "Envolve Tech ist eine Plattform für virtuelle Einkaufsassistenten, die Kunden durch Online-Käufe führen.",
+    "history": "Envolve Tech ist eine kleine Plattform, die virtuelle Einkaufsassistenten für E-Commerce-Websites bereitstellt. Das Unternehmen wird unabhängig betrieben und ist eher nischig aufgestellt. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Envolve Tech ist eine Plattform für virtuelle Einkaufsassistenten ohne nennenswertes Missbrauchssignal. Der Dienst wird von kleinen E-Commerce-Websites genutzt, um Besucherinteraktion zu verbessern."
   },
   "Envoy": {
     "description": "Envoy ist ein Open-Source-Edge- und Service-Proxy für cloud-native Anwendungen.",
-    "history": "Envoy Proxy wurde urspruenglich 2016 bei Lyft als internes Service-Mesh und Edge-Proxy entwickelt. Lyft stellte ihn im September 2016 als Open Source bereit, und im September 2017 wurde er an die CNCF übergeben. Envoy war im November 2018 das dritte CNCF-Projekt mit Graduate-Status, nach Kubernetes und Prometheus. Es ist die grundlegende Data Plane für Istio und viele Service-Mesh-Implementierungen und wird produktiv von Google, Microsoft, Netflix, Stripe, Airbnb und hunderten weiteren Unternehmen eingesetzt.",
+    "history": "Envoy Proxy wurde ursprünglich 2016 bei Lyft als internes Service-Mesh und Edge-Proxy entwickelt. Lyft stellte ihn im September 2016 als Open Source bereit, und im September 2017 wurde er an die CNCF übergeben. Envoy war im November 2018 das dritte CNCF-Projekt mit Graduate-Status, nach Kubernetes und Prometheus. Es ist die grundlegende Data Plane für Istio und viele Service-Mesh-Implementierungen und wird produktiv von Google, Microsoft, Netflix, Stripe, Airbnb und hunderten weiteren Unternehmen eingesetzt.",
     "summary_abuse": "Envoy ist ein grundlegender cloud-nativer Infrastruktur-Proxy ohne nutzerseitige Fläche und ohne Missbrauchssignal. Er wird weltweit für kritischen Produktionsverkehr in grossen Unternehmensumgebungen und cloud-nativen Deployments genutzt."
   },
   "Envybox": {
     "description": "Envybox ist ein Multiservice zur Umsatzsteigerung.",
     "history": "Envybox ist eine russische SaaS-Plattform mit Werkzeugen zur Website-Vertriebsoptimierung, darunter Callback-Widgets, Chat, Lead-Formulare und CRM-Funktionen für kleine Unternehmen. Das Unternehmen sitzt in Russland und bedient vor allem den russischsprachigen Markt.",
-    "summary_abuse": "Envybox ist eine russische Plattform für Website-Conversion-Tools. Der Dienst bietet Callback-Anfrage-Widgets und Lead-Erfassungsformulare. Als in Russland ansaessige Plattform mit begrenzter Transparenz bringt sie moderate Datenschutzbedenken mit sich. Callback- und Lead-Sammelfunktionen können ohne angemessene Einwilligungsmechanismen für Datenerfassung missbraucht werden."
+    "summary_abuse": "Envybox ist eine russische Plattform für Website-Conversion-Tools. Der Dienst bietet Callback-Anfrage-Widgets und Lead-Erfassungsformulare. Als in Russland ansässige Plattform mit begrenzter Transparenz bringt sie moderate Datenschutzbedenken mit sich. Callback- und Lead-Sammelfunktionen können ohne angemessene Einwilligungsmechanismen für Datenerfassung missbraucht werden."
   },
   "Enyo": {
     "description": "Enyo ist ein Open-Source-JavaScript-Framework für plattformübergreifende mobile, Desktop-, TV- und Webanwendungen.",
-    "history": "Enyo wurde urspruenglich von Palm und HP als JavaScript-Framework für webOS-Geräte entwickelt. Nachdem HP Palm 2010 übernommen und die webOS-Consumer-Plattform 2011 aufgegeben hatte, wurde das Framework als Open Source freigegeben. Es wurde für plattformübergreifende mobile und Desktop-Entwicklung genutzt. Seit HP die webOS-Entwicklung zurückgefahren hat, gilt das Projekt weitgehend als aufgegeben.",
-    "summary_abuse": "Enyo ist ein aufgegebenes JavaScript-Framework ohne nutzerseitige Fläche und ohne Missbrauchssignal. Es wurde urspruenglich für webOS entwickelt und wird nicht mehr aktiv weiterentwickelt."
+    "history": "Enyo wurde ursprünglich von Palm und HP als JavaScript-Framework für webOS-Geräte entwickelt. Nachdem HP Palm 2010 übernommen und die webOS-Consumer-Plattform 2011 aufgegeben hatte, wurde das Framework als Open Source freigegeben. Es wurde für plattformübergreifende mobile und Desktop-Entwicklung genutzt. Seit HP die webOS-Entwicklung zurückgefahren hat, gilt das Projekt weitgehend als aufgegeben.",
+    "summary_abuse": "Enyo ist ein aufgegebenes JavaScript-Framework ohne nutzerseitige Fläche und ohne Missbrauchssignal. Es wurde ursprünglich für webOS entwickelt und wird nicht mehr aktiv weiterentwickelt."
   },
   "Enzuzo": {
     "description": "Enzuzo ist eine Datenschutzmanagement-Lösung, die Organisationen bei Einwilligungsverwaltung, Datenschutz-Compliance und Kontrolle über personenbezogene Daten auf digitalen Plattformen hilft.",
     "history": "Enzuzo wurde um 2019 in Kanada als Plattform für Datenschutzmanagement gegründet. Das Unternehmen hilft Organisationen, Einwilligungen, Datenschutzrichtlinien, Cookie-Banner und Compliance mit GDPR, CCPA und PIPEDA zu verwalten. Es bedient kleine und mittlere Unternehmen sowie E-Commerce-Plattformen mit Werkzeugen für Datenschutz-Compliance.",
-    "summary_abuse": "Enzuzo ist eine Plattform für Datenschutz-Compliance, die Unternehmen bei Einwilligungen und Datenschutzrichtlinien unterstützt. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform ist selbst ein Compliance-Werkzeug mit Fokus auf den Schutz der Privatsphaere von Nutzern."
+    "summary_abuse": "Enzuzo ist eine Plattform für Datenschutz-Compliance, die Unternehmen bei Einwilligungen und Datenschutzrichtlinien unterstützt. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform ist selbst ein Compliance-Werkzeug mit Fokus auf den Schutz der Privatsphäre von Nutzern."
   },
   "eola": {
-    "description": "eola ist eine Buchungsplattform, mit der Nutzer Reservierungen, Zeitplaene und Verfuegbarkeiten für Dienstleistungen oder Veranstaltungen zentral online verwalten können.",
+    "description": "eola ist eine Buchungsplattform, mit der Nutzer Reservierungen, Zeitpläne und Verfügbarkeiten für Dienstleistungen oder Veranstaltungen zentral online verwalten können.",
     "history": "eola ist eine britische Plattform für Buchungs- und Terminverwaltung von Aktivitäts- und Erlebnisanbietern. Bedeutende Eigentumswechsel oder Einstellungsereignisse sind nicht dokumentiert.",
     "summary_abuse": "eola ist eine Plattform für Aktivitätsbuchungen ohne nennenswertes Missbrauchssignal. Der Nischenfokus auf Aktivitätsanbieter begrenzt die Betrugsfläche."
   },
   "ePages": {
     "description": "ePages ist ein Anbieter cloudbasierter Online-Shop-Lösungen.",
     "history": "Die Wurzeln von ePages reichen ins Jahr 1997 zurück, als Intershop Intershop ePages als Hosting-Plattform für kleine Unternehmen startete. Nach dem Dotcom-Crash übernahm Mitgründer Wilfried Beeck 2002 die Software-Rechte für kleine Unternehmen und benannte die Firma mit Hauptsitz in Hamburg in ePages um. Seitdem ist das Unternehmen auf über 100'000 Händler gewachsen, vor allem über Partnerschaften mit Hosting-Anbietern in Europa.",
-    "summary_abuse": "ePages ist eine Cloud-E-Commerce-Plattform für kleine Unternehmen ohne nennenswertes Missbrauchssignal; sie hostet legitime Händler-Shops über Partnerschaften mit Webhosting-Anbietern. Wie jede E-Commerce-Plattform könnte sie für betrügerische Shops genutzt werden, doch ePages setzt Nutzungsbedingungen durch und ist nicht als Plattform bekannt, die Scam- oder Phishing-Aktivitäten beguenstigt."
+    "summary_abuse": "ePages ist eine Cloud-E-Commerce-Plattform für kleine Unternehmen ohne nennenswertes Missbrauchssignal; sie hostet legitime Händler-Shops über Partnerschaften mit Webhosting-Anbietern. Wie jede E-Commerce-Plattform könnte sie für betrügerische Shops genutzt werden, doch ePages setzt Nutzungsbedingungen durch und ist nicht als Plattform bekannt, die Scam- oder Phishing-Aktivitäten begünstigt."
   },
   "Epicor": {
     "description": "Epicor ist eine ERP-Softwaresuite für Fertigung, Distribution, Detailhandel und Dienstleistungsbranchen.",
@@ -930,66 +930,66 @@
     "summary_abuse": "Epicor ist eine Enterprise-ERP-Plattform für Hersteller, Distributoren und Detailhändler. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird in kontrollierten Unternehmensumgebungen eingesetzt und hat keine nutzerseitigen Funktionen."
   },
   "Eploy": {
-    "description": "Eploy ist eine durchgaengige mehrsprachige E-Recruiting-Plattform, die den gesamten Rekrutierungsprozess von der Stellenanforderung bis zum Onboarding verwaltet.",
-    "history": "Eploy ist eine britische durchgaengige mehrsprachige E-Recruiting-Plattform, die um 2000 gegründet wurde. Das Unternehmen bietet Applicant Tracking, Onboarding und Rekrutierungsmanagement für britische und internationale Unternehmen. Die Plattform ist unabhängig und vor allem im britischen Markt für Recruitment-Technologie aktiv.",
-    "summary_abuse": "Eploy ist eine britische Recruiting-Plattform, die HR-Abteilungen für Applicant Tracking und Onboarding nutzen. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform verarbeitet personenbezogene Bewerberdaten in einem regulierten Beschaeftigungskontext."
+    "description": "Eploy ist eine durchgängige mehrsprachige E-Recruiting-Plattform, die den gesamten Rekrutierungsprozess von der Stellenanforderung bis zum Onboarding verwaltet.",
+    "history": "Eploy ist eine britische durchgängige mehrsprachige E-Recruiting-Plattform, die um 2000 gegründet wurde. Das Unternehmen bietet Applicant Tracking, Onboarding und Rekrutierungsmanagement für britische und internationale Unternehmen. Die Plattform ist unabhängig und vor allem im britischen Markt für Recruitment-Technologie aktiv.",
+    "summary_abuse": "Eploy ist eine britische Recruiting-Plattform, die HR-Abteilungen für Applicant Tracking und Onboarding nutzen. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform verarbeitet personenbezogene Bewerberdaten in einem regulierten Beschäftigungskontext."
   },
   "Epoch": {
-    "history": "Epoch ist eine allgemeine JavaScript-Bibliothek für Echtzeitdiagramme, die urspruenglich 2014 bei Fastly erstellt und als Open Source freigegeben wurde; sie bietet sowohl statische Reporting-Charts auf Basis von D3.js als auch performante Echtzeitdiagramme mit HTML5 Canvas. Seit etwa 2016 gab es keine aktive Entwicklung mehr, das Projekt gilt faktisch als aufgegeben.",
+    "history": "Epoch ist eine allgemeine JavaScript-Bibliothek für Echtzeitdiagramme, die ursprünglich 2014 bei Fastly erstellt und als Open Source freigegeben wurde; sie bietet sowohl statische Reporting-Charts auf Basis von D3.js als auch performante Echtzeitdiagramme mit HTML5 Canvas. Seit etwa 2016 gab es keine aktive Entwicklung mehr, das Projekt gilt faktisch als aufgegeben.",
     "summary_abuse": "Epoch ist eine Open-Source-JavaScript-Bibliothek für Diagramme ohne nutzerseitige Fläche und ohne Missbrauchssignal."
   },
   "Epom": {
     "history": "Epom wurde 2010 als unabhängiges Ad-Tech-Unternehmen gegründet und bietet Ad-Server- sowie DSP-Lösungen (Demand-Side Platform) an. Die Plattform hat ihren Sitz in der Ukraine, bedient mehr als 350 Kunden in über 40 Ländern und unterstützt Publisher, Werbetreibende und Werbenetzwerke beim Management programmatischer und direkter digitaler Werbung.",
-    "summary_abuse": "Epom ist eine digitale Werbeplattform mit Infrastruktur für Ad Serving. Ad-Tech-Plattformen stehen regelmaessig mit Malvertising in Verbindung, bei dem boesartige Anzeigen in legitime Werbenetzwerke eingeschleust werden. Epoms Self-Serve-Werbenetzwerkfunktionen und programmatische Einkaufsmöglichkeiten schaffen Flächen, über die missbraeuchliche oder taeuschende Anzeigen ausgeliefert werden können. Wie bei den meisten Ad-Tech-Plattformen haengt das Verhaeltnis von legitimer Nutzung zu Missbrauch von der Kundenprüfung ab."
+    "summary_abuse": "Epom ist eine digitale Werbeplattform mit Infrastruktur für Ad Serving. Ad-Tech-Plattformen stehen regelmässig mit Malvertising in Verbindung, bei dem bösartige Anzeigen in legitime Werbenetzwerke eingeschleust werden. Epoms Self-Serve-Werbenetzwerkfunktionen und programmatische Einkaufsmöglichkeiten schaffen Flächen, über die missbräuchliche oder täuschende Anzeigen ausgeliefert werden können. Wie bei den meisten Ad-Tech-Plattformen hängt das Verhältnis von legitimer Nutzung zu Missbrauch von der Kundenprüfung ab."
   },
   "Epoq": {
-    "description": "Epoq nutzt kuenstliche Intelligenz für One-to-One-Personalisierung im E-Commerce und verbessert Produktempfehlungen sowie Nutzerinteraktionen durch datengetriebene Erkenntnisse.",
-    "history": "Epoq ist ein deutsches Unternehmen für AI-gestützte E-Commerce-Personalisierung und Empfehlungssysteme. Das Unternehmen entwickelte Technologie für KI-basierte Produktempfehlungen in Online-Shops. Epoq wurde Teil von Entirely, einem offenen MarTech-Oekosystem, das Lösungen von Censhare, Facelift, Marmind, Elaine und Epoq in einer integrierten Plattform verbindet.",
+    "description": "Epoq nutzt AI für One-to-One-Personalisierung im E-Commerce und verbessert Produktempfehlungen sowie Nutzerinteraktionen durch datengetriebene Erkenntnisse.",
+    "history": "Epoq ist ein deutsches Unternehmen für AI-gestützte E-Commerce-Personalisierung und Empfehlungssysteme. Das Unternehmen entwickelte Technologie für AI-basierte Produktempfehlungen in Online-Shops. Epoq wurde Teil von Entirely, einem offenen MarTech-Ökosystem, das Lösungen von Censhare, Facelift, Marmind, Elaine und Epoq in einer integrierten Plattform verbindet.",
     "summary_abuse": "Epoq ist eine B2B-Plattform für E-Commerce-Personalisierung, die von Online-Händlern genutzt wird. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform stellt Recommendation-Engine- und Personalisierungsfunktionen für etablierte Händler bereit."
   },
   "EPrints": {
     "history": "EPrints wurde an der University of Southampton School of Electronics and Computer Science entwickelt und um 2000 erstmals veröffentlicht. Es ist eine freie und Open-Source-Plattform für institutionelle Repositorien mit Unterstützung für OAI-PMH-Metadaten-Harvesting und steht unter GPL-3.0. Die Software wird weltweit von akademischen Institutionen zur Verwaltung von Open-Access-Forschungspublikationen, Daten und Abschlussarbeiten eingesetzt.",
-    "summary_abuse": "EPrints ist eine legitime Software für akademische institutionelle Repositorien, entwickelt von der University of Southampton, ohne bekannte Missbrauchsfaelle. Die Software wird in akademischen Einrichtungen für Open-Access-Archivierung eingesetzt und hat keine nutzerseitige Fläche, die Missbrauch ermöglichen wuerde."
+    "summary_abuse": "EPrints ist eine legitime Software für akademische institutionelle Repositorien, entwickelt von der University of Southampton, ohne bekannte Missbrauchsfälle. Die Software wird in akademischen Einrichtungen für Open-Access-Archivierung eingesetzt und hat keine nutzerseitige Fläche, die Missbrauch ermöglichen würde."
   },
   "ePublishing": {
-    "description": "ePublishing ist ein Media-Tech-Stack, der Umsatz, Produktivitaet und Engagement durch AI-gestützte Lösungen, SEO-Staerke und Zielgruppenintegration verbessert.",
+    "description": "ePublishing ist ein Media-Tech-Stack, der Umsatz, Produktivität und Engagement durch AI-gestützte Lösungen, SEO-Stärke und Zielgruppenintegration verbessert.",
     "history": "ePublishing ist eine US-basierte Medientechnologieplattform für Publisher mit CMS-, Audience-Management- und Umsatzwerkzeugen; sie wurde Ende der 1990er Jahre gegründet, um Fach- und B2B-Medienunternehmen zu bedienen.",
     "summary_abuse": "ePublishing ist eine B2B-Medientechnologieplattform für Fachverlage ohne nennenswertes Missbrauchssignal."
   },
   "EqualWeb": {
     "description": "EqualWeb bietet ein Web-Accessibility-Overlay und hilft manchen Menschen mit Behinderungen beim Zugang zu digitalen Informationen.",
-    "history": "EqualWeb ist eine israelische Plattform für Web-Accessibility und bietet Lösungen für ADA- und WCAG-Compliance. Das Unternehmen wird vom W3C für WCAG-2.2-Compliance anerkannt und bietet AI-gestützte Accessibility-Widgets, Audits und Managed-Compliance-Dienste. Es bedient tausende Unternehmen, die Anforderungen von ADA, AODA und EU EN 301 549 erfuellen wollen.",
-    "summary_abuse": "EqualWeb ist eine Plattform für Web-Accessibility-Compliance. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform injiziert Accessibility-Overlay-Widgets auf Kunden-Websites, was einige Accessibility-Fachleute als unzureichenden Ersatz für echte Barrierefreiheitsverbesserungen kritisieren. Das ist jedoch eher ein technisches Problem als Betrug oder boesartige Nutzung."
+    "history": "EqualWeb ist eine israelische Plattform für Web-Accessibility und bietet Lösungen für ADA- und WCAG-Compliance. Das Unternehmen wird vom W3C für WCAG-2.2-Compliance anerkannt und bietet AI-gestützte Accessibility-Widgets, Audits und Managed-Compliance-Dienste. Es bedient tausende Unternehmen, die Anforderungen von ADA, AODA und EU EN 301 549 erfüllen wollen.",
+    "summary_abuse": "EqualWeb ist eine Plattform für Web-Accessibility-Compliance. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform injiziert Accessibility-Overlay-Widgets auf Kunden-Websites, was einige Accessibility-Fachleute als unzureichenden Ersatz für echte Barrierefreiheitsverbesserungen kritisieren. Das ist jedoch eher ein technisches Problem als Betrug oder bösartige Nutzung."
   },
   "EraofEcom Cartroids": {
     "description": "EraofEcom Cartroids erleichtert das Erstellen stark zielgerichteter Upsells, Cross-Sells und Bundle-Angebote.",
-    "history": "EraofEcom Cartroids ist eine Shopify-App für Upsells und Cross-Sells, entwickelt von der Marke EraofEcom. Das Produkt gehoert zu einer Suite von Shopify-Conversion-Apps von EraofEcom. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
-    "summary_abuse": "EraofEcom Cartroids ist eine Shopify-Upsell-App. Upsell- und Cross-Sell-Werkzeuge können Dark Patterns wie vorausgewählte Zusatzoptionen oder aggressive Countdown-Timer einsetzen. Als kleine Shopify-App hat sie abseits der in dieser Kategorie ueblichen manipulativen UX-Muster nur eine begrenzte Missbrauchsfläche."
+    "history": "EraofEcom Cartroids ist eine Shopify-App für Upsells und Cross-Sells, entwickelt von der Marke EraofEcom. Das Produkt gehört zu einer Suite von Shopify-Conversion-Apps von EraofEcom. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
+    "summary_abuse": "EraofEcom Cartroids ist eine Shopify-Upsell-App. Upsell- und Cross-Sell-Werkzeuge können Dark Patterns wie vorausgewählte Zusatzoptionen oder aggressive Countdown-Timer einsetzen. Als kleine Shopify-App hat sie abseits der in dieser Kategorie üblichen manipulativen UX-Muster nur eine begrenzte Missbrauchsfläche."
   },
   "EraofEcom MTL": {
     "description": "EraofEcom MTL ist eine Shopify-Popup-App, mit der du Website-Besucher erfassen kannst.",
-    "history": "EraofEcom MTL (Milk The Leads) ist eine Shopify-App für Popups und Lead-Erfassung, entwickelt von der Marke EraofEcom; sie gehoert zu einer Suite von Shopify-Apps für Conversion-Optimierung. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "history": "EraofEcom MTL (Milk The Leads) ist eine Shopify-App für Popups und Lead-Erfassung, entwickelt von der Marke EraofEcom; sie gehört zu einer Suite von Shopify-Apps für Conversion-Optimierung. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "EraofEcom MTL ist eine Shopify-App für Popup-Lead-Erfassung. Popup-Tools können E-Mail-Adressen über aggressive oder irreführende Einwilligungs-Overlays sammeln. Als kleine App für Conversion-Optimierung beschränkt sich ihr Missbrauchspotenzial auf die Dark-Pattern-Risiken, die Popup-Marketing-Tools generell mitbringen."
   },
   "EraofEcom WinAds": {
     "description": "EraofEcom WinAds ist eine All-in-one-Facebook-Pixel-App für Shopify.",
-    "history": "EraofEcom WinAds ist eine App für Facebook-Pixel-Management und Werbetracking in Shopify-Shops und gehoert zur EraofEcom-Suite von Conversion-Werkzeugen. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
-    "summary_abuse": "EraofEcom WinAds ist eine Facebook-Pixel-App für Shopify. Facebook-Pixel-Apps ermöglichen detailliertes Verhaltenstracking von Website-Besuchern für Werbe-Retargeting. Das ist legitime Ad Tech, wirft aber Datenschutzfragen zur umfassenden Nutzerverfolgung ohne ausdrueckliche Einwilligung auf."
+    "history": "EraofEcom WinAds ist eine App für Facebook-Pixel-Management und Werbetracking in Shopify-Shops und gehört zur EraofEcom-Suite von Conversion-Werkzeugen. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
+    "summary_abuse": "EraofEcom WinAds ist eine Facebook-Pixel-App für Shopify. Facebook-Pixel-Apps ermöglichen detailliertes Verhaltenstracking von Website-Besuchern für Werbe-Retargeting. Das ist legitime Ad Tech, wirft aber Datenschutzfragen zur umfassenden Nutzerverfolgung ohne ausdrückliche Einwilligung auf."
   },
   "eRate": {
     "description": "eRate ist ein Anbieter digitaler Werbewerkzeuge und Inventare innerhalb globaler Werbenetzwerke.",
     "history": "eRate ist eine Plattform für digitale Werbewerkzeuge und Inventar in globalen Werbenetzwerken. In öffentlichen Quellen wurden kein Gründungsjahr und keine nennenswerte Eigentumsgeschichte gefunden.",
-    "summary_abuse": "eRate ist eine Inventarplattform im Umfeld von Werbenetzwerken. Ad-Tech-nahe Plattformen tragen grundsaetzlich das Risiko, für Malvertising oder Tracking ohne Einwilligung genutzt zu werden, für eRate selbst sind jedoch keine konkreten dokumentierten Missbrauchsfaelle bekannt."
+    "summary_abuse": "eRate ist eine Inventarplattform im Umfeld von Werbenetzwerken. Ad-Tech-nahe Plattformen tragen grundsätzlich das Risiko, für Malvertising oder Tracking ohne Einwilligung genutzt zu werden, für eRate selbst sind jedoch keine konkreten dokumentierten Missbrauchsfälle bekannt."
   },
   "Erlang": {
-    "description": "Erlang ist eine universelle, nebenlaeufige, funktionale Programmiersprache und eine Runtime mit Garbage Collection.",
-    "history": "Erlang wurde 1986 bei Ericsson von Joe Armstrong, Robert Virding und Mike Williams entwickelt, um grosse fehlertolerante Telekommunikationssysteme zu betreiben. Urspruenglich proprietär, wurde Erlang 1998 von Ericsson unter einer permissiven Lizenz als Open Source veröffentlicht. Die Sprache treibt Ericssons AXD301-ATM-Switch mit über 1,6 Millionen Zeilen Code an; sie beeinflusste moderne Nebenlaeufigkeitsmodelle und wird breit in Telekommunikation, Messaging-Systemen wie WhatsApp und RabbitMQ sowie Datenbanken wie CouchDB und Riak eingesetzt.",
+    "description": "Erlang ist eine universelle, nebenläufige, funktionale Programmiersprache und eine Runtime mit Garbage Collection.",
+    "history": "Erlang wurde 1986 bei Ericsson von Joe Armstrong, Robert Virding und Mike Williams entwickelt, um grosse fehlertolerante Telekommunikationssysteme zu betreiben. Ursprünglich proprietär, wurde Erlang 1998 von Ericsson unter einer permissiven Lizenz als Open Source veröffentlicht. Die Sprache treibt Ericssons AXD301-ATM-Switch mit über 1,6 Millionen Zeilen Code an; sie beeinflusste moderne Nebenläufigkeitsmodelle und wird breit in Telekommunikation, Messaging-Systemen wie WhatsApp und RabbitMQ sowie Datenbanken wie CouchDB und Riak eingesetzt.",
     "summary_abuse": "Erlang ist eine grundlegende Programmiersprache ohne nutzerseitige Fläche und ohne Missbrauchssignal; sie wird für kritische verteilte Infrastruktur genutzt, darunter Telekommunikationssysteme, Messaging-Plattformen und Datenbanken."
   },
   "ERPNext": {
     "description": "ERPNext ist eine freie und Open-Source-Software für integrierte Enterprise Resource Planning (ERP), entwickelt von Frappe Technologies.",
-    "history": "ERPNext wurde 2008 von Rushabh Mehta bei Frappe Technologies Pvt. Ltd. gestartet, als Mehta ein ERP-System für das Familienunternehmen bauen musste. 2010 erhielt es den Namen ERPNext, startete zunächst als SaaS-Produkt und wurde spaeter unter GPL-3.0 als Open Source veröffentlicht. Aufgebaut auf dem Frappe-Python-Framework mit MariaDB, entwickelte es sich zum weltweit beliebtesten zu 100 Prozent Open-Source-ERP und bedient Unternehmen von Startups bis zu grossen Konzernen weltweit.",
-    "summary_abuse": "ERPNext ist eine legitime Open-Source-ERP-Plattform, die von Frappe Technologies gepflegt wird, ohne bekannte Missbrauchsfaelle. Die Software wird weltweit von Unternehmen für legitime Unternehmensprozesse eingesetzt. Als selbst gehostete Lösung haengt die Sicherheit davon ab, wie Betreiber ihre Deployments verwalten. Das SaaS-Cloud-Angebot von Frappe ist GDPR-konform."
+    "history": "ERPNext wurde 2008 von Rushabh Mehta bei Frappe Technologies Pvt. Ltd. gestartet, als Mehta ein ERP-System für das Familienunternehmen bauen musste. 2010 erhielt es den Namen ERPNext, startete zunächst als SaaS-Produkt und wurde später unter GPL-3.0 als Open Source veröffentlicht. Aufgebaut auf dem Frappe-Python-Framework mit MariaDB, entwickelte es sich zum weltweit beliebtesten zu 100 Prozent Open-Source-ERP und bedient Unternehmen von Startups bis zu grossen Konzernen weltweit.",
+    "summary_abuse": "ERPNext ist eine legitime Open-Source-ERP-Plattform, die von Frappe Technologies gepflegt wird, ohne bekannte Missbrauchsfälle. Die Software wird weltweit von Unternehmen für legitime Unternehmensprozesse eingesetzt. Als selbst gehostete Lösung hängt die Sicherheit davon ab, wie Betreiber ihre Deployments verwalten. Das SaaS-Cloud-Angebot von Frappe ist GDPR-konform."
   },
   "Errorception": {
     "description": "Errorception ist ein Dienst für Fehlerberichte zu clientseitigen JavaScript-Fehlern im Browser.",
@@ -999,7 +999,7 @@
   "Erxes": {
     "description": "Erxes ist eine Plattform mit Werkzeugen für Marketing, Vertrieb und Kundenservice-Management.",
     "history": "Erxes wurde um 2017 in der Mongolei als Open-Source-Experience-Operating-System gegründet, das CRM, Marketing-Automation, Kundensupport und Teamzusammenarbeit kombiniert. Die Plattform ist in TypeScript geschrieben, mit React-Frontend und Apollo-GraphQL-Backend, und positioniert sich als Open-Source-Alternative zu HubSpot, Zendesk und anderen Enterprise-Kundenplattformen.",
-    "summary_abuse": "Erxes ist eine selbst hostbare Open-Source-CRM-Plattform ohne nennenswertes Missbrauchssignal; sie ist ein entwicklerorientiertes Infrastrukturwerkzeug zur Verwaltung von Kundenbeziehungen, und durch den Open-Source-Ansatz laeuft sie auf der Infrastruktur der Kunden."
+    "summary_abuse": "Erxes ist eine selbst hostbare Open-Source-CRM-Plattform ohne nennenswertes Missbrauchssignal; sie ist ein entwicklerorientiertes Infrastrukturwerkzeug zur Verwaltung von Kundenbeziehungen, und durch den Open-Source-Ansatz läuft sie auf der Infrastruktur der Kunden."
   },
   "eShopCRM": {
     "description": "eShopCRM ist ein E-Commerce-CRM für Shopify.",
@@ -1007,18 +1007,18 @@
     "summary_abuse": "eShopCRM ist ein Shopify-spezifisches CRM-Werkzeug. Es hat keine nutzerseitige Hosting-Fläche und kein dokumentiertes Missbrauchssignal."
   },
   "EspoCRM": {
-    "description": "EspoCRM ist eine Open-Source-CRM-Softwarelösung für Unternehmen jeder Groesse.",
+    "description": "EspoCRM ist eine Open-Source-CRM-Softwarelösung für Unternehmen jeder Grösse.",
     "history": "EspoCRM ist eine Open-Source-CRM-Anwendung, die um 2014 gegründet wurde, mit PHP-Backend und einem Single-Page-Frontend im Stil von React. Das Projekt wird von einem ukrainischen Team gepflegt und unter AGPLv3 mit optionaler kommerzieller Lizenz verteilt. Es unterstützt Kontakte, Leads, Accounts, Opportunities, E-Mail-Kampagnen und Workflow-Automation und gilt als gut etablierte selbst gehostete CRM-Alternative.",
     "summary_abuse": "EspoCRM ist ein selbst gehostetes Open-Source-CRM ohne nennenswertes Missbrauchssignal. Als selbst gehostete Anwendung kontrollieren Nutzer ihre Daten und ihr Deployment selbst. Es gibt keinen nutzerseitig gehosteten Dienst, der bedeutenden Missbrauch durch Dritte ermöglicht."
   },
   "eSputnik": {
     "description": "eSputnik ist ein Marketing-Automation-Dienst für E-Commerce.",
     "history": "eSputnik ist eine ukrainische Plattform für Marketing-Automation sowie E-Mail und SMS, die um 2012 gegründet wurde und vor allem auf E-Commerce-Unternehmen in Osteuropa und darüber hinaus ausgerichtet ist. Bedeutende Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "eSputnik ist eine Marketing-Automation-Plattform mit E-Mail- und SMS-Versandfunktionen. Wie alle Bulk-Messaging-Werkzeuge birgt sie ein gewisses Spam-Risiko, konkrete grosse Missbrauchsfaelle sind jedoch nicht dokumentiert."
+    "summary_abuse": "eSputnik ist eine Marketing-Automation-Plattform mit E-Mail- und SMS-Versandfunktionen. Wie alle Bulk-Messaging-Werkzeuge birgt sie ein gewisses Spam-Risiko, konkrete grosse Missbrauchsfälle sind jedoch nicht dokumentiert."
   },
   "Essent SiteBuilder Pro": {
     "description": "Essent SiteBuilder Pro ist ein voll integriertes webbasiertes System für Website-Design, Content Management und E-Commerce.",
-    "history": "Essent SiteBuilder Pro ist ein webbasiertes Website-Design-System von Essent, einem US-Softwareunternehmen. Das Produkt stellt Hosting-Kunden ein integriertes Werkzeug zum Erstellen von Websites bereit. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "history": "Essent SiteBuilder Pro ist ein webbasiertes Website-Design-System von Essent, einem US-Softwareunternehmen. Das Produkt stellt Hosting-Kunden ein integriertes Werkzeug zum Erstellen von Websites bereit. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Essent SiteBuilder Pro ist ein webbasiertes Sitebuilding-Werkzeug für Hosting-Kunden. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird von kleinen Unternehmen genutzt, um einfache Websites zu erstellen."
   },
   "eSSENTIAL Accessibility": {
@@ -1028,21 +1028,21 @@
   },
   "Essential Addons for Elementor": {
     "description": "Essential Addons for Elementor bietet dir mehr als 70 kreative Elemente und Erweiterungen, um die Standardfunktionen des Elementor Page Builder auszubauen.",
-    "history": "Essential Addons for Elementor wurde 2017 von WPDeveloper gestartet, einem WordPress-Produktunternehmen aus Bangladesch. Es wuchs zum populaersten Elementor-Addon mit über 2 Millionen aktiven Installationen. WPDeveloper steht auch hinter BetterDocs, NotificationX und weiteren beliebten WordPress-Plugins. Das Plugin wurde auf über 110 Widgets ausgebaut und erhielt fortlaufend Sicherheitsupdates.",
+    "history": "Essential Addons for Elementor wurde 2017 von WPDeveloper gestartet, einem WordPress-Produktunternehmen aus Bangladesch. Es wuchs zum populärsten Elementor-Addon mit über 2 Millionen aktiven Installationen. WPDeveloper steht auch hinter BetterDocs, NotificationX und weiteren beliebten WordPress-Plugins. Das Plugin wurde auf über 110 Widgets ausgebaut und erhielt fortlaufend Sicherheitsupdates.",
     "summary_abuse": "Essential Addons for Elementor ist ein verbreitetes WordPress-Plugin ohne nennenswertes Missbrauchssignal. Im Laufe seiner Geschichte wurden mehrere CVEs veröffentlicht und behoben, wie es bei weit verbreiteten WordPress-Plugins typisch ist. Das WPDeveloper-Team hat einen angemessenen Patch-Rhythmus beibehalten."
   },
   "Essential Blocks": {
-    "description": "Essential Blocks ist ein Gutenberg-Blocks-Page-Builder-Plugin, das dem WordPress Block Editor zusätzliche Funktionen hinzufuegt.",
-    "history": "Essential Blocks ist eine Gutenberg-Blockbibliothek von WPDeveloper, demselben Unternehmen aus Bangladesch hinter Essential Addons for Elementor. Das Plugin wurde um 2021 gestartet, um das wachsende Gutenberg-Editor-Oekosystem zu bedienen, und bietet zusätzliche Blocktypen und Funktionen für den nativen Blockeditor von WordPress.",
+    "description": "Essential Blocks ist ein Gutenberg-Blocks-Page-Builder-Plugin, das dem WordPress Block Editor zusätzliche Funktionen hinzufügt.",
+    "history": "Essential Blocks ist eine Gutenberg-Blockbibliothek von WPDeveloper, demselben Unternehmen aus Bangladesch hinter Essential Addons for Elementor. Das Plugin wurde um 2021 gestartet, um das wachsende Gutenberg-Editor-Ökosystem zu bedienen, und bietet zusätzliche Blocktypen und Funktionen für den nativen Blockeditor von WordPress.",
     "summary_abuse": "Essential Blocks ist ein WordPress-Gutenberg-Plugin ohne nennenswertes Missbrauchssignal. Es ist eine serverseitige Template-Bibliothek ohne gehostete Dienstfläche."
   },
   "Essential JS 2": {
-    "history": "Essential JS 2 ist Syncfusions moderne JavaScript-UI-Komponentenbibliothek, entwickelt von Syncfusion Inc., gegründet 2001 in Research Triangle Park, North Carolina. Syncfusion gehoert zu den führenden Anbietern von UI-Komponenten für .NET- und JavaScript-Entwickler. Essential JS 2 ersetzte die aeltere Bibliothek Essential JS 1 durch eine TypeScript-first, modulare Architektur mit Unterstützung für React, Angular, Vue und reines JavaScript.",
+    "history": "Essential JS 2 ist Syncfusions moderne JavaScript-UI-Komponentenbibliothek, entwickelt von Syncfusion Inc., gegründet 2001 in Research Triangle Park, North Carolina. Syncfusion gehört zu den führenden Anbietern von UI-Komponenten für .NET- und JavaScript-Entwickler. Essential JS 2 ersetzte die ältere Bibliothek Essential JS 1 durch eine TypeScript-first, modulare Architektur mit Unterstützung für React, Angular, Vue und reines JavaScript.",
     "summary_abuse": "Essential JS 2 ist eine JavaScript-UI-Komponentenbibliothek ohne nutzerseitige Fläche und ohne Missbrauchssignal; sie ist ein lizenziertes kommerzielles Toolkit, das Enterprise-Entwicklungsteams zum Bau von Webanwendungen nutzen."
   },
   "Estate Track": {
     "description": "Estate Track ist eine All-in-one-Website-Plattform für Immobilienmakler, die automatisiertes Marketing und Leadgenerierung unterstützt.",
-    "history": "Estate Track ist eine britische All-in-one-Website-Plattform für Immobilienmakler mit Verwaltung von Immobilienangeboten, Lead-Erfassung und CRM-Werkzeugen. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "history": "Estate Track ist eine britische All-in-one-Website-Plattform für Immobilienmakler mit Verwaltung von Immobilienangeboten, Lead-Erfassung und CRM-Werkzeugen. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Estate Track ist eine britische Website-Plattform für Immobilienmakler ohne nennenswertes Missbrauchssignal; sie bedient Immobilienagenturen bei Objektangeboten und Lead-Management."
   },
   "Estore Compare": {
@@ -1052,62 +1052,62 @@
   },
   "Estore Shopserve": {
     "description": "Estore Shopserve ist eine All-in-one-Lösung für Zahlungsabwicklung und E-Commerce.",
-    "history": "Estore Shopserve ist eine All-in-one-Lösung für E-Commerce und Zahlungsabwicklung des japanischen Unternehmens eStore; sie bedient japanische Händler mit integrierten Zahlungs- und Shop-Management-Funktionen. eStore gehoert zu den etablierten japanischen E-Commerce-Plattformanbietern.",
-    "summary_abuse": "Estore Shopserve ist eine japanische Plattform für E-Commerce und Zahlungsabwicklung. Wie jede E-Commerce-Plattform hat sie eine begrenzte Exponierung gegenüber betrügerischen Shops. Die Plattform operiert im japanischen Markt mit Zahlungsintegration, was gewisse KYC-Huerden schafft."
+    "history": "Estore Shopserve ist eine All-in-one-Lösung für E-Commerce und Zahlungsabwicklung des japanischen Unternehmens eStore; sie bedient japanische Händler mit integrierten Zahlungs- und Shop-Management-Funktionen. eStore gehört zu den etablierten japanischen E-Commerce-Plattformanbietern.",
+    "summary_abuse": "Estore Shopserve ist eine japanische Plattform für E-Commerce und Zahlungsabwicklung. Wie jede E-Commerce-Plattform hat sie eine begrenzte Exponierung gegenüber betrügerischen Shops. Die Plattform operiert im japanischen Markt mit Zahlungsintegration, was gewisse KYC-Hürden schafft."
   },
   "ESW": {
     "description": "ESW (eShopWorld) ist ein Unternehmen für Zahlungs-, Versand- und Lieferdienste mit Fokus auf grenzüberschreitenden E-Commerce.",
-    "history": "ESW (eShopWorld) ist ein irisches Technologieunternehmen für grenzüberschreitenden E-Commerce, das Zahlungsabwicklung, Versand und Compliance-Dienste für globale DTC-Marken anbietet. Die Plattform ist in 200 Maerkten aktiv und arbeitet mit Shopify und Adyen zusammen. ESW ermöglicht Enterprise-Marken, international lokalisierte Direct-to-Consumer-Shops zu starten, und übernimmt Zoelle, Steuern, Betrugsschutz und Währungsumrechnung.",
-    "summary_abuse": "ESW ist ein legitimer Enterprise-Infrastrukturanbieter für grenzüberschreitenden E-Commerce ohne bekannte Missbrauchsfaelle. Das Unternehmen ist GDPR-konform und PCI-DSS-zertifiziert und arbeitet als Zahlungsabwickler für grosse globale Marken. Öffentlich wurden keine Sicherheitsvorfälle oder betrügerische Nutzung gemeldet."
+    "history": "ESW (eShopWorld) ist ein irisches Technologieunternehmen für grenzüberschreitenden E-Commerce, das Zahlungsabwicklung, Versand und Compliance-Dienste für globale DTC-Marken anbietet. Die Plattform ist in 200 Märkten aktiv und arbeitet mit Shopify und Adyen zusammen. ESW ermöglicht Enterprise-Marken, international lokalisierte Direct-to-Consumer-Shops zu starten, und übernimmt Zölle, Steuern, Betrugsschutz und Währungsumrechnung.",
+    "summary_abuse": "ESW ist ein legitimer Enterprise-Infrastrukturanbieter für grenzüberschreitenden E-Commerce ohne bekannte Missbrauchsfälle. Das Unternehmen ist GDPR-konform und PCI-DSS-zertifiziert und arbeitet als Zahlungsabwickler für grosse globale Marken. Öffentlich wurden keine Sicherheitsvorfälle oder betrügerische Nutzung gemeldet."
   },
   "eSyndiCat": {
-    "history": "eSyndiCat ist eine PHP/MySQL-Verzeichnissoftware, die von Intelliants LLC, einem Webentwicklungsunternehmen, entwickelt wurde; sie bietet sowohl eine kostenlose eingeschraenkte Version als auch eine kostenpflichtige Premium-Edition und ist seit Mitte der 2000er Jahre verfuegbar.",
+    "history": "eSyndiCat ist eine PHP/MySQL-Verzeichnissoftware, die von Intelliants LLC, einem Webentwicklungsunternehmen, entwickelt wurde; sie bietet sowohl eine kostenlose eingeschränkte Version als auch eine kostenpflichtige Premium-Edition und ist seit Mitte der 2000er Jahre verfügbar.",
     "summary_abuse": "eSyndiCat ist eine selbst gehostete PHP-Verzeichnissoftware. Verzeichnissoftware kann zum Aufbau von Linkfarmen genutzt werden, die teils für SEO-Manipulation eingesetzt werden. eSyndiCat selbst hat jedoch keine nennenswerte Vorgeschichte bei Malware-Hosting oder Phishing-Missbrauch. Konkrete Sicherheitsvorfälle wurden nicht öffentlich dokumentiert."
   },
   "Etail Systems": {
     "description": "Etail Systems ist eine zentralisierte All-in-one-Plattform zur Verwaltung aller E-Commerce-Aktivitäten.",
-    "history": "Etail Systems ist eine US-basierte zentralisierte Plattform für E-Commerce-Management, die Multichannel-Händlern hilft, Inventar, Bestellungen und Listings über mehrere Marktplatz- und Vertriebskanäle hinweg zu verwalten. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
+    "history": "Etail Systems ist eine US-basierte zentralisierte Plattform für E-Commerce-Management, die Multichannel-Händlern hilft, Inventar, Bestellungen und Listings über mehrere Marktplatz- und Vertriebskanäle hinweg zu verwalten. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Etail Systems ist eine B2B-E-Commerce-Management-Plattform für Multichannel-Händler. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform wird von etablierten Händlern für Inventar- und Bestellmanagement genutzt."
   },
   "Etch": {
-    "description": "Etch ist eine entwicklerorientierte visuelle Entwicklungsumgebung für WordPress, die WYSIWYG-Bearbeitung mit IDE-Kontrolle und voller Block-Editor-Kompatibilitaet verbindet.",
+    "description": "Etch ist eine entwicklerorientierte visuelle Entwicklungsumgebung für WordPress, die WYSIWYG-Bearbeitung mit IDE-Kontrolle und voller Block-Editor-Kompatibilität verbindet.",
     "history": "Etch ist eine entwicklerorientierte visuelle Entwicklungsumgebung für WordPress, die visuelles Bearbeiten mit Code verbindet. Das Produkt richtet sich an WordPress-Entwickler, die visuelle Werkzeuge nutzen wollen, ohne die Kontrolle über den Code abzugeben. Bedeutende Eigentumswechsel wurden nicht gefunden.",
     "summary_abuse": "Etch ist ein WordPress-Entwicklerwerkzeug ohne nennenswertes Missbrauchssignal. Es ist ein selbst gehostetes Entwicklungswerkzeug für WordPress-Entwickler."
   },
   "Etermio": {
     "description": "Etermio ist ein automatisiertes System für Online-Terminplanung.",
-    "history": "Etermio ist ein automatisiertes System für Online-Terminplanung, das vor allem Gesundheits- und dienstleistungsorientierte Unternehmen bedient. Die Preise beginnen bei ungefaehr 29 EUR pro Monat. Bedeutende Eigentumswechsel wurden nicht gefunden.",
+    "history": "Etermio ist ein automatisiertes System für Online-Terminplanung, das vor allem Gesundheits- und dienstleistungsorientierte Unternehmen bedient. Die Preise beginnen bei ungefähr 29 EUR pro Monat. Bedeutende Eigentumswechsel wurden nicht gefunden.",
     "summary_abuse": "Etermio ist ein SaaS für Terminplanung ohne nennenswertes Missbrauchssignal. Die Plattform wird von Gesundheits- und Dienstleistungsunternehmen für Buchungsverwaltung genutzt."
   },
   "Etherpad": {
     "description": "Etherpad ist ein Open-Source-Webeditor für kollaboratives Bearbeiten in Echtzeit, mit dem Autoren gleichzeitig ein Textdokument bearbeiten und die Änderungen aller Teilnehmenden live sehen können, wobei die Texte der Autoren in eigenen Farben dargestellt werden können.",
-    "history": "Etherpad wurde im November 2008 als kollaborativer Echtzeit-Dokumenteneditor gestartet. Google übernahm das Unternehmen im Dezember 2009 und veröffentlichte den Quellcode am 17. Dezember 2009 unter der Apache License 2.0. Daraus entstanden Grundlagen für kollaborative Funktionen in Google Wave und Google Docs. Das Open-Source-Projekt wird seither von einer unabhängigen Community gepflegt und von der Wikimedia Foundation, EU-Institutionen und Universitaeten weltweit genutzt.",
-    "summary_abuse": "Etherpad ist ein Open-Source-Editor für kollaboratives Arbeiten, der oft als öffentlicher Dienst betrieben wird. Öffentliche Etherpad-Instanzen wurden gelegentlich zum Hosten von Spam, Phishing-Inhalten oder boesartigen Links genutzt, weil anonyme Dokumenterstellung meist erlaubt ist. Selbst gehostete Deployments haben darüber volle Kontrolle. Die Software selbst weist keinen strukturellen Missbrauch auf."
+    "history": "Etherpad wurde im November 2008 als kollaborativer Echtzeit-Dokumenteneditor gestartet. Google übernahm das Unternehmen im Dezember 2009 und veröffentlichte den Quellcode am 17. Dezember 2009 unter der Apache License 2.0. Daraus entstanden Grundlagen für kollaborative Funktionen in Google Wave und Google Docs. Das Open-Source-Projekt wird seither von einer unabhängigen Community gepflegt und von der Wikimedia Foundation, EU-Institutionen und Universitäten weltweit genutzt.",
+    "summary_abuse": "Etherpad ist ein Open-Source-Editor für kollaboratives Arbeiten, der oft als öffentlicher Dienst betrieben wird. Öffentliche Etherpad-Instanzen wurden gelegentlich zum Hosten von Spam, Phishing-Inhalten oder bösartigen Links genutzt, weil anonyme Dokumenterstellung meist erlaubt ist. Selbst gehostete Deployments haben darüber volle Kontrolle. Die Software selbst weist keinen strukturellen Missbrauch auf."
   },
   "Ethers": {
     "description": "Ethers ist eine vollständige, kleine und einfache Ethereum-Bibliothek.",
     "history": "Ethers.js ist eine vollständige, kompakte und einfache Ethereum-Bibliothek, die um 2016 von Richard Moore (ricmoo) erstellt wurde; sie entstand als Alternative zu Web3.js und wurde zur am weitesten verbreiteten JavaScript-Bibliothek für die Interaktion mit der Ethereum-Blockchain. Die Bibliothek wird in der Mehrheit der Ethereum-dApps, Wallets und Web3-Werkzeuge eingesetzt.",
-    "summary_abuse": "Ethers.js ist eine Bibliothek für Blockchain-Interaktion in Ethereum-Anwendungen. Als Bibliothek hat sie kein Missbrauchssignal, wird aber sowohl in legitimen DeFi-Anwendungen als auch in boesartigen Smart Contracts oder Phishing-dApps genutzt. Die Bibliothek selbst ist neutrale Infrastruktur."
+    "summary_abuse": "Ethers.js ist eine Bibliothek für Blockchain-Interaktion in Ethereum-Anwendungen. Als Bibliothek hat sie kein Missbrauchssignal, wird aber sowohl in legitimen DeFi-Anwendungen als auch in bösartigen Smart Contracts oder Phishing-dApps genutzt. Die Bibliothek selbst ist neutrale Infrastruktur."
   },
   "EthicalAds": {
     "description": "EthicalAds ist ein datenschutzfreundliches Werbenetzwerk für Entwickler.",
     "history": "EthicalAds wurde um 2020 als datenschutzfreundliches Werbenetzwerk speziell für Entwickler geschaffen und aus der Dokumentationshosting-Plattform Read the Docs ausgegründet. Das Netzwerk nutzt inhaltsbasiertes Targeting statt Nutzertracking und spielt Anzeigen auf entwicklerorientierten Websites und Dokumentationen aus. Es ist eines der wenigen Werbenetzwerke, die explizit auf GDPR-Compliance ohne Nutzertracking ausgelegt sind.",
-    "summary_abuse": "EthicalAds ist ein datenschutzfreundliches, entwicklerorientiertes Werbenetzwerk ohne nennenswertes Missbrauchssignal. Die klare Datenschutzposition, der inhaltsbasierte Targeting-Ansatz und der Fokus auf technische Dokumentationsseiten machen es zu einer der am wenigsten missbrauchsanfaelligen Werbeplattformen."
+    "summary_abuse": "EthicalAds ist ein datenschutzfreundliches, entwicklerorientiertes Werbenetzwerk ohne nennenswertes Missbrauchssignal. Die klare Datenschutzposition, der inhaltsbasierte Targeting-Ansatz und der Fokus auf technische Dokumentationsseiten machen es zu einer der am wenigsten missbrauchsanfälligen Werbeplattformen."
   },
   "Eticex": {
     "description": "Eticex ist ein E-Commerce-Infrastrukturanbieter mit E-Commerce-Paketen und anpassbaren, leistungsstarken E-Commerce-Lösungen.",
-    "history": "Eticex ist ein E-Commerce-Infrastrukturanbieter mit paketierten E-Commerce-Lösungen für kleine und mittlere Unternehmen. Die Plattform scheint in der Tuerkei ansaessig zu sein und bedient den tuerkischen Markt. Es wurden keine bedeutenden Eigentumswechsel oder groesseren Ereignisse gefunden.",
-    "summary_abuse": "Eticex ist ein kleiner E-Commerce-Infrastrukturanbieter. Wie jede E-Commerce-Plattform hat er gewisse Risiken für betrügerische Shops, falls die Verkaeuferprüfung schwach ist. Dokumentierte Missbrauchsfaelle wurden nicht gefunden."
+    "history": "Eticex ist ein E-Commerce-Infrastrukturanbieter mit paketierten E-Commerce-Lösungen für kleine und mittlere Unternehmen. Die Plattform scheint in der Türkei ansässig zu sein und bedient den türkischen Markt. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
+    "summary_abuse": "Eticex ist ein kleiner E-Commerce-Infrastrukturanbieter. Wie jede E-Commerce-Plattform hat er gewisse Risiken für betrügerische Shops, falls die Verkäuferprüfung schwach ist. Dokumentierte Missbrauchsfälle wurden nicht gefunden."
   },
   "etika": {
     "description": "etika ist ein Fintech-Unternehmen aus Manchester, das Buy-now-pay-later-Lösungen anbietet.",
-    "history": "etika ist ein Fintech-Unternehmen aus Manchester, das Buy-now-pay-later-Lösungen (BNPL) für Online- und stationaere Kaeufe anbietet und um 2018 gegründet wurde.",
-    "summary_abuse": "etika ist ein BNPL-Fintech mit der für diesen Sektor typischen Exponierung gegenüber Identitätsbetrug. BNPL-Dienste sind ein dokumentiertes Ziel für synthetischen Identitätsbetrug und Account Takeover. Etika-spezifische Missbrauchsfaelle sind nicht breit dokumentiert."
+    "history": "etika ist ein Fintech-Unternehmen aus Manchester, das Buy-now-pay-later-Lösungen (BNPL) für Online- und stationäre Käufe anbietet und um 2018 gegründet wurde.",
+    "summary_abuse": "etika ist ein BNPL-Fintech mit der für diesen Sektor typischen Exponierung gegenüber Identitätsbetrug. BNPL-Dienste sind ein dokumentiertes Ziel für synthetischen Identitätsbetrug und Account Takeover. Etika-spezifische Missbrauchsfälle sind nicht breit dokumentiert."
   },
   "Etix": {
     "description": "Etix ist ein internationaler webbasierter Ticketing-Dienstleister für Entertainment, Reisen und Sport.",
-    "history": "Etix wurde 2000 in Raleigh, North Carolina, als unabhängige webbasierte Ticketing-Plattform für Veranstaltungsorte gegründet. Das Unternehmen wuchs auf mehr als 50 Millionen Tickets pro Jahr für über 4'100 Kunden in 40 Ländern und wurde zum groessten unabhängigen Ticketing-Unternehmen Nordamerikas. Es hat Büros in den USA, Deutschland, den Niederlanden, Oesterreich, Japan und China.",
-    "summary_abuse": "Etix ist eine unabhängige Ticketing-Plattform für Veranstaltungsorte. Ticketing-Plattformen werden gelegentlich von Scalpern mit automatisierten Kaufbots angegriffen, und Fake-Ticket-Betrug kann legitime Ticketing-Dienste referenzieren. Für Etix sind keine grossen Missbrauchsfaelle mit Betrug oder Malware dokumentiert. Die nutzerseitigen Ticketing-Seiten sind indirekt ein Betrugsvektor über Drittanbieter-Scalping."
+    "history": "Etix wurde 2000 in Raleigh, North Carolina, als unabhängige webbasierte Ticketing-Plattform für Veranstaltungsorte gegründet. Das Unternehmen wuchs auf mehr als 50 Millionen Tickets pro Jahr für über 4'100 Kunden in 40 Ländern und wurde zum grössten unabhängigen Ticketing-Unternehmen Nordamerikas. Es hat Büros in den USA, Deutschland, den Niederlanden, Österreich, Japan und China.",
+    "summary_abuse": "Etix ist eine unabhängige Ticketing-Plattform für Veranstaltungsorte. Ticketing-Plattformen werden gelegentlich von Scalpern mit automatisierten Kaufbots angegriffen, und Fake-Ticket-Betrug kann legitime Ticketing-Dienste referenzieren. Für Etix sind keine grossen Missbrauchsfälle mit Betrug oder Malware dokumentiert. Die nutzerseitigen Ticketing-Seiten sind indirekt ein Betrugsvektor über Drittanbieter-Scalping."
   },
   "Etracker": {
     "description": "Etracker ist eine Lösung zur Weboptimierung.",
@@ -1309,7 +1309,7 @@
   "ExpressionEngine": {
     "description": "ExpressionEngine ist ein freies und Open-Source-CMS.",
     "history": "ExpressionEngine wurde von EllisLab entwickelt, das 2002 gegründet wurde, zunächst als pMachine Pro, bevor es sich zu ExpressionEngine weiterentwickelte. Viele Jahre war es ein kostenpflichtiges CMS, bis EllisLab es 2018 nach 16 Jahren unter der MIT License als Open Source veröffentlichte. EllisLab wurde 2019 von Digital Locations übernommen. Das CMS verlor über die Jahre deutlich Marktanteile an WordPress, behält aber eine Nischennutzerschaft.",
-    "summary_abuse": "ExpressionEngine ist ein selbst gehostetes CMS mit langer Geschichte und kleiner, aber treuer Nutzerschaft. Wie bei jedem CMS können darauf aufgebaute Websites kompromittiert werden, wenn sie nicht gepatcht sind, doch die Plattform selbst ist nicht auffällig mit Missbrauch verbunden. Ihr geringer Marktanteil und die selbst gehostete Natur reduzieren die Attraktivität für grossflächige Missbrauchskampagnen."
+    "summary_abuse": "ExpressionEngine ist ein selbst gehostetes CMS mit langer Geschichte und kleiner, aber treuer Nutzerschaft. Wie bei jedem CMS können darauf aufgebaute Websites kompromittiert werden, wenn sie nicht gepatcht sind, doch die Plattform selbst ist nicht auffällig mit Missbrauch verbunden. Der geringe Marktanteil und die selbst gehostete Natur reduzieren die Attraktivität für grossflächige Missbrauchskampagnen."
   },
   "Extend": {
     "description": "Extend ist ein Dienst, der Marken Produkt- und Versandabsicherung anbietet, neue Einnahmequellen schafft und zugleich Kundenloyalität und Vertrauen stärkt.",

@@ -373,94 +373,94 @@
     "summary_abuse": "Paths.js ist eine clientseitige Bibliothek zur Erzeugung von SVG-Pfaden, ohne serverseitige Angriffsfläche und ohne Missbrauchssignal."
   },
   "Patient Prism": {
-    "description": "Patient Prism ist eine Call-Tracking- und KI-gestützte Coaching-Plattform für Zahnarztpraxen, die Praxisablaeufe, Patientenbindung und Gesamtleistung verbessern soll.",
+    "description": "Patient Prism ist eine Call-Tracking- und KI-gestützte Coaching-Plattform für Zahnarztpraxen, die Praxisabläufe, Patientenbindung und Gesamtleistung verbessern soll.",
     "history": "Patient Prism ist eine US-Plattform für Zahnarztpraxis-Analysen und KI-Call-Coaching, die um 2016 gegründet wurde und Zahnarztpraxen dabei hilft, die Umwandlung von Anrufen in Termine zu verbessern.",
-    "summary_abuse": "Patient Prism ist eine Analyseplattform für Zahnarztpraxen, die Patiententelefondaten verarbeitet. Als HIPAA-konforme Plattform im Gesundheitsumfeld zeigt sie kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Patient Prism ist eine Analyseplattform für Zahnarztpraxen, die Patiententelefondaten verarbeitet. Als HIPAA-konforme Plattform im Gesundheitsumfeld zeigt sie kein auffälliges Missbrauchssignal."
   },
   "PatientLoop": {
     "description": "PatientLoop ist eine Softwareplattform, mit der Organisationen den Return on Investment ihrer Leistungen für Kunden messen, belegen und rapportieren können, einschliesslich skalierbarer Leistungs- und Wirkungsanalyse.",
     "history": "PatientLoop ist eine kleine britische SaaS-Analyseplattform zur Messung von Servicewirkung und ROI, vor allem für Organisationen im Gesundheits- und Sozialwesen.",
-    "summary_abuse": "PatientLoop ist eine B2B-Analyseplattform für Gesundheitsdienste ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "PatientLoop ist eine B2B-Analyseplattform für Gesundheitsdienste ohne auffälliges Missbrauchssignal."
   },
   "PatientSites": {
     "description": "PatientSites bietet Lead-Generierung und Website-Entwicklung für Physiotherapiepraxen.",
     "history": "PatientSites ist ein US-Anbieter von Websites und Lead-Generierung für Physiotherapiepraxen und bietet vorlagenbasierte Website-Lösungen sowie digitales Marketing für PT-Kliniken.",
-    "summary_abuse": "PatientSites ist ein Website-Builder für Gesundheitspraxen ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "PatientSites ist ein Website-Builder für Gesundheitspraxen ohne auffälliges Missbrauchssignal."
   },
   "Patreon": {
     "description": "Patreon ist eine amerikanische Membership-Plattform, die Kreativen Business-Werkzeuge bietet, um Abodienste zu betreiben.",
     "history": "Patreon wurde 2013 vom Musiker Jack Conte und Sam Yam in San Francisco als Membership-Plattform gegründet, über die Kreative wiederkehrende Zahlungen von Fans erhalten können. Das Unternehmen hat mehr als 400 Millionen US-Dollar VC-Finanzierung aufgenommen und ist auf Hunderttausende Kreative gewachsen.",
-    "summary_abuse": "Patreon wird gelegentlich für betrügerische Creator-Konten genutzt, die Unterstützungsbeitraege einwerben, ohne Inhalte zu liefern, oder unter falscher Creator-Identität Geld sammeln. Die Plattform hat Inhaltsrichtlinien und Takedown-Mechanismen, doch kostenlose Registrierung und frei gestaltbare Seiten ermöglichen Betrug mit wenig Aufwand. Patreon hat auf die Durchsetzung von NSFW-Richtlinien reagiert, mit mehreren prominenten Massnahmen über die Jahre. Insgesamt macht Missbrauch nur einen kleinen Anteil der legitimen Creator-Nutzung aus."
+    "summary_abuse": "Patreon wird gelegentlich für betrügerische Creator-Konten genutzt, die Unterstützungsbeiträge einwerben, ohne Inhalte zu liefern, oder unter falscher Creator-Identität Geld sammeln. Die Plattform hat Inhaltsrichtlinien und Takedown-Mechanismen, doch kostenlose Registrierung und frei gestaltbare Seiten ermöglichen Betrug mit wenig Aufwand. Patreon hat auf die Durchsetzung von NSFW-Richtlinien reagiert, mit mehreren prominenten Massnahmen über die Jahre. Insgesamt macht Missbrauch nur einen kleinen Anteil der legitimen Creator-Nutzung aus."
   },
   "Pattern by Etsy": {
-    "description": "Pattern ist ein Angebot von Etsy, mit dem Etsy-Verkaeufer zusätzlich zu ihrem Etsy-Shop eine eigene Website einrichten können.",
-    "history": "Pattern ist ein 2016 eingeführtes Etsy-Produkt, mit dem Etsy-Verkaeufer eigenstaendige Ecommerce-Websites erstellen können, die mit dem Inventar ihres Etsy-Shops verbunden sind. Es ist ein Nebenprodukt von Etsy, einem boersenkotierten Unternehmen.",
-    "summary_abuse": "Pattern by Etsy hat ein sehr geringes Missbrauchsrisiko, da es direkt an verifizierte Etsy-Verkaeuferkonten gebunden ist. Betrug auf der Plattform wuerde über Etsy-Richtlinien und Durchsetzung behandelt. Spezifische nennenswerte Missbrauchsfaelle zu Pattern sind nicht dokumentiert."
+    "description": "Pattern ist ein Angebot von Etsy, mit dem Etsy-Verkäufer zusätzlich zu ihrem Etsy-Shop eine eigene Website einrichten können.",
+    "history": "Pattern ist ein 2016 eingeführtes Etsy-Produkt, mit dem Etsy-Verkäufer eigenständige Ecommerce-Websites erstellen können, die mit dem Inventar ihres Etsy-Shops verbunden sind. Es ist ein Nebenprodukt von Etsy, einem börsenkotierten Unternehmen.",
+    "summary_abuse": "Pattern by Etsy hat ein sehr geringes Missbrauchsrisiko, da es direkt an verifizierte Etsy-Verkäuferkonten gebunden ist. Betrug auf der Plattform würde über Etsy-Richtlinien und Durchsetzung behandelt. Spezifische nennenswerte Missbrauchsfälle zu Pattern sind nicht dokumentiert."
   },
   "Pay It Later": {
-    "description": "Pay It Later zieht beim Onlinekauf woechentliche Raten ein, damit du jetzt kaufen und spaeter bezahlen kannst.",
-    "history": "Pay It Later ist ein australischer Buy-now-pay-later-Dienst, der vor allem im australischen Ecommerce-Markt taetig ist. Er bietet woechentliche Ratenzahlungen für Onlinekaeufe an.",
-    "summary_abuse": "Pay It Later ist ein australischer BNPL-Zahlungsdienst. BNPL-Dienste sind anfaellig für Identitätsbetrug und Kontoübernahmen, bei denen Betrüger gestohlene Identitäten für Kaeufe mit aufgeschobener Zahlung nutzen. Legitime Nutzung überwiegt, aber der Dienst hat die uebliche BNPL-Betrugsexposition."
+    "description": "Pay It Later zieht beim Onlinekauf wöchentliche Raten ein, damit du jetzt kaufen und später bezahlen kannst.",
+    "history": "Pay It Later ist ein australischer Buy-now-pay-later-Dienst, der vor allem im australischen Ecommerce-Markt tätig ist. Er bietet wöchentliche Ratenzahlungen für Onlinekäufe an.",
+    "summary_abuse": "Pay It Later ist ein australischer BNPL-Zahlungsdienst. BNPL-Dienste sind anfällig für Identitätsbetrug und Kontoübernahmen, bei denen Betrüger gestohlene Identitäten für Käufe mit aufgeschobener Zahlung nutzen. Legitime Nutzung überwiegt, aber der Dienst hat die übliche BNPL-Betrugsexposition."
   },
   "Pay.": {
     "description": "Pay. ist ein All-in-one-Zahlungsanbieter mit integrierten Lösungen für Online- und Vor-Ort-Transaktionen.",
-    "history": "Pay. (pay.nl) ist ein niederlaendischer Zahlungsdienstleister, der um 2010 gegründet wurde und Online- sowie Vor-Ort-Zahlungsabwicklung vor allem für niederlaendische und europaeische Händler anbietet.",
-    "summary_abuse": "Pay. ist ein niederlaendischer Zahlungsabwickler, der unter PSD2 reguliert ist und uebliche Betrugskontrollen einsetzt. Zahlungsabwickler sehen etwas Betrug, Pay. ist jedoch ein regulierter Finanzdienstleister mit standardmaessigem Risikomanagement."
+    "history": "Pay. (pay.nl) ist ein niederländischer Zahlungsdienstleister, der um 2010 gegründet wurde und Online- sowie Vor-Ort-Zahlungsabwicklung vor allem für niederländische und europäische Händler anbietet.",
+    "summary_abuse": "Pay. ist ein niederländischer Zahlungsabwickler, der unter PSD2 reguliert ist und übliche Betrugskontrollen einsetzt. Zahlungsabwickler sehen etwas Betrug, Pay. ist jedoch ein regulierter Finanzdienstleister mit standardmässigem Risikomanagement."
   },
   "PayBright": {
-    "description": "PayBright ist ein kanadisches Fintech-Unternehmen, das Konsumenten beim Checkout kurzfristige, zinsfreie Ratenkredite für Onlinekaeufe anbietet.",
-    "history": "PayBright war ein kanadisches Buy-now-pay-later-Fintech, das um 2009 gegründet wurde. Im Januar 2021 übernahm Affirm PayBright für rund 340 Millionen CAD und erweiterte damit seine BNPL-Praesenz in Kanada. PayBright wird weiterhin als Affirm-Tochter betrieben.",
-    "summary_abuse": "PayBright ist eine von Affirm übernommene BNPL-Plattform. Wie alle BNPL-Dienste ist sie branchenweiten Zahlungsbetrugsrisiken ausgesetzt. Als Tochter des boersenkotierten Unternehmens Affirm unterliegt sie hohen Compliance- und Betrugserkennungsanforderungen. Plattformbezogene Missbrauchsfaelle sind nicht prominent dokumentiert."
+    "description": "PayBright ist ein kanadisches Fintech-Unternehmen, das Konsumenten beim Checkout kurzfristige, zinsfreie Ratenkredite für Onlinekäufe anbietet.",
+    "history": "PayBright war ein kanadisches Buy-now-pay-later-Fintech, das um 2009 gegründet wurde. Im Januar 2021 übernahm Affirm PayBright für rund 340 Millionen CAD und erweiterte damit seine BNPL-Präsenz in Kanada. PayBright wird weiterhin als Affirm-Tochter betrieben.",
+    "summary_abuse": "PayBright ist eine von Affirm übernommene BNPL-Plattform. Wie alle BNPL-Dienste ist sie branchenweiten Zahlungsbetrugsrisiken ausgesetzt. Als Tochter des börsenkotierten Unternehmens Affirm unterliegt sie hohen Compliance- und Betrugserkennungsanforderungen. Plattformbezogene Missbrauchsfälle sind nicht prominent dokumentiert."
   },
   "Paycove": {
-    "description": "Paycove ist eine Revenue-Operations-Plattform, die Zahlungen, Abrechnung und Reporting in einem System zusammenführt, Finanzablaeufe vereinfacht und zentrale Sicht auf Transaktionen bietet.",
+    "description": "Paycove ist eine Revenue-Operations-Plattform, die Zahlungen, Abrechnung und Reporting in einem System zusammenführt, Finanzabläufe vereinfacht und zentrale Sicht auf Transaktionen bietet.",
     "history": "Paycove ist eine kleine SaaS-Plattform für Revenue Operations, die einheitliche Zahlungen, Abrechnung und Finanzreporting bietet und um 2020 gestartet wurde.",
-    "summary_abuse": "Paycove ist eine B2B-Plattform für Revenue Operations ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "Paycove ist eine B2B-Plattform für Revenue Operations ohne auffälliges Missbrauchssignal."
   },
   "Paydock": {
     "description": "Paydock ist ein Werkzeug zur Verwaltung von Zahlungen und Transaktionen über mehrere Plattformen hinweg.",
     "history": "Paydock ist eine australische Payment-Orchestration-Plattform, die um 2014 gegründet wurde und Händlern ermöglicht, mehrere Zahlungsgateways und Dienste über eine einheitliche API zu verbinden und zu verwalten.",
-    "summary_abuse": "Paydock ist eine Payment-Orchestration-Plattform für Enterprise-Händler mit ueblicher PCI-DSS-Compliance. Abgesehen von der normalen Betrugsexposition von Zahlungsabwicklern gibt es kein spezifisches Missbrauchssignal."
+    "summary_abuse": "Paydock ist eine Payment-Orchestration-Plattform für Enterprise-Händler mit üblicher PCI-DSS-Compliance. Abgesehen von der normalen Betrugsexposition von Zahlungsabwicklern gibt es kein spezifisches Missbrauchssignal."
   },
   "PayFast": {
-    "description": "PayFast ist ein Zahlungsabwicklungsdienst für Suedafrikaner und suedafrikanische Websites.",
-    "history": "PayFast wurde 2007 als eines der ersten Online-Zahlungsgateways Suedafrikas gegründet. Es wird breit von suedafrikanischen Ecommerce-Händlern und gemeinnuetzigen Organisationen genutzt. Nennenswerte Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "PayFast ist ein suedafrikanisches Zahlungsgateway mit der für Zahlungsabwickler typischen Betrugsexposition. Es arbeitet unter suedafrikanischer Regulierung und nach PCI-DSS-Standards. Plattformbezogene Missbrauchsfaelle sind nicht prominent dokumentiert."
+    "description": "PayFast ist ein Zahlungsabwicklungsdienst für Südafrikaner und südafrikanische Websites.",
+    "history": "PayFast wurde 2007 als eines der ersten Online-Zahlungsgateways Südafrikas gegründet. Es wird breit von südafrikanischen Ecommerce-Händlern und gemeinnützigen Organisationen genutzt. Nennenswerte Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "PayFast ist ein südafrikanisches Zahlungsgateway mit der für Zahlungsabwickler typischen Betrugsexposition. Es arbeitet unter südafrikanischer Regulierung und nach PCI-DSS-Standards. Plattformbezogene Missbrauchsfälle sind nicht prominent dokumentiert."
   },
   "Payflex": {
-    "description": "Payflex bietet suedafrikanischen Händlern ein Online-Zahlungsgateway, mit dem Kaeufer zinsfrei über 6 Wochen bezahlen können.",
-    "history": "Payflex ist ein suedafrikanischer BNPL-Dienst, der um 2017 gegründet wurde und zinsfreie 6-Wochen-Raten für suedafrikanische Onlinekaeufer anbietet. Er wurde von Woolworths Financial Services, einer Tochter von Woolworths Holdings, übernommen.",
-    "summary_abuse": "Payflex ist ein suedafrikanischer BNPL-Dienst, der als Finanzdienstleister reguliert ist. BNPL-Dienste sind Identitätsbetrug und Kontoübernahmen ausgesetzt, und Payflex arbeitet im vergleichsweise betrugsanfaelligen suedafrikanischen Ecommerce-Umfeld, verfuegt aber über uebliche Betrugskontrollen für Finanzdienste."
+    "description": "Payflex bietet südafrikanischen Händlern ein Online-Zahlungsgateway, mit dem Käufer zinsfrei über 6 Wochen bezahlen können.",
+    "history": "Payflex ist ein südafrikanischer BNPL-Dienst, der um 2017 gegründet wurde und zinsfreie 6-Wochen-Raten für südafrikanische Onlinekäufer anbietet. Er wurde von Woolworths Financial Services, einer Tochter von Woolworths Holdings, übernommen.",
+    "summary_abuse": "Payflex ist ein südafrikanischer BNPL-Dienst, der als Finanzdienstleister reguliert ist. BNPL-Dienste sind Identitätsbetrug und Kontoübernahmen ausgesetzt, und Payflex arbeitet im vergleichsweise betrugsanfälligen südafrikanischen Ecommerce-Umfeld, verfügt aber über übliche Betrugskontrollen für Finanzdienste."
   },
   "PayGreen": {
-    "description": "PayGreen ist ein franzoesischer Zahlungsabwickler.",
-    "history": "PayGreen ist ein franzoesischer Zahlungsabwickler, der um 2011 gegründet wurde und sich auf nachhaltige Zahlungslösungen konzentriert. Neben Standard-Zahlungsabwicklung bietet er Mehrzahlungsfunktionen wie Ratenzahlungen und Spenden.",
-    "summary_abuse": "PayGreen ist ein franzoesischer Zahlungsabwickler unter EU-Finanzdienstleistungsrecht. Standard-Zahlungsabwickler sehen Betrugsversuche, PayGreen verfuegt jedoch über uebliche PCI-DSS-Compliance und Betrugskontrollen. Nennenswerte spezifische Missbrauchsfaelle sind nicht dokumentiert."
+    "description": "PayGreen ist ein französischer Zahlungsabwickler.",
+    "history": "PayGreen ist ein französischer Zahlungsabwickler, der um 2011 gegründet wurde und sich auf nachhaltige Zahlungslösungen konzentriert. Neben Standard-Zahlungsabwicklung bietet er Mehrzahlungsfunktionen wie Ratenzahlungen und Spenden.",
+    "summary_abuse": "PayGreen ist ein französischer Zahlungsabwickler unter EU-Finanzdienstleistungsrecht. Standard-Zahlungsabwickler sehen Betrugsversuche, PayGreen verfügt jedoch über übliche PCI-DSS-Compliance und Betrugskontrollen. Nennenswerte spezifische Missbrauchsfälle sind nicht dokumentiert."
   },
   "PayHere": {
     "description": "PayHere ist eine Plattform für Zahlungslinks, mit denen Onlinezahlungen einfacher eingezogen werden können.",
     "history": "PayHere ist eine britische Plattform für Zahlungslinks, die um 2018 gegründet wurde und kleinen Unternehmen sowie Freelancern ermöglicht, Zahlungen über teilbare Links einzuziehen, ohne einen vollständigen Ecommerce-Auftritt aufzubauen.",
-    "summary_abuse": "PayHere ist eine Plattform für Zahlungslinks mit einem kostenlosen Tarif, der das schnelle Einrichten von Zahlungsseiten erlaubt. Zahlungslink-Tools mit einfacher Registrierung können in Betrugsmaschen eingesetzt werden, bei denen Taeter gefaelschte Zahlungsaufforderungen an Opfer senden. PayHere hat uebliche Händlerprüfungen, doch die einfache Einrichtung bringt ein gewisses Grundrisiko mit sich."
+    "summary_abuse": "PayHere ist eine Plattform für Zahlungslinks mit einem kostenlosen Tarif, der das schnelle Einrichten von Zahlungsseiten erlaubt. Zahlungslink-Tools mit einfacher Registrierung können in Betrugsmaschen eingesetzt werden, bei denen Täter gefälschte Zahlungsaufforderungen an Opfer senden. PayHere hat übliche Händlerprüfungen, doch die einfache Einrichtung bringt ein gewisses Grundrisiko mit sich."
   },
   "Payhip": {
     "description": "Payhip ist eine Plattform, mit der Kreative digitale Downloads verkaufen und Mitgliedschaftsabos verwalten können.",
-    "history": "Payhip wurde 2013 im Vereinigten Koenigreich als Plattform gegründet, über die Kreative digitale Produkte, E-Books und Mitgliedschaften ohne Vorabkosten verkaufen können, wobei Payhip eine Verkaufsprovision erhebt.",
+    "history": "Payhip wurde 2013 im Vereinigten Königreich als Plattform gegründet, über die Kreative digitale Produkte, E-Books und Mitgliedschaften ohne Vorabkosten verkaufen können, wobei Payhip eine Verkaufsprovision erhebt.",
     "summary_abuse": "Payhip ermöglicht es praktisch jedem, mit kostenlosem Tarif und geringer Verifikation einen Storefront zu erstellen und digitale Produkte zu verkaufen. Das wurde für den Verkauf piratisierter E-Books, unlizenzierter digitaler Inhalte und betrügerischer Kurse ausgenutzt. Die Verkaufsprovision schafft einen gewissen Anreiz zur Durchsetzung, doch einfache Registrierung und kostenloses Hosting herunterladbarer Dateien machen die Plattform wiederholt attraktiv für digitale Piraterie und irreführende Produktangebote."
   },
   "PayJustNow": {
     "description": "PayJustNow ist eine Buy-now-pay-later-Checkout-Option für Ecommerce-Websites.",
-    "history": "PayJustNow ist ein suedafrikanischer Buy-now-pay-later-Dienst, der um 2018 gegründet wurde und Zahlungen für suedafrikanische Ecommerce-Händler in drei Raten aufteilt.",
-    "summary_abuse": "PayJustNow ist ein suedafrikanischer BNPL-Dienst mit ueblicher Identitätsprüfung und Betrugskontrollen für Finanzdienste. BNPL-Dienste sind für Identitätsbetrug anfaellig, PayJustNow arbeitet jedoch in einem regulierten Finanzdienstleistungskontext."
+    "history": "PayJustNow ist ein südafrikanischer Buy-now-pay-later-Dienst, der um 2018 gegründet wurde und Zahlungen für südafrikanische Ecommerce-Händler in drei Raten aufteilt.",
+    "summary_abuse": "PayJustNow ist ein südafrikanischer BNPL-Dienst mit üblicher Identitätsprüfung und Betrugskontrollen für Finanzdienste. BNPL-Dienste sind für Identitätsbetrug anfällig, PayJustNow arbeitet jedoch in einem regulierten Finanzdienstleistungskontext."
   },
   "PayKickStart": {
-    "description": "PayKickstart ist eine Online-Warenkorb- und Affiliate-Management-Plattform mit integrierten Funktionen zur Conversion-Steigerung, darunter One-click-Upsells für Kreditkarte und PayPal, Order Bumps, individuelle Checkout-Seiten, Widgets, Embed-Formulare, Gutscheinverwaltung, automatische Versandfeldausfuellung, Subscription-Saver-Sequenzen und mehr.",
+    "description": "PayKickstart ist eine Online-Warenkorb- und Affiliate-Management-Plattform mit integrierten Funktionen zur Conversion-Steigerung, darunter One-click-Upsells für Kreditkarte und PayPal, Order Bumps, individuelle Checkout-Seiten, Widgets, Embed-Formulare, Gutscheinverwaltung, automatische Versandfeldausfüllung, Subscription-Saver-Sequenzen und mehr.",
     "history": "PayKickstart ist eine US-SaaS für Warenkorb- und Affiliate-Management, die um 2014 gegründet wurde und digitale Produktanbieter sowie Info-Marketer mit Checkout-Optimierung und Affiliate-Programmverwaltung anspricht.",
-    "summary_abuse": "PayKickstart ist eine Checkout- und Affiliate-Plattform, die stark im Digital-Marketing- und Info-Produkt-Umfeld genutzt wird. Diese Nische ist mit aggressiven Verkaufstaktiken und gelegentlich taeuschenden Upsells verbunden. Über PayKickstart verwaltete Affiliate-Programme können von betrügerischen Affiliates mit Spam oder irreführender Werbung ausgenutzt werden. Für die Plattform ist eine Nutzung bei aggressiv vermarkteten digitalen Produkten dokumentiert."
+    "summary_abuse": "PayKickstart ist eine Checkout- und Affiliate-Plattform, die stark im Digital-Marketing- und Info-Produkt-Umfeld genutzt wird. Diese Nische ist mit aggressiven Verkaufstaktiken und gelegentlich täuschenden Upsells verbunden. Über PayKickstart verwaltete Affiliate-Programme können von betrügerischen Affiliates mit Spam oder irreführender Werbung ausgenutzt werden. Für die Plattform ist eine Nutzung bei aggressiv vermarkteten digitalen Produkten dokumentiert."
   },
   "Payl8r": {
-    "description": "PayL8r.com bietet Rueckzahlungsplaene und Onlinefinanzierung, mit denen du Produkte online kaufen kannst.",
-    "history": "Payl8r ist eine britische BNPL- und Onlinefinanzierungsplattform, die um 2014 gegründet wurde und Rueckzahlungsplaene für Onlinekaeufe bei britischen Händlern anbietet.",
-    "summary_abuse": "Payl8r ist ein britischer BNPL-Finanzdienst, der von der FCA reguliert wird. Er ist den ueblichen BNPL-Betrugsrisiken ausgesetzt, darunter Identitätsbetrug und Kreditmissbrauch, und untersteht der britischen Konsumkreditregulierung."
+    "description": "PayL8r.com bietet Rückzahlungspläne und Onlinefinanzierung, mit denen du Produkte online kaufen kannst.",
+    "history": "Payl8r ist eine britische BNPL- und Onlinefinanzierungsplattform, die um 2014 gegründet wurde und Rückzahlungspläne für Onlinekäufe bei britischen Händlern anbietet.",
+    "summary_abuse": "Payl8r ist ein britischer BNPL-Finanzdienst, der von der FCA reguliert wird. Er ist den üblichen BNPL-Betrugsrisiken ausgesetzt, darunter Identitätsbetrug und Kreditmissbrauch, und untersteht der britischen Konsumkreditregulierung."
   },
   "Payload CMS": {
     "description": "Payload CMS ist ein headless und erweiterbares JavaScript-Content-Management-System für die Anwendungsentwicklung.",
@@ -470,136 +470,136 @@
   "Paylocity": {
     "description": "Paylocity ist ein amerikanisches Unternehmen, das cloudbasierte Software für Payroll und Human Capital Management anbietet.",
     "history": "Paylocity wurde 1997 von Steve Sarowitz in Chicago als Payroll-Softwareunternehmen gegründet. Das Unternehmen ging 2014 an die NASDAQ und wuchs zu einer der führenden cloudbasierten HCM- und Payroll-Plattformen für US-Mittelstandsfirmen.",
-    "summary_abuse": "Paylocity ist eine boersenkotierte US-SaaS für HR und Payroll ohne auffaelliges Missbrauchssignal; sie verarbeitet Mitarbeiter- und Lohndaten unter strengen US-Regulierungsanforderungen. Plattformbezogene Missbrauchsfaelle sind nicht dokumentiert."
+    "summary_abuse": "Paylocity ist eine börsenkotierte US-SaaS für HR und Payroll ohne auffälliges Missbrauchssignal; sie verarbeitet Mitarbeiter- und Lohndaten unter strengen US-Regulierungsanforderungen. Plattformbezogene Missbrauchsfälle sind nicht dokumentiert."
   },
   "Paymattic": {
     "description": "Paymattic ist ein WordPress-Zahlungsplugin mit integrierten Spendenfunktionen und No-code-Einrichtung für Onlinezahlungen.",
     "history": "Paymattic ist ein WordPress-Zahlungsplugin von WPManageNinja, einem bangladeschischen WordPress-Plugin-Unternehmen. Es wurde um 2020 gestartet, um Zahlungs- und Spendenfunktionen für WordPress-Websites bereitzustellen.",
-    "summary_abuse": "Paymattic ist ein WordPress-Plugin zum Einziehen von Zahlungen. WordPress-Zahlungsplugins muessen sorgfaeltig implementiert werden, um Schwachstellen zu vermeiden, für Paymattic sind jedoch keine spezifischen breitflächigen Missbrauchsfaelle dokumentiert."
+    "summary_abuse": "Paymattic ist ein WordPress-Plugin zum Einziehen von Zahlungen. WordPress-Zahlungsplugins müssen sorgfältig implementiert werden, um Schwachstellen zu vermeiden, für Paymattic sind jedoch keine spezifischen breitflächigen Missbrauchsfälle dokumentiert."
   },
   "Paymenter": {
     "description": "Paymenter ist eine Open-Source-Webshop-Lösung für Hosting-Unternehmen.",
-    "history": "Paymenter ist eine Open-Source-Billing- und Webshop-Plattform für Hosting-Unternehmen, die im Oktober 2022 unter MIT-Lizenz erstmals auf GitHub veröffentlicht wurde und mit Laravel gebaut ist. Das Projekt ist auf rund 1'700 GitHub-Stars gewachsen und wird von der Community gepflegt, ohne institutionelle Rueckendeckung.",
-    "summary_abuse": "Paymenter ist ein selbst gehostetes Open-Source-Billing-Tool für Hosting-Unternehmen. Da es selbst gehostet wird und technisches Setup erfordert, ist es keine schlüsselfertige Plattform für wenig versierte Betrüger. Öffentliche Berichte über eine Nutzung des Projekts in missbraeuchlicher Hosting-Infrastruktur wurden nicht gefunden."
+    "history": "Paymenter ist eine Open-Source-Billing- und Webshop-Plattform für Hosting-Unternehmen, die im Oktober 2022 unter MIT-Lizenz erstmals auf GitHub veröffentlicht wurde und mit Laravel gebaut ist. Das Projekt ist auf rund 1'700 GitHub-Stars gewachsen und wird von der Community gepflegt, ohne institutionelle Rückendeckung.",
+    "summary_abuse": "Paymenter ist ein selbst gehostetes Open-Source-Billing-Tool für Hosting-Unternehmen. Da es selbst gehostet wird und technisches Setup erfordert, ist es keine schlüsselfertige Plattform für wenig versierte Betrüger. Öffentliche Berichte über eine Nutzung des Projekts in missbräuchlicher Hosting-Infrastruktur wurden nicht gefunden."
   },
   "Paymentus": {
     "description": "Paymentus ist eine Plattform, die Unternehmen und Organisationen eine vollständige elektronische Rechnungs- und Zahlungslösung bietet.",
-    "history": "Paymentus wurde 2004 gegründet und ist eine US-Plattform für elektronische Rechnungsstellung und Zahlungen für Versorger, Behoerden und Versicherungen. Das Unternehmen ging 2021 an die NYSE und verarbeitet jährlich Hunderte Millionen Rechnungszahlungen.",
-    "summary_abuse": "Paymentus ist eine Enterprise-Plattform für Rechnungszahlungen, die von Versorgern und Behoerden genutzt wird und starke Compliance- sowie Betrugskontrollen hat. Nennenswerte plattformbezogene Missbrauchsfaelle sind nicht dokumentiert."
+    "history": "Paymentus wurde 2004 gegründet und ist eine US-Plattform für elektronische Rechnungsstellung und Zahlungen für Versorger, Behörden und Versicherungen. Das Unternehmen ging 2021 an die NYSE und verarbeitet jährlich Hunderte Millionen Rechnungszahlungen.",
+    "summary_abuse": "Paymentus ist eine Enterprise-Plattform für Rechnungszahlungen, die von Versorgern und Behörden genutzt wird und starke Compliance- sowie Betrugskontrollen hat. Nennenswerte plattformbezogene Missbrauchsfälle sind nicht dokumentiert."
   },
   "Payoneer": {
     "description": "Payoneer ist eine Online-Zahlungsabwicklungsplattform für digitale Unternehmen.",
     "history": "Payoneer wurde 2005 in New York als Plattform für grenzüberschreitende Zahlungen für Freelancer und digitale Unternehmen gegründet. Das Unternehmen ging 2021 über eine SPAC-Fusion unter dem Ticker PAYO an die NASDAQ. Es bedient weltweit Millionen Nutzer für Marketplace-Auszahlungen und internationale Geschäftszahlungen.",
-    "summary_abuse": "Payoneer ist eine etablierte Plattform für grenzüberschreitende Zahlungen, die von Millionen Freelancern und Unternehmen legitim genutzt wird; sie tauchte jedoch in Betrugsmaschen auf, bei denen Scammer gefaelschte Jobangebote machen und die Einrichtung von Payoneer-Konten verlangen, sowie in Romance-Scams und Advance-fee-Betrug. Payoneer hat Betrugsbekaempfungsprogramme und KYC-Prozesse, bleibt als internationaler Geldtransferdienst mit hohem Volumen aber dauerhaft für Betrug attraktiv. Der Anbieter hat über die Jahre auf regulatorische und betrugsbezogene Bedenken reagiert."
+    "summary_abuse": "Payoneer ist eine etablierte Plattform für grenzüberschreitende Zahlungen, die von Millionen Freelancern und Unternehmen legitim genutzt wird; sie tauchte jedoch in Betrugsmaschen auf, bei denen Scammer gefälschte Jobangebote machen und die Einrichtung von Payoneer-Konten verlangen, sowie in Romance-Scams und Advance-fee-Betrug. Payoneer hat Betrugsbekämpfungsprogramme und KYC-Prozesse, bleibt als internationaler Geldtransferdienst mit hohem Volumen aber dauerhaft für Betrug attraktiv. Der Anbieter hat über die Jahre auf regulatorische und betrugsbezogene Bedenken reagiert."
   },
   "PayPal": {
     "description": "PayPal ist ein Online-Zahlungssystem, das Geldtransfers im Internet unterstützt und als elektronische Alternative zu traditionellen Papiermethoden wie Schecks und Zahlungsanweisungen dient.",
-    "history": "PayPal wurde 1998 von Max Levchin, Peter Thiel, Luke Nosek und Ken Howery gegründet. eBay übernahm das Unternehmen 2002 für 1,5 Milliarden US-Dollar und spaltete es 2015 wieder als eigenstaendiges boersenkotiertes Unternehmen ab. PayPal gehoert weltweit zu den groessten digitalen Zahlungsplattformen mit Hunderten Millionen aktiver Konten.",
-    "summary_abuse": "PayPal gehoert weltweit zu den am häufigsten imitierten Marken in Phishing-Kampagnen, bei denen Angreifer gefaelschte Zahlungsbelege oder Kontowarnungen senden, um Zugangsdaten zu stehlen. PayPal-Konten sind zudem häufiges Ziel von Kontoübernahmen und Money-Mule-Rekrutierung. Als dominante Plattform verfuegt PayPal über ausgefeilte Betrugserkennung, aktive Durchsetzung und ein Bug-Bounty-Programm. Die Missbrauchsrate im Verhaeltnis zum gesamten Transaktionsvolumen ist niedrig, die absolute Zahl PayPal-bezogener Betrugsfaelle gehoert jedoch zu den hoechsten unter Zahlungsplattformen."
+    "history": "PayPal wurde 1998 von Max Levchin, Peter Thiel, Luke Nosek und Ken Howery gegründet. eBay übernahm das Unternehmen 2002 für 1,5 Milliarden US-Dollar und spaltete es 2015 wieder als eigenständiges börsenkotiertes Unternehmen ab. PayPal gehört weltweit zu den grössten digitalen Zahlungsplattformen mit Hunderten Millionen aktiver Konten.",
+    "summary_abuse": "PayPal gehört weltweit zu den am häufigsten imitierten Marken in Phishing-Kampagnen, bei denen Angreifer gefälschte Zahlungsbelege oder Kontowarnungen senden, um Zugangsdaten zu stehlen. PayPal-Konten sind zudem häufiges Ziel von Kontoübernahmen und Money-Mule-Rekrutierung. Als dominante Plattform verfügt PayPal über ausgefeilte Betrugserkennung, aktive Durchsetzung und ein Bug-Bounty-Programm. Die Missbrauchsrate im Verhältnis zum gesamten Transaktionsvolumen ist niedrig, die absolute Zahl PayPal-bezogener Betrugsfälle gehört jedoch zu den höchsten unter Zahlungsplattformen."
   },
   "PayPal Credit": {
-    "description": "PayPal Credit ist eine wiederverwendbare Kreditlinie, mit der du Onlinekaeufe über einen laengeren Zeitraum bezahlen kannst.",
-    "history": "PayPal Credit ist ein revolvierendes Kreditprodukt von PayPal, früher BillMeLater vor der Übernahme durch PayPal im Jahr 2008. Es ermöglicht Konsumenten, Zahlungen für über PayPal getätigte Kaeufe aufzuschieben. Es ist ein Finanzprodukt von PayPal, einem boersenkotierten Unternehmen.",
+    "description": "PayPal Credit ist eine wiederverwendbare Kreditlinie, mit der du Onlinekäufe über einen längeren Zeitraum bezahlen kannst.",
+    "history": "PayPal Credit ist ein revolvierendes Kreditprodukt von PayPal, früher BillMeLater vor der Übernahme durch PayPal im Jahr 2008. Es ermöglicht Konsumenten, Zahlungen für über PayPal getätigte Käufe aufzuschieben. Es ist ein Finanzprodukt von PayPal, einem börsenkotierten Unternehmen.",
     "summary_abuse": "PayPal Credit ist demselben Missbrauchsumfeld ausgesetzt wie PayPal insgesamt, darunter Phishing-Mails, die PayPal-Credit-Benachrichtigungen imitieren, und Versuche zur Kontoübernahme. Als Kreditprodukt ist es zusätzlich Kreditbetrug mit gestohlenen Identitäten ausgesetzt. PayPal steuert dies mit robuster Betrugserkennung als Teil der breiteren Plattform."
   },
   "PayPal Marketing Solutions": {
-    "description": "PayPal Marketing Solutions ermöglicht Händlern Einblicke in Kaeuferdaten und individuelle Belohnungen für Kaeufer mit PayPal-Konten.",
-    "history": "PayPal Marketing Solutions ist ein Produkt von PayPal für Händlerintelligenz und Kaeufereinblicke. Es gibt Händlern Zugriff auf Verhaltensdaten von Kaeufern, um Conversion zu verbessern, und wurde im Rahmen des Ausbaus der PayPal-Commerce-Plattform eingeführt.",
-    "summary_abuse": "PayPal Marketing Solutions sammelt händlerübergreifende Einkaufsverhaltensdaten, um Händlern Zielgruppen-Einblicke zu liefern. Die umfangreiche Datenerhebung wirft Datenschutzfragen auf, erfolgt als PayPal-Produkt aber unter etablierten Datenschutzrichtlinien. Plattformbezogene Missbrauchsfaelle sind nicht dokumentiert."
+    "description": "PayPal Marketing Solutions ermöglicht Händlern Einblicke in Käuferdaten und individuelle Belohnungen für Käufer mit PayPal-Konten.",
+    "history": "PayPal Marketing Solutions ist ein Produkt von PayPal für Händlerintelligenz und Käufereinblicke. Es gibt Händlern Zugriff auf Verhaltensdaten von Käufern, um Conversion zu verbessern, und wurde im Rahmen des Ausbaus der PayPal-Commerce-Plattform eingeführt.",
+    "summary_abuse": "PayPal Marketing Solutions sammelt händlerübergreifende Einkaufsverhaltensdaten, um Händlern Zielgruppen-Einblicke zu liefern. Die umfangreiche Datenerhebung wirft Datenschutzfragen auf, erfolgt als PayPal-Produkt aber unter etablierten Datenschutzrichtlinien. Plattformbezogene Missbrauchsfälle sind nicht dokumentiert."
   },
   "Payplug": {
-    "description": "Payplug ist eine franzoesische Omnichannel-Zahlungslösung für Händler.",
-    "history": "Payplug wurde 2012 in Frankreich als Zahlungsgateway speziell für franzoesische KMU gegründet. Es wurde von Crédit Mutuel Arkéa, einer grossen franzoesischen Bankengruppe, übernommen, die in das Unternehmen investierte, um ihren KMU-Bankkunden Zahlungsdienste anzubieten.",
-    "summary_abuse": "Payplug ist ein franzoesischer Zahlungsabwickler, der unter PSD2 reguliert ist und PCI-DSS-Compliance sowie uebliche Betrugskontrollen einsetzt. Er ist vor allem im franzoesischen KMU-Markt taetig, und nennenswerte spezifische Missbrauchsfaelle sind nicht dokumentiert."
+    "description": "Payplug ist eine französische Omnichannel-Zahlungslösung für Händler.",
+    "history": "Payplug wurde 2012 in Frankreich als Zahlungsgateway speziell für französische KMU gegründet. Es wurde von Crédit Mutuel Arkéa, einer grossen französischen Bankengruppe, übernommen, die in das Unternehmen investierte, um ihren KMU-Bankkunden Zahlungsdienste anzubieten.",
+    "summary_abuse": "Payplug ist ein französischer Zahlungsabwickler, der unter PSD2 reguliert ist und PCI-DSS-Compliance sowie übliche Betrugskontrollen einsetzt. Er ist vor allem im französischen KMU-Markt tätig, und nennenswerte spezifische Missbrauchsfälle sind nicht dokumentiert."
   },
   "Payrexx": {
     "description": "Payrexx ist eine Online-Zahlungslösung, die den Empfang von Zahlungen über verschiedene Plattformen erleichtert.",
-    "history": "Payrexx ist eine Schweizer Online-Zahlungsplattform, die um 2013 gegründet wurde und Schweizer sowie europaeische Händler mit Payment-Page- und Zahlungslink-Tools bedient, konform mit Schweizer und EU-Regulierung.",
-    "summary_abuse": "Payrexx ist eine Schweizer Zahlungsplattform unter EU- und Schweizer Finanzregulierung mit ueblicher PCI-DSS-Compliance. Nennenswerte spezifische Missbrauchsfaelle sind nicht dokumentiert."
+    "history": "Payrexx ist eine Schweizer Online-Zahlungsplattform, die um 2013 gegründet wurde und Schweizer sowie europäische Händler mit Payment-Page- und Zahlungslink-Tools bedient, konform mit Schweizer und EU-Regulierung.",
+    "summary_abuse": "Payrexx ist eine Schweizer Zahlungsplattform unter EU- und Schweizer Finanzregulierung mit üblicher PCI-DSS-Compliance. Nennenswerte spezifische Missbrauchsfälle sind nicht dokumentiert."
   },
   "Paysafe": {
     "description": "Paysafe ist eine Zahlungsplattform, die Unternehmen und Konsumenten über Zahlungsabwicklung, digitale Wallets und Online-Cash-Lösungen verbindet und Transaktionen ermöglicht.",
-    "history": "Paysafe wurde 1996 im Vereinigten Koenigreich gegründet und wuchs durch mehrere Übernahmen, darunter Skrill, NETELLER und Income Access. 2017 wurde das Unternehmen von Blackstone und CVC privatisiert und 2020 über eine SPAC an der NYSE erneut kotiert. Es bedient Online-Glücksspiel, Gaming und klassischen Handel.",
+    "history": "Paysafe wurde 1996 im Vereinigten Königreich gegründet und wuchs durch mehrere Übernahmen, darunter Skrill, NETELLER und Income Access. 2017 wurde das Unternehmen von Blackstone und CVC privatisiert und 2020 über eine SPAC an der NYSE erneut kotiert. Es bedient Online-Glücksspiel, Gaming und klassischen Handel.",
     "summary_abuse": "Paysafe ist eine grosse globale Zahlungsplattform, die stark in Online-Glücksspiel und Gaming genutzt wird, Bereichen mit erhöhtem Betrugsrisiko. Das Prepaid-Produkt Paysafecard ist historisch in Betrugsszenarien aufgetaucht, darunter Premium-SMS-Scams und Advance-fee-Betrug, da Prepaid-Produkte anonyme oder pseudonyme Transaktionen erlauben. Paysafe hat Betrugskontrollen und AML-Programme, doch die Prepaid- und Digital-Wallet-Segmente weisen dokumentierten Missbrauch durch schlechte Akteure auf."
   },
   "Paysera": {
     "description": "Paysera ist eine Plattform für Geldtransfers und Zahlungsdienste.",
-    "history": "Paysera wurde 2004 in Litauen als eines der ersten europaeischen E-Geld-Institute gegründet und bietet Zahlungs- sowie Geldtransferdienste in der EU an. Das Unternehmen haelt eine EMI-Lizenz der Bank of Lithuania und bedient Millionen Nutzer im Baltikum und in Osteuropa.",
-    "summary_abuse": "Paysera ist ein lizenziertes EU-E-Geld-Institut. Als Geldtransferdienst ist es in gewissem Mass Money-Mule-Betrug und Missbrauch betrügerischer Händlerkonten ausgesetzt, arbeitet aber unter regulatorischer Aufsicht und mit ueblichen AML- und KYC-Kontrollen. Keine grossen spezifischen dokumentierten Vorfälle heben es von anderen lizenzierten Zahlungsanbietern ab."
+    "history": "Paysera wurde 2004 in Litauen als eines der ersten europäischen E-Geld-Institute gegründet und bietet Zahlungs- sowie Geldtransferdienste in der EU an. Das Unternehmen hält eine EMI-Lizenz der Bank of Lithuania und bedient Millionen Nutzer im Baltikum und in Osteuropa.",
+    "summary_abuse": "Paysera ist ein lizenziertes EU-E-Geld-Institut. Als Geldtransferdienst ist es in gewissem Mass Money-Mule-Betrug und Missbrauch betrügerischer Händlerkonten ausgesetzt, arbeitet aber unter regulatorischer Aufsicht und mit üblichen AML- und KYC-Kontrollen. Keine grossen spezifischen dokumentierten Vorfälle heben es von anderen lizenzierten Zahlungsanbietern ab."
   },
   "PAYTR": {
     "description": "PAYTR ist eine Plattform für die sichere Fernverwaltung aller Zahlungstransaktionen.",
-    "history": "PAYTR ist ein tuerkisches Zahlungsgateway und eine Zahlungsabwicklungsplattform, die um 2011 gegründet wurde und tuerkischen Händlern sichere Onlinezahlungen ermöglicht; sie ist ein führender Anbieter von Zahlungsinfrastruktur im tuerkischen Markt.",
-    "summary_abuse": "PAYTR zeigt kein auffaelliges Missbrauchssignal über das hinaus, was für Zahlungsabwickler typisch ist. Es ist ein tuerkisches Zahlungsgateway für legitime Onlinehändler, mit PCI-DSS-Compliance als grundlegender Sicherheitskontrolle."
+    "history": "PAYTR ist ein türkisches Zahlungsgateway und eine Zahlungsabwicklungsplattform, die um 2011 gegründet wurde und türkischen Händlern sichere Onlinezahlungen ermöglicht; sie ist ein führender Anbieter von Zahlungsinfrastruktur im türkischen Markt.",
+    "summary_abuse": "PAYTR zeigt kein auffälliges Missbrauchssignal über das hinaus, was für Zahlungsabwickler typisch ist. Es ist ein türkisches Zahlungsgateway für legitime Onlinehändler, mit PCI-DSS-Compliance als grundlegender Sicherheitskontrolle."
   },
   "PayU Payment": {
-    "description": "PayU ist ein Anbieter von Finanzlösungen für Ecommerce und erleichtert Onlinezahlungen sowie zugehoerige Transaktionsdienste.",
-    "history": "PayU wurde 2002 gegründet und ist ein internationaler Zahlungsabwickler mit Taetigkeit in Afrika, Asien, Mittel- und Osteuropa sowie Lateinamerika. Es ist eine Tochter von Prosus, selbst eine Tochter des suedafrikanischen multinationalen Konzerns Naspers. PayU hat mehrere Übernahmen getaetigt, um global zu expandieren.",
-    "summary_abuse": "PayU ist ein internationaler Zahlungsabwickler mit ueblichem Zahlungsbetrugsrisiko. In Schwellenmaerkten ist es in manchen Rechtsraeumen hoeheren Betrugsraten ausgesetzt, arbeitet aber unter PCI-DSS- und regulatorischer Compliance. Plattformbezogene Missbrauchsfaelle sind nicht prominent dokumentiert."
+    "description": "PayU ist ein Anbieter von Finanzlösungen für Ecommerce und erleichtert Onlinezahlungen sowie zugehörige Transaktionsdienste.",
+    "history": "PayU wurde 2002 gegründet und ist ein internationaler Zahlungsabwickler mit Tätigkeit in Afrika, Asien, Mittel- und Osteuropa sowie Lateinamerika. Es ist eine Tochter von Prosus, selbst eine Tochter des südafrikanischen multinationalen Konzerns Naspers. PayU hat mehrere Übernahmen getätigt, um global zu expandieren.",
+    "summary_abuse": "PayU ist ein internationaler Zahlungsabwickler mit üblichem Zahlungsbetrugsrisiko. In Schwellenmärkten ist es in manchen Rechtsräumen höheren Betrugsraten ausgesetzt, arbeitet aber unter PCI-DSS- und regulatorischer Compliance. Plattformbezogene Missbrauchsfälle sind nicht prominent dokumentiert."
   },
   "Payva": {
     "description": "Payva ist eine Buy-now-pay-later-Plattform für Kreative mit strukturierten Zahlungsoptionen, die auf kreative Arbeit zugeschnitten sind.",
-    "history": "Payva ist eine Buy-now-pay-later-Plattform speziell für die Creator Economy und ermöglicht strukturierte Zahlungsplaene für kreative Arbeit und Dienstleistungen; sie scheint um 2021 als nischiger BNPL-Anbieter für Freelancer und Kreative gestartet zu sein.",
-    "summary_abuse": "Payva ist ein nischiger BNPL-Dienst für Kreative ohne auffaelliges Missbrauchssignal in öffentlichen Berichten. Wie bei allen BNPL-Plattformen besteht ein gewisses Risiko betrügerischer Kaufversuche mit gestohlenen Zahlungsdaten, doch die Creator-Nische begrenzt die Angriffsfläche gegenüber grossen Verbraucher-BNPL-Anbietern."
+    "history": "Payva ist eine Buy-now-pay-later-Plattform speziell für die Creator Economy und ermöglicht strukturierte Zahlungspläne für kreative Arbeit und Dienstleistungen; sie scheint um 2021 als nischiger BNPL-Anbieter für Freelancer und Kreative gestartet zu sein.",
+    "summary_abuse": "Payva ist ein nischiger BNPL-Dienst für Kreative ohne auffälliges Missbrauchssignal in öffentlichen Berichten. Wie bei allen BNPL-Plattformen besteht ein gewisses Risiko betrügerischer Kaufversuche mit gestohlenen Zahlungsdaten, doch die Creator-Nische begrenzt die Angriffsfläche gegenüber grossen Verbraucher-BNPL-Anbietern."
   },
   "PayWhirl": {
     "description": "PayWhirl bietet Widgets und Werkzeuge zur Abwicklung wiederkehrender Zahlungen.",
-    "history": "PayWhirl ist eine US-Plattform für wiederkehrende Zahlungen und Abonnementverwaltung, die um 2012 gegründet wurde und Händlern Werkzeuge für Abo-Abrechnung und Zahlungsplaene bereitstellt.",
+    "history": "PayWhirl ist eine US-Plattform für wiederkehrende Zahlungen und Abonnementverwaltung, die um 2012 gegründet wurde und Händlern Werkzeuge für Abo-Abrechnung und Zahlungspläne bereitstellt.",
     "summary_abuse": "PayWhirl ist eine Plattform für wiederkehrende Zahlungen. Abo-Abrechnungsplattformen können für Abo-Fallen missbraucht werden, PayWhirl ist jedoch ein B2B-Werkzeug ohne dokumentiertes relevantes Missbrauchsprofil."
   },
   "PCI Proxy": {
-    "description": "PCI Proxy ist eine Tokenisierungsplattform, mit der Organisationen weltweit moderne Zahlungsflexibilitaet und Datensicherheit umsetzen können.",
-    "history": "PCI Proxy ist eine Zahlungstokenisierungsplattform von Datatrans AG, einem Schweizer Zahlungsunternehmen; sie bietet Proxy- und Tokenisierungsdienste für Kartendaten, damit Unternehmen Zahlungsfluesse abwickeln können, ohne Kartendaten in der eigenen Umgebung zu speichern, und so den PCI-DSS-Umfang reduzieren.",
-    "summary_abuse": "PCI Proxy zeigt kein auffaelliges Missbrauchssignal. Es ist ein Zahlungs-Tokenisierungs- und Proxy-Dienst, mit dem Unternehmen den PCI-DSS-Umfang reduzieren und Karteninhaberdaten in einer konformen Infrastruktur verarbeiten, die schlechten Akteuren nicht zugänglich ist."
+    "description": "PCI Proxy ist eine Tokenisierungsplattform, mit der Organisationen weltweit moderne Zahlungsflexibilität und Datensicherheit umsetzen können.",
+    "history": "PCI Proxy ist eine Zahlungstokenisierungsplattform von Datatrans AG, einem Schweizer Zahlungsunternehmen; sie bietet Proxy- und Tokenisierungsdienste für Kartendaten, damit Unternehmen Zahlungsflüsse abwickeln können, ohne Kartendaten in der eigenen Umgebung zu speichern, und so den PCI-DSS-Umfang reduzieren.",
+    "summary_abuse": "PCI Proxy zeigt kein auffälliges Missbrauchssignal. Es ist ein Zahlungs-Tokenisierungs- und Proxy-Dienst, mit dem Unternehmen den PCI-DSS-Umfang reduzieren und Karteninhaberdaten in einer konformen Infrastruktur verarbeiten, die schlechten Akteuren nicht zugänglich ist."
   },
   "PCRecruiter": {
     "description": "PCRecruiter ist eine ATS/CRM-Hybrid-SaaS-Lösung für Recruiting- und Sourcing-Fachleute.",
-    "history": "PCRecruiter ist eine Applicant-Tracking- und CRM-Plattform für Recruiting-Agenturen und Staffing-Fachleute, entwickelt von Main Sequence Technology Inc; sie ist seit den spaeten 1990er-Jahren in Betrieb und gehoert zu den langlebigeren ATS/CRM-Lösungen der Staffing-Branche.",
-    "summary_abuse": "PCRecruiter zeigt kein auffaelliges Missbrauchssignal. Es ist eine Recruiting-CRM- und ATS-Plattform für Staffing-Agenturen, ohne verbraucherorientierte Hosting-Fläche, die Betrugsakteure anziehen wuerde."
+    "history": "PCRecruiter ist eine Applicant-Tracking- und CRM-Plattform für Recruiting-Agenturen und Staffing-Fachleute, entwickelt von Main Sequence Technology Inc; sie ist seit den späten 1990er-Jahren in Betrieb und gehört zu den langlebigeren ATS/CRM-Lösungen der Staffing-Branche.",
+    "summary_abuse": "PCRecruiter zeigt kein auffälliges Missbrauchssignal. Es ist eine Recruiting-CRM- und ATS-Plattform für Staffing-Agenturen, ohne verbraucherorientierte Hosting-Fläche, die Betrugsakteure anziehen würde."
   },
   "PDF.js": {
     "history": "PDF.js ist eine Open-Source-JavaScript-Bibliothek von Mozilla zum Rendern von PDF-Dokumenten in Webbrowsern mit HTML5 canvas; sie wurde erstmals 2011 veröffentlicht und ist die in Firefox integrierte PDF-Rendering-Engine. Das Projekt wird von Mozilla und der Open-Source-Community unter der Apache-2.0-Lizenz gepflegt.",
-    "summary_abuse": "PDF.js zeigt als Bibliothek kein auffaelliges Missbrauchssignal. Es ist eine grundlegende Browser-PDF-Rendering-Engine von Mozilla, die von Millionen Webanwendungen genutzt wird, um PDFs ohne Plugins anzuzeigen."
+    "summary_abuse": "PDF.js zeigt als Bibliothek kein auffälliges Missbrauchssignal. Es ist eine grundlegende Browser-PDF-Rendering-Engine von Mozilla, die von Millionen Webanwendungen genutzt wird, um PDFs ohne Plugins anzuzeigen."
   },
   "pdfmake": {
     "description": "PDF-Erzeugung auf Client- und Serverseite in reinem JavaScript.",
     "history": "pdfmake ist eine JavaScript-Bibliothek für Client und Server zum Erstellen von PDF-Dokumenten, entstanden um 2014; sie unterstützt Browser- und Node.js-Umgebungen und wird breit für die Erzeugung von PDF-Reports genutzt.",
-    "summary_abuse": "pdfmake zeigt kein auffaelliges Missbrauchssignal. Es ist eine PDF-Erzeugungsbibliothek ohne serverseitige gehostete Servicekomponente."
+    "summary_abuse": "pdfmake zeigt kein auffälliges Missbrauchssignal. Es ist eine PDF-Erzeugungsbibliothek ohne serverseitige gehostete Servicekomponente."
   },
   "Peachie": {
-    "description": "Peachie ist ein All-in-one-CMS zum Erstellen und Verkaufen von Onlinekursen sowie zur Verwaltung von Website-Inhalten und verwandten digitalen Ablaeufen.",
+    "description": "Peachie ist ein All-in-one-CMS zum Erstellen und Verkaufen von Onlinekursen sowie zur Verwaltung von Website-Inhalten und verwandten digitalen Abläufen.",
     "history": "Peachie ist eine All-in-one-LMS- und CMS-Plattform zum Erstellen und Verkaufen von Onlinekursen, ausgerichtet auf einzelne Kreative und kleine Kursunternehmen; sie scheint um 2020 mit Freemium-Preismodell gestartet zu sein.",
-    "summary_abuse": "Peachie ist ein nischiges LMS/CMS für Onlinekurs-Ersteller ohne auffaelliges Missbrauchssignal. Die Plattform ist auf Inhaltserstellung ausgerichtet und bietet keine Funktionen, die typischerweise für Phishing oder Spam missbraucht werden."
+    "summary_abuse": "Peachie ist ein nischiges LMS/CMS für Onlinekurs-Ersteller ohne auffälliges Missbrauchssignal. Die Plattform ist auf Inhaltserstellung ausgerichtet und bietet keine Funktionen, die typischerweise für Phishing oder Spam missbraucht werden."
   },
   "Peachs": {
     "description": "Peachs ist ein Squarespace-Ecommerce-System für Word-of-mouth-Marketing, das Produkte über Kundenempfehlungen und Social Sharing bewirbt.",
     "history": "Peachs ist ein auf Squarespace ausgerichtetes Referral-Marketing-Tool, mit dem Ecommerce-Shops Word-of-mouth- und Social-Sharing-Kampagnen betreiben können. Es ist eine nischige SaaS speziell für Squarespace-Händler.",
-    "summary_abuse": "Peachs ist ein Referral-Marketing-Tool für Squarespace-Shops ohne auffaelliges Missbrauchssignal. Als Marketingplattform sammelt es Kundendaten für Empfehlungsprogramme, bewegt sich aber im normalen Ecommerce-Referral-Umfeld ohne dokumentierte Betrugs- oder Scam-Muster."
+    "summary_abuse": "Peachs ist ein Referral-Marketing-Tool für Squarespace-Shops ohne auffälliges Missbrauchssignal. Als Marketingplattform sammelt es Kundendaten für Empfehlungsprogramme, bewegt sich aber im normalen Ecommerce-Referral-Umfeld ohne dokumentierte Betrugs- oder Scam-Muster."
   },
   "Pear Commerce": {
-    "description": "Pear Commerce ist eine Retail-Ecommerce-Plattform der naechsten Generation, die CPG-Marken mit Händlern verbindet, indem sie shoppable Tools in verwertbare Marketingeinblicke umwandelt.",
-    "history": "Pear Commerce ist eine US-Retail-Ecommerce-Plattform, die um 2019 gegründet wurde und Konsumguetermarken (CPG) über shoppable Tools und Marketinganalysen mit Händlern verbindet; sie richtet sich an Enterprise-CPG-Marken, die Retail Media und shoppable Experiences benoetigen.",
-    "summary_abuse": "Pear Commerce ist eine B2B-CPG-Retail-Ecommerce-Plattform ohne auffaelliges Missbrauchssignal; sie arbeitet in einem geschlossenen Enterprise-Markt, der CPG-Marken mit Händlern verbindet, ohne öffentliche Registrierung für Konsumenten oder Content-Hosting-Funktionen, die für Phishing oder Scams relevant waeren."
+    "description": "Pear Commerce ist eine Retail-Ecommerce-Plattform der nächsten Generation, die CPG-Marken mit Händlern verbindet, indem sie shoppable Tools in verwertbare Marketingeinblicke umwandelt.",
+    "history": "Pear Commerce ist eine US-Retail-Ecommerce-Plattform, die um 2019 gegründet wurde und Konsumgütermarken (CPG) über shoppable Tools und Marketinganalysen mit Händlern verbindet; sie richtet sich an Enterprise-CPG-Marken, die Retail Media und shoppable Experiences benötigen.",
+    "summary_abuse": "Pear Commerce ist eine B2B-CPG-Retail-Ecommerce-Plattform ohne auffälliges Missbrauchssignal; sie arbeitet in einem geschlossenen Enterprise-Markt, der CPG-Marken mit Händlern verbindet, ohne öffentliche Registrierung für Konsumenten oder Content-Hosting-Funktionen, die für Phishing oder Scams relevant wären."
   },
   "PebblePost": {
     "description": "PebblePost ermöglicht Marketern, aktuelle Onlinedaten in intelligente, leistungsstarke Direct-Mail-Programme umzuwandeln.",
-    "history": "PebblePost wurde 2014 in New York von Lewis Gersh und Duane Lempges als programmatic Direct-Mail-Retargeting-Plattform gegründet; sie verbindet digitale Absichtssignale wie Website-Besuche und abgebrochene Warenkoerbe mit physischer Postzustellung an Verbraucherhaushalte. Das Unternehmen nahm Venture-Finanzierung auf und positioniert sich als Premium-Retargeting-Kanal für mittlere bis grosse Ecommerce-Marken.",
-    "summary_abuse": "PebblePost ist eine B2B-Plattform für programmatic Direct Mail, die Online-Verhaltensdaten verarbeitet, um physische Post zu targeten; sie sammelt Browsing-Daten von Konsumenten für Retargeting, was datenschutzsensibel ist, arbeitet aber im legitimen Direktmarketing ohne auffaelliges Missbrauchs- oder Betrugssignal. Als datengetriebenes Marketingunternehmen unterliegt sie CAN-SPAM und ähnlichen Regeln."
+    "history": "PebblePost wurde 2014 in New York von Lewis Gersh und Duane Lempges als programmatic Direct-Mail-Retargeting-Plattform gegründet; sie verbindet digitale Absichtssignale wie Website-Besuche und abgebrochene Warenkörbe mit physischer Postzustellung an Verbraucherhaushalte. Das Unternehmen nahm Venture-Finanzierung auf und positioniert sich als Premium-Retargeting-Kanal für mittlere bis grosse Ecommerce-Marken.",
+    "summary_abuse": "PebblePost ist eine B2B-Plattform für programmatic Direct Mail, die Online-Verhaltensdaten verarbeitet, um physische Post zu targeten; sie sammelt Browsing-Daten von Konsumenten für Retargeting, was datenschutzsensibel ist, arbeitet aber im legitimen Direktmarketing ohne auffälliges Missbrauchs- oder Betrugssignal. Als datengetriebenes Marketingunternehmen unterliegt sie CAN-SPAM und ähnlichen Regeln."
   },
   "PeckaDesign Publicator": {
     "description": "PeckaDesign Publicator ist eine headless Ecommerce-Plattform für grosse Onlineshops, die hohe Performance, Skalierbarkeit und Sicherheit bietet und individuelle Anpassungen an Geschäftsanforderungen ermöglicht.",
     "history": "PeckaDesign Publicator ist eine headless Ecommerce-Plattform der tschechischen Webagentur PeckaDesign, ausgerichtet auf grosse Enterprise-Onlineshops mit Bedarf an hoher Performance und individuellen Anpassungen. Es ist eine nischige Lösung für den tschechischen Markt.",
-    "summary_abuse": "PeckaDesign Publicator ist eine Enterprise-Headless-Ecommerce-Plattform ohne auffaelliges Missbrauchssignal; sie bedient Enterprise-Kunden im tschechischen Markt, ohne verbraucherorientierte Selbstregistrierung oder Content-Hosting-Funktionen, die für Missbrauch relevant waeren."
+    "summary_abuse": "PeckaDesign Publicator ist eine Enterprise-Headless-Ecommerce-Plattform ohne auffälliges Missbrauchssignal; sie bedient Enterprise-Kunden im tschechischen Markt, ohne verbraucherorientierte Selbstregistrierung oder Content-Hosting-Funktionen, die für Missbrauch relevant wären."
   },
   "Peddle": {
     "description": "Peddle ist eine Plattform für sofortige Barangebote für Autos und vereinfacht den Verkaufsprozess.",
-    "history": "Peddle ist ein US-Autokaufdienst, der um 2012 gegründet wurde und sofortige Barangebote für gebrauchte, alte oder beschaedigte Fahrzeuge bereitstellt. Er verbindet Konsumenten mit einem Netzwerk von Autokaeufern und Schrottplaetzen und vereinfacht private Autoverkaeufe über ein Online-Sofortangebotsmodell.",
-    "summary_abuse": "Peddle ist ein Konsumenten-Marktplatz für Autokaeufe mit moderater Missbrauchsexposition. Das Sofortangebotsmodell für Fahrzeuge könnte Titelbetrug oder Scam-Inserate anziehen, die Plattform arbeitet jedoch in einem regulierten Bereich mit Identitätsprüfung für Verkaeufer. Öffentlich sind keine nennenswerten grossangelegten Missbrauchskampagnen dokumentiert."
+    "history": "Peddle ist ein US-Autokaufdienst, der um 2012 gegründet wurde und sofortige Barangebote für gebrauchte, alte oder beschädigte Fahrzeuge bereitstellt. Er verbindet Konsumenten mit einem Netzwerk von Autokäufern und Schrottplätzen und vereinfacht private Autoverkäufe über ein Online-Sofortangebotsmodell.",
+    "summary_abuse": "Peddle ist ein Konsumenten-Marktplatz für Autokäufe mit moderater Missbrauchsexposition. Das Sofortangebotsmodell für Fahrzeuge könnte Titelbetrug oder Scam-Inserate anziehen, die Plattform arbeitet jedoch in einem regulierten Bereich mit Identitätsprüfung für Verkäufer. Öffentlich sind keine nennenswerten grossangelegten Missbrauchskampagnen dokumentiert."
   },
   "Peecho": {
     "description": "Peecho ist ein Dienst, der den Verkauf digitaler Publikationen als gedruckte physische Produkte ermöglicht.",
     "history": "Peecho wurde um 2011 in den Niederlanden als Print-on-demand-API und Plattform gegründet, damit Verlage und digitale Content-Ersteller ihre digitalen Publikationen als gedruckte physische Produkte verkaufen können. Es bedient ein nischiges B2B-Segment von Verlagen und Onlineshops.",
-    "summary_abuse": "Peecho ist eine B2B-Print-on-demand-Plattform ohne auffaelliges Missbrauchssignal; sie ermöglicht Verlagen den Verkauf digitaler Inhalte als Printprodukte und hat keine verbraucherorientierten Content-Hosting-Funktionen, die für Phishing oder Scams interessant waeren."
+    "summary_abuse": "Peecho ist eine B2B-Print-on-demand-Plattform ohne auffälliges Missbrauchssignal; sie ermöglicht Verlagen den Verkauf digitaler Inhalte als Printprodukte und hat keine verbraucherorientierten Content-Hosting-Funktionen, die für Phishing oder Scams interessant wären."
   },
   "Peek": {
     "description": "Peek ist ein Online-Buchungssystem für Anbieter von Touren und Aktivitäten.",
@@ -608,58 +608,58 @@
   },
   "Peel": {
     "description": "Peel ist ein Open-Source-Warenkorbsystem.",
-    "history": "Peel ist ein franzoesisches Open-Source-Warenkorbsystem (peel.fr), das bis in die Mitte der 2000er-Jahre zurückreicht. Obwohl die Upstream-Beschreibung es Open Source nennt, ist es vor allem mit einer franzoesischen kommerziellen Einheit verbunden. Das Projekt zeigte in den letzten Jahren begrenzte Aktivität und bedient einen regionalen franzoesischen Ecommerce-Markt.",
-    "summary_abuse": "Peel ist ein selbst gehosteter Open-Source-Warenkorb, der vor allem im franzoesischen Markt genutzt wird. Bei selbst gehosteten Lösungen haengt Missbrauch von den Praktiken des jeweiligen Site-Betreibers ab und nicht von der Plattform selbst. Ein nennenswertes Missbrauchssignal auf Plattformebene ist nicht dokumentiert."
+    "history": "Peel ist ein französisches Open-Source-Warenkorbsystem (peel.fr), das bis in die Mitte der 2000er-Jahre zurückreicht. Obwohl die Upstream-Beschreibung es Open Source nennt, ist es vor allem mit einer französischen kommerziellen Einheit verbunden. Das Projekt zeigte in den letzten Jahren begrenzte Aktivität und bedient einen regionalen französischen Ecommerce-Markt.",
+    "summary_abuse": "Peel ist ein selbst gehosteter Open-Source-Warenkorb, der vor allem im französischen Markt genutzt wird. Bei selbst gehosteten Lösungen hängt Missbrauch von den Praktiken des jeweiligen Site-Betreibers ab und nicht von der Plattform selbst. Ein nennenswertes Missbrauchssignal auf Plattformebene ist nicht dokumentiert."
   },
   "PeerBoard": {
     "description": "PeerBoard ist eine Plug-and-play-Community-Lösung, mit der Gruppen, Clubs, Startups, Marktplätze und Unternehmen Diskussionsforen erstellen können.",
-    "history": "PeerBoard wurde um 2019 als einbettbare Community-Forum-Plattform gegründet und richtet sich an Startups, Marktplätze und kleine Unternehmen, die Plug-and-play-Diskussionsforen benoetigen. Es bietet ein Freemium-Modell mit kostenlosem Tarif für einfache Communities.",
-    "summary_abuse": "PeerBoard ist eine SaaS für Community-Foren mit kostenlosem Tarif, was ein gewisses Potenzial für Spam-Communities oder minderwertige Content-Sites schafft. Wie die meisten Forumplattformen kann es minderwertige Registrierungen anziehen, arbeitet aber im normalen Community-Software-Umfeld mit ueblichen Moderationswerkzeugen. Nennenswerte grossangelegte Missbrauchsmuster sind nicht dokumentiert."
+    "history": "PeerBoard wurde um 2019 als einbettbare Community-Forum-Plattform gegründet und richtet sich an Startups, Marktplätze und kleine Unternehmen, die Plug-and-play-Diskussionsforen benötigen. Es bietet ein Freemium-Modell mit kostenlosem Tarif für einfache Communities.",
+    "summary_abuse": "PeerBoard ist eine SaaS für Community-Foren mit kostenlosem Tarif, was ein gewisses Potenzial für Spam-Communities oder minderwertige Content-Sites schafft. Wie die meisten Forumplattformen kann es minderwertige Registrierungen anziehen, arbeitet aber im normalen Community-Software-Umfeld mit üblichen Moderationswerkzeugen. Nennenswerte grossangelegte Missbrauchsmuster sind nicht dokumentiert."
   },
   "Peerius": {
     "description": "Peerius ist eine Plattform, die individuelles Besucherverhalten auf Websites analysiert, um den Checkout-Prozess zu optimieren.",
     "history": "Peerius ist eine britische Ecommerce-Personalisierungsplattform, die um 2010 gegründet wurde und Besucherverhalten analysiert, um Checkout und Produktempfehlungen zu optimieren; sie bedient mittlere Ecommerce-Händler mit Verhaltensanalyse- und Personalisierungswerkzeugen.",
-    "summary_abuse": "Peerius ist eine B2B-Plattform für Ecommerce-Personalisierung und Verhaltensanalyse ohne auffaelliges Missbrauchssignal; sie sammelt Besucherverhaltensdaten für Ecommerce-Optimierung, was datenschutzsensibel ist, arbeitet aber im normalen Personalisierungssoftware-Umfeld ohne dokumentierte Betrugsmuster."
+    "summary_abuse": "Peerius ist eine B2B-Plattform für Ecommerce-Personalisierung und Verhaltensanalyse ohne auffälliges Missbrauchssignal; sie sammelt Besucherverhaltensdaten für Ecommerce-Optimierung, was datenschutzsensibel ist, arbeitet aber im normalen Personalisierungssoftware-Umfeld ohne dokumentierte Betrugsmuster."
   },
   "PeerJS": {
     "description": "PeerJS ist eine JavaScript-Bibliothek für WebRTC-basierte Peer-to-peer-Daten-, Video- und Audioverbindungen.",
     "history": "PeerJS ist eine Open-Source-JavaScript-Bibliothek, die die WebRTC API kapselt, um Peer-to-peer-Kommunikation für Daten, Audio und Video zu vereinfachen; sie wurde erstmals um 2013 veröffentlicht und wird auf GitHub von Community-Mitwirkenden gepflegt.",
-    "summary_abuse": "PeerJS zeigt kein auffaelliges Missbrauchssignal. Es ist eine Backend-WebRTC-Bibliothek ohne gehostete Verbraucheroberfläche, erfordert Integration durch Entwickler und hat keine direkte Exposition gegenüber Phishing- oder Betrugsmustern."
+    "summary_abuse": "PeerJS zeigt kein auffälliges Missbrauchssignal. Es ist eine Backend-WebRTC-Bibliothek ohne gehostete Verbraucheroberfläche, erfordert Integration durch Entwickler und hat keine direkte Exposition gegenüber Phishing- oder Betrugsmustern."
   },
   "PeerPal": {
     "description": "PeerPal ist eine Plattform, die den Admissions-Prozess verbessert, indem sie interessierte Familien mit Studierenden, Alumni, Lehrpersonen und Elternbotschaftern verbindet.",
-    "history": "PeerPal ist eine Admissions-Ambassador-Plattform für Hochschulen, die angehende Studierende und Familien mit aktuellen Studierenden und Alumni verbindet; sie wurde von Gravyty, einer Fundraising- und Alumni-Engagement-Plattform für Nonprofits und Universitaeten, übernommen oder darin integriert.",
-    "summary_abuse": "PeerPal ist eine Hochschul-Admissions-Plattform ohne auffaelliges Missbrauchssignal; sie bedient Universitaeten und Bildungseinrichtungen in einem geschlossenen B2B-Kontext, ohne öffentliches Content-Hosting oder anonymen Zugang, die für Betrug oder Scams relevant waeren."
+    "history": "PeerPal ist eine Admissions-Ambassador-Plattform für Hochschulen, die angehende Studierende und Familien mit aktuellen Studierenden und Alumni verbindet; sie wurde von Gravyty, einer Fundraising- und Alumni-Engagement-Plattform für Nonprofits und Universitäten, übernommen oder darin integriert.",
+    "summary_abuse": "PeerPal ist eine Hochschul-Admissions-Plattform ohne auffälliges Missbrauchssignal; sie bedient Universitäten und Bildungseinrichtungen in einem geschlossenen B2B-Kontext, ohne öffentliches Content-Hosting oder anonymen Zugang, die für Betrug oder Scams relevant wären."
   },
   "PeerTube": {
-    "description": "PeerTube ist eine freie, Open-Source-, dezentrale und foederierte Videoplattform auf Basis von ActivityPub und WebTorrent.",
-    "history": "PeerTube wurde von Framasoft, einer franzoesischen Nonprofit-Organisation, entwickelt. Die Entwicklung begann um 2015, die öffentliche Veröffentlichung folgte 2018. Es ist eine dezentrale, foederierte Video-Hosting-Plattform mit ActivityPub- und WebTorrent-Protokollen, gedacht als datenschutzfreundliche Alternative zu YouTube.",
-    "summary_abuse": "PeerTube-Instanzen können beliebige Videoinhalte hosten, je nach Moderation der Instanz auch potenziell illegales Material. Da es eine selbst gehostete, foederierte Plattform ohne zentrale Autoritaet ist, kontrollieren einzelne Instanzbetreiber die Inhaltsmoderation, und für schwach moderierte Instanzen wurde extremistischer Inhalt gemeldet. Die von Framasoft gepflegte Hauptinstanz setzt Inhaltsrichtlinien durch, die foederierte Architektur bedeutet jedoch, dass die Reaktion auf Missbrauch je nach Instanz variiert."
+    "description": "PeerTube ist eine freie, Open-Source-, dezentrale und föderierte Videoplattform auf Basis von ActivityPub und WebTorrent.",
+    "history": "PeerTube wurde von Framasoft, einer französischen Nonprofit-Organisation, entwickelt. Die Entwicklung begann um 2015, die öffentliche Veröffentlichung folgte 2018. Es ist eine dezentrale, föderierte Video-Hosting-Plattform mit ActivityPub- und WebTorrent-Protokollen, gedacht als datenschutzfreundliche Alternative zu YouTube.",
+    "summary_abuse": "PeerTube-Instanzen können beliebige Videoinhalte hosten, je nach Moderation der Instanz auch potenziell illegales Material. Da es eine selbst gehostete, föderierte Plattform ohne zentrale Autorität ist, kontrollieren einzelne Instanzbetreiber die Inhaltsmoderation, und für schwach moderierte Instanzen wurde extremistischer Inhalt gemeldet. Die von Framasoft gepflegte Hauptinstanz setzt Inhaltsrichtlinien durch, die föderierte Architektur bedeutet jedoch, dass die Reaktion auf Missbrauch je nach Instanz variiert."
   },
   "Peftrust": {
     "description": "Peftrust ist eine Plattform für Umweltbewertung und Compliance für Bekleidungs- und Schuhmarken, die Umweltauswirkungen anhand der European PEF Methodology bewertet.",
-    "history": "Peftrust ist eine franzoesische SaaS-Plattform, die um 2019 gegründet wurde und Bekleidungs- sowie Schuhmarken dabei hilft, Umweltbewertungen mit der European Product Environmental Footprint (PEF) Methodology zu berechnen und zu rapportieren; sie richtet sich an Marken mit Bedarf an EU-Umwelt-Compliance und Dokumentation von Green Claims.",
-    "summary_abuse": "Peftrust ist eine nischige B2B-Plattform für Umwelt-Compliance von Bekleidungsmarken ohne Missbrauchssignal; sie bedient einen sehr spezifischen Enterprise-Compliance-Anwendungsfall, ohne verbraucherorientierte oder Content-Hosting-Funktionen, die für Betrug oder Scams relevant waeren."
+    "history": "Peftrust ist eine französische SaaS-Plattform, die um 2019 gegründet wurde und Bekleidungs- sowie Schuhmarken dabei hilft, Umweltbewertungen mit der European Product Environmental Footprint (PEF) Methodology zu berechnen und zu rapportieren; sie richtet sich an Marken mit Bedarf an EU-Umwelt-Compliance und Dokumentation von Green Claims.",
+    "summary_abuse": "Peftrust ist eine nischige B2B-Plattform für Umwelt-Compliance von Bekleidungsmarken ohne Missbrauchssignal; sie bedient einen sehr spezifischen Enterprise-Compliance-Anwendungsfall, ohne verbraucherorientierte oder Content-Hosting-Funktionen, die für Betrug oder Scams relevant wären."
   },
   "Pegboard7": {
     "description": "Pegboard7 ist eine digitale Onlineplattform für Ecommerce-, Marketing- und Enterprise-WCMS-Software für mittlere bis grosse Firmenkunden und bietet eine Reihe von Onlinewerkzeugen zur Wachstumsunterstützung.",
-    "history": "Pegboard7 ist ein australischer Anbieter digitaler Plattformen mit Ecommerce-, Marketing- und Enterprise-Web-Content-Management-Software für mittlere bis grosse Unternehmen. Laut Website (pegboardsoftware.com.au) bedient er einen regionalen australisch-neuseelaendischen Markt mit individuellen CMS- und Ecommerce-Lösungen.",
-    "summary_abuse": "Pegboard7 ist eine regionale australische Enterprise-CMS- und Ecommerce-Plattform ohne auffaelliges Missbrauchssignal; sie bedient mittlere bis grosse Firmenkunden in einem geschlossenen B2B-Kontext, ohne öffentliche Selbstregistrierung oder Content-Hosting-Funktionen, die für Betrug relevant waeren."
+    "history": "Pegboard7 ist ein australischer Anbieter digitaler Plattformen mit Ecommerce-, Marketing- und Enterprise-Web-Content-Management-Software für mittlere bis grosse Unternehmen. Laut Website (pegboardsoftware.com.au) bedient er einen regionalen australisch-neuseeländischen Markt mit individuellen CMS- und Ecommerce-Lösungen.",
+    "summary_abuse": "Pegboard7 ist eine regionale australische Enterprise-CMS- und Ecommerce-Plattform ohne auffälliges Missbrauchssignal; sie bedient mittlere bis grosse Firmenkunden in einem geschlossenen B2B-Kontext, ohne öffentliche Selbstregistrierung oder Content-Hosting-Funktionen, die für Betrug relevant wären."
   },
   "Peity": {
     "description": "Peity ist ein jQuery-Plugin, das den Inhalt eines Elements in ein einfaches Mini-SVG-Kreis-, Linien- oder Balkendiagramm umwandelt.",
-    "history": "Peity ist ein kleines jQuery-Plugin, das um 2013 von Ben Pickles erstellt wurde und Inline-SVG-Minidiagramme (Kreis, Linie, Balken) aus Elementinhalten rendert. Es ist in den letzten Jahren weitgehend eingeschlafen, da das jQuery-Oekosystem an Bedeutung verloren hat.",
+    "history": "Peity ist ein kleines jQuery-Plugin, das um 2013 von Ben Pickles erstellt wurde und Inline-SVG-Minidiagramme (Kreis, Linie, Balken) aus Elementinhalten rendert. Es ist in den letzten Jahren weitgehend eingeschlafen, da das jQuery-Ökosystem an Bedeutung verloren hat.",
     "summary_abuse": "Peity zeigt kein Missbrauchssignal. Es ist eine sehr kleine Frontend-Charting-Bibliothek ohne gehosteten Dienst und ohne verbraucherorientierte Oberfläche."
   },
   "Pelcro": {
     "description": "Pelcro ist Software für Abonnement- und Mitgliedschaftsverwaltung.",
-    "history": "Pelcro ist eine kanadische Plattform für Abonnement- und Mitgliedschaftsverwaltung, die um 2016 gegründet wurde und Verlagen, Medienunternehmen und digitalen Unternehmen Werkzeuge für Abos, Paywalls und wiederkehrende Abrechnung bietet; sie richtet sich an digitale Publisher, die verwaltete Abo-Infrastruktur benoetigen.",
-    "summary_abuse": "Pelcro ist eine Abonnementverwaltungsplattform für digitale Publisher ohne auffaelliges Missbrauchssignal; sie verarbeitet wiederkehrende Zahlungsdaten für legitime Medienunternehmen und arbeitet innerhalb ueblicher Zahlungs-Compliance-Rahmen. Dokumentierte Betrugs- oder Scam-Muster sind nicht mit der Plattform verbunden."
+    "history": "Pelcro ist eine kanadische Plattform für Abonnement- und Mitgliedschaftsverwaltung, die um 2016 gegründet wurde und Verlagen, Medienunternehmen und digitalen Unternehmen Werkzeuge für Abos, Paywalls und wiederkehrende Abrechnung bietet; sie richtet sich an digitale Publisher, die verwaltete Abo-Infrastruktur benötigen.",
+    "summary_abuse": "Pelcro ist eine Abonnementverwaltungsplattform für digitale Publisher ohne auffälliges Missbrauchssignal; sie verarbeitet wiederkehrende Zahlungsdaten für legitime Medienunternehmen und arbeitet innerhalb üblicher Zahlungs-Compliance-Rahmen. Dokumentierte Betrugs- oder Scam-Muster sind nicht mit der Plattform verbunden."
   },
   "Pelican": {
     "description": "Pelican ist ein in Python geschriebener Generator für statische Websites.",
     "history": "Pelican ist ein Python-basierter Static-Site-Generator, der von Alexis Metaireau erstellt und um 2010 erstmals veröffentlicht wurde. Er unterstützt reStructuredText und Markdown und erzeugt statische HTML-Dateien, was ihn bei Entwicklern beliebt macht, die Python gegenüber Ruby-basierten Alternativen wie Jekyll bevorzugen. Es bleibt ein von der Community gepflegtes Open-Source-Projekt.",
-    "summary_abuse": "Pelican ist ein Python-Static-Site-Generator ohne Missbrauchssignal. Als lokales Build-Werkzeug, das statische HTML-Dateien erzeugt, hat es keinen verbraucherorientierten gehosteten Dienst und damit keine Plattformfläche, die für Phishing, Spam oder Betrug relevant waere."
+    "summary_abuse": "Pelican ist ein Python-Static-Site-Generator ohne Missbrauchssignal. Als lokales Build-Werkzeug, das statische HTML-Dateien erzeugt, hat es keinen verbraucherorientierten gehosteten Dienst und damit keine Plattformfläche, die für Phishing, Spam oder Betrug relevant wäre."
   },
   "PencilBlue": {
     "history": "PencilBlue ist ein Open-Source-CMS und Blogging-System auf Node.js-Basis, das um 2014 veröffentlicht wurde. Die Entwicklung ist zum Stillstand gekommen, und das GitHub-Repository ist seit Jahren weitgehend verlassen, ohne nennenswerte Aktivität.",
@@ -668,46 +668,46 @@
   "Pendo": {
     "description": "Pendo ist eine Produktanalyseplattform, die in Releases genutzt wird, um die Produkterfahrung zu verbessern und dem Produktmanagement Einblicke zu liefern.",
     "history": "Pendo wurde 2013 in Raleigh, North Carolina, von Todd Olson und weiteren Gründern als Plattform für Produktanalysen und In-app-Guidance gegründet. Das Unternehmen nahm erhebliche Venture-Finanzierung auf, darunter eine Runde über 100 Millionen US-Dollar im Jahr 2019, und wurde zu einer der führenden Product-Experience-Plattformen für Enterprise-SaaS-Unternehmen.",
-    "summary_abuse": "Pendo zeigt kein auffaelliges Missbrauchssignal. Es ist eine SaaS für Produktanalysen und In-app-Messaging, die von Enterprise-Softwareunternehmen genutzt wird, ohne verbraucherorientierte Hosting-Fläche. Es sammelt Nutzerverhaltensdaten innerhalb von Kundenanwendungen, was Datenschutzfragen aufwirft, ist aber keine Plattform, die mit Phishing- oder Betrugsinfrastruktur verbunden ist."
+    "summary_abuse": "Pendo zeigt kein auffälliges Missbrauchssignal. Es ist eine SaaS für Produktanalysen und In-app-Messaging, die von Enterprise-Softwareunternehmen genutzt wird, ohne verbraucherorientierte Hosting-Fläche. Es sammelt Nutzerverhaltensdaten innerhalb von Kundenanwendungen, was Datenschutzfragen aufwirft, ist aber keine Plattform, die mit Phishing- oder Betrugsinfrastruktur verbunden ist."
   },
   "Pepper Cloud": {
     "description": "Pepper Cloud ist ein SaaS-Anbieter für CRM-Lösungen für kleine und mittlere Unternehmen in mehreren Branchen.",
-    "history": "Pepper Cloud ist eine CRM-SaaS aus Singapur, die um 2017 gegründet wurde und kleine und mittlere Unternehmen in Suedostasien mit Werkzeugen für Sales Pipeline und Kundenbeziehungsmanagement anspricht; sie bedient einen regionalen KMU-Markt mit WhatsApp- und Messaging-Integrationen.",
-    "summary_abuse": "Pepper Cloud ist eine B2B-CRM-Plattform für kleine Unternehmen ohne auffaelliges Missbrauchssignal; sie arbeitet im legitimen Sales-Tooling-Markt und hat keine verbraucherorientierten Content-Hosting-Funktionen, die für Phishing oder Betrug ausgenutzt wuerden."
+    "history": "Pepper Cloud ist eine CRM-SaaS aus Singapur, die um 2017 gegründet wurde und kleine und mittlere Unternehmen in Südostasien mit Werkzeugen für Sales Pipeline und Kundenbeziehungsmanagement anspricht; sie bedient einen regionalen KMU-Markt mit WhatsApp- und Messaging-Integrationen.",
+    "summary_abuse": "Pepper Cloud ist eine B2B-CRM-Plattform für kleine Unternehmen ohne auffälliges Missbrauchssignal; sie arbeitet im legitimen Sales-Tooling-Markt und hat keine verbraucherorientierten Content-Hosting-Funktionen, die für Phishing oder Betrug ausgenutzt würden."
   },
   "Pepperjam": {
     "description": "Pepperjam ist ein Anbieter von Affiliate-Marketing-Lösungen.",
-    "history": "Pepperjam wurde 1999 als Affiliate-Marketing-Netzwerk und Technologieplattform gegründet. Es wurde 2009 von GSI Commerce übernommen, danach von eBay Enterprise, spaeter vom Management zurückgekauft und schliesslich mit Partnerize, einem Unternehmen für Partnership Automation, zusammengeführt. Die Marke Pepperjam wurde unter der Muttergesellschaft Partnerize auslaufen gelassen.",
-    "summary_abuse": "Pepperjam ist ein Affiliate-Marketing-Netzwerk mit der für die Branche typischen dokumentierten Affiliate-Betrugsexposition, darunter Provisionsbetrug, Coupon-Missbrauch und Click Fraud durch schlechte Affiliates. Affiliate-Netzwerke tragen diese Risiken strukturell, weil sie Dritt-Publisher Traffic für Marken liefern lassen. Pepperjam/Partnerize hat Qualitaetskontrollen und Publisher-Prüfungen, doch wie bei allen grossen Affiliate-Netzwerken bleibt ein Teil des Traffics von minderwertigen Affiliates ein wiederkehrendes Risiko."
+    "history": "Pepperjam wurde 1999 als Affiliate-Marketing-Netzwerk und Technologieplattform gegründet. Es wurde 2009 von GSI Commerce übernommen, danach von eBay Enterprise, später vom Management zurückgekauft und schliesslich mit Partnerize, einem Unternehmen für Partnership Automation, zusammengeführt. Die Marke Pepperjam wurde unter der Muttergesellschaft Partnerize auslaufen gelassen.",
+    "summary_abuse": "Pepperjam ist ein Affiliate-Marketing-Netzwerk mit der für die Branche typischen dokumentierten Affiliate-Betrugsexposition, darunter Provisionsbetrug, Coupon-Missbrauch und Click Fraud durch schlechte Affiliates. Affiliate-Netzwerke tragen diese Risiken strukturell, weil sie Dritt-Publisher Traffic für Marken liefern lassen. Pepperjam/Partnerize hat Qualitätskontrollen und Publisher-Prüfungen, doch wie bei allen grossen Affiliate-Netzwerken bleibt ein Teil des Traffics von minderwertigen Affiliates ein wiederkehrendes Risiko."
   },
   "Peraichi": {
-    "description": "Peraichi ist ein Softwareunternehmen, das Website-Erstellungswerkzeuge und Supportsysteme entwickelt, die Unternehmen benoetigen.",
+    "description": "Peraichi ist ein Softwareunternehmen, das Website-Erstellungswerkzeuge und Supportsysteme entwickelt, die Unternehmen benötigen.",
     "history": "Peraichi ist ein japanischer Website- und Landingpage-Builder, der um 2017 gegründet wurde und Unternehmen sowie Einzelpersonen das Erstellen von Marketingseiten ohne Programmierung erleichtert. Er hat sich im japanischen Markt zu einem beliebten No-code-Tool für Website-Erstellung entwickelt.",
-    "summary_abuse": "Peraichi ist ein japanischer Page Builder mit kostenlosem Tarif, der Nutzern das Erstellen und Veröffentlichen von Landingpages ermöglicht. Wie die meisten Page Builder mit Gratisangebot birgt er ein gewisses Risiko für Scam-Landingpages, arbeitet aber im etablierten japanischen Markt mit ueblichen Inhaltsrichtlinien. Spezifische grossangelegte Missbrauchskampagnen sind öffentlich nicht dokumentiert."
+    "summary_abuse": "Peraichi ist ein japanischer Page Builder mit kostenlosem Tarif, der Nutzern das Erstellen und Veröffentlichen von Landingpages ermöglicht. Wie die meisten Page Builder mit Gratisangebot birgt er ein gewisses Risiko für Scam-Landingpages, arbeitet aber im etablierten japanischen Markt mit üblichen Inhaltsrichtlinien. Spezifische grossangelegte Missbrauchskampagnen sind öffentlich nicht dokumentiert."
   },
   "Percona": {
     "description": "Percona Server ist ein quelloffener, voll kompatibler und erweiterter Drop-in-Ersatz für MySQL mit besserer Performance, Skalierbarkeit und Instrumentierung.",
-    "history": "Percona wurde 2006 von Peter Zaitsev und Vadim Tkachenko als MySQL-Beratungs- und Supportunternehmen gegründet. Es entwickelte Percona Server for MySQL, einen performanceverbesserten Drop-in-Ersatz, und erweiterte spaeter sein Angebot auf PostgreSQL und MongoDB mit Enterprise-Tools und Managed Services.",
+    "history": "Percona wurde 2006 von Peter Zaitsev und Vadim Tkachenko als MySQL-Beratungs- und Supportunternehmen gegründet. Es entwickelte Percona Server for MySQL, einen performanceverbesserten Drop-in-Ersatz, und erweiterte später sein Angebot auf PostgreSQL und MongoDB mit Enterprise-Tools und Managed Services.",
     "summary_abuse": "Percona zeigt kein Missbrauchssignal. Es ist ein Unternehmen für Backend-Datenbanksoftware und Support ohne verbraucherorientierte Servicefläche und wird von Unternehmen und Entwicklern für MySQL-kompatible Workloads genutzt."
   },
   "Percussion": {
-    "history": "Percussion ist ein US-Anbieter von Enterprise-Content-Management-Systemen (CMS), der seit den 1990er-Jahren taetig ist. Bekannt war er urspruenglich für die Produkte Percussion CM1 und Percussion CMS für Webpublisher im Mittelstands- und Enterprise-Segment. Das Unternehmen benannte sich im Laufe der Jahre um und passte seinen Fokus an, mit Kunden in Bildung, Gesundheitswesen und Verwaltung.",
-    "summary_abuse": "Percussion ist eine Enterprise-CMS-Plattform ohne auffaelliges Missbrauchssignal; sie bedient Mittelstands- und Enterprise-Kunden in regulierten Branchen und bietet keine verbraucherorientierte Selbstregistrierung oder anonymen Content-Hosting-Funktionen, die für Betrug oder Scams relevant waeren."
+    "history": "Percussion ist ein US-Anbieter von Enterprise-Content-Management-Systemen (CMS), der seit den 1990er-Jahren tätig ist. Bekannt war er ursprünglich für die Produkte Percussion CM1 und Percussion CMS für Webpublisher im Mittelstands- und Enterprise-Segment. Das Unternehmen benannte sich im Laufe der Jahre um und passte seinen Fokus an, mit Kunden in Bildung, Gesundheitswesen und Verwaltung.",
+    "summary_abuse": "Percussion ist eine Enterprise-CMS-Plattform ohne auffälliges Missbrauchssignal; sie bedient Mittelstands- und Enterprise-Kunden in regulierten Branchen und bietet keine verbraucherorientierte Selbstregistrierung oder anonymen Content-Hosting-Funktionen, die für Betrug oder Scams relevant wären."
   },
   "Percy": {
     "description": "Percy ist eine Plattform, die Verhaltensdaten nutzt, damit Immobilienmakler und Hypothekarkreditberater effektiver miteinander und mit ihren Kunden in Kontakt treten und mehr Transaktionen erzielen können.",
     "history": "Percy ist eine US-CRM-Plattform für die Immobilienbranche, die Verhaltensdaten nutzt, um Immobilienmaklern und Hypothekarkreditberatern die Koordination von Empfehlungen und Kundenkommunikation zu erleichtern; sie scheint um 2018 als nischiges Proptech-CRM gestartet zu sein.",
-    "summary_abuse": "Percy ist ein nischiges CRM für Immobilienfachleute ohne auffaelliges Missbrauchssignal. Es bedient lizenzierte Makler und Kreditberater in einem professionellen B2B-Kontext mit Identitätsanforderungen und hat keine verbraucherorientierten Content-Hosting-Funktionen, die für Betrug oder Scams relevant waeren."
+    "summary_abuse": "Percy ist ein nischiges CRM für Immobilienfachleute ohne auffälliges Missbrauchssignal. Es bedient lizenzierte Makler und Kreditberater in einem professionellen B2B-Kontext mit Identitätsanforderungen und hat keine verbraucherorientierten Content-Hosting-Funktionen, die für Betrug oder Scams relevant wären."
   },
   "Perfect Corp": {
     "description": "Perfect Corp ist ein Beauty-Augmented-Reality-Unternehmen und eine Makeup-AR-Technologieplattform, die virtuelle Try-on-Lösungen für Kosmetikmarken entwickelt.",
     "history": "Perfect Corp wurde 2015 von Alice Chang in Taiwan gegründet und entwickelte KI- und AR-gestützte Virtual-Try-on-Technologie für Kosmetikmarken. Das Unternehmen nahm 130 Millionen US-Dollar Finanzierung auf, darunter 2021 eine von Goldman Sachs angeführte Series C, und ging im Oktober 2022 über eine SPAC-Fusion unter dem Ticker PERF an die NYSE.",
-    "summary_abuse": "Perfect Corp zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-SaaS-Plattform für Beauty-Augmented-Reality, die von Kosmetikmarken für virtuelle Produkttests eingebettet wird, ohne verbraucherorientierte Hosting-Fläche, die schlechte Akteure anvisieren wuerden."
+    "summary_abuse": "Perfect Corp zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-SaaS-Plattform für Beauty-Augmented-Reality, die von Kosmetikmarken für virtuelle Produkttests eingebettet wird, ohne verbraucherorientierte Hosting-Fläche, die schlechte Akteure anvisieren würden."
   },
   "Perfect Storm": {
     "description": "Perfect Storm ist eine All-in-one-Plattform für Lead-Generierung und Kundenbeziehungsmanagement in der Immobilienbranche, ausgelegt auf die Skalierung von Geschäften.",
     "history": "Perfect Storm ist eine Immobilien-CRM-Plattform, die von Joshua Smith und Mitgründern aufgebaut wurde und ihren Sitz in Champaign, Illinois, hat; sie wurde von Maklern für Makler als All-in-one-System für Lead-Generierung und CRM entwickelt.",
-    "summary_abuse": "Perfect Storm zeigt kein auffaelliges Missbrauchssignal. Es ist ein nischiges Immobilien-CRM für Makler und Broker zur Lead-Verwaltung, ohne öffentlich zugängliche Hosting-Funktionen, die Betrüger anziehen wuerden."
+    "summary_abuse": "Perfect Storm zeigt kein auffälliges Missbrauchssignal. Es ist ein nischiges Immobilien-CRM für Makler und Broker zur Lead-Verwaltung, ohne öffentlich zugängliche Hosting-Funktionen, die Betrüger anziehen würden."
   },
   "PerfectApps Swift": {
     "description": "Swift ist eine Page-Speed-Lösung für Ecommerce-Shop-Betreiber von PerfectApps.",
@@ -721,23 +721,23 @@
   },
   "Perfex CRM": {
     "description": "Perfex CRM ist selbst gehostete Software für Kundenbeziehungsmanagement, die für fast jedes Unternehmen, Freelancer und viele weitere Einsatzzwecke geeignet ist.",
-    "history": "Perfex CRM wurde von MSTdev erstellt und 2015 erstmals auf CodeCanyon als selbst gehostetes PHP/MySQL-CRM für kleine Unternehmen und Freelancer veröffentlicht. Es nutzt ein Einmalkaufmodell und ist über CodeCanyon-Verkaeufe gewachsen, ohne groessere Eigentumswechsel.",
-    "summary_abuse": "Perfex CRM ist selbst gehostete Software ohne auffaelliges Missbrauchssignal für den Anbieter selbst. Da Installationen kundeneigen sind, haengt das Missbrauchsrisiko davon ab, wie einzelne Betreiber ihre Instanzen konfigurieren und absichern, nicht vom Anbieter."
+    "history": "Perfex CRM wurde von MSTdev erstellt und 2015 erstmals auf CodeCanyon als selbst gehostetes PHP/MySQL-CRM für kleine Unternehmen und Freelancer veröffentlicht. Es nutzt ein Einmalkaufmodell und ist über CodeCanyon-Verkäufe gewachsen, ohne grössere Eigentumswechsel.",
+    "summary_abuse": "Perfex CRM ist selbst gehostete Software ohne auffälliges Missbrauchssignal für den Anbieter selbst. Da Installationen kundeneigen sind, hängt das Missbrauchsrisiko davon ab, wie einzelne Betreiber ihre Instanzen konfigurieren und absichern, nicht vom Anbieter."
   },
   "Perfmatters": {
     "description": "Perfmatters ist ein Performance-Optimierungsplugin für WordPress-Websites.",
-    "history": "Perfmatters wurde 2017 von den Bruedern Brian Jackson und Brett Jackson gegründet und ist ein eigenfinanziertes, bootstrapped WordPress-Performance-Plugin mit Fokus auf Google Core Web Vitals. Nennenswerte Eigentumswechsel oder Einstellungserklaerungen gibt es nicht.",
-    "summary_abuse": "Perfmatters zeigt kein auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Plugin, das Website-Betreiber auf eigener Infrastruktur installieren, ohne verbraucherorientierte Oberfläche oder Hosting-Funktionen, die betrügerische Nutzung anziehen wuerden."
+    "history": "Perfmatters wurde 2017 von den Brüdern Brian Jackson und Brett Jackson gegründet und ist ein eigenfinanziertes, bootstrapped WordPress-Performance-Plugin mit Fokus auf Google Core Web Vitals. Nennenswerte Eigentumswechsel oder Einstellungserklärungen gibt es nicht.",
+    "summary_abuse": "Perfmatters zeigt kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Plugin, das Website-Betreiber auf eigener Infrastruktur installieren, ohne verbraucherorientierte Oberfläche oder Hosting-Funktionen, die betrügerische Nutzung anziehen würden."
   },
   "Performance Lab": {
-    "description": "Performance-Plugin der WordPress Performance Group, bestehend aus einer Sammlung eigenstaendiger Performance-Module.",
+    "description": "Performance-Plugin der WordPress Performance Group, bestehend aus einer Sammlung eigenständiger Performance-Module.",
     "history": "Performance Lab ist ein offizielles WordPress-Plugin, gepflegt von der WordPress Performance Group, einem Team von Beitragenden mit Verbindung zu WordPress.org und Automattic. Es dient als Experimentierfeld für Performance-Funktionen, bevor diese in den WordPress-Core einfliessen. Es wurde 2021 erstmals veröffentlicht und wird weiterhin aktiv entwickelt.",
-    "summary_abuse": "Performance Lab zeigt kein auffaelliges Missbrauchssignal. Es ist ein offizielles WordPress-Performance-Plugin ohne verbraucherorientierte gehostete Fläche, die Betrüger anvisieren wuerden."
+    "summary_abuse": "Performance Lab zeigt kein auffälliges Missbrauchssignal. Es ist ein offizielles WordPress-Performance-Plugin ohne verbraucherorientierte gehostete Fläche, die Betrüger anvisieren würden."
   },
   "Performant Translations": {
     "description": "Performance-Plugin des WordPress Performance Team, das Internationalisierung und Lokalisierung in WordPress schneller macht als je zuvor.",
     "history": "Performant Translations ist ein offizielles WordPress-Plugin des WordPress Performance Team, das 2023 erstmals veröffentlicht wurde. Es verbessert die Geschwindigkeit der Internationalisierung, indem PHP-gettext-Dateien durch eine schnellere native Implementierung ersetzt werden. Nennenswerte Übernahmen oder Eigentumswechsel sind nicht verzeichnet.",
-    "summary_abuse": "Performant Translations zeigt kein auffaelliges Missbrauchssignal. Es ist ein offizielles WordPress-Plugin zur Verbesserung der Übersetzungsperformance, ohne verbraucherorientierte gehostete Oberfläche."
+    "summary_abuse": "Performant Translations zeigt kein auffälliges Missbrauchssignal. Es ist ein offizielles WordPress-Plugin zur Verbesserung der Übersetzungsperformance, ohne verbraucherorientierte gehostete Oberfläche."
   },
   "PerimeterX": {
     "description": "PerimeterX ist ein Anbieter skalierbarer, verhaltensbasierter Technologie zum Schutz vor Bedrohungen im Web, in der Cloud und auf mobilen Plattformen.",

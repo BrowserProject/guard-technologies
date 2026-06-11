@@ -1,8 +1,8 @@
 {
   "MAAK": {
     "description": "MAAK ist ein Laravel-basiertes CMS, das von Mahdi Akbari entwickelt wurde.",
-    "history": "Nischenhaftes kommerzielles SaaS ohne dokumentierte relevante Eigentümerwechsel oder Abkündigungen.",
-    "summary_abuse": "Für dieses nischenhafte kommerzielle SaaS ist kein auffälliges Missbrauchssignal dokumentiert."
+    "history": "Kommerzielles Nischen-SaaS ohne dokumentierte relevante Eigentümerwechsel oder Abkündigungen.",
+    "summary_abuse": "Für dieses kommerzielle Nischen-SaaS ist kein auffälliges Missbrauchssignal dokumentiert."
   },
   "Maatoo": {
     "description": "Maatoo ist ein All-in-one-Marketing-Tool, das Kampagnenmanagement, Kundenbindung und Analysen in einer Plattform bündelt.",
@@ -11,12 +11,12 @@
   },
   "Mabisy": {
     "description": "Mabisy ist eine Online-Plattform zum Erstellen individueller E-Commerce-Shops.",
-    "history": "Nischenhaftes kommerzielles SaaS ohne dokumentierte relevante Eigentümerwechsel oder Abkündigungen.",
-    "summary_abuse": "Für dieses nischenhafte kommerzielle SaaS ist kein auffälliges Missbrauchssignal dokumentiert."
+    "history": "Kommerzielles Nischen-SaaS ohne dokumentierte relevante Eigentümerwechsel oder Abkündigungen.",
+    "summary_abuse": "Für dieses kommerzielle Nischen-SaaS ist kein auffälliges Missbrauchssignal dokumentiert."
   },
   "Macaron": {
     "description": "Macaron ist ein produktives und modulares Web-Framework in Go.",
-    "history": "Macaron ist eine compiler-unterstützte, typsichere CSS-in-JS-Bibliothek ohne Runtime, die um 2022 entwickelt wurde; sie unterstützt sowohl Styled-Components- als auch Vanilla-Styling-APIs und bietet Varianten nach dem Vorbild von Stitches; sie integriert sich mit esbuild und Vite und hat rund 785 GitHub-Stars.",
+    "history": "Macaron ist eine compiler-unterstützte, typsichere CSS-in-JS-Bibliothek ohne Runtime, die um 2022 entwickelt wurde. Die Bibliothek unterstützt Styled-Components- und Vanilla-Styling-APIs, bietet Varianten nach dem Vorbild von Stitches, integriert sich mit esbuild und Vite und hat rund 785 GitHub-Stars.",
     "summary_abuse": "Keine Missbrauchsbedenken. Kleine Open-Source-CSS-in-JS-Bibliothek mit MIT-Lizenz und klar fokussierter Codebasis."
   },
   "MachoThemes NewsMag": {
@@ -41,7 +41,7 @@
   "MadKudu": {
     "description": "MadKudu erweitert Vertriebs- und Marketingsysteme mit handlungsorientierten Predictive Analytics, damit Unternehmen ihre Strategien datenbasiert optimieren können.",
     "history": "MadKudu wurde 2014 von Sam Levan und Francis Brero in Mountain View, Kalifornien, gegründet. Das Unternehmen entwickelte eine Plattform für prädiktives Lead Scoring für B2B-SaaS-Revenue-Teams, die Verhaltens- und Firmendaten-Signale nutzt. Im November 2022 sammelte MadKudu 18 Millionen US-Dollar in einer von Felicis Ventures angeführten Series A ein. Im August 2025 wurde MadKudu von HG Insights, einem Anbieter für Technologie-Intelligence, übernommen.",
-    "summary_abuse": "MadKudu ist eine B2B-Plattform für Lead Scoring und Sales Intelligence ohne dokumentiertes Missbrauchssignal; sie verarbeitet Firmografie- und Verhaltensdaten zu Geschäftskontakten, daher liegt das wichtigste Datenschutzthema bei B2B-Datenpraktiken und nicht bei Verbrauchermissbrauch. Öffentliche Berichte über Missbrauch oder böswillige Ausnutzung sind nicht bekannt."
+    "summary_abuse": "MadKudu ist eine B2B-Plattform für Lead Scoring und Sales Intelligence ohne dokumentiertes Missbrauchssignal. Die Plattform verarbeitet firmografische und verhaltensbezogene Daten zu Geschäftskontakten, daher liegt das wichtigste Datenschutzthema bei B2B-Datenpraktiken und nicht bei Verbrauchermissbrauch. Öffentliche Berichte über Missbrauch oder böswillige Ausnutzung sind nicht bekannt."
   },
   "Maestra": {
     "description": "Maestra ist eine All-in-one-Marketing-Plattform, die Marken beim Wachstum und Skalieren unterstützt.",
@@ -79,7 +79,7 @@
     "summary_abuse": "MageWorx Search Autocomplete ist eine kostenlose Open-Source-Erweiterung für Magento 2 ohne Missbrauchssignal; sie ist eine Backend-Bibliothek, die in Magento-Shops integriert wird, um die Such-UX zu verbessern, und hat keine verbraucherseitige Fläche, die für Missbrauch ausgenutzt werden könnte."
   },
   "Magic UI": {
-    "description": "Magic UI ist eine UI-Bibliothek mit Open-Source-Animationskomponenten, gebaut mit React, TypeScript, Tailwind CSS und Framer Motion.",
+    "description": "Magic UI ist eine UI-Bibliothek mit animierten Open-Source-Komponenten, gebaut mit React, TypeScript, Tailwind CSS und Framer Motion.",
     "history": "Magic UI ist eine kostenlose Open-Source-React-Komponentenbibliothek für Design Engineers, die um 2023 auf GitHub gestartet wurde; sie bietet über 150 animierte Komponenten auf Basis von React, TypeScript, Tailwind CSS und Motion und folgt einer Copy-Paste-Philosophie ähnlich wie shadcn/ui. Das Projekt hat über 19'000 GitHub-Stars gesammelt und eine Seed-Finanzierungsrunde abgeschlossen.",
     "summary_abuse": "Magic UI ist eine Frontend-Komponentenbibliothek ohne Missbrauchssignal. Entwickler kopieren den Code in ihre eigenen Projekte. Es gibt keinen gehosteten Dienst und keine verbraucherseitige Fläche, die für Missbrauch ausgenutzt werden könnte."
   },
@@ -96,7 +96,7 @@
   "Magisto": {
     "description": "Magisto ist eine Videomanagement-Lösung für Marketingfachleute, Agenturen und Unternehmen jeder Grösse.",
     "history": "Magisto wurde 2009 in Israel gegründet und wuchs auf über 113 Millionen Nutzer. Im April 2019 übernahm Vimeo Magisto für rund 200 Millionen US-Dollar, damals die grösste Akquisition des Unternehmens, um Funktionen für die Erstellung kurzer Videos auszubauen. Nach der Übernahme wurde Magistos Technologie in Vimeos Video-Creation-Tools integriert, und die Marke Magisto ging schliesslich im Vimeo Video Editor auf.",
-    "summary_abuse": "Magisto, heute Teil von Vimeo, ist eine KI-gestützte Plattform zur Videoerstellung ohne auffälliges Missbrauchssignal. Als Video-Tool für Verbraucher und Unternehmen mit Cloud-Speicherung sind Urheberrechtsverletzungen das wichtigste Risiko, Vimeo betreibt jedoch aktive DMCA-Durchsetzung und Inhaltsrichtlinien."
+    "summary_abuse": "Magisto, heute Teil von Vimeo, ist eine KI-gestützte Plattform zur Videoerstellung ohne auffälliges Missbrauchssignal. Als Video-Tool für Privatnutzer und Unternehmen mit Cloud-Speicherung sind Urheberrechtsverletzungen das wichtigste Risiko, Vimeo betreibt jedoch aktive DMCA-Durchsetzung und Inhaltsrichtlinien."
   },
   "Magixite": {
     "description": "Magixite bietet Werkzeuge rund um die Web Content Accessibility Guidelines (WCAG), um Designer und Entwickler bei barrierefreien Webinhalten zu unterstützen, die von Menschen mit Behinderungen effektiv genutzt werden können.",
@@ -105,7 +105,7 @@
   },
   "Maglr": {
     "description": "Maglr ist eine No-Code-Designplattform zum Erstellen interaktiver visueller Geschichten.",
-    "history": "Maglr wurde 2014 in Breda, Niederlande, von Berry van Elk gegründet. Die bootstrapped No-Code-Plattform für digitales Publishing dient zur Erstellung interaktiver Online-Magazine, Jahresberichte und Präsentationen. Das Unternehmen wuchs ohne externes Kapital auf 2,6 Millionen US-Dollar Umsatz.",
+    "history": "Maglr wurde 2014 in Breda, Niederlande, von Berry van Elk gegründet. Die ohne Fremdfinanzierung aufgebaute No-Code-Plattform für digitales Publishing dient zur Erstellung interaktiver Online-Magazine, Jahresberichte und Präsentationen. Das Unternehmen wuchs ohne externes Kapital auf 2,6 Millionen US-Dollar Umsatz.",
     "summary_abuse": "Maglr ist eine Digital-Publishing-Plattform für Geschäftsinhalte ohne dokumentiertes Missbrauchssignal; sie wird hauptsächlich von Marketingteams und Agenturen für gebrandete digitale Publikationen genutzt und bietet kein anonymes Content Hosting, das erheblichen Missbrauch anziehen würde."
   },
   "Magnews": {
@@ -196,7 +196,7 @@
   "Mailman": {
     "description": "Mailman ist freie Software zur Verwaltung elektronischer Diskussions- und Newsletter-Mailinglisten. Mailman ist ins Web integriert, sodass Nutzer ihre Accounts einfach verwalten und Listenbesitzer ihre Listen administrieren können. Mailman unterstützt integrierte Archivierung, automatische Bounce-Verarbeitung, Inhaltsfilterung, Digest-Zustellung, Spamfilter und mehr.",
     "history": "GNU Mailman wurde ursprünglich Mitte der 1990er-Jahre von John Viega erstellt. Die Entwicklung bis Version 1.0 war eine Community-Leistung unter der Leitung von Barry Warsaw. Mailman wurde Teil des GNU Project. Mailman 2 war über Jahrzehnte der dominierende Mailinglisten-Manager. Mailman 3, mit REST API und Django-basierter Weboberfläche, erschien 2015. Das Projekt wird hauptsächlich von Mark Sapiro und Barry Warsaw gepflegt.",
-    "summary_abuse": "GNU Mailman ist ein selbst gehosteter Mailinglisten-Manager, der breit für Mailinglisten von Open-Source-Projekten, akademische Listen und Community-Foren genutzt wird. Mailman-gehostete Listen werden gelegentlich ausgenutzt, um Spam an Abonnenten zu senden, oder kompromittierte Admin-Zugangsdaten werden genutzt, um externe E-Mail-Adressen abzugreifen. Da die Software selbst gehostet wird, hängt das Missbrauchsrisiko stark von den Sicherheitspraktiken der jeweiligen Organisation ab."
+    "summary_abuse": "GNU Mailman ist ein selbst gehosteter Mailinglisten-Manager, der breit für Mailinglisten von Open-Source-Projekten, akademische Listen und Community-Foren genutzt wird. Über Mailman gehostete Listen werden gelegentlich ausgenutzt, um Spam an Abonnenten zu senden, oder kompromittierte Admin-Zugangsdaten werden genutzt, um externe E-Mail-Adressen abzugreifen. Da die Software selbst gehostet wird, hängt das Missbrauchsrisiko stark von den Sicherheitspraktiken der jeweiligen Organisation ab."
   },
   "Mailmunch": {
     "description": "Mailmunch ist ein Lead-Generation-Tool, das Landingpages, Formulare und E-Mail-Marketing kombiniert.",
@@ -303,8 +303,8 @@
   },
   "MangaReader": {
     "description": "MangaReader ist ein WordPress-Theme zum Erstellen von Websites mit anpassbaren Layouts und responsivem Design.",
-    "history": "MangaReader ist eine kostenlose Manga-Lesewebsite, die Tausende Manga-Titel hostet und anonymes Lesen ohne Login ermöglicht. Mehrere Domains nutzen die Marke MangaReader (mangareader.to, mangareader.net, mangareader.in usw.) und bieten vor allem scanlatete Manga-Inhalte an. Die Seite hat eine grosse globale Leserschaft mit täglichen Kapitel-Uploads von Scanlation-Gruppen.",
-    "summary_abuse": "MangaReader hostet scanlatete Manga-Inhalte, die typischerweise die Urheberrechte japanischer Verlage verletzen. Die Seite bewegt sich in einer rechtlichen Grauzone ohne verifizierten DMCA-Prozess; sie bedient anonyme Nutzer ohne KYC und zeigt Drittanbieterwerbung, die Malvertising enthalten kann. Mehrere Domains unter derselben Marke deuten auf ein bei Piraterieseiten übliches Domain-Cycling-Muster hin."
+    "history": "MangaReader ist eine kostenlose Manga-Lesewebsite, die Tausende Manga-Titel hostet und anonymes Lesen ohne Login ermöglicht. Mehrere Domains nutzen die Marke MangaReader (mangareader.to, mangareader.net, mangareader.in usw.) und bieten vor allem scanlation-basierte Manga-Inhalte an. Die Seite hat eine grosse globale Leserschaft mit täglichen Kapitel-Uploads von Scanlation-Gruppen.",
+    "summary_abuse": "MangaReader hostet scanlation-basierte Manga-Inhalte, die typischerweise die Urheberrechte japanischer Verlage verletzen. Die Seite bewegt sich in einer rechtlichen Grauzone ohne verifizierten DMCA-Prozess; sie bedient anonyme Nutzer ohne KYC und zeigt Drittanbieterwerbung, die Malvertising enthalten kann. Mehrere Domains unter derselben Marke deuten auf ein bei Piraterieseiten übliches Domain-Cycling-Muster hin."
   },
   "Mangeznotez": {
     "description": "Mangeznotez ist ein Widget für Restaurant-Tischreservierungen.",
@@ -318,7 +318,7 @@
   },
   "Mantine": {
     "description": "Mantine ist ein Open-Source-UI-Framework und eine Komponentenbibliothek für React.",
-    "history": "Mantine ist eine MIT-lizenzierte React-UI-Komponentenbibliothek von Vitaly Rtishchev, die um 2021 erstmals veröffentlicht wurde; sie bietet über 120 vollständig ausgestattete, zugängliche und anpassbare Komponenten und Hooks; sie ist auf über 30'000 GitHub-Stars und mehr als 5 Millionen monatliche Downloads gewachsen. Die Bibliothek hat ein reiches Ökosystem mit Form-, Notification-, Chart- und Editor-Paketen.",
+    "history": "Mantine ist eine MIT-lizenzierte React-UI-Komponentenbibliothek von Vitaly Rtishchev, die um 2021 erstmals veröffentlicht wurde. Die Bibliothek bietet über 120 vollständig ausgestattete, zugängliche und anpassbare Komponenten und Hooks und ist auf über 30'000 GitHub-Stars sowie mehr als 5 Millionen monatliche Downloads gewachsen. Dazu kommt ein breites Ökosystem mit Form-, Notification-, Chart- und Editor-Paketen.",
     "summary_abuse": "Mantine ist eine grundlegende Open-Source-React-UI-Bibliothek ohne Missbrauchssignal; sie ist ein clientseitiges Rendering-Utility ohne Serverfläche."
   },
   "Mantis": {
@@ -613,7 +613,7 @@
   "Matomo Analytics": {
     "description": "Matomo Analytics ist eine kostenlose und quelloffene Webanalyse-Anwendung, die auf einem PHP/MySQL-Webserver läuft.",
     "history": "Matomo, früher Piwik, wurde 2007 von Matthieu Aubry als Open-Source-Alternative zu Google Analytics gestartet. Im Januar 2018 wurde es in Matomo umbenannt, japanisch für 'Ehrlichkeit'. 2013 gründeten Matthieu Aubry und Maciej Zawadziński gemeinsam Piwik PRO, einen separaten Enterprise-Fork. Clearcode kaufte Aubry 2016 aus Piwik PRO heraus. Das Kernprojekt Matomo wird von über 1 Million Websites und rund 6 Prozent der globalen Top-10k-Websites genutzt.",
-    "summary_abuse": "Matomo ist eine privacy-first Analytics-Plattform, die bewusst die Datensammelpraktiken vermeiden soll, gegen die sie antritt. Standardmässig ist sie selbst gehostet und erhebt standardmässig keine PII. Es sind keine Missbrauchsvorfälle dokumentiert. Matomo positioniert sich aktiv als datenschutzfreundliche Alternative zu Google Analytics."
+    "summary_abuse": "Matomo ist eine datenschutzorientierte Analytics-Plattform, die bewusst die Datensammelpraktiken vermeiden soll, gegen die sie antritt. Standardmässig ist sie selbst gehostet und erhebt keine PII. Es sind keine Missbrauchsvorfälle dokumentiert. Matomo positioniert sich aktiv als datenschutzfreundliche Alternative zu Google Analytics."
   },
   "Matomo Tag Manager": {
     "description": "Matomo Tag Manager verwaltet Tracking- und Marketing-Tags.",
@@ -1128,7 +1128,7 @@
   "Microsoft HTTPAPI": {
     "description": "Microsoft HTTPAPI ist ein Kernel-Mode-HTTP-Treiber im Windows-Betriebssystem, der HTTP-Anfragen und -Antworten effizient, skalierbar und sicher verarbeitet.",
     "history": "Microsoft HTTP API (HTTP.sys) ist eine Kernel-Mode-HTTP-Serverkomponente, die mit Windows Server 2003 eingeführt wurde; sie bildet die Grundlage für IIS, WCF und andere Windows-HTTP-Dienste. Die Komponente wird mit Windows ausgeliefert und mit den jeweiligen Windows-Server-Versionen aktualisiert.",
-    "summary_abuse": "Microsoft HTTPAPI ist eine Kernel-Mode-Komponente von Windows, die von IIS- und WCF-Diensten verwendet wird. Ihr Server-Banner erscheint in HTTP-Antworten und identifiziert den zugrunde liegenden Windows-HTTP-Stack. Es gibt keine inhärente Missbrauchsfläche, es handelt sich um Hintergrundinfrastruktur. Gelegentlich wurden Schwachstellen im Windows-HTTP-Stack ausgenutzt, Microsoft schliesst diese jedoch über reguläre Updates."
+    "summary_abuse": "Microsoft HTTPAPI ist eine Kernel-Mode-Komponente von Windows, die von IIS- und WCF-Diensten verwendet wird. Das Server-Banner erscheint in HTTP-Antworten und identifiziert den zugrunde liegenden Windows-HTTP-Stack. Es gibt keine inhärente Missbrauchsfläche, es handelt sich um Hintergrundinfrastruktur. Gelegentlich wurden Schwachstellen im Windows-HTTP-Stack ausgenutzt, Microsoft schliesst diese jedoch über reguläre Updates."
   },
   "Microsoft Power BI": {
     "description": "Microsoft Power BI ist eine Datenanalyseplattform, die Unternehmensdaten in aussagekräftige Visualisierungen für Erkenntnisse und Entscheidungen umwandelt.",
@@ -1248,7 +1248,7 @@
   "Minero.cc": {
     "description": "Minero.cc ist ein Bot, der beim Betrieb von Crypto-Mining-Anwendungen hilft.",
     "history": "Minero.cc ist ein browserbasierter Cryptocurrency-Mining-Dienst, faktisch Cryptojacking-as-a-Service, der während des Browser-Mining-Booms 2017 bis 2018 nach Coinhive startete. Solche Dienste binden JavaScript-Mining-Code in Websites ein, um CPU-Ressourcen der Besucher zum Mining von Monero zu nutzen.",
-    "summary_abuse": "Minero.cc stellt browserbasierte Cryptocurrency-Mining-Skripte ähnlich wie Coinhive bereit. Browser-Mining-Skripte sind grundsätzlich umstritten und gelten ohne ausdrückliche Zustimmung der Besucher als Ressourcenmissbrauch. Viele Sicherheitswerkzeuge klassifizieren sie als potenziell unerwünschte Programme (PUPs) oder schädlich. Ad Blocker und Sicherheitsprodukte blockieren Minero.cc-Skripte regelmässig. Das Geschäftsmodell hängt davon ab, dass Website-Betreiber Mining-Skripte einbetten, was Regulierungsbehörden in mehreren Rechtsräumen ohne Zustimmung als rechtswidrig eingestuft haben."
+    "summary_abuse": "Minero.cc stellt browserbasierte Cryptocurrency-Mining-Skripte ähnlich wie Coinhive bereit. Browser-Mining-Skripte sind grundsätzlich umstritten und gelten ohne ausdrückliche Zustimmung der Besucher als Ressourcenmissbrauch. Viele Sicherheitswerkzeuge klassifizieren sie als potenziell unerwünschte Programme (PUPs) oder schädlich. Adblocker und Sicherheitsprodukte blockieren Minero.cc-Skripte regelmässig. Das Geschäftsmodell hängt davon ab, dass Website-Betreiber Mining-Skripte einbetten, was Regulierungsbehörden in mehreren Rechtsräumen ohne Zustimmung als rechtswidrig eingestuft haben."
   },
   "Minerstat": {
     "description": "Minerstat ist ein Softwareanbieter mit Managementlösungen für professionelle Crypto-Miner und Mining-Farmen.",

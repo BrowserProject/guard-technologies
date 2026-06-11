@@ -2,7 +2,7 @@
   "Oat++": {
     "description": "Oat++ ist ein Open-Source-Webframework für C++.",
     "history": "Oat++ ist ein Open-Source-Webframework für C++, das 2018 veröffentlicht wurde. Es bietet leistungsfähige HTTP-Serverfunktionen für den Aufbau von APIs und Microservices in C++.",
-    "summary_abuse": "Für Oat++ gibt es kein Missbrauchssignal. Es ist eine C++-Bibliothek für Webframeworks ohne Oberfläche für Endnutzer."
+    "summary_abuse": "Für Oat++ gibt es kein Missbrauchssignal. Es ist eine C++-Webframework-Bibliothek ohne Oberfläche für Endnutzer."
   },
   "Obsidian Incentivize": {
     "description": "Obsidian Incentivize soll den durchschnittlichen Bestellwert durch Upsells im Warenkorb, Cross-Sells und personalisierte Produktempfehlungen erhöhen.",
@@ -17,7 +17,7 @@
   "Obviyo": {
     "description": "Obviyo ist eine Ecommerce-Intelligence-Plattform, die Händlern hilft, Einkaufserlebnisse zu personalisieren und zu optimieren.",
     "history": "Obviyo wurde 2021 als Rebranding von HiConversion eingeführt, einer Ecommerce-Personalisierungs- und A/B-Testing-Plattform der Seriengründer Zee Aganovic und David Henrickson aus Boca Raton, Florida. Die Gründer hatten zuvor Startups aufgebaut, die von Fortune-50-Unternehmen wie Ricoh und Microsoft übernommen wurden. Das Rebranding markierte die stärkere Ausrichtung auf Hyperpersonalisierung und Optimierung für Ecommerce-Händler.",
-    "summary_abuse": "Obviyo ist eine Plattform für Ecommerce-Personalisierung und -Optimierung ohne dokumentierte Missbrauchsgeschichte; sie integriert sich in Händler-Websites, um Einkaufserlebnisse zu personalisieren, ist aber ein B2B-Aboprodukt und nicht für anonyme oder betrügerische Nutzung zugänglich."
+    "summary_abuse": "Obviyo ist eine Plattform für Ecommerce-Personalisierung und -Optimierung ohne dokumentierte Missbrauchsgeschichte. Die Plattform integriert sich in Händler-Websites, um Einkaufserlebnisse zu personalisieren, ist aber ein B2B-Aboprodukt und nicht für anonyme oder betrügerische Nutzung zugänglich."
   },
   "Occasion": {
     "description": "Occasion ist ein Online-Buchungssystem.",
@@ -86,7 +86,7 @@
   },
   "Ocuco FitMix": {
     "description": "Ocuco bietet seinen Kunden inzwischen FittingBox FitMix an, ein Tool zum virtuellen Anprobieren von Brillenfassungen.",
-    "history": "Ocuco ist ein irisches Softwareunternehmen mit Fokus auf Praxismanagement für Optik und Augenversorgung. FitMix ist das Produkt für virtuelle Brillenanprobe, aufgebaut in Partnerschaft mit der Technologie von FittingBox und in Ocuco Suite für Optikhändler integriert.",
+    "history": "Ocuco ist ein irisches Softwareunternehmen mit Fokus auf Praxismanagement für Optik und Augenversorgung. FitMix ist das Produkt für virtuelle Brillenanprobe, aufgebaut in Partnerschaft mit der Technologie von FittingBox und in die Ocuco-Suite für Optikhändler integriert.",
     "summary_abuse": "Für Ocuco FitMix gibt es kein auffälliges Missbrauchssignal. Es ist ein virtuelles Anprobe-Tool für Optikhändler ohne Content-Hosting für Endnutzer oder anonyme Zugriffsfunktionen."
   },
   "Ocular": {
@@ -350,7 +350,7 @@
   "Onlim": {
     "description": "Onlim ist eine Softwareplattform für Chatbots, Social-Media-Management und intelligente persönliche Assistenten.",
     "history": "Onlim wurde 2015 von Alexander Wahler, Corneliu Valentin Stanciu und Ioan Toma in Telfs, Österreich, als Spin-off der Universität Innsbruck gegründet. Das Unternehmen ist auf wissensgetriebene Conversational AI spezialisiert und baut Chatbots sowie Sprachassistenten für Unternehmen in der DACH-Region, mit besonderer Expertise in der Verbindung von Knowledge Graphs und NLP.",
-    "summary_abuse": "Onlim ist eine österreichische Enterprise-Plattform für Conversational AI ohne dokumentierte Missbrauchsgeschichte; sie bietet Chatbot- und Sprachassistentenlösungen für Unternehmen; die Plattform ist nicht öffentlich oder anonym nutzbar und hat keine bekannten Verbindungen zu Phishing oder Betrug."
+    "summary_abuse": "Onlim ist eine österreichische Enterprise-Plattform für Conversational AI ohne dokumentierte Missbrauchsgeschichte. Die Plattform bietet Chatbot- und Sprachassistentenlösungen für Unternehmen, ist nicht öffentlich oder anonym nutzbar und hat keine bekannten Verbindungen zu Phishing oder Betrug."
   },
   "Online Chat Centers": {
     "description": "Online Chat Centers ist eine Live-Chat-Softwareplattform zur Integration in Websites, die Echtzeit-Kundenkommunikation und Support über verschiedene Online-Umgebungen ermöglicht.",
@@ -358,7 +358,7 @@
     "summary_abuse": "Online Chat Centers ist ein Live-Chat-SaaS ohne dokumentiertes Missbrauchssignal."
   },
   "Online Succes": {
-    "description": "Online Succes ist eine niederländische Plattform für Marketing Automation und Website-Besuchertracking.",
+    "description": "Online Succes ist eine Plattform aus den Niederlanden für Marketing Automation und Website-Besuchertracking.",
     "history": "Online Succes ist eine niederländische Plattform für Marketing Automation und Website-Besuchertracking, die sich an niederländische KMU richtet und Lead-Identifikation sowie Marketing Automation bietet, um Website-Traffic in qualifizierte Leads umzuwandeln.",
     "summary_abuse": "Online Succes ist ein niederländisches B2B-Tool für Marketing Automation und Besuchertracking. Es sammelt Verhaltensdaten von Website-Besuchern und hat damit eine moderate Datenschutzoberfläche. Eine Missbrauchsgeschichte ist nicht dokumentiert, und als B2B-Aboprodukt für niederländische Unternehmen ist anonyme oder betrügerische Nutzung unwahrscheinlich."
   },
@@ -368,7 +368,7 @@
     "summary_abuse": "onlyfy Application Manager ist ein ATS, das Arbeitgeber für Recruiting nutzen, ohne auffälliges Missbrauchssignal. Es verarbeitet personenbezogene Daten von Bewerbern in Übereinstimmung mit GDPR und bietet keine Endnutzerfunktionen, die Betrüger anziehen würden."
   },
   "onpublix": {
-    "description": "onpublix ist eine Web Content Management System (CMS)-Plattform für eBusinesses.",
+    "description": "onpublix ist eine Web-Content-Management-System-Plattform (CMS) für eBusinesses.",
     "history": "onpublix ist ein deutsches Web-CMS für eBusinesses; auffällige Eigentümerwechsel oder Deprecation-Ereignisse sind nicht dokumentiert.",
     "summary_abuse": "onpublix ist eine deutsche CMS-Plattform ohne auffälliges Missbrauchssignal."
   },
@@ -567,7 +567,7 @@
   "OpenUI5": {
     "description": "OpenUI5 ist ein JavaScript-UI-Framework, das SAP unter der Apache-2.0-Lizenz veröffentlicht hat.",
     "history": "OpenUI5 wurde 2013 von SAP SE als Open-Source-Gegenstück zum proprietären Framework SAPUI5 unter der Apache-2.0-Lizenz veröffentlicht. Es bietet eine umfassende JavaScript-Bibliothek mit UI-Komponenten für Enterprise-Webanwendungen und wird im SAP-Ökosystem breit genutzt.",
-    "summary_abuse": "OpenUI5 hat kein auffälliges Missbrauchssignal. Es ist ein UI-Framework für die Entwicklung von Enterprise-Anwendungen ohne verbrauchernahe Oberfläche, auf die Betrüger abzielen würden."
+    "summary_abuse": "OpenUI5 hat kein auffälliges Missbrauchssignal. Es ist ein JavaScript-UI-Framework für die Entwicklung von Enterprise-Anwendungen ohne verbrauchernahe Oberfläche, auf die Betrüger abzielen würden."
   },
   "OpenWeb": {
     "description": "OpenWeb ist eine Social-Engagement-Plattform, die Online-Communities rund um digitale Inhalte aufbaut.",
@@ -740,16 +740,16 @@
   "Oracle Moat Measurement": {
     "description": "Oracle Moat liefert Lösungen zur Messung der Werbewirkung, darunter Verifizierung und Aufmerksamkeit, Reichweite und Frequenz sowie Sales-Lift-Messung.",
     "history": "Moat wurde 2010 in New York als Unternehmen für Werbemessung und Aufmerksamkeitsanalysen gegründet. Oracle übernahm Moat im April 2017 für rund 850 Millionen US-Dollar und integrierte es als Oracle Moat Measurement in Oracle Data Cloud. Damit erhielt Oracle erstmals eine eigene Fähigkeit für die Messung digitaler Werbung.",
-    "summary_abuse": "Oracle Moat Measurement zeigt kein nennenswertes Missbrauchssignal. Es ist eine B2B-Plattform für Werbemessung und Analysen, die Marken, Agenturen und Publisher zur Prüfung von Sichtbarkeit und Wirksamkeit von Werbung nutzen, ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
+    "summary_abuse": "Für Oracle Moat Measurement gibt es kein nennenswertes Missbrauchssignal. Es ist eine B2B-Plattform für Werbemessung und Analysen, die Marken, Agenturen und Publisher zur Prüfung von Sichtbarkeit und Wirksamkeit von Werbung nutzen, ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
   },
   "Oracle Recommendations On Demand": {
     "history": "Oracle Recommendations On Demand ist eine cloudbasierte Produktempfehlungs-Engine, die Teil der Oracle ATG Commerce-Plattform war und Collaborative Filtering sowie personalisierte Vorschläge für E-Commerce-Shops bereitstellte; sie wurde durch native Empfehlungsfunktionen in Oracle Commerce Cloud abgelöst und wird nicht mehr aktiv als eigenständiges Produkt vermarktet.",
-    "summary_abuse": "Oracle Recommendations On Demand zeigt kein nennenswertes Missbrauchssignal. Es ist eine Backend-Empfehlungs-Engine für E-Commerce, die in Oracle ATG Commerce-Installationen eingebettet ist, ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
+    "summary_abuse": "Für Oracle Recommendations On Demand gibt es kein nennenswertes Missbrauchssignal. Es ist eine Backend-Empfehlungs-Engine für E-Commerce, die in Oracle ATG Commerce-Installationen eingebettet ist, ohne verbraucherseitige Angriffsfläche für Betrugsakteure."
   },
   "Oracle Web Cache": {
     "description": "Oracle Web Cache ist ein Browser- und Content-Management-Server, der die Leistung von Websites verbessert.",
     "history": "Oracle Web Cache war ein Content-Caching-Server in Oracle Application Server und frühen Oracle Fusion Middleware-Versionen, der die Performance von Websites beschleunigen sollte. Oracle hat ihn in Fusion Middleware 12c abgekündigt und entfernt, wobei 11.1.1.9 die letzte unterstützte Version war.",
-    "summary_abuse": "Oracle Web Cache zeigt kein nennenswertes Missbrauchssignal. Es ist ein abgekündigter Backend-Caching-Server, der in Oracle-Unternehmens-Middleware eingesetzt wurde, ohne verbraucherseitige Angriffsfläche mit Relevanz für Phishing oder Betrug."
+    "summary_abuse": "Für Oracle Web Cache gibt es kein nennenswertes Missbrauchssignal. Es ist ein abgekündigter Backend-Caching-Server, der in Oracle-Unternehmens-Middleware eingesetzt wurde, ohne verbraucherseitige Angriffsfläche mit Relevanz für Phishing oder Betrug."
   },
   "Oracle WebLogic Server": {
     "description": "Oracle WebLogic Server ist ein Java-basierter Application Server, der eine Plattform zum Entwickeln, Bereitstellen und Betreiben von Java-Anwendungen auf Unternehmensebene bietet.",
@@ -868,8 +868,8 @@
   },
   "Osterreichische Post": {
     "description": "Österreichische Post ist ein österreichischer Anbieter von Logistik- und Postdienstleistungen.",
-    "history": "Osterreichische Post AG ist der nationale Postdienstleister Österreichs, als Aktiengesellschaft organisiert und an der Wiener Börse kotiert. Die Versanddienstleister-Integration erscheint in E-Commerce-Plattformen für österreichische Paketzustellung und Sendungsverfolgung.",
-    "summary_abuse": "Osterreichische Post zeigt als Technologie kein nennenswertes Missbrauchssignal. Es ist der nationale österreichische Postdienstleister, der in E-Commerce-Versandabläufe integriert ist, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+    "history": "Österreichische Post AG ist der nationale Postdienstleister Österreichs, als Aktiengesellschaft organisiert und an der Wiener Börse kotiert. Die Versanddienstleister-Integration erscheint in E-Commerce-Plattformen für österreichische Paketzustellung und Sendungsverfolgung.",
+    "summary_abuse": "Österreichische Post zeigt als Technologie kein nennenswertes Missbrauchssignal. Es ist der nationale österreichische Postdienstleister, der in E-Commerce-Versandabläufe integriert ist, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
   },
   "osTicket": {
     "description": "osTicket ist ein Open-Source-Support-Ticketsystem, mit dem Unternehmen Kundenanfragen zentral verwalten und straffen können, einschliesslich Funktionen für Ticketverfolgung, Automatisierung und Reporting.",
@@ -1027,7 +1027,7 @@
   "Oxygen": {
     "description": "Oxygen Builder ist ein Werkzeug zum Erstellen von WordPress-Websites.",
     "history": "Oxygen Builder ist ein Premium-WordPress-Page-Builder-Plugin, das um 2016 gestartet wurde und sich als entwicklerorientierte Alternative zu Elementor und Divi positioniert. Es nutzt einen visuellen Designansatz ohne Shortcodes und gibt Entwicklern dadurch mehr Kontrolle über das ausgegebene HTML.",
-    "summary_abuse": "Oxygen Builder zeigt kein nennenswertes Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Page-Builder-Plugin für Webentwickler, ohne verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
+    "summary_abuse": "Oxygen Builder zeigt kein nennenswertes Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Page-Builder-Plugin für Webentwickler und hat keine verbraucherseitige Hosting-Fläche, auf die Betrugsakteure gezielt aus wären."
   },
   "oXyShop": {
     "description": "oXyShop ist eine Plattform zum Erstellen und Verwalten von Online-Shops.",

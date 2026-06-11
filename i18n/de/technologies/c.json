@@ -21,7 +21,7 @@
   },
   "Caast.tv": {
     "description": "Caast.tv ist eine Lösung für digitale Verkaufsanimationen, die in die Customer Journey im E-Commerce integriert wird.",
-    "history": "Caast.tv ist eine französische Live-Shopping- und Video-Commerce-Plattform, die um 2019 gegründet wurde; sie ermöglicht Marken, live oder aufgezeichnete shoppable Videostreams direkt in ihre E-Commerce-Websites einzubetten.",
+    "history": "Caast.tv ist eine französische Live-Shopping- und Video-Commerce-Plattform, die um 2019 gegründet wurde. Die Plattform ermöglicht Marken, Live- und aufgezeichnete shoppable Videostreams direkt in ihre E-Commerce-Websites einzubetten.",
     "summary_abuse": "Caast.tv ist eine Live-Shopping-Videoplattform für E-Commerce-Marken. Es gibt keine relevante Missbrauchsfläche und keine dokumentierten Vorfälle."
   },
   "Cabin": {
@@ -31,7 +31,7 @@
   },
   "CacheFly": {
     "description": "CacheFly ist ein Content Delivery Network (CDN), dessen CDN-Dienst für das Routing ausschliesslich auf IP Anycast statt auf DNS-basiertes globales Load Balancing setzt.",
-    "history": "CacheFly wurde in Chicago, Illinois, mit Wurzeln bei Downloadhosting.com im Jahr 1999 gegründet. Der CacheFly-CDN-Dienst startete im März 2005 und war 2002 ein Pionier bei TCP Anycast. Das Unternehmen ist auf über 50 PoPs gewachsen und bedient mehr als 500 Kunden in fast 100 Ländern.",
+    "history": "CacheFly wurde in Chicago, Illinois, mit Wurzeln bei Downloadhosting.com im Jahr 1999 gegründet. Der CacheFly-CDN-Dienst startete im März 2005, nachdem das Unternehmen 2002 Pionierarbeit bei TCP Anycast geleistet hatte. Das Unternehmen ist auf über 50 PoPs gewachsen und bedient mehr als 500 Kunden in fast 100 Ländern.",
     "summary_abuse": "CacheFly ist ein spezialisiertes CDN mit Fokus auf hohen Durchsatz für Media Delivery. Wie jedes CDN kann es bösartige Inhalte zwischenspeichern und ausliefern. Es ist jedoch kein breit genutztes Gratis-CDN, das massenhaften Missbrauch anzieht. Ein spezifisch überhöhtes Missbrauchssignal ist nicht dokumentiert."
   },
   "Cachet": {
@@ -61,7 +61,7 @@
   },
   "Caisy": {
     "description": "Caisy ist eine Headless-CMS-Plattform mit flexiblem Content Management, nahtloser Integration in verschiedene Geräte und Kanäle sowie API-Zugriff für strukturierte Content-Auslieferung.",
-    "history": "Caisy ist ein deutsches Headless CMS, das 2019 gegründet wurde und seinen Sitz in Stuttgart hat. 2022 nahm das Unternehmen eine Seed-Runde über 340'000 USD vom Investor Waldegg auf und beschäftigt rund vier Personen. Die Plattform wurde gebaut, damit Teams Inhalte schnell erstellen, gemeinsam bearbeiten und veröffentlichen können, mit eigenen Datenmodellen, Live Preview, Versionskontrolle, Digital Asset Management und Multi-Tenancy; sie richtet sich an Entwickler und Content-Teams, die eine moderne API-first-Alternative zu Legacy-CMS suchen.",
+    "history": "Caisy ist ein deutsches Headless CMS, das 2019 gegründet wurde und seinen Sitz in Stuttgart hat. 2022 nahm das Unternehmen eine Seed-Runde über 340'000 USD vom Investor Waldegg auf und beschäftigt rund vier Personen. Die Plattform wurde gebaut, damit Teams Inhalte schnell erstellen, gemeinsam bearbeiten und veröffentlichen können, mit eigenen Datenmodellen, Live Preview, Versionskontrolle, Digital Asset Management und Multi-Tenancy. Zielgruppe sind Entwickler und Content-Teams, die eine moderne API-first-Alternative zu Legacy-CMS suchen.",
     "summary_abuse": "Es wurde keine relevante Missbrauchshistorie gefunden. Caisy ist ein kleines legitimes deutsches Startup im Headless-CMS-Bereich. GDPR-Compliance wird aufgrund der deutschen Herkunft als wichtiger Vorteil betont. Bekannte Datenmissbräuche, Dark Patterns oder Sicherheitsvorfälle sind nicht gemeldet."
   },
   "CakePHP": {
@@ -91,7 +91,7 @@
   },
   "Calenso": {
     "description": "Calenso ist eine Online-Terminplanungslösung für Unternehmen, die Firmen in beratungsintensiven Branchen bei der Organisation von Terminen unterstützt.",
-    "history": "Calenso wurde 2016 in Sempach, Schweiz, von drei Mitgründern gegründet und hat heute seinen Sitz in Rothenburg, Schweiz. Die Plattform ist eine führende Schweizer Online-Terminplanungslösung mit über 10'000 Kunden, darunter KMU und Grossunternehmen aus Finanzdienstleistungen, Handel, Gesundheitswesen und öffentlicher Verwaltung. Calenso trat einer Dreierfusion mit US-Unternehmen bei, um seine Scheduling-Fähigkeiten auszubauen. Das Produkt legt starken Wert auf Schweizer Datenschutzstandards und GDPR-Compliance.",
+    "history": "Calenso wurde 2016 in Sempach, Schweiz, von drei Mitgründern gegründet und hat heute seinen Sitz in Rothenburg, Schweiz. Die Plattform ist eine führende Schweizer Online-Terminplanungslösung mit über 10'000 Kunden, darunter KMU und Grossunternehmen aus Finanzdienstleistungen, Handel, Gesundheitswesen und öffentlicher Verwaltung. Calenso schloss sich einer Dreierfusion mit US-Unternehmen an, um seine Scheduling-Fähigkeiten auszubauen. Das Produkt legt starken Wert auf Schweizer Datenschutzstandards und GDPR-Compliance.",
     "summary_abuse": "Es ist keine Missbrauchshistorie gemeldet. Calenso ist eine in der Schweiz gehostete Scheduling-Plattform mit starkem Fokus auf GDPR-Compliance und Datenschutz, passend zu Schweizer Datenschutzstandards. Bekannte Sicherheitsvorfälle, Dark Patterns oder Datenmissbrauch sind nicht dokumentiert."
   },
   "CaliberMind": {
@@ -126,7 +126,7 @@
   },
   "CallRoot": {
     "description": "CallRoot ist ein Telefonanruf-Tracking-System für Marketer, um eingehende Anrufe zu überwachen, zu analysieren und zu optimieren.",
-    "history": "CallRoot wurde 2018 von Gaurav Sharma gegründet und hat seinen Sitz in Newark, USA. Die Plattform ist ein unfunded und gebootstrapptes Call-Tracking-Tool mit Dynamic Number Insertion für Marketingteams und Agenturen; sie integriert sich mit Google Ads, Google Analytics, Facebook Ads, HubSpot, Pipedrive, Zapier und Zoho, damit Marketer eingehende Telefonanrufe bestimmten Kampagnen zuordnen können. Das Produkt bleibt ein kleiner Nischenanbieter im Call-Tracking-Markt.",
+    "history": "CallRoot wurde 2018 von Gaurav Sharma gegründet und hat seinen Sitz in Newark, USA. Die Plattform ist ein nicht fremdfinanziertes, gebootstrapptes Call-Tracking-Tool mit Dynamic Number Insertion für Marketingteams und Agenturen. Integrationen mit Google Ads, Google Analytics, Facebook Ads, HubSpot, Pipedrive, Zapier und Zoho ermöglichen Marketern, eingehende Telefonanrufe bestimmten Kampagnen zuzuordnen. Das Produkt bleibt ein kleiner Nischenanbieter im Call-Tracking-Markt.",
     "summary_abuse": "Es wurde keine Missbrauchshistorie gefunden. CallRoot ist ein kleines gebootstrapptes Call-Tracking-Tool. Da es Telefonnummerndaten und Call Attribution für Marketing verarbeitet, sind angemessene Datenschutzhinweise erforderlich. Konkrete Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "CallTrackingMetrics": {
@@ -136,12 +136,12 @@
   },
   "CamanJS": {
     "description": "CamanJS ist eine JavaScript-Bibliothek zur Bildbearbeitung direkt im Browser, mit der Canvas-Elemente manipuliert werden können.",
-    "history": "CamanJS ist eine JavaScript- und HTML5-Canvas-Bibliothek zur Bildmanipulation, erstellt von Ryan LeFevre (meltingice); sie wurde entwickelt, um Bildbearbeitungsfunktionen wie Filter, Anpassungen und Canvas-Manipulation ohne externe Bibliotheksabhängigkeiten bereitzustellen. Ab Version 3.0 wurde sie in CoffeeScript geschrieben und unterstützte sowohl Browser- als auch NodeJS-Umgebungen. Das Projekt war Anfang bis Mitte der 2010er aktiv, ist inzwischen aber unmaintained, mit einem Repository ohne aktuelle Commits.",
-    "summary_abuse": "Keine Missbrauchshistorie. CamanJS ist eine MIT-lizenzierte Open-Source-Bibliothek für Bildverarbeitung, die heute faktisch aufgegeben ist. Die Bibliothek selbst hat keine Netzwerkfunktionen und sammelt keine Daten. Nutzer sollten den unmaintained Status und mögliche ungepatchte Schwachstellen berücksichtigen, bevor sie sie in Produktionsprojekten einsetzen."
+    "history": "CamanJS ist eine JavaScript- und HTML5-Canvas-Bibliothek zur Bildmanipulation von Ryan LeFevre (meltingice). Die Bibliothek wurde entwickelt, um Bildbearbeitungsfunktionen wie Filter, Anpassungen und Canvas-Manipulation ohne externe Bibliotheksabhängigkeiten bereitzustellen. Ab Version 3.0 wurde sie in CoffeeScript geschrieben und unterstützte sowohl Browser- als auch NodeJS-Umgebungen. Das Projekt war Anfang bis Mitte der 2010er aktiv, wird inzwischen aber nicht mehr gepflegt, und das Repository zeigt keine aktuellen Commits.",
+    "summary_abuse": "Keine Missbrauchshistorie. CamanJS ist eine MIT-lizenzierte Open-Source-Bibliothek für Bildverarbeitung, die heute faktisch aufgegeben ist. Die Bibliothek selbst hat keine Netzwerkfunktionen und sammelt keine Daten. Nutzer sollten den nicht mehr gepflegten Status und mögliche ungepatchte Schwachstellen berücksichtigen, bevor sie sie in Produktionsprojekten einsetzen."
   },
   "Campaign Monitor": {
     "description": "Campaign Monitor ist ein globales Technologieunternehmen, das eine E-Mail-Marketing-Plattform anbietet.",
-    "history": "Campaign Monitor wurde 2004 von Dave Greiner und Ben Richardson in Sydney, Australien, gegründet. Ursprünglich war es ein kleines E-Mail-Marketing-Tool für Webdesigner, später wuchs es zu einer Plattform für Unternehmen jeder Grösse. 2014 nahm das Unternehmen 250 Millionen USD VC-Finanzierung von Insight Venture Partners auf. Danach übernahm es Emma, Sailthru und Liveclicker, um ein Multi-Brand-Portfolio für E-Mail-Marketing aufzubauen. Das gesamte Portfolio wurde um 2022 bis 2023 unter dem Dachnamen Marigold rebrandet, wobei Campaign Monitor als eigenes Produkt innerhalb der Gruppe weitergeführt wird.",
+    "history": "Campaign Monitor wurde 2004 von Dave Greiner und Ben Richardson in Sydney, Australien, gegründet. Ursprünglich war es ein kleines E-Mail-Marketing-Tool für Webdesigner, später wuchs es zu einer Plattform für Unternehmen jeder Grösse. 2014 nahm das Unternehmen 250 Millionen USD VC-Finanzierung von Insight Venture Partners auf. Danach übernahm es Emma, Sailthru und Liveclicker, um ein Multi-Brand-Portfolio für E-Mail-Marketing aufzubauen. Das gesamte Portfolio wurde um 2022 bis 2023 unter dem Dachnamen Marigold umbenannt, wobei Campaign Monitor als eigenes Produkt innerhalb der Gruppe weitergeführt wird.",
     "summary_abuse": "Campaign Monitor hat allgemein einen sauberen Ruf als etablierte E-Mail-Marketing-Plattform. Wie bei allen E-Mail-Plattformen besteht ein Spam-Missbrauchsrisiko, falls Account-Verifizierung umgangen wird, das Unternehmen nutzt jedoch übliche Anti-Spam-Praktiken. Grosse Datenlecks oder absichtliche Missbrauchsvorfälle sind öffentlich nicht dokumentiert."
   },
   "Campflow": {
@@ -152,7 +152,7 @@
   "Candid": {
     "description": "Candid ist eine Visual-Commerce-Plattform, die E-Commerce mit Instagram verbindet und so Produkterkennung und optimierte Einkaufserlebnisse ermöglicht.",
     "history": "AlloyUI wurde 2009 von Eduardo Lundgren und Nate Cavanaugh bei Liferay entwickelt, auf Basis von Yahoo's YUI3 JavaScript-Bibliothek und mit Bootstrap 3 für das Styling. Es war viele Jahre das UI-Framework von Liferay Portal und bot eine umfangreiche Komponentenbibliothek für Enterprise-Portal-Anwendungen. Mit dem Wandel zu modernen Frontend-Tools stellte Liferay AlloyUI zugunsten von Metal.js und später React-basierten Komponenten in Liferay 7.x ein. Das Repository ist heute auf GitHub archiviert und read-only.",
-    "summary_abuse": "Für AlloyUI sind keine Missbrauchsvorfälle gemeldet. Es ist eine veraltete Enterprise-UI-Bibliothek, die intern von Liferay Portal genutzt wurde. Als archiviertes Projekt ohne neue Entwicklung stellt es kein aktuelles Missbrauchsrisiko dar, abgesehen vom üblichen Risiko unmaintained Dependencies."
+    "summary_abuse": "Für AlloyUI sind keine Missbrauchsvorfälle gemeldet. Es ist eine veraltete Enterprise-UI-Bibliothek, die intern von Liferay Portal genutzt wurde. Als archiviertes Projekt ohne neue Entwicklung stellt es kein aktuelles Missbrauchsrisiko dar, abgesehen vom üblichen Risiko nicht mehr gepflegter Dependencies."
   },
   "Candid Themes Fairy": {
     "description": "Fairy ist ein kostenloses und minimalistisches WordPress-Blog-Theme von Candid Themes.",
@@ -162,7 +162,7 @@
   "CanJS": {
     "description": "CanJS ist ein MIT-lizenziertes clientseitiges JavaScript-Framework zum Erstellen wartbarer und performanter Webanwendungen.",
     "history": "CanJS ist ein MIT-lizenziertes clientseitiges JavaScript-MVC-Framework, das ursprünglich von Bitovi entwickelt wurde. Es sollte Entwicklern helfen, komplexe, leistungsfähige Webanwendungen mit observable Data, Live-Binding-Templates und Routing zu bauen. Das Framework durchlief mehrere Hauptversionen und wird weiterhin vom Bitovi-Team gepflegt, auch wenn seine Popularität mit der Dominanz von React, Vue und Angular im JavaScript-Framework-Ökosystem zurückgegangen ist.",
-    "summary_abuse": "Keine Missbrauchshistorie. CanJS ist ein legitimes Open-Source-JavaScript-Framework, das von Bitovi unter der MIT-Lizenz gepflegt wird. Die Bibliothek sammelt keine Daten und sendet keine Informationen extern; sie hat eine kleinere, aber engagierte Nutzercommunity."
+    "summary_abuse": "Keine Missbrauchshistorie. CanJS ist ein legitimes Open-Source-JavaScript-Framework, das von Bitovi unter der MIT-Lizenz gepflegt wird. Die Bibliothek sammelt keine Daten und sendet keine Informationen nach aussen; sie hat eine kleinere, aber engagierte Nutzercommunity."
   },
   "Canny": {
     "description": "Canny ist eine cloudbasierte Lösung, mit der kleine bis grosse Unternehmen Nutzerfeedback sammeln, analysieren, priorisieren und verfolgen können, um fundierte Produktentscheidungen zu treffen.",
@@ -235,7 +235,7 @@
   },
   "Captivate.fm": {
     "description": "Captivate.fm ist eine Podcast-Hosting- und Analytics-Plattform mit Werkzeugen zum Erstellen, Hosten und Verteilen von Podcasts.",
-    "history": "Captivate.fm wurde 2018 im UK als Plattform für unbegrenztes Podcast-Hosting gegründet; sie wurde der weltweit erste IAB Tech Lab 2.2 Certified Podcast Host und baute damit Glaubwürdigkeit bei der Analytics-Genauigkeit auf. Die Plattform ist gewachsen und bedient unabhängige sowie professionelle Podcaster weltweit, mit Fokus auf wachstumsorientierte Funktionen und Teamzusammenarbeit.",
+    "history": "Captivate.fm wurde 2018 im Vereinigten Königreich als Plattform für unbegrenztes Podcast-Hosting gegründet. Der Dienst wurde der weltweit erste IAB Tech Lab 2.2 Certified Podcast Host und baute damit Glaubwürdigkeit bei der Analytics-Genauigkeit auf. Die Plattform ist gewachsen und bedient unabhängige sowie professionelle Podcaster weltweit, mit Fokus auf wachstumsorientierte Funktionen und Teamzusammenarbeit.",
     "summary_abuse": "Captivate.fm ist eine Podcast-Hosting-Plattform mit minimal dokumentiertem Missbrauchssignal. Wie die meisten Media-Hosting-Plattformen könnte sie theoretisch zur Verbreitung irreführender Audioinhalte genutzt werden, es gibt jedoch keine relevanten dokumentierten Betrugs- oder Missbrauchsfälle. Das subscription-basierte Modell mit IAB-Zertifizierung spricht für einen legitimen Betrieb mit Ausrichtung auf professionelle Podcaster."
   },
   "Capturly": {
@@ -255,7 +255,7 @@
   },
   "Carbon Ads": {
     "description": "Carbon Ads ist ein Ad-Tech-Unternehmen, das Werbetreibende über gezielte Verticals namens Circles mit Nutzern verbindet.",
-    "history": "Carbon Ads wurde 2010 von Adelle Charles und Joshua Smibert als kuratiertes Native-Advertising-Netzwerk für Entwickler- und Designer-Websites gegründet. Das Netzwerk wird von BuySellAds betrieben und konzentriert sich auf respektvolle, unaufdringliche Werbung auf hochwertigen entwicklernahen Websites. Carbon Ads hat Hunderte entwicklerfokussierte Websites bedient und in der Entwicklercommunity Anerkennung als weniger intrusive Alternative zu üblichen Werbenetzwerken gewonnen.",
+    "history": "Carbon Ads wurde 2010 von Adelle Charles und Joshua Smibert als kuratiertes Native-Advertising-Netzwerk für Entwickler- und Designer-Websites gegründet. Das Netzwerk wird von BuySellAds betrieben und konzentriert sich auf respektvolle, unaufdringliche Werbung auf hochwertigen entwicklernahen Websites. Carbon Ads hat Hunderte entwicklerfokussierte Websites bedient und in der Entwicklercommunity Anerkennung als weniger aufdringliche Alternative zu üblichen Werbenetzwerken gewonnen.",
     "summary_abuse": "Carbon Ads ist ein kuratiertes, auf Entwickler ausgerichtetes Werbenetzwerk von BuySellAds. Publisher und Werbetreibende werden manuell geprüft, um Qualitätsstandards zu halten. Als Werbenetzwerk beinhaltet es inhärent ein gewisses Mass an Cross-Site-Tracking, gilt aber allgemein als datenschutzfreundlicher als Mainstream-Ad-Tech. Relevante Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "Carbonfact": {
@@ -285,7 +285,7 @@
   },
   "CareCart Cartly Abandoned Cart Recovery": {
     "description": "Cartly Abandoned Cart Recovery von CareCart hilft E-Commerce-Unternehmen, verlorene Verkäufe zurückzugewinnen, indem automatische Erinnerungen an Kunden gesendet werden, die ihren Warenkorb verlassen haben.",
-    "history": "CareCart Cartly Abandoned Cart Recovery ist eine Shopify-App von Care Cart (carecart.io), spezialisiert auf Recovery abgebrochener Checkouts über E-Mail-Kampagnen und Push-Benachrichtigungen. Die App wurde um 2018 gestartet und später mit dem Namen Cartly rebrandet; sie bedient weltweit über 32'000 Shopify-Stores.",
+    "history": "CareCart Cartly Abandoned Cart Recovery ist eine Shopify-App von Care Cart (carecart.io), spezialisiert auf Recovery abgebrochener Checkouts über E-Mail-Kampagnen und Push-Benachrichtigungen. Die App wurde um 2018 gestartet und später unter dem Namen Cartly neu positioniert; sie bedient weltweit über 32'000 Shopify-Stores.",
     "summary_abuse": "Cartly Abandoned Cart Recovery ist eine Shopify-App für automatisiertes E-Mail- und Push-Notification-Remarketing. Das Tool sammelt Kontaktdaten von Käufern zur erneuten Ansprache. Missbrauch auf Plattformebene ist nicht dokumentiert, doch wie bei jedem E-Mail-Marketing-Tool sind einzelne Händler für die Einhaltung von Anti-Spam-Regeln verantwortlich."
   },
   "CareCart Sales Pop Up": {
@@ -1226,7 +1226,7 @@
   },
   "CleverReach": {
     "description": "CleverReach ist E-Mail-Marketing-Software mit Webformularen für Erstellung und Versand von Newslettern.",
-    "history": "CleverReach wurde 2000 in Rastede, Deutschland, als E-Mail-Marketing-Plattform gegründet. Das Unternehmen gehört zu den etablierten deutschen Anbietern für E-Mail-Marketing und bietet Newsletter-Erstellung, Kampagnenverwaltung, Marketingautomatisierung und Analytics. CleverReach legt starken Fokus auf GDPR-Compliance und Datenschutz und positioniert sich als deutsche Alternative zu US-basierten E-Mail-Marketing-Plattformen. Die Plattform bedient kleine und mittelgrossige Unternehmen sowie Agenturen in Deutschland und Europa.",
+    "history": "CleverReach wurde 2000 in Rastede, Deutschland, als E-Mail-Marketing-Plattform gegründet. Das Unternehmen gehört zu den etablierten deutschen Anbietern für E-Mail-Marketing und bietet Newsletter-Erstellung, Kampagnenverwaltung, Marketingautomatisierung und Analytics. CleverReach legt starken Fokus auf GDPR-Compliance und Datenschutz und positioniert sich als deutsche Alternative zu US-basierten E-Mail-Marketing-Plattformen. Die Plattform bedient kleine und mittelgrosse Unternehmen sowie Agenturen in Deutschland und Europa.",
     "summary_abuse": "CleverReach ist eine deutsche E-Mail-Marketing-Plattform mit starkem Fokus auf GDPR-Compliance. Als deutsches Unternehmen unter strengen EU-Datenschutzgesetzen verfügt es über robuste Datenschutzdokumentation und ist ISO 27001-zertifiziert. Die Plattform verarbeitet Abonnentenlisten und Kampagnendaten. Bedeutende Sicherheitsvorfälle oder Datenschutzverstösse sind nicht dokumentiert. Die deutsche Jurisdiktion und die datenschutzorientierte Positionierung machen CleverReach zu einer vergleichsweise vertrauenswürdigen Wahl für europäisches E-Mail-Marketing."
   },
   "CleverTap": {
@@ -1280,7 +1280,7 @@
   },
   "ClickDesk": {
     "description": "ClickDesk ist Live-Chat- und Online-Engagement-Software für Echtzeitinteraktion mit Website-Besuchern.",
-    "history": "ClickDesk wurde um 2011 gegründet und sitzt in Indien. Das Unternehmen bietet eine kombinierte Plattform für Live-Chat, Helpdesk sowie Sprach- und Videochat-Support für Unternehmen. ClickDesk hebt sich durch Audio- und Videochat-Funktionen neben klassischem Textchat ab. Zielgruppe sind kleine und mittelgrossige Unternehmen, die Kundensupport-Software suchen; Integrationen mit beliebten Helpdesk- und CRM-Systemen sind verfügbar.",
+    "history": "ClickDesk wurde um 2011 gegründet und sitzt in Indien. Das Unternehmen bietet eine kombinierte Plattform für Live-Chat, Helpdesk sowie Sprach- und Videochat-Support für Unternehmen. ClickDesk hebt sich durch Audio- und Videochat-Funktionen neben klassischem Textchat ab. Zielgruppe sind kleine und mittelgrosse Unternehmen, die Kundensupport-Software suchen; Integrationen mit beliebten Helpdesk- und CRM-Systemen sind verfügbar.",
     "summary_abuse": "ClickDesk ist eine kleine Live-Chat- und Supportplattform ohne dokumentierte Missbrauchsvorfälle. Als Chatplattform verarbeitet sie Kundendienstgespräche, die personenbezogene Informationen enthalten können. Das indische Unternehmen hat begrenzte Compliance-Zertifizierungen, arbeitet aber in einem einfachen Geschäftsmodell. Bedeutende Sicherheitsvorfälle wurden nicht öffentlich gemeldet."
   },
   "ClickDimensions": {
@@ -2345,7 +2345,7 @@
     "summary_abuse": "Cookie Assistant ist ein Cookie-Consent-Management-Tool ohne dokumentiertes Missbrauchssignal. Es erfüllt eine Compliance-Funktion und stellt keine Funktionen bereit, die typischerweise für Betrug ausgenutzt werden."
   },
   "Cookie Control": {
-    "history": "Cookie Control ist eine Consent-Management-Plattform der britischen Digitalagentur CIVIC UK; sie ist eine zertifizierte IAB TCF v2.0 Consent Management Platform und als eigenständiges JavaScript-Widget sowie als Plugin für WordPress, Drupal und Joomla verfügbar; sie ist im UK Government Digital Marketplace erhältlich.",
+    "history": "Cookie Control ist eine Consent-Management-Plattform der britischen Digitalagentur CIVIC UK. Das Produkt ist eine zertifizierte IAB TCF v2.0 Consent Management Platform und als eigenständiges JavaScript-Widget sowie als Plugin für WordPress, Drupal und Joomla verfügbar; es ist im UK Government Digital Marketplace erhältlich.",
     "summary_abuse": "Cookie Control ist ein Consent-Management-Tool und eine Lösung für Datenschutz-Compliance. Es hat kein auffälliges Missbrauchssignal. Es wurde ausdrücklich dafür entwickelt, unautorisierte Nachverfolgung zu verhindern und die Privatsphäre der Nutzer zu stärken."
   },
   "Cookie Information": {
@@ -2366,7 +2366,7 @@
   "Cookie Script": {
     "description": "Cookie-Script scannt, kategorisiert und beschreibt automatisch alle Cookies, die auf deiner Website gefunden werden.",
     "history": "CookieScript (cookie-script.com) ist eine litauische Consent-Management-Plattform, die um 2018 startete. Das WordPress-Plugin wurde am 28. August 2018 erstmals veröffentlicht. Die Plattform ist von Google für Consent Mode v2 zertifiziert und in IAB TCF integriert; sie bedient vor allem SMB-Websites und wird auf G2 als führende CMP für kleine Unternehmen bewertet.",
-    "summary_abuse": "CookieScript ist eine auf GDPR ausgerichtete Consent-Management-Plattform. Es gibt kein auffälliges Missbrauchssignal. Ihr Zweck ist Datenschutz-Compliance und sie wird von legitimen Website-Betreibern genutzt. Einige WordPress-Nutzerbewertungen erwähnten Schwierigkeiten beim Deaktivieren des Plugins, aber es sind keine betrugs- oder scambezogenen Probleme dokumentiert."
+    "summary_abuse": "CookieScript ist eine auf GDPR ausgerichtete Consent-Management-Plattform. Es gibt kein auffälliges Missbrauchssignal. Der Zweck ist Datenschutz-Compliance, und die Plattform wird von legitimen Website-Betreibern genutzt. Einige WordPress-Nutzerbewertungen erwähnten Schwierigkeiten beim Deaktivieren des Plugins, aber es sind keine betrugs- oder scambezogenen Probleme dokumentiert."
   },
   "Cookie Seal": {
     "description": "Cookie Seal hilft dir, den Einsatz von Cookies auf deiner Website gemäss Datenschutzgesetzen zu verwalten und zu konfigurieren, damit relevante Vorschriften eingehalten werden.",
@@ -3023,7 +3023,7 @@
   "Cybot": {
     "description": "Cybot ist ein Tool, das Website-Betreibern und Marketern die Einhaltung von Datenschutzgesetzen erleichtert.",
     "history": "Cybot A/S wurde 2012 in Kopenhagen, Dänemark, gegründet und brachte mit Cookiebot eine der ersten automatisierten Plattformen für Cookie-Consent-Management auf den Markt, Jahre vor der GDPR. Nach Inkrafttreten der GDPR im Jahr 2018 wurde Cookiebot zu einer der am weitesten verbreiteten Consent-Management-Plattformen in Europa. 2021 fusionierte Cybot mit Usercentrics und verband zwei führende Consent-Plattformen zu einem globalen Marktführer im Consent Management.",
-    "summary_abuse": "Cybot (Cookiebot) ist eine Plattform für GDPR-Consent-Management ohne auffälliges Missbrauchssignal. Ihr Zweck ist die rechtskonforme Cookie-Einwilligung, und sie verarbeitet Consent-Nachweise im Auftrag von Website-Betreibern. Als Datenschutz-Infrastruktur ist sie kein Vektor für Phishing oder Betrug. Es sind keine Missbrauchsfälle dokumentiert."
+    "summary_abuse": "Cybot (Cookiebot) ist eine Plattform für GDPR-Consent-Management ohne auffälliges Missbrauchssignal. Der Zweck ist die rechtskonforme Cookie-Einwilligung, und die Plattform verarbeitet Consent-Nachweise im Auftrag von Website-Betreibern. Als Datenschutz-Infrastruktur ist sie kein Vektor für Phishing oder Betrug. Es sind keine Missbrauchsfälle dokumentiert."
   },
   "Cylindo": {
     "description": "Cylindo ist ein Anbieter für automatisierte Content-Erstellung von 3D-Assets und fotorealistischen Bildern, die Produktvisualisierung in verschiedenen Einsatzbereichen ermöglichen.",

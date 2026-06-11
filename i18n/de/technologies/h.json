@@ -15,7 +15,7 @@
     "summary_abuse": "Haddock ist ein Haskell-Dokumentationstool ohne verbrauchernahe Oberfläche und ohne dokumentierte Missbrauchsmuster. Es ist grundlegendes Werkzeug im Haskell-Ökosystem."
   },
   "Haku": {
-    "description": "Haku ist eine Technologieplattform für Ausdauerrennen, die Organisationen dabei unterstützt, Teilnahmezahlen, Anmeldungen und Event-Erlebnisse zu verbessern.",
+    "description": "Haku ist eine Technologieplattform für Ausdauerrennen, die Organisationen dabei unterstützt, Teilnahmezahlen und Anmeldungen zu steigern und Event-Erlebnisse zu verbessern.",
     "history": "Haku ist eine US-basierte SaaS-Plattform für Anmeldung und Management von Ausdauersportveranstaltungen; sie bietet Rennveranstaltern Werkzeuge für Registrierung, Zeitmessung und Teilnehmerverwaltung. Gegründet wurde Haku Mitte der 2010er-Jahre als spezialisierter Wettbewerber zu Plattformen wie RunSignUp und Race Roster.",
     "summary_abuse": "Haku ist eine Nischenplattform für Sportveranstaltungsregistrierung. Dokumentierte Missbrauchsmuster sind nicht bekannt. Da die Plattform Zahlungen für Event-Anmeldungen verarbeitet, gelten übliche Erwartungen an PCI-Compliance. Es handelt sich um einen kleinen Anbieter ohne öffentliches Security-Programm."
   },
@@ -25,7 +25,7 @@
     "summary_abuse": "Halo ist ein selbst gehostetes Open-Source-CMS. Dokumentierte Missbrauchsmuster sind nicht bekannt. Wie bei jeder selbst gehosteten Publishing-Plattform entsteht Risiko vor allem, wenn Betreiber sie für schädliche Zwecke einsetzen, die Software selbst hat aber keine inhärenten Missbrauchsvektoren. Auffällige CVEs sind nicht dokumentiert."
   },
   "Haloscan": {
-    "description": "Haloscan ist ein Tool, mit dem Blogs Trackbacks und Kommentare einbinden konnten, damit Nutzer über Diskussionen und Feedback mit Blog-Inhalten interagieren konnten.",
+    "description": "Haloscan ist ein Tool, mit dem Blogs Trackbacks und Kommentare einbinden können, damit Nutzer über Diskussionen und Feedback mit Blog-Inhalten interagieren.",
     "history": "Haloscan war ein früher Dienst für Blog-Kommentare und Trackbacks, der in der Blogging-Ära der mittleren 2000er-Jahre beliebt war. Er bot kostenloses Kommentar-Hosting für Blogs. Der Dienst wurde im Januar 2009 eingestellt, nachdem JS-Kit, später Echo, ihn übernommen hatte. Nutzer wurden zu Echo Comments migriert, bevor auch dieser Dienst später eingestellt wurde.",
     "summary_abuse": "Haloscan war ein Legacy-Dienst für Blog-Kommentare und wurde 2009 eingestellt. Er ist nicht mehr in Betrieb. Historisch wurde er für legitime Blog-Diskussionen genutzt, ohne dass auffällige Missbrauchsmuster dokumentiert sind. Der Dienst ist eingestellt."
   },
@@ -106,11 +106,11 @@
   },
   "Haptik": {
     "description": "Haptik ist eine indische Conversational-AI-Plattform für Unternehmen, gegründet im August 2013 und 2019 von Reliance Industries Limited übernommen.",
-    "history": "Haptik wurde im August 2013 in Mumbai, Indien, als Conversational-AI- und Chatbot-Plattform gegründet. Das Unternehmen nahm erhebliche VC-Mittel auf, bevor es 2019 für rund 100 Millionen US-Dollar von Reliance Industries Limited, Jio Platforms, übernommen wurde und damit Teil eines der grössten indischen Konglomerate wurde. Heute konzentriert sich Haptik auf Enterprise-Deployments von KI-Assistenten für grosse indische und internationale Unternehmen.",
+    "history": "Haptik wurde im August 2013 in Mumbai, Indien, als Conversational-AI- und Chatbot-Plattform gegründet. Das Unternehmen nahm erhebliche VC-Mittel auf, bevor es 2019 für rund 100 Millionen US-Dollar von Reliance Industries Limited (Jio Platforms) übernommen wurde und damit Teil eines der grössten indischen Konglomerate wurde. Heute konzentriert sich Haptik auf Enterprise-Deployments von KI-Assistenten für grosse indische und internationale Unternehmen.",
     "summary_abuse": "Haptik ist eine Enterprise-Plattform für Conversational AI unter Reliance Industries. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als Anbieter von Chatbots und KI-Assistenten verarbeitet Haptik Nutzergespräche, was übliche Datenschutzfragen aufwirft. Die Plattform bedient vor allem Enterprise-Kunden in Indien. Auffällige Sicherheitsvorfälle sind nicht dokumentiert."
   },
   "Harafunnel": {
-    "description": "Harafunnel ist ein Marketing-Automation-Tool, das mit Facebook Messenger Bot integriert und Kundeninteraktion vereinfacht.",
+    "description": "Harafunnel ist ein Marketing-Automation-Tool, das Facebook Messenger Bots integriert und Kundeninteraktion vereinfacht.",
     "history": "Harafunnel ist eine japanische Marketing-Automation-Plattform, die Facebook Messenger integriert, um chatbotgestützte Kundeninteraktion und Sales Funnels zu ermöglichen; sie wurde um 2017 gegründet und bedient vor allem den japanischen Markt für E-Commerce und digitale Marketing-Automatisierung über Messenger-Bots.",
     "summary_abuse": "Harafunnel ist eine Marketingplattform für Facebook Messenger Bots. Messenger-basierte Marketing-Automation-Tools können für Spam-Kampagnen und unerwünschte Nachrichten missbraucht werden. Spezifische dokumentierte Vorfälle sind nicht bekannt, doch solche Tools werden periodisch für massenhaftes Werbe-Messaging zweckentfremdet. Es handelt sich um einen kleinen japanischen Anbieter ohne dokumentiertes Security-Programm."
   },
@@ -151,7 +151,7 @@
   },
   "Haskell": {
     "history": "Haskell ist eine rein funktionale, statisch typisierte Programmiersprache mit Lazy Evaluation; sie wurde 1987 von einem Forschungskomitee entworfen, das Forschung zu funktionaler Programmierung vereinheitlichen wollte; die erste Version wurde 1990 standardisiert. Haskell 98 war ein auf Stabilität ausgerichteter Standard. Haskell 2010 ist der aktuelle Standard. Trotz mässiger direkter Verbreitung hatte die Sprache enormen Einfluss auf moderne Typsysteme, etwa in TypeScript, Rust und Swift.",
-    "summary_abuse": "Haskell ist eine Programmiersprache ohne inhärente Missbrauchsfläche. Dokumentierte Missbrauchsmuster über die allgemeiner Programmiersprachen hinaus sind nicht bekannt; sie ist eine grundlegende Sprache für Wissenschaft und Forschung."
+    "summary_abuse": "Haskell ist eine Programmiersprache ohne inhärente Missbrauchsfläche. Dokumentierte Missbrauchsmuster über die allgemeinen Risiken von Programmiersprachen hinaus sind nicht bekannt; sie ist eine grundlegende Sprache für Wissenschaft und Forschung."
   },
   "Hasura": {
     "description": "Hasura ist eine Open-Source-Engine, mit der Entwickler ohne grossen Aufwand Echtzeit-GraphQL-APIs aus bestehenden Datenbankschemas automatisch erzeugen können.",
@@ -169,7 +169,7 @@
     "summary_abuse": "HawkSearch ist eine B2B-Enterprise-Suchplattform ohne auffälliges Missbrauchsprofil; sie stellt Händlern Suchfunktionen bereit und bietet keine verbrauchernahe anonyme Registrierung oder Hosting für nutzergenerierte Inhalte. Das Missbrauchsrisiko ist vernachlässigbar."
   },
   "hCaptcha": {
-    "description": "hCaptcha ist eine Anti-Bot-Lösung, die Datenschutz für Nutzer schützen und Websites vergüten soll.",
+    "description": "hCaptcha ist eine Anti-Bot-Lösung, die den Datenschutz der Nutzer schützen und Websites vergüten soll.",
     "history": "hCaptcha wurde 2018 von Intuition Machines als datenschutzorientierte Alternative zu Googles reCAPTCHA eingeführt. Cloudflare übernahm hCaptcha 2020 als Standard-CAPTCHA-Anbieter, was erhebliches Wachstum brachte. Der Dienst unterscheidet sich durch ein Geschäftsmodell, bei dem Website-Betreiber für gelöste CAPTCHAs über Data Labeling vergütet werden.",
     "summary_abuse": "hCaptcha ist ein Anti-Bot-CAPTCHA-Dienst ohne auffälliges direktes Missbrauchssignal. Er soll automatisierten Missbrauch verhindern, nicht ermöglichen. Einige CAPTCHA-Solving-Dienste zielen auf hCaptcha, doch das ist ein generisches Risiko für alle CAPTCHA-Anbieter."
   },
@@ -200,7 +200,7 @@
   },
   "Headless UI": {
     "description": "Headless UI ist eine ungestylte Komponentenbibliothek für React.js oder Vue.js von denselben Personen, die Tailwind CSS geschaffen haben.",
-    "history": "Headless UI ist eine ungestylte, barrierearme Open-Source-UI-Komponentenbibliothek für React und Vue, entwickelt von Tailwind Labs, den Machern von Tailwind CSS; sie wurde 2020 veröffentlicht, um zusammen mit Tailwind CSS zugängliche Komponenten ohne vorgegebene visuelle Styles zu bauen. Im Tailwind-CSS-Ökosystem ist sie breit verbreitet.",
+    "history": "Headless UI ist eine ungestylte, barrierefreie Open-Source-UI-Komponentenbibliothek für React und Vue, entwickelt von Tailwind Labs, den Machern von Tailwind CSS; sie wurde 2020 veröffentlicht, um zusammen mit Tailwind CSS zugängliche Komponenten ohne vorgegebene visuelle Styles zu bauen. Im Tailwind-CSS-Ökosystem ist sie breit verbreitet.",
     "summary_abuse": "Headless UI ist eine Frontend-Komponentenbibliothek ohne Missbrauchsfläche; sie besteht aus rein clientseitigen UI-Komponenten. Dokumentierte Zweckentfremdungsmuster sind nicht bekannt."
   },
   "Headroom.js": {
@@ -225,12 +225,12 @@
   },
   "Heartland Payment Systems": {
     "description": "Heartland Payment Systems ist ein US-basierter Anbieter von Zahlungsabwicklung und Technologie.",
-    "history": "Heartland Payment Systems wurde 1997 als US-Zahlungsabwickler gegründet. 2008 bis 2009 erlitt das Unternehmen einen der grössten Zahlungskartendatenlecks der Geschichte, bei dem über 100 Millionen Kartennummern über SQL Injection in Verarbeitungssystemen offengelegt wurden. Global Payments Inc. übernahm das Unternehmen 2016 für rund 4,3 Milliarden US-Dollar. Heute arbeitet es als Tochtergesellschaft für Restaurants, Hotels, Bildungseinrichtungen und kleine Unternehmen.",
-    "summary_abuse": "Heartland erlitt 2008 ein massives Zahlungskarten-Datenleck, bei dem über 100 Millionen Karten via SQL Injection kompromittiert wurden, damals einer der grössten Datenlecks in der US-Geschichte. Der Angreifer Albert Gonzalez wurde verurteilt. Nach dem Vorfall investierte Heartland stark in Sicherheit und führte Ende-zu-Ende-Verschlüsselung ein. Heute gehört Heartland zu Global Payments und unterhält PCI-DSS-Zertifizierung sowie SOC 2. Fortlaufende Wachsamkeit bleibt nötig, da Zahlungsabwickler Ziel von Threat Actors bleiben."
+    "history": "Heartland Payment Systems wurde 1997 als US-Zahlungsabwickler gegründet. 2008 bis 2009 erlitt das Unternehmen eines der grössten Zahlungskartendatenlecks der Geschichte, bei dem über 100 Millionen Kartennummern über SQL Injection in Verarbeitungssystemen offengelegt wurden. Global Payments Inc. übernahm das Unternehmen 2016 für rund 4,3 Milliarden US-Dollar. Heute arbeitet es als Tochtergesellschaft für Restaurants, Hotels, Bildungseinrichtungen und kleine Unternehmen.",
+    "summary_abuse": "Heartland erlitt 2008 ein massives Zahlungskarten-Datenleck, bei dem über 100 Millionen Karten via SQL Injection kompromittiert wurden, damals eines der grössten Datenlecks in der US-Geschichte. Der Angreifer Albert Gonzalez wurde verurteilt. Nach dem Vorfall investierte Heartland stark in Sicherheit und führte Ende-zu-Ende-Verschlüsselung ein. Heute gehört Heartland zu Global Payments und unterhält PCI-DSS-Zertifizierung sowie SOC 2. Fortlaufende Wachsamkeit bleibt nötig, da Zahlungsabwickler Ziel von Threat Actors bleiben."
   },
   "Heeet": {
     "description": "Heeet ist ein Tool für Lead-Tracking und Marketing-Analytics.",
-    "history": "Heeet ist eine französische SaaS für Lead-Tracking und Marketing-Attribution, gegründet um 2017; sie verbindet Salesforce-CRM-Daten mit Marketingausgaben, um Umsatz Marketingkampagnen zuzuordnen, besonders für B2B-Unternehmen. Zielgruppe sind Marketingteams mit starkem Salesforce-Fokus.",
+    "history": "Heeet ist eine französische SaaS für Lead-Tracking und Marketing-Attribution, gegründet um 2017; sie verbindet Salesforce-CRM-Daten mit Marketingausgaben, um Umsätze Marketingkampagnen zuzuordnen, besonders für B2B-Unternehmen. Zielgruppe sind Marketingteams mit starkem Salesforce-Fokus.",
     "summary_abuse": "Heeet ist eine B2B-Marketing-Analytics-Plattform, die Tracking-Scripts auf Kundenwebsites einsetzt. Als Tracking-Tool sammelt sie Verhaltensdaten für Marketing-Attribution. Als französisches Unternehmen ist GDPR-Compliance wahrscheinlich. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Bedenken zu Analytics-Tools gelten."
   },
   "Heights Platform": {
@@ -309,7 +309,7 @@
     "summary_abuse": "Helpwise ist eine Shared-Inbox- und Kundenservice-Plattform. Dokumentierte Missbrauchsmuster sind nicht bekannt. Als E-Mail- und Messaging-Plattform unterliegt sie üblichen Spam-Risiken, falls sie missbraucht wird. Das indische Startup beansprucht GDPR-Compliance. Auffällige Sicherheitsvorfälle sind nicht dokumentiert."
   },
   "Here": {
-    "description": "HERE ist eine PaaS zum Erstellen eigener Karten, Visualisieren von Standortdatensätzen, Gewinnen von Erkenntnissen sowie Kaufen und Verkaufen von Standort-Assets.",
+    "description": "HERE ist eine PaaS, mit der du eigene Karten erstellen, Standortdatensätze visualisieren, Erkenntnisse gewinnen sowie Standort-Assets kaufen und verkaufen kannst.",
     "history": "HERE wurde 1985 als Navteq, ein Unternehmen für digitale Kartendaten, gegründet. Nokia übernahm es 2008 für 8,1 Milliarden US-Dollar. 2015 kaufte ein Konsortium deutscher Autohersteller, BMW, Audi und Mercedes-Benz, HERE für rund 2,8 Milliarden Euro von Nokia. Bosch und Continental erwarben 2018 jeweils Beteiligungen von 5 Prozent.",
     "summary_abuse": "HERE Technologies bietet Mapping- und Location-APIs für Entwickler und Unternehmen. Die Geolocation- und Mapping-APIs der Plattform könnten in Tracking- oder Überwachungsanwendungen genutzt werden, doch HERE arbeitet unter Enterprise-Verträgen mit legitimen Anwendungsfällen. Dokumentierte grossflächige Missbrauchsvorfälle sind nicht bekannt."
   },
@@ -477,7 +477,7 @@
     "summary_abuse": "HikaShop ist ein selbst gehostetes E-Commerce-Plugin für Joomla. Wie bei jeder E-Commerce-Erweiterung könnten kompromittierte Joomla-Installationen mit HikaShop für gefälschte Shops genutzt werden, doch es gibt keine spezifischen Missbrauchskampagnen gegen die Erweiterung selbst."
   },
   "HikeOrders": {
-    "description": "HikeOrders ist ein Web-Accessibility-Overlay, das verspricht, deine Website behindertenfreundlich zu machen.",
+    "description": "HikeOrders ist ein Web-Accessibility-Overlay, das verspricht, deine Website für Menschen mit Behinderungen zugänglich zu machen.",
     "history": "HikeOrders ist ein Web-Accessibility-Overlay, das eine automatisierte Toolbar bereitstellt, mit der Websites ADA/WCAG-Compliance beanspruchen können. Es wird unter dem WITHES-Framework-Branding vertrieben und bietet Shopify-Apps. Accessibility-Overlays als Kategorie stehen in der Branche stark in der Kritik, weil Accessibility-Experten argumentieren, dass sie keine echte Compliance erreichen und Menschen mit Behinderungen sogar schaden können.",
     "summary_abuse": "HikeOrders ist ein Web-Accessibility-Overlay, mit dem Websites über ein automatisiertes JavaScript-Widget ADA/WCAG-Compliance beanspruchen können. Die breitere Overlay-Branche wurde von der Disability-Community und Sicherheitsforschern breit kritisiert, weil sie falsche Compliance-Sicherheit vermitteln und Website-Betreiber rechtlichen Risiken aussetzen kann. Für HikeOrders selbst sind keine konkreten Betrugs- oder Phishing-Fälle dokumentiert."
   },
@@ -936,7 +936,7 @@
   "Hydra-Shield": {
     "description": "Hydra-Shield ist ein Anti-DDoS-Reverse-Proxy, der bösartigen Traffic filtert und abschwächt, um Server vor Distributed-Denial-of-Service-Angriffen zu schützen.",
     "history": "Hydra-Shield ist ein französischer Anti-DDoS-Schutzdienst, der als Reverse Proxy bösartigen Traffic filtert und abschwächt. Der Dienst mit Sitz in Val d'Oight, Frankreich, wurde etwa 2020 gegründet und richtet sich an kleine bis mittelgrosse Websites, die Layer-7-DDoS-Schutz benötigen. Die Plattform bietet Webschutz und IP-Tunnel-Funktionen für Server. Es ist ein kleines unabhängiges französisches Cybersecurity-Startup mit begrenzter öffentlicher Präsenz ausserhalb der eigenen Website und Trustpilot-Bewertungen. Im französischen Markt konkurriert der Dienst mit grösseren Anbietern wie Cloudflare und OVH, unter anderem durch lokalisierten Support.",
-    "summary_abuse": "Es wurden keine Missbrauchsbedenken identifiziert. Hydra-Shield ist ein legitimer Anti-DDoS-Dienst. Als Reverse-Proxy- und Infrastrukturanbieter verarbeitet er Traffic im Auftrag von Kunden, was die üblichen Risiken jedes CDN oder Sicherheitsproxys mit sich bringt, etwa mögliche Zweckentfremdung durch Kunden. Es sind jedoch keine Missbrauchsvorfälle durch den Betreiber selbst dokumentiert. Als kleines französisches Startup fehlen formelle Sicherheitszertifizierungen, der Anbieter unterliegt aber EU- und französischem Recht."
+    "summary_abuse": "Es wurden keine Missbrauchsbedenken identifiziert. Hydra-Shield ist ein legitimer Anti-DDoS-Dienst. Als Reverse-Proxy- und Infrastrukturanbieter verarbeitet er Traffic im Auftrag von Kunden, was die üblichen Risiken jedes CDNs oder Sicherheitsproxys mit sich bringt, etwa mögliche Zweckentfremdung durch Kunden. Es sind jedoch keine Missbrauchsvorfälle durch den Betreiber selbst dokumentiert. Als kleines französisches Startup fehlen formelle Sicherheitszertifizierungen, der Anbieter unterliegt aber EU- und französischem Recht."
   },
   "Hydrogen": {
     "description": "Hydrogen ist ein Frontend-Webentwicklungsframework zum Erstellen individueller Shopify-Storefronts.",

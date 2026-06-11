@@ -41,8 +41,8 @@
   },
   "Backbase": {
     "description": "Backbase ist eine Engagement-Banking-Plattform, die zentrale Kundeninteraktionen modernisiert und Geschäftsabläufe kundenorientiert neu strukturiert.",
-    "history": "Backbase wurde 2003 von Jouk Pleiter in Amsterdam, Niederlande, gegründet. Das Unternehmen ist privat gehalten und hat 128,6 Millionen US-Dollar an Venture-Finanzierung erhalten. Es bedient weltweit mehr als 120 Banken als AI-native Banking Operating System. Es gibt keine nennenswerten Eigentümerwechsel oder Abkündigungen.",
-    "summary_abuse": "Backbase ist eine Enterprise-Banking-Plattform, die von Finanzinstituten betrieben wird; sie hat keine verbraucherorientierte Oberfläche, die Betrüger direkt angreifen; Missbrauch würde eine kompromittierte Bankinstallation voraussetzen. Das Unternehmen veröffentlicht eine Responsible-Disclosure-Richtlinie (security@backbase.com mit PGP) und hält eine SOC 2 Type 2-Zertifizierung. Es sind keine nennenswerten öffentlichen Vorfälle von Missbrauch auf Plattformebene dokumentiert."
+    "history": "Backbase wurde 2003 von Jouk Pleiter in Amsterdam, Niederlande, gegründet. Das Unternehmen ist privat gehalten und hat 128,6 Millionen US-Dollar an Venture-Finanzierung erhalten. Es bedient weltweit mehr als 120 Banken als KI-natives Banking-Betriebssystem. Es gibt keine nennenswerten Eigentümerwechsel oder Abkündigungen.",
+    "summary_abuse": "Backbase ist eine Enterprise-Banking-Plattform, die von Finanzinstituten betrieben wird. Die Plattform hat keine verbraucherorientierte Oberfläche, die Betrüger direkt angreifen; Missbrauch würde eine kompromittierte Bankinstallation voraussetzen. Das Unternehmen veröffentlicht eine Responsible-Disclosure-Richtlinie (security@backbase.com mit PGP) und hält eine SOC 2 Type 2-Zertifizierung. Es sind keine nennenswerten öffentlichen Vorfälle von Missbrauch auf Plattformebene dokumentiert."
   },
   "Backbone.js": {
     "description": "BackboneJS ist eine JavaScript-Bibliothek zum Entwickeln und Strukturieren clientseitiger Anwendungen, die im Webbrowser laufen.",
@@ -77,12 +77,12 @@
   "Bagisto": {
     "description": "Bagisto ist ein Open-Source-E-Commerce-Framework auf Laravel-Basis mit anpassbaren Funktionen zum Aufbau und zur Verwaltung von Online-Shops.",
     "history": "Bagisto wurde am 31. Oktober 2018 von Webkul lanciert, einem indischen E-Commerce-Softwareunternehmen mit starker Erfahrung in Plattformen wie Magento und OpenCart. Es entstand als modernes, MIT-lizenziertes E-Commerce-Framework auf Laravel und Vue.js, das Entwicklern eine kostenlose und erweiterbare Alternative zu schwergewichtigeren kommerziellen Plattformen bieten sollte. Das Projekt ist stetig auf über 26'000 GitHub-Stars gewachsen und wird von Webkul aktiv gepflegt.",
-    "summary_abuse": "Bagisto ist ein selbst gehostetes Open-Source-E-Commerce-Framework ohne auffälliges Missbrauchssignal. Da es auf händlereigener Infrastruktur und nicht als gemeinsamer Hostingdienst betrieben wird, bietet es Angreifern keine gemeinsame Plattformoberfläche wie Free-Tier-SaaS-Tools. Das Risiko ähnelt anderer selbst gehosteter E-Commerce-Software: Eine kompromittierte oder schlecht abgesicherte Bagisto-Instanz könnte für einen illegalen Shop genutzt werden, doch das ist eher ein Betreiber- und Konfigurationsproblem als ein Missbrauchsvektor auf Plattformebene. Webkul veröffentlicht Nutzungsbedingungen, pflegt das Projekt aktiv, und es gibt keine dokumentierten Berichte, dass Bagisto breit als Betrugs- oder Phishing-Plattform ausgenutzt wird."
+    "summary_abuse": "Bagisto ist ein selbst gehostetes Open-Source-E-Commerce-Framework ohne auffälliges Missbrauchssignal. Da es auf händlereigener Infrastruktur und nicht als gemeinsamer Hostingdienst betrieben wird, bietet es Angreifern keine gemeinsame Plattformoberfläche wie SaaS-Tools mit Gratisstufe. Das Risiko ähnelt dem anderer selbst gehosteter E-Commerce-Software: Eine kompromittierte oder schlecht abgesicherte Bagisto-Instanz könnte für einen illegalen Shop genutzt werden, doch das ist eher ein Betreiber- und Konfigurationsproblem als ein Missbrauchsvektor auf Plattformebene. Webkul veröffentlicht Nutzungsbedingungen, pflegt das Projekt aktiv, und es gibt keine dokumentierten Berichte, dass Bagisto breit als Betrugs- oder Phishing-Plattform ausgenutzt wird."
   },
   "Bahooosh": {
     "description": "Bahooosh ist eine Online-Business-Management-Plattform mit KI-gestütztem Site-Building und E-Commerce-CMS-Funktionen.",
     "history": "Bahooosh ist ein iranischer Online-Shop-Builder, der von Parnas Creative Agency entwickelt wurde und um 2023 startete. Die Plattform richtet sich an den persischsprachigen E-Commerce-Markt und bietet KI-gestütztes Site-Building, Bestandsverwaltung und SEO-Werkzeuge. Seit dem Start sind keine nennenswerten Eigentümerwechsel oder Abkündigungen bekannt.",
-    "summary_abuse": "Bahooosh weist nur ein minimales Missbrauchssignal auf. Als persischsprachiger SaaS-Shop-Builder für iranische Händler hat die Plattform keine dokumentierten internationalen Missbrauchsmuster. Custom-Domain-Support und ein Free Tier könnten theoretisch Scam-Shops ermöglichen, doch die geringe Marktreichweite und der iranische regulatorische Kontext begrenzen die Missbrauchsexposition. Es sind keine nennenswerten Sicherheitsvorfälle oder Missbrauchsmeldungen öffentlich dokumentiert."
+    "summary_abuse": "Bahooosh weist nur ein minimales Missbrauchssignal auf. Als persischsprachiger SaaS-Shop-Builder für iranische Händler hat die Plattform keine dokumentierten internationalen Missbrauchsmuster. Custom-Domain-Support und eine Gratisstufe könnten theoretisch Scam-Shops ermöglichen, doch die geringe Marktreichweite und der iranische regulatorische Kontext begrenzen die Missbrauchsexposition. Es sind keine nennenswerten Sicherheitsvorfälle oder Missbrauchsmeldungen öffentlich dokumentiert."
   },
   "Baidu Analytics (百度统计)": {
     "description": "Baidu Analytics (百度统计) ist ein kostenloses Tool zum Erfassen und Auswerten von Traffic-Daten der Nutzerinnen und Nutzer, die deine Website besuchen.",
@@ -107,7 +107,7 @@
   "BambooHR": {
     "description": "BambooHR ist ein US-amerikanisches Technologieunternehmen, das Human-Resources-Software als SaaS anbietet.",
     "history": "BambooHR wurde 2008 von Ben Peterson und Ryan Sanders in Lindon, Utah, gegründet. Die Gründer bauten das Unternehmen in den ersten vier Jahren bootstrapped auf und verzichteten in der frühen Entwicklungsphase auf Gehälter. BambooHR entwickelte sich zu einer der führenden HR-Softwareplattformen für kleine und mittelgrosse Unternehmen und bedient über 34'000 Kunden in 190 Ländern. Das Unternehmen blieb privat gehalten und unabhängig.",
-    "summary_abuse": "BambooHR verarbeitet sensible HR-Daten von Mitarbeitenden, darunter persönliche Informationen, Lohndaten und Benefits. Die Plattform ist ein legitimer HR-SaaS-Anbieter ohne auffällige Geschichte von Missbrauch oder Betrug. Das Hauptrisiko liegt wegen der Sensibilität der verarbeiteten Mitarbeiterdaten in möglicher Datenpannen-Exposition. BambooHR veröffentlicht eine klare Privacy Policy und hält SOC 2 Type 2-Compliance."
+    "summary_abuse": "BambooHR verarbeitet sensible HR-Daten von Mitarbeitenden, darunter persönliche Informationen, Lohndaten und Benefits. Die Plattform ist ein legitimer HR-SaaS-Anbieter ohne auffällige Geschichte von Missbrauch oder Betrug. Das Hauptrisiko liegt wegen der Sensibilität der verarbeiteten Mitarbeiterdaten in möglicher Exposition durch Datenpannen. BambooHR veröffentlicht eine klare Privacy Policy und hält SOC 2 Type 2-Compliance."
   },
   "Bambuser": {
     "description": "Bambuser ist ein SaaS-Unternehmen aus Stockholm, das Technologie für Live-Video-Shopping bereitstellt.",
@@ -336,7 +336,7 @@
   "Beehiiv": {
     "description": "Beehiiv ist eine relativ junge, gehostete Newsletter-Plattform für Unternehmen und Creators.",
     "history": "Beehiiv wurde 2021 von Tyler Denk, Benjamin Hargett und Jake Hurd gegründet, die zuvor an der Technologieinfrastruktur von Morning Brew gearbeitet hatten. Die Plattform bietet Newsletter-Publishing- und Monetarisierungswerkzeuge für unabhängige Creators und Medienunternehmen. Im April 2024 nahm das Unternehmen 33 Millionen US-Dollar in einer Series-B-Runde auf, womit die Gesamtfinanzierung auf rund 50 Millionen US-Dollar stieg. Die Plattform hat für mehr als 55'000 Creators über 35 Milliarden E-Mails versendet.",
-    "summary_abuse": "Beehiiv ist eine Newsletter-Publishing-Plattform mit Free Tier, der für Spam- oder Phishing-E-Mails in grossem Umfang missbraucht werden könnte. E-Mail-Marketing-Plattformen sind bei Fehlgebrauch ein bekannter Vektor für Spam-Kampagnen. Beehiiv ist stark gewachsen und bedient viele legitime Publisher, doch die E-Mail-Zustellinfrastruktur könnte ausgenutzt werden. Die Plattform sollte Anti-Spam- und AUP-Durchsetzung betreiben."
+    "summary_abuse": "Beehiiv ist eine Newsletter-Publishing-Plattform mit Gratisstufe, die für Spam- oder Phishing-E-Mails in grossem Umfang missbraucht werden könnte. E-Mail-Marketing-Plattformen sind bei Fehlgebrauch ein bekannter Vektor für Spam-Kampagnen. Beehiiv ist stark gewachsen und bedient viele legitime Publisher, doch die E-Mail-Zustellinfrastruktur könnte ausgenutzt werden. Die Plattform sollte Anti-Spam- und AUP-Durchsetzung betreiben."
   },
   "Beehiiv RSS feed": {
     "description": "Beehiiv RSS feed ist eine Funktion von Beehiiv. Beehiiv ist eine relativ junge, gehostete Newsletter-Plattform für Unternehmen und Creators.",
@@ -450,7 +450,7 @@
   },
   "Better Stack": {
     "description": "Better Stack ist eine All-in-one-Plattform für Infrastrukturmonitoring, Incident Management, Uptime-Monitoring und Statusseiten.",
-    "history": "Better Stack wurde 2021 in Prag, Tschechien, von Veronika Kolejak und Juraj Masar gegründet. Ursprünglich startete das Unternehmen als Better Uptime, ein Tool für Uptime-Monitoring, und benannte sich 2023 in Better Stack um, um die erweiterte Observability-Plattform für Logs, Uptime und Incident Management abzubilden. Im Juli 2022 nahm es 18.6 Millionen US-Dollar in einer von Creandum geführten Series A auf und im Januar 2024 weitere 10 Millionen US-Dollar von KAYA VC, insgesamt 28.6 Millionen US-Dollar. Bis 2024 nutzten über 200'000 Entwickler und 4'000 zahlende Kunden das Produkt, 2023 erreichte das Unternehmen die Profitabilität.",
+    "history": "Better Stack wurde 2021 in Prag, Tschechien, von Veronika Kolejak und Juraj Masar gegründet. Ursprünglich startete das Unternehmen als Better Uptime, ein Tool für Uptime-Monitoring, und benannte sich 2023 in Better Stack um, um die erweiterte Observability-Plattform für Logs, Uptime und Incident Management abzubilden. Im Juli 2022 nahm es 18,6 Millionen US-Dollar in einer von Creandum geführten Series A auf und im Januar 2024 weitere 10 Millionen US-Dollar von KAYA VC, insgesamt 28,6 Millionen US-Dollar. Bis 2024 nutzten über 200'000 Entwickler und 4'000 zahlende Kunden das Produkt, 2023 erreichte das Unternehmen die Profitabilität.",
     "summary_abuse": "Es sind keine Missbrauchsfälle oder Sicherheitsverletzungen bekannt. Better Stack gilt als seriöses Developer-Tooling-Unternehmen mit transparenter Preisgestaltung und starkem Ruf in der DevOps-Community. Es wurden keine Dark Patterns oder Datenschutzwarnsignale identifiziert."
   },
   "BetterBot": {
@@ -475,7 +475,7 @@
   },
   "Betty Blocks": {
     "description": "Betty Blocks ist eine cloudbasierte Lösung für Anwendungsentwicklung mit No-Code-Drag-and-Drop-Oberfläche zum Erstellen von Geschäftsanwendungen.",
-    "history": "Betty Blocks wurde ungefähr 2012 in den Niederlanden von Chris und Tim Obdam gegründet. Die Plattform dient dem No-Code-Aufbau von Enterprise-Geschäftsanwendungen. Das Unternehmen nahm 27.97 Millionen Euro auf, um seine Citizen-Development-Plattform auszubauen.",
+    "history": "Betty Blocks wurde ungefähr 2012 in den Niederlanden von Chris und Tim Obdam gegründet. Die Plattform dient dem No-Code-Aufbau von Enterprise-Geschäftsanwendungen. Das Unternehmen nahm 27,97 Millionen Euro auf, um seine Citizen-Development-Plattform auszubauen.",
     "summary_abuse": "Betty Blocks ist eine Enterprise-No-Code-Plattform für Anwendungsentwicklung. Es gibt kein nennenswertes Missbrauchssignal. Die B2B-Plattform wird von Unternehmen für interne Anwendungen und Portale genutzt und bietet keine typischen verbraucherorientierten Funktionen, die für Betrug ausgenutzt werden."
   },
   "Beusable": {
@@ -485,7 +485,7 @@
   },
   "Bevy": {
     "description": "Bevy ist eine Plattform, die Communities stärkt, indem sie Engagement in messbaren Enterprise-ROI überführt.",
-    "history": "Bevy wurde 2017 von Derek Andersen, Joel Fernandes und Alex Bendig in Palo Alto, Kalifornien, gegründet und entstand aus dem Startup-Grind-Konferenznetzwerk. Im März 2021 nahm das Unternehmen eine Series C über 61.4 Millionen US-Dollar auf, unter Beteiligung von Accel und einer breiten Gruppe community-orientierter Investoren. Die Plattform richtet sich an Enterprise-Unternehmen, die verteilte Nutzer-Community- und Developer-Advocacy-Programme betreiben.",
+    "history": "Bevy wurde 2017 von Derek Andersen, Joel Fernandes und Alex Bendig in Palo Alto, Kalifornien, gegründet und entstand aus dem Startup-Grind-Konferenznetzwerk. Im März 2021 nahm das Unternehmen eine Series C über 61,4 Millionen US-Dollar auf, unter Beteiligung von Accel und einer breiten Gruppe community-orientierter Investoren. Die Plattform richtet sich an Enterprise-Unternehmen, die verteilte Nutzer-Community- und Developer-Advocacy-Programme betreiben.",
     "summary_abuse": "Bevy ist eine Enterprise-Plattform für Communities und virtuelle Events, die von grossen Organisationen für Entwickler- oder Nutzergruppen genutzt wird. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform erfordert Enterprise-Verträge und ist nicht frei für Konsumenten zugänglich, wodurch zentrale Angriffswege für Phishing, Scam-Shops oder Spam entfallen. Es wurden keine dokumentierten Missbrauchsfälle identifiziert."
   },
   "Beyable": {
@@ -506,7 +506,7 @@
   "Beyonk": {
     "description": "Beyonk ist eine Online-Ticketing-Software mit EPOS- und Buchungsmanagement-Lösungen für Unternehmen.",
     "history": "Beyonk wurde 2019 von Oscar White und Antony Jones im Vereinigten Königreich gegründet. Das Unternehmen nahm 10 Millionen US-Dollar Venture-Finanzierung auf. 2022 übernahm es BookingHound, um in die Segmente Aktivitätszentren und Reiseveranstalter zu expandieren.",
-    "summary_abuse": "Beyonk ist eine Ticketing- und Buchungs-SaaS für Besucherattraktionen ohne nennenswertes Missbrauchssignal. Zahlungen werden über Stripe verarbeitet, Kartendaten werden nicht gespeichert, und die Plattform bedient legitime Event- und Attraktionsanbieter. Das Freemium-Modell ermöglicht kostenlose Nutzung durch Weitergabe von Buchungsgebühren an Kunden, was Branchenstandard ist und kein eigener Missbrauchsvektor. Es wurde keine öffentliche Bug-Bounty- oder Responsible-Disclosure-Richtlinie gefunden. Die Plattform bietet keine anonyme Registrierung oder Custom-Domain-Hosting, was sie für Missbrauchsakteure weniger attraktiv macht."
+    "summary_abuse": "Beyonk ist eine Ticketing- und Buchungs-SaaS für Besucherattraktionen ohne nennenswertes Missbrauchssignal. Zahlungen werden über Stripe verarbeitet, Kartendaten werden nicht gespeichert, und die Plattform bedient legitime Event- und Attraktionsanbieter. Das Freemium-Modell ermöglicht kostenlose Nutzung durch Weitergabe von Buchungsgebühren an Kunden, was Branchenstandard ist und kein eigener Missbrauchsvektor. Es wurde keine öffentliche Bug-Bounty- oder Responsible-Disclosure-Richtlinie gefunden. Die Plattform bietet keine anonyme Registrierung und kein Custom-Domain-Hosting, was sie für Missbrauchsakteure weniger attraktiv macht."
   },
   "Biano": {
     "description": "Biano ist ein Tracking-Pixel für Möbelshops, das Daten zu Nutzerinteraktionen mit Möbelartikeln für Analysezwecke sammelt.",
@@ -579,7 +579,7 @@
   },
   "Bikayi": {
     "description": "Bikayi ist ein in WhatsApp integrierter E-Commerce-Shop.",
-    "history": "Bikayi wurde am 1. April 2019 in Hyderabad, Indien, von Sonakshi Nathani und Ashutosh Singla gegründet, zwei Absolventen des IIIT Hyderabad. Die Plattform hilft kleinen und mittleren indischen Unternehmen, WhatsApp-integrierte Onlineshops aufzubauen; sie nahm 12.8 Millionen US-Dollar von Y Combinator, Sequoia Capital India (Peak XV Partners) und Pioneer Fund auf und erreichte über 4 Millionen registrierte Nutzer.",
+    "history": "Bikayi wurde am 1. April 2019 in Hyderabad, Indien, von Sonakshi Nathani und Ashutosh Singla gegründet, zwei Absolventen des IIIT Hyderabad. Die Plattform hilft kleinen und mittleren indischen Unternehmen, WhatsApp-integrierte Onlineshops aufzubauen; sie nahm 12,8 Millionen US-Dollar von Y Combinator, Sequoia Capital India (Peak XV Partners) und Pioneer Fund auf und erreichte über 4 Millionen registrierte Nutzer.",
     "summary_abuse": "Bikayi ist eine indische E-Commerce-Plattform für kleine Unternehmen mit WhatsApp-Integration. Der kostenlose Tarif und das reibungsarme Onboarding für kleine Händler bringen ein gewisses Risiko für gefälschte oder betrügerische Storefronts mit sich, die indische Konsumenten ansprechen, wie bei anderen offenen Commerce-Plattformen in aufstrebenden Märkten. Es sind keine konkreten grossflächigen Missbrauchsfälle öffentlich dokumentiert."
   },
   "Bileto": {
@@ -604,8 +604,8 @@
   },
   "Binance Pay": {
     "description": "Binance Pay ist eine kontaktlose, grenzenlose und sichere Kryptowährungs-Zahlungstechnologie von Binance.",
-    "history": "Binance Pay ist ein Kryptowährungs-Zahlungsprodukt von Binance, der nach Volumen grössten Kryptobörse der Welt, gegründet 2017 von Changpeng Zhao. 2023 bekannten sich Binance und sein CEO vor US-Bundesbehörden strafrechtlicher Vorwürfe schuldig, darunter Verstösse gegen Geldwäschevorschriften, und zahlten 4.3 Milliarden US-Dollar Strafe. Zhao trat als CEO zurück. Die Börse arbeitet unter neuer Führung und stärkerer regulatorischer Aufsicht weiter.",
-    "summary_abuse": "Binance Pay ist eine Kryptowährungs-Zahlungstechnologie von Binance, einem Unternehmen mit dokumentierter Geschichte regulatorischer Verstösse. 2023 zahlte Binance in den USA 4.3 Milliarden US-Dollar Strafen wegen Geldwäsche- und Sanktionsverstössen. Kryptowährungs-Zahlungsprodukte werden generell häufig für Betrug, Scams und Geldwäsche genutzt, da Transaktionen pseudonym sind. Binance Pay wurde konkret in Zahlungsabläufen von Krypto-Scams beobachtet. Die Compliance-Haltung des Mutterunternehmens hat sich nach dem Vergleich von 2023 wesentlich verbessert, das Restrisiko bleibt jedoch höher als bei regulierten Fiat-Zahlungsabwicklern."
+    "history": "Binance Pay ist ein Kryptowährungs-Zahlungsprodukt von Binance, der nach Volumen grössten Kryptobörse der Welt, gegründet 2017 von Changpeng Zhao. 2023 bekannten sich Binance und sein CEO vor US-Bundesbehörden strafrechtlicher Vorwürfe schuldig, darunter Verstösse gegen Geldwäschevorschriften, und zahlten 4,3 Milliarden US-Dollar Strafe. Zhao trat als CEO zurück. Die Börse arbeitet unter neuer Führung und stärkerer regulatorischer Aufsicht weiter.",
+    "summary_abuse": "Binance Pay ist eine Kryptowährungs-Zahlungstechnologie von Binance, einem Unternehmen mit dokumentierter Geschichte regulatorischer Verstösse. 2023 zahlte Binance in den USA 4,3 Milliarden US-Dollar Strafen wegen Geldwäsche- und Sanktionsverstössen. Kryptowährungs-Zahlungsprodukte werden generell häufig für Betrug, Scams und Geldwäsche genutzt, da Transaktionen pseudonym sind. Binance Pay wurde konkret in Zahlungsabläufen von Krypto-Scams beobachtet. Die Compliance-Haltung des Mutterunternehmens hat sich nach dem Vergleich von 2023 wesentlich verbessert, das Restrisiko bleibt jedoch höher als bei regulierten Fiat-Zahlungsabwicklern."
   },
   "BinderPOS": {
     "description": "Binder POS ist eine E-Commerce-Plattform für lokale Spieleläden, um Inventare zu verwalten, Preise zu automatisieren und Online-Marktplätze anzubinden.",
@@ -639,7 +639,7 @@
   },
   "BiteSpeed": {
     "description": "BiteSpeed ist eine All-in-one-Shopify-Marketing-App, die E-Commerce-Marken hilft, verlorenen Umsatz zurückzugewinnen.",
-    "history": "BiteSpeed wurde 2019 in Bengaluru, Indien, von Vinayak Aggarwal, Siddharth Barpanda, Abhinav Tuli und Aparna Aggarwal gegründet. Das Unternehmen begann als Shopify-Nebenprojekt zur Rückgewinnung abgebrochener Warenkörbe über WhatsApp und Facebook Messenger. 2022 nahm es eine Seed-Runde über 1.9 Millionen US-Dollar unter Führung von Peak XV (früher Sequoia Surge) auf, gefolgt von einer Pre-Series A über 3.5 Millionen US-Dollar im Januar 2024. Das Unternehmen erreichte 10 Millionen US-Dollar ARR und gibt an, über 1 Milliarde US-Dollar GMV für Shopify-Händler unterstützt zu haben.",
+    "history": "BiteSpeed wurde 2019 in Bengaluru, Indien, von Vinayak Aggarwal, Siddharth Barpanda, Abhinav Tuli und Aparna Aggarwal gegründet. Das Unternehmen begann als Shopify-Nebenprojekt zur Rückgewinnung abgebrochener Warenkörbe über WhatsApp und Facebook Messenger. 2022 nahm es eine Seed-Runde über 1,9 Millionen US-Dollar unter Führung von Peak XV (früher Sequoia Surge) auf, gefolgt von einer Pre-Series A über 3,5 Millionen US-Dollar im Januar 2024. Das Unternehmen erreichte 10 Millionen US-Dollar ARR und gibt an, über 1 Milliarde US-Dollar GMV für Shopify-Händler unterstützt zu haben.",
     "summary_abuse": "BiteSpeed ist eine Marketing-Automation-Plattform für Shopify-Händler ohne nennenswerte Missbrauchsgeschichte; sie arbeitet vor allem als WhatsApp- und SMS-Marketing-Tool, wobei Spam-Risiken bestehen, wenn Händler Messaging-Funktionen missbrauchen. Die Plattform richtet sich jedoch an legitime E-Commerce-Anwendungsfälle und erfordert für das Onboarding den Besitz eines Shopify-Stores. Es sind keine dokumentierten Fälle bekannt, in denen die Plattform für Phishing oder Betrug genutzt wurde."
   },
   "Bitmovin": {
@@ -687,7 +687,7 @@
   },
   "Blackcart": {
     "description": "Blackcart ist eine Try-before-you-buy-Plattform, mit der Kunden Produkte zu Hause testen können, bevor sie den Kauf abschliessen.",
-    "history": "Blackcart wurde von Donny Ouyang gegründet und nahm im Januar 2021 eine Series A über 8.8 Millionen US-Dollar unter Führung von 500 Startups auf. Das Unternehmen war ein Pionier für Try-before-you-buy-Commerce-Infrastruktur und integriert mit Shopify, Magento, WooCommerce, BigCommerce und Salesforce Commerce Cloud. Blackcart berechnet Händlern eine Umsatzbeteiligung von 4 bis 10 Prozent der behaltenen Artikel statt einer Pauschalgebühr.",
+    "history": "Blackcart wurde von Donny Ouyang gegründet und nahm im Januar 2021 eine Series A über 8,8 Millionen US-Dollar unter Führung von 500 Startups auf. Das Unternehmen war ein Pionier für Try-before-you-buy-Commerce-Infrastruktur und integriert mit Shopify, Magento, WooCommerce, BigCommerce und Salesforce Commerce Cloud. Blackcart berechnet Händlern eine Umsatzbeteiligung von 4 bis 10 Prozent der behaltenen Artikel statt einer Pauschalgebühr.",
     "summary_abuse": "Blackcart ist eine Try-before-you-buy-E-Commerce-Plattform ohne dokumentierte Missbrauchsfälle. Das Geschäftsmodell mit aufgeschobenen Zahlungen für behaltene Artikel bringt ein inhärentes Betrugsrisiko durch Konsumenten mit sich, die Artikel behalten und weder zurücksenden noch bezahlen. Blackcart steuert dies über einen Fraud Multiplier in der Preisgestaltung. Die Plattform ermöglicht keine verbraucherorientierten Missbrauchsszenarien, wie sie bei Ad-Tech oder Linkverkürzern typisch sind."
   },
   "Blade": {
@@ -1283,17 +1283,17 @@
     "summary_abuse": "Borlabs Cookie ist ein WordPress-Plugin für GDPR-Consent-Management ohne dokumentierte Missbrauchssignale. Es ist ein Entwicklertool, das auf den eigenen WordPress-Seiten von Publishern installiert wird, und bietet keinen Mechanismus zum Hosting nutzergenerierter Inhalte oder zur Förderung betrügerischer Nutzung."
   },
   "Bot9": {
-    "description": "Bot9 ist ein AI-Chatbot-Builder, zugeschnitten auf Kundensupport.",
-    "history": "Bot9 ist ein AI-gestützter No-Code-Chatbot-Builder, der 2020 in Bengaluru, Indien, gegründet wurde. Er richtet sich an kleine Unternehmen, die Kundensupport und Vertriebsinteraktionen automatisieren möchten. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Bot9 ist eine kleine AI-Chatbot-SaaS ohne dokumentierte Missbrauchssignale, die spezifisch diese Plattform betreffen. Wie andere No-Code-Chatbot-Builder könnte sie theoretisch für täuschende Kundendienst-Bots verwendet werden, doch öffentliche Missbrauchsberichte wurden nicht identifiziert."
+    "description": "Bot9 ist ein KI-Chatbot-Builder, zugeschnitten auf Kundensupport.",
+    "history": "Bot9 ist ein KI-gestützter No-Code-Chatbot-Builder, der 2020 in Bengaluru, Indien, gegründet wurde. Er richtet sich an kleine Unternehmen, die Kundensupport und Vertriebsinteraktionen automatisieren möchten. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Bot9 ist eine kleine KI-Chatbot-SaaS ohne dokumentierte Missbrauchssignale, die spezifisch diese Plattform betreffen. Wie andere No-Code-Chatbot-Builder könnte sie theoretisch für täuschende Kundendienst-Bots verwendet werden, doch öffentliche Missbrauchsberichte wurden nicht identifiziert."
   },
   "Botble CMS": {
     "history": "Botble CMS ist ein PHP-Content-Management-System auf Basis des Laravel-Frameworks, das seit 2015 vom Botble-Team in Ho-Chi-Minh-Stadt, Vietnam, entwickelt wird. Es wird hauptsächlich auf CodeCanyon verkauft und bietet CRUD-Generierung, modulare Architektur und mehrsprachige Unterstützung. Die Plattform wird aktiv gepflegt und regelmässig aktualisiert.",
     "summary_abuse": "Botble CMS ist ein selbst gehostetes Laravel-PHP-CMS ohne dokumentierte Missbrauchssignale. Es wird von Entwicklern auf eigenen Servern installiert und hat keine verbraucherseitige gehostete Oberfläche, die direkt ausgenutzt werden könnte."
   },
   "botBrains": {
-    "description": "botBrains ist eine AI-gestützte Plattform für Kundensupport-Chatbots, die Anfragen bearbeiten und Antwortzeiten verbessern.",
-    "history": "botBrains ist eine AI-Chatbot-SaaS für Kundensupport, die sich an Unternehmen richtet, die Anfragen automatisiert bearbeiten wollen; in öffentlichen Quellen finden sich kein nennenswertes Gründungsjahr und keine detaillierte Eigentümergeschichte.",
+    "description": "botBrains ist eine KI-gestützte Plattform für Kundensupport-Chatbots, die Anfragen bearbeiten und Antwortzeiten verbessern.",
+    "history": "botBrains ist eine KI-Chatbot-SaaS für Kundensupport, die sich an Unternehmen richtet, die Anfragen automatisiert bearbeiten wollen; in öffentlichen Quellen finden sich kein nennenswertes Gründungsjahr und keine detaillierte Eigentümergeschichte.",
     "summary_abuse": "botBrains ist eine Plattform für Kundensupport-Chatbots; sie hat keine verbraucherseitige Hosting-Fläche, die Phishing oder illegales Content-Hosting ermöglichen würde. Dokumentierte Missbrauchsmuster wurden nicht gemeldet."
   },
   "Bothive": {
@@ -1303,16 +1303,16 @@
   },
   "Botmind": {
     "description": "Botmind ist eine Software, die Antworten auf häufig gestellte Fragen automatisiert.",
-    "history": "Botmind wurde 2017 in Paris, Frankreich, gegründet. Das Unternehmen entwickelt hybride Chatbot-Software für E-Commerce-Kundensupport und nutzt AI, um häufige Kundenanfragen automatisch zu bearbeiten. 2024 meldete das Unternehmen 2,9 Millionen US-Dollar Umsatz mit einem 17-köpfigen Team. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "history": "Botmind wurde 2017 in Paris, Frankreich, gegründet. Das Unternehmen entwickelt hybride Chatbot-Software für E-Commerce-Kundensupport und nutzt KI, um häufige Kundenanfragen automatisch zu bearbeiten. 2024 meldete das Unternehmen 2,9 Millionen US-Dollar Umsatz mit einem 17-köpfigen Team. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Botmind ist eine kleine französische SaaS für E-Commerce-Kundensupport-Chatbots ohne dokumentierte Missbrauchssignale. Die Plattform wird von Händlern zur Automatisierung legitimer Kundendienstinteraktionen genutzt. Öffentliche Berichte über betrügerische Nutzung wurden nicht identifiziert."
   },
   "BotPenguin": {
-    "description": "BotPenguin ist ein AI-Chatbot-Builder für Websites, WhatsApp, Facebook und Telegram.",
+    "description": "BotPenguin ist ein KI-Chatbot-Builder für Websites, WhatsApp, Facebook und Telegram.",
     "history": "BotPenguin ist ein indisches Chatbot-Plattformunternehmen, das No-Code-Chatbot-Builder-Tools für Websites, WhatsApp und Social Media anbietet. Das Unternehmen hat seinen Sitz in Indien und bietet einen dauerhaft kostenlosen Plan. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "BotPenguin ist eine kleine indische No-Code-Chatbot-Plattform ohne dokumentierte Missbrauchssignale. Die Plattform wird von kleinen Unternehmen zur Automatisierung von Kundeninteraktionen genutzt. Spezifische öffentliche Berichte über betrügerische Nutzung wurden nicht identifiziert."
   },
   "Botpress": {
-    "description": "Botpress ist eine Conversational-AI-Plattform, mit der Einzelpersonen und Teams jeder Grösse AI-gestützte Chatbots für verschiedene Anwendungen entwerfen, bauen und bereitstellen können.",
+    "description": "Botpress ist eine Conversational-AI-Plattform, mit der Einzelpersonen und Teams jeder Grösse KI-gestützte Chatbots für verschiedene Anwendungen entwerfen, bauen und bereitstellen können.",
     "history": "Botpress wurde 2017 in Montreal, Kanada, von Sylvain Perron und Justin Watson als eines der ersten Open-Source-Chatbot-Frameworks gegründet. Das Unternehmen erreichte 2018 1'000 GitHub-Sterne, startete 2019 seine Enterprise Edition, nahm 2021 eine Series A über 15 Millionen US-Dollar auf, lancierte 2023 Botpress Cloud und erhielt im Juni 2025 eine Series B über 25 Millionen US-Dollar. Das Projekt wechselte zu einer LLM-nativen Architektur für agentische AI-Systeme und wuchs auf über 300'000 Entwickler.",
     "summary_abuse": "Botpress ist ein weit verbreitetes Open-Source-Framework für Chatbots und AI-Agenten ohne dokumentierte bedeutende Missbrauchssignale. Die selbst gehostete Open-Source-Version gibt Entwicklern volle Kontrolle über die Bereitstellung. Die Cloud-Version unterliegt üblichen SaaS-AUPs. Nennenswerte öffentliche Missbrauchsvorfälle wurden nicht gemeldet."
   },
@@ -1322,12 +1322,12 @@
     "summary_abuse": "Botsify ist eine kleine pakistanische No-Code-Chatbot-Plattform ohne dokumentierte Missbrauchssignale. Die Plattform ermöglicht Unternehmen den Aufbau von Kundendienst-Chatbots. Spezifische öffentliche Berichte über betrügerische Nutzung oder Sicherheitsvorfälle wurden nicht identifiziert."
   },
   "Botsonic": {
-    "description": "Botsonic ist ein No-Code-Builder für individuelle AI-Chatbots, mit dem Unternehmen über natürlichsprachliche Gespräche mit Website-Besuchern und Nutzern interagieren können.",
-    "history": "Botsonic ist ein No-Code-AI-Chatbot-Builder von Writesonic, einem von Samanyou Garg gegründeten Unternehmen für AI-Content-Generierung. Botsonic wurde um 2022 lanciert, als Writesonic seine Produktsuite über Texterzeugung hinaus erweiterte. Unternehmen können damit ChatGPT-gestützte individuelle Chatbots auf Basis eigener Daten bauen. Nennenswerte Eigentümerwechsel ausserhalb von Writesonic sind nicht dokumentiert.",
-    "summary_abuse": "Botsonic ist ein No-Code-AI-Chatbot-Builder auf Basis grosser Sprachmodelle. Wie andere AI-Chatbot-Builder könnte er theoretisch für täuschende oder manipulative kundenorientierte Bots genutzt werden. Spezifische öffentliche Missbrauchsberichte zu dieser Plattform wurden nicht identifiziert."
+    "description": "Botsonic ist ein No-Code-Builder für individuelle KI-Chatbots, mit dem Unternehmen über natürlichsprachliche Gespräche mit Website-Besuchern und Nutzern interagieren können.",
+    "history": "Botsonic ist ein No-Code-KI-Chatbot-Builder von Writesonic, einem von Samanyou Garg gegründeten Unternehmen für KI-Content-Generierung. Botsonic wurde um 2022 lanciert, als Writesonic seine Produktsuite über Texterzeugung hinaus erweiterte. Unternehmen können damit ChatGPT-gestützte individuelle Chatbots auf Basis eigener Daten bauen. Nennenswerte Eigentümerwechsel ausserhalb von Writesonic sind nicht dokumentiert.",
+    "summary_abuse": "Botsonic ist ein No-Code-KI-Chatbot-Builder auf Basis grosser Sprachmodelle. Wie andere KI-Chatbot-Builder könnte er theoretisch für täuschende oder manipulative kundenorientierte Bots genutzt werden. Spezifische öffentliche Missbrauchsberichte zu dieser Plattform wurden nicht identifiziert."
   },
   "Botsplash": {
-    "description": "Botsplash ist eine Kommunikationsplattform, die Gespräche über SMS, Webchat, E-Mail, Sprache und AI in Echtzeit über eine einzige Oberfläche verwaltet.",
+    "description": "Botsplash ist eine Kommunikationsplattform, die Gespräche über SMS, Webchat, E-Mail, Sprache und KI in Echtzeit über eine einzige Oberfläche verwaltet.",
     "history": "Botsplash wurde um 2016 gegründet und ist eine US-amerikanische Conversational-AI-Plattform für Kundeninteraktion über SMS, Chat und Messaging-Kanäle. Die Plattform richtet sich vor allem an Finanzdienstleister und die Automobilbranche. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Botsplash ist eine spezialisierte Conversational-AI-Plattform für regulierte Branchen ohne dokumentierte Missbrauchssignale. Die Plattform zielt auf Finanzdienstleister und Autohändler, die in stark regulierten Umfeldern arbeiten. Öffentliche Berichte über betrügerische Nutzung wurden nicht identifiziert."
   },
