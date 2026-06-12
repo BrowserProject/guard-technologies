@@ -55,7 +55,7 @@
   },
   "EasiChat": {
     "description": "Easichat ist eine Online-Kundendienstplattform, die AI nutzt, um Kundeninteraktionen zu automatisieren und zu verwalten.",
-    "history": "EasiChat ist ein britisches SaaS-Unternehmen für AI-gestützte Live-Chat-Software, die AI-Chatbots mit menschlichen Agenten kombiniert. Zielgruppen sind KMU, Callcenter und Kundendienstbüros im Vereinigten Königreich. Die Plattform erlaubt einem Agenten, mit AI-Vorschlägen bis zu zehn Gespräche gleichzeitig zu betreuen, während Menschen jederzeit eingreifen können; sie integriert Websites, Social Media und Messaging-Apps.",
+    "history": "EasiChat ist ein britisches SaaS-Unternehmen für AI-gestützte Live-Chat-Software, die AI-Chatbots mit menschlichen Agenten kombiniert. Zielgruppen sind KMU, Callcenter und Kundendienstbüros im Vereinigten Königreich. Die Plattform erlaubt einem Agenten, mit AI-Vorschlägen bis zu zehn Gespräche gleichzeitig zu betreuen, wobei sich jederzeit manuell eingreifen lässt; sie integriert Websites, Social Media und Messaging-Apps.",
     "summary_abuse": "EasiChat ist eine legitime britische Live-Chat-Plattform ohne bekannte Missbrauchsvorfälle. Das Unternehmen ist GDPR-konform und richtet sich an britische Unternehmen. Öffentlich sind keine Sicherheitsvorfälle oder betrügerischen Nutzungen bekannt."
   },
   "Easol": {
@@ -507,7 +507,7 @@
   },
   "Eleventy": {
     "description": "Eleventy (11ty) ist ein einfacherer Static Site Generator.",
-    "history": "Eleventy (11ty) ist ein konfigurationsarmer Static Site Generator, den Zach Leatherman 2018 in JavaScript entwickelte. Leatherman liess sich von Jekyll inspirieren, wollte aber eine Node.js-native Lösung ohne erforderliches JavaScript-Framework. Der Name stammt von einer kindlichen Fehlpronunciation von eleven. Eleventy unterscheidet sich durch Unterstützung von über 10 Template-Sprachen und erzeugt standardmässig kein clientseitiges JavaScript. Version 3.0 erschien im Oktober 2024. Im September 2024 wurde Eleventy von Font Awesome übernommen, um die langfristige Nachhaltigkeit zu sichern.",
+    "history": "Eleventy (11ty) ist ein konfigurationsarmer Static Site Generator, den Zach Leatherman 2018 in JavaScript entwickelte. Leatherman liess sich von Jekyll inspirieren, wollte aber eine Node.js-native Lösung ohne erforderliches JavaScript-Framework. Der Name geht auf eine kindliche Fehlaussprache von eleven zurück. Eleventy unterscheidet sich durch Unterstützung von über 10 Template-Sprachen und erzeugt standardmässig kein clientseitiges JavaScript. Version 3.0 erschien im Oktober 2024. Im September 2024 wurde Eleventy von Font Awesome übernommen, um die langfristige Nachhaltigkeit zu sichern.",
     "summary_abuse": "Eleventy ist ein Static Site Generator ohne clientseitige Runtime. Es sind keine Missbrauchsmuster bekannt. Er erzeugt statische HTML-Dateien, die vollständig vom Entwickler bestimmt werden. Kein Tracking, keine Datenerfassung und keine serverseitige Angriffsfläche. Sehr geringes Missbrauchspotenzial."
   },
   "Elevio": {
@@ -669,7 +669,7 @@
     "summary_abuse": "EmbedSocial aggregiert Social-Media-Inhalte und bettet sie über JavaScript-Widgets auf Drittwebsites ein. Der Dienst benötigt OAuth-Zugriff auf Social-Media-Konten der Nutzer, um Inhalte abzurufen, und die eingebetteten Widgets erfassen Besucherverhalten auf Host-Websites. Das Datenschutzrisiko ist wegen des Zugriffsmodells auf Social-Media-Daten moderat. Bösartige Nutzung ist nicht bekannt, das Datenmodell verdient aber genaue Prüfung."
   },
   "EmbedThis Appweb": {
-    "history": "EmbedThis Appweb ist ein kompakter eingebetteter Webserver von EmbedThis Software mit Unterstützung für HTTP/1, HTTP/2 und WebSockets. Mit einem Speicherbedarf von 1 bis 4 MB ist er für IoT-Geräte, Netzwerkausrüstung, Telefonie und ressourcenbeschränkte Umgebungen ausgelegt. Er wurde Anfang der 2000er-Jahre entwickelt und weltweit in produktiver Hardware eingesetzt. Die Software ist doppelt unter GPL v2+ und kommerzieller Lizenz lizenziert. Stand 2024 befindet sich Appweb im Wartungsmodus, EmbedThis empfiehlt für neue Projekte den neueren Ioto Device Agent.",
+    "history": "EmbedThis Appweb ist ein kompakter eingebetteter Webserver von EmbedThis Software mit Unterstützung für HTTP/1, HTTP/2 und WebSockets. Mit einem Speicherbedarf von 1 bis 4 MB ist er für IoT-Geräte, Netzwerkausrüstung, Telefonie und ressourcenbeschränkte Umgebungen ausgelegt. Er wurde Anfang der 2000er-Jahre entwickelt und weltweit in produktiver Hardware eingesetzt. Die Software ist dual lizenziert und sowohl unter GPL v2+ als auch unter einer kommerziellen Lizenz erhältlich. Stand 2024 befindet sich Appweb im Wartungsmodus, EmbedThis empfiehlt für neue Projekte den neueren Ioto Device Agent.",
     "summary_abuse": "EmbedThis Appweb ist ein eingebetteter Webserver für IoT- und Industriegeräte. Es sind keine bösartigen Anwendungsfälle bekannt. Als Serverkomponente könnte er theoretisch so eingesetzt werden, dass Dienste exponiert werden, doch das gilt für jeden Webserver. Das duale Lizenzmodell und die lange Einsatzgeschichte in legitimen Hardwareprodukten sprechen für ein geringes Missbrauchsrisiko."
   },
   "Ember.js": {
@@ -684,8 +684,8 @@
   },
   "Emergent": {
     "description": "Emergent ist eine AI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webapps aus natürlichsprachlichen Prompts bauen können, statt Code zu schreiben.",
-    "history": "Emergent ist eine AI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webanwendungen aus natürlichsprachlichen Prompts erstellen können, ohne Code zu schreiben. Die Plattform steht für eine neue Welle AI-unterstützter App-Builder, die nach den Fortschritten grosser Sprachmodelle um 2023 bis 2024 entstanden; sie wird als CMS-nahe Plattform eingeordnet, die aus einfachen englischen Beschreibungen deploybare Webanwendungen generiert.",
-    "summary_abuse": "Emergent ist eine Plattform für AI-generierte Apps. Plattformen, die Nutzern erlauben, Webapps per AI-Prompt zu erstellen, haben ein erhöhtes Risiko, schnell Phishing-Sites, Scam-Shops oder Social-Engineering-Inhalte zu generieren. Der AI-generierte Charakter der ausgegebenen Anwendungen erschwert Policy Enforcement. Konkrete dokumentierte Missbrauchsvorfälle gibt es nicht, die Kategorie trägt aber ein inhärentes Risiko."
+    "history": "Emergent ist eine AI-gestützte No-Code-Plattform, mit der Nutzer funktionsfähige Webanwendungen aus natürlichsprachlichen Prompts erstellen können, ohne Code zu schreiben. Die Plattform steht für eine neue Welle AI-unterstützter App-Builder, die nach den Fortschritten grosser Sprachmodelle um 2023 bis 2024 entstanden; sie wird als CMS-nahe Plattform eingeordnet, die aus einfachen, alltagssprachlichen Beschreibungen einsatzbereite Webanwendungen generiert.",
+    "summary_abuse": "Emergent ist eine Plattform für AI-generierte Apps. Plattformen, die Nutzern erlauben, Webapps per AI-Prompt zu erstellen, haben ein erhöhtes Risiko, schnell Phishing-Sites, Scam-Shops oder Social-Engineering-Inhalte zu generieren. Der AI-generierte Charakter der erzeugten Anwendungen erschwert die Durchsetzung von Nutzungsrichtlinien. Konkrete dokumentierte Missbrauchsvorfälle gibt es nicht, die Kategorie trägt aber ein inhärentes Risiko."
   },
   "Emfont": {
     "description": "Emfont ist ein Open-Source-Webfont-Dienst für CJK-Schriften, der selbst gehostete, cache-effiziente und datenschutzbewusste Bereitstellung von Open-Source-Fonts ermöglicht.",
@@ -704,7 +704,7 @@
   },
   "Emotive": {
     "description": "Emotive ist ein Softwareunternehmen, das SaaS, Mobile Marketing, NLP, Machine Learning und B2B anbietet.",
-    "history": "Emotive wurde 2018 in Los Angeles als Conversational-SMS-Marketing-Plattform für E-Commerce-Marken gegründet. Die Plattform skalierte zweiseitige SMS-Konversationen, um die Rückgewinnung abgebrochener Warenkörbe zu verbessern. 2025 wurde Emotive von Privy übernommen, einem E-Commerce-Marketing-Automation-Unternehmen, um eine einheitliche E-Mail- und SMS-Plattform für Händler zu schaffen.",
+    "history": "Emotive wurde 2018 in Los Angeles als Conversational-SMS-Marketing-Plattform für E-Commerce-Marken gegründet. Die Plattform ermöglichte SMS-Dialoge mit Kunden in grossem Massstab, um abgebrochene Warenkörbe besser zurückzugewinnen. 2025 wurde Emotive von Privy übernommen, einem E-Commerce-Marketing-Automation-Unternehmen, um eine einheitliche E-Mail- und SMS-Plattform für Händler zu schaffen.",
     "summary_abuse": "Emotive ist eine SMS-Marketing-Plattform mit moderatem Missbrauchspotenzial wegen ihrer Massen-SMS-Funktionen. SMS-Marketing-Plattformen können für Spam oder unerwünschte Nachrichten missbraucht werden. Emotive konzentriert sich auf opt-in E-Commerce-Abonnenten, was das Missbrauchsrisiko im Vergleich zu generischen SMS-Plattformen begrenzt. Grosse öffentliche Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "Emplifi UGC": {
@@ -715,7 +715,7 @@
   "Employment Hero": {
     "description": "Employment Hero ist ein cloudbasiertes Human Resources Information System (HRIS) zur Verwaltung von HR-Abläufen, Payroll-Verarbeitung und Recruiting-Workflows für kleine und mittlere Unternehmen.",
     "history": "Employment Hero wurde 2014 in Sydney, Australien, von Ben Thompson und weiteren Mitgründern gegründet. Das Unternehmen wuchs auf über 200'000 Organisationen, die mehr als 1 Million Mitarbeitende in Australien, Neuseeland, dem Vereinigten Königreich, Kanada, Singapur und Malaysia verwalten. Es nahm erhebliche VC-Finanzierung auf und erreichte 2025 SOC 2 Type II Compliance, womit es sich als führendes HR- und Payroll-SaaS im Asien-Pazifik-Raum etablierte.",
-    "summary_abuse": "Employment Hero ist eine HR- und Payroll-Plattform, die sensible Mitarbeiterdaten verarbeitet; sie wird von KMU und Unternehmen für legitime HR-Abläufe genutzt. 2025 erreichte sie SOC 2 Type II-Zertifizierung, was auf eine ernsthafte Sicherheitsposition hinweist. Auffällige öffentliche Missbrauchsvorfälle sind nicht bekannt."
+    "summary_abuse": "Employment Hero ist eine HR- und Payroll-Plattform, die sensible Mitarbeiterdaten verarbeitet; sie wird von KMU und Unternehmen für legitime HR-Abläufe genutzt. 2025 erreichte sie die SOC 2 Type II-Zertifizierung, was für ein ernsthaft betriebenes Sicherheitsmanagement spricht. Auffällige öffentliche Missbrauchsvorfälle sind nicht bekannt."
   },
   "Empretienda": {
     "description": "Empretienda ist eine Plattform, mit der du deinen eigenen Onlineshop erstellen und verwalten kannst.",
@@ -767,7 +767,7 @@
     "summary_abuse": "Engaga ist ein Popup-Builder mit begrenzter Missbrauchsfläche. Popup-Tools können für täuschende Einwilligungsformulare oder falsche Overlays auf Phishing-Seiten genutzt werden, Engaga selbst ist jedoch ein legitimer kleiner Anbieter. Bedeutende Missbrauchsfälle sind nicht dokumentiert."
   },
   "EngagementHQ": {
-    "description": "Wichtige Software für Veränderer; sie hilft, Dialoge zwischen dir und deiner Community zu ermöglichen, zu bündeln und auszuwerten.",
+    "description": "Unverzichtbare Software für alle, die etwas bewegen wollen; sie hilft, Dialoge zwischen dir und deiner Community zu ermöglichen, zu bündeln und auszuwerten.",
     "history": "EngagementHQ wurde ursprünglich von Bang the Table entwickelt, einem australischen Civic-Tech-Unternehmen, das um 2011 in Victoria gegründet wurde. Es entwickelte sich zur weltweit führenden Plattform für öffentliche Konsultationen im Regierungsumfeld. Später wurde Bang the Table von Granicus übernommen, einem US-Anbieter für Regierungstechnologie. EngagementHQ wurde in die Granicus-Plattformsuite integriert, die Verwaltungen in Australien, Grossbritannien, Kanada und den USA bedient.",
     "summary_abuse": "EngagementHQ ist eine Plattform für Beteiligung von Gemeinschaften im Regierungsumfeld ohne nennenswertes Missbrauchssignal; sie wird ausschliesslich von lokalen und zentralen Behörden für öffentliche Konsultationen genutzt. Eine 24/7-Moderation durch Menschen reduziert das Missbrauchsrisiko deutlich."
   },
@@ -798,7 +798,7 @@
   "Enjin CMS": {
     "description": "Enjin CMS ist ein Content-Management-System für Websites von Gaming-Gilden, Clans, Minecraft-Servern oder Fan-Communities.",
     "history": "Enjin CMS ist ein Website-Builder, der um 2009 speziell für Gaming-Gilden, Clans, Minecraft-Server und Fan-Communities gestartet wurde. Er bietet eine kostenlose Stufe für einfache Community-Websites und blieb in einer Gaming-Community-Nische präsent. Nutzerbewertungen ab 2020 vermerkten sinkende Qualität und schlechten Support, was auf geringere Investitionen in die Plattform hindeutet.",
-    "summary_abuse": "Enjin CMS ist ein Website-Builder für Gaming-Communities mit kostenloser Stufe, über die Nutzer öffentliche Websites erstellen können. Die kostenlose Stufe und das Hosting nutzergenerierter Inhalte schaffen begrenzte Risiken für falsche Community-Seiten oder Spam-Websites, Enjin hat jedoch keine bedeutend dokumentierte Missbrauchsgeschichte."
+    "summary_abuse": "Enjin CMS ist ein Website-Builder für Gaming-Communities mit kostenloser Stufe, über die Nutzer öffentliche Websites erstellen können. Die kostenlose Stufe und das Hosting nutzergenerierter Inhalte schaffen begrenzte Risiken für falsche Community-Seiten oder Spam-Websites, für Enjin sind jedoch keine nennenswerten Missbrauchsfälle dokumentiert."
   },
   "Enjore": {
     "description": "Enjore ist ein Online-System für Sportverwaltung, das Spielpläne, Ergebnisse, Statistiken und Nachrichten für Ligen und Turniere verwaltet.",
@@ -811,7 +811,7 @@
     "summary_abuse": "Enkod ist eine CDP-Plattform für Marketing-Automation. Solche Werkzeuge können bei Missbrauch für E-Mail-Spam eingesetzt werden, Enkod scheint jedoch legitime Business-Marketing-Anwendungsfälle zu bedienen. Dokumentierte Missbrauchsfälle wurden nicht gefunden."
   },
   "Enlistly": {
-    "description": "Enlistly verfolgt Empfehlungsbestellungen in Echtzeit. Teilweise rückerstattete, rückerstattete oder stornierte Bestellungen werden laufend aktualisiert.",
+    "description": "Enlistly verfolgt Empfehlungsbestellungen in Echtzeit. Teilweise oder vollständig rückerstattete sowie stornierte Bestellungen werden laufend aktualisiert.",
     "history": "Enlistly ist ein kleines SaaS für Referral-Tracking, das Empfehlungsbestellungen in Echtzeit überwacht und dabei teilweise Rückerstattungen, Stornierungen und Bestellaktualisierungen verarbeitet. Die Plattform richtet sich an E-Commerce-Unternehmen, die Affiliate- oder Empfehlungsprogramme betreiben wollen. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
     "summary_abuse": "Enlistly ist ein Werkzeug zur Verfolgung von Empfehlungsbestellungen im E-Commerce. Es gibt kein nennenswertes Missbrauchssignal. Referral-Tracking-Plattformen haben eine minimale Missbrauchsfläche, da sie B2B-Werkzeuge für Händler sind und sich nicht an Endverbraucher richten."
   },
@@ -842,7 +842,7 @@
   },
   "Ensighten": {
     "description": "Ensighten ist eine Lösung für sichere Verwaltung, Implementierung und Kontrolle von Website-Technologien.",
-    "history": "Ensighten wurde 2009 als Enterprise-Tag-Management-System gegründet und konkurrierte mit Adobe DTM und Tealium. Das Unternehmen gewann in Unternehmen erhebliche Verbreitung durch seinen sicherheitsorientierten Ansatz für Tag-Governance und Datenschutz-Compliance. Ensighten wurde von CHEQ, einem Anbieter für Go-to-Market-Sicherheit, übernommen und in CHEQ Control and Compliance umbenannt, auch wenn der Markenname Ensighten weiterhin verwendet wird.",
+    "history": "Ensighten wurde 2009 als Enterprise-Tag-Management-System gegründet und konkurrierte mit Adobe DTM und Tealium. Mit seinem sicherheitsorientierten Ansatz für Tag-Governance und Datenschutz-Compliance fand das Unternehmen im Enterprise-Umfeld erhebliche Verbreitung. Ensighten wurde von CHEQ, einem Anbieter für Go-to-Market-Sicherheit, übernommen und in CHEQ Control and Compliance umbenannt, auch wenn der Markenname Ensighten weiterhin verwendet wird.",
     "summary_abuse": "Ensighten ist eine Enterprise-Tag-Management-Plattform, die grosse Organisationen zur Kontrolle von Drittanbieter-Skripten und für Datenschutz-Compliance nutzen. Es gibt kein nennenswertes Missbrauchssignal. Die Plattform ist selbst ein Sicherheitswerkzeug, das auf das Blockieren bösartiger Tags und die Durchsetzung von Data Governance ausgerichtet ist."
   },
   "Enterprise Bot": {
@@ -964,7 +964,7 @@
   "EraofEcom Cartroids": {
     "description": "EraofEcom Cartroids erleichtert das Erstellen stark zielgerichteter Upsells, Cross-Sells und Bundle-Angebote.",
     "history": "EraofEcom Cartroids ist eine Shopify-App für Upsells und Cross-Sells, entwickelt von der Marke EraofEcom. Das Produkt gehört zu einer Suite von Shopify-Conversion-Apps von EraofEcom. Es wurden keine bedeutenden Eigentumswechsel oder grösseren Ereignisse gefunden.",
-    "summary_abuse": "EraofEcom Cartroids ist eine Shopify-Upsell-App. Upsell- und Cross-Sell-Werkzeuge können Dark Patterns wie vorausgewählte Zusatzoptionen oder aggressive Countdown-Timer einsetzen. Als kleine Shopify-App hat sie abseits der in dieser Kategorie üblichen manipulativen UX-Muster nur eine begrenzte Missbrauchsfläche."
+    "summary_abuse": "EraofEcom Cartroids ist eine Shopify-Upsell-App. Upsell- und Cross-Sell-Werkzeuge können Dark Patterns wie vorausgewählte Zusatzoptionen oder Countdown-Timer einsetzen, die künstlichen Zeitdruck erzeugen. Als kleine Shopify-App hat sie abseits der in dieser Kategorie üblichen manipulativen UX-Muster nur eine begrenzte Missbrauchsfläche."
   },
   "EraofEcom MTL": {
     "description": "EraofEcom MTL ist eine Shopify-Popup-App, mit der du Website-Besucher erfassen kannst.",
@@ -988,7 +988,7 @@
   },
   "ERPNext": {
     "description": "ERPNext ist eine freie und Open-Source-Software für integrierte Enterprise Resource Planning (ERP), entwickelt von Frappe Technologies.",
-    "history": "ERPNext wurde 2008 von Rushabh Mehta bei Frappe Technologies Pvt. Ltd. gestartet, als Mehta ein ERP-System für das Familienunternehmen bauen musste. 2010 erhielt es den Namen ERPNext, startete zunächst als SaaS-Produkt und wurde später unter GPL-3.0 als Open Source veröffentlicht. Aufgebaut auf dem Frappe-Python-Framework mit MariaDB, entwickelte es sich zum weltweit beliebtesten zu 100 Prozent Open-Source-ERP und bedient Unternehmen von Startups bis zu grossen Konzernen weltweit.",
+    "history": "ERPNext wurde 2008 von Rushabh Mehta bei Frappe Technologies Pvt. Ltd. gestartet, als Mehta ein ERP-System für das Familienunternehmen bauen musste. 2010 erhielt es den Namen ERPNext, startete zunächst als SaaS-Produkt und wurde später unter GPL-3.0 als Open Source veröffentlicht. Aufgebaut auf dem Frappe-Python-Framework mit MariaDB, entwickelte es sich zum weltweit beliebtesten vollständig quelloffenen ERP-System und bedient Unternehmen von Startups bis zu grossen Konzernen weltweit.",
     "summary_abuse": "ERPNext ist eine legitime Open-Source-ERP-Plattform, die von Frappe Technologies gepflegt wird, ohne bekannte Missbrauchsfälle. Die Software wird weltweit von Unternehmen für legitime Unternehmensprozesse eingesetzt. Als selbst gehostete Lösung hängt die Sicherheit davon ab, wie Betreiber ihre Deployments verwalten. Das SaaS-Cloud-Angebot von Frappe ist GDPR-konform."
   },
   "Errorception": {
@@ -1236,7 +1236,7 @@
   "ExactVisitor": {
     "description": "ExactVisitor ist ein Tool, das Personen identifiziert, die eine Website besuchen, und dazu Einblicke bereitstellt.",
     "history": "ExactVisitor wurde um 2014 von Demand Group in London, UK, gegründet und ist eine B2B-SaaS-Plattform zur Besucheridentifikation. Öffentlich sind keine nennenswerten Übernahmen, Eigentümerwechsel oder Einstellungen dokumentiert.",
-    "summary_abuse": "ExactVisitor ist ein B2B-Tool zur Besucheridentifikation, das Unternehmen und Einzelpersonen auf Websites über ein Tracking-Pixel und Reverse-IP-Lookup erkennt. Die Kernfunktion wirft Datenschutzfragen auf, da Website-Besucher ohne ausdrückliche Einwilligung identifiziert werden können, besonders relevant unter GDPR. Der Anbieter sitzt in UK und verweist auf eine Compliance-Seite und eine Datenschutzerklärung. Es sind keine auffälligen öffentlichen Vorfälle von Phishing, Scam oder Betrug dokumentiert, die spezifisch mit ExactVisitor verbunden sind. Das Tool wird von Sales- und Marketingteams zur Leadgenerierung genutzt und nicht typischerweise von böswilligen Akteuren, weshalb das Missbrauchsprofil im Vergleich zu nutzerorientierten Tracking-Tools niedrig ist."
+    "summary_abuse": "ExactVisitor ist ein B2B-Tool zur Besucheridentifikation, das Unternehmen und Einzelpersonen auf Websites über ein Tracking-Pixel und Reverse-IP-Lookup erkennt. Die Kernfunktion wirft Datenschutzfragen auf, da Website-Besucher ohne ausdrückliche Einwilligung identifiziert werden können, besonders relevant unter GDPR. Der Anbieter sitzt in UK und verweist auf eine Compliance-Seite und eine Datenschutzerklärung. Es sind keine auffälligen öffentlichen Vorfälle von Phishing, Scam oder Betrug dokumentiert, die spezifisch mit ExactVisitor verbunden sind. Das Tool wird von Sales- und Marketingteams zur Leadgenerierung genutzt und nicht typischerweise von böswilligen Akteuren, weshalb das Missbrauchsprofil im Vergleich zu Tracking-Tools im Endkundenbereich niedrig ist."
   },
   "Excel Impact": {
     "description": "Excel Impact ist ein Anbieter von Leadgenerierungs-Systemen und Werbelösungen.",

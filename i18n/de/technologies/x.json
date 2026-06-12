@@ -6,7 +6,7 @@
   },
   "X-Clacks-Overhead": {
     "description": "X-Clacks-Overhead ist ein nicht standardisierter HTTP-Header, der in Serverantworten Gedenkbotschaften übermittelt.",
-    "history": "X-Clacks-Overhead entstand 2015 als nicht standardisierter HTTP-Header und als Community-Hommage an Terry Pratchett nach seinem Tod. Inspiriert vom fiktiven Clacks-Nachrichtensystem der Discworld-Reihe übermittelt er in Serverantworten den Wert \"GNU Terry Pratchett\", wodurch der Name sinngemaess dauerhaft weitergetragen wird. Die Clacks Overhead Working Group bildete sich, um eine Standardisierung durch die IETF anzustreben.",
+    "history": "X-Clacks-Overhead entstand 2015 als nicht standardisierter HTTP-Header und als Community-Hommage an Terry Pratchett nach seinem Tod. Inspiriert vom fiktiven Clacks-Nachrichtensystem der Discworld-Reihe übermittelt er in Serverantworten den Wert \"GNU Terry Pratchett\", wodurch der Name sinngemäss dauerhaft weitergetragen wird. Die Clacks Overhead Working Group bildete sich, um eine Standardisierung durch die IETF anzustreben.",
     "summary_abuse": "X-Clacks-Overhead hat kein Missbrauchssignal. Es handelt sich um einen spielerischen HTTP-Gedenkheader ohne operative Sicherheitsrelevanz und ohne nutzerseitige Angriffsoberfläche."
   },
   "X.ai": {
@@ -141,7 +141,7 @@
     "summary_abuse": "Kein auffälliges Missbrauchssignal: Es handelt sich um eine kleine OSS-UI-Bibliothek ohne nutzerseitige Hosting-, Messaging- oder Weiterleitungsoberfläche, auf die Betrüger typischerweise zielen."
   },
   "Xverify": {
-    "description": "Xverify ist ein intelligentes System zur E-Mail-Verifizierung, das Marketern hilft, harte Bounces zu vermeiden, Spam-Beschwerden zu reduzieren und Betrug zu minimieren, um die Inbox-Zustellung zu verbessern.",
+    "description": "Xverify ist ein intelligentes System zur E-Mail-Verifizierung, das Marketern hilft, Hard Bounces zu vermeiden, Spam-Beschwerden zu reduzieren und Betrug zu minimieren, um die Inbox-Zustellung zu verbessern.",
     "history": "Xverify wurde 2011 von Robert Huey gegründet und hat seinen Hauptsitz in Northbrook, Illinois. Das Unternehmen bietet Echtzeitdienste zur E-Mail-Verifizierung für Marketer, um Bounce-Raten, Spam-Beschwerden und Betrug zu reduzieren. Im Februar 2019 wurde Xverify von TowerData übernommen, einem führenden Anbieter für E-Mail-Intelligence. TowerData fusionierte 2021 mit FreshAddress und benannte sich im Mai 2022 in AtData um, wodurch Xverify zu einem Produkt unter dem Dach von AtData wurde.",
     "summary_abuse": "Xverify ist ein Dienst zur E-Mail-Verifizierung mit niedrigem bis moderatem Missbrauchsprofil. Der Dienst verarbeitet E-Mail-Adressdaten in grossen Mengen, was theoretisch zur Validierung von E-Mail-Listen für Spam-Kampagnen missbraucht werden könnte. Xverify wird jedoch primär an legitime E-Mail-Marketer zur Verbesserung der Zustellbarkeit verkauft. Die Muttergesellschaft AtData, früher TowerData, ist ein Datenbroker im Bereich E-Mail-Intelligence, was gewisse Datenschutzfragen rund um Datenweitergabe aufwirft."
   },

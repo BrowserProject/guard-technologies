@@ -67,7 +67,7 @@
   },
   "Yandex.Messenger": {
     "description": "Yandex.Messenger ist eine Instant-Messaging-Anwendung.",
-    "history": "Yandex.Messenger ist eine Instant-Messaging- und Live-Chat-Anwendung von Yandex, dem russischen Technologieunternehmen, das 1997 von Arkady Volozh und Ilya Segalovich gegründet wurde. Die eigenständige Messenger-App erschien um 2020 und baute auf früheren Kommunikations- und Dialogplattformen von Yandex auf. Im Juli 2024 wurden Yandexs russische Aktivitäten aus der niederländischen Holding Nebius Group herausgelöst und an ein Konsortium russischer Investoren verkauft, wodurch Yandex LLC zu einer eigenständig besessenen Einheit wurde.",
+    "history": "Yandex.Messenger ist eine Instant-Messaging- und Live-Chat-Anwendung von Yandex, dem russischen Technologieunternehmen, das 1997 von Arkady Volozh und Ilya Segalovich gegründet wurde. Die eigenständige Messenger-App erschien um 2020 und baute auf früheren Kommunikations- und Dialogplattformen von Yandex auf. Im Juli 2024 wurden Yandexs russische Aktivitäten aus der niederländischen Holding Nebius Group herausgelöst und an ein Konsortium russischer Investoren verkauft; seither ist Yandex LLC ein eigenständiges Unternehmen mit unabhängigen Eigentümern.",
     "summary_abuse": "Yandex.Messenger hat ein niedriges Missbrauchsprofil. Als Live-Chat- und IM-Plattform, die vor allem in Russland und GUS-Märkten genutzt wird, ist sie kein bevorzugtes Werkzeug für globale Phishing- oder Scam-Operationen. Yandex pflegt eine Acceptable Use Policy und betreibt ein Bug-Bounty-Programm. Der wichtigste Missbrauchsvektor wäre Social Engineering über eingebettete Live-Chat-Widgets, ein generisches Risiko aller solchen Kundenkommunikationsplattformen. Für dieses Produkt sind keine grossen öffentlichen Vorfälle systematischen Missbrauchs dokumentiert."
   },
   "Yandex.Metrika": {
@@ -160,7 +160,7 @@
     "summary_abuse": "Yext hat kein nennenswertes Missbrauchssignal. Es ist eine Enterprise-Plattform für digitales Präsenzmanagement, die von Marken mit vielen Standorten genutzt wird, ohne verbrauchernahe Fläche, die Betrüger typischerweise gezielt nutzen."
   },
   "Yieldify": {
-    "description": "Yieldify ist eine Plattform zur Optimierung der Customer Journey, die Personalisierung über die gesamte Kundenreise bringt.",
+    "description": "Yieldify ist eine Plattform zur Optimierung der Customer Journey, die Personalisierung entlang der gesamten Customer Journey ermöglicht.",
     "history": "Yieldify wurde 2013 in London gegründet und ist eine Plattform für Customer-Journey-Optimierung und Personalisierung. Das Unternehmen wurde von Epsilon übernommen, einem Daten- und Marketingunternehmen im Besitz der Publicis Groupe.",
     "summary_abuse": "Yieldify ist eine On-Site-Personalisierungsplattform, die Tracking-Pixel und Verhaltensanalyse einbindet; sie sammelt Daten zur Customer Journey für Personalisierungszwecke. Es sind keine spezifischen Phishing- oder Betrugsvorfälle dokumentiert, auch wenn die Plattform ad-tech-nah ist und umfangreiches Tracking ausliefert."
   },
@@ -315,14 +315,14 @@
     "summary_abuse": "Youform ist ein Form Builder. Formular-Tools können für Phishing missbraucht werden, etwa für gefälschte Formulare zum Abgreifen von Zugangsdaten, für Youform sind jedoch keine spezifischen Vorfälle dokumentiert."
   },
   "YouLead": {
-    "description": "YouLead ist ein Vertriebs- und Marketingautomationssystem aus Polen, das Unternehmen hilft, Leads zu verwalten, Kundeninteraktion zu straffen und Marketing-Workflows mit integrierten digitalen Tools zu optimieren.",
-    "history": "YouLead ist eine polnische Plattform für Vertriebs- und Marketingautomation, die Unternehmen beim Verwalten von Leads und beim Straffen der Kundeninteraktion mit integrierten digitalen Tools unterstützt.",
+    "description": "YouLead ist ein Vertriebs- und Marketingautomationssystem aus Polen, das Unternehmen hilft, Leads zu verwalten, die Kundenansprache effizienter zu gestalten und Marketing-Workflows mit integrierten digitalen Tools zu optimieren.",
+    "history": "YouLead ist eine polnische Plattform für Vertriebs- und Marketingautomation, die Unternehmen dabei unterstützt, Leads zu verwalten und die Kundenansprache mit integrierten digitalen Tools effizienter zu gestalten.",
     "summary_abuse": "YouLead ist eine B2B-Marketingautomationsplattform ohne nennenswertes Missbrauchssignal."
   },
   "YouPay": {
     "description": "YouPay ist eine alternative Zahlungsmethode, mit der du jemand anderem ermöglichen kannst, deinen Warenkorb ohne Gebühren oder Zinsen zu bezahlen.",
     "history": "YouPay ist eine australische E-Commerce-Zahlungsinnovation, die Gifting und Zahlungen durch Dritte im Namen von Käufern ermöglicht.",
-    "summary_abuse": "YouPay ist ein neuartiger Gifting-Zahlungsdienst ohne dokumentiertes nennenswertes Betrugsmissbrauchssignal."
+    "summary_abuse": "YouPay ist ein neuartiger Gifting-Zahlungsdienst ohne dokumentiertes nennenswertes Betrugs- oder Missbrauchssignal."
   },
   "YourGPT": {
     "description": "YourGPT ist eine Plattform für anpassbare KI- und GPT-Tools, die die Integration grosser Sprachmodelle für unterschiedliche operative Anforderungen ermöglicht und effizientere Geschäftsprozesse unterstützt.",

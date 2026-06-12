@@ -41,8 +41,8 @@
   },
   "Backbase": {
     "description": "Backbase ist eine Engagement-Banking-Plattform, die zentrale Kundeninteraktionen modernisiert und Geschäftsabläufe kundenorientiert neu strukturiert.",
-    "history": "Backbase wurde 2003 von Jouk Pleiter in Amsterdam, Niederlande, gegründet. Das Unternehmen ist privat gehalten und hat 128,6 Millionen US-Dollar an Venture-Finanzierung erhalten. Es bedient weltweit mehr als 120 Banken als KI-natives Banking-Betriebssystem. Es gibt keine nennenswerten Eigentümerwechsel oder Abkündigungen.",
-    "summary_abuse": "Backbase ist eine Enterprise-Banking-Plattform, die von Finanzinstituten betrieben wird. Die Plattform hat keine verbraucherorientierte Oberfläche, die Betrüger direkt angreifen; Missbrauch würde eine kompromittierte Bankinstallation voraussetzen. Das Unternehmen veröffentlicht eine Responsible-Disclosure-Richtlinie (security@backbase.com mit PGP) und hält eine SOC 2 Type 2-Zertifizierung. Es sind keine nennenswerten öffentlichen Vorfälle von Missbrauch auf Plattformebene dokumentiert."
+    "history": "Backbase wurde 2003 von Jouk Pleiter in Amsterdam, Niederlande, gegründet. Das Unternehmen befindet sich in Privatbesitz und hat 128,6 Millionen US-Dollar an Venture-Finanzierung erhalten. Es bedient weltweit mehr als 120 Banken als KI-natives Banking-Betriebssystem. Es gibt keine nennenswerten Eigentümerwechsel oder Abkündigungen.",
+    "summary_abuse": "Backbase ist eine Enterprise-Banking-Plattform, die von Finanzinstituten betrieben wird. Die Plattform hat keine verbraucherorientierte Oberfläche, die Betrüger direkt angreifen; Missbrauch würde voraussetzen, dass die Installation einer Bank kompromittiert wird. Das Unternehmen veröffentlicht eine Responsible-Disclosure-Richtlinie (security@backbase.com mit PGP) und hält eine SOC 2 Type 2-Zertifizierung. Es sind keine nennenswerten öffentlichen Vorfälle von Missbrauch auf Plattformebene dokumentiert."
   },
   "Backbone.js": {
     "description": "BackboneJS ist eine JavaScript-Bibliothek zum Entwickeln und Strukturieren clientseitiger Anwendungen, die im Webbrowser laufen.",
@@ -106,12 +106,12 @@
   },
   "BambooHR": {
     "description": "BambooHR ist ein US-amerikanisches Technologieunternehmen, das Human-Resources-Software als SaaS anbietet.",
-    "history": "BambooHR wurde 2008 von Ben Peterson und Ryan Sanders in Lindon, Utah, gegründet. Die Gründer bauten das Unternehmen in den ersten vier Jahren bootstrapped auf und verzichteten in der frühen Entwicklungsphase auf Gehälter. BambooHR entwickelte sich zu einer der führenden HR-Softwareplattformen für kleine und mittelgrosse Unternehmen und bedient über 34'000 Kunden in 190 Ländern. Das Unternehmen blieb privat gehalten und unabhängig.",
+    "history": "BambooHR wurde 2008 von Ben Peterson und Ryan Sanders in Lindon, Utah, gegründet. Die Gründer bauten das Unternehmen in den ersten vier Jahren ohne externe Finanzierung auf und verzichteten in der frühen Entwicklungsphase auf Gehälter. BambooHR entwickelte sich zu einer der führenden HR-Softwareplattformen für kleine und mittelgrosse Unternehmen und bedient über 34'000 Kunden in 190 Ländern. Das Unternehmen blieb privat gehalten und unabhängig.",
     "summary_abuse": "BambooHR verarbeitet sensible HR-Daten von Mitarbeitenden, darunter persönliche Informationen, Lohndaten und Benefits. Die Plattform ist ein legitimer HR-SaaS-Anbieter ohne auffällige Geschichte von Missbrauch oder Betrug. Das Hauptrisiko liegt wegen der Sensibilität der verarbeiteten Mitarbeiterdaten in möglicher Exposition durch Datenpannen. BambooHR veröffentlicht eine klare Privacy Policy und hält SOC 2 Type 2-Compliance."
   },
   "Bambuser": {
     "description": "Bambuser ist ein SaaS-Unternehmen aus Stockholm, das Technologie für Live-Video-Shopping bereitstellt.",
-    "history": "Bambuser wurde 2007 in Stockholm, Schweden, zunächst als mobile Live-Streaming-Plattform für Bürgerjournalismus gegründet. 2019 wechselte das Unternehmen zu Video-Commerce und richtete sich auf Live-Video-Shopping und Shoppable Video für Marken und Retailer aus. Dieser Pivot zog über 100 Millionen US-Dollar an Investitionen an. Bambuser ist börsennotiert und bedient Marken wie Unternehmen der LVMH-Gruppe, Samsung und Tommy Hilfiger.",
+    "history": "Bambuser wurde 2007 in Stockholm, Schweden, zunächst als mobile Live-Streaming-Plattform für Bürgerjournalismus gegründet. 2019 wechselte das Unternehmen zu Video-Commerce und richtete sich auf Live-Video-Shopping und Shoppable Video für Marken und Retailer aus. Dieser Pivot zog über 100 Millionen US-Dollar an Investitionen an. Bambuser ist börsenkotiert und bedient Marken wie Unternehmen der LVMH-Gruppe, Samsung und Tommy Hilfiger.",
     "summary_abuse": "Bambuser ist eine legitime Video-Commerce-Plattform mit Fokus auf Enterprise-Retail-Kunden. Das geschlossene Plattformmodell mit Enterprise-Verträgen begrenzt die Missbrauchsexposition. Es sind keine nennenswerten Fälle dokumentiert, in denen die Plattform für Betrug oder Scams genutzt wurde. Live-Shopping-Streams werden von den jeweiligen Marken moderiert."
   },
   "Banana Splash": {
@@ -120,12 +120,12 @@
     "summary_abuse": "Banana Splash ist ein kleines Mobile-Marketing-Tool ohne auffällige Missbrauchsgeschichte. Die Plattform sammelt Verhaltensdaten mobiler Besucher, was übliche Datenschutzfragen mit sich bringt. Dokumentierte Fälle einer bösartigen Nutzung der Plattform sind nicht bekannt."
   },
   "BandsInTown Events Widget": {
-    "description": "Bandsintown Events Widget ist ein kostenloses Widget, mit dem du Event-Listings einfach einbetten und Fans Tickets kaufen, RSVP geben, dir folgen sowie deinen E-Mail- und SMS-Listen beitreten lassen kannst.",
+    "description": "Bandsintown Events Widget ist ein kostenloses Widget, mit dem du deine Event-Listings einfach einbettest; Fans können darüber Tickets kaufen, zusagen, dir folgen und sich in deine E-Mail- und SMS-Listen eintragen.",
     "history": "Bandsintown wurde um 2008 als Plattform für Konzertentdeckung und Event-Promotion für Musiker und Musikfans gegründet. Das Events Widget ist ein kostenlos einbettbares Tool, mit dem Musiker ihre kommenden Tourdaten auf jeder Website anzeigen können. Die Plattform wuchs auf Hunderte Millionen Fans und Hunderttausende Künstler.",
     "summary_abuse": "Das Bandsintown Events Widget ist ein einfaches Event-Anzeigetool für Musiker ohne auffällige Missbrauchsgeschichte. Das Widget bettet Eventdaten der Bandsintown-Plattform auf Drittseiten ein und bringt nur ein minimales Datenschutzrisiko mit sich. Die Plattform wird weltweit legitim von Künstlern genutzt."
   },
   "Bandwango": {
-    "description": "Bandwango ist eine Plattform, die lokale Unternehmen und Attraktionen bewirbt und Besucherinteraktionen verfolgt, um Gemeindeeinnahmen und Wirtschaftswachstum zu unterstützen.",
+    "description": "Bandwango ist eine Plattform, die lokale Unternehmen und Attraktionen bewirbt und Besucherinteraktionen verfolgt, um kommunale Einnahmen und das Wirtschaftswachstum zu fördern.",
     "history": "Bandwango wurde 2015 gegründet und hat seinen Hauptsitz in Murray, Utah. Das Unternehmen bietet die Destination Experience Engine (DXE), eine B2B-SaaS-Plattform für Destination-Marketing-Organisationen sowie Convention and Visitor Bureaus. Das Unternehmen nahm 3,12 Millionen US-Dollar in einer Privatplatzierung mit Investoren wie Next Frontier Capital auf.",
     "summary_abuse": "Bandwango ist eine Nischenplattform für Travel Technology, die Destination-Marketing-Organisationen bedient und in einem Segment mit geringem Missbrauchsrisiko arbeitet. Die Plattform verwaltet digitale Besucherpässe und Marktplätze für lokale Erlebnisse. Dokumentierte Missbrauchs- oder Betrugsfälle wurden nicht identifiziert."
   },
@@ -137,7 +137,7 @@
   "Banno Banking": {
     "description": "Banno Banking ist eine Digital-Banking-Plattform, die mit modernen Fintech-Werkzeugen ein markengeprägtes, benutzerfreundliches Erlebnis bereitstellt.",
     "history": "Banno wurde in Iowa als Digital-Banking-Engagement-Plattform für Community Banks und Credit Unions gegründet. Jack Henry and Associates übernahm Banno und integrierte es in seine Fintech-Produktsuite. Die Banno-Plattform ist auf über 10,5 Millionen registrierte Nutzer bei Hunderten Community-Finanzinstituten in den USA gewachsen.",
-    "summary_abuse": "Banno Banking arbeitet unter Jack Henry and Associates, einem börsennotierten Unternehmen, im regulierten Finanzdienstleistungssektor. Als Digital-Banking-Plattform für Community Banks und Credit Unions unterliegt sie Bankregulierung und Aufsicht. Es gibt keine auffällige Betrugs- oder Missbrauchsgeschichte im Zusammenhang mit der Plattform; sie wird von legitimen Finanzinstituten eingesetzt."
+    "summary_abuse": "Banno Banking arbeitet unter Jack Henry and Associates, einem börsenkotierten Unternehmen, im regulierten Finanzdienstleistungssektor. Als Digital-Banking-Plattform für Community Banks und Credit Unions unterliegt sie Bankregulierung und Aufsicht. Es gibt keine auffällige Betrugs- oder Missbrauchsgeschichte im Zusammenhang mit der Plattform; sie wird von legitimen Finanzinstituten eingesetzt."
   },
   "Banshee": {
     "description": "Banshee ist ein PHP-Website-Framework mit starkem Fokus auf Sicherheit. Banshee schützt vor häufigen Angriffen wie SQL Injection, Cross-site Scripting, Cross-site Request Forgery und Session Hijacking.",
@@ -171,7 +171,7 @@
   },
   "Base": {
     "description": "Base ist eine gehostete E-Commerce-Plattform, mit der Geschäftsinhaber einen Online-Shop einrichten und Produkte online verkaufen können.",
-    "history": "Base (thebase.com) wurde 2012 in Tokio, Japan, von Kazuma Ieiri gegründet, inspiriert von Shopify. Die Plattform ermöglicht es, kostenlos einen Online-Shop mit integrierten Zahlungen über die Tochtergesellschaft Pay, Inc. zu starten. BASE Inc. ist an der Tokyo Stock Exchange börsennotiert.",
+    "history": "Base (thebase.com) wurde 2012 in Tokio, Japan, von Kazuma Ieiri gegründet, inspiriert von Shopify. Die Plattform ermöglicht es, kostenlos einen Online-Shop mit integrierten Zahlungen über die Tochtergesellschaft Pay, Inc. zu starten. BASE Inc. ist an der Tokyo Stock Exchange börsenkotiert.",
     "summary_abuse": "Base ist eine japanische E-Commerce-Plattform, die vor allem von kleinen und unabhängigen Verkäufern genutzt wird. Der kostenlose Tarif mit Storefronts könnte theoretisch für Scam-Shops gegen japanische Verbraucher missbraucht werden, doch für die Zahlungsabwicklung ist Identitätsprüfung erforderlich. Es sind keine nennenswerten öffentlichen Missbrauchsfälle verzeichnet."
   },
   "Base UI": {
@@ -304,7 +304,7 @@
     "summary_abuse": "Beamer ist ein Changelog-Widget, das in SaaS-Anwendungen eingebettet wird. Es hat keine auffällige Missbrauchsgeschichte, und die Funktionalität ist auf die Anzeige von In-Product-Benachrichtigungen beschränkt. Die Plattform hostet keine nutzergenerierten Inhalte in öffentlich zugänglichem Format."
   },
   "Beamery": {
-    "description": "Beamery ist eine KI-Plattform, die Organisationen beim Umbau ihrer Workforce unterstützt, indem sie Talentgewinnung, Entwicklung und Management durch datenbasierte Einblicke und Automatisierung optimiert.",
+    "description": "Beamery ist eine KI-Plattform, die Organisationen bei der Transformation ihrer Belegschaft unterstützt, indem sie Talentgewinnung, Entwicklung und Management durch datenbasierte Einblicke und Automatisierung optimiert.",
     "history": "Beamery wurde 2013 in London von Abakar Saidov, Sultan Saidov und Mike Paterson gegründet. Das Unternehmen bietet ein KI-gestütztes Talent Operating System für Enterprise-Workforce-Management, darunter Recruiting, Talententwicklung und Workforce Planning. Beamery erreichte im Dezember 2022 Unicorn-Status, nachdem es in seiner Series-D-Runde 50 Millionen US-Dollar aufgenommen hatte.",
     "summary_abuse": "Beamery ist eine Enterprise-Plattform für HR und Talentmanagement, die sensible personenbezogene Daten von Mitarbeitenden und Kandidaten verarbeitet. Als Enterprise-HR-System unterliegt sie GDPR und weiteren Datenschutzvorschriften. Es sind keine nennenswerten öffentlichen Missbrauchs- oder Betrugsfälle dokumentiert."
   },
@@ -320,7 +320,7 @@
   },
   "Beaver Builder": {
     "description": "Beaver Builder ist ein Drag-and-drop-Page-Builder für WordPress.",
-    "history": "Beaver Builder wurde 2014 von drei Gründern entwickelt, die in Campbell, Kalifornien, eine Webdesign-Agentur betrieben; sie bauten das Tool, um den Bedarf an einem professionellen WordPress-Page-Builder zu lösen, den nichttechnische Kunden selbst bearbeiten konnten. Das Plugin wuchs auf Vertrauen von über einer Million Websites und ein Team von mehr als 20 Personen.",
+    "history": "Beaver Builder wurde 2014 von drei Gründern entwickelt, die in Campbell, Kalifornien, eine Webdesign-Agentur betrieben; sie bauten das Tool, um den Bedarf an einem professionellen WordPress-Page-Builder zu lösen, den nichttechnische Kunden selbst bearbeiten konnten. Das Plugin gewann das Vertrauen von über einer Million Websites, und das Team wuchs auf mehr als 20 Personen.",
     "summary_abuse": "Beaver Builder ist ein WordPress-Page-Builder, der von legitimen Entwicklern und Agenturen genutzt wird. Wie bei jedem weit verbreiteten WordPress-Plugin zirkulieren nulled Versionen auf Piraterie-Seiten und können Malware enthalten. Es sind keine Fälle dokumentiert, in denen das offizielle Plugin bösartig genutzt wurde."
   },
   "BedBooking": {
@@ -336,7 +336,7 @@
   "Beehiiv": {
     "description": "Beehiiv ist eine relativ junge, gehostete Newsletter-Plattform für Unternehmen und Creators.",
     "history": "Beehiiv wurde 2021 von Tyler Denk, Benjamin Hargett und Jake Hurd gegründet, die zuvor an der Technologieinfrastruktur von Morning Brew gearbeitet hatten. Die Plattform bietet Newsletter-Publishing- und Monetarisierungswerkzeuge für unabhängige Creators und Medienunternehmen. Im April 2024 nahm das Unternehmen 33 Millionen US-Dollar in einer Series-B-Runde auf, womit die Gesamtfinanzierung auf rund 50 Millionen US-Dollar stieg. Die Plattform hat für mehr als 55'000 Creators über 35 Milliarden E-Mails versendet.",
-    "summary_abuse": "Beehiiv ist eine Newsletter-Publishing-Plattform mit Gratisstufe, die für Spam- oder Phishing-E-Mails in grossem Umfang missbraucht werden könnte. E-Mail-Marketing-Plattformen sind bei Fehlgebrauch ein bekannter Vektor für Spam-Kampagnen. Beehiiv ist stark gewachsen und bedient viele legitime Publisher, doch die E-Mail-Zustellinfrastruktur könnte ausgenutzt werden. Die Plattform sollte Anti-Spam- und AUP-Durchsetzung betreiben."
+    "summary_abuse": "Beehiiv ist eine Newsletter-Publishing-Plattform mit einem kostenlosen Tarif, der in grossem Umfang für Spam- oder Phishing-E-Mails missbraucht werden könnte. E-Mail-Marketing-Plattformen sind bei Fehlgebrauch ein bekannter Vektor für Spam-Kampagnen. Beehiiv ist stark gewachsen und bedient viele legitime Publisher, doch die E-Mail-Zustellinfrastruktur könnte ausgenutzt werden. Die Plattform sollte Anti-Spam- und AUP-Durchsetzung betreiben."
   },
   "Beehiiv RSS feed": {
     "description": "Beehiiv RSS feed ist eine Funktion von Beehiiv. Beehiiv ist eine relativ junge, gehostete Newsletter-Plattform für Unternehmen und Creators.",
@@ -459,12 +459,12 @@
     "summary_abuse": "Für BetterBot wurden keine nennenswerten Missbrauchsfälle, Datenlecks oder regulatorischen Verstösse gemeldet. Die Plattform erfasst Kontaktdaten von Mietinteressenten und Leasingdaten, was inhärente Datenschutzaspekte mit sich bringt, konkrete Vorfälle sind jedoch nicht dokumentiert."
   },
   "BetterDocs": {
-    "description": "BetterDocs ist ein fortgeschrittenes Dokumentations- und Wissensdatenbank-Plugin für WordPress und Shopify.",
+    "description": "BetterDocs ist ein leistungsstarkes Dokumentations- und Wissensdatenbank-Plugin für WordPress und Shopify.",
     "history": "BetterDocs ist ein Wissensdatenbank- und Dokumentations-Plugin von WPDeveloper, einem WordPress-Produkthersteller aus Bangladesch, das 2019 gestartet wurde. Es wuchs schnell, erreichte im ersten Jahr 10'000 Nutzer und bis Mitte der 2020er Jahre über 40'000 aktive Installationen. Es bietet sowohl ein WordPress-Plugin als auch eine eigenständige Hosting-Lösung für Dokumentation.",
     "summary_abuse": "Es sind keine Missbrauchs- oder Sicherheitsfälle bekannt. BetterDocs wird von WPDeveloper entwickelt, einem etablierten WordPress-Plugin-Studio mit Millionen Nutzern über mehrere Produkte hinweg. Es wurden keine Datenschutzbedenken oder Dark Patterns gemeldet."
   },
   "BetterDocs plugin": {
-    "description": "BetterDocs plugin ist ein fortgeschrittenes Dokumentations- und Wissensdatenbank-Plugin für WordPress.",
+    "description": "BetterDocs plugin ist ein leistungsstarkes Dokumentations- und Wissensdatenbank-Plugin für WordPress.",
     "history": "BetterDocs plugin ist die WordPress-spezifische Plugin-Ausgabe der BetterDocs-Wissensdatenbankplattform, entwickelt von WPDeveloper aus Bangladesch und erstmals 2019 veröffentlicht. Es überschritt im ersten Jahr 10'000 aktive Installationen und wuchs auf über 40'000 aktive Installationen auf WordPress.org. Die Pro-Version ergänzt Funktionen wie Live-Suche, Analytics und Unterstützung mehrerer Wissensdatenbanken.",
     "summary_abuse": "Es sind keine Missbrauchs-, Malware- oder Sicherheitsfälle bekannt. Das Plugin steht unter GPL, wird auf WordPress.org gehostet und von WPDeveloper entwickelt, einem bekannten WordPress-Plugin-Studio. Es wurden keine Datenschutz- oder Dark-Pattern-Bedenken gemeldet."
   },
@@ -531,7 +531,7 @@
   "BigCommerce": {
     "description": "BigCommerce ist eine gehostete E-Commerce-Plattform, mit der Geschäftsinhaber einen Onlineshop einrichten und Produkte online verkaufen können.",
     "history": "BigCommerce wurde 2009 in Sydney, Australien, von Mitchell Harper und Eddie Machaalani gegründet und verlegte seinen Hauptsitz später nach Austin, Texas. Im August 2020 ging das Unternehmen an die NASDAQ (BIGC). Es konkurriert direkt mit Shopify im Enterprise-E-Commerce-Segment und blieb unabhängig. Es gibt keine nennenswerten Übernahmen oder Abkündigungen.",
-    "summary_abuse": "BigCommerce hostet Tausende von Onlineshops und wird, wie alle gehosteten E-Commerce-Plattformen, gelegentlich für betrügerische oder gefälschte Storefronts genutzt. Das Unternehmen veröffentlicht eine Acceptable Use Policy und hat ein Trust-and-Safety-Team, das auf Händlerbetrugsmeldungen reagiert. Als börsenkotiertes Unternehmen mit PCI DSS Level 1-Zertifizierung unterhält es Compliance- und Betrugserkennungsinfrastruktur. Missbrauch macht nur einen kleinen Teil der Nutzung aus, und der Anbieter reagiert auf Takedown-Anfragen."
+    "summary_abuse": "BigCommerce hostet Tausende von Onlineshops und wird, wie alle gehosteten E-Commerce-Plattformen, gelegentlich für betrügerische oder gefälschte Storefronts genutzt. Das Unternehmen veröffentlicht eine Acceptable Use Policy und hat ein Trust-and-Safety-Team, das auf Händlerbetrugsmeldungen reagiert. Als börsenkotiertes Unternehmen mit PCI-DSS-Level-1-Zertifizierung unterhält es Compliance- und Betrugserkennungsinfrastruktur. Missbrauch macht nur einen kleinen Teil der Nutzung aus, und der Anbieter reagiert auf Takedown-Anfragen."
   },
   "BigCommerce B2B Edition": {
     "description": "BigCommerce B2B Edition ist eine spezialisierte Version der BigCommerce-E-Commerce-Plattform für B2B-Unternehmen mit Funktionen wie individuellen Preisen, Katalogen, Grossbestellungen, Angebotsanfragen, Mehrbenutzerkonten, PO-Verarbeitung und erweitertem Reporting.",
@@ -590,7 +590,7 @@
   "Billbee": {
     "description": "Billbee ist eine Lösung für Auftragsabwicklung und Bestandsverwaltung.",
     "history": "Billbee entstand 2009 als privates Tool, das Gründer Jan Krause baute, um Rechnungen und Adressetiketten für den DaWanda-Shop seiner Frau zu erstellen, und startete 2015 offiziell als kommerzielles SaaS-Produkt. Im November 2023 übernahm die Private-Equity-Gesellschaft Bregal Unternehmerkapital eine Mehrheitsbeteiligung an Billbee. Daraus wurde anschliessend der Kern der comrce Softwaregruppe, die Billbee, Replyco, VentoryOne und weitere E-Commerce-Tools zusammenführt.",
-    "summary_abuse": "Billbee ist eine SaaS für Auftrags- und Bestandsmanagement für kleine E-Commerce-Händler in der DACH-Region ohne nennenswertes Missbrauchssignal. Es arbeitet als Backend-Operationstool ohne verbraucherorientierte Oberfläche, die Betrüger typischerweise angreifen, ohne File-Hosting- oder URL-Verkürzungsfunktionen und ohne anonyme Registrierung. Das Missbrauchsrisiko ist minimal."
+    "summary_abuse": "Billbee ist eine SaaS für Auftrags- und Bestandsmanagement für kleine E-Commerce-Händler in der DACH-Region ohne nennenswertes Missbrauchssignal. Es ist ein operatives Backend-Werkzeug ohne Endkunden-Oberfläche, wie sie Betrüger typischerweise angreifen, ohne File-Hosting- oder URL-Verkürzungsfunktionen und ohne anonyme Registrierung. Das Missbrauchsrisiko ist minimal."
   },
   "Billgang": {
     "description": "Billgang ist eine Digital-Commerce-Plattform für Internetunternehmer.",
@@ -968,7 +968,7 @@
   "Bokun": {
     "description": "Bokun ist eine cloudbasierte Booking-Management-Lösung, mit der kleine bis grosse Reise- und Tourismusunternehmen Reservationen, Produktinhalte, Bilder, Kategorisierung, Preise, Inventar und Zahlungen verwalten können.",
     "history": "Bokun ist eine Booking-Management-Softwareplattform für Tour- und Aktivitätsanbieter, gegründet 2012 in Reykjavik, Island. Das Unternehmen baute ein umfassendes Reservierungsmanagementsystem für Inventar, Channel Management und Onlinebuchungen von Touren und Erlebnissen. Im April 2018 übernahm TripAdvisor Bokun und integrierte es in sein Experiences-Geschäft, um sein Technologieangebot für Tour Operator zu stärken. Unter TripAdvisor-Eigentum hat Bokun seine globale Marktreichweite weiter ausgebaut.",
-    "summary_abuse": "Keine nennenswerten Missbrauchssignale. Bokun ist eine legitime Tourbuchungsplattform im Besitz von TripAdvisor, einem börsennotierten Unternehmen. Als Teil von TripAdvisor profitiert sie von etablierten Datenschutzrichtlinien und Compliance-Strukturen. Eine moderate Tracker-Dichte ist angesichts des Werbeökosystems von TripAdvisor zu erwarten. Es wurden keine Berichte über Betrug oder Dark Patterns gefunden."
+    "summary_abuse": "Keine nennenswerten Missbrauchssignale. Bokun ist eine legitime Tourbuchungsplattform im Besitz von TripAdvisor, einem börsenkotierten Unternehmen. Als Teil von TripAdvisor profitiert sie von etablierten Datenschutzrichtlinien und Compliance-Strukturen. Eine moderate Tracker-Dichte ist angesichts des Werbeökosystems von TripAdvisor zu erwarten. Es wurden keine Berichte über Betrug oder Dark Patterns gefunden."
   },
   "Bold Brain": {
     "description": "Bold Brain hilft Kunden, mit dynamischen Empfehlungen für Shopify mehr Produkte zu entdecken und mehr in den Warenkorb zu legen, und nutzt dafür fortgeschrittene Analysen.",
@@ -1016,7 +1016,7 @@
     "summary_abuse": "Keine Missbrauchssignale. Bold Product Options wird von Bold Commerce entwickelt, einem etablierten kanadischen Unternehmen und zertifizierten Shopify-Partner. Als Shopify-App hält es die App-Review-Anforderungen von Shopify ein. Es gibt keine Berichte über Datenmissbrauch, Dark Patterns oder schädliches Verhalten."
   },
   "Bold Subscriptions": {
-    "description": "Bold Subscriptions bietet leistungsfähige, API-getriebene Anpassungsoptionen, um einen Abodienst passend zu deinem Geschäft aufzubauen und zu skalieren.",
+    "description": "Bold Subscriptions bietet leistungsfähige, API-gestützte Anpassungsmöglichkeiten, um einen Abodienst passend zu deinem Geschäft aufzubauen und zu skalieren.",
     "history": "Bold Subscriptions ist eine Shopify-App von Bold Commerce, einem kanadischen E-Commerce-Technologieunternehmen, das 2012 in Winnipeg, Manitoba, von Yvan und Eric Boisjoli, Jay Myers und Stefan Maynard gegründet wurde. Bold Commerce wurde zu einem der grössten Shopify-App-Entwickler und nahm über 161 Millionen CAD Venture-Finanzierung auf. Bold Subscriptions gehört zur Suite von E-Commerce-Optimierungswerkzeugen von Bold Commerce für Shopify-Händler.",
     "summary_abuse": "Keine Missbrauchssignale. Bold Subscriptions wird von Bold Commerce entwickelt, einem etablierten kanadischen Unternehmen und zertifizierten Shopify-Partner. Als Shopify-App hält es die App-Review-Anforderungen von Shopify ein. Es gibt keine Berichte über Datenmissbrauch, Dark Patterns oder schädliches Verhalten."
   },
@@ -1032,18 +1032,18 @@
   },
   "BoldGrid": {
     "description": "BoldGrid ist ein kostenloser Website-Builder für WordPress-Websites.",
-    "history": "BoldGrid ist ein WordPress-basierter Website-Builder und eine Werkzeugsuite, die den Aufbau und die Verwaltung von WordPress-Websites vereinfachen soll. Das Projekt startete 2015 und hat seinen Sitz in Virginia Beach, Virginia. BoldGrid erhielt Investitionen von Staenberg Venture Partners, Web Ventures, Resolution Ventures und Potter Ventures. Es wurde vom selben Team gebaut, das W3 Total Cache und Easy SEO WordPress Plugins entwickelt hat. BoldGrid bietet Themes, Page Builder, Backup-Lösungen und SEO-Werkzeuge unter einem Open-Core-GPL-Modell.",
+    "history": "BoldGrid ist ein WordPress-basierter Website-Builder und eine Werkzeugsuite, die den Aufbau und die Verwaltung von WordPress-Websites vereinfachen soll. Das Projekt startete 2015 und hat seinen Sitz in Virginia Beach, Virginia. BoldGrid erhielt Investitionen von Staenberg Venture Partners, Web Ventures, Resolution Ventures und Potter Ventures. Es stammt vom selben Team, das auch die WordPress-Plugins W3 Total Cache und Easy SEO entwickelt hat. BoldGrid bietet Themes, Page Builder, Backup-Lösungen und SEO-Werkzeuge unter einem Open-Core-GPL-Modell.",
     "summary_abuse": "Keine erheblichen Missbrauchssignale. BoldGrid ist ein GPL-lizenzierter WordPress-Website-Builder mit transparentem Open-Source-Code. Es gibt keine Berichte über schädliches Verhalten, Datenmissbrauch oder Sicherheitsvorfälle. Übliche Sicherheitspraktiken für WordPress-Plugins gelten. Das Risikoprofil ist niedrig."
   },
   "Bolt CMS": {
     "description": "Bolt ist ein Open-Source-Content-Management-System (CMS), das auf Einfachheit und Flexibilität für Entwickler beim Bau und Betrieb von Websites und Webanwendungen ausgerichtet ist.",
     "history": "Bolt CMS ist ein Open-Source-PHP-Content-Management-System, entwickelt von Two Kings, einer niederländischen Webentwicklungsagentur, und erstmals 2012 veröffentlicht. Es basiert auf Symfony-Komponenten und Silex, nutzt Twig-Templating und unterstützt SQLite-, MySQL- oder PostgreSQL-Datenbanken. Bolt wurde als entwicklerfreundliches CMS mit einem sauberen, strukturierten Ansatz für Content Management und YAML-definierten Inhaltstypen entwickelt. Das Projekt bietet RESTful- und GraphQL-APIs und ermöglicht damit Headless-CMS-Nutzung.",
-    "summary_abuse": "Keine Missbrauchssignale. Bolt CMS ist ein transparentes Open-Source-PHP-CMS mit sauberer Architektur. Die Codebasis ist auf GitHub öffentlich prüfbar. Es wurden keine Sicherheitsvorfälle oder schädliches Verhalten gemeldet. Selbst gehostete Bereitstellung gibt Administratoren volle Kontrolle. Das Risikoprofil ist niedrig."
+    "summary_abuse": "Keine Missbrauchssignale. Bolt CMS ist ein transparentes Open-Source-PHP-CMS mit sauberer Architektur. Die Codebasis ist auf GitHub öffentlich prüfbar. Es wurden keine Sicherheitsvorfälle oder schädliches Verhalten gemeldet. Da die Software selbst gehostet wird, behalten Administratoren die volle Kontrolle. Das Risikoprofil ist niedrig."
   },
   "Bolt Payments": {
     "description": "Bolt betreibt ein Checkout-Erlebnis, das auf bessere Conversion von Käufern ausgelegt ist.",
     "history": "Bolt Financial wurde 2014 in San Francisco von den Stanford-Studenten Ryan Breslow und Eric Feldman gegründet. Das Unternehmen entwickelte eine One-Click-Checkout-Technologie, die unabhängigen Händlern helfen sollte, mit Amazons patentiertem One-Click-Kauf zu konkurrieren. Bolt nahm insgesamt fast 1 Milliarde US-Dollar Finanzierung auf, darunter eine Series E über 355 Millionen US-Dollar im Dezember 2021 und eine Series D über 399 Millionen US-Dollar im Oktober 2021, bei einer Spitzenbewertung von 11 Milliarden US-Dollar. Anfang 2022 trat Ryan Breslow nach einer kontroversen Twitter-Kampagne gegen Y Combinator und Stripe als CEO zurück. Im März 2025 kehrte er während laufender Restrukturierung als CEO zurück.",
-    "summary_abuse": "Bolt war wegen öffentlicher Angriffe seines Gründers auf Wettbewerber und Berichten über interne Governance-Probleme umstritten. Das Produkt selbst, Checkout-Technologie, hat ein übliches Risikoprofil, doch die turbulente Führungsgeschichte und Vorwürfe falsch dargestellter Netzwerkgrösse geben Anlass zu Bedenken. Es sind keine bestätigten Datenpannen oder direkten Verbraucherschäden gemeldet. Als Zahlungsunternehmen ist Bolt PCI DSS-konform. Das Risiko ist wegen Reputations- und Governance-Themen moderat."
+    "summary_abuse": "Bolt war wegen öffentlicher Angriffe seines Gründers auf Wettbewerber und Berichten über interne Governance-Probleme umstritten. Das Produkt selbst, Checkout-Technologie, hat ein übliches Risikoprofil, doch die turbulente Führungsgeschichte und Vorwürfe, die Grösse des Netzwerks sei falsch dargestellt worden, geben Anlass zu Bedenken. Es sind keine bestätigten Datenpannen oder direkten Verbraucherschäden gemeldet. Als Zahlungsunternehmen ist Bolt PCI DSS-konform. Das Risiko ist wegen Reputations- und Governance-Themen moderat."
   },
   "Bomb Bomb": {
     "description": "BombBomb ist eine CRM-Plattform, die Lead-Erfassung und Video-Messaging verbindet, um Kundenbeziehungen zu verwalten und die Interaktion im Verkaufsprozess zu verbessern.",
@@ -1056,12 +1056,12 @@
     "summary_abuse": "BON Loyalty zeigt keine nennenswerten Missbrauchssignale. Es ist eine Shopify-App für Treueprogramme ohne verbraucherseitiges Content-Hosting, das Betrüger anziehen würde."
   },
   "Bonfire": {
-    "history": "Bonfire, ursprünglich Bonfire Funds, wurde 2012 als Plattform für individuelle Kleidung und Fundraising gegründet und hat seinen Sitz in Glen Allen, Virginia. Das Unternehmen erlaubt Einzelpersonen, Nonprofits und Content Creators, individuelle Merchandise-Produkte ohne Inventarrisiko on demand zu gestalten und zu verkaufen. 2016 startete Bonfire unter Bonfire.com neu, um über reines Fundraising hinaus in allgemeinen Custom Merchandise zu expandieren. Der Women's March on Washington 2017 gehörte zu den erfolgreichsten frühen Kampagnen des Unternehmens. Bis 2019 wuchs das Unternehmen auf fast 200 Mitarbeitende.",
+    "history": "Bonfire, ursprünglich Bonfire Funds, wurde 2012 als Plattform für personalisierte Kleidung und Fundraising gegründet und hat seinen Sitz in Glen Allen, Virginia. Das Unternehmen erlaubt Einzelpersonen, Nonprofits und Content Creators, individuelle Merchandise-Produkte ohne Inventarrisiko on demand zu gestalten und zu verkaufen. 2016 startete Bonfire unter Bonfire.com neu und weitete das Geschäft über reines Fundraising hinaus auf personalisiertes Merchandise aller Art aus. Der Women's March on Washington 2017 gehörte zu den erfolgreichsten frühen Kampagnen des Unternehmens. Bis 2019 wuchs das Unternehmen auf fast 200 Mitarbeitende.",
     "summary_abuse": "Keine erheblichen Missbrauchssignale. Bonfire ist eine Print-on-Demand-Plattform mit gutem Ruf in der Fundraising- und Creator-Community. Es gibt keine Berichte über Scam-Merchandise, Datenmissbrauch oder täuschende Praktiken. Übliche E-Commerce-Datenerhebung. Niedriges Risikoprofil."
   },
   "Bonsai": {
     "description": "Bonsai ist eine Plattform, mit der Vorschläge online erstellt, versendet und nachverfolgt werden können, um Kundenkommunikation und Projektmanagement zu vereinfachen.",
-    "history": "Bonsai (Hello Bonsai) wurde 2015 von Matt Brown und Matt Nish in San Francisco, Kalifornien, gegründet. Die Plattform bietet Freelancern und kleinen Agenturen eine All-in-one-Suite für Geschäftsverwaltung mit Verträgen, Angeboten, Rechnungen, CRM und Projektmanagement. Im November 2025 wurde Bonsai von Zoom Communications übernommen, was auf eine Integration in Zooms breiteres Ökosystem für Produktivität und Business-Tools hinweist.",
+    "history": "Bonsai (Hello Bonsai) wurde 2015 von Matt Brown und Matt Nish in San Francisco, Kalifornien, gegründet. Die Plattform bietet Freelancern und kleinen Agenturen eine All-in-one-Suite für Geschäftsverwaltung mit Verträgen, Angeboten, Rechnungen, CRM und Projektmanagement. Im November 2025 wurde Bonsai von Zoom Communications übernommen, was auf eine Integration in Zooms breiteres Ökosystem aus Produktivitäts- und Business-Anwendungen hindeutet.",
     "summary_abuse": "Keine Missbrauchssignale. Bonsai ist eine angesehene Geschäftsverwaltungsplattform für Freelancer mit sauberer Historie. Es gibt keine Berichte über Datenmissbrauch, täuschende Praktiken oder Datenschutzverletzungen. Unter der Eigentümerschaft von Zoom Communications unterliegt Bonsai nun auch den breiteren Datenschutzpraktiken von Zoom."
   },
   "Bontii": {
@@ -1076,7 +1076,7 @@
   },
   "Bookafy": {
     "description": "Bookafy ist ein Dienst für Terminplanung und Buchungslösungen für Unternehmen und Fachleute.",
-    "history": "Bookafy ist eine Onlineplattform für Terminplanung und Buchungssoftware, ungefähr 2014 in den USA gegründet. Das Unternehmen bietet Scheduling-Werkzeuge für Dienstleistungsunternehmen und Fachleute mit Integrationen in Kalender, Videokonferenzen und CRM-Systeme. Es konkurriert im Markt für Terminbuchung mit Calendly und Acuity Scheduling. Bookafy bietet eine kostenlose Stufe und kostenpflichtige Pläne für wachsende Unternehmen.",
+    "history": "Bookafy ist eine Onlineplattform für Terminplanung und Buchungssoftware, ungefähr 2014 in den USA gegründet. Das Unternehmen bietet Scheduling-Werkzeuge für Dienstleistungsunternehmen und Fachleute mit Integrationen in Kalender, Videokonferenzen und CRM-Systeme. Es konkurriert im Markt für Terminbuchung mit Calendly und Acuity Scheduling. Bookafy bietet einen kostenlosen Einstiegstarif sowie kostenpflichtige Tarife für wachsende Unternehmen.",
     "summary_abuse": "Keine erheblichen Missbrauchssignale. Bookafy ist ein übliches Online-Scheduling-Werkzeug mit transparenter Preisgestaltung. Es gibt keine Berichte über Datenmissbrauch oder schädliches Verhalten. Übliche Erfassung von Kontaktdaten zu Planungszwecken findet statt."
   },
   "Bookatable": {
@@ -1086,7 +1086,7 @@
   },
   "BookBanket": {
     "description": "BookBanket ist ein Bankettmanagement-Dienst zur Koordination von Eventplanung und Organisation von Veranstaltungsorten.",
-    "history": "BookBanket ist ein russisches SaaS für Bankett- und Eventlocation-Management. Ein öffentliches Gründungsjahr oder eine Eigentümergeschichte ist nicht verfügbar.",
+    "history": "BookBanket ist ein russisches SaaS für Bankett- und Eventlocation-Management. Gründungsjahr und Eigentümerverhältnisse sind nicht öffentlich bekannt.",
     "summary_abuse": "BookBanket ist ein spezialisiertes russisches Bankettmanagement-SaaS ohne dokumentierte Missbrauchssignale. Die Plattform bedient Eventlocations und bietet keine verbraucherseitigen Content-Hosting-Funktionen, die für Betrug relevant wären."
   },
   "Bookboost": {
@@ -1106,18 +1106,18 @@
   },
   "Bookeo": {
     "description": "Bookeo ist eine cloudbasierte Buchungs- und Reservierungslösung für Tour Operator, Reisebüros, Schulen, Therapeuten, Fotografen und Eventveranstalter.",
-    "history": "Bookeo wurde 2010 von Giovanna Roncali in Bondi, Australien, gegründet und bietet Onlinebuchungssoftware für Touren, Kurse, Termine und Events. Das Unternehmen ist auf über 40'000 Kunden gewachsen und blieb privat gehalten und unabhängig.",
+    "history": "Bookeo wurde 2010 von Giovanna Roncali in Bondi, Australien, gegründet und bietet Onlinebuchungssoftware für Touren, Kurse, Termine und Events. Das Unternehmen ist auf über 40'000 Kunden gewachsen und blieb dabei in Privatbesitz und unabhängig.",
     "summary_abuse": "Bookeo ist ein Booking-SaaS für kleine Unternehmen ohne nennenswerte Missbrauchssignale. Die Plattform verarbeitet Termin- und Tourreservationen und bietet weder anonymes Content-Hosting noch Free-Tier-Funktionen, die typischerweise für Betrug ausgenutzt werden."
   },
   "Booker": {
     "description": "Booker ist eine Managementplattform für Spas und Salons mit Funktionen für Terminplanung, Kundenverwaltung, Personalkoordination und Zahlungsabwicklung.",
-    "history": "Booker Software wurde 2007 von Peter Ellis und Daniel Lizio-Katzen als SpaBooker gegründet, einer Sparte von SpaFinder für cloudbasierte Spa- und Salonmanagement-Software. Das Unternehmen benannte sich in Booker um und wuchs mit Onlinebuchung, Scheduling und Zahlungsfunktionen auf Tausende Spas und Salons. Im März 2018 übernahm MINDBODY Booker für ungefähr 150 Millionen US-Dollar und fügte dem MINDBODY-Marktplatz rund 10'000 Salons und Spas hinzu. Im Juni 2025 wurde Booker zusammen mit MINDBODY und ClassPass unter der Marke Playlist vereinheitlicht.",
+    "history": "Booker Software wurde 2007 von Peter Ellis und Daniel Lizio-Katzen als SpaBooker gegründet, einer Sparte von SpaFinder für cloudbasierte Spa- und Salonmanagement-Software. Das Unternehmen benannte sich in Booker um und wuchs mit Onlinebuchung, Scheduling und Zahlungsfunktionen auf Tausende Spas und Salons. Im März 2018 übernahm MINDBODY Booker für ungefähr 150 Millionen US-Dollar und fügte dem MINDBODY-Marktplatz rund 10'000 Salons und Spas hinzu. Im Juni 2025 wurde Booker zusammen mit MINDBODY und ClassPass unter der Marke Playlist zusammengeführt.",
     "summary_abuse": "Keine erheblichen Missbrauchssignale. Booker ist eine legitime Managementplattform für Spas und Salons und gehört heute zu MINDBODY, einem etablierten Softwareunternehmen im Wellnessbereich. Es gibt keine Berichte über Datenmissbrauch oder täuschende Praktiken. Übliche Geschäftsdaten werden für Terminplanung und Zahlungen erhoben."
   },
   "Bookero": {
     "description": "Bookero ist ein Online-Buchungssystem für deine Website oder Facebook-Seite.",
     "history": "Bookero wurde um 2020 in Swindon, Vereinigtes Königreich, gegründet und als SaaS für Buchungsmanagement für lokale Unternehmen in den Bereichen Automotive, Gesundheitswesen und Beauty ausgerichtet. Tracxn stuft das Unternehmen als deadpooled ein.",
-    "summary_abuse": "Bookero ist eine kleine SaaS für Buchungsmanagement ohne auffällige Missbrauchssignale. Die Plattform diente lokalen Unternehmen für Terminbuchungen und hat keine dokumentierte Betrugs- oder Phishing-Exposition."
+    "summary_abuse": "Bookero ist eine kleine SaaS für Buchungsmanagement ohne auffällige Missbrauchssignale. Die Plattform diente lokalen Unternehmen für Terminbuchungen; Betrugs- oder Phishing-Fälle sind nicht dokumentiert."
   },
   "Booking Experts": {
     "description": "Booking Experts ist ein All-in-one-System für Reservierungsmanagement, das Buchungen, Verfügbarkeiten und Preise in einer Plattform zusammenführt.",
@@ -1132,11 +1132,11 @@
   "Booking.com": {
     "description": "Booking.com ist eines der grössten E-Commerce-Reiseunternehmen der Welt. Als Affiliate kannst du bis zu 40% Provision erhalten.",
     "history": "Booking.com wurde 1996 in Amsterdam, Niederlande, von Geert-Jan Bruinsma als Bookings.nl gegründet. Im Jahr 2000 fusionierte das Unternehmen mit Bookings Online (Bookings.org) und wurde in Booking.com umbenannt. Im Juli 2005 kaufte die Priceline Group Booking.com für 133 Millionen US-Dollar, ein strategischer Schritt, der die Muttergesellschaft grundlegend veränderte. Booking.com wuchs zur weltweit grössten Online-Reiseagentur heran und gehört heute zu Booking Holdings, vormals Priceline Group, die 2018 umbenannt wurde. Die Plattform ist in über 40 Sprachen verfügbar und listet weltweit mehr als 28 Millionen Unterkunftsoptionen.",
-    "summary_abuse": "Booking.com stand wegen Dark Patterns erheblich unter regulatorischer Beobachtung. Die EU untersuchte und sanktionierte die Plattform wegen irreführender Dringlichkeitssignale wie falscher Knappheitsmeldungen und Countdown-Timer sowie wegen Drucktaktiken. Die niederländische Verbraucherbehörde ACM sprach Warnungen aus. Die Plattform nutzt umfangreiches Werbetracking im Web und sammelt aggressiv Verhaltensdaten der Nutzer. Trotz GDPR-Compliance-Massnahmen bleiben die kommerziellen Dark Patterns von Booking.com ein relevantes Risiko für das Verbrauchervertrauen."
+    "summary_abuse": "Booking.com stand wegen Dark Patterns erheblich unter regulatorischer Beobachtung. Die EU untersuchte und sanktionierte die Plattform, weil sie mit falschen Knappheitsmeldungen und Countdown-Timern künstliche Dringlichkeit erzeugte und Druck auf Nutzer ausübte. Die niederländische Verbraucherbehörde ACM sprach Warnungen aus. Die Plattform nutzt umfangreiches Werbetracking im Web und sammelt aggressiv Verhaltensdaten der Nutzer. Trotz GDPR-Compliance-Massnahmen bleiben die kommerziellen Dark Patterns von Booking.com ein relevantes Risiko für das Verbrauchervertrauen."
   },
   "Booking.com widget": {
     "description": "Booking.com ist eines der grössten E-Commerce-Reiseunternehmen der Welt. Als Affiliate kannst du bis zu 40% Provision erhalten.",
-    "history": "Das Booking.com widget ist ein einbettbares Affiliate- und Such-Widget von Booking.com, Teil von Booking Holdings, gegründet 1996 in Amsterdam. Es ermöglicht Website-Betreibern, Hotelsuche und Buchungsfunktionen in eigene Seiten einzubinden. Das Widget lädt Booking.com-Skripte und Tracking-Pixel auf Host-Seiten und erlaubt Publishern eine Umsatzbeteiligung für vermittelte Buchungen.",
+    "history": "Das Booking.com-Widget ist ein einbettbares Affiliate- und Such-Widget von Booking.com, Teil von Booking Holdings, gegründet 1996 in Amsterdam. Es ermöglicht Website-Betreibern, Hotelsuche und Buchungsfunktionen in eigene Seiten einzubinden. Das Widget lädt Booking.com-Skripte und Tracking-Pixel auf Host-Seiten und erlaubt Publishern eine Umsatzbeteiligung für vermittelte Buchungen.",
     "summary_abuse": "Das Booking.com widget bringt die umfangreiche Tracking-Infrastruktur von Booking.com auf jede Host-Seite, auf der es eingebettet ist. Dazu gehören Werbetracker, Pixel für Verhaltensanalyse und Retargeting-Skripte aus dem breiten Ad-Tech-Stack von Booking.com. Publisher, die dieses Widget einbinden, setzen ihre Besucher den Dark-Pattern-Taktiken von Booking.com wie Dringlichkeitsmeldungen und falscher Knappheit sowie starkem Cross-Site-Tracking aus. Für Endnutzer solcher Seiten besteht ein mittleres bis hohes Datenschutzrisiko."
   },
   "Bookingkit": {
@@ -1249,7 +1249,7 @@
     "summary_abuse": "Bootpay ist ein südkoreanisches Payment Gateway ohne dokumentierte Missbrauchssignale. Als Zahlungsabwickler in einem regulierten Markt mit KYC-Anforderungen ist direkte Betrugsförderung gering. Spezifische öffentliche Missbrauchsberichte wurden nicht identifiziert."
   },
   "Bootstrap": {
-    "description": "Bootstrap ist ein kostenloses und quelloffenes CSS-Framework für responsives, mobile-first Frontend-Webdevelopment. Es enthält Designvorlagen auf CSS- und JavaScript-Basis für Typografie, Formulare, Buttons, Navigation und weitere Interface-Komponenten.",
+    "description": "Bootstrap ist ein kostenloses und quelloffenes CSS-Framework für responsive Frontend-Webentwicklung nach dem Mobile-First-Prinzip. Es enthält Designvorlagen auf CSS- und JavaScript-Basis für Typografie, Formulare, Buttons, Navigation und weitere Interface-Komponenten.",
     "history": "Bootstrap hiess ursprünglich Twitter Blueprint und wurde ab 2010 von Mark Otto und Jacob Thornton bei Twitter entwickelt. Am 19. August 2011 wurde es umbenannt und als Open-Source-Projekt veröffentlicht. Bootstrap 2 ergänzte im Januar 2012 Unterstützung für responsives Design. Bootstrap 3 wechselte 2013 zu mobile-first. Bootstrap 4 erschien 2018, und Bootstrap 5 entfernte 2021 die jQuery-Abhängigkeit. Das Projekt wandelte sich von einer Twitter-gebrandeten Bibliothek zu einem unabhängigen Open-Source-Projekt, das vom Core-Team gepflegt wird.",
     "summary_abuse": "Bootstrap ist ein grundlegendes CSS-Framework ohne verbraucherseitige Oberfläche und ohne dokumentierte Missbrauchssignale. Es ist eine Frontend-Bibliothek, die Entwickler herunterladen und in eigenen Projekten nutzen, ohne gehosteten Dienst oder Fähigkeit zu nutzergenerierten Inhalten."
   },
@@ -1473,7 +1473,7 @@
   },
   "Breezy HR": {
     "description": "Breezy HR ist Recruiting-Software und ein Applicant Tracking System zur Vereinfachung von Einstellungsprozessen.",
-    "history": "Breezy HR wurde 2014 als Applicant-Tracking- und Recruiting-Plattform mit Hauptsitz in den USA gegründet. Das Unternehmen baute ein cloudbasiertes ATS, das Einstellungsabläufe für kleine und mittelgrosse Unternehmen vereinfacht und Funktionen wie Drag-and-drop-Kandidatenpipelines und automatische Stellenanzeigen auf grossen Jobbörsen bietet. Später wurde es von Learning Technologies Group (LTG) übernommen, einem britischen Konzern für Workforce Learning und Talent Management. Unter LTG wird Breezy HR weiterhin als eigenständiges Produkt für KMU betrieben, die schlankes Recruiting-Tooling suchen.",
+    "history": "Breezy HR wurde 2014 als Applicant-Tracking- und Recruiting-Plattform mit Hauptsitz in den USA gegründet. Das Unternehmen baute ein cloudbasiertes ATS, das Einstellungsabläufe für kleine und mittelgrosse Unternehmen vereinfacht und Funktionen wie Drag-and-drop-Kandidatenpipelines und automatische Stellenanzeigen auf grossen Jobbörsen bietet. Später wurde es von Learning Technologies Group (LTG) übernommen, einem britischen Konzern für Workforce Learning und Talent Management. Unter LTG wird Breezy HR weiterhin als eigenständiges Produkt für KMU betrieben, die schlanke Recruiting-Werkzeuge suchen.",
     "summary_abuse": "Für Breezy HR wurden keine auffälligen Missbrauchssignale gefunden. Es ist ein seriöses ATS-Produkt, das von vielen KMU genutzt wird. Öffentliche Quellen enthalten keine Berichte über Datenmissbrauch, täuschende Praktiken oder Sicherheitsverletzungen."
   },
   "Breinify": {
@@ -1647,7 +1647,7 @@
   "Bubble": {
     "description": "Bubble ist eine No-code-Plattform, mit der jede Person Web-Apps ohne Programmierung erstellen kann.",
     "history": "Bubble wurde 2012 in New York City von Emmanuel Straschnov und Josh Haas gegründet. Fast sieben Jahre lang bootstrappeten die Gründer das Unternehmen und arbeiteten aus Cafés und Coworking-Spaces. Den ersten zahlenden Kunden hatte Bubble im Dezember 2012. 2019 nahm das Unternehmen nach Jahren organischen Wachstums eine Seed-Runde über 6,5 Millionen US-Dollar auf. Im Juli 2021 folgte eine Series A über 100 Millionen US-Dollar unter Führung von Insight Partners, womit die Gesamtfinanzierung auf 106,3 Millionen US-Dollar stieg. Die No-code-Plattform ermöglicht das Erstellen von Fullstack-Web- und Mobile-Anwendungen ohne Code. Bis August 2025 wurden über 4,7 Millionen Anwendungen auf Bubble gebaut, und Nutzer hatten zusammen über 15 Milliarden US-Dollar an Finanzierung eingesammelt.",
-    "summary_abuse": "Keine auffälligen Missbrauchssignale für Bubble. Es ist eine gut finanzierte, angesehene No-code-Plattform mit SOC 2 Type 2-Compliance. Da auf Bubble gebaute Apps extern veröffentlicht werden können, übernimmt jede Drittanbieter-App zwar die Sicherheitsbasis der Plattform, kann aber eigene Missbrauchsrisiken haben."
+    "summary_abuse": "Keine auffälligen Missbrauchssignale für Bubble. Es ist eine gut finanzierte, angesehene No-code-Plattform mit SOC 2 Type 2-Compliance. Da auf Bubble gebaute Apps extern veröffentlicht werden können, übernimmt jede Drittanbieter-App zwar das Sicherheitsniveau der Plattform, kann aber eigene Missbrauchsrisiken bergen."
   },
   "Budbee": {
     "description": "Budbee ist ein Tech-Unternehmen, das einen Logistikdienst für E-Commerce betreibt.",
@@ -1709,7 +1709,7 @@
   },
   "bun": {
     "description": "Bun ist eine schnelle JavaScript-Runtime, die mit Node.js und Deno kompatibel ist.",
-    "history": "Bun wurde von Jarred Sumner entwickelt und 2021 erstmals öffentlich veröffentlicht, als schnelle All-in-one-JavaScript-Runtime auf Basis von JavaScriptCore. Zur Unterstützung des Projekts wurde Oven Inc. gegründet. Im Dezember 2025 übernahm Anthropic Bun, als Claude Code 1 Milliarde US-Dollar Umsatz erreichte, wodurch Bun zu einer Tochtergesellschaft von Anthropic wurde.",
+    "history": "Bun wurde von Jarred Sumner entwickelt und 2021 erstmals öffentlich veröffentlicht, als schnelle All-in-one-JavaScript-Runtime auf Basis von JavaScriptCore. Zur Unterstützung des Projekts wurde Oven Inc. gegründet. Im Dezember 2025, als Claude Code die Marke von 1 Milliarde US-Dollar Umsatz erreichte, übernahm Anthropic Bun und machte es zu einer Tochtergesellschaft.",
     "summary_abuse": "Bun ist eine JavaScript-Runtime ohne auffälliges Missbrauchssignal. Es ist ein Entwicklerwerkzeug, das auf Servern und Entwicklerrechnern läuft, ohne konsumentenorientierte Oberfläche, die Betrüger typischerweise anziehen würde."
   },
   "Bunny": {

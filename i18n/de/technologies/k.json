@@ -10,7 +10,7 @@
     "summary_abuse": "K-Sup ist ein spezialisiertes Open-Source-CMS für Universitäten und Forschungseinrichtungen und wird von IT-Abteilungen statt von Endnutzern betrieben. Es gibt keine auffälligen Missbrauchssignale. Als selbst gehostete Backend-Plattform bietet es keine öffentliche Content-Hosting-Fläche, die Phisher oder Betrüger anziehen würde."
   },
   "K2": {
-    "description": "K2 ist eine von JoomlaWorks entwickelte Content-Management-Erweiterung für Joomla, die Joomla um Funktionen wie reichhaltige Inhaltsformulare, verschachtelte Kategorien, Tags, Kommentare und mehr ergänzt.",
+    "description": "K2 ist eine von JoomlaWorks entwickelte Content-Management-Erweiterung für Joomla, die Joomla um Funktionen wie erweiterte Eingabeformulare für Inhalte, verschachtelte Kategorien, Tags, Kommentare und mehr ergänzt.",
     "history": "K2 wurde 2000 in Johannesburg, Südafrika, von Adriaan van Wyk und Olaf Wagner gegründet. 2015 erhielt das Unternehmen 150 Millionen US-Dollar von Francisco Partners. 2020 wurde es in K2 Software Inc umbenannt und im Oktober desselben Jahres von Nintex übernommen. Heute ist es als Nintex K2 Cloud bekannt und wird von Unternehmen für Workflow-Automatisierung auf SharePoint eingesetzt.",
     "summary_abuse": "Keine Missbrauchshistorie. K2 ist eine legitime Enterprise-BPM-Plattform, die von Nintex übernommen wurde und nach ISO 27001 sowie SOC 2 Type II zertifiziert ist."
   },
@@ -41,7 +41,7 @@
   },
   "Kajabi": {
     "history": "Kajabi wurde 2010 in Irvine, Kalifornien, von Kenny Rueter und Travis Rosser gegründet. 2021 nahm das Unternehmen 550 Millionen US-Dollar bei einer Bewertung von 2 Milliarden US-Dollar auf, angeführt von Tiger Global. Die Plattform bedient über 50'000 Unternehmer mit Online-Kursen, Communities und digitalen Produkten und meldete das Erreichen von 100 Millionen US-Dollar ARR.",
-    "summary_abuse": "Kajabi wurde für aggressive Upsell-E-Mails und Einschränkungen nach Preismodell kritisiert. Einige Creator berichten von Schwierigkeiten beim Kündigen von Abonnements. Es gibt keine grossen Datenlecks oder Betrugsbeschwerden. Die Plattform wird von einigen fragwürdigen Info-Produkt-Verkäufern genutzt, Kajabi selbst ist jedoch legitim."
+    "summary_abuse": "Kajabi wurde für aggressive Upsell-E-Mails und Funktionseinschränkungen je nach Preisstufe kritisiert. Einige Creator berichten von Schwierigkeiten beim Kündigen von Abonnements. Es gibt keine grossen Datenlecks oder Betrugsbeschwerden. Die Plattform wird von einigen fragwürdigen Info-Produkt-Verkäufern genutzt, Kajabi selbst ist jedoch legitim."
   },
   "Kakao": {
     "description": "Die Kakao-Plattform bietet Dienste wie Kakao Talk, Kakao Talk Channel und Kakao Story sowie über Tochtergesellschaften Kakao Pay, Kakao Commerce und Kakao Page. Nutzer können alle Kakao-Dienste mit einem gemeinsamen Kakao Account verwenden.",
@@ -115,7 +115,7 @@
   "Karma": {
     "description": "Karma ist ein Test Runner für JavaScript, der auf Node.js läuft.",
     "history": "Karma wurde 2012 von Vojta Jina im Rahmen seiner Universitätsarbeit bei Google entwickelt und hiess ursprünglich Testacular, bevor es umbenannt wurde. Es wurde zum Standard-Test-Runner für AngularJS-Projekte und im JavaScript-Ökosystem breit für browserbasiertes Unit Testing eingesetzt. Im Januar 2023 kündigte das Angular-Team an, Karma zugunsten neuerer Ansätze wie Jest und Web Test Runner auslaufen zu lassen; das Projekt wechselte in den Wartungsmodus.",
-    "summary_abuse": "Karma ist ein Entwicklerwerkzeug, genauer ein JavaScript-Test-Runner, ohne Endnutzerfläche und ohne dokumentiertes Missbrauchssignal."
+    "summary_abuse": "Karma ist ein reines Entwicklerwerkzeug (ein JavaScript-Test-Runner) ohne Berührungspunkte mit Endnutzern und ohne jedes dokumentierte Missbrauchssignal."
   },
   "Karoo Chat": {
     "description": "Karoo Chat kombiniert menschlichen und automatisierten Kundendienst und bietet Online-Live-Chat für Support.",
@@ -259,7 +259,7 @@
   "Keybase": {
     "description": "Keybase schützt Chats und Dateien für Familien, Communities und Unternehmen auf macOS, Windows, Linux, iPhone und Android.",
     "history": "Keybase wurde 2014 von Chris Coyne und Max Krohn gegründet, um ein Public-Key-Infrastruktursystem zur Verifizierung von Online-Identitäten zu schaffen. Die Plattform verband kryptografische Identitätsprüfung mit Ende-zu-Ende-verschlüsseltem Messaging und Dateispeicherung. Im Mai 2020 wurde Keybase von Zoom Video Communications übernommen, um Zooms Sicherheit zu verbessern. Die Entwicklung hat sich seit der Übernahme verlangsamt, der Dienst bleibt aber in Betrieb.",
-    "summary_abuse": "Keybase ist eine Plattform für verschlüsseltes Messaging und Identitätsverifizierung. Wie jeder verschlüsselte Kommunikationsdienst kann sie von legitimen Nutzern wie auch von schlechten Akteuren für private Kommunikation verwendet werden. Wegen Ende-zu-Ende-Verschlüsselung kann Keybase Nachrichteninhalte nur begrenzt überwachen. Grössere dokumentierte Missbrauchsfälle sind nicht bekannt, der Bereich verschlüsseltes Messaging stellt Strafverfolgung aber allgemein vor Herausforderungen."
+    "summary_abuse": "Keybase ist eine Plattform für verschlüsseltes Messaging und Identitätsverifizierung. Wie jeder verschlüsselte Kommunikationsdienst kann sie von legitimen Nutzern wie auch von böswilligen Akteuren für private Kommunikation verwendet werden. Wegen Ende-zu-Ende-Verschlüsselung kann Keybase Nachrichteninhalte nur begrenzt überwachen. Grössere dokumentierte Missbrauchsfälle sind nicht bekannt, der Bereich verschlüsseltes Messaging stellt Strafverfolgung aber allgemein vor Herausforderungen."
   },
   "KeyCDN": {
     "description": "KeyCDN ist ein Content Delivery Network (CDN).",
@@ -491,7 +491,7 @@
   },
   "Klevu": {
     "description": "Klevu ist eine hochentwickelte KI-gestützte Suchlösung für E-Commerce-Plattformen.",
-    "history": "Klevu ist eine finnische KI-gestützte Plattform für Produktsuche und Product Discovery, gegründet 2013; sie bietet intelligente Site Search und Produktempfehlungen für E-Commerce-Händler, mit tiefen Integrationen für Shopify, Magento und BigCommerce.",
+    "history": "Klevu ist eine finnische KI-gestützte Plattform für Produktsuche und -entdeckung, gegründet 2013; sie bietet eine intelligente Website-Suche und Produktempfehlungen für E-Commerce-Händler, mit enger Integration in Shopify, Magento und BigCommerce.",
     "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Klevu ist eine B2B-E-Commerce-Suchplattform ohne Endkundenfläche und mit abonnementsbasiertem Zugang, der Unternehmensprüfung voraussetzt."
   },
   "Klickly": {
@@ -506,8 +506,8 @@
   },
   "KlickTipp": {
     "description": "KlickTipp ist ein E-Mail-Marketing-Dienst mit Funktionen für Unternehmen, darunter Newsletter-Erstellung, SMS-Funktionalität und Marketing-Automatisierung.",
-    "history": "KlickTipp ist eine deutsche Plattform für E-Mail-Marketing-Automatisierung, gegründet 2009, mit Fokus auf den DACH-Markt. Als deutsches Unternehmen betont KlickTipp GDPR-Compliance und positioniert sich als datenschutzorientierte Alternative zu US-amerikanischen E-Mail-Marketing-Tools.",
-    "summary_abuse": "KlickTipp ist eine E-Mail-Marketing-Plattform mit dem üblichen E-Mail-Missbrauchsrisiko durch Spam. Als deutsches Unternehmen hält es sich strikt an GDPR und deutsches Datenschutzrecht und vermarktet seine GDPR-Compliance ausdrücklich. Das Missbrauchsrisiko ist geringer als bei globalen Massenmarkt-Alternativen."
+    "history": "KlickTipp ist eine deutsche Plattform für E-Mail-Marketing-Automatisierung, gegründet 2009, mit Fokus auf den DACH-Markt. Als deutsches Unternehmen betont KlickTipp seine DSGVO-Konformität und positioniert sich als datenschutzorientierte Alternative zu US-amerikanischen E-Mail-Marketing-Tools.",
+    "summary_abuse": "KlickTipp ist eine E-Mail-Marketing-Plattform mit dem üblichen E-Mail-Missbrauchsrisiko durch Spam. Als deutsches Unternehmen hält es sich strikt an die DSGVO und das deutsche Datenschutzrecht und wirbt ausdrücklich mit seiner DSGVO-Konformität. Das Missbrauchsrisiko ist geringer als bei globalen Massenmarkt-Alternativen."
   },
   "Kliken": {
     "description": "Kliken ist eine Shopping- und Anzeigenmarketing-Plattform, mit der Unternehmen Online-Werbekampagnen erstellen, verwalten und optimieren können.",
@@ -516,7 +516,7 @@
   },
   "Klip": {
     "description": "Klip ist ein Tool zum Erstellen von Coupons auf Produktseiten, um Kundenbindung, Conversions und Retention zu verbessern.",
-    "history": "Klipfolio, bekannt für sein Klip-Produkt, ist eine kanadische Business-Intelligence- und Dashboard-Plattform, gegründet 2001. Ursprünglich hiess das Unternehmen Serence und wurde 2011 in Klipfolio umbenannt. Es bietet Echtzeit-KPI-Dashboards für Unternehmen jeder Grösse und war über weite Teile seiner Geschichte bootstrapped.",
+    "history": "Klipfolio, bekannt für sein Klip-Produkt, ist eine kanadische Business-Intelligence- und Dashboard-Plattform, gegründet 2001. Ursprünglich hiess das Unternehmen Serence und wurde 2011 in Klipfolio umbenannt. Es bietet Echtzeit-KPI-Dashboards für Unternehmen jeder Grösse und war über weite Teile seiner Geschichte eigenfinanziert.",
     "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Klipfolio ist ein B2B-Analytics- und Dashboard-Tool mit Abonnementpreisen. Die Plattform ist nicht mit typischen Missbrauchsvektoren verbunden."
   },
   "Klook": {
@@ -531,7 +531,7 @@
   },
   "Knack": {
     "description": "Knack ist ein Tool zum Erstellen von Online-Datenbanken und Webanwendungen, mit dem individuelle Anwendungen ohne umfangreiche Programmierkenntnisse gebaut werden können.",
-    "history": "Knack ist ein US-amerikanischer No-Code-Builder für Datenbanken und Anwendungen, gegründet 2010 von Brian Luerssen. Er ermöglicht nicht technischen Nutzern, individuelle Web-Apps und Datenbanken ohne Coding zu erstellen. Das Unternehmen blieb bootstrapped und profitabel.",
+    "history": "Knack ist ein US-amerikanischer No-Code-Builder für Datenbanken und Anwendungen, gegründet 2010 von Brian Luerssen. Er ermöglicht nicht technischen Nutzern, individuelle Web-Apps und Datenbanken ohne Programmierkenntnisse zu erstellen. Das Unternehmen blieb eigenfinanziert und profitabel.",
     "summary_abuse": "Es gibt keine wesentlichen Missbrauchsberichte. Knack ist ein B2B-No-Code-App-Builder, den Organisationen für interne Tools und Datenbanken nutzen. Die Plattform ist kein typischer Missbrauchsvektor."
   },
   "Knak": {

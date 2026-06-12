@@ -93,7 +93,7 @@
     "summary_abuse": "Pagely ist ein Managed-WordPress-Hostingdienst unter GoDaddy ohne auffälliges Missbrauchssignal. Als auf Unternehmen ausgerichteter Hostinganbieter ist es keine Plattform, die typischerweise für Phishing oder andere betrügerische Aktivitäten genutzt wird."
   },
   "Pagemaker": {
-    "description": "Pagemaker ist ein Tool zum Erstellen mobile-first optimierter Webseiten mit Fokus auf hohe Conversion-Raten.",
+    "description": "Pagemaker ist ein Tool zum Erstellen von Mobile-First-Webseiten, die auf hohe Conversion-Raten ausgelegt sind.",
     "history": "Pagemaker ist ein indischer mobile-first Landingpage-Builder, der um 2018 gestartet wurde und Performance-Marketer sowie kleine Unternehmen anspricht.",
     "summary_abuse": "Pagemaker ist ein Landingpage-Builder, mit dem Nutzer gehostete Seiten erstellen können. Solche Tools werden mitunter für gefälschte Shops oder Phishing-Landingpages genutzt, doch Pagemaker ist ein kleiner Anbieter ohne dokumentierte weit verbreitete Missbrauchsvorfälle."
   },
@@ -291,7 +291,7 @@
   "Partial.ly": {
     "description": "Mit der Zahlungsplan-Software von Partial.ly können Unternehmen ihren Kunden anpassbare Zahlungspläne anbieten.",
     "history": "Partial.ly ist eine US-amerikanische SaaS-Plattform für Zahlungspläne, gestartet um 2015; sie ermöglicht Händlern, ihren Kunden Raten- und aufgeschobene Zahlungspläne anzubieten.",
-    "summary_abuse": "Partial.ly ist ein Zahlungsplan-Abwickler. BNPL- und Zahlungsplanplattformen sehen teils Betrug in Form von Friendly-Fraud-Chargebacks, doch Partial.ly ist ein Nischen-B2B-Tool ohne dokumentiertes Missbrauchsprofil als Betrugsinfrastruktur."
+    "summary_abuse": "Partial.ly ist ein Zahlungsplan-Abwickler. BNPL- und Zahlungsplanplattformen verzeichnen teils Betrug in Form von Friendly-Fraud-Chargebacks, doch Partial.ly ist ein Nischen-B2B-Tool ohne dokumentiertes Missbrauchsprofil als Betrugsinfrastruktur."
   },
   "particles.js": {
     "description": "Particles.js ist eine JavaScript-Bibliothek zum Erstellen von Partikeln.",
@@ -339,7 +339,7 @@
     "summary_abuse": "Parttrap ONE ist eine B2B-Enterprise-Plattform für Ecommerce und PIM ohne auffälliges Missbrauchssignal."
   },
   "Partytown": {
-    "description": "Partytown ist eine lazy-loaded Bibliothek, die ressourcenintensive Skripte in einen Web Worker und weg vom Main Thread verlagert.",
+    "description": "Partytown ist eine verzögert geladene Bibliothek, die ressourcenintensive Skripte in einen Web Worker und weg vom Main Thread verlagert.",
     "history": "Partytown wurde von Adam Bradley bei Builder.io entwickelt und 2021 veröffentlicht. Es ist eine Open-Source-JavaScript-Bibliothek, die ressourcenintensive Drittanbieter-Skripte in einen Web Worker verlagert, um die Seitenperformance zu verbessern.",
     "summary_abuse": "Partytown ist eine clientseitige Performance-Bibliothek ohne serverseitige Fläche und ohne Missbrauchssignal."
   },
@@ -389,8 +389,8 @@
   },
   "Patreon": {
     "description": "Patreon ist eine amerikanische Membership-Plattform, die Kreativen Business-Werkzeuge bietet, um Abodienste zu betreiben.",
-    "history": "Patreon wurde 2013 vom Musiker Jack Conte und Sam Yam in San Francisco als Membership-Plattform gegründet, über die Kreative wiederkehrende Zahlungen von Fans erhalten können. Das Unternehmen hat mehr als 400 Millionen US-Dollar VC-Finanzierung aufgenommen und ist auf Hunderttausende Kreative gewachsen.",
-    "summary_abuse": "Patreon wird gelegentlich für betrügerische Creator-Konten genutzt, die Unterstützungsbeiträge einwerben, ohne Inhalte zu liefern, oder unter falscher Creator-Identität Geld sammeln. Die Plattform hat Inhaltsrichtlinien und Takedown-Mechanismen, doch kostenlose Registrierung und frei gestaltbare Seiten ermöglichen Betrug mit wenig Aufwand. Patreon hat auf die Durchsetzung von NSFW-Richtlinien reagiert, mit mehreren prominenten Massnahmen über die Jahre. Insgesamt macht Missbrauch nur einen kleinen Anteil der legitimen Creator-Nutzung aus."
+    "history": "Patreon wurde 2013 vom Musiker Jack Conte und Sam Yam in San Francisco als Membership-Plattform gegründet, über die Kreative wiederkehrende Zahlungen von Fans erhalten können. Das Unternehmen hat mehr als 400 Millionen US-Dollar VC-Finanzierung aufgenommen und zählt heute Hunderttausende Kreative auf der Plattform.",
+    "summary_abuse": "Patreon wird gelegentlich für betrügerische Creator-Konten genutzt, die Unterstützungsbeiträge einwerben, ohne Inhalte zu liefern, oder unter falscher Creator-Identität Geld sammeln. Die Plattform hat Inhaltsrichtlinien und Takedown-Mechanismen, doch kostenlose Registrierung und frei gestaltbare Seiten ermöglichen Betrug mit wenig Aufwand. Patreon setzt seine Richtlinien zu NSFW-Inhalten aktiv durch, im Lauf der Jahre auch mit mehreren öffentlichkeitswirksamen Massnahmen. Insgesamt macht Missbrauch nur einen kleinen Anteil der legitimen Creator-Nutzung aus."
   },
   "Pattern by Etsy": {
     "description": "Pattern ist ein Angebot von Etsy, mit dem Etsy-Verkäufer zusätzlich zu ihrem Etsy-Shop eine eigene Website einrichten können.",
@@ -400,7 +400,7 @@
   "Pay It Later": {
     "description": "Pay It Later zieht beim Onlinekauf wöchentliche Raten ein, damit du jetzt kaufen und später bezahlen kannst.",
     "history": "Pay It Later ist ein australischer Buy-now-pay-later-Dienst, der vor allem im australischen Ecommerce-Markt tätig ist. Er bietet wöchentliche Ratenzahlungen für Onlinekäufe an.",
-    "summary_abuse": "Pay It Later ist ein australischer BNPL-Zahlungsdienst. BNPL-Dienste sind anfällig für Identitätsbetrug und Kontoübernahmen, bei denen Betrüger gestohlene Identitäten für Käufe mit aufgeschobener Zahlung nutzen. Legitime Nutzung überwiegt, aber der Dienst hat die übliche BNPL-Betrugsexposition."
+    "summary_abuse": "Pay It Later ist ein australischer BNPL-Zahlungsdienst. BNPL-Dienste sind anfällig für Identitätsbetrug und Kontoübernahmen, bei denen Betrüger gestohlene Identitäten für Käufe mit aufgeschobener Zahlung nutzen. Legitime Nutzung überwiegt, doch der Dienst trägt das für BNPL-Angebote übliche Betrugsrisiko."
   },
   "Pay.": {
     "description": "Pay. ist ein All-in-one-Zahlungsanbieter mit integrierten Lösungen für Online- und Vor-Ort-Transaktionen.",
@@ -435,7 +435,7 @@
   "PayGreen": {
     "description": "PayGreen ist ein französischer Zahlungsabwickler.",
     "history": "PayGreen ist ein französischer Zahlungsabwickler, der um 2011 gegründet wurde und sich auf nachhaltige Zahlungslösungen konzentriert. Neben Standard-Zahlungsabwicklung bietet er Mehrzahlungsfunktionen wie Ratenzahlungen und Spenden.",
-    "summary_abuse": "PayGreen ist ein französischer Zahlungsabwickler unter EU-Finanzdienstleistungsrecht. Standard-Zahlungsabwickler sehen Betrugsversuche, PayGreen verfügt jedoch über übliche PCI-DSS-Compliance und Betrugskontrollen. Nennenswerte spezifische Missbrauchsfälle sind nicht dokumentiert."
+    "summary_abuse": "PayGreen ist ein französischer Zahlungsabwickler unter EU-Finanzdienstleistungsrecht. Zahlungsabwickler sind generell mit Betrugsversuchen konfrontiert, PayGreen verfügt jedoch über übliche PCI-DSS-Compliance und Betrugskontrollen. Nennenswerte spezifische Missbrauchsfälle sind nicht dokumentiert."
   },
   "PayHere": {
     "description": "PayHere ist eine Plattform für Zahlungslinks, mit denen Onlinezahlungen einfacher eingezogen werden können.",
@@ -445,7 +445,7 @@
   "Payhip": {
     "description": "Payhip ist eine Plattform, mit der Kreative digitale Downloads verkaufen und Mitgliedschaftsabos verwalten können.",
     "history": "Payhip wurde 2013 im Vereinigten Königreich als Plattform gegründet, über die Kreative digitale Produkte, E-Books und Mitgliedschaften ohne Vorabkosten verkaufen können, wobei Payhip eine Verkaufsprovision erhebt.",
-    "summary_abuse": "Payhip ermöglicht es praktisch jedem, mit kostenlosem Tarif und geringer Verifikation einen Storefront zu erstellen und digitale Produkte zu verkaufen. Das wurde für den Verkauf piratisierter E-Books, unlizenzierter digitaler Inhalte und betrügerischer Kurse ausgenutzt. Die Verkaufsprovision schafft einen gewissen Anreiz zur Durchsetzung, doch einfache Registrierung und kostenloses Hosting herunterladbarer Dateien machen die Plattform wiederholt attraktiv für digitale Piraterie und irreführende Produktangebote."
+    "summary_abuse": "Payhip ermöglicht es praktisch jedem, mit kostenlosem Tarif und geringer Verifikation einen Online-Shop zu erstellen und digitale Produkte zu verkaufen. Das wurde für den Verkauf piratisierter E-Books, unlizenzierter digitaler Inhalte und betrügerischer Kurse ausgenutzt. Die Verkaufsprovision schafft einen gewissen Anreiz zur Durchsetzung, doch einfache Registrierung und kostenloses Hosting herunterladbarer Dateien machen die Plattform wiederholt attraktiv für digitale Piraterie und irreführende Produktangebote."
   },
   "PayJustNow": {
     "description": "PayJustNow ist eine Buy-now-pay-later-Checkout-Option für Ecommerce-Websites.",
@@ -520,7 +520,7 @@
   "Paysafe": {
     "description": "Paysafe ist eine Zahlungsplattform, die Unternehmen und Konsumenten über Zahlungsabwicklung, digitale Wallets und Online-Cash-Lösungen verbindet und Transaktionen ermöglicht.",
     "history": "Paysafe wurde 1996 im Vereinigten Königreich gegründet und wuchs durch mehrere Übernahmen, darunter Skrill, NETELLER und Income Access. 2017 wurde das Unternehmen von Blackstone und CVC privatisiert und 2020 über eine SPAC an der NYSE erneut kotiert. Es bedient Online-Glücksspiel, Gaming und klassischen Handel.",
-    "summary_abuse": "Paysafe ist eine grosse globale Zahlungsplattform, die stark in Online-Glücksspiel und Gaming genutzt wird, Bereichen mit erhöhtem Betrugsrisiko. Das Prepaid-Produkt Paysafecard ist historisch in Betrugsszenarien aufgetaucht, darunter Premium-SMS-Scams und Advance-fee-Betrug, da Prepaid-Produkte anonyme oder pseudonyme Transaktionen erlauben. Paysafe hat Betrugskontrollen und AML-Programme, doch die Prepaid- und Digital-Wallet-Segmente weisen dokumentierten Missbrauch durch schlechte Akteure auf."
+    "summary_abuse": "Paysafe ist eine grosse globale Zahlungsplattform, die stark in Online-Glücksspiel und Gaming genutzt wird, Bereichen mit erhöhtem Betrugsrisiko. Das Prepaid-Produkt Paysafecard ist historisch in Betrugsszenarien aufgetaucht, darunter Premium-SMS-Scams und Advance-fee-Betrug, da Prepaid-Produkte anonyme oder pseudonyme Transaktionen erlauben. Paysafe hat Betrugskontrollen und AML-Programme, doch die Prepaid- und Digital-Wallet-Segmente weisen dokumentierten Missbrauch durch kriminelle Akteure auf."
   },
   "Paysera": {
     "description": "Paysera ist eine Plattform für Geldtransfers und Zahlungsdienste.",
@@ -608,7 +608,7 @@
   },
   "Peel": {
     "description": "Peel ist ein Open-Source-Warenkorbsystem.",
-    "history": "Peel ist ein französisches Open-Source-Warenkorbsystem (peel.fr), das bis in die Mitte der 2000er-Jahre zurückreicht. Obwohl die Upstream-Beschreibung es Open Source nennt, ist es vor allem mit einer französischen kommerziellen Einheit verbunden. Das Projekt zeigte in den letzten Jahren begrenzte Aktivität und bedient einen regionalen französischen Ecommerce-Markt.",
+    "history": "Peel ist ein französisches Open-Source-Warenkorbsystem (peel.fr), das bis in die Mitte der 2000er-Jahre zurückreicht. Obwohl die offizielle Projektbeschreibung es als Open Source bezeichnet, ist es vor allem mit einer französischen kommerziellen Einheit verbunden. Das Projekt zeigte in den letzten Jahren begrenzte Aktivität und bedient einen regionalen französischen Ecommerce-Markt.",
     "summary_abuse": "Peel ist ein selbst gehosteter Open-Source-Warenkorb, der vor allem im französischen Markt genutzt wird. Bei selbst gehosteten Lösungen hängt Missbrauch von den Praktiken des jeweiligen Site-Betreibers ab und nicht von der Plattform selbst. Ein nennenswertes Missbrauchssignal auf Plattformebene ist nicht dokumentiert."
   },
   "PeerBoard": {
@@ -755,7 +755,7 @@
     "summary_abuse": "Peripl weist kein nennenswertes Missbrauchssignal auf. Es ist eine SaaS-Plattform für Unternehmensverwaltung, die KMU intern für Buchhaltung und HR nutzen, ohne konsumentenseitige Hosting-Fläche, die für Betrüger relevant wäre."
   },
   "Perl": {
-    "description": "Perl ist eine Familie von zwei höheren, allgemeinen, interpretierten und dynamischen Programmiersprachen.",
+    "description": "Perl ist eine Familie von zwei höheren, interpretierten und dynamischen Allzweck-Programmiersprachen.",
     "history": "Perl wurde 1987 von Larry Wall entwickelt und war ursprünglich für Textverarbeitung gedacht. In den 1990er-Jahren wurde Perl für CGI-Webskripting und Systemadministration dominant. Perl 6, später in Raku umbenannt, war eine vollständige Neuentwicklung, die 2000 begann und 2015 veröffentlicht wurde, während Perl 5 der aktive Mainstream-Zweig blieb. Seit dem Aufstieg von Python und Ruby in den 2000er-Jahren ist die Nutzung von Perl deutlich zurückgegangen.",
     "summary_abuse": "Perl hat als Programmiersprache kein nennenswertes Missbrauchssignal. Die Sprache bietet keine gehostete Konsumentenfläche und wird legitim für Systemadministration, Textverarbeitung und Webskripting eingesetzt."
   },
@@ -1059,7 +1059,7 @@
   },
   "Pikaday": {
     "description": "Ein erfrischender JavaScript-Datepicker.",
-    "history": "Pikaday ist ein leichtgewichtiger JavaScript-Datepicker, erstellt von David Bushell und erstmals etwa 2012 veröffentlicht. Er wurde als abhängigkeitfreier Datepicker für Webanwendungen populär. Die Wartung wurde im Lauf der Jahre zwischen verschiedenen Beitragenden weitergegeben.",
+    "history": "Pikaday ist ein leichtgewichtiger JavaScript-Datepicker, erstellt von David Bushell und erstmals etwa 2012 veröffentlicht. Er wurde als abhängigkeitsfreier Datepicker für Webanwendungen populär. Die Wartung wurde im Lauf der Jahre zwischen verschiedenen Beitragenden weitergegeben.",
     "summary_abuse": "Pikaday weist kein nennenswertes Missbrauchssignal auf. Es ist eine Open-Source-JavaScript-Bibliothek für Datumsauswahl ohne gehostete Infrastruktur."
   },
   "Pilera": {
@@ -1207,7 +1207,7 @@
   },
   "Pixenio": {
     "description": "Pixenio ist ein responsiver Website-Builder, mit dem Nutzer schnelle, SEO-optimierte Websites erstellen können, ähnlich einfach wie das Verwalten von Social-Media-Profilen.",
-    "history": "Pixenio ist ein SaaS für responsiven Website-Bau. Relevante Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
+    "history": "Pixenio ist ein SaaS für die Erstellung responsiver Websites. Relevante Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
     "summary_abuse": "Für Pixenio ist kein Missbrauchssignal dokumentiert. Wie alle gehosteten Website-Builder könnte es theoretisch schädliche Seiten hosten."
   },
   "Pixieset Store": {
@@ -1222,12 +1222,12 @@
   },
   "PIXIjs": {
     "description": "PIXIjs ist eine kostenlose Open-Source-2D-Engine für animierte Websites und HTML5-Spiele.",
-    "history": "PixiJS ist eine schnelle 2D-Rendering-Engine mit WebGL und Canvas-Fallback, die 2013 erstmals von Mat Groves veröffentlicht wurde; sie wird breit für interaktive Animationen, HTML5-Spiele und Datenvisualisierungen im Web eingesetzt. Das Projekt wird kontinuierlich weiterentwickelt und von grossen Unternehmen für performante 2D-Grafiken genutzt.",
+    "history": "PixiJS ist eine schnelle 2D-Rendering-Engine mit WebGL und Canvas-Fallback, die 2013 erstmals von Mat Groves veröffentlicht wurde; sie wird vielfach für interaktive Animationen, HTML5-Spiele und Datenvisualisierungen im Web eingesetzt. Das Projekt wird kontinuierlich weiterentwickelt und von grossen Unternehmen für performante 2D-Grafiken genutzt.",
     "summary_abuse": "PixiJS zeigt kein relevantes Missbrauchssignal. Es ist eine 2D-Grafik-Rendering-Bibliothek für Webentwickler, die Spiele und interaktive Animationen bauen, ohne nutzerseitige Angriffsfläche für Betrugsakteure."
   },
   "Pixlee TurnTo": {
     "description": "Pixlee TurnTo ist eine Plattform für Social UGC, Bewertungen, Rezensionen und Influencer-Marketing für communityorientierte Marken.",
-    "history": "Pixlee wurde 2012 als UGC- und Influencer-Marketing-Plattform gegründet. Es fusionierte mit TurnTo, einer Plattform für Bewertungen und Rezensionen, zu Pixlee TurnTo. Im November 2022 übernahm Emplifi, die aus Socialbakers und Astute Solutions entstandene Customer-Engagement-Plattform, Pixlee TurnTo und integrierte es in seine breitere Customer-Experience-Suite.",
+    "history": "Pixlee wurde 2012 als UGC- und Influencer-Marketing-Plattform gegründet. Es fusionierte mit TurnTo, einer Plattform für Bewertungen und Rezensionen, zu Pixlee TurnTo. Im November 2022 übernahm Emplifi, die aus Socialbakers und Astute Solutions entstandene Customer-Engagement-Plattform, Pixlee TurnTo und integrierte es in ihre breitere Customer-Experience-Suite.",
     "summary_abuse": "Pixlee TurnTo ist eine Plattform für UGC, Bewertungen und Influencer-Marketing, die vor allem von Marken zur Bündelung von Verbraucherinhalt genutzt wird. Als Betrugs- oder Scam-Plattform ist kein Missbrauchssignal dokumentiert, da sie geprüfte Markenkunden adressiert und kein anonymes Content-Hosting bereitstellt."
   },
   "Pixnet": {
@@ -1237,7 +1237,7 @@
   },
   "Pixpa": {
     "description": "Pixpa ist eine Software, mit der Fotografen, Künstler und kreative Designer ihre Online-Präsenz aufbauen und verwalten können, indem sie ohne Programmierkenntnisse professionelle Portfolio-Websites erstellen.",
-    "history": "Pixpa ist ein in Indien ansässiger Portfolio-Website-Builder für Fotografen, Künstler und Designer, der um 2014 startete. Das Unternehmen blieb unabhängig und bootstrapped und bedient Kreative, die erschwingliche Online-Portfolio-Lösungen suchen.",
+    "history": "Pixpa ist ein in Indien ansässiger Portfolio-Website-Builder für Fotografen, Künstler und Designer, der um 2014 startete. Das Unternehmen blieb unabhängig und eigenfinanziert und bedient Kreative, die erschwingliche Online-Portfolio-Lösungen suchen.",
     "summary_abuse": "Pixpa ist ein Portfolio-Website-Builder für Fotografen und Kreative ohne relevantes Missbrauchssignal. Das abonnementbasierte Modell ohne Gratisstufe senkt die Wahrscheinlichkeit anonymer missbräuchlicher Nutzung im Vergleich zu kostenlosen Website-Buildern."
   },
   "PizzaNetz": {
@@ -1277,7 +1277,7 @@
   },
   "Planio": {
     "description": "Planio ist eine Plattform, die Issue-Tracking, Projektmanagement, Versionskontrolle, Helpdesk-Funktionen, Wikis und Teamchat in einer gemeinsamen Umgebung anbietet.",
-    "history": "Planio wurde 2009 in Berlin, Deutschland, als gehostete Plattform für Projektmanagement und Issue-Tracking auf Basis des Open-Source-Frameworks Redmine gegründet. Das Unternehmen blieb unabhängig und bootstrapped und fokussiert sich auf den europäischen Markt.",
+    "history": "Planio wurde 2009 in Berlin, Deutschland, als gehostete Plattform für Projektmanagement und Issue-Tracking auf Basis des Open-Source-Frameworks Redmine gegründet. Das Unternehmen blieb unabhängig und eigenfinanziert und konzentriert sich auf den europäischen Markt.",
     "summary_abuse": "Planio ist ein SaaS für Projektmanagement und Issue-Tracking ohne relevantes Missbrauchssignal. Es bedient Teams in einem B2B-Abonnementmodell und hostet keine öffentlichen Inhalte und bietet keine anonyme Registrierung."
   },
   "Planne": {
@@ -1316,7 +1316,7 @@
     "summary_abuse": "Planzer zeigt kein relevantes Missbrauchssignal. Es ist ein Schweizer Logistik- und Transportunternehmen für Geschäftskundenversand. Das Kundenportal dient der operativen Logistikverwaltung und bietet keine nutzerseitigen Funktionen, die Betrüger ins Visier nehmen würden."
   },
   "Plasmic": {
-    "description": "Plasmic ist ein visueller No-Code-Headless-Page- und Content-Builder für jede Website oder Codebase.",
+    "description": "Plasmic ist ein visueller No-Code-Headless-Page- und Content-Builder für beliebige Websites und Codebasen.",
     "history": "Plasmic ist ein visueller No-Code-Headless-Page-Builder und ein Content-Management-System, gegründet um 2020. Es ermöglicht Entwicklern und Designern, Website-Inhalte ohne Code zu erstellen und zu verwalten, und integriert sich in bestehende Codebases und Frameworks.",
     "summary_abuse": "Plasmic zeigt kein relevantes Missbrauchssignal. Es ist ein entwicklerorientiertes visuelles CMS, das sich in bestehende Codebases integriert, keine öffentliche Hosting-Plattform. Für Betrüger bietet es daher wenig Nutzen."
   },
@@ -1360,7 +1360,7 @@
   },
   "Plausible": {
     "description": "Plausible ist eine Open-Source-Alternative zu Google Analytics.",
-    "history": "Plausible Analytics wurde 2018 von Uku Taht und Marko Saric als Open-Source- und Privacy-First-Alternative zu Google Analytics gegründet. Das Unternehmen hat seinen Sitz in Estland, ist unter AGPL-3.0 lizenziert und blieb bootstrapped sowie unabhängig betrieben.",
+    "history": "Plausible Analytics wurde 2018 von Uku Taht und Marko Saric als Open-Source- und Privacy-First-Alternative zu Google Analytics gegründet. Das Unternehmen hat seinen Sitz in Estland, ist unter AGPL-3.0 lizenziert und blieb eigenfinanziert und unabhängig betrieben.",
     "summary_abuse": "Plausible Analytics ist ein datenschutzorientiertes Web-Analytics-Tool ohne relevantes Missbrauchssignal. Es sammelt keine personenbezogenen Daten, setzt keine Cookies und hat keine nutzerseitige Oberfläche, die Phishing oder Betrug anziehen würde."
   },
   "Play": {
@@ -1410,7 +1410,7 @@
   "Plesk": {
     "description": "Plesk ist eine Software für Webhosting- und Server-Rechenzentrumsautomatisierung mit Control Panel für Linux- und Windows-basierte Retail-Hosting-Anbieter.",
     "history": "Plesk wurde 2001 als Webhosting-Control-Panel gegründet. 2003 wurde es von SWSoft, später Parallels, übernommen, 2017 dann von Oakley Capital und wurde Teil von WebPros, einer Plattformgruppe für Hosting-Automatisierung.",
-    "summary_abuse": "Plesk ist ein weit verbreitetes Serververwaltungspanel. Einzelne Server mit Plesk können missbräuchliche Inhalte hosten, wofür der jeweilige Serverbetreiber verantwortlich ist. Plesk selbst ist jedoch ein legitimes Hosting-Werkzeug ohne auffälliges Muster, dass es von böswilligen Akteuren gegenüber Alternativen bevorzugt würde."
+    "summary_abuse": "Plesk ist ein weit verbreitetes Serververwaltungspanel. Einzelne Server mit Plesk können missbräuchliche Inhalte hosten, wofür der jeweilige Serverbetreiber verantwortlich ist. Plesk selbst ist jedoch ein legitimes Hosting-Werkzeug, und es ist kein auffälliges Muster erkennbar, dass böswillige Akteure es Alternativen vorziehen."
   },
   "Plezi": {
     "description": "Plezi ist ein Marketingautomatisierungstool.",
@@ -1700,9 +1700,9 @@
     "summary_abuse": "POPVOX ist eine Civic-Tech-Plattform für legislative Beteiligung ohne dokumentierte Missbrauchshistorie; sie verarbeitet Bürger-zu-Regierung-Kommunikation statt Finanz- oder Identitätsdaten und agiert im gemeinwohlorientierten Civic-Tech-Bereich ohne auffällige Betrugs- oder Phishing-Exposition."
   },
   "Porch": {
-    "description": "Porch ist ein Umzugsmanagementsystem, das Prozesse rund um Umzug, Versicherung und Heimverbesserung vereinfacht.",
-    "history": "Porch wurde 2012 in Seattle, Washington, als Online-Marktplatz für Heimverbesserung gegründet, der Hauseigentümer mit Handwerkern verbindet. Das Unternehmen erweiterte sich zu einer vertikalen SaaS-Plattform für Umzugsunternehmen, Home Services und Versicherungen und ging Ende 2020 über einen SPAC an die Börse. 2019 übernahm Porch HireAHelper, um seine Umzugsdienstleistungen auszubauen.",
-    "summary_abuse": "Porch ist ein börsennotiertes vertikales SaaS-Unternehmen für die Umzugs- und Heimverbesserungsbranche. Es gibt kein auffälliges Missbrauchs-, Phishing- oder Betrugssignal zur Plattform. Börsenstatus und B2B-Fokus reduzieren die Exposition gegenüber verbraucherorientiertem Missbrauch."
+    "description": "Porch ist ein Umzugsmanagementsystem, das Prozesse rund um Umzug, Versicherung und Renovierung vereinfacht.",
+    "history": "Porch wurde 2012 in Seattle, Washington, als Online-Marktplatz rund um Renovierung und Modernisierung gegründet, der Hauseigentümer mit Handwerkern verbindet. Das Unternehmen erweiterte sich zu einer vertikalen SaaS-Plattform für Umzugsunternehmen, Home Services und Versicherungen und ging Ende 2020 über einen SPAC an die Börse. 2019 übernahm Porch HireAHelper, um seine Umzugsdienstleistungen auszubauen.",
+    "summary_abuse": "Porch ist ein börsenkotiertes vertikales SaaS-Unternehmen für die Umzugs- und Heimverbesserungsbranche. Es gibt kein auffälliges Missbrauchs-, Phishing- oder Betrugssignal zur Plattform. Börsenstatus und B2B-Fokus reduzieren die Exposition gegenüber verbraucherorientiertem Missbrauch."
   },
   "Portal": {
     "description": "Portal stellt Werkzeuge zum Erstellen professioneller Websites oder Onlineshops bereit, darunter Hosting, Domainregistrierung, ein intuitives Verwaltungspanel für neue Seiten und laufenden Support.",
@@ -1785,7 +1785,7 @@
   },
   "PostNL": {
     "description": "PostNL, früher TNT, ist ein Post-, Paket- und E-Commerce-Unternehmen mit Aktivitäten in den Niederlanden, Deutschland, Italien, Belgien und dem Vereinigten Königreich.",
-    "history": "PostNL geht auf den niederländischen Postdienst zurück, dessen Geschichte bis ins 18. Jahrhundert reicht. Als TPG Post und später TNT benannte sich das Unternehmen 2011 in PostNL um, als TNT seine Post- und Expressbereiche trennte. PostNL ist an der Euronext Amsterdam börsennotiert und der dominierende Post- und Paketdienstleister in den Niederlanden.",
+    "history": "PostNL geht auf den niederländischen Postdienst zurück, dessen Geschichte bis ins 18. Jahrhundert reicht. Als TPG Post und später TNT benannte sich das Unternehmen 2011 in PostNL um, als TNT seine Post- und Expressbereiche trennte. PostNL ist an der Euronext Amsterdam börsenkotiert und der dominierende Post- und Paketdienstleister in den Niederlanden.",
     "summary_abuse": "PostNL ist ein grosser Post- und Paketdienstleister. Logistikunternehmen wie PostNL werden häufig in Phishing-Kampagnen imitiert, besonders mit gefälschten Liefer-SMS oder E-Mail-Benachrichtigungen, ein in den Niederlanden gut dokumentiertes Muster. PostNL selbst ist Opfer von Nachahmung und nicht der Ermöglicher, und informiert Verbraucher aktiv über Betrugsrisiken. Den eigenen Systemen von PostNL ist kein Missbrauch direkt zuzuschreiben."
   },
   "Postpay": {
@@ -1815,7 +1815,7 @@
   },
   "Power CRM": {
     "description": "Power CRM ist eine Plattform für Fahrzeugschutzverbände, die deren operative Anforderungen unterstützt.",
-    "history": "Power CRM ist eine spezialisierte CRM-Plattform für Fahrzeugschutzverbände und bietet operative Verwaltungs- und Customer-Relationship-Werkzeuge für diese konkrete Branchenvertikale.",
+    "history": "Power CRM ist eine spezialisierte CRM-Plattform für Fahrzeugschutzverbände und bietet operative Verwaltungs- und Customer-Relationship-Werkzeuge für diese spezifische Branche.",
     "summary_abuse": "Power CRM zeigt kein auffälliges Missbrauchssignal. Es ist ein Nischen-CRM für Fahrzeugschutzverbände mit geschlossener Branchenkundschaft und ohne verbraucherorientierte Funktionen, die Betrüger gezielt nutzen würden."
   },
   "Powerboutique": {
@@ -2165,12 +2165,12 @@
     "summary_abuse": "Profit Lifter bietet automatisierte Erstellung von Landingpages und Funnels mit E-Mail-Marketing-Funktionen. Das kann die Hürden für Spam-Kampagnen und minderwertiges Affiliate-Marketing senken. Spezifische dokumentierte Vorfälle sind nicht bekannt."
   },
   "ProfitFlo": {
-    "description": "ProfitFlo ist eine Plattform, die Umsatzgenerierung automatisiert und Werkzeuge zur Gewinnung und Konvertierung von Kunden bereitstellt.",
+    "description": "ProfitFlo ist eine Plattform, die Umsatzgenerierung automatisiert und Werkzeuge bereitstellt, um Kunden zu gewinnen und zum Kauf zu führen.",
     "history": "ProfitFlo ist eine kleine Automationsplattform, die Unternehmen beim Gewinnen und Konvertieren von Kunden unterstützen soll. Gründungsjahr oder Eigentümerdetails sind öffentlich nicht dokumentiert.",
     "summary_abuse": "ProfitFlo hat öffentlich kein auffälliges Missbrauchssignal dokumentiert. Es ist ein kleines Marketing-Automation-Tool mit begrenzter öffentlicher Präsenz."
   },
   "Profitwell": {
-    "history": "ProfitWell wurde 2012 von Patrick Campbell als bootstrapped Plattform für Subscription Analytics gegründet. Es wuchs auf 22'000 Kunden und 22 Millionen US-Dollar Umsatz, bevor es im Mai 2022 für 200 Millionen US-Dollar vom britischen Unternehmen Paddle übernommen wurde.",
+    "history": "ProfitWell wurde 2012 von Patrick Campbell als eigenfinanzierte Plattform für Subscription Analytics gegründet. Es wuchs auf 22'000 Kunden und 22 Millionen US-Dollar Umsatz, bevor es im Mai 2022 für 200 Millionen US-Dollar vom britischen Unternehmen Paddle übernommen wurde.",
     "summary_abuse": "ProfitWell zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Subscription Analytics ohne verbrauchergerichtete Oberfläche, die Phishing- oder Betrugsakteure anziehen würde."
   },
   "Profity": {
@@ -2185,13 +2185,13 @@
   },
   "Progreda": {
     "description": "Progreda automatisiert Verkaufsgespräche über Textnachrichten, Instagram und Facebook Messenger, um Leads zu generieren, Termine zu planen und Umsatzwachstum zu fördern.",
-    "history": "Progreda ist eine kleine Sales-Automation-Plattform für automatisierte Gespräche über SMS, Instagram und Facebook Messenger. Gründungsjahr oder Eigentümergeschichte sind öffentlich nicht dokumentiert.",
+    "history": "Progreda ist eine kleine Sales-Automation-Plattform für automatisierte Gespräche über SMS, Instagram und Facebook Messenger. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
     "summary_abuse": "Progreda ermöglicht automatisiertes Messaging über SMS und soziale Plattformen, was für unerwünschte Massenkommunikation oder Spam-Kampagnen missbraucht werden kann. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt."
   },
   "Progress MOVEit": {
     "description": "Progress MOVEit ist eine Managed-File-Transfer-Lösung für sichere und regelkonforme Übertragung sensibler Dateien mit Automatisierung, zentraler Verwaltung und Audit-Funktionen.",
     "history": "MOVEit wurde ursprünglich von Ipswitch entwickelt und 2019 von Progress Software übernommen. Im Mai 2023 wurde eine kritische Zero-Day-SQL-Injection-Schwachstelle (CVE-2023-34362) von der Cl0p-Ransomware-Gruppe ausgenutzt. Das führte weltweit zu Datenpannen bei Hunderten Organisationen, darunter Behörden, Finanzinstitute und Gesundheitsanbieter, und gilt als eines der grössten Massenausnutzungsereignisse der Cybersecurity-Geschichte.",
-    "summary_abuse": "MOVEit selbst ist ein legitimes Enterprise-Produkt für Dateiübertragung und kein Missbrauchswerkzeug. Die Zero-Day-SQL-Injection CVE-2023-34362 vom Mai 2023 wurde jedoch massenhaft von der Cl0p-Ransomware-Gruppe ausgenutzt und führte zu Datenpannen bei Hunderten Organisationen. Die Schwachstelle lag in der MOVEit-Transfer-Server-Software und stellte einen bedeutenden Supply-Chain-artigen Angriff auf Enterprise-MFT-Infrastruktur dar. Progress veröffentlichte rasch Patches und detaillierte Empfehlungen, das Ausmass der Ausnutzung war jedoch aussergewöhnlich. MOVEit bleibt breit für den Transfer sensibler regulierter Daten im Einsatz."
+    "summary_abuse": "MOVEit selbst ist ein legitimes Enterprise-Produkt für Dateiübertragung und kein Missbrauchswerkzeug. Die Zero-Day-SQL-Injection CVE-2023-34362 vom Mai 2023 wurde jedoch massenhaft von der Cl0p-Ransomware-Gruppe ausgenutzt und führte zu Datenpannen bei Hunderten Organisationen. Die Schwachstelle lag in der MOVEit-Transfer-Server-Software und stellte einen bedeutenden Supply-Chain-artigen Angriff auf Enterprise-MFT-Infrastruktur dar. Progress veröffentlichte rasch Patches und detaillierte Empfehlungen, das Ausmass der Ausnutzung war jedoch aussergewöhnlich. MOVEit ist für den Transfer sensibler regulierter Daten nach wie vor weit verbreitet im Einsatz."
   },
   "Progress Sitefinity": {
     "description": "Progress Sitefinity ist ein Content-Management-System (CMS), mit dem du Inhalte für deine Website erstellen, speichern, verwalten und präsentieren kannst.",
@@ -2200,7 +2200,7 @@
   },
   "Progress WS_FTP": {
     "description": "Progress WS_FTP ist eine von Progress Software Corporation entwickelte Dateiübertragungs-Clientsoftware mit Unterstützung für FTP, FTPS, SFTP und HTTPS sowie Funktionen wie Drag-and-drop, Dateisynchronisierung und verschlüsselte Datenübertragung.",
-    "history": "WS_FTP wurde ursprünglich Anfang der 1990er-Jahre von Ipswitch entwickelt und wurde zu einem der meistgenutzten FTP-Clients unter Windows. Progress Software übernahm Ipswitch 2019 und pflegt heute sowohl die WS_FTP-Client- als auch die Serverprodukte. Im Oktober 2023 meldete Progress kritische Schwachstellen in WS_FTP Server (CVE-2023-40044), die rasch von Bedrohungsakteuren weaponisiert wurden.",
+    "history": "WS_FTP wurde ursprünglich Anfang der 1990er-Jahre von Ipswitch entwickelt und wurde zu einem der meistgenutzten FTP-Clients unter Windows. Progress Software übernahm Ipswitch 2019 und pflegt heute sowohl die WS_FTP-Client- als auch die Serverprodukte. Im Oktober 2023 meldete Progress kritische Schwachstellen in WS_FTP Server (CVE-2023-40044), die rasch von Bedrohungsakteuren für Angriffe ausgenutzt wurden.",
     "summary_abuse": "WS_FTP Server hatte eine kritische Authentication-Bypass-Schwachstelle (CVE-2023-40044), die im Oktober 2023 offengelegt und innerhalb weniger Tage aktiv ausgenutzt wurde. Angreifer nutzten sie, um Webshells und Ransomware auf verwundbaren Servern abzulegen. Progress patchte rasch und veröffentlichte Notfallhinweise. Das Produkt ist ein legitimes Enterprise-Dateiübertragungswerkzeug, der Missbrauch entsteht durch die Ausnutzung ungepatchter Installationen und nicht durch das grundlegende Servicedesign."
   },
   "ProgressBar.js": {
@@ -2330,7 +2330,7 @@
   "Proton Mail": {
     "description": "Proton Mail ist der weltweit grösste sichere E-Mail-Dienst mit über 70 Millionen Nutzern. Verfügbar im Web, auf iOS, Android und Desktop. Geschützt durch Schweizer Datenschutzrecht.",
     "history": "Proton Mail wurde 2013 von Wissenschaftlern am CERN in Genf gegründet, darunter Andy Yen, Jason Stockman und Wei Sun. Das Team entwickelte Ende-zu-Ende-verschlüsselte E-Mail, um wissenschaftliche Kommunikation zu schützen. Der Dienst startete 2014 öffentlich und wuchs bis 2024 auf über 70 Millionen Nutzer. Die Muttergesellschaft Proton AG erweiterte sich später zu einem breiteren Datenschutz-Ökosystem mit Proton VPN, Proton Drive und Proton Calendar.",
-    "summary_abuse": "Die Gratisstufe und die starken Anonymitätsgarantien von Proton Mail machen den Dienst gelegentlich für Missbrauch attraktiv, etwa für proton.me-Adressen in Phishing- und Spam-Kampagnen. Proton AG veröffentlicht jedoch einen Transparenzbericht, kooperiert nach Schweizer Recht mit rechtmässigen Behördenanfragen und betreibt einen dokumentierten Abuse-Meldeprozess. Die Plattform setzt Rate Limiting und Anti-Abuse-Erkennung ein. Gemessen an über 70 Millionen Nutzern ist Missbrauch nur ein kleiner Teil der Gesamtnutzung, und Proton gilt breit als privacy-first statt als Anonymitätsdienst für Missbrauch."
+    "summary_abuse": "Die Gratisstufe und die starken Anonymitätsgarantien von Proton Mail machen den Dienst gelegentlich für Missbrauch attraktiv, etwa für proton.me-Adressen in Phishing- und Spam-Kampagnen. Proton AG veröffentlicht jedoch einen Transparenzbericht, kooperiert nach Schweizer Recht mit rechtmässigen Behördenanfragen und betreibt einen dokumentierten Abuse-Meldeprozess. Die Plattform setzt Rate Limiting und Anti-Abuse-Erkennung ein. Gemessen an über 70 Millionen Nutzern ist Missbrauch nur ein kleiner Teil der Gesamtnutzung, und Proton gilt weithin als datenschutzorientierter Dienst, nicht als Anonymitätswerkzeug für Missbrauch."
   },
   "Prototype": {
     "description": "Prototype ist ein JavaScript-Framework, das die Entwicklung von Webanwendungen erleichtern soll.",
@@ -2456,7 +2456,7 @@
   },
   "Publytics": {
     "description": "Publytics ist eine leichte und cookielose Alternative zu Google Analytics für Webpublisher.",
-    "history": "Publytics ist eine cookielose, privacy-first Webanalyse-Alternative zu Google Analytics für Online-Publisher. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
+    "history": "Publytics ist eine cookielose, datenschutzorientierte Webanalyse-Alternative zu Google Analytics für Online-Publisher. Ein Gründungsjahr oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
     "summary_abuse": "Für Publytics gibt es keine auffälligen Missbrauchssignale. Es ist ein datenschutzorientiertes Analytics-Tool für Publisher ohne Funktionen, die Betrüger anziehen würden."
   },
   "PubMatic": {
@@ -2507,7 +2507,7 @@
   "Pulse Secure": {
     "description": "Pulse Secure ermöglicht die Bereitstellung von VPNs für sicheren Zugriff auf interne Ressourcen.",
     "history": "Pulse Secure entstand 2014, als Siris Capital das Junos Pulse SSL VPN-Geschäft von Juniper Networks übernahm. Ivanti erwarb Pulse Secure im Dezember 2020 zusammen mit MobileIron. Die Produktlinie wurde seither unter der Familie Ivanti Secure Access neu gebrandet.",
-    "summary_abuse": "Pulse-Secure-VPN-Infrastruktur war Ziel staatlich unterstützter Angreifer, die Zero-Day-Schwachstellen ausnutzten; 2021 warnte CISA vor breitflächiger Ausnutzung von Pulse Connect Secure. Das Produkt selbst ist ein legitimes Enterprise-VPN, aber die Schwachstellen wurden von Nation-State-Akteuren für Credential Theft und Netzwerkintrusion genutzt."
+    "summary_abuse": "Pulse-Secure-VPN-Infrastruktur war Ziel staatlich unterstützter Angreifer, die Zero-Day-Schwachstellen ausnutzten; 2021 warnte CISA vor breitflächiger Ausnutzung von Pulse Connect Secure. Das Produkt selbst ist ein legitimes Enterprise-VPN, aber die Schwachstellen wurden von staatlich gesteuerten Akteuren genutzt, um Zugangsdaten zu stehlen und in Netzwerke einzudringen."
   },
   "PulseM": {
     "description": "PulseM ist eine Online-Plattform zur Verwaltung von Kundenbewertungen und Unternehmensreputation über digitale Kanäle hinweg.",

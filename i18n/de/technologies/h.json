@@ -127,11 +127,11 @@
   "HarborByte": {
     "description": "HarborByte ist eine Website-Plattform für kleine Unternehmen mit Template-Websites und integrierten E-Commerce-, Marketing- und Hosting-Lösungen.",
     "history": "HarborByte ist eine kleine US-basierte Website-Plattform mit Template-Websites sowie integriertem E-Commerce, Marketing und Hosting für kleine Unternehmen. Die öffentliche Präsenz ist sehr begrenzt und die Marktdurchdringung minimal. Wahrscheinlich handelt es sich um einen Micro-ISV oder ein bootstrapped Produkt.",
-    "summary_abuse": "HarborByte ist ein unbekannter Website-Builder für kleine Unternehmen ohne dokumentierte Missbrauchsmuster. Die Verbreitung ist sehr gering. Ein formales Security-Programm ist nicht bekannt. Übliche Website-Hosting-Themen gelten."
+    "summary_abuse": "HarborByte ist ein unbekannter Website-Builder für kleine Unternehmen ohne dokumentierte Missbrauchsmuster. Die Verbreitung ist sehr gering. Ein formales Security-Programm ist nicht bekannt. Es gelten die üblichen Risiken des Website-Hostings."
   },
   "Harness": {
     "description": "Harness ist eine Fundraising-Lösung, die das Sammeln von Spenden für verschiedene Zwecke und Initiativen vereinfachen soll.",
-    "history": "Harness, goharness.com, ist eine US-basierte SaaS-Fundraising-Plattform für Nonprofits mit Online-Spendentools, Peer-to-Peer-Fundraising und Spenderverwaltung; sie wurde Mitte der 2010er-Jahre als Nischenanbieter im Nonprofit-Technologiesektor gegründet; sie ist nicht mit Harness.io, der Enterprise-CI/CD-Plattform, zu verwechseln.",
+    "history": "Harness (goharness.com) ist eine US-basierte SaaS-Fundraising-Plattform für Nonprofits mit Online-Spendentools, Peer-to-Peer-Fundraising und Spenderverwaltung. Gegründet wurde sie Mitte der 2010er-Jahre als Nischenanbieter im Nonprofit-Technologiesektor. Nicht zu verwechseln mit der Enterprise-CI/CD-Plattform Harness.io.",
     "summary_abuse": "Harness ist eine Fundraising-Plattform für Nonprofits. Spendenplattformen können Ziele von Wohltätigkeitsbetrug und Fake-Fundraiser-Scams sein. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt. Die Plattform verarbeitet Spendenzahlungen, weshalb PCI-Compliance relevant ist. Es handelt sich um einen kleinen Anbieter mit begrenzter öffentlicher Security-Dokumentation."
   },
   "Hashnode": {
@@ -147,7 +147,7 @@
   "HashThemes Total": {
     "description": "HashThemes Total ist ein leistungsfähiges und kreatives Mehrzweck-Theme für WordPress.",
     "history": "HashThemes Total ist ein Mehrzweck-WordPress-Theme von HashThemes, einem nepalesischen WordPress-Theme-Anbieter. Das Unternehmen entwickelt seit Mitte der 2010er-Jahre mehrere kostenlose und Premium-WordPress-Themes, wobei Total das zentrale Mehrzweckprodukt ist.",
-    "summary_abuse": "HashThemes Total ist ein WordPress-Theme eines nepalesischen Entwicklers. Dokumentierte Missbrauchsmuster sind nicht bekannt. WordPress-Themes können Sicherheitslücken enthalten, doch für dieses Theme sind keine auffälligen CVEs dokumentiert. Übliche Sicherheitsaspekte für WordPress-Themes gelten."
+    "summary_abuse": "HashThemes Total ist ein WordPress-Theme eines nepalesischen Entwicklers. Dokumentierte Missbrauchsmuster sind nicht bekannt. WordPress-Themes können Sicherheitslücken enthalten, doch für dieses Theme sind keine auffälligen CVEs dokumentiert. Es gelten die üblichen Sicherheitsüberlegungen für WordPress-Themes."
   },
   "Haskell": {
     "history": "Haskell ist eine rein funktionale, statisch typisierte Programmiersprache mit Lazy Evaluation; sie wurde 1987 von einem Forschungskomitee entworfen, das Forschung zu funktionaler Programmierung vereinheitlichen wollte; die erste Version wurde 1990 standardisiert. Haskell 98 war ein auf Stabilität ausgerichteter Standard. Haskell 2010 ist der aktuelle Standard. Trotz mässiger direkter Verbreitung hatte die Sprache enormen Einfluss auf moderne Typsysteme, etwa in TypeScript, Rust und Swift.",
@@ -226,16 +226,16 @@
   "Heartland Payment Systems": {
     "description": "Heartland Payment Systems ist ein US-basierter Anbieter von Zahlungsabwicklung und Technologie.",
     "history": "Heartland Payment Systems wurde 1997 als US-Zahlungsabwickler gegründet. 2008 bis 2009 erlitt das Unternehmen eines der grössten Zahlungskartendatenlecks der Geschichte, bei dem über 100 Millionen Kartennummern über SQL Injection in Verarbeitungssystemen offengelegt wurden. Global Payments Inc. übernahm das Unternehmen 2016 für rund 4,3 Milliarden US-Dollar. Heute arbeitet es als Tochtergesellschaft für Restaurants, Hotels, Bildungseinrichtungen und kleine Unternehmen.",
-    "summary_abuse": "Heartland erlitt 2008 ein massives Zahlungskarten-Datenleck, bei dem über 100 Millionen Karten via SQL Injection kompromittiert wurden, damals eines der grössten Datenlecks in der US-Geschichte. Der Angreifer Albert Gonzalez wurde verurteilt. Nach dem Vorfall investierte Heartland stark in Sicherheit und führte Ende-zu-Ende-Verschlüsselung ein. Heute gehört Heartland zu Global Payments und unterhält PCI-DSS-Zertifizierung sowie SOC 2. Fortlaufende Wachsamkeit bleibt nötig, da Zahlungsabwickler Ziel von Threat Actors bleiben."
+    "summary_abuse": "Heartland erlitt 2008 ein massives Zahlungskarten-Datenleck, bei dem über 100 Millionen Karten via SQL Injection kompromittiert wurden, damals eines der grössten Datenlecks in der US-Geschichte. Der Angreifer Albert Gonzalez wurde verurteilt. Nach dem Vorfall investierte Heartland stark in Sicherheit und führte Ende-zu-Ende-Verschlüsselung ein. Heute gehört Heartland zu Global Payments und unterhält PCI-DSS-Zertifizierung sowie SOC 2. Fortlaufende Wachsamkeit bleibt nötig, da Zahlungsabwickler weiterhin im Visier von Angreifern stehen."
   },
   "Heeet": {
     "description": "Heeet ist ein Tool für Lead-Tracking und Marketing-Analytics.",
-    "history": "Heeet ist eine französische SaaS für Lead-Tracking und Marketing-Attribution, gegründet um 2017; sie verbindet Salesforce-CRM-Daten mit Marketingausgaben, um Umsätze Marketingkampagnen zuzuordnen, besonders für B2B-Unternehmen. Zielgruppe sind Marketingteams mit starkem Salesforce-Fokus.",
+    "history": "Heeet ist eine französische SaaS-Lösung für Lead-Tracking und Marketing-Attribution, gegründet um 2017; sie verbindet Salesforce-CRM-Daten mit Marketingausgaben, um Umsätze Marketingkampagnen zuzuordnen, besonders für B2B-Unternehmen. Zielgruppe sind Marketingteams mit starkem Salesforce-Fokus.",
     "summary_abuse": "Heeet ist eine B2B-Marketing-Analytics-Plattform, die Tracking-Scripts auf Kundenwebsites einsetzt. Als Tracking-Tool sammelt sie Verhaltensdaten für Marketing-Attribution. Als französisches Unternehmen ist GDPR-Compliance wahrscheinlich. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Bedenken zu Analytics-Tools gelten."
   },
   "Heights Platform": {
     "description": "Heights Platform ist eine All-in-one-Plattform zum Erstellen und Verkaufen von Online-Kursen.",
-    "history": "Heights Platform ist eine US-basierte SaaS, mit der Creator Online-Kurse und Coaching-Programme erstellen und verkaufen können; sie wurde um 2018 als bootstrapped Alternative zu Teachable und Thinkific gegründet und positioniert sich über Einfachheit und creatorfreundliche Preise ohne Transaktionsgebühren.",
+    "history": "Heights Platform ist eine US-basierte SaaS, mit der Creator Online-Kurse und Coaching-Programme erstellen und verkaufen können; sie wurde um 2018 als bootstrapped Alternative zu Teachable und Thinkific gegründet und positioniert sich über Einfachheit und Creator-freundliche Preise ohne Transaktionsgebühren.",
     "summary_abuse": "Heights Platform ist eine SaaS zum Erstellen von Online-Kursen. Dokumentierte Missbrauchsmuster sind nicht bekannt. Übliche Themen rund um Kursqualität und Rückerstattungsregeln gelten, aber Plattformmissbrauch ist nicht dokumentiert. Es handelt sich um einen kleinen bootstrapped Anbieter."
   },
   "Helhost": {
@@ -344,7 +344,7 @@
     "summary_abuse": "HESK hat ein minimales Missbrauchssignal. Es ist eine selbst gehostete Helpdesk-Anwendung auf dem Server des Betreibers. Als Backend-Support-Software ohne öffentliche Hosting-Fläche ist sie kein relevantes Ziel für Betrug oder Phishing. Alte verwundbare Versionen tauchten gelegentlich in CVE-Datenbanken auf, das ist jedoch ein Wartungsthema und kein gezielter Missbrauch."
   },
   "Hestia": {
-    "description": "Hestia ist ein modernes WordPress-Theme für Profis mit Mehrzweck-One-Page-Design, widgetisiertem Footer, Blog- beziehungsweise News-Seite und klarer Optik.",
+    "description": "Hestia ist ein modernes WordPress-Theme für Profis mit Mehrzweck-One-Page-Design, einem Footer mit Widget-Bereichen, Blog- beziehungsweise News-Seite und klarer Optik.",
     "history": "Hestia ist ein kostenloses WordPress-Theme von ThemeIsle, einem rumänischen Unternehmen für WordPress-Themes und -Plugins. Es wurde um 2016 als Mehrzweck-One-Page-Theme für WordPress veröffentlicht. ThemeIsle pflegt und aktualisiert es weiterhin.",
     "summary_abuse": "Hestia ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. Als Theme, das über WordPress.org und ThemeIsle verteilt wird, ist es ein normales Website-Template und nicht mit betrügerischer Aktivität verbunden."
   },
@@ -463,7 +463,7 @@
   },
   "HighStore": {
     "description": "HighStore ist eine E-Commerce-Plattform aus Iran.",
-    "history": "HighStore ist eine iranische E-Commerce-Plattform, die unter digitalserver.ir gehostet wird. Öffentlich ist nur wenig Geschichte verfügbar.",
+    "history": "HighStore ist eine iranische E-Commerce-Plattform, die unter digitalserver.ir gehostet wird. Über die Hintergründe des Unternehmens ist öffentlich nur wenig bekannt.",
     "summary_abuse": "HighStore ist eine Nischen-E-Commerce-Plattform aus Iran. Wegen der begrenzten öffentlichen Informationen und des Iran-basierten Hostings sind die Vertrauenssignale schwach, doch der Plattform werden keine konkreten dokumentierten Missbrauchskampagnen zugeschrieben."
   },
   "Hikari CS": {
@@ -542,7 +542,7 @@
   },
   "Hoiio": {
     "description": "Hoiio ist eine Cloud-Kommunikationsplattform, die Messaging, Voice und weitere Kommunikationsdienste einfacher einrichtbar macht.",
-    "history": "Hoiio wurde am 18. April 2007 in Singapur als Cloud-Kommunikations- und Telephony-API-Anbieter gegründet. Das Unternehmen expandierte regional nach Malaysia, Hongkong und Vietnam und lancierte 2012 seine Entwickler-API.",
+    "history": "Hoiio wurde am 18. April 2007 in Singapur als Anbieter von Cloud-Kommunikation und Telefonie-APIs gegründet. Das Unternehmen expandierte regional nach Malaysia, Hongkong und Vietnam und lancierte 2012 seine Entwickler-API.",
     "summary_abuse": "Hoiio ist eine Cloud-Kommunikations- und Voice-API-Plattform. Kommunikations-APIs können für SMS-Spam, Voice-Robocalls oder OTP-Bypass-Angriffe missbraucht werden, auch wenn keine spezifischen dokumentierten Kampagnen direkt auf Hoiio zielen. Legitime geschäftliche Nutzung dominiert."
   },
   "HoldMyTicket": {
@@ -829,7 +829,7 @@
     "summary_abuse": "HubSpot Cookie Policy Banner zeigt keine nennenswerten Missbrauchssignale. Es ist eine Compliance-Funktion der HubSpot-Plattform zur Einholung und Verwaltung von Cookie-Einwilligungen. Als Funktion eines grossen börsenkotierten Unternehmens mit sichtbarem Compliance- und Sicherheitsprogramm ist sie kein bekannter Vektor für Betrug oder Scams."
   },
   "HubSpot WordPress plugin": {
-    "description": "HubSpot ist eine Plattform mit Tools und Integrationen für Marketing, Vertrieb und Kundenservice. Das HubSpot WordPress plugin ermöglicht Kontaktverwaltung (CRM), Besucheransprache mit Live-Chat und Chatbots, schöne Formulare auf Seiten, E-Mail-Marketing-Kampagnen und mehr.",
+    "description": "HubSpot ist eine Plattform mit Tools und Integrationen für Marketing, Vertrieb und Kundenservice. Das WordPress-Plugin von HubSpot ermöglicht Kontaktverwaltung (CRM), Besucheransprache mit Live-Chat und Chatbots, das Einbinden ansprechender Formulare auf Seiten, E-Mail-Marketing-Kampagnen und mehr.",
     "history": "Das HubSpot WordPress plugin, ursprünglich Leadin genannt, wurde von HubSpot erstellt und im WordPress-Plugin-Verzeichnis veröffentlicht. HubSpot wurde 2006 von Brian Halligan und Dharmesh Shah gegründet und ging 2014 an die Börse. Das WordPress-Plugin dient als Integrationspunkt, der WordPress-Websites mit HubSpots CRM, Formularen, Live-Chat und Analytics-Tools verbindet.",
     "summary_abuse": "Das HubSpot WordPress plugin weist ein geringes Missbrauchssignal auf. Es ist ein offizielles Integrationsplugin eines börsenkotierten Unternehmens und verbindet WordPress mit HubSpot-CRM-Diensten. Das Plugin bettet HubSpot-Tracking-Code ein, der Besucherdaten sammelt. Das entspricht seinem erklärten Zweck, und HubSpot veröffentlicht GDPR DPA, SOC 2-Zertifizierung und eine AUP."
   },
@@ -871,7 +871,7 @@
   "HulkApps GDPR/CCPA Compliance Manager": {
     "description": "HulkApps GDPR/CCPA Compliance Manager ist eine Consent-Management-Lösung.",
     "history": "HulkApps GDPR/CCPA Compliance Manager ist eine Cookie-Consent- und Datenschutz-Compliance-App für Shopify-Shops, entwickelt von HulkApps, einer 2012 gegründeten Shopify-Expert-Agentur aus Chicago. Die App hilft Händlern, Cookie-Banner anzuzeigen und Einwilligungen gemäss GDPR und CCPA zu verwalten. Abgesehen von der allgemeinen Firmengeschichte von HulkApps sind keine nennenswerten Eigentümer- oder Rebranding-Ereignisse bekannt.",
-    "summary_abuse": "Dies ist ein Datenschutz-Compliance-Tool für Shopify-Händler ohne öffentliches Hosting oder Content-Oberfläche für Endnutzer. Es gibt keine dokumentierten Missbrauchssignale."
+    "summary_abuse": "Der HulkApps GDPR/CCPA Compliance Manager ist ein Datenschutz-Compliance-Tool für Shopify-Händler ohne öffentliches Hosting oder Content-Oberfläche für Endnutzer. Es gibt keine dokumentierten Missbrauchssignale."
   },
   "HulkApps Infinite Product Options": {
     "description": "HulkApps Infinite Product Options bietet unbegrenzte benutzerdefinierte Optionen für Produkte, darunter Varianten als Buttons, Farb- und Bild-Swatches und mehr.",
@@ -945,7 +945,7 @@
   },
   "HypeLab": {
     "description": "HypeLab ist eine Plattform, die Audience Development unterstützt, indem sie Sichtbarkeit erhöht, Wiedererkennung fördert und beim Aufbau einer loyalen Community hilft.",
-    "history": "HypeLab wurde 2022 in San Francisco von Edward Weng, früher PM bei Google AdMob, und Joseph Kim gegründet. Das Unternehmen nahm 4 Millionen Dollar Seed-Finanzierung unter Führung von Shima Capital und Makers Fund auf, um ein Web3-Krypto-Werbenetzwerk mit On-Chain-Wallet-aware Targeting aufzubauen.",
+    "history": "HypeLab wurde 2022 in San Francisco von Edward Weng, früher PM bei Google AdMob, und Joseph Kim gegründet. Das Unternehmen nahm 4 Millionen Dollar Seed-Finanzierung unter Führung von Shima Capital und Makers Fund auf, um ein Web3-Krypto-Werbenetzwerk aufzubauen, das Targeting auf Basis von On-Chain-Wallet-Daten einsetzt.",
     "summary_abuse": "HypeLab ist ein Krypto- und Web3-Werbenetzwerk. Krypto-Werbenetzwerke wurden mit der Verbreitung von Scam-ICO-, Rug-Pull- und Phishing-Anzeigen in Verbindung gebracht. Das Nutzertracking über On-Chain-Wallet-Daten wirft Datenschutzfragen auf. Zu den Kunden gehören legitime Web3-Projekte, aber der Krypto-Werbesektor hat insgesamt einen überdurchschnittlich hohen Anteil betrügerischer Werbekampagnen."
   },
   "Hypercloudhost": {

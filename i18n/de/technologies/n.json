@@ -45,7 +45,7 @@
     "summary_abuse": "Najva ist eine Plattform für Push-Benachrichtigungen und E-Mail-Marketing mit Schwerpunkt auf dem iranischen Markt. Als Massenkommunikationswerkzeug birgt sie das typische Risiko von Spam-Kampagnen, auch wenn keine konkreten gross angelegten Missbrauchsfälle bekannt sind. Der geografische Fokus auf Iran begrenzt die globale Missbrauchspräsenz."
   },
   "Namastay": {
-    "description": "Namastay ist eine optimierte Buchungsmaschine, die die Online-Gastreise vereinfacht und Direktbuchungen steigern soll.",
+    "description": "Namastay ist eine optimierte Buchungsmaschine, die den Online-Buchungsprozess für Gäste vereinfacht und Direktbuchungen steigern soll.",
     "history": "Namastay ist ein europäisches Startup für Hotelbuchungsmaschinen, das Gastgewerbebetrieben helfen will, mehr Direktbuchungen zu erzielen und die Abhängigkeit von OTAs (Online Travel Agencies) zu reduzieren. Die Gründung erfolgte um 2020.",
     "summary_abuse": "Namastay ist eine SaaS-Plattform für Hotelbuchungen. Es gibt kein auffälliges Missbrauchssignal."
   },
@@ -110,7 +110,7 @@
   },
   "Naver RUA": {
     "description": "Naver RUA (Real User Analytics) sammelt Performancedaten echter Nutzer, um die Geschwindigkeit deiner Website nach Land, Betriebssystem und Browser zu analysieren.",
-    "history": "Naver RUA (Real User Analytics) ist ein Performance-Monitoring-Dienst der Naver Corporation, der Website-Geschwindigkeit anhand realer Nutzersitzungen misst und nach Land, OS und Browser segmentiert. Der Dienst gehört zur breiteren Naver-Analytics-Suite.",
+    "history": "Naver RUA (Real User Analytics) ist ein Performance-Monitoring-Dienst der Naver Corporation, der Website-Geschwindigkeit anhand realer Nutzersitzungen misst und nach Land, OS und Browser segmentiert. Der Dienst ist Teil der umfassenderen Analytics-Suite von Naver.",
     "summary_abuse": "Naver RUA ist ein Real-User-Performance-Monitoring-Dienst der Naver Corporation. Es gibt kein auffälliges Missbrauchssignal."
   },
   "Navidium Shipping Protection": {
@@ -126,7 +126,7 @@
   "Navu": {
     "description": "Navu ist eine Plattform, die B2B-Websites mit KI durch gezielte Besucheransprache verbessert und so die Lead-Konversion durch personalisierte Interaktion steigern soll.",
     "history": "Navu wurde 2022 in Palo Alto, Kalifornien, als KI-gestützte Plattform für B2B-Website-Personalisierung und interaktiven Chat gegründet; sie bindet eine KI-Seitenleiste in Unternehmenswebsites ein, beantwortet Besucherfragen und führt Interessenten durch den Kaufprozess, mit Fokus auf B2B-Lead-Konversion.",
-    "summary_abuse": "Navu ist ein B2B-Werkzeug für Website-Personalisierung und KI-Chat ohne dokumentierte Missbrauchshistorie. Die Plattform wird von Unternehmen auf ihren eigenen Websites eingebettet und erlaubt keine anonyme Inhaltserstellung oder Hosting-Nutzung, was sie als Missbrauchsvektor unwahrscheinlich macht."
+    "summary_abuse": "Navu ist ein B2B-Werkzeug für Website-Personalisierung und KI-Chat ohne dokumentierte Missbrauchshistorie. Die Plattform wird von Unternehmen auf ihren eigenen Websites eingebettet und erlaubt keine anonyme Inhaltserstellung oder Hosting-Nutzung, was einen Missbrauch über diesen Kanal unwahrscheinlich macht."
   },
   "Neat A/B testing": {
     "description": "Neat A/B Testing ist eine von NeatShift entwickelte Shopify-App.",
@@ -174,8 +174,8 @@
     "summary_abuse": "NeoAsist ist eine brasilianische Kundenservice- und Live-Chat-Plattform. Es gibt kein auffälliges Missbrauchssignal."
   },
   "Neon CRM": {
-    "description": "Neon CRM, ein Unternehmen von Neon One, ist eine cloudbasierte Customer-Relationship-Management-Software-Suite (CRM) für Nonprofits jeder Grösse. Die Anwendungen umfassen Fundraising-Management, Spenderverwaltung, Mitgliederverwaltung, Event-Registrierung und -Management, angepasste Berichte und mehr.",
-    "history": "Neon One entstand 2018 durch die Zusammenführung von vier Nonprofit-Technologieunternehmen, unterstützt von FTV Capital, einer Growth-Equity-Firma. Das Unternehmen aus Chicago dient als Dach für eine Suite von Werkzeugen, darunter Neon CRM, eine Plattform für Fundraising- und Spenderverwaltung für Nonprofits, sowie Event-Management- und Mitgliedschaftswerkzeuge. Auch Blue Star Innovation Partners investierte in das Unternehmen.",
+    "description": "Neon CRM, ein Unternehmen von Neon One, ist eine cloudbasierte Customer-Relationship-Management-Software-Suite (CRM) für Nonprofits jeder Grösse. Die Anwendungen umfassen Fundraising-Management, Spenderverwaltung, Mitgliederverwaltung, Event-Registrierung und -Management, individuelle Berichte und mehr.",
+    "history": "Neon One entstand 2018 durch die Zusammenführung von vier Nonprofit-Technologieunternehmen, unterstützt von FTV Capital, einer Growth-Equity-Firma. Das Unternehmen aus Chicago fungiert als Dachorganisation für eine Reihe von Werkzeugen, darunter Neon CRM, eine Plattform für Fundraising- und Spenderverwaltung für Nonprofits, sowie Event-Management- und Mitgliedschaftswerkzeuge. Auch Blue Star Innovation Partners investierte in das Unternehmen.",
     "summary_abuse": "Neon CRM ist eine Plattform für Spender- und Fundraising-Management von Nonprofits ohne dokumentierte Missbrauchshistorie. Es ist ein zugangsbeschränktes B2B-Abonnementwerkzeug für registrierte Nonprofit-Organisationen, ohne anonymen Zugang oder verbraucherseitiges Content-Hosting, das Phishing oder Betrug anziehen würde."
   },
   "Neos CMS": {
@@ -207,12 +207,12 @@
   },
   "Nestify": {
     "description": "Nestify ist eine vollständig verwaltete WordPress-Hosting-Plattform, die auf AWS-Graviton-Prozessoren läuft.",
-    "history": "Nestify ist ein Managed-WordPress-Hosting-Dienst auf Basis von AWS-Graviton-Prozessoren, der um 2017 gegründet wurde und sich an WordPress-Site-Betreiber richtet, die Performance und verwalteten Support suchen.",
+    "history": "Nestify ist ein Managed-WordPress-Hosting-Dienst auf Basis von AWS-Graviton-Prozessoren, der um 2017 gegründet wurde und sich an WordPress-Site-Betreiber richtet, die Wert auf Performance und Managed Support legen.",
     "summary_abuse": "Nestify ist eine Managed-WordPress-Hosting-Plattform. Es gibt kein spezifisch auffälliges Missbrauchssignal, auch wenn Hosting-Plattformen allgemein zum Hosten bösartiger Inhalte genutzt werden können."
   },
   "NET-RESULTS": {
     "description": "NET-RESULTS ist eine Marketing-Automation-Plattform für datengetriebene Marketer.",
-    "history": "NET-RESULTS ist eine 2003 gegründete Marketing-Automation-Plattform für Mid-Market-Unternehmen mit Sitz in Denver, Colorado. Das Unternehmen hat ungefähr 20 Mitarbeitende und rund 3 Mio. USD Umsatz. Kürzlich wurde es in Paminga umbenannt. Grössere Übernahmen oder Eigentümerereignisse sind nicht dokumentiert.",
+    "history": "NET-RESULTS ist eine 2003 gegründete Marketing-Automation-Plattform für Mid-Market-Unternehmen mit Sitz in Denver, Colorado. Das Unternehmen hat ungefähr 20 Mitarbeitende und rund 3 Mio. USD Umsatz. Kürzlich wurde es in Paminga umbenannt. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "NET-RESULTS ist eine Marketing-Automation-Plattform für Massen-E-Mail-Kampagnen und Lead Scoring. Wie andere E-Mail-Marketing-Plattformen kann sie für Spam missbraucht werden. Es sind jedoch keine spezifischen dokumentierten Missbrauchsfälle mit der Plattform verbunden, und sie bedient eine B2B-Zielgruppe mit üblichen AUP-Bedingungen."
   },
   "Netcore Cloud": {
@@ -232,13 +232,13 @@
   },
   "Netlify": {
     "description": "Netlify bietet Hosting und serverlose Backend-Dienste für Webanwendungen und statische Websites.",
-    "history": "Netlify wurde 2014 von Mathias Biilmann und Chris Bach in San Francisco gegründet, um das JAMstack-Hosting-Modell für statische Sites und serverlose Apps voranzutreiben. Das Unternehmen erhielt umfangreiche VC-Finanzierung und wurde zur prägenden Plattform für modernes Frontend-Deployment. 2023 übernahm Netlify Gatsby Inc. und erweiterte damit seine Fähigkeiten im composable Web.",
+    "history": "Netlify wurde 2014 von Mathias Biilmann und Chris Bach in San Francisco gegründet, um das JAMstack-Hosting-Modell für statische Sites und serverlose Apps voranzutreiben. Das Unternehmen erhielt umfangreiche VC-Finanzierung und wurde zur prägenden Plattform für modernes Frontend-Deployment. 2023 übernahm Netlify Gatsby Inc. und erweiterte damit seine Fähigkeiten im Bereich Composable Web.",
     "summary_abuse": "Der Free Tier von Netlify mit Unterstützung für eigene Subdomains wurde von Sicherheitsforschern gelegentlich als Hosting-Ort für Phishing-Seiten dokumentiert, da Deployments sehr einfach sind. Netlify veröffentlicht eine AUP und reagiert auf Missbrauchsmeldungen, doch die offene Natur des Free Tier führt dazu, dass die Plattform in Threat-Intelligence-Feeds auftaucht. Missbrauch macht nur einen kleinen Teil der Gesamtnutzung aus, und der Anbieter reagiert in der Regel gut auf Takedown-Anfragen."
   },
   "Netlify Create": {
     "description": "Netlify Create, früher Stackbit, ist eine visuelle Experience-Plattform zum Erstellen entkoppelter Websites.",
-    "history": "Netlify Create hiess früher Stackbit und war ein unabhängiges visuelles Website-Editing-Werkzeug, das 2023 von Netlify übernommen wurde. Es bietet eine visuelle Bearbeitungserfahrung für Headless- und composable Website-Architekturen.",
-    "summary_abuse": "Netlify Create ist eine visuelle Web-Editing-Plattform für composable Architekturen. Es gibt kein auffälliges Missbrauchssignal."
+    "history": "Netlify Create hiess früher Stackbit und war ein unabhängiges visuelles Website-Editing-Werkzeug, das 2023 von Netlify übernommen wurde. Es bietet eine visuelle Bearbeitungsumgebung für Headless- und Composable-Website-Architekturen.",
+    "summary_abuse": "Netlify Create ist eine visuelle Web-Editing-Plattform für Composable-Architekturen. Es gibt kein auffälliges Missbrauchssignal."
   },
   "Netlify Forms": {
     "description": "Netlify Forms ist eine serverlose Formularverarbeitung für statische Websites.",
@@ -395,7 +395,7 @@
     "summary_abuse": "Nextsale stellt Social-Proof- und Dringlichkeits-Widgets bereit. Solche Werkzeuge können genutzt werden, um falsche Knappheit oder vorgetäuschten Social Proof zu erzeugen und Nutzer zu beeinflussen, was ein leichtes Dark-Pattern-Risiko darstellt. Für diesen Anbieter sind jedoch keine konkreten Missbrauchsfälle dokumentiert."
   },
   "NextUI": {
-    "description": "NextUI hilft beim Erstellen schöner, moderner und schneller Websites und Anwendungen unabhängig von der Designerfahrung, erstellt mit React.js und Stitches, basierend auf React Aria und inspiriert von Vuesax.",
+    "description": "NextUI wurde mit React.js und Stitches entwickelt, basiert auf React Aria und ist von Vuesax inspiriert. Die Bibliothek hilft beim Erstellen schöner, moderner und schneller Websites und Anwendungen, unabhängig von der eigenen Designerfahrung.",
     "history": "NextUI ist eine React-UI-Komponentenbibliothek, die um 2021 entstand und auf React Aria sowie Tailwind CSS aufbaut; sie bietet vorgefertigte, barrierearme Komponenten für React-Anwendungen. 2023 veröffentlichte das Projekt NextUI v2 und wechselte dabei von Stitches zu Tailwind CSS als Styling-Engine.",
     "summary_abuse": "NextUI zeigt kein auffälliges Missbrauchssignal. Es ist eine React-Komponentenbibliothek ohne Endnutzeroberfläche."
   },
@@ -630,7 +630,7 @@
   },
   "Northstar Club Management": {
     "description": "Northstar Club Management ist eine Plattform, die Mitgliedschaft, Buchhaltung, Reservationen, Veranstaltungen und Kommunikation integriert, um den täglichen Betrieb privater Clubs und Verbände zu vereinfachen.",
-    "history": "Northstar Club Management ist eine SaaS-Plattform für Clubverwaltung in privaten Clubs und Verbänden mit Mitgliedschafts-, Buchhaltungs- und Eventmanagement. Ein bedeutendes Gründungsjahr oder eine Eigentümergeschichte ist öffentlich nicht dokumentiert.",
+    "history": "Northstar Club Management ist eine SaaS-Plattform für Clubverwaltung in privaten Clubs und Verbänden mit Mitgliedschafts-, Buchhaltungs- und Eventmanagement. Weder ein Gründungsjahr noch eine Eigentümergeschichte sind öffentlich dokumentiert.",
     "summary_abuse": "Northstar Club Management zeigt kein auffälliges Missbrauchssignal. Es ist ein SaaS für den Betrieb privater Clubs ohne endnutzerorientierte Content-Hosting-Funktionen."
   },
   "Norton Shopping Guarantee": {
@@ -695,8 +695,8 @@
   },
   "Novel": {
     "description": "Novel ist eine Plattform, mit der Nutzer NFTs veröffentlichen und tokenbasierte Produkte, Inhalte und Rabatte in wenigen Minuten einrichten können.",
-    "history": "Novel ist eine Plattform für NFT-basierte token-gated Produkte und E-Commerce, die um 2021 während des NFT-Markthypes gestartet wurde. Bedeutende Eigentümerwechsel oder eine Unternehmensgeschichte sind nicht dokumentiert.",
-    "summary_abuse": "Novel ist im Bereich NFT und Token-Gating tätig, der historisch erhebliche Scam-Aktivität wie Rug Pulls und gefälschte NFT-Drops gesehen hat. Die Plattform selbst richtet sich an legitime Händler, doch das NFT-Ökosystem, an dem sie teilnimmt, trägt ein erhöhtes Betrugsrisiko. Für diesen Anbieter sind keine spezifischen dokumentierten Missbrauchsfälle bekannt."
+    "history": "Novel ist eine Plattform für E-Commerce und NFT-basierte Produkte mit Token-Gating, die um 2021 während des NFT-Markthypes gestartet wurde. Bedeutende Eigentümerwechsel oder eine Unternehmensgeschichte sind nicht dokumentiert.",
+    "summary_abuse": "Novel ist im Bereich NFT und Token-Gating tätig, in dem es historisch zu erheblicher Scam-Aktivität wie Rug Pulls und gefälschten NFT-Drops kam. Die Plattform selbst richtet sich an legitime Händler, doch das NFT-Ökosystem, an dem sie teilnimmt, trägt ein erhöhtes Betrugsrisiko. Für diesen Anbieter sind keine spezifischen dokumentierten Missbrauchsfälle bekannt."
   },
   "novomind iSHOP": {
     "description": "novomind iSHOP lässt sich schnell einführen, ist hoch skalierbar, bietet offene APIs, Headless E-Commerce und ist in der novomind Cloud GDPR-konform.",

@@ -125,7 +125,7 @@
   "Jenkins": {
     "description": "Jenkins ist ein in Java geschriebenes Open-Source-Automatisierungswerkzeug mit Plugins für Continuous Integration (CI).",
     "history": "Jenkins begann 2004 als Hudson, entwickelt von Kohsuke Kawaguchi bei Sun Microsystems als Continuous-Integration-Werkzeug. Nachdem Oracle Sun 2010 übernommen hatte und die Marke Hudson schützen wollte, forkten Community-Mitglieder das Projekt 2011 als Jenkins. Kawaguchi gründete InfraDNA, das mit CloudBees fusionierte, dem wichtigsten kommerziellen Unterstützer. Jenkins feierte 2024 sein 20-jähriges Bestehen und bleibt der am weitesten verbreitete CI/CD-Automatisierungsserver.",
-    "summary_abuse": "Jenkins ist selbst gehostete CI/CD-Software ohne SaaS-Oberfläche. Das wichtigste Missbrauchsrisiko sind Sicherheitslücken in exponierten Jenkins-Instanzen, die historisch für Cryptomining und laterale Bewegung ausgenutzt wurden. Veraltete, öffentlich erreichbare Instanzen sind ein bekanntes Ziel. Das Projekt hat ein aktives Security-Team und veröffentlicht regelmässig CVE-Patches."
+    "summary_abuse": "Jenkins ist selbst gehostete CI/CD-Software ohne SaaS-Angebot. Das wichtigste Missbrauchsrisiko sind Sicherheitslücken in exponierten Jenkins-Instanzen, die historisch für Cryptomining und laterale Bewegung ausgenutzt wurden. Veraltete, öffentlich erreichbare Instanzen sind ein bekanntes Ziel. Das Projekt hat ein aktives Security-Team und veröffentlicht regelmässig CVE-Patches."
   },
   "Jenny": {
     "description": "Jenny ist eine Chatbot-Plattform für den Kundendienst.",
@@ -202,7 +202,7 @@
   "Jitsi": {
     "description": "Jitsi ist eine freie und Open-Source-Suite für plattformübergreifende Sprache (VoIP), Videokonferenzen und Instant Messaging im Web.",
     "history": "Jitsi begann 2003 an der Universität Strassburg als SIP Communicator von Emil Ivov. 2011 erfolgte die Umbenennung in Jitsi. 2013 wurde Jitsi Videobridge eingeführt und brachte WebRTC-Mehrparteienvideo. Atlassian übernahm Jitsi 2015, und 8x8 kaufte es im Oktober 2018 von Atlassian, wobei es Open Source blieb. 8x8 bietet Jitsi als Enterprise-Produkt Jitsi as a Service (JaaS) an.",
-    "summary_abuse": "Jitsi Meet wird gelegentlich für unautorisierte Meetings oder datenschutzinvasive Konferenzen genutzt, da anonymer Zugriff standardmässig möglich ist. Durch den selbst gehosteten Charakter kann jede Partei einen Jitsi-Server mit unterschiedlichen Sicherheitsrichtlinien betreiben. Meet.jit.si, die öffentliche Instanz, hatte ähnliche Meeting-Bombing-Vorfälle wie Zoom. Der von 8x8 gehostete Dienst hat übliche Missbrauchskontrollen."
+    "summary_abuse": "Jitsi Meet wird gelegentlich für unautorisierte Meetings oder datenschutzproblematische Konferenzen genutzt, da anonymer Zugriff standardmässig möglich ist. Durch den selbst gehosteten Charakter kann jede Partei einen Jitsi-Server mit unterschiedlichen Sicherheitsrichtlinien betreiben. Meet.jit.si, die öffentliche Instanz, hatte ähnliche Meeting-Bombing-Vorfälle wie Zoom. Der von 8x8 gehostete Dienst hat übliche Missbrauchskontrollen."
   },
   "Jive": {
     "history": "Jive Software wurde 2001 von Matt Tucker und Bill Lynch als soziale Enterprise-Collaboration-Plattform gegründet. Im Dezember 2011 ging das Unternehmen an die NASDAQ und nahm 161.3 Millionen US-Dollar ein. Nachdem das Wachstum ins Stocken geriet, wurde Jive im Juni 2017 für 462 Millionen US-Dollar von Aurea Software aus ESW Capital übernommen. Aurea pflegt das Produkt für bestehende Enterprise-Kunden weiter.",
@@ -216,7 +216,7 @@
   "Jivox": {
     "description": "Jivox ist eine cloudbasierte, datengetriebene Plattform für personalisierte digitale Werbung und Marketing-Erlebnisse in grossem Massstab.",
     "history": "Jivox wurde 2009 in San Mateo, Kalifornien, gegründet, um Dynamic Creative Optimization (DCO) und personalisierte Werbung anzubieten. 2024 benannte das Unternehmen sein Kernangebot in DaVinci um und konzentrierte sich auf KI-gestützte Commerce-Media-Kampagnen. Zu den Enterprise-Kunden zählen Marken wie Marriott, Toyota, Sony und Pepsi.",
-    "summary_abuse": "Jivox ist eine Plattform für Werbepersonalisierung und Dynamic Creative Optimization. Als Ad-Tech-Werkzeug, das über viele Websites hinweg arbeitet, beinhaltet es von Natur aus intensives Nutzertracking und Profiling. Die Plattform wird für zielgerichtete Werbung eingesetzt, was Datenschutzbedenken auslöst, auch wenn sie sich an Enterprise-Kunden mit Compliance-Anforderungen richtet."
+    "summary_abuse": "Jivox ist eine Plattform für Werbepersonalisierung und Dynamic Creative Optimization. Als Ad-Tech-Werkzeug, das über viele Websites hinweg arbeitet, geht es zwangsläufig mit intensivem Nutzertracking und Profiling einher. Die Plattform wird für zielgerichtete Werbung eingesetzt, was Datenschutzbedenken auslöst, auch wenn sie sich an Enterprise-Kunden mit Compliance-Anforderungen richtet."
   },
   "Job Board Fire": {
     "description": "JobBoardFire ist eine Plattform mit Software für den Betrieb von Jobbörsen, die Unternehmer und Community-Mitglieder verbindet.",
@@ -384,8 +384,8 @@
   },
   "JSEcoin": {
     "description": "JSEcoin ist eine Möglichkeit, Kryptowährung zu minen, Zahlungen für Waren oder Dienstleistungen zu erhalten und Kryptowährung zu übertragen.",
-    "history": "JSEcoin startete um 2017 bis 2018 als browserbasierter JavaScript-Dienst für Kryptowährungs-Mining und wurde als alternative Monetarisierungsmethode für Websites vermarktet. Websites konnten CPU-Zyklen von Besuchern nutzen, um JSEcoin-Token statt oder zusätzlich zu Werbung zu minen. Das Projekt litt unter dem Einbruch des Kryptomarkts 2018 bis 2019, und die Gründer veröffentlichten 2020 eine Schliessungsmitteilung, in der sie fehlende Finanzierung und COVID-19 als Grund für unmöglich gewordenes Fundraising nannten. Der Dienst ist heute eingestellt und die Website inaktiv.",
-    "summary_abuse": "JSEcoin war ein an Cryptojacking angrenzender Dienst, der JavaScript-basierte Mining-Skripte zum Einbetten in Websites bereitstellte und CPU-Ressourcen von Besuchern verbrauchte. Diese Technologiekategorie ist grundsätzlich missbrauchsanfällig: Besucher stimmten typischerweise nicht ausdrücklich zu, dass ihre Geräte fürs Mining genutzt werden, und viele Einsätze waren verdecktes Cryptojacking. Der Dienst wurde von Browser-Sicherheitswerkzeugen und Ad-Blockern als Cryptominer eingestuft. Selbst in der als legitim vermarkteten Form war fehlende transparente Nutzereinwilligung ein Datenschutz- und Missbrauchsproblem. Der Dienst ist inzwischen aufgegeben und eingestellt, eingebettete Skripte können aber auf älteren oder vernachlässigten Websites weiterbestehen."
+    "history": "JSEcoin startete um 2017 bis 2018 als browserbasierter JavaScript-Dienst für Kryptowährungs-Mining und wurde als alternative Monetarisierungsmethode für Websites vermarktet. Websites konnten CPU-Zyklen von Besuchern nutzen, um JSEcoin-Token statt oder zusätzlich zu Werbung zu minen. Das Projekt litt unter dem Einbruch des Kryptomarkts 2018 bis 2019, und die Gründer veröffentlichten 2020 eine Schliessungsmitteilung, in der sie erklärten, dass sich keine Finanzierung mehr auftreiben liess und COVID-19 eine Kapitalaufnahme verunmöglicht habe. Der Dienst ist heute eingestellt und die Website inaktiv.",
+    "summary_abuse": "JSEcoin war ein Dienst an der Grenze zum Cryptojacking, der JavaScript-basierte Mining-Skripte zum Einbetten in Websites bereitstellte und CPU-Ressourcen von Besuchern verbrauchte. Diese Technologiekategorie ist grundsätzlich missbrauchsanfällig: Besucher stimmten typischerweise nicht ausdrücklich zu, dass ihre Geräte fürs Mining genutzt werden, und viele Einsätze waren verdecktes Cryptojacking. Der Dienst wurde von Browser-Sicherheitswerkzeugen und Ad-Blockern als Cryptominer eingestuft. Selbst in der als legitim vermarkteten Form war fehlende transparente Nutzereinwilligung ein Datenschutz- und Missbrauchsproblem. Der Dienst ist inzwischen aufgegeben und eingestellt, eingebettete Skripte können aber auf älteren oder vernachlässigten Websites weiterbestehen."
   },
   "JShop": {
     "description": "JShop ist die von Whorl Ltd. weltweit vermarktete E-Commerce-Datenbanklösung.",
@@ -483,8 +483,8 @@
     "summary_abuse": "Keine Missbrauchsgeschichte. Junip ist eine gut bewertete Shopify-Review-App mit hohen Händlerbewertungen. Datenschutz- oder Sicherheitsvorfälle sind nicht gemeldet."
   },
   "Juo": {
-    "description": "Juo ist eine zentralisierte Experimentierplattform für innovative Marketing- und Produktteams.",
-    "history": "Juo wurde 2018 gegründet und hat seinen Sitz in Wroclaw, Polen. Das Unternehmen bietet eine zentralisierte Experimentier- und A/B-Testing-Plattform für Marketing- und Produktteams im E-Commerce. 2024 nahm es Seed-Finanzierung auf, unter anderem von SMOK Ventures. Die Plattform unterstützt lokale europäische Zahlungsmethoden wie SEPA, BLIK und iDEAL. Grössere Übernahmen sind nicht verzeichnet.",
+    "description": "Juo ist eine zentrale Experimentierplattform für innovative Marketing- und Produktteams.",
+    "history": "Juo wurde 2018 gegründet und hat seinen Sitz in Wroclaw, Polen. Das Unternehmen bietet eine zentrale Experimentier- und A/B-Testing-Plattform für Marketing- und Produktteams im E-Commerce. 2024 nahm es Seed-Finanzierung auf, unter anderem von SMOK Ventures. Die Plattform unterstützt lokale europäische Zahlungsmethoden wie SEPA, BLIK und iDEAL. Grössere Übernahmen sind nicht verzeichnet.",
     "summary_abuse": "Juo ist eine B2B-Plattform für A/B Testing und Experimente ohne dokumentiertes Missbrauchssignal. Das auf Unternehmen ausgerichtete SaaS-Modell und die notwendige legitime E-Commerce-Integration führen dazu, dass die Plattform nicht mit Phishing oder verbrauchergerichtetem Betrug verbunden ist."
   },
   "Juphy": {
@@ -505,7 +505,7 @@
   "Justia": {
     "description": "Justia ist ein auf Anwälte ausgerichtetes Content-Management-System (CMS).",
     "history": "Justia wurde 2003 von Tim Stanley gegründet, einem früheren Mitgründer von FindLaw. Der Hauptsitz liegt in Mountain View, Kalifornien, mit Aktivitäten in Saltillo, Mexiko. Justia stellt kostenlose Rechtsinformationen, Rechtsprechung und Anwaltsverzeichnisse bereit. 2007 gab das Unternehmen monatlich 10'000 US-Dollar aus, um Dokumente des Supreme Court für freien öffentlichen Zugang zu kopieren.",
-    "summary_abuse": "Keine Missbrauchsgeschichte. Justia ist eine angesehene kostenlose Rechtsinformationsseite, gegründet von einem FindLaw-Veteranen. Die Mission ist, Recht zugänglich zu machen. Wesentliche Bedenken beim Umgang mit Daten sind nicht bekannt."
+    "summary_abuse": "Keine Missbrauchsgeschichte. Justia ist eine angesehene kostenlose Rechtsinformationsseite, gegründet von einem FindLaw-Veteranen. Die Mission ist, Recht zugänglich zu machen. Wesentliche Datenschutzbedenken sind nicht bekannt."
   },
   "Justo": {
     "description": "Justo ist eine abonnementbasierte Software, mit der jeder einen Onlineshop einrichten und Produkte mit Lieferoptionen verkaufen kann.",

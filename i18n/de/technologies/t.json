@@ -126,7 +126,7 @@
   },
   "Tagshop": {
     "description": "Tagshop ist eine Plattform, mit der E-Commerce-Marken nutzergenerierte Inhalte auf Produktseiten, in Social Ads und in E-Mails erstellen, sammeln und integrieren können, um den Umsatz zu steigern.",
-    "history": "Tagshop ist eine KI-gestützte SaaS für shoppable Content, die Social Content und UGC in E-Commerce-Storefronts integriert. Ein Gründungsdatum oder eine Eigentümergeschichte ist öffentlich nicht dokumentiert.",
+    "history": "Tagshop ist eine KI-gestützte SaaS-Plattform, die Social-Media-Inhalte und UGC als direkt kaufbare Inhalte in E-Commerce-Storefronts integriert. Ein Gründungsdatum oder eine Eigentümergeschichte ist öffentlich nicht dokumentiert.",
     "summary_abuse": "Tagshop ist eine Plattform für shoppable Social Content ohne auffälliges Missbrauchssignal. E-Commerce-Marken nutzen sie zur Anzeige von UGC-Produktinhalten, ohne dokumentierte Beteiligung an Betrug."
   },
   "Tagtoo": {
@@ -157,7 +157,7 @@
   "TakeTheme": {
     "description": "TakeTheme ist eine Plattform, mit der Nutzer Onlineshops erstellen, Produkte hinzufügen und Verkäufe verwalten können.",
     "history": "TakeTheme ist eine ägyptische E-Commerce-SaaS-Plattform für Händler in Ägypten und der Golfregion; sie bietet provisionsfreie Onlineshop-Erstellung mit integrierten Zahlungs-Gateways und Versandfunktionen.",
-    "summary_abuse": "TakeTheme ist eine regionale E-Commerce-Plattform, die hauptsächlich ägyptische Märkte und die Golfregion bedient; sie ermöglicht Händlern, Online-Storefronts zu erstellen, was ein geringes, aber nicht null Risiko gefälschter Shops mit sich bringt. Öffentlich sind keine dokumentierten Missbrauchsfälle bekannt, und der begrenzte geografische Umfang senkt die Gesamtexposition."
+    "summary_abuse": "TakeTheme ist eine regionale E-Commerce-Plattform, die hauptsächlich ägyptische Märkte und die Golfregion bedient; sie ermöglicht Händlern, Online-Storefronts zu erstellen, was ein geringes, aber nicht zu vernachlässigendes Risiko gefälschter Shops mit sich bringt. Öffentlich sind keine dokumentierten Missbrauchsfälle bekannt, und der begrenzte geografische Umfang senkt die Gesamtexposition."
   },
   "Talent Clue": {
     "description": "Talent Clue ist ein Inbound-Recruiting-Tool, das Organisationen hilft, mit Top-Talenten in Kontakt zu treten.",
@@ -215,7 +215,7 @@
     "summary_abuse": "Tallentor Widget ist ein einbettbares Analytics-Widget ohne auffälliges Missbrauchssignal. Es ist eine passive Datenerfassungskomponente ohne Funktionen, die für Phishing- oder Betrugsakteure attraktiv wären."
   },
   "Tally": {
-    "description": "Tally ist ein besonders einfacher Weg, kostenlose Formulare und Umfragen zu erstellen. Du kannst jede Art von Formular in Sekunden erstellen, ohne Programmierkenntnisse und kostenlos.",
+    "description": "Mit Tally lassen sich kostenlose Formulare und Umfragen besonders einfach erstellen. Jede Art von Formular ist in wenigen Sekunden angelegt, ohne Programmierkenntnisse und kostenlos.",
     "history": "Tally wurde 2020 in Belgien von Filip Minev und Marie Martens als einfacher, kostenloser Formular-Builder gegründet. Es wuchs schnell als Alternative zu Typeform und Google Forms. Grössere Eigentümerwechsel gab es nicht.",
     "summary_abuse": "Tally ist ein Formular-Builder mit einer Gratisstufe, die keine eigenen Domains erfordert. Wie alle Formular-Builder könnte er theoretisch zur Erstellung von Phishing-Formularen genutzt werden, die Gratisstufe ist jedoch vergleichsweise eingeschränkt und es ist kein dokumentiertes grossflächiges Missbrauchsmuster bekannt."
   },
@@ -240,7 +240,7 @@
     "summary_abuse": "Tangled Network ist ein Anbieter für betreute Web- und Datendienste ohne auffälliges Missbrauchssignal. Er arbeitet als B2B-Dienst ohne dokumentierte Beteiligung an Phishing oder Betrug."
   },
   "TanStack": {
-    "description": "TanStack ist eine Sammlung headless JavaScript-Bibliotheken zum Bau von Webanwendungsfunktionen wie Data Fetching, Tabellen, Routing, Virtualisierung und State Management.",
+    "description": "TanStack ist eine Sammlung von Headless-JavaScript-Bibliotheken für Webanwendungsfunktionen wie Data Fetching, Tabellen, Routing, Virtualisierung und State Management.",
     "history": "TanStack wurde von Tanner Linsley geschaffen, beginnend mit TanStack Query (React Query) um 2019 bis 2020, das zu einer der beliebtesten React-Bibliotheken für Data Fetching wurde. Das Projekt wuchs um TanStack Table, Router, Form und weitere headless Utilities, alle unter MIT-Lizenz.",
     "summary_abuse": "TanStack zeigt kein auffälliges Missbrauchssignal. Es ist eine Sammlung von Open-Source-Headless-JavaScript-Bibliotheken für UI-Entwicklung."
   },
@@ -421,7 +421,7 @@
   "Tebex": {
     "description": "Tebex ist auf Commerce-Lösungen für Online-Spiele spezialisiert.",
     "history": "Tebex wurde um 2011 ursprünglich als Buycraft gegründet, als Monetarisierungsplattform für Minecraft-Server. Später entwickelte es sich zu einer umfassenden Game-Commerce-Plattform für grosse Spielestudios wie Rockstar, Take Two Interactive und Hypixel. Das Unternehmen wurde von Overwolf übernommen und von Buycraft in Tebex umbenannt. Heute verarbeitet Tebex jährlich Transaktionen in Milliardenhöhe, hat Büros in den USA, Grossbritannien und Singapur und bietet Merchant-of-Record-Dienste für Zahlungen, Steuern, Betrugsprävention und Compliance.",
-    "summary_abuse": "Tebex ist eine Game-Commerce-Plattform für grosse Studios wie Rockstar und Take Two; sie verlangt eine Kontoregistrierung und unterliegt einer detaillierten Acceptable Use Policy, die Glücksspiel, Lootboxes, gefälschte Spenden und spielunabhängige Artikel verbietet. Die Durchsetzung umfasst unter anderem das Deaktivieren von Shops und das Einfrieren von Geldern. Die Plattform verfügt über eine AML and Sanctions Compliance Policy und ISO-Zertifizierung. Obwohl Monetarisierungsplattformen für Games mit glücksspielähnlichen Mechaniken verbunden sein können, verbietet Tebex solche Nutzung aktiv. Über allgemeine Risiken im Gaming-Commerce hinaus sind keine auffälligen öffentlichen Missbrauchsfälle bekannt."
+    "summary_abuse": "Tebex ist eine Game-Commerce-Plattform für grosse Studios wie Rockstar und Take Two; sie verlangt eine Kontoregistrierung und unterliegt einer detaillierten Acceptable Use Policy, die Glücksspiel, Lootboxes, gefälschte Spenden und spielunabhängige Artikel verbietet. Die Durchsetzung umfasst unter anderem das Deaktivieren von Shops und das Einfrieren von Geldern. Die Plattform verfügt über eine Compliance-Richtlinie zu Geldwäschebekämpfung (AML) und Sanktionen sowie über eine ISO-Zertifizierung. Obwohl Monetarisierungsplattformen für Games mit glücksspielähnlichen Mechaniken verbunden sein können, verbietet Tebex solche Nutzung aktiv. Über allgemeine Risiken im Gaming-Commerce hinaus sind keine auffälligen öffentlichen Missbrauchsfälle bekannt."
   },
   "Tebra": {
     "description": "Tebra ist eine All-in-one-EHR-Lösung, die Praxisabläufe vereinfacht, die Patientenversorgung verbessert und die finanzielle Leistung unterstützt.",
@@ -747,192 +747,192 @@
   "Themegraphy Graphy": {
     "description": "Themegraphy Graphy ist ein auf Blogs ausgerichtetes WordPress-Theme, das mit WordPress 5.0 und Gutenberg kompatibel ist.",
     "history": "Graphy ist ein Gutenberg-kompatibles WordPress-Theme für Blogs von Themegraphy. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Themegraphy Graphy ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
+    "summary_abuse": "Themegraphy Graphy ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
   },
   "ThemeGrill Accelerate": {
     "description": "ThemeGrill Accelerate ist ein kostenloses, minimalistisches WordPress-Theme.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeGrill Cenote": {
     "description": "ThemeGrill Cenote ist ein kreatives WordPress-Theme für Blogs, voll kompatibel mit WooCommerce und beliebten Page Buildern.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeGrill ColorMag": {
     "description": "ThemeGrill ColorMag ist ein sehr verbreitetes WordPress-Theme im Magazin- und Zeitungsstil.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeGrill eStore": {
     "description": "ThemeGrill eStore ist eines der beliebtesten WordPress-Themes mit WooCommerce-Integration.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeGrill Flash": {
     "description": "ThemeGrill Flash ist eines der flexibelsten Mehrzweck-Themes für WordPress.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeGrill Radiate": {
     "description": "ThemeGrill Radiate ist ein schlichtes, minimalistisches WordPress-Theme mit Fokus auf Blogging.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeGrill Spacious": {
     "description": "ThemeGrill Spacious ist ein responsives WordPress-Theme für kleine und mittlere Unternehmen.",
     "history": "Dies ist ein WordPress-Theme von ThemeGrill, einem WordPress-Theme-Anbieter aus Nepal, der um 2014 gegründet wurde. ThemeGrill vertreibt kostenlose und kostenpflichtige Themes über WordPress.org und die eigene Website.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeGrill. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeIsle Menu Icons": {
-    "description": "Das ThemeIsle Menu Icons Plugin ermöglicht es, Menueinträgen Icons hinzuzufuegen, ähnlich wie im aktuellen Dashboard-Menue.",
-    "history": "Menu Icons ist ein kostenloses WordPress-Plugin von ThemeIsle, einem rumaenischen WordPress-Unternehmen. Es erweitert WordPress-Navigationsmenues um Icon-Unterstützung und wird über das Plugin-Verzeichnis von WordPress.org vertrieben.",
-    "summary_abuse": "Menu Icons ist ein WordPress-Plugin für dekorative Icons in Navigationsmenues. Als selbst gehostetes WordPress-Plugin ohne Netzwerk- oder Content-Hosting-Funktionen hat es kein auffaelliges Missbrauchssignal."
+    "description": "Das ThemeIsle Menu Icons Plugin ermöglicht es, Menüeinträgen Icons hinzuzufügen, ähnlich wie im aktuellen Dashboard-Menü.",
+    "history": "Menu Icons ist ein kostenloses WordPress-Plugin von ThemeIsle, einem rumänischen WordPress-Unternehmen. Es erweitert WordPress-Navigationsmenüs um Icon-Unterstützung und wird über das Plugin-Verzeichnis von WordPress.org vertrieben.",
+    "summary_abuse": "Menu Icons ist ein WordPress-Plugin für dekorative Icons in Navigationsmenüs. Als selbst gehostetes WordPress-Plugin ohne Netzwerk- oder Content-Hosting-Funktionen hat es kein auffälliges Missbrauchssignal."
   },
   "Themes4Wp Bulk": {
     "description": "Themes4Wp Bulk ist ein modernes, responsives Mehrzweck-Theme für WordPress.",
     "history": "Bulk ist ein modernes Mehrzweck-Theme für WordPress von Themes4Wp. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Themes4Wp Bulk ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
+    "summary_abuse": "Themes4Wp Bulk ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
   },
   "ThemeZee Donovan": {
     "description": "ThemeZee Donovan ist ein flexibles und zugleich einfach nutzbares WordPress-Theme für Blogs.",
     "history": "Dies ist ein WordPress-Theme von ThemeZee, einem kleinen unabhängigen WordPress-Theme-Anbieter. ThemeZee vertreibt kostenlose und kostenpflichtige Themes über WordPress.org.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeZee. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeZee. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeZee Poseidon": {
     "description": "ThemeZee Poseidon ist ein elegant gestaltetes WordPress-Theme mit grossflächiger Bild-Slideshow.",
     "history": "Dies ist ein WordPress-Theme von ThemeZee, einem kleinen unabhängigen WordPress-Theme-Anbieter. ThemeZee vertreibt kostenlose und kostenpflichtige Themes über WordPress.org.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeZee. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeZee. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemeZee Wellington": {
     "description": "Wellington ist ein klares und schlichtes WordPress-Theme im Magazinstil von ThemeZee.",
     "history": "Dies ist ein WordPress-Theme von ThemeZee, einem kleinen unabhängigen WordPress-Theme-Anbieter. ThemeZee vertreibt kostenlose und kostenpflichtige Themes über WordPress.org.",
-    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeZee. Als selbst gehostetes WordPress-Theme hat es kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Dies ist ein WordPress-Theme von ThemeZee. Als selbst gehostetes WordPress-Theme hat es kein auffälliges Missbrauchssignal."
   },
   "ThemezHut Bam": {
     "description": "ThemezHut Bam ist ein flexibles WordPress-Theme für Blog-Websites.",
     "history": "Bam ist ein flexibles WordPress-Theme für Blogs von ThemezHut. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "ThemezHut Bam ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
+    "summary_abuse": "ThemezHut Bam ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
   },
   "ThemezHut HitMag": {
     "description": "ThemezHut HitMag ist ein stilvolles und leistungsfähiges WordPress-Theme für Magazine, Zeitungen und persönliche Blogs.",
     "history": "HitMag ist ein WordPress-Theme im Magazinstil von ThemezHut. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "ThemezHut HitMag ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
+    "summary_abuse": "ThemezHut HitMag ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
   },
   "Themify Builder": {
     "description": "Themify Builder ist ein Plugin, mit dem Nutzer komplexe Layouts und Designs per Drag-and-drop aus Seitenelementen erstellen können.",
-    "history": "Themify Builder ist ein Drag-and-drop Page-Builder-Plugin für WordPress, das Themify um 2010 entwickelte. Es gehoert zu den frühen kommerziellen WordPress-Page-Buildern und wird seither kontinuierlich gepflegt. Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Themify Builder ist ein selbst gehostetes WordPress-Plugin für Page Building ohne auffaelliges Missbrauchssignal. Es ist ein Werkzeug zur Inhaltsbearbeitung und bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
+    "history": "Themify Builder ist ein Drag-and-drop Page-Builder-Plugin für WordPress, das Themify um 2010 entwickelte. Es gehört zu den frühen kommerziellen WordPress-Page-Buildern und wird seither kontinuierlich gepflegt. Nennenswerte Eigentümerwechsel gibt es nicht.",
+    "summary_abuse": "Themify Builder ist ein selbst gehostetes WordPress-Plugin für Page Building ohne auffälliges Missbrauchssignal. Es ist ein Werkzeug zur Inhaltsbearbeitung und bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
   },
   "Themonic Iconic One": {
-    "description": "Themonic Iconic One ist ein hochwertiges WordPress-Theme mit praeziser Typografie, responsivem Design und Fokus auf Geschwindigkeit.",
+    "description": "Themonic Iconic One ist ein hochwertiges WordPress-Theme mit präziser Typografie, responsivem Design und Fokus auf Geschwindigkeit.",
     "history": "Iconic One ist ein Premium-WordPress-Theme von Themonic mit Schwerpunkt auf klarer Typografie. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Themonic Iconic One ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
+    "summary_abuse": "Themonic Iconic One ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. WordPress-Themes werden selbst gehostet und bieten keine verbrauchernahe Fläche, die typischerweise Phishing oder Betrug anzieht."
   },
   "thera-LINK": {
     "description": "thera-LINK ist eine Telehealth-Videoplattform für sichere virtuelle Sitzungen zwischen Fachpersonen für psychische Gesundheit und Klienten.",
     "history": "thera-LINK ist eine Telehealth-Videoplattform, mit der Fachpersonen für psychische Gesundheit sichere virtuelle Therapiesitzungen durchführen können. Die HIPAA-konforme Videokonferenzplattform richtet sich an Therapeuten und Berater.",
-    "summary_abuse": "thera-LINK ist eine HIPAA-konforme Telehealth-Plattform für lizenzierte Therapeuten ohne auffaelliges Missbrauchssignal. Für die Kontoerstellung ist eine berufliche Zulassung erforderlich, und es gibt keine offene Registrierung, die Betrüger anziehen wuerde."
+    "summary_abuse": "thera-LINK ist eine HIPAA-konforme Telehealth-Plattform für lizenzierte Therapeuten ohne auffälliges Missbrauchssignal. Für die Kontoerstellung ist eine berufliche Zulassung erforderlich, und es gibt keine offene Registrierung, die Betrüger anziehen würde."
   },
   "Thesis": {
     "description": "Thesis ist ein Unternehmen für Conversion-Rate-Optimierung.",
     "history": "Thesis ist eine Plattform für Conversion-Rate-Optimierung (CRO). Das Unternehmen arbeitet als Full-Service-CRO-Anbieter mit Tools für A/B-Tests und Experimente. Eine detaillierte Gründungsgeschichte ist öffentlich nicht dokumentiert.",
-    "summary_abuse": "Thesis ist eine CRO- und A/B-Testing-Plattform für Unternehmenskunden. Im B2B-Kontext von Beratung und Analytics zeigt sie kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Thesis ist eine CRO- und A/B-Testing-Plattform für Unternehmenskunden. Im B2B-Kontext von Beratung und Analytics zeigt sie kein auffälliges Missbrauchssignal."
   },
   "theTradeDesk": {
-    "description": "theTradeDesk ist ein Technologieunternehmen mit einer Softwareplattform, über die digitale Werbeeinkaeufer datengetriebene Kampagnen über verschiedene Anzeigenformate und Geräte hinweg buchen können.",
-    "history": "The Trade Desk wurde 2009 von Jeff Green und David Pickles als Programmatic-Advertising-Plattform gegründet, mit der digitale Werbeeinkaeufer Kampagnen über mehrere Ad Exchanges steuern können. Im September 2016 ging das Unternehmen unter dem Ticker TTD an die Nasdaq und wurde zur groessten unabhängigen DSP (Demand-Side Platform) der Werbebranche.",
-    "summary_abuse": "The Trade Desk ist eine grosse Programmatic-Advertising-Plattform, die nutzerübergreifendes Webtracking für Werbezielgruppen ermöglicht. Dadurch faellt sie in die Kategorie starkes Tracking, auch wenn sie von legitimen Werbekunden genutzt wird; sie ist bei wichtigen Privacy Frameworks registriert. Die Technologie erlaubt websiteübergreifendes Verhaltenstracking, was ein Datenschutzrisiko darstellt, aber keinen Betrug."
+    "description": "theTradeDesk ist ein Technologieunternehmen mit einer Softwareplattform, über die digitale Werbeeinkäufer datengetriebene Kampagnen über verschiedene Anzeigenformate und Geräte hinweg buchen können.",
+    "history": "The Trade Desk wurde 2009 von Jeff Green und David Pickles als Programmatic-Advertising-Plattform gegründet, mit der digitale Werbeeinkäufer Kampagnen über mehrere Ad Exchanges steuern können. Im September 2016 ging das Unternehmen unter dem Ticker TTD an die Nasdaq und wurde zur grössten unabhängigen DSP (Demand-Side Platform) der Werbebranche.",
+    "summary_abuse": "The Trade Desk ist eine grosse Programmatic-Advertising-Plattform, die nutzerübergreifendes Webtracking für Werbezielgruppen ermöglicht. Dadurch fällt sie in die Kategorie starkes Tracking, auch wenn sie von legitimen Werbekunden genutzt wird; sie ist bei wichtigen Privacy Frameworks registriert. Die Technologie erlaubt websiteübergreifendes Verhaltenstracking, was ein Datenschutzrisiko darstellt, aber keinen Betrug."
   },
   "THG Ingenuity": {
     "description": "THG Ingenuity verbindet eine Peer-to-Peer-E-Commerce-Retailer-Rolle mit Dienstleistungen für globale, grenzüberschreitende Commerce-Aktivitäten.",
-    "history": "THG Ingenuity ist die Technologie- und E-Commerce-Servicesparte von THG (The Hut Group), einem boersenkotierten britischen Unternehmen, das 2004 gegründet wurde; sie bietet E-Commerce-Plattform- und Fulfilment-Dienste für Consumer Brands. THG ging 2020 an die London Stock Exchange.",
-    "summary_abuse": "THG Ingenuity hat kein auffaelliges Missbrauchssignal. Es ist eine Enterprise-E-Commerce-Plattform für etablierte Marken, ohne dokumentierte Ausnutzung für Betrug."
+    "history": "THG Ingenuity ist die Technologie- und E-Commerce-Servicesparte von THG (The Hut Group), einem börsenkotierten britischen Unternehmen, das 2004 gegründet wurde; sie bietet E-Commerce-Plattform- und Fulfilment-Dienste für Consumer Brands. THG ging 2020 an die London Stock Exchange.",
+    "summary_abuse": "THG Ingenuity hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-E-Commerce-Plattform für etablierte Marken, ohne dokumentierte Ausnutzung für Betrug."
   },
   "Thimatic": {
     "description": "Thimatic ist eine Shopify-App für Produktbewertungen.",
-    "history": "Thimatic ist ein kleiner Shopify-App-Entwickler mit Fokus auf Produktbewertungs-Tools für E-Commerce-Shops. Nennenswerte Eigentümerwechsel oder groessere Ereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Thimatic ist eine spezialisierte Shopify-App für Bewertungen ohne auffaelliges Missbrauchssignal; sie laeuft im Shopify-Oekosystem, das eigene App-Prüfregeln durchsetzt und damit die Missbrauchsfläche begrenzt."
+    "history": "Thimatic ist ein kleiner Shopify-App-Entwickler mit Fokus auf Produktbewertungs-Tools für E-Commerce-Shops. Nennenswerte Eigentümerwechsel oder grössere Ereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Thimatic ist eine spezialisierte Shopify-App für Bewertungen ohne auffälliges Missbrauchssignal; sie läuft im Shopify-Ökosystem, das eigene App-Prüfregeln durchsetzt und damit die Missbrauchsfläche begrenzt."
   },
   "ThimPress Course Review": {
     "description": "Course Review ist ein WordPress-Plugin von ThimPress. Es ermöglicht Studierenden, Kurse zu bewerten und Feedback zur Verbesserung zu geben.",
     "history": "Ein WordPress-Plugin von ThimPress, einem vietnamesischen WordPress-Theme- und Plugin-Anbieter. Nennenswerte Geschichte oder Eigentümerereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffaelliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
+    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffälliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
   },
   "ThimPress Course Wishlist": {
-    "description": "Course Wishlist ist ein WordPress-Plugin von ThimPress. Es ergaenzt LearnPress um eine Wunschlistenfunktion.",
+    "description": "Course Wishlist ist ein WordPress-Plugin von ThimPress. Es ergänzt LearnPress um eine Wunschlistenfunktion.",
     "history": "Ein WordPress-Plugin von ThimPress, einem vietnamesischen WordPress-Theme- und Plugin-Anbieter. Nennenswerte Geschichte oder Eigentümerereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffaelliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
+    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffälliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
   },
   "ThimPress Gradebook": {
     "description": "Gradebook ist ein WordPress-Plugin von ThimPress. Das LearnPress-Add-on erleichtert es, Lernfortschritt und Ergebnisse von Studierenden zu verfolgen.",
     "history": "Ein WordPress-Plugin von ThimPress, einem vietnamesischen WordPress-Theme- und Plugin-Anbieter. Nennenswerte Geschichte oder Eigentümerereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffaelliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
+    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffälliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
   },
   "ThimPress LearnPress": {
     "description": "LearnPress ist ein WordPress-LMS-Plugin von ThimPress.",
     "history": "Ein WordPress-Plugin von ThimPress, einem vietnamesischen WordPress-Theme- und Plugin-Anbieter. Nennenswerte Geschichte oder Eigentümerereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffaelliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
+    "summary_abuse": "Dies ist ein selbst gehostetes WordPress-Plugin von ThimPress ohne auffälliges Missbrauchssignal. Es bietet keine gehostete verbrauchernahe Fläche, die Angreifer typischerweise ins Visier nehmen."
   },
   "ThingPark Enterprise": {
-    "description": "ThingPark Enterprise ist eine Enterprise-IoT-Konnektivitaetslösung mit starkem Sicherheitsfokus.",
-    "history": "ThingPark Enterprise ist ein IoT-LoRaWAN-Network-Server-Produkt von Actility, einem franzoesischen IoT-Konnektivitaetsunternehmen, das um 2010 gegründet wurde. ThingPark ist Actilitys zentrale Produktlinie für LoRaWAN-Deployments in Unternehmen und Carrier-Umgebungen.",
-    "summary_abuse": "ThingPark Enterprise ist eine Enterprise-IoT-Konnektivitaetsplattform ohne auffaelliges Missbrauchssignal; sie ist ein Backend-Infrastrukturprodukt für Telekommunikationsanbieter und Unternehmen und hat keine verbrauchernahe Fläche."
+    "description": "ThingPark Enterprise ist eine Enterprise-IoT-Konnektivitätslösung mit starkem Sicherheitsfokus.",
+    "history": "ThingPark Enterprise ist ein IoT-LoRaWAN-Network-Server-Produkt von Actility, einem französischen IoT-Konnektivitätsunternehmen, das um 2010 gegründet wurde. ThingPark ist Actilitys zentrale Produktlinie für LoRaWAN-Deployments in Unternehmen und Carrier-Umgebungen.",
+    "summary_abuse": "ThingPark Enterprise ist eine Enterprise-IoT-Konnektivitätsplattform ohne auffälliges Missbrauchssignal; sie ist ein Backend-Infrastrukturprodukt für Telekommunikationsanbieter und Unternehmen und hat keine verbrauchernahe Fläche."
   },
   "Things Solver": {
     "description": "Things Solver ist eine Business-Plattform, die Kundenerlebnisse durch personalisierte Inhalte und Empfehlungen auf Websites verbessert.",
-    "history": "Things Solver wurde 2015 in Belgrad, Serbien, von Darko Marjanovic und Milos Milovanovic gegründet, die sich über die Hadoop-Serbia-Community kennengelernt hatten. Das Unternehmen baute eine KI-gestützte Personalisierungs- und Datenanalyseplattform für Telekommunikation, Handel und Banken in Europa und Nordamerika. Spaeter trat Things Solver der Asseco SEE Group bei, einem grossen europaeischen IT-Konzern.",
-    "summary_abuse": "Things Solver ist eine Enterprise-Plattform für KI-Personalisierung und Analytics, die von Banken, Telekommunikationsunternehmen und Händlern eingesetzt wird. Der B2B-Fokus auf Datenanalyse, Enterprise-Preise und die Einbindung in die Asseco Group sprechen für institutionelle Kunden und gegen eine verbrauchernahe Content-Hosting-Fläche. Missbrauch, Phishing oder Betrugsfaelle mit Things Solver sind nicht dokumentiert."
+    "history": "Things Solver wurde 2015 in Belgrad, Serbien, von Darko Marjanovic und Milos Milovanovic gegründet, die sich über die Hadoop-Serbia-Community kennengelernt hatten. Das Unternehmen baute eine KI-gestützte Personalisierungs- und Datenanalyseplattform für Telekommunikation, Handel und Banken in Europa und Nordamerika. Später trat Things Solver der Asseco SEE Group bei, einem grossen europäischen IT-Konzern.",
+    "summary_abuse": "Things Solver ist eine Enterprise-Plattform für KI-Personalisierung und Analytics, die von Banken, Telekommunikationsunternehmen und Händlern eingesetzt wird. Der B2B-Fokus auf Datenanalyse, Enterprise-Preise und die Einbindung in die Asseco Group sprechen für institutionelle Kunden und gegen eine verbrauchernahe Content-Hosting-Fläche. Missbrauch, Phishing oder Betrugsfälle mit Things Solver sind nicht dokumentiert."
   },
   "Think Up Themes Consulting": {
     "description": "Think Up Themes Consulting ist ein Mehrzweck-WordPress-Theme, das kostenlos heruntergeladen werden kann und zusätzlich eine Pro-Version anbietet.",
     "history": "Think Up Themes ist ein WordPress-Theme-Entwickler aus Grossbritannien mit kostenlosen und kostenpflichtigen Themes. Das Consulting-Theme ist eines von mehreren Mehrzweck-Themes im Katalog und wird über WordPress.org sowie die eigene Website im Freemium-Modell angeboten.",
-    "summary_abuse": "Think Up Themes Consulting ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. Als selbst gehostetes Theme aus dem WordPress.org-Verzeichnis haengt die Missbrauchsfläche davon ab, wie Website-Betreiber es einsetzen."
+    "summary_abuse": "Think Up Themes Consulting ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. Als selbst gehostetes Theme aus dem WordPress.org-Verzeichnis hängt die Missbrauchsfläche davon ab, wie Website-Betreiber es einsetzen."
   },
   "Think Up Themes Minamaze": {
     "description": "Think Up Themes Minamaze ist ein Mehrzweck-WordPress-Theme, das kostenlos heruntergeladen werden kann und zusätzlich eine Pro-Version anbietet.",
-    "history": "Think Up Themes Minamaze ist ein Mehrzweck-WordPress-Theme des britischen Anbieters Think Up Themes und in einer kostenlosen sowie einer Pro-Version verfuegbar. Es gehoert zum selben Entwicklerkatalog wie das Consulting-Theme des Unternehmens.",
-    "summary_abuse": "Think Up Themes Minamaze ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal. Als selbst gehostetes Theme bietet es Endnutzern weder Hosting noch Content-Auslieferung und hat nur ein minimales Missbrauchsrisiko."
+    "history": "Think Up Themes Minamaze ist ein Mehrzweck-WordPress-Theme des britischen Anbieters Think Up Themes und in einer kostenlosen sowie einer Pro-Version verfügbar. Es gehört zum selben Entwicklerkatalog wie das Consulting-Theme des Unternehmens.",
+    "summary_abuse": "Think Up Themes Minamaze ist ein WordPress-Theme ohne auffälliges Missbrauchssignal. Als selbst gehostetes Theme bietet es Endnutzern weder Hosting noch Content-Auslieferung und hat nur ein minimales Missbrauchsrisiko."
   },
   "Thinkific": {
     "description": "Thinkific ist eine Softwareplattform, mit der Unternehmer eigene Onlinekurse erstellen, vermarkten, verkaufen und ausliefern können.",
     "history": "Thinkific wurde 2012 in Vancouver, Kanada, von Greg Smith, Nick Freiling und Matt Payne als Plattform für Onlinekurse von Unternehmern gegründet. Das Unternehmen ging 2021 an die Toronto Stock Exchange (TSX). Es entwickelte sich zu einer wichtigen Plattform für Kursersteller.",
-    "summary_abuse": "Thinkific ist eine öffentliche Plattform für Onlinekurse ohne auffaelliges Missbrauchssignal speziell für Betrugs- oder Scam-Infrastruktur. Wie andere Kursplattformen könnte sie theoretisch für betrügerische Bildungsinhalte genutzt werden, setzt aber Nutzungsbedingungen und uebliche Konto-Prüfprozesse durch."
+    "summary_abuse": "Thinkific ist eine öffentliche Plattform für Onlinekurse ohne auffälliges Missbrauchssignal speziell für Betrugs- oder Scam-Infrastruktur. Wie andere Kursplattformen könnte sie theoretisch für betrügerische Bildungsinhalte genutzt werden, setzt aber Nutzungsbedingungen und übliche Konto-Prüfprozesse durch."
   },
   "Thinking Chat": {
     "description": "Thinking Chat ist eine automatisierte Lösung für Lead-Erfassung und Chat.",
     "history": "Thinking Chat ist ein kleiner SaaS-Dienst für automatisierten Live Chat und Lead-Erfassung. Nennenswerte Eigentümerwechsel oder öffentliche Ereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Thinking Chat ist ein spezialisiertes B2B-Live-Chat-Tool ohne auffaelliges Missbrauchssignal. Die Hauptfunktion ist automatisierte Lead-Erfassung auf Unternehmenswebsites, was nur eine geringe direkte Missbrauchsfläche bietet."
+    "summary_abuse": "Thinking Chat ist ein spezialisiertes B2B-Live-Chat-Tool ohne auffälliges Missbrauchssignal. Die Hauptfunktion ist automatisierte Lead-Erfassung auf Unternehmenswebsites, was nur eine geringe direkte Missbrauchsfläche bietet."
   },
   "ThinkPHP": {
     "description": "ThinkPHP ist ein Open-Source-PHP-Framework mit MVC-Struktur, entwickelt und gepflegt von Shanghai Topthink Company.",
     "history": "ThinkPHP ist ein Open-Source-PHP-MVC-Framework, das von Shanghai Topthink Company in China entwickelt und gepflegt wird und um 2006 erstmals erschien. Es wurde zu einem der meistgenutzten PHP-Frameworks in China. Über die Jahre erschienen mehrere Hauptversionen, wobei ThinkPHP 6 und 8 die aktuell aktiven Versionen sind.",
-    "summary_abuse": "ThinkPHP war historisch ein Ziel für Remote-Code-Execution (RCE), wenn Betreiber Patches nicht zeitnah einspielen. Mehrere kritische CVEs wurden öffentlich für Massenscans gegen in China gehostete Anwendungen weaponisiert. Das Framework selbst ist nicht boesartig, aber seine weite Verbreitung und teils langsames Patchen durch Website-Betreiber machen es zu einem häufigen Ziel automatisierter Ausnutzung."
+    "summary_abuse": "ThinkPHP war historisch ein Ziel für Remote-Code-Execution (RCE), wenn Betreiber Patches nicht zeitnah einspielen. Mehrere kritische CVEs wurden öffentlich für Massenscans gegen in China gehostete Anwendungen weaponisiert. Das Framework selbst ist nicht bösartig, aber seine weite Verbreitung und teils langsames Patchen durch Website-Betreiber machen es zu einem häufigen Ziel automatisierter Ausnutzung."
   },
   "Thinkstack": {
     "description": "Thinkstack ist eine Plattform für massgeschneiderte KI-Chatbots, die auf konkrete Geschäftsanforderungen zugeschnitten sind.",
     "history": "Thinkstack ist ein nach 2022 entstandener SaaS-Dienst zum Erstellen von KI-Chatbots, mit dem Unternehmen ohne Programmierung eigene Chatbots auf Basis grosser Sprachmodelle bauen können. Nennenswerte Eigentümerereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Thinkstack ist eine No-Code-Plattform für KI-Chatbots mit kostenlosem Tarif. Wie bei anderen Chatbot-Buildern, die LLM-APIs kapseln, besteht ein gewisses Risiko für Missbrauch zur Erzeugung von Spam oder Social-Engineering-Inhalten, aber es sind keine konkreten Vorfälle dokumentiert. Der Dienst arbeitet im Shopify-App-Oekosystem und ähnlichen Plattformen mit eigenen Missbrauchsrichtlinien."
+    "summary_abuse": "Thinkstack ist eine No-Code-Plattform für KI-Chatbots mit kostenlosem Tarif. Wie bei anderen Chatbot-Buildern, die LLM-APIs kapseln, besteht ein gewisses Risiko für Missbrauch zur Erzeugung von Spam oder Social-Engineering-Inhalten, aber es sind keine konkreten Vorfälle dokumentiert. Der Dienst arbeitet im Shopify-App-Ökosystem und ähnlichen Plattformen mit eigenen Missbrauchsrichtlinien."
   },
   "Thor-Media": {
     "description": "Thor-Media ist ein russisches Affiliate-Werbesystem, das Werbetreibende für performancebasierte Marketingkampagnen mit Affiliates verbindet.",
-    "history": "Thor-Media ist ein russisches Affiliate-Werbenetzwerk, das Werbetreibende und Affiliates für Performance Marketing verbindet. Eine nennenswerte öffentliche Geschichte ist nicht verfuegbar.",
-    "summary_abuse": "Thor-Media ist ein russisches Affiliate-Werbesystem. Russische Affiliate-Ad-Networks sind überdurchschnittlich häufig mit minderwertigen oder irreführenden Platzierungen verbunden, darunter Malvertising und unerwuenschte Redirect-Kampagnen. Für diese Plattform sind keine konkreten prominenten Vorfälle dokumentiert, doch die Kategorie Affiliate-Werbung zusammen mit dem Russland-Bezug rechtfertigt erhöhte Vorsicht."
+    "history": "Thor-Media ist ein russisches Affiliate-Werbenetzwerk, das Werbetreibende und Affiliates für Performance Marketing verbindet. Eine nennenswerte öffentliche Geschichte ist nicht verfügbar.",
+    "summary_abuse": "Thor-Media ist ein russisches Affiliate-Werbesystem. Russische Affiliate-Ad-Networks sind überdurchschnittlich häufig mit minderwertigen oder irreführenden Platzierungen verbunden, darunter Malvertising und unerwünschte Redirect-Kampagnen. Für diese Plattform sind keine konkreten prominenten Vorfälle dokumentiert, doch die Kategorie Affiliate-Werbung zusammen mit dem Russland-Bezug rechtfertigt erhöhte Vorsicht."
   },
   "Thought Industries": {
     "description": "Thought Industries ist eine Enterprise-Lernplattform für Kunden-, Partner- und Weiterbildung mit einem strukturierten Learning-Experience-System.",
     "history": "Thought Industries wurde 2012 in Boston, Massachusetts, als Enterprise-Lernplattform für Customer Education und Partnertraining gegründet. Das Unternehmen hat VC-Finanzierung aufgenommen und bedient Unternehmenskunden. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Thought Industries ist eine Enterprise-Lernplattform ohne auffaelliges Missbrauchssignal; sie ist ein B2B-Tool für Unternehmens- und Partnertrainings mit Enterprise-Zugang und ohne verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Thought Industries ist eine Enterprise-Lernplattform ohne auffälliges Missbrauchssignal; sie ist ein B2B-Tool für Unternehmens- und Partnertrainings mit Enterprise-Zugang und ohne verbrauchernahe gehostete Fläche."
   },
   "ThoughtMetric": {
     "description": "ThoughtMetric ist eine Marketing-Attribution-Plattform für E-Commerce.",
-    "history": "ThoughtMetric ist eine auf E-Commerce ausgerichtete Marketing-Attribution-Plattform, die Marken hilft, den ROI ihrer Marketingkanäle zu messen. Zur Gründungsgeschichte ist öffentlich nur wenig verfuegbar.",
-    "summary_abuse": "ThoughtMetric ist eine B2B-Marketing-Attribution-Plattform für E-Commerce; sie zeigt kein auffaelliges Missbrauchssignal, da sie Werbedaten für Händler verarbeitet statt verbrauchernahe Inhalte zu hosten."
+    "history": "ThoughtMetric ist eine auf E-Commerce ausgerichtete Marketing-Attribution-Plattform, die Marken hilft, den ROI ihrer Marketingkanäle zu messen. Zur Gründungsgeschichte ist öffentlich nur wenig verfügbar.",
+    "summary_abuse": "ThoughtMetric ist eine B2B-Marketing-Attribution-Plattform für E-Commerce; sie zeigt kein auffälliges Missbrauchssignal, da sie Werbedaten für Händler verarbeitet statt verbrauchernahe Inhalte zu hosten."
   },
   "Threadles": {
     "description": "Threadles ist eine Social-Networking-Plattform, die fortgeschrittene KI-gestützte Algorithmen zur Verbesserung digitaler Interaktionen nutzt.",
     "history": "Threadles ist eine kleine KI-erweiterte Social-Networking-Plattform. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Threadles ist eine Nischenplattform für Social Networking ohne dokumentierte nennenswerte Missbrauchsvorfälle. Soziale Plattformen mit nutzergenerierten Inhalten tragen grundsaetzlich ein gewisses Risiko für Spam oder Belaestigung, aber Threadles hat kein spezifisches bekanntes Missbrauchsprofil."
+    "summary_abuse": "Threadles ist eine Nischenplattform für Social Networking ohne dokumentierte nennenswerte Missbrauchsvorfälle. Soziale Plattformen mit nutzergenerierten Inhalten tragen grundsätzlich ein gewisses Risiko für Spam oder Belästigung, aber Threadles hat kein spezifisches bekanntes Missbrauchsprofil."
   },
   "ThreatMetrix": {
     "description": "LexisNexis ThreatMetrix ist eine Enterprise-Lösung für Online-Risiko- und Betrugsschutz, beschrieben als digitale Identitätsintelligenz und digitale Authentifizierung.",
@@ -947,17 +947,17 @@
   "Threekit": {
     "description": "Threekit ist eine Visual-Customer-Experience-Lösung, mit der Marken fotorealistische Bilder und 3D-Produktvisualisierungen aus einer einzigen Designdatei erstellen, verwalten und skalieren können.",
     "history": "Threekit wurde 2018 in Chicago als Visual-Commerce-Plattform für 3D-Produktkonfiguration und AR-Erlebnisse gegründet. Das Unternehmen erhielt Series-A-Finanzierung und bedient Enterprise-Marken in Handel und Fertigung. Nennenswerte Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "Threekit ist eine Enterprise-Plattform für 3D-Produktvisualisierung ohne auffaelliges Missbrauchssignal; sie ist ein B2B-Tool, das Marken für Produktkonfiguration und AR-Erlebnisse nutzen."
+    "summary_abuse": "Threekit ist eine Enterprise-Plattform für 3D-Produktvisualisierung ohne auffälliges Missbrauchssignal; sie ist ein B2B-Tool, das Marken für Produktkonfiguration und AR-Erlebnisse nutzen."
   },
   "Thridify": {
-    "description": "Thirdify ist ein Tool, mit dem Unternehmen Besucher mithilfe von 3D- und AR-Technologien in Kaeufer verwandeln können, ohne App-Installation oder Programmierung.",
+    "description": "Thirdify ist ein Tool, mit dem Unternehmen Besucher mithilfe von 3D- und AR-Technologien in Käufer verwandeln können, ohne App-Installation oder Programmierung.",
     "history": "Thridify, vermarktet als Thirdify, ist ein E-Commerce-SaaS für 3D- und Augmented-Reality-Produktvisualisierung. Ein nennenswertes Gründungsdatum oder Eigentümerereignisse sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Thridify ist ein 3D/AR-Tool für Produktvisualisierung im E-Commerce ohne auffaelliges Missbrauchssignal. Der spezialisierte B2B-Einsatz und die noetige Händlerintegration begrenzen die Missbrauchsfläche."
+    "summary_abuse": "Thridify ist ein 3D/AR-Tool für Produktvisualisierung im E-Commerce ohne auffälliges Missbrauchssignal. Der spezialisierte B2B-Einsatz und die nötige Händlerintegration begrenzen die Missbrauchsfläche."
   },
   "Thrillshare": {
     "description": "Thrillshare ist eine Verwaltungssoftware für Schulen, die Kommunikation und Engagement über verschiedene Plattformen hinweg vereinheitlicht.",
-    "history": "Thrillshare ist eine Kommunikations- und Engagement-Plattform für K-12-Schulen, mit der Schulen Nachrichten verteilen und Kommunikation über mehrere Kanäle verwalten können. Zur Gründungsgeschichte ist öffentlich nur wenig verfuegbar.",
-    "summary_abuse": "Thrillshare ist eine Kommunikationsplattform für K-12-Schulen; sie hat kein auffaelliges Missbrauchssignal, da sie in kontrollierten Schulbezirksumgebungen mit institutioneller Kontoverwaltung betrieben wird."
+    "history": "Thrillshare ist eine Kommunikations- und Engagement-Plattform für K-12-Schulen, mit der Schulen Nachrichten verteilen und Kommunikation über mehrere Kanäle verwalten können. Zur Gründungsgeschichte ist öffentlich nur wenig verfügbar.",
+    "summary_abuse": "Thrillshare ist eine Kommunikationsplattform für K-12-Schulen; sie hat kein auffälliges Missbrauchssignal, da sie in kontrollierten Schulbezirksumgebungen mit institutioneller Kontoverwaltung betrieben wird."
   },
   "Thrinacia": {
     "description": "Thrinacia ist eine skalierbare Enterprise-SaaS-Crowdfunding-Engine für den Betrieb individuell gebrandeter White-Label-Crowdfunding-Websites.",
@@ -967,56 +967,56 @@
   "Thrive Apprentice": {
     "description": "Thrive Apprentice ist ein WordPress-Plugin zum Erstellen von Onlinekursen und zugleich ein Membership-Plugin.",
     "history": "Thrive Themes wurde 2013 in der Schweiz als Suite conversion-orientierter WordPress-Plugins und -Themes gegründet. Das Unternehmen entwickelt mehrere Plugins unter der Marke Thrive, darunter Thrive Architect (Page Builder) und Thrive Apprentice (LMS). Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin für WordPress-Websites und bietet keine verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin für WordPress-Websites und bietet keine verbrauchernahe gehostete Fläche."
   },
   "Thrive Architect": {
     "description": "Thrive Architect ist ein visueller Page Builder für WordPress.",
     "history": "Thrive Themes wurde 2013 in der Schweiz als Suite conversion-orientierter WordPress-Plugins und -Themes gegründet. Das Unternehmen entwickelt mehrere Plugins unter der Marke Thrive, darunter Thrive Architect (Page Builder) und Thrive Apprentice (LMS). Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin für WordPress-Websites und bietet keine verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin für WordPress-Websites und bietet keine verbrauchernahe gehostete Fläche."
   },
   "Thrive Comments": {
     "description": "Thrive Comments ersetzt die Standard-Kommentarfunktion von WordPress auf deiner Website.",
     "history": "Ein WordPress-Plugin von Thrive Themes, einem 2013 in der Schweiz gegründeten Anbieter einer conversion-orientierten Plugin-Suite. Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
   },
   "Thrive Leads": {
     "description": "Thrive Leads ist ein All-in-one-Plugin für WordPress zum Aufbau von E-Mail-Listen.",
     "history": "Ein WordPress-Plugin von Thrive Themes, einem 2013 in der Schweiz gegründeten Anbieter einer conversion-orientierten Plugin-Suite. Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
   },
   "Thrive Quiz Builder": {
     "description": "Thrive Quiz Builder ist ein leistungsfähiges WordPress-Plugin zum Erstellen von Quizzen für Websites oder Blogs.",
     "history": "Ein WordPress-Plugin von Thrive Themes, einem 2013 in der Schweiz gegründeten Anbieter einer conversion-orientierten Plugin-Suite. Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
   },
   "Thrive Ultimatum": {
     "description": "Thrive Ultimatum ist ein WordPress-Plugin für Scarcity Marketing mit integrierten Vorlagen und Tools zur Kampagnenverfolgung von Thrive Themes.",
     "history": "Ein WordPress-Plugin von Thrive Themes, einem 2013 in der Schweiz gegründeten Anbieter einer conversion-orientierten Plugin-Suite. Nennenswerte Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
+    "summary_abuse": "Dies ist ein WordPress-Plugin von Thrive Themes ohne auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Plugin ohne verbrauchernahe gehostete Fläche."
   },
   "ThriveCart": {
     "description": "ThriveCart ist eine Warenkorb- und Checkout-Lösung zum Erstellen von Checkout-Seiten für Onlineprodukte und Dienstleistungen.",
-    "history": "ThriveCart ist eine Checkout- und Sales-Cart-Plattform, die um 2016 gegründet wurde und für ein einmaliges Lifetime-Access-Preismodell statt eines Abos bekannt ist; sie wurde bei Verkaeufern digitaler Produkte und Affiliate-Marketern beliebt. Nennenswerte Übernahmen sind nicht dokumentiert.",
+    "history": "ThriveCart ist eine Checkout- und Sales-Cart-Plattform, die um 2016 gegründet wurde und für ein einmaliges Lifetime-Access-Preismodell statt eines Abos bekannt ist; sie wurde bei Verkäufern digitaler Produkte und Affiliate-Marketern beliebt. Nennenswerte Übernahmen sind nicht dokumentiert.",
     "summary_abuse": "ThriveCart ist eine Checkout-Cart-Plattform für den Verkauf digitaler Produkte. Wie andere Checkout- und E-Commerce-Plattformen könnte sie theoretisch für betrügerische Shops genutzt werden, aber nennenswerte Missbrauchsvorfälle sind nicht dokumentiert. Zahlungen laufen über Integrationen mit etablierten Zahlungsdienstleistern."
   },
   "THRON": {
     "description": "THRON ist eine Digital-Asset-Management-Plattform mit zentralem Hub zum Speichern, Organisieren und Verteilen digitaler Assets wie Bilder, Videos und Dokumente.",
     "history": "THRON ist eine italienische Digital-Asset-Management-Plattform (DAM), die um 2010 gegründet wurde; sie bietet zentrales Content Management und Distribution für Enterprise-Marken.",
-    "summary_abuse": "THRON hat kein auffaelliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Digital Asset Management ohne verbrauchernahe gehostete Fläche, die für Betrug ausgenutzt werden könnte."
+    "summary_abuse": "THRON hat kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Digital Asset Management ohne verbrauchernahe gehostete Fläche, die für Betrug ausgenutzt werden könnte."
   },
   "thttpd": {
     "history": "thttpd ist ein kleiner, effizienter Open-Source-Webserver, den Jef Poskanzer von ACME Labs um 1995 entwickelte. Er wurde für hohe Leistung bei geringem Overhead konzipiert und kam in Embedded-Systemen zum Einsatz. Die Entwicklung ruht seit vielen Jahren.",
-    "summary_abuse": "thttpd hat kein auffaelliges Missbrauchssignal. Es ist ein minimaler Webserver für Embedded- und ressourcenarme Deployments ohne verbrauchernahe Fläche."
+    "summary_abuse": "thttpd hat kein auffälliges Missbrauchssignal. Es ist ein minimaler Webserver für Embedded- und ressourcenarme Deployments ohne verbrauchernahe Fläche."
   },
   "Ticimax": {
     "description": "Ticimax bietet Infrastrukturservices für E-Commerce.",
-    "history": "Ticimax wurde 2005 in Istanbul, Tuerkei, als E-Commerce-Infrastrukturplattform gegründet. Das Unternehmen wuchs auf über 30'000 Kunden, darunter einige der groessten E-Commerce-Websites der Tuerkei. team.blue, die europaeische Gruppe für Hosting und digitale Praesenz, erwarb eine Mehrheitsbeteiligung an Ticimax, um ihr E-Commerce-Plattformangebot im tuerkischen Markt auszubauen.",
-    "summary_abuse": "Ticimax ist eine tuerkische E-Commerce-SaaS-Plattform für kleine bis grosse tuerkische Händler. Als Plattform zum Erstellen von Shops besteht theoretisch das Risiko, dass Fake-Shops gehostet werden, doch der Hauptmarkt sind legitime tuerkische Unternehmen und der Betrieb unterliegt tuerkischem Recht. Öffentlich wurden keine Phishing-Kampagnen oder gross angelegten Betrugsfaelle gemeldet, die konkret mit Ticimax-Infrastruktur verbunden sind."
+    "history": "Ticimax wurde 2005 in Istanbul, Türkei, als E-Commerce-Infrastrukturplattform gegründet. Das Unternehmen wuchs auf über 30'000 Kunden, darunter einige der grössten E-Commerce-Websites der Türkei. team.blue, die europäische Gruppe für Hosting und digitale Präsenz, erwarb eine Mehrheitsbeteiligung an Ticimax, um ihr E-Commerce-Plattformangebot im türkischen Markt auszubauen.",
+    "summary_abuse": "Ticimax ist eine türkische E-Commerce-SaaS-Plattform für kleine bis grosse türkische Händler. Als Plattform zum Erstellen von Shops besteht theoretisch das Risiko, dass Fake-Shops gehostet werden, doch der Hauptmarkt sind legitime türkische Unternehmen und der Betrieb unterliegt türkischem Recht. Öffentlich wurden keine Phishing-Kampagnen oder gross angelegten Betrugsfälle gemeldet, die konkret mit Ticimax-Infrastruktur verbunden sind."
   },
   "Tickera": {
     "description": "Tickera ist ein WordPress-Plugin, mit dem Veranstalter Tickets direkt über ihre Websites verkaufen können.",
     "history": "Tickera ist ein WordPress-Plugin für den direkten Verkauf von Veranstaltungstickets über WordPress-Websites. Es wird von einem kroatischen Team entwickelt und bietet sowohl ein kostenloses Kernplugin als auch kostenpflichtige Add-ons.",
-    "summary_abuse": "Tickera ist ein WordPress-Plugin für Ticketverkauf. Ticketing-Systeme können für Fake-Event-Scams missbraucht werden, aber Tickera laeuft als selbst gehostetes Plugin auf der Website des jeweiligen Betreibers. Die Verantwortung für Betrug liegt damit beim Website-Betreiber und nicht bei der Plattform."
+    "summary_abuse": "Tickera ist ein WordPress-Plugin für Ticketverkauf. Ticketing-Systeme können für Fake-Event-Scams missbraucht werden, aber Tickera läuft als selbst gehostetes Plugin auf der Website des jeweiligen Betreibers. Die Verantwortung für Betrug liegt damit beim Website-Betreiber und nicht bei der Plattform."
   },
   "Ticketbro": {
     "description": "Ticketbro ist ein mobiles Ticketbuchungssystem, mit dem Nutzer Event- oder Reisetickets direkt auf dem Smartphone durchsuchen, auswählen und kaufen können.",
@@ -1031,21 +1031,21 @@
   "TicketSpice": {
     "description": "TicketSpice ist eine Ticketing-Softwareplattform, mit der Unternehmen Tickets online verkaufen und Veranstaltungsregistrierungen über eine webbasierte Oberfläche verwalten können.",
     "history": "TicketSpice ist eine Online-Event-Ticketing-Plattform von Webconnex mit Sitz in Sacramento, Kalifornien; sie bedient tausende Veranstalter und ist für transparente Preise pro Teilnehmer bekannt.",
-    "summary_abuse": "TicketSpice ist eine Event-Ticketing-Plattform. Wie alle Ticketing-Plattformen kann sie für betrügerische Fake-Events zur Zahlungserfassung genutzt werden, doch Webconnex hat Anti-Fraud-Kontrollen und Konto-Prüfprozesse. Konkrete groessere Missbrauchsvorfälle sind öffentlich nicht dokumentiert."
+    "summary_abuse": "TicketSpice ist eine Event-Ticketing-Plattform. Wie alle Ticketing-Plattformen kann sie für betrügerische Fake-Events zur Zahlungserfassung genutzt werden, doch Webconnex hat Anti-Fraud-Kontrollen und Konto-Prüfprozesse. Konkrete grössere Missbrauchsvorfälle sind öffentlich nicht dokumentiert."
   },
   "Ticketure": {
     "description": "Ticketure ist ein cloudbasiertes Eintritts-Ticketing-System für Kunst- und Kulturorganisationen mit zeitgebundenem Einlass.",
     "history": "Ticketure ist ein Ticketing-System für zeitgebundenen Einlass in Kultur- und Kunstorganisationen und wird heute unter TixTrack betrieben, einem spezialisierten Ticketing-Unternehmen für Museen, Attraktionen und Theater.",
-    "summary_abuse": "Ticketure ist eine B2B-Ticketing-Plattform für Kulturorte ohne auffaelliges Missbrauchssignal; sie arbeitet im institutionellen Kunst- und Kulturbereich und bietet keine öffentlichen kostenlosen Tarife, die betrügerische Aktivität anziehen wuerden."
+    "summary_abuse": "Ticketure ist eine B2B-Ticketing-Plattform für Kulturorte ohne auffälliges Missbrauchssignal; sie arbeitet im institutionellen Kunst- und Kulturbereich und bietet keine öffentlichen kostenlosen Tarife, die betrügerische Aktivität anziehen würden."
   },
   "Tictail": {
-    "history": "Tictail wurde 2012 in Stockholm, Schweden, als kostenlose E-Commerce-Plattform für kleine kreative Verkaeufer gegründet. Shopify übernahm Tictail 2018 und stellte die Plattform anschliessend ein, wobei Verkaeufer zu Shopify migriert wurden.",
-    "summary_abuse": "Tictail war eine inzwischen eingestellte E-Commerce-Plattform, die 2018 von Shopify übernommen und geschlossen wurde. Ein auffaelliges Missbrauchssignal speziell für ihren Betrieb ist nicht bekannt."
+    "history": "Tictail wurde 2012 in Stockholm, Schweden, als kostenlose E-Commerce-Plattform für kleine kreative Verkäufer gegründet. Shopify übernahm Tictail 2018 und stellte die Plattform anschliessend ein, wobei Verkäufer zu Shopify migriert wurden.",
+    "summary_abuse": "Tictail war eine inzwischen eingestellte E-Commerce-Plattform, die 2018 von Shopify übernommen und geschlossen wurde. Ein auffälliges Missbrauchssignal speziell für ihren Betrieb ist nicht bekannt."
   },
   "TiddlyWiki": {
     "description": "TiddlyWiki ist ein Open-Source-Notizbuch zum Erfassen, Organisieren und Teilen komplexer Informationen.",
-    "history": "TiddlyWiki wurde 2004 von Jeremy Ruston als einzigartiges Single-File-Wiki entwickelt, das vollständig im Browser ohne Server laeuft. Es praegte das Konzept einer eigenstaendigen Notizbuchanwendung als einzelne HTML-Datei. 2013 erschien mit TiddlyWiki 5 eine grosse Neufassung. Seither wird das Projekt von Ruston und einer Community gepflegt.",
-    "summary_abuse": "TiddlyWiki ist eine eigenstaendige Open-Source-Notizbuchanwendung ohne auffaelliges Missbrauchssignal. Es gibt keinen gehosteten Dienst und keine verbrauchernahe Fläche."
+    "history": "TiddlyWiki wurde 2004 von Jeremy Ruston als einzigartiges Single-File-Wiki entwickelt, das vollständig im Browser ohne Server läuft. Es prägte das Konzept einer eigenständigen Notizbuchanwendung als einzelne HTML-Datei. 2013 erschien mit TiddlyWiki 5 eine grosse Neufassung. Seither wird das Projekt von Ruston und einer Community gepflegt.",
+    "summary_abuse": "TiddlyWiki ist eine eigenständige Open-Source-Notizbuchanwendung ohne auffälliges Missbrauchssignal. Es gibt keinen gehosteten Dienst und keine verbrauchernahe Fläche."
   },
   "Tidio": {
     "description": "Tidio ist ein Produkt für Kundenkommunikation. Es bietet Multichannel-Support, damit Nutzer unterwegs mit Kunden kommunizieren können, unter anderem per Live Chat, Messenger oder E-Mail.",
@@ -1053,14 +1053,14 @@
     "summary_abuse": "Tidio ist eine Live-Chat- und Chatbot-Plattform, die vor allem von legitimen E-Commerce- und Support-Teams genutzt wird. Der kostenlose Tarif und die Möglichkeit, Widgets einzubetten, könnten theoretisch auf Phishing-Seiten missbraucht werden, aber es sind keine dokumentierten Missbrauchskampagnen speziell mit Tidio verbunden."
   },
   "TIEIT": {
-    "description": "TIEIT ist eine All-in-one-Plattform mit integrierten Tools für Vertrieb, Marketing, Kundenservice, Abrechnung, Abonnements und Terminplanung, um Geschäftsablaeufe in einer Lösung zu buendeln.",
+    "description": "TIEIT ist eine All-in-one-Plattform mit integrierten Tools für Vertrieb, Marketing, Kundenservice, Abrechnung, Abonnements und Terminplanung, um Geschäftsabläufe in einer Lösung zu bündeln.",
     "history": "TIEIT ist eine KI-gestützte All-in-one-Plattform für Vertrieb und Marketing. Ein Gründungsdatum oder eine Eigentümerhistorie ist öffentlich nicht dokumentiert.",
-    "summary_abuse": "TIEIT ist eine KI-gestützte Vertriebs- und Marketingplattform ohne auffaelliges Missbrauchssignal. Es handelt sich um ein typisches CRM-Tool für KMU ohne dokumentierte Beteiligung an Betrug."
+    "summary_abuse": "TIEIT ist eine KI-gestützte Vertriebs- und Marketingplattform ohne auffälliges Missbrauchssignal. Es handelt sich um ein typisches CRM-Tool für KMU ohne dokumentierte Beteiligung an Betrug."
   },
   "Tiendanube": {
     "description": "Tiendanube ist eine E-Commerce-Plattform.",
     "history": "Tiendanube wurde 2011 in Buenos Aires, Argentinien, als SaaS-E-Commerce-Plattform mit Fokus auf Lateinamerika gegründet. Das Unternehmen erhielt umfangreiche VC-Finanzierung und wurde zu einer der führenden E-Commerce-Plattformen der Region. In Brasilien tritt es auch als NuvemShop auf.",
-    "summary_abuse": "Tiendanube ist eine grosse lateinamerikanische E-Commerce-Plattform. Wie jede Plattform zum Erstellen von Shops könnte sie theoretisch für betrügerische Storefronts genutzt werden, setzt aber Nutzungsbedingungen durch und hat Anti-Fraud-Massnahmen, wie sie bei etablierten E-Commerce-Anbietern ueblich sind."
+    "summary_abuse": "Tiendanube ist eine grosse lateinamerikanische E-Commerce-Plattform. Wie jede Plattform zum Erstellen von Shops könnte sie theoretisch für betrügerische Storefronts genutzt werden, setzt aber Nutzungsbedingungen durch und hat Anti-Fraud-Massnahmen, wie sie bei etablierten E-Commerce-Anbietern üblich sind."
   },
   "Tiendy": {
     "description": "Tiendy ist eine Onlineplattform zum Erstellen virtueller Shops, mit der Unternehmen digitale Storefronts gestalten und verwalten können.",
@@ -1070,26 +1070,26 @@
   "Tiiny Host": {
     "description": "Tiiny Host ist ein Webhosting-Dienst für statische Websites mit Unterstützung für Custom Domains, SSL, Passwortschutz und integrierte Analytics.",
     "history": "Tiiny Host ist ein Hosting-Dienst für statische Websites mit kostenlosem Tarif und Custom-Domain-Unterstützung. Der Dienst scheint um 2020 gestartet zu sein und wird von einem kleinen Team betrieben.",
-    "summary_abuse": "Tiiny Host ist ein Hosting-Dienst für statische Websites mit kostenlosem Tarif und Custom-Domain-Unterstützung, was ihn für das Ausrollen von Phishing-Kits attraktiv macht. Kostenloses Static Hosting mit eigenen Domains ist ein häufiges Muster für boesartige Landingpages. Das kleine Team der Plattform hat möglicherweise nur begrenzte Kapazitaet zur Missbrauchserkennung."
+    "summary_abuse": "Tiiny Host ist ein Hosting-Dienst für statische Websites mit kostenlosem Tarif und Custom-Domain-Unterstützung, was ihn für das Ausrollen von Phishing-Kits attraktiv macht. Kostenloses Static Hosting mit eigenen Domains ist ein häufiges Muster für bösartige Landingpages. Das kleine Team der Plattform hat möglicherweise nur begrenzte Kapazität zur Missbrauchserkennung."
   },
   "Tiki Wiki CMS Groupware": {
-    "description": "Tiki Wiki ist ein freies und quelloffenes wiki-basiertes Content-Management-System und eine Online-Office-Suite, hauptsaechlich in PHP geschrieben.",
+    "description": "Tiki Wiki ist ein freies und quelloffenes wiki-basiertes Content-Management-System und eine Online-Office-Suite, hauptsächlich in PHP geschrieben.",
     "history": "Tiki Wiki CMS Groupware wurde 2002 als freie, Open-Source-PHP-Plattform für Wiki und CMS geschaffen, mit Unterstützung für Blogs, Foren, Wikis und Issue Tracker. Es wird von einer Freiwilligen-Community gepflegt und hat keine grosse Unternehmensunterstützung oder Eigentümerwechsel.",
-    "summary_abuse": "Tiki Wiki hat kein auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes Open-Source-CMS, das Organisationen für Intranets und Community-Portale nutzen. Da es selbst gehostete Software und keine gehostete Plattform ist, haengen Missbrauchsmuster vollständig davon ab, wie einzelne Betreiber ihre Instanzen konfigurieren und absichern."
+    "summary_abuse": "Tiki Wiki hat kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes Open-Source-CMS, das Organisationen für Intranets und Community-Portale nutzen. Da es selbst gehostete Software und keine gehostete Plattform ist, hängen Missbrauchsmuster vollständig davon ab, wie einzelne Betreiber ihre Instanzen konfigurieren und absichern."
   },
   "TikShop": {
-    "description": "TikShop ist ein Tool, das TikTok-Konten mit Shopify-Shops verbindet und shoppable Feeds für schnellere Produktpromotion und Verkaeufe direkt über TikTok ermöglicht.",
+    "description": "TikShop ist ein Tool, das TikTok-Konten mit Shopify-Shops verbindet und shoppable Feeds für schnellere Produktpromotion und Verkäufe direkt über TikTok ermöglicht.",
     "history": "TikShop ist eine Shopify-App, die TikTok-Konten mit Shopify-Shops verbindet und shoppable Social Feeds ermöglicht; sie wirkt wie ein neueres Integrationstool für E-Commerce-Händler, die TikTok Social Commerce nutzen wollen.",
-    "summary_abuse": "TikShop ist eine Shopify-Integrationsapp für TikTok Social Commerce. Als Verbindung zwischen Shopify und TikTok könnte sie mit betrügerischen Storefronts genutzt werden, aber es sind keine konkreten dokumentierten Missbrauchskampagnen direkt TikShop zugeschrieben."
+    "summary_abuse": "TikShop ist eine Shopify-Integrationsapp für TikTok Social Commerce. Als Verbindung zwischen Shopify und TikTok könnte sie mit betrügerischen Storefronts genutzt werden, konkrete dokumentierte Missbrauchskampagnen wurden TikShop bislang aber nicht direkt zugeschrieben."
   },
   "Tiktak Pro": {
     "description": "Tiktak Pro ist eine All-in-one-E-Commerce-Plattform aus Tunesien.",
-    "history": "Tiktak Pro ist eine tunesische All-in-one-E-Commerce-Plattform. Nennenswerte Gründungsgeschichte oder öffentliche Informationen sind kaum verfuegbar.",
+    "history": "Tiktak Pro ist eine tunesische All-in-one-E-Commerce-Plattform. Nennenswerte Gründungsgeschichte oder öffentliche Informationen sind kaum verfügbar.",
     "summary_abuse": "Tiktak Pro ist eine kleine regionale E-Commerce-Plattform aus Tunesien ohne nennenswertes dokumentiertes Missbrauchssignal."
   },
   "TikTok Pixel": {
     "history": "TikTok Pixel ist das Webanalyse- und Conversion-Tracking-Pixel für TikTok Ads, entwickelt von ByteDance und um 2019 zusammen mit TikToks Werbeplattform eingeführt. Es ist mit dem Facebook Pixel vergleichbar. TikTok und ByteDance standen in mehreren Ländern wegen Datenschutz und Datenzugriff durch die chinesische Regierung unter erheblicher regulatorischer Beobachtung.",
-    "summary_abuse": "TikTok Pixel ist ein Werbe-Tracking-Pixel von ByteDance (China). Es sammelt umfangreiche Verhaltensdaten über Website-Besucher und steht in der EU, den USA und anderen Rechtsraeumen wegen Datentransfers nach China unter erheblichen regulatorischen Datenschutzbedenken. Mehrere EU-Aufsichtsbehoerden haben Leitlinien oder Verbote für die Nutzung auf Regierungswebsites erlassen. Konkreter Missbrauch als Betrugsinfrastruktur ist nicht dokumentiert, das Datenschutzrisikoprofil ist jedoch hoch."
+    "summary_abuse": "TikTok Pixel ist ein Werbe-Tracking-Pixel von ByteDance (China). Es sammelt umfangreiche Verhaltensdaten über Website-Besucher und steht in der EU, den USA und anderen Rechtsräumen wegen Datentransfers nach China unter erheblichen regulatorischen Datenschutzbedenken. Mehrere EU-Aufsichtsbehörden haben Leitlinien oder Verbote für die Nutzung auf Regierungswebsites erlassen. Konkreter Missbrauch als Betrugsinfrastruktur ist nicht dokumentiert, das Datenschutzrisikoprofil ist jedoch hoch."
   },
   "Tilda": {
     "description": "Tilda ist ein Webdesign-Tool.",
@@ -1098,8 +1098,8 @@
   },
   "Tiled": {
     "description": "Tiled ist eine Microapp-Plattform, die nachweislich Engagement steigert und Erkenntnisse liefert.",
-    "history": "Tiled ist eine Microapp-Plattform zum Erstellen interaktiver Vertriebs- und Marketinginhalte; sie richtet sich an Enterprise-B2B-Vertriebsteams, die das Engagement von Interessenten verbessern wollen. Zur Gründungsgeschichte ist öffentlich nur wenig verfuegbar.",
-    "summary_abuse": "Tiled ist eine B2B-Plattform für Content Engagement in Enterprise-Vertriebsteams. In kontrollierten Vertriebsumgebungen genutzt, zeigt sie kein auffaelliges Missbrauchssignal."
+    "history": "Tiled ist eine Microapp-Plattform zum Erstellen interaktiver Vertriebs- und Marketinginhalte; sie richtet sich an Enterprise-B2B-Vertriebsteams, die das Engagement von Interessenten verbessern wollen. Zur Gründungsgeschichte ist öffentlich nur wenig verfügbar.",
+    "summary_abuse": "Tiled ist eine B2B-Plattform für Content Engagement in Enterprise-Vertriebsteams. In kontrollierten Vertriebsumgebungen genutzt, zeigt sie kein auffälliges Missbrauchssignal."
   },
   "Tiledesk": {
     "description": "Tiledesk ist ein full-stack Open-Source-Live-Chat mit integrierten Chatbots, geschrieben in Node.js und Angular.",
@@ -1107,13 +1107,13 @@
     "summary_abuse": "Tiledesk ist eine Open-Source-Live-Chat-Plattform mit Self-Hosting-Möglichkeit. Der Haupteinsatz ist legitimer Kundensupport. Öffentlich sind keine dokumentierten Missbrauchskampagnen mit Tiledesk verbunden."
   },
   "Tiller": {
-    "description": "Tiller ist ein Tool, das Ausgaben, Kontostaende und Budgets automatisch in flexiblen Tabellen verfolgt, die dir gehoeren.",
-    "history": "Tiller, urspruenglich TillerHQ, wurde um 2016 in Seattle, Washington, von Peter Polson mit Unterstützung einer privaten Gruppe von Technologieinvestoren aus der Region Seattle gegründet. Das Unternehmen baute ein tabellenzentriertes Personal-Finance-Tool, das Bank- und Kreditkartentransaktionen automatisch in Google Sheets und Microsoft Excel importiert. Es unterscheidet sich von App-basierten Budgettools dadurch, dass Finanzdaten in nutzerkontrollierten Tabellen bleiben.",
-    "summary_abuse": "Tiller ist ein Personal-Finance-SaaS, der Bankkonten verbindet und Transaktionen in Tabellen importiert. Als Dienst für Finanzkonto-Aggregation verarbeitet er sensible Banking-Zugangsdaten und Transaktionsdaten. Öffentlich wurden keine Betrugsfaelle oder Phishing-Kampagnen konkret mit Tiller-Infrastruktur gemeldet, Nutzer sollten sich aber der Risiken bei Zugangsdaten-Aggregation bewusst sein."
+    "description": "Tiller ist ein Tool, das Ausgaben, Kontostände und Budgets automatisch in flexiblen Tabellen verfolgt, die dir gehören.",
+    "history": "Tiller, ursprünglich TillerHQ, wurde um 2016 in Seattle, Washington, von Peter Polson mit Unterstützung einer privaten Gruppe von Technologieinvestoren aus der Region Seattle gegründet. Das Unternehmen baute ein tabellenzentriertes Personal-Finance-Tool, das Bank- und Kreditkartentransaktionen automatisch in Google Sheets und Microsoft Excel importiert. Es unterscheidet sich von App-basierten Budgettools dadurch, dass Finanzdaten in nutzerkontrollierten Tabellen bleiben.",
+    "summary_abuse": "Tiller ist ein Personal-Finance-SaaS, der Bankkonten verbindet und Transaktionen in Tabellen importiert. Als Dienst für Finanzkonto-Aggregation verarbeitet er sensible Banking-Zugangsdaten und Transaktionsdaten. Öffentlich wurden keine Betrugsfälle oder Phishing-Kampagnen konkret mit Tiller-Infrastruktur gemeldet, Nutzer sollten sich aber der Risiken bei Zugangsdaten-Aggregation bewusst sein."
   },
   "Timeago": {
-    "description": "Timeago ist ein jQuery-Plugin, das ungefaehre Zeitangaben automatisch aktualisiert.",
-    "history": "Timeago ist ein jQuery-Plugin zur Anzeige ungefaehrer Zeitangaben wie 'vor 3 Stunden', das um 2008 entstand. Es ist eine kleine, fokussierte Utility-Bibliothek mit weiter Verbreitung in Webanwendungen.",
+    "description": "Timeago ist ein jQuery-Plugin, das ungefähre Zeitangaben automatisch aktualisiert.",
+    "history": "Timeago ist ein jQuery-Plugin zur Anzeige ungefährer Zeitangaben wie 'vor 3 Stunden', das um 2008 entstand. Es ist eine kleine, fokussierte Utility-Bibliothek mit weiter Verbreitung in Webanwendungen.",
     "summary_abuse": "Timeago ist eine JavaScript-Utility-Bibliothek für Zeitstempelanzeigen ohne Missbrauchssignal; sie ist ein Entwicklerwerkzeug ohne verbrauchernahe Fläche."
   },
   "timeago": {
@@ -1894,8 +1894,8 @@
   },
   "TVSquared": {
     "description": "TVSquared ist eine plattformübergreifende Plattform für TV-Werbemessung, Analysen und Optimierung.",
-    "history": "TVSquared wurde 2012 in Edinburgh, Schottland, von Calum Smeaton als plattformübergreifende Plattform für TV-Werbemessung und Attribution gegründet. Das Unternehmen sammelte über 8 Finanzierungsrunden 34,5 Millionen US-Dollar ein. Im März 2022 wurde es von der börsennotierten US-Connected-TV-Werbeplattform Innovid für 160 Millionen US-Dollar in bar und Aktien übernommen.",
-    "summary_abuse": "TVSquared ist eine Plattform für TV-Werbemessung und Attribution. Wie jede Ad-Tech sammelt sie Verhaltensdaten in grossem Umfang für Targeting, dokumentierte spezifische Betrugs- oder Malware-Missbräuche sind jedoch nicht bekannt."
+    "history": "TVSquared wurde 2012 in Edinburgh, Schottland, von Calum Smeaton als plattformübergreifende Plattform für TV-Werbemessung und Attribution gegründet. Das Unternehmen sammelte über 8 Finanzierungsrunden 34,5 Millionen US-Dollar ein. Im März 2022 wurde es von der börsenkotierten US-Connected-TV-Werbeplattform Innovid für 160 Millionen US-Dollar in bar und Aktien übernommen.",
+    "summary_abuse": "TVSquared ist eine Plattform für TV-Werbemessung und Attribution. Wie alle Adtech-Plattformen sammelt sie Verhaltensdaten in grossem Umfang für Targeting, dokumentierte spezifische Betrugs- oder Malware-Missbräuche sind jedoch nicht bekannt."
   },
   "Twenty Eleven": {
     "description": "Twenty Eleven ist das Standard-WordPress-Theme für 2011.",
@@ -1975,7 +1975,7 @@
   "Twiago": {
     "description": "Twiago ist eine digitale Werbelösung, die Transparenz bietet und auf konkrete Geschäftsanforderungen zugeschnitten ist.",
     "history": "Twiago ist eine deutsche Plattform für digitale Werbung mit programmatischer und transparenter Display-Werbung. Öffentlich ist nur wenig zur Geschichte bekannt, offenbar bedient sie vor allem den deutschsprachigen Markt.",
-    "summary_abuse": "Twiago ist eine Advertising-Technology-Plattform. Ad-Tech setzt grundsätzlich Drittanbieter-Tracking-Skripte mit höherer Tracker-Dichte ein, Twiago ist jedoch ein kleiner regionaler Anbieter ohne dokumentierten Missbrauch ausserhalb der üblichen Datenerhebung programmatischer Werbung."
+    "summary_abuse": "Twiago ist eine Adtech-Plattform. Adtech setzt grundsätzlich Drittanbieter-Tracking-Skripte mit höherer Tracker-Dichte ein, Twiago ist jedoch ein kleiner regionaler Anbieter ohne dokumentierten Missbrauch ausserhalb der üblichen Datenerhebung programmatischer Werbung."
   },
   "TwicPics": {
     "description": "TwicPics bietet responsive Bilderzeugung auf Abruf.",
@@ -2022,7 +2022,7 @@
   "Twitch Player": {
     "description": "Twitch ist ein amerikanischer Video-Livestreaming-Dienst mit Schwerpunkt auf Gaming-Livestreams, einschliesslich Übertragungen von E-Sports-Wettbewerben.",
     "history": "Twitch wurde 2011 als Ausgliederung von Justin.tv gegründet und auf Gaming-Livestreams ausgerichtet. Amazon übernahm Twitch 2014 für rund 970 Millionen US-Dollar. Der Twitch Player ist der einbettbare Videoplayer, mit dem Twitch-Streams auf Drittseiten eingebunden werden.",
-    "summary_abuse": "Twitch bindet Drittanbieter-Tracking- und Werbeskripte mit hoher Dichte ein. Die Plattform hatte Probleme mit Hate Raids, Bannumgehung und CSAM-Meldungen. Der einbettbare Player bringt die vollständige Tracker-Nutzlast von Twitch mit. Für den Embed-Player selbst gibt es keinen bedeutenden plattformweiten Betrugsvektor, die breitere Twitch-Plattform weist jedoch dokumentierten Missbrauch ihrer Chat- und Follow-Systeme auf."
+    "summary_abuse": "Twitch bindet Drittanbieter-Tracking- und Werbeskripte mit hoher Dichte ein. Die Plattform hatte Probleme mit Hate Raids, Bannumgehung und CSAM-Meldungen. Der einbettbare Player bringt die vollständige Tracker-Nutzlast von Twitch mit. Für den Embed-Player selbst gibt es keinen bedeutenden plattformweiten Betrugsvektor, auf der Twitch-Plattform insgesamt ist jedoch Missbrauch der Chat- und Follow-Systeme dokumentiert."
   },
   "Twitter": {
     "description": "Twitter ist ein Microblogging-System, mit dem kurze Beiträge, sogenannte Tweets, gesendet und empfangen werden können.",
@@ -2035,9 +2035,9 @@
     "summary_abuse": "Twitter Ads wird von Werbekunden jeder Grösse genutzt und hat ein moderates Missbrauchssignal. Betrügerische Werbetreibende haben über die Plattform Scam-Kampagnen geschaltet, darunter Kryptowährungsbetrug und die Nachahmung verifizierter Konten, besonders nach der Schwächung der Verifizierungskontrollen seit der Übernahme 2022. Die Moderationshaltung von X Corp wird als weniger reaktionsschnell kritisiert als bei der früheren Twitter-Inkarnation, was das Missbrauchsrisiko für Werbekunden und Endnutzer erhöht, die auf Scam-Anzeigen stossen können."
   },
   "Twitter Analytics": {
-    "description": "Twitter Analytics ist eine integrierte Datenauswertungsplattform, die Einblicke in dein Twitter-Konto und dessen Aktivität zeigt.",
+    "description": "Twitter Analytics ist eine integrierte Datenauswertungsplattform, die Einblicke in das eigene Twitter-Konto und dessen Aktivität liefert.",
     "history": "Twitter Analytics startete um 2012 als kostenloses Analytics-Dashboard für Twitter-Konten. Es liefert Kennzahlen zur Tweet-Performance und Einblicke ins Publikum. Unter Elon Musks Eigentümerschaft bleibt es Teil der X/Twitter-Plattform.",
-    "summary_abuse": "Twitter Analytics lädt auf integrierenden Websites Twitters Tracking-Infrastruktur. Es übernimmt die breiteren Missbrauchsprobleme der Plattform rund um Cross-Site-Tracking und Datenteilung mit dem Werbenetzwerk von X Corp. Das Analytics-Skript selbst ist kein eigener Missbrauchsvektor über die Twitter/X-Plattform im Allgemeinen hinaus."
+    "summary_abuse": "Twitter Analytics lädt auf Websites, die es einbinden, Twitters Tracking-Infrastruktur. Es erbt damit die allgemeinen Missbrauchsprobleme der Plattform rund um Cross-Site-Tracking und Datenteilung mit dem Werbenetzwerk von X Corp. Das Analytics-Skript selbst ist kein eigener Missbrauchsvektor über die Twitter/X-Plattform im Allgemeinen hinaus."
   },
   "Twitter Emoji (Twemoji)": {
     "description": "Twitter Emoji ist ein Open-Source-Set aus Emoticons und Emojis für Twitter, TweetDeck sowie die Android- und iOS-Versionen der Anwendung.",
@@ -2086,12 +2086,12 @@
   "Typeform": {
     "description": "Typeform ist ein spanisches SaaS-Unternehmen, das auf Online-Formularerstellung und Online-Umfragen spezialisiert ist.",
     "history": "Typeform wurde 2012 in Barcelona, Spanien, gegründet. Es wuchs zu einer führenden Formular- und Umfrageplattform heran, bekannt für seinen dialogorientierten UI-Ansatz. Typeform sammelte erhebliches Risikokapital von General Atlantic und anderen ein und blieb unabhängig. Ende der 2010er-Jahre erreichte es Bewertungen im Unicorn-Bereich.",
-    "summary_abuse": "Typeform wird breit für legitime Umfragen, Formulare und Datenerfassung eingesetzt. Die kostenlose Stufe und die einfache Einbettung machen es attraktiv für Phishing-Seiten zum Abgreifen von Zugangsdaten, und Sicherheitsforscher haben Typeform-Formulare in Phishing-Kampagnen zur Erfassung sensibler Daten dokumentiert. Typeform veröffentlicht eine AUP und bearbeitet Takedown-Meldungen, die Flexibilität der Plattform sorgt aber für anhaltende Missbrauchsrisiken."
+    "summary_abuse": "Typeform wird breit für legitime Umfragen, Formulare und Datenerfassung eingesetzt. Der kostenlose Tarif und die einfache Einbettung machen es attraktiv für Phishing-Seiten zum Abgreifen von Zugangsdaten, und Sicherheitsforscher haben Typeform-Formulare in Phishing-Kampagnen zur Erfassung sensibler Daten dokumentiert. Typeform veröffentlicht eine AUP und bearbeitet Takedown-Meldungen, die Flexibilität der Plattform sorgt aber für anhaltende Missbrauchsrisiken."
   },
   "Typekit": {
     "description": "Typekit ist ein Onlinedienst, der eine Font-Bibliothek im Abonnement anbietet.",
     "history": "Typekit wurde 2009 gegründet und 2011 von Adobe übernommen. Es wurde zur Webfont-Komponente von Adobes Creative-Cloud-Plattform. 2018 benannte Adobe Typekit in Adobe Fonts um und machte den Dienst für alle Creative-Cloud-Abonnenten verfügbar.",
-    "summary_abuse": "Typekit, heute Adobe Fonts, lädt Font-Dateien von Adobes CDN und umfasst Adobes Tracking-Infrastruktur. Font-Ladeskripte können genutzt werden, um Seitenbesucher über Domains hinweg zu verfolgen. Für die Webfont-Auslieferung ist kein signifikanter betrugsspezifischer Missbrauch dokumentiert, die eingebetteten Skripte tragen jedoch Adobes Analytics-Fingerprinting."
+    "summary_abuse": "Typekit, heute Adobe Fonts, lädt Font-Dateien von Adobes CDN und bringt dabei Adobes Tracking-Infrastruktur mit. Font-Ladeskripte können genutzt werden, um Seitenbesucher über Domains hinweg zu verfolgen. Für die Webfont-Auslieferung ist kein signifikanter betrugsspezifischer Missbrauch dokumentiert, die eingebetteten Skripte tragen jedoch Adobes Analytics-Fingerprinting."
   },
   "TypePad": {
     "description": "Typepad ist ein Dienst zum Hosten von Blogs.",

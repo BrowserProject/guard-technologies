@@ -214,8 +214,8 @@
     "summary_abuse": "FastSpring dient als Merchant of Record für Softwareverkäufe und hat, wie jede Zahlungsplattform, dokumentierte Fälle von betrügerischen Käufen und Chargebacks. Das Unternehmen betreibt Betrugsprävention und ein Compliance-Programm. Die Nutzung in betrügerischen Shops ist im Vergleich zu allgemeinen Plattformen begrenzt, da der Fokus auf Software und SaaS liegt."
   },
   "Fastspring": {
-    "history": "FastSpring wurde 2005 in Santa Barbara, Kalifornien, als Ecommerce-Plattform für Anbieter von Software und digitalen Gütern gegründet und übernimmt globale Zahlungen, Abonnements und Steuer-Compliance. Das Unternehmen wurde von Accel-KKR in einem Buyout übernommen und erhielt 2024 eine strategische Investition von LLR Partners, was auf anhaltende Private-Equity-Unterstützung hinweist.",
-    "summary_abuse": "FastSpring ist eine legitime Software-Ecommerce-Plattform mit vereinzelter dokumentierter Missbrauchsbelastung. Da Händler Checkout-Seiten erstellen und digitale Güter verkaufen können, wurde sie gelegentlich von falschen Softwareanbietern oder Scam-Shops zur Zahlungsabwicklung genutzt. FastSpring prüft Händler und verfügt über Compliance-Prozesse, ist aber wie jede Payment-Facilitation-Plattform gelegentlich in Fälle betrügerischer Händler verwickelt. Missbrauch macht nur einen kleinen Teil der Nutzung aus, und legitime Softwareverkäufe überwiegen klar."
+    "history": "FastSpring wurde 2005 in Santa Barbara, Kalifornien, als Ecommerce-Plattform für Anbieter von Software und digitalen Gütern gegründet; die Plattform wickelt weltweite Zahlungen und Abonnements ab und kümmert sich um die Steuer-Compliance. Das Unternehmen wurde von Accel-KKR in einem Buyout übernommen und erhielt 2024 eine strategische Investition von LLR Partners, was auf anhaltende Private-Equity-Unterstützung hinweist.",
+    "summary_abuse": "FastSpring ist eine legitime Software-Ecommerce-Plattform mit vereinzelter dokumentierter Missbrauchsbelastung. Da Händler Checkout-Seiten erstellen und digitale Güter verkaufen können, wurde sie gelegentlich von falschen Softwareanbietern oder Scam-Shops zur Zahlungsabwicklung genutzt. FastSpring prüft Händler und verfügt über Compliance-Prozesse, ist aber wie jede Plattform für die Zahlungsabwicklung gelegentlich in Fälle betrügerischer Händler verwickelt. Missbrauch macht nur einen kleinen Teil der Nutzung aus, und legitime Softwareverkäufe überwiegen klar."
   },
   "FastTony": {
     "description": "FastTony ist eine Anwendung, die Werbung und Verkauf über Facebook und Instagram erleichtert.",
@@ -239,12 +239,12 @@
   },
   "Fathom": {
     "description": "Fathom ist einfache, aber leistungsstarke Website-Analyse, die digitale Privatsphäre schützt.",
-    "history": "Fathom Analytics wurde 2018 von Jack Ellis und Paul Jarvis in Kanada als datenschutzfreundliche Alternative zu Google Analytics gegründet. Der Dienst zählt Seitenaufrufe ohne Cookies und ohne Tracking personenbezogener Daten und ist dadurch von Grund auf GDPR-, CCPA- und PECR-konform. Die Gründer treten öffentlich für privacy-respecting Web Analytics ein.",
+    "history": "Fathom Analytics wurde 2018 von Jack Ellis und Paul Jarvis in Kanada als datenschutzfreundliche Alternative zu Google Analytics gegründet. Der Dienst zählt Seitenaufrufe ohne Cookies und ohne Tracking personenbezogener Daten und ist dadurch von Grund auf GDPR-, CCPA- und PECR-konform. Die Gründer setzen sich öffentlich für datenschutzfreundliche Webanalyse ein.",
     "summary_abuse": "Fathom Analytics ist ein datenschutzorientierter Webanalyse-Dienst, der keine Einzelpersonen verfolgt und keine personenbezogenen Daten speichert. Ein dokumentiertes Missbrauchsprofil gibt es nicht. Die Privacy-by-Design-Architektur verhindert, dass personenbezogene Datenbestände entstehen, die missbraucht werden könnten."
   },
   "Fatsoma": {
-    "description": "Fatsoma ist eine Plattform zum Erstellen von Event- und Konzert-Websites, mit der Veranstalter Listings und Ticketverkäufe verwalten können.",
-    "history": "Fatsoma ist eine britische Event-Ticketing-Plattform, die etwa 2010 gegründet wurde und sich auf Live-Events, Konzerte und Clubnächte konzentriert. Veranstalter können Events listen und Tickets direkt verkaufen.",
+    "description": "Fatsoma ist eine Plattform zum Erstellen von Event- und Konzert-Websites, mit der Veranstalter ihre Eventeinträge und Ticketverkäufe verwalten können.",
+    "history": "Fatsoma ist eine britische Event-Ticketing-Plattform, die etwa 2010 gegründet wurde und sich auf Live-Events, Konzerte und Clubnächte konzentriert. Veranstalter können Events einstellen und Tickets direkt verkaufen.",
     "summary_abuse": "Fatsoma ist eine Event-Ticketing-Plattform, die theoretisch Listings für gefälschte Veranstaltungen hosten könnte. Als britische Nischenplattform für geprüfte Veranstalter ist dokumentierter Missbrauch jedoch minimal. Das Unternehmen hält die üblichen britischen Verbraucherschutzanforderungen ein."
   },
   "Faveo": {
@@ -259,11 +259,11 @@
   "FC2 Analyzer": {
     "description": "FC2 Analyzer ist eine Plattform zur Nachverfolgung und Analyse der Leistung von Affiliate-Systemen und liefert Einblicke in Traffic, Conversions und Umsatzkennzahlen.",
     "history": "FC2 wurde im Juli 1999 in Las Vegas, Nevada, als US-Unternehmen gegründet und bietet vor allem für den japanischen Markt Webdienste wie Bloghosting, Website-Builder und Analytics-Tools an. FC2 Analyzer war ein kostenloser Webanalyse- und Counter-Dienst, der offiziell am 2. Juni 2025 eingestellt wurde.",
-    "summary_abuse": "FC2 ist ein Webportal für den japanischen Markt mit einer Geschichte beim Hosten von Adult- und nutzergenerierten Inhalten, die mit Urheberrechtsverletzungen und Missbrauch von Adult Content verbunden waren. Der Tracking-Dienst FC2 Analyzer selbst ist inzwischen eingestellt. Die breitere FC2-Plattform wurde von japanischen Behörden wegen Verbreitung obszöner Inhalte untersucht."
+    "summary_abuse": "FC2 ist ein Webportal für den japanischen Markt, das seit Langem Erwachsenen- und nutzergenerierte Inhalte hostet, die mit Urheberrechtsverletzungen und dem Missbrauch von Inhalten für Erwachsene in Verbindung gebracht wurden. Der Tracking-Dienst FC2 Analyzer selbst ist inzwischen eingestellt. Die breitere FC2-Plattform wurde von japanischen Behörden wegen Verbreitung obszöner Inhalte untersucht."
   },
   "FeatherPanel": {
     "description": "FeatherPanel ist ein Open-Source-Panel zur Verwaltung von Gameservern, gebaut mit PHP, Vue und Go.",
-    "history": "FeatherPanel ist ein Open-Source-Panel zur Verwaltung von Gameservern, gebaut mit PHP, Vue und Go. Es ist ein neueres Community-Projekt mit begrenzter öffentlicher Geschichte.",
+    "history": "FeatherPanel ist ein Open-Source-Panel zur Verwaltung von Gameservern, gebaut mit PHP, Vue und Go. Es ist ein neueres Community-Projekt, über dessen Hintergrund öffentlich nur wenig dokumentiert ist.",
     "summary_abuse": "FeatherPanel ist ein selbst gehostetes Open-Source-Werkzeug zur Gameserver-Verwaltung. Da es keine zentrale Nutzerhosting-Plattform ist, bietet es Dritten keine direkte verbraucherseitige Missbrauchsfläche."
   },
   "FeatherX": {
@@ -338,12 +338,12 @@
   },
   "Fello": {
     "description": "Fello ist eine von Maklern für Makler entwickelte Plattform zur Lead-Generierung bei Verkäufern; sie bietet modernen Maklern einen Lead Funnel zur Bindung ernsthafter Verkäufer.",
-    "history": "Fello ist eine Lead-Generierungsplattform für Immobilienverkäufer, speziell für Immobilienmakler entwickelt; sie bietet Lead Capture und Nurturing-Werkzeuge, damit Makler potenzielle Hausverkäufer identifizieren und halten können.",
+    "history": "Fello ist eine Lead-Generierungsplattform für Immobilienverkäufer, speziell für Immobilienmakler entwickelt; sie bietet Werkzeuge für Lead-Erfassung und Lead-Nurturing, damit Makler potenzielle Hausverkäufer identifizieren und halten können.",
     "summary_abuse": "Fello ist ein Lead-Generation-Tool für Immobilien, das sich an lizenzierte Makler richtet. Das professionelle B2B-Dienstleistungsmodell begrenzt direkte Verbrauchermissbrauchsrisiken, und nennenswerte Vorfälle sind nicht dokumentiert."
   },
   "Felmat": {
     "description": "Felmat ist ein Werbenetzwerk, das Werbetreibende und Publisher verbindet, um performancebasiertes Marketing über digitale Plattformen zu ermöglichen.",
-    "history": "Felmat ist ein Performance-Werbenetzwerk, das Werbetreibende und Publisher für Cost-per-Action- und Affiliate-Marketing-Kampagnen verbindet. Es ist im Ad-Tech-Bereich tätig, mit begrenzter öffentlicher Geschichte.",
+    "history": "Felmat ist ein Performance-Werbenetzwerk, das Werbetreibende und Publisher für Cost-per-Action- und Affiliate-Marketing-Kampagnen verbindet. Es ist im Ad-Tech-Bereich tätig; über seine Geschichte ist öffentlich nur wenig bekannt.",
     "summary_abuse": "Felmat ist ein Performance-Werbenetzwerk im Affiliate- und CPA-Marketing. Werbenetzwerke dieser Art sind gelegentlich in die Auslieferung täuschender Anzeigen oder minderwertiger Werbeinventare verwickelt. Konkrete grössere Vorfälle sind nicht dokumentiert, doch die Kategorie trägt wegen des offenen Publisher-Recruitings ein erhöhtes Missbrauchsrisiko."
   },
   "Fenicio": {
@@ -474,7 +474,7 @@
   "Findigs": {
     "description": "Findigs ist eine All-in-One-Plattform für Vermietung, die den Prozess von Bewerbung bis Bewilligung vereinfacht.",
     "history": "Findigs ist eine US-amerikanische, KI-native Plattform zur Mieterprüfung für Immobilienverwalter, gegründet etwa 2019; sie bietet automatisierte Verarbeitung von Mietbewerbungen, Identitäts- und Einkommensprüfung sowie Betrugserkennung. Die Plattform ist FCRA-konform. Nennenswerte Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Findigs verarbeitet sensible personenbezogene Daten, darunter Identitätsdokumente, Einkommensnachweise und Kreditinformationen für Mieterprüfungen. Die Plattform ist FCRA-konform und nutzt automatisierte Betrugserkennung, um manipulierte Dokumente zu markieren. Als B2B-Tool für Immobilienverwaltung ist sie kein wesentlicher Missbrauchsvektor. Das Hauptrisiko liegt wegen der Sensibilität der verarbeiteten PII in der Datensicherheit."
+    "summary_abuse": "Findigs verarbeitet sensible personenbezogene Daten, darunter Identitätsdokumente, Einkommensnachweise und Kreditinformationen für Mieterprüfungen. Die Plattform ist FCRA-konform und nutzt automatisierte Betrugserkennung, um manipulierte Dokumente als verdächtig zu kennzeichnen. Als B2B-Tool für Immobilienverwaltung ist sie kein wesentlicher Missbrauchsvektor. Das Hauptrisiko liegt wegen der Sensibilität der verarbeiteten PII in der Datensicherheit."
   },
   "Findmeashoe": {
     "description": "Findmeashoe ist ein Empfehlungsportal für Schuhe, das Einkaufseffizienz und Einkaufserlebnis bei Schuhkäufern verbessern soll.",
@@ -633,7 +633,7 @@
   "Flask": {
     "description": "Flask ist ein Python-Micro-Webframework, das sich durch Minimalismus, Flexibilität und Modularität für den schnellen Aufbau von Webanwendungen eignet.",
     "history": "Flask wurde 2010 von Armin Ronacher als Aprilscherz erstellt, aber rasch als ernsthaftes Python-Micro-Webframework übernommen. Es entstand als schlanke Hülle um Werkzeug (WSGI-Toolkit) und Jinja2 (Template-Engine). 2016 wurde das Pocoo-Team aufgelöst und die Flask-Entwicklung wechselte zu The Pallets Projects, einer communitygetriebenen Open-Source-Organisation. Heute gehört Flask weltweit zu den meistgenutzten Python-Webframeworks.",
-    "summary_abuse": "Flask ist ein grundlegendes Python-Webframework ohne eigene Missbrauchsfläche. Als serverseitige Bibliothek hat es keine Verbraucheroberfläche. Wie bei jedem Webframework können damit gebaute Anwendungen Schwachstellen haben, wenn Entwickler Sicherheitsbest Practices nicht beachten, doch Flask selbst ist kein Vektor für Missbrauch auf Plattformebene."
+    "summary_abuse": "Flask ist ein grundlegendes Python-Webframework ohne eigene Missbrauchsfläche. Als serverseitige Bibliothek hat es keine Verbraucheroberfläche. Wie bei jedem Webframework können damit gebaute Anwendungen Schwachstellen aufweisen, wenn Entwickler bewährte Sicherheitspraktiken missachten; Flask selbst bietet jedoch keinen Ansatzpunkt für Missbrauch auf Plattformebene."
   },
   "Flat UI": {
     "history": "Flat UI ist ein Bootstrap-basiertes UI-Theme und Designframework, das 2013 von Designmodo erstellt wurde. Es überträgt Flat-Design-Ästhetik auf Bootstrap-Komponenten. Als Open Source veröffentlicht, fand es während des Höhepunkts des Flat-Design-Trends etwa 2013 bis 2015 breite Verbreitung. Die Entwicklung ist inzwischen inaktiv, da sich Bootstrap selbst weiterentwickelt hat.",
@@ -772,7 +772,7 @@
   "Flocktory": {
     "description": "Flocktory ist eine Plattform für Social-Referral-Marketing, mit der Nutzer personalisierte Angebote über soziale Netzwerke teilen können.",
     "history": "Flocktory wurde 2012 in Moskau, Russland, als Omnichannel-Plattform für Personalisierung und Marketing-Automatisierung gegründet. Auf dem Höhepunkt analysierte sie über 38 Prozent der russischen Online-Transaktionen. Qiwi übernahm Flocktory 2017 für 14 Millionen Dollar. Nach dem Verkauf der russischen Vermögenswerte von Qiwi Anfang 2024 wurde Flocktory an Fusion Factor Fintech Limited übertragen und anschliessend im April 2024 von Alfa-Bank übernommen. Die Plattform bietet mehr als 20 MarTech-Lösungen, darunter Onsite-Personalisierung, E-Mail-Retargeting, Loyalty und eine CDP.",
-    "summary_abuse": "Flocktory ist eine russische Plattform für Marketing-Automatisierung und gehört nach Qiwi's Verkäufen russischer Vermögenswerte 2024 inzwischen Alfa-Bank. Die russische Eigentümerschaft wirft für nicht-russische Nutzer Fragen zu Datensouveränität auf. Die Plattform verarbeitet umfangreiche Verhaltens- und Transaktionsdaten von Kunden russischer E-Commerce-Websites. Konkrete Missbrauchsfälle sind nicht dokumentiert, die russische Jurisdiktion schafft aber Datenschutz- und Governance-Risiken für Unternehmen in der EU und den USA."
+    "summary_abuse": "Flocktory ist eine russische Plattform für Marketing-Automatisierung und gehört seit dem Verkauf russischer Vermögenswerte durch Qiwi im Jahr 2024 der Alfa-Bank. Die russische Eigentümerschaft wirft für nicht-russische Nutzer Fragen zu Datensouveränität auf. Die Plattform verarbeitet umfangreiche Verhaltens- und Transaktionsdaten von Kunden russischer E-Commerce-Websites. Konkrete Missbrauchsfälle sind nicht dokumentiert, die russische Jurisdiktion schafft aber Datenschutz- und Governance-Risiken für Unternehmen in der EU und den USA."
   },
   "Flodesk": {
     "description": "Flodesk ist eine E-Mail-Marketing-Plattform zum Erstellen, Planen und Auswerten automatisierter Kampagnen.",
@@ -917,8 +917,8 @@
     "summary_abuse": "FMG Suite ist ein SaaS für eine regulierte Branche und bedient SEC-registrierte Finanzberater mit compliance-orientierten Marketingwerkzeugen. Die Plattform archiviert alle Kommunikationen, um regulatorische Anforderungen zu erfüllen. Es sind keine nennenswerten Missbrauchs- oder Betrugsfälle dokumentiert, die regulierte Kundschaft sorgt bereits für inhärente AML- und Compliance-Kontrollen."
   },
   "FOCUS WebWall": {
-    "description": "FOCUS WebWall ist eine Sicherheitslage ohne Overhead für Websites, die Cloudflare nutzen.",
-    "history": "FOCUS WebWall ist eine Sicherheitslage ohne Overhead für Websites mit Cloudflare und wird über die Plattform appsphere.app angeboten. Es scheint sich um ein kleines, unabhängig entwickeltes Sicherheitstool mit begrenzter öffentlicher Unternehmenshistorie zu handeln.",
+    "description": "FOCUS WebWall ist eine Sicherheitsschicht ohne Overhead für Websites, die Cloudflare nutzen.",
+    "history": "FOCUS WebWall ist eine Sicherheitsschicht ohne Overhead für Websites mit Cloudflare und wird über die Plattform appsphere.app angeboten. Es scheint sich um ein kleines, unabhängig entwickeltes Sicherheitstool mit begrenzter öffentlicher Unternehmenshistorie zu handeln.",
     "summary_abuse": "FOCUS WebWall weist kein nennenswertes Missbrauchssignal auf. Es ist ein mit Cloudflare integriertes Sicherheitstool zum Schutz von Websites vor Angriffen und hat keine verbraucherseitige Oberfläche, die für Phishing oder Betrug attraktiv wäre."
   },
   "Fohr": {
@@ -1191,12 +1191,12 @@
     "summary_abuse": "Geringes bis moderates Missbrauchsrisiko. BNPL-Plattformen können für Zahlungsbetrug genutzt werden, haben aber Anforderungen zur Kartenvalidierung."
   },
   "Foursixty": {
-    "description": "Foursixty ist ein Widget, das Instagram-Inhalte und nutzergenerierte Inhalte in kaufbare Galerien verwandelt.",
-    "history": "Foursixty ist eine SaaS-Plattform für kaufbare UGC- und Social-Galerien im E-Commerce; sie integriert Instagram-, TikTok- und andere Social-Media-Inhalte in kaufbare Produktgalerien auf Shopify und weiteren E-Commerce-Plattformen; sie wurde um 2014 gegründet und wird von über 2'000 Marken genutzt. Es gibt keine auffälligen Eigentümerwechsel oder Kontroversen.",
+    "description": "Foursixty ist ein Widget, das Instagram-Inhalte und nutzergenerierte Inhalte in Galerien mit direkter Kaufmöglichkeit verwandelt.",
+    "history": "Foursixty ist eine SaaS-Plattform, die im E-Commerce UGC- und Social-Media-Galerien mit Kauffunktion bereitstellt; sie bindet Inhalte aus Instagram, TikTok und anderen Netzwerken als Produktgalerien mit direkter Kaufmöglichkeit in Shopify und weitere E-Commerce-Plattformen ein; sie wurde um 2014 gegründet und wird von über 2'000 Marken genutzt. Es gibt keine auffälligen Eigentümerwechsel oder Kontroversen.",
     "summary_abuse": "Foursixty ist ein E-Commerce-Galerietool, das Social-Media-Inhalte aus verifizierten Markenaccounts aggregiert. Für diesen Dienst ist kein auffälliges Missbrauchssignal dokumentiert."
   },
   "Fourthwall": {
-    "description": "Fourthwall hilft beim Erstellen und Starten einer gebrandeten Website.",
+    "description": "Fourthwall hilft beim Aufbau und Start einer eigenen Marken-Website.",
     "history": "Fourthwall ist eine US-amerikanische Creator-Commerce-Plattform, die 2020 gegründet wurde und Content Creators den Verkauf von Merchandise und Mitgliedschaften ermöglicht. Das Unternehmen nahm VC-Finanzierung auf und wuchs schnell bei YouTubern und Streamern.",
     "summary_abuse": "Geringes bis moderates Missbrauchsrisiko. Eine Merchandise-Plattform für Creators; Fälschungen und IP-Verletzungen sind relevante Risiken, gegen die Fourthwall jedoch Richtlinien hat."
   },
@@ -1207,7 +1207,7 @@
   },
   "Foxy.io": {
     "description": "Foxy bietet einen gehosteten Warenkorb und eine Zahlungsseite, mit denen du über deine bestehende Website oder Plattform alles verkaufen kannst.",
-    "history": "Foxy.io, ursprünglich FoxyCart, wurde 2007 von Luke Stokes als leichtgewichtige gehostete Warenkorb- und Zahlungslösung für Webentwickler gegründet, die E-Commerce ohne vollständige Plattformbindung wollten. Das Unternehmen ist ein unabhängiges, eigenfinanziertes Geschäft mit Sitz in Kanada und einem verteilten Entwicklerteam. Bis 2023 erreichte es 4,8 Mio. USD Jahresumsatz mit rund 1'000 Händlerkunden.",
+    "history": "Foxy.io, ursprünglich FoxyCart, wurde 2007 von Luke Stokes als leichtgewichtige gehostete Warenkorb- und Zahlungslösung für Webentwickler gegründet, die E-Commerce nutzen wollten, ohne sich vollständig an eine Plattform zu binden. Das Unternehmen ist ein unabhängiges, eigenfinanziertes Geschäft mit Sitz in Kanada und einem verteilten Entwicklerteam. Bis 2023 erreichte es 4,8 Mio. USD Jahresumsatz mit rund 1'000 Händlerkunden.",
     "summary_abuse": "Foxy.io ist eine E-Commerce-Warenkorb- und Zahlungsabwicklungsplattform mit üblichen Händlerrisiken. Wie alle Anbieter von Zahlungsseiten könnte sie von betrügerischen Händlern missbraucht werden, um Zahlungen auf gefälschten Shops einzuziehen, allerdings verlangt Foxy die Einrichtung eines Geschäftskontos und eine Payment-Gateway-Integration. Es sind keine spezifischen dokumentierten Missbrauchskampagnen mit dieser Plattform verbunden."
   },
   "Framer Motion": {
@@ -1226,13 +1226,13 @@
     "summary_abuse": "Frames zeigt kein auffälliges Missbrauchssignal. Es ist ein WordPress-Design-Plugin, das über einen kommerziellen Produktkanal vertrieben wird und keine anonymen Endnutzerfunktionen anbietet."
   },
   "Framework7": {
-    "description": "Framework7 ist ein mobiles HTML-Framework zum Erstellen von iOS- und Android-Anwendungen mit einer nativenähnlichen Nutzererfahrung.",
-    "history": "Framework7 ist ein Open-Source-Mobile-UI-Framework zum Erstellen von iOS- und Android-Apps mit HTML/CSS/JS, das 2014 von Vladimir Kharlampidi geschaffen wurde. Es wird breit für hybride Mobile-App-Entwicklung eingesetzt.",
+    "description": "Framework7 ist ein mobiles HTML-Framework zum Erstellen von iOS- und Android-Anwendungen, deren Bedienung sich wie bei nativen Apps anfühlt.",
+    "history": "Framework7 ist ein Open-Source-Mobile-UI-Framework zum Erstellen von iOS- und Android-Apps mit HTML/CSS/JS, das 2014 von Vladimir Kharlampidi geschaffen wurde. Es ist in der hybriden Mobile-App-Entwicklung weit verbreitet.",
     "summary_abuse": "Kein Missbrauchsrisiko. Eine Mobile-UI-Framework-Bibliothek ohne nutzerseitige Angriffsfläche."
   },
   "framework7": {
     "description": "Ein voll ausgestattetes Mobile-HTML-Framework zum Erstellen von iOS- und Android-Apps.",
-    "history": "Framework7 ist ein Open-Source-Mobile-HTML-Framework, das um 2014 zum Erstellen von iOS- und Android-artigen Web- und Hybrid-Mobile-Apps geschaffen wurde. Es wird unabhängig gepflegt.",
+    "history": "Framework7 ist ein Open-Source-Mobile-HTML-Framework, das um 2014 zum Erstellen von iOS- und Android-artigen Web- und Hybrid-Mobile-Apps geschaffen wurde. Das Projekt wird eigenständig weiterentwickelt und gepflegt.",
     "summary_abuse": "Framework7 ist ein Mobile-UI-Framework ohne auffälliges Missbrauchssignal. Es ist ein Frontend-Entwicklungstool ohne serverseitige oder Content-Hosting-Angriffsfläche."
   },
   "France Express": {
@@ -1242,11 +1242,11 @@
   },
   "Frappe": {
     "description": "Frappe ist ein Full-Stack-Webframework mit Batteries-included-Ansatz, geschrieben in Python und JavaScript.",
-    "history": "Frappe wurde 2008 von Rushabh Mehta in Mumbai, Indien, gegründet. Mehta baute das Framework ursprünglich, um eine gescheiterte ERP-Einführung im Möbelgeschäft seiner Familie zu lösen. Das zugrunde liegende Webframework, Frappe Framework, treibt ERPNext an, das ab 2010 als Open Source veröffentlicht und ab 2012 als Open-Source-ERP positioniert wurde. Das Unternehmen ist bemerkenswert profitabel und unabhängig, ohne externe Investoren.",
+    "history": "Frappe wurde 2008 von Rushabh Mehta in Mumbai, Indien, gegründet. Mehta entwickelte das Framework ursprünglich als Reaktion auf eine gescheiterte ERP-Einführung im Möbelgeschäft seiner Familie. Das zugrunde liegende Webframework, Frappe Framework, treibt ERPNext an, das ab 2010 als Open Source veröffentlicht und ab 2012 als Open-Source-ERP positioniert wurde. Das Unternehmen ist bemerkenswert profitabel und unabhängig, ohne externe Investoren.",
     "summary_abuse": "Frappe ist ein Python-Webframework und eine ERP-Plattform, die vor allem in Unternehmensumgebungen genutzt wird. Es ist selbst gehostete Software ohne auffälliges Missbrauchssignal als Softwareprojekt."
   },
   "Frase": {
-    "description": "Frase ist ein KI-gestütztes Content-System, das Content-Erstellungsprozesse straffen soll.",
+    "description": "Frase ist ein KI-gestütztes Content-System, das die Content-Erstellung effizienter gestalten soll.",
     "history": "Frase ist eine US-amerikanische Plattform für KI-Content-Erstellung und SEO-Optimierung, die 2018 gegründet wurde; sie hilft Content-Teams bei Recherche, Schreiben und Optimierung von Inhalten. Das Unternehmen hat VC-Finanzierung aufgenommen.",
     "summary_abuse": "Geringes Missbrauchsrisiko. Ein KI-Schreibtool mit Potenzial zur Erzeugung von Spam-Inhalten, aber primär von legitimen Marketingteams genutzt."
   },
@@ -1257,7 +1257,7 @@
   },
   "FraudLabs Pro": {
     "description": "FraudLabs Pro ist ein Betrugspräventionsdienst des Unternehmens FraudLabs Pro, das auf Online-Betrugserkennung und Risikomanagement für Unternehmen spezialisiert ist.",
-    "history": "FraudLabs Pro ist ein malaysischer Betrugserkennungsdienst für E-Commerce, der 2009 gegründet wurde. Er bietet Fraud Screening für Online-Transaktionen mit Machine Learning.",
+    "history": "FraudLabs Pro ist ein malaysischer Betrugserkennungsdienst für E-Commerce, der 2009 gegründet wurde. Er prüft Online-Transaktionen mithilfe von Machine Learning auf Betrug.",
     "summary_abuse": "Sehr geringes Missbrauchsrisiko. FraudLabs Pro ist eine Anti-Fraud-Plattform, die Händler vor Zahlungsbetrug schützt."
   },
   "FreakOut": {
@@ -1266,13 +1266,13 @@
     "summary_abuse": "Moderates Missbrauchsrisiko. Ad-Tech-Plattformen werden häufig für Malvertising genutzt. FreakOut kann als DSP Anzeigen ausliefern, die Tracker enthalten oder zu minderwertigen Inhalten führen."
   },
   "Frederick": {
-    "description": "Frederick ist eine von MindBody entwickelte Marketingautomatisierungssoftware, die Marketingaufgaben für Unternehmen straffen und optimieren soll.",
+    "description": "Frederick ist eine von MindBody entwickelte Marketingautomatisierungssoftware, die Marketingaufgaben für Unternehmen vereinfachen und optimieren soll.",
     "history": "Frederick ist eine Marketingautomatisierungsplattform für Dienstleistungsbetriebe und wurde von Demandforce übernommen; sie hilft Salons, Spas und Serviceunternehmen mit automatisiertem Marketing.",
     "summary_abuse": "Geringes Missbrauchsrisiko. Ein Marketingtool für Dienstleistungsbetriebe mit begrenzter Endnutzer-Angriffsfläche."
   },
   "FreeBSD": {
     "description": "FreeBSD ist ein freies und quelloffenes Unix-ähnliches Betriebssystem.",
-    "history": "FreeBSD ist ein freies und quelloffenes Unix-ähnliches Betriebssystem, das von BSD abstammt und 1993 veröffentlicht wurde. Es wird von der FreeBSD Foundation und einer grossen Community entwickelt. Es treibt PlayStation, Netflix und viele eingebettete Systeme an.",
+    "history": "FreeBSD ist ein freies und quelloffenes Unix-ähnliches Betriebssystem, das von BSD abstammt und 1993 veröffentlicht wurde. Es wird von der FreeBSD Foundation und einer grossen Community entwickelt. Es kommt bei PlayStation, Netflix und in vielen eingebetteten Systemen zum Einsatz.",
     "summary_abuse": "Von FreeBSD selbst geht kein Missbrauchsrisiko aus. Es ist ein grundlegendes Betriebssystem, das in kritischer Infrastruktur genutzt wird. Manche Angreifer betreiben Server auf FreeBSD, aber das ist kein unterscheidendes Merkmal."
   },
   "Freedom Farmers": {
@@ -1282,7 +1282,7 @@
   },
   "FreedomKit": {
     "description": "FreedomKit ist eine KI-gestützte All-in-one-Software für Online-Unternehmen, die Automatisierung zur Straffung von Abläufen unterstützt.",
-    "history": "FreedomKit ist eine KI-gestützte All-in-one-Plattform für Online-Business-Automatisierung, die um 2023 gestartet wurde und Solopreneure sowie kleine Unternehmen mit Marketingautomatisierung, CRM und Funnel-Building anspricht. Öffentlich ist nur wenig Unternehmensgeschichte verfügbar.",
+    "history": "FreedomKit ist eine KI-gestützte All-in-one-Plattform für Online-Business-Automatisierung, die um 2023 startete und sich mit Marketingautomatisierung, CRM und Funktionen für den Funnel-Aufbau an Einzelunternehmer und kleine Firmen richtet. Öffentlich ist nur wenig Unternehmensgeschichte verfügbar.",
     "summary_abuse": "Für FreedomKit gibt es kein auffälliges dokumentiertes Missbrauchssignal. Es ist eine Marketingautomatisierungs- und Funnel-Building-Plattform. Wie ähnliche Tools könnte es zum Erstellen von Scam-Landingpages genutzt werden, aber konkrete Missbrauchsvorfälle sind nicht dokumentiert."
   },
   "Freemius": {
@@ -1315,7 +1315,7 @@
     "summary_abuse": "Geringes Missbrauchsrisiko. Ein Shopify-Upsell-Plugin ohne direkte Endnutzer-Angriffsfläche."
   },
   "Fresco": {
-    "description": "Fresco ist eine responsive Lightbox. Fresco bietet Thumbnail-Unterstützung, Vollbild-Zoom, YouTube- und Vimeo-Integration für HTML5-Video sowie eine leistungsfähige JavaScript API.",
+    "description": "Fresco ist eine responsive Lightbox. Fresco bietet Thumbnail-Unterstützung, Vollbild-Zoom, YouTube- und Vimeo-Integration für HTML5-Video sowie eine leistungsfähige JavaScript-API.",
     "history": "Fresco ist eine kollaborative visuelle Planungs- und Whiteboarding-Plattform, die um 2019 gegründet wurde und Teams Infinite-Canvas-Werkzeuge bietet.",
     "summary_abuse": "Geringes Missbrauchsrisiko. Ein kollaboratives Workspace-Tool ohne auffällig dokumentierten Missbrauch."
   },
@@ -1340,7 +1340,7 @@
     "summary_abuse": "Freshchat ist eine Enterprise-Live-Chat-Plattform des börsenkotierten Unternehmens Freshworks. Es ist kein auffälliges Missbrauchssignal dokumentiert. Freshworks veröffentlicht SOC 2 Type 2- und ISO 27001-Zertifizierungen sowie eine Responsible-Disclosure-Richtlinie."
   },
   "Fresho": {
-    "description": "Fresho ist ein Order-Management-System, das Verarbeitung, Nachverfolgung und Erfüllung von Kundenbestellungen über verschiedene Vertriebskanäle hinweg strafft.",
+    "description": "Fresho ist ein Order-Management-System, das die Verarbeitung, Nachverfolgung und Abwicklung von Kundenbestellungen über verschiedene Vertriebskanäle hinweg vereinfacht.",
     "history": "Fresho ist eine australische Plattform für Bestellung und Management im Lebensmittelgrosshandel, die 2014 gegründet wurde und Lebensmittelproduzenten sowie Grosshändler mit Restaurants und Gastronomiebetrieben verbindet.",
     "summary_abuse": "Geringes Missbrauchsrisiko. Eine B2B-Plattform für Lebensmittelgrosshandel mit begrenzter Endnutzer-Sichtbarkeit."
   },
@@ -1502,7 +1502,7 @@
   "Fullpath": {
     "description": "Fullpath ist eine Customer Data and Experience Platform (CDXP) für den Autohandel, früher bekannt als AutoLeadStar.",
     "history": "Fullpath ist eine israelische KI- und Datenplattform für den Autohandel, gegründet 2019; sie bietet Autohäusern eine Customer Data Platform und KI-gestütztes Marketing. Das Unternehmen hat umfangreiche VC-Finanzierung erhalten.",
-    "summary_abuse": "Geringes Missbrauchsrisiko. Eine daten- und marketingorientierte Plattform für den Autohandel; sie sammelt First-Party-Daten von Autohäusern, deshalb sollten die Datenschutzpraktiken für Autokundinnen und Autokunden geprüft werden."
+    "summary_abuse": "Geringes Missbrauchsrisiko. Eine daten- und marketingorientierte Plattform für den Autohandel; sie sammelt First-Party-Daten von Autohäusern, deshalb sollten die Datenschutzpraktiken gegenüber den Endkunden im Autohandel geprüft werden."
   },
   "FullSeats": {
     "description": "FullSeats ist ein Buchungssystem, das Terminplanung vereinfachen und Geschäftswachstum durch Reservierungsmanagement unterstützen soll.",
@@ -1571,7 +1571,7 @@
   },
   "Funnelytics": {
     "description": "Funnelytics ist ein Tool, das Lead- und Kundenkonversionen steigern soll, indem es Marketing Funnels für bessere Leistung und Ergebnisse optimiert.",
-    "history": "Funnelytics ist eine visuelle Plattform für Funnel-Analytics und Funnel-Mapping, gegründet um 2017; sie ermöglicht Marketern, visuelle Funnel-Diagramme zu erstellen und reale Analytics-Daten darüberzulegen, um Conversion-Performance zu verfolgen. Das Unternehmen sitzt in Kanada, ist bootstrapped und bedient Digitalmarketing-Agenturen sowie Solo-Marketer. Grössere Übernahmen oder Rebrandings sind nicht bekannt.",
+    "history": "Funnelytics ist eine visuelle Plattform für Funnel-Analytics und Funnel-Mapping, gegründet um 2017; sie ermöglicht Marketern, visuelle Funnel-Diagramme zu erstellen und mit realen Analytics-Daten zu hinterlegen, um die Conversion-Performance zu verfolgen. Das Unternehmen sitzt in Kanada, ist bootstrapped und bedient Digitalmarketing-Agenturen sowie Solo-Marketer. Grössere Übernahmen oder Rebrandings sind nicht bekannt.",
     "summary_abuse": "Funnelytics ist ein B2B-SaaS für Analytics und Funnel-Visualisierung, das Marketingagenturen und Beratende adressiert. Es gibt kein auffälliges Missbrauchssignal, da es sich um ein Business-Analytics-Tool ohne verbraucherorientiertes Hosting oder anonyme Kontoerstellung handelt. Dokumentierte Missbrauchsfälle sind nicht bekannt."
   },
   "Funraise": {

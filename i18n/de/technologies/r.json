@@ -115,11 +115,11 @@
   "Rambler": {
     "description": "Rambler ist ein in Russland entwickeltes Website-Ranking-System und Besucherzähler.",
     "history": "Rambler wurde 1996 von Stack Ltd als russisches Internetportal und Webanalyse-Dienst gestartet. Das Unternehmen ging 2005 an die Börse, wurde 2006 von Prof-Media übernommen, und 2020 übernahm Sberbank die vollständige Kontrolle über die Rambler Media Group.",
-    "summary_abuse": "Rambler agiert als russisches Internetportal und Website-Ranking- beziehungsweise Analyse-Dienst. Als russisch betriebener Analytics- und Werbedienst unterliegt es nicht der GDPR und westlichen Datenschutzstandards. Daten, die über Tracking-Pixel gesammelt werden, können zu russischen Unternehmens- und staatsnahen Stellen fliessen. Konkrete dokumentierte Muster grossflächigen Betrugsmissbrauchs sind nicht bekannt, das Datenschutzrisiko ist für nichtrussische Nutzer jedoch erhöht."
+    "summary_abuse": "Rambler agiert als russisches Internetportal und Website-Ranking- beziehungsweise Analyse-Dienst. Als russisch betriebener Analytics- und Werbedienst unterliegt es nicht der GDPR und westlichen Datenschutzstandards. Daten, die über Tracking-Pixel gesammelt werden, können an russische Unternehmens- und staatsnahe Stellen gelangen. Konkrete dokumentierte Muster grossflächigen Betrugsmissbrauchs sind nicht bekannt, das Datenschutzrisiko ist für nichtrussische Nutzer jedoch erhöht."
   },
   "Ramda": {
     "description": "Ramda ist eine praxisorientierte Bibliothek für funktionale Programmierung in JavaScript, mit Fokus auf Immutability, Currying und Funktionskomposition für deklarativeren, modulareren Code.",
-    "history": "Ramda ist eine Open-Source-Bibliothek für funktionale Programmierung in JavaScript und wurde 2013 erstmals veröffentlicht; sie wurde von Scott Sauyet und Michael Hurley entwickelt, betont Immutability, Currying und Funktionskomposition und wurde in der funktionalen JavaScript-Community breit genutzt.",
+    "history": "Ramda ist eine Open-Source-Bibliothek für funktionale Programmierung in JavaScript und erschien erstmals 2013. Die von Scott Sauyet und Michael Hurley entwickelte Bibliothek setzt auf Immutability, Currying und Funktionskomposition und etablierte sich in der funktionalen JavaScript-Community als weit verbreitete Utility-Bibliothek.",
     "summary_abuse": "Ramda ist eine Open-Source-JavaScript-Bibliothek für funktionale Programmierung ohne Missbrauchssignal. Es ist ein Entwicklerwerkzeug ohne für Betrug nutzbare Konsumentenoberfläche."
   },
   "Ramper": {
@@ -130,7 +130,7 @@
   "RandemRetail": {
     "description": "RandemRetail ist eine Plattform, die Multichannel-Verkaufsprozesse in einer zentralen Oberfläche bündelt.",
     "history": "RandemRetail ist ein Multichannel-Retail-Management-SaaS, das Abläufe für Online-Verkäufer zentralisiert. Öffentlich ist nur wenig zur Geschichte verfügbar.",
-    "summary_abuse": "RandemRetail ist ein Multichannel-Ecommerce-Management-Tool ohne auffälliges Missbrauchssignal. Es ist ein Händler-Operations-Tool ohne dokumentierte Ausnutzungshistorie."
+    "summary_abuse": "RandemRetail ist ein Multichannel-Ecommerce-Management-Tool ohne auffälliges Missbrauchssignal. Es handelt sich um ein Betriebswerkzeug für Händler ohne dokumentierte Missbrauchsfälle."
   },
   "Raneto": {
     "description": "Raneto ist eine Markdown-basierte Open-Source-Wissensdatenbank für Node.js, die statische Dateien zur Verwaltung und Bereitstellung strukturierter Dokumentation nutzt.",
@@ -144,7 +144,7 @@
   },
   "RankScience": {
     "description": "RankScience ist eine Split-Testing-Plattform, die mit Data Science Suchtraffic optimiert.",
-    "history": "RankScience wurde 2017 gegründet und nahm an Y Combinators Winter-2017-Batch teil. Das Unternehmen entwickelte ein SEO-A/B-Testing-SaaS zur Optimierung organischen Suchtraffics. 2024 stellte es alle Softwareprodukte ein, darunter die SEO-A/B-Testing-Plattform und ContentEdge AI, und wechselte zu einer reinen Agentur für SEO und AI Search Optimization.",
+    "history": "RankScience wurde 2017 gegründet und nahm an Y Combinators Winter-2017-Batch teil. Das Unternehmen entwickelte ein SEO-A/B-Testing-SaaS zur Optimierung organischen Suchtraffics. 2024 stellte es alle Softwareprodukte ein, darunter die SEO-A/B-Testing-Plattform und ContentEdge AI, und wandelte sich zu einer reinen Agentur für SEO und KI-Suchoptimierung.",
     "summary_abuse": "Für RankScience gibt es kein auffälliges Missbrauchssignal. Es war ein SEO-Analytics-SaaS ohne konsumentenorientiertes Hosting oder User-Generated-Content-Funktionen, die für Phishing oder Betrug ausgenutzt werden könnten."
   },
   "Raphael": {
@@ -154,7 +154,7 @@
   },
   "Rapid Active CRM": {
     "description": "Rapid Active CRM ist eine All-in-One-Plattform für Vertrieb und Marketing-Automation, die Geschäftswachstum unterstützen soll.",
-    "history": "Rapid Active CRM ist ein SaaS für Vertrieb und Marketing-Automation für kleine Unternehmen. Es ist eine kleine Plattform mit begrenzter öffentlicher Geschichte.",
+    "history": "Rapid Active CRM ist ein SaaS für Vertrieb und Marketing-Automation für kleine Unternehmen. Es ist eine kleine Plattform, über deren Geschichte nur wenig öffentlich dokumentiert ist.",
     "summary_abuse": "Rapid Active CRM ist ein Tool für Vertrieb und Marketing-Automation ohne auffälliges Missbrauchssignal. CRM-Plattformen können für Spam missbraucht werden, für dieses Produkt ist jedoch keine spezifische Missbrauchshistorie dokumentiert."
   },
   "Rapid Search": {
@@ -179,7 +179,7 @@
   },
   "Raptive": {
     "description": "Raptive ist ein Unternehmen, das aus dem Zusammenschluss von CafeMedia, AdThrive und CafeMedia Ad Management entstand und digitale Creator sowie Publisher unterstützt.",
-    "history": "AdThrive wurde 2013 von Kelly und Andrew Wilder als Premium-Werbenetzwerk für Lifestyle-Blogger gegründet. CafeMedia übernahm AdThrive 2016, und die kombinierte Einheit benannte sich im April 2023 in Raptive um. Das Unternehmen positioniert sich als creatororientierte Werbefirma, betreut über 4'000 Publisher und erreicht monatlich 195 Millionen Unique Visitors.",
+    "history": "AdThrive wurde 2013 von Kelly und Andrew Wilder als Premium-Werbenetzwerk für Lifestyle-Blogger gegründet. CafeMedia übernahm AdThrive 2016, und das zusammengeschlossene Unternehmen benannte sich im April 2023 in Raptive um. Das Unternehmen positioniert sich als creatororientierte Werbefirma, betreut über 4'000 Publisher und erreicht monatlich 195 Millionen Unique Visitors.",
     "summary_abuse": "Raptive ist ein Ad-Serving- und Revenue-Management-Netzwerk für unabhängige Publisher. Als Ad-Tech-Plattform liefert es Werbecode von Drittparteien auf Publisher-Websites aus, was inhärente Risiken durch hohe Tracker-Dichte und Datenerfassung mit sich bringt. Raptive bietet kein konsumentenorientiertes Hosting oder Content-Angebot, das es zu einem Ziel für Phishing- oder Scam-Infrastruktur machen würde. Das primäre Risiko ist der übliche Ad-Tech-Vektor des Trackings über Publisher-Websites hinweg."
   },
   "Raptor": {
@@ -220,11 +220,11 @@
   "Raychat": {
     "description": "Raychat ist eine kostenlose Plattform für Kunden-Messaging.",
     "history": "Raychat wurde 2017 in Tabriz, Iran als kostenlose Live-Chat- und Kunden-Messaging-Plattform gegründet. Im Januar 2021 erlitt Raychat einen grossen Datenabfluss, bei dem rund 150 Millionen Nutzerdatensätze wegen eines falsch konfigurierten MongoDB-Servers offengelegt und anschliessend durch einen automatisierten Bot-Angriff gelöscht wurden.",
-    "summary_abuse": "Raychat hat einen dokumentierten Sicherheitsvorfall: 2021 legte eine falsch konfigurierte Datenbank rund 150 Millionen Nutzerdatensätze offen, darunter Namen, E-Mail-Adressen, gehashte Passwörter und Telegram IDs, die danach von einem Meow Bot gelöscht wurden. Die Plattform sitzt im Iran und unterliegt nicht der GDPR oder vergleichbaren westlichen Datenschutzrahmen, was ein erhöhtes Datenschutzrisiko schafft. Über den Datenabfluss hinaus ist kein grossflächiger Betrugsmissbrauch der Plattform selbst dokumentiert."
+    "summary_abuse": "Raychat hat einen dokumentierten Sicherheitsvorfall: 2021 legte eine falsch konfigurierte Datenbank rund 150 Millionen Nutzerdatensätze offen, darunter Namen, E-Mail-Adressen, gehashte Passwörter und Telegram-IDs, die anschliessend von einem Meow-Bot gelöscht wurden. Die Plattform sitzt im Iran und unterliegt nicht der GDPR oder vergleichbaren westlichen Datenschutzrahmen, was ein erhöhtes Datenschutzrisiko schafft. Über den Datenabfluss hinaus ist kein grossflächiger Betrugsmissbrauch der Plattform selbst dokumentiert."
   },
   "Raygun": {
     "description": "Raygun ist eine cloudbasierte Anwendung für Netzwerküberwachung und Bug Tracking.",
-    "history": "Raygun wurde 2012 in Wellington, Neuseeland als SaaS für Crash Reporting und Application Performance Monitoring gegründet. Das Unternehmen nahm begrenzte Finanzierung vom Punakaiki Fund auf und blieb ein unabhängiges, weitgehend bootstrapped Unternehmen mit Fokus auf Software Observability.",
+    "history": "Raygun wurde 2012 in Wellington, Neuseeland als SaaS für Crash Reporting und Application Performance Monitoring gegründet. Das Unternehmen nahm begrenzte Finanzierung vom Punakaiki Fund auf und blieb ein unabhängiges, weitgehend eigenfinanziertes Unternehmen mit Fokus auf Software-Observability.",
     "summary_abuse": "Raygun ist ein SaaS für Error Monitoring und APM ohne auffälliges Missbrauchssignal. Es sammelt Anwendungstelemetrie über von Entwicklern integrierte SDKs und bietet keine konsumentenorientierte Fläche, die Betrüger gezielt nutzen würden."
   },
   "Rayo": {
@@ -291,7 +291,7 @@
   },
   "React Flow": {
     "description": "React Flow ist eine Bibliothek zum Erstellen knotenbasierter Anwendungen.",
-    "history": "React Flow ist eine Open-Source-Bibliothek unter MIT-Lizenz zum Erstellen knotenbasierter Graph-UIs in React; sie wurde um 2019 vom Team bei webkid.io in Deutschland entwickelt; sie gewann deutlich an Verbreitung für Workflow-Editoren, Diagrammtools und visuelle Programmieroberflächen.",
+    "history": "React Flow ist eine Open-Source-Bibliothek unter MIT-Lizenz zum Erstellen knotenbasierter Graph-UIs in React, die um 2019 vom Team von webkid.io in Deutschland entwickelt wurde. Für Workflow-Editoren, Diagrammtools und visuelle Programmieroberflächen hat sie deutlich an Verbreitung gewonnen.",
     "summary_abuse": "React Flow ist eine Entwicklerbibliothek für knotenbasierte Graph-Oberflächen und hat keine Konsumentenoberfläche. Es gibt kein auffälliges Missbrauchssignal."
   },
   "React Native for Web": {
@@ -306,7 +306,7 @@
   },
   "React Router": {
     "description": "React Router bietet deklaratives Routing für React.",
-    "history": "React Router wurde 2014 von Ryan Florence und Michael Jackson als Standard-Routing-Bibliothek für React-Anwendungen entwickelt. 2022 schloss es sich mit dem Remix-Framework-Team zusammen, und das Remix-Unternehmen wurde später von Shopify übernommen. React Router v6 und v7 übernehmen Remix-Konventionen direkt, wodurch die Grenze zwischen Router und Framework zunehmend dünn wird.",
+    "history": "React Router wurde 2014 von Ryan Florence und Michael Jackson als Standard-Routing-Bibliothek für React-Anwendungen entwickelt. 2022 schloss es sich mit dem Remix-Framework-Team zusammen, und das Remix-Unternehmen wurde später von Shopify übernommen. React Router v6 und v7 übernehmen Remix-Konventionen direkt, wodurch die Grenze zwischen Router und Framework zunehmend verschwimmt.",
     "summary_abuse": "React Router ist eine grundlegende clientseitige Routing-Bibliothek für React ohne auffälliges Missbrauchssignal; sie funktioniert als Build-Abhängigkeit und hat keine Konsumentenoberfläche."
   },
   "Reactful": {
@@ -371,7 +371,7 @@
   },
   "Really Simple SSL & Security": {
     "description": "Really Simple SSL & Security ist eine einfach zu installierende und performante Sicherheitslösung für WordPress.",
-    "history": "Really Simple SSL & Security ist ein beliebtes WordPress-Plugin, das Rogier Lankhorst in den Niederlanden um 2014 gründete. Es sollte die Aktivierung von SSL-Zertifikaten vereinfachen und WordPress-Websites grundlegende Sicherheits-Härtung bieten. Das Plugin ist auf über 6 Millionen aktive Installationen gewachsen.",
+    "history": "Really Simple SSL & Security ist ein beliebtes WordPress-Plugin, das Rogier Lankhorst in den Niederlanden um 2014 gründete. Es sollte die Aktivierung von SSL-Zertifikaten vereinfachen und WordPress-Websites eine grundlegende Sicherheitshärtung bieten. Das Plugin ist auf über 6 Millionen aktive Installationen gewachsen.",
     "summary_abuse": "Really Simple SSL & Security ist ein WordPress-Sicherheitsplugin ohne auffälliges Missbrauchssignal. Es erzwingt SSL und fügt WordPress-Websites Sicherheits-Header hinzu, ohne mit Betrug oder Spam in Verbindung zu stehen."
   },
   "RealNex MarketPlace": {
@@ -607,7 +607,7 @@
     "summary_abuse": "Redux Framework ist eine WordPress-Entwicklerbibliothek zum Erstellen von Einstellungsbereichen; sie hat keine verbrauchergerichtete Oberfläche und kein auffälliges Missbrauchssignal."
   },
   "RedwoodJS": {
-    "description": "RedwoodJS ist ein Full-Stack-Serverless-Webanwendungsframework, gebaut von Tom Preston Werner, dem Mitgründer von Github, und weiteren Mitwirkenden.",
+    "description": "RedwoodJS ist ein Full-Stack-Serverless-Webanwendungsframework, das von Tom Preston-Werner, dem Mitgründer von GitHub, und weiteren Mitwirkenden entwickelt wurde.",
     "history": "RedwoodJS ist ein Full-Stack-Serverless-JavaScript-Framework, das Tom Preston-Werner, Mitgründer von GitHub, und weitere Mitwirkende entwickelten und 2020 erstmals veröffentlichten. Es verbindet React, GraphQL, Prisma und Deployment auf Serverless Functions zu einem meinungsstarken Full-Stack-Framework.",
     "summary_abuse": "RedwoodJS ist ein quelloffenes Full-Stack-Webframework ohne verbrauchergerichtete Oberfläche und ohne auffälliges Missbrauchssignal."
   },
@@ -658,7 +658,7 @@
   },
   "Reflektion": {
     "description": "Reflektion ist eine kundenzentrierte Personalisierungsplattform, die Kundenerlebnisse in Echtzeit individuell optimiert.",
-    "history": "Reflektion wurde 2012 von Amar Chokhawala, einem ehemaligen Google-Ingenieur, als KI-gestützte E-Commerce-Personalisierungsplattform gegründet. Im September 2021 übernahm Sitecore Reflektion, um seine KI-getriebenen Digital-Experience-Fähigkeiten zu stärken.",
+    "history": "Reflektion wurde 2012 von Amar Chokhawala, einem ehemaligen Google-Ingenieur, als KI-gestützte E-Commerce-Personalisierungsplattform gegründet. Im September 2021 übernahm Sitecore Reflektion, um seine KI-gestützten Digital-Experience-Funktionen zu stärken.",
     "summary_abuse": "Reflektion ist eine B2B-Plattform für E-Commerce-Personalisierung, die direkt in die Infrastruktur von Enterprise-Händlern integriert wird. Es gibt kein auffälliges Missbrauchssignal, da sie als Backend-Dienst für geprüfte Enterprise-Kunden ohne verbrauchergerichtete Oberfläche arbeitet, auf die Betrüger abzielen würden."
   },
   "Reflex": {
@@ -667,7 +667,7 @@
     "summary_abuse": "Reflex ist ein Open-Source-Webframework für Python. Es gibt kein auffälliges Missbrauchssignal. Es ist ein Entwicklerwerkzeug zum Erstellen von Webanwendungen und trägt keine verbrauchergerichtete Oberfläche, auf die Betrüger abzielen würden."
   },
   "Reform": {
-    "description": "Reform ist ein conversion-orientierter Form Builder zur Optimierung der Datenerfassung.",
+    "description": "Reform ist ein auf Conversion ausgerichteter Formularbaukasten zur Optimierung der Datenerfassung.",
     "history": "Reform wurde 2021 gegründet und ist in den USA eingetragen. Das Unternehmen bietet einen No-Code Form Builder mit Fokus auf hochkonvertierende Lead-Generierung, einschliesslich Conditional Logic und mehrstufiger Formulare. Es ist ein kleines Startup ohne verzeichnete auffällige Übernahmen oder Eigentümerwechsel.",
     "summary_abuse": "Reform ist ein SaaS-Form-Builder mit Gratisstufe. Form Builder bergen ein moderates Risiko, über Phishing-Formulare Zugangsdaten oder Personendaten abzugreifen, doch zu Reform wurden keine konkreten dokumentierten Vorfälle gemeldet. Das abonnementbasierte Modell verlangt ein Konto und schafft damit eine gewisse Hürde gegen rein anonymen Missbrauch."
   },
@@ -703,7 +703,7 @@
   },
   "Reinvigorate": {
     "history": "Reinvigorate wurde 2002 als Echtzeit-Webanalyse- und Heatmap-Dienst gegründet und ging 2005 eine Partnerschaft mit Media Temple ein. Im August 2011 wurde der Dienst von Webtrends übernommen, wodurch er als eigenständiges Produkt weitgehend obsolet wurde. Der Dienst gilt heute faktisch als eingestellt.",
-    "summary_abuse": "Reinvigorate war ein Webanalyse-Tracker. Als inzwischen eingestellter Dienst, der in Webtrends aufgegangen ist, weist er kein laufendes auffälliges Missbrauchssignal auf. Während der aktiven Zeit können Analytics-Skripte zur Nutzer-Fingerprinting missbraucht werden, doch es sind keine bedeutenden dokumentierten Vorfälle spezifisch zu Reinvigorate bekannt."
+    "summary_abuse": "Reinvigorate war ein Webanalyse-Tracker. Als inzwischen eingestellter Dienst, der in Webtrends aufgegangen ist, weist er kein laufendes auffälliges Missbrauchssignal auf. Während der aktiven Zeit können Analytics-Skripte zum Fingerprinting von Nutzern missbraucht werden, doch es sind keine bedeutenden dokumentierten Vorfälle spezifisch zu Reinvigorate bekannt."
   },
   "Rela": {
     "description": "Rela ist ein Set von Immobilienmarketing-Werkzeugen für Immobilienfachleute, um Inserate aufzuwerten, potenzielle Käufer anzuziehen und den Verkaufsprozess zu vereinfachen.",
@@ -728,7 +728,7 @@
   "Releasit COD Form & Upsells": {
     "description": "Releasit COD Form & Upsells ist eine Shopify-App, die den Standard-Checkout durch ein anpassbares Cash-on-Delivery-Bestellformular ersetzt und Upsell-Funktionen zur Erhöhung des durchschnittlichen Bestellwerts unterstützt.",
     "history": "Releasit COD Form & Upsells ist eine Shopify-App, die den Standard-Checkout durch ein Cash-on-Delivery-Formular und Upsell-Flows ersetzt; sie ist bei Dropshipping-Händlern beliebt.",
-    "summary_abuse": "Releasit wird häufig mit COD-Dropshipping-Operationen in Verbindung gebracht, die ein erhöhtes Betrugsrisiko tragen. Cash-on-Delivery-Dropshipping-Shops tauchen oft in Beschwerden zu Scams und gefälschten Waren auf, und Werkzeuge, die dieses Checkout-Muster ermöglichen, können solche Shops erleichtern."
+    "summary_abuse": "Releasit wird häufig mit COD-Dropshipping-Operationen in Verbindung gebracht, die ein erhöhtes Betrugsrisiko tragen. Cash-on-Delivery-Dropshipping-Shops tauchen oft in Beschwerden zu Scams und gefälschten Waren auf, und Werkzeuge, die dieses Checkout-Muster ermöglichen, können das Entstehen solcher Shops begünstigen."
   },
   "Releva": {
     "description": "Releva ist eine Marketing-Automation-Plattform für E-Commerce, die KI nutzt, um Umsatz in Echtzeit zu steuern und Markenkommunikation zu automatisieren.",
@@ -1052,7 +1052,7 @@
   "RevContent": {
     "description": "RevContent ist eine Monetarisierungs- und Empfehlungsmaschine, die Werbetreibende mit stark engagierten Zielgruppen auf führenden Publisher-Websites verbindet.",
     "history": "RevContent ist ein Netzwerk für Native Advertising und Content-Empfehlungen, das 2013 gegründet wurde. Es konkurriert mit Taboola und Outbrain im Native-Ad-Bereich und monetarisiert Publisher-Websites vor allem über Sponsored-Content-Widgets. Kritik gab es wegen minderwertiger und irreführender Clickbait-Anzeigen.",
-    "summary_abuse": "RevContent ist ein Native-Advertising-Netzwerk, das in zahlreichen Berichten für irreführende, sensationsheischende und clickbaitartige Anzeigen dokumentiert wurde, die häufig Nachrichtenartikel oder Prominentenempfehlungen imitieren. Solche Anzeigenformate werden oft in Betrugsmaschen und Scam-Produktkampagnen eingesetzt. Publisher, die RevContent nutzen, können unbeabsichtigt Anzeigen betrügerischer Werbekunden anzeigen. RevContent hat zwar Inhaltsrichtlinien veröffentlicht, deren Durchsetzung war laut Dokumentationen von Sicherheitsforschern jedoch uneinheitlich."
+    "summary_abuse": "RevContent ist ein Native-Advertising-Netzwerk, das in zahlreichen Berichten für irreführende, sensationsheischende und clickbaitartige Anzeigen dokumentiert wurde, die häufig Nachrichtenartikel oder Empfehlungen von Prominenten imitieren. Solche Anzeigenformate werden oft in Betrugsmaschen und Scam-Produktkampagnen eingesetzt. Publisher, die RevContent nutzen, können unbeabsichtigt Anzeigen betrügerischer Werbekunden anzeigen. RevContent hat zwar Inhaltsrichtlinien veröffentlicht, deren Durchsetzung war laut Dokumentationen von Sicherheitsforschern jedoch uneinheitlich."
   },
   "REVE Chat": {
     "description": "REVE Chat ist eine KI-gestützte Plattform, die Kundenservice-Interaktionen über Chatbots und Live-Chat-Support automatisiert und verbessert.",
@@ -1062,7 +1062,7 @@
   "Reveal.js": {
     "description": "Reveal.js ist ein JavaScript-Framework zum Erstellen dynamischer und interaktiver Präsentationen mit Webtechnologien wie HTML, CSS und JavaScript.",
     "history": "Reveal.js wurde 2011 von Hakim El Hattab als Open-Source-HTML-Präsentationsframework geschaffen. Es wurde zur führenden webbasierten Slide-Präsentationsbibliothek und brachte kommerzielle Produkte wie Slides.com hervor. Das Projekt wird weiterhin aktiv gepflegt und breit genutzt.",
-    "summary_abuse": "Reveal.js ist ein JavaScript-Präsentationsframework ohne auffälliges Missbrauchssignal. Es ist eine Frontend-Bibliothek zum Erstellen von Slides und hat keine verbraucherseitige Oberfläche, die Betrugsakteure angreifen würden."
+    "summary_abuse": "Reveal.js ist ein JavaScript-Präsentationsframework ohne auffälliges Missbrauchssignal. Es ist eine Frontend-Bibliothek zum Erstellen von Slides und hat keine verbraucherseitige Oberfläche, die Betrugsakteure ins Visier nehmen würden."
   },
   "Revel": {
     "history": "Revel ist ein Open-Source-Full-Stack-Webframework für die Programmiersprache Go, das erstmals um 2012 veröffentlicht wurde. Es wurde vom Play Framework inspiriert und verfolgt für Go-Webentwicklung einen Ansatz mit vielen integrierten Funktionen. Bedeutende Übernahmen oder Eigentümerwechsel gab es nicht.",
@@ -1071,7 +1071,7 @@
   "Revenue Roll": {
     "description": "Revenue Roll ist ein Identifikations- und Retargeting-Dienst, der Website-Besucher erkennt und verhaltensbasierte Zielwerbung ausliefert.",
     "history": "Revenue Roll ist ein US-Dienst zur Besucheridentifikation und zum Retargeting, der anonyme Website-Besucher identifiziert, um personalisiertes Marketing zu ermöglichen.",
-    "summary_abuse": "Revenue Roll sammelt Identitätsdaten zu anonymen Website-Besuchern für Retargeting-Zwecke, was grundsätzliche Datenschutzbedenken mit sich bringt. Der Dienst ist nicht direkt an betrügerischen Aktivitäten beteiligt, trägt aber zu seitenübergreifendem Identity Tracking ohne ausdrückliche Zustimmung der Nutzer bei."
+    "summary_abuse": "Revenue Roll sammelt Identitätsdaten zu anonymen Website-Besuchern für Retargeting-Zwecke, was grundsätzliche Datenschutzbedenken mit sich bringt. Der Dienst ist nicht direkt an betrügerischen Aktivitäten beteiligt, trägt aber zur seitenübergreifenden Nachverfolgung von Nutzeridentitäten ohne deren ausdrückliche Zustimmung bei."
   },
   "RevenueHunt": {
     "description": "RevenueHunt ist ein Affiliate-Marketing- und Werbeunternehmen mit Spezialisierung auf bezahlte Umfragen und Cost-per-Lead-Kampagnen.",
@@ -1085,7 +1085,7 @@
   },
   "Reviefy": {
     "description": "Reviefy ist eine Lösung zur Sammlung von Produktbewertungen, die für die Integration mit der E-Commerce-Plattform MyCashFlow entwickelt wurde.",
-    "history": "Reviefy ist ein Integrationswerkzeug für Produktbewertungen, das speziell für die finnische E-Commerce-Plattform MyCashFlow gebaut wurde. Es ist ein nischenhaftes, marktspezifisches Produkt.",
+    "history": "Reviefy ist ein Integrationswerkzeug für Produktbewertungen, das speziell für die finnische E-Commerce-Plattform MyCashFlow gebaut wurde. Es ist ein Nischenprodukt für einen spezifischen Markt.",
     "summary_abuse": "Reviefy ist ein Werkzeug für Produktbewertungen in MyCashFlow-Shops ohne auffälliges Missbrauchssignal. Es ist ein finnisches E-Commerce-Add-on ohne dokumentierte Ausnutzungsgeschichte."
   },
   "Revieve": {
@@ -1146,7 +1146,7 @@
   "Reviewshake": {
     "description": "Reviewshake ist ein All-in-one-Tool für Reputationsmanagement, das Bewertungen generiert, deine Marke stärkt und deine Reputation überwacht.",
     "history": "Reviewshake ist ein All-in-one-SaaS für Review-Management und Reputationsüberwachung, das um 2017 gestartet wurde. Es bündelt Bewertungen aus mehreren Plattformen und bietet Tools zur Generierung von Reviews.",
-    "summary_abuse": "Reviewshake ist ein SaaS für Reputationsmanagement mit geringem Missbrauchspotenzial. Tools zur Einholung von Bewertungen können zur Erzeugung voreingenommener Reviews missbraucht werden. Reviewshake ist jedoch eine legitime Plattform für Agenturen und Unternehmen ohne dokumentierte Geschichte erheblicher Ausnutzung."
+    "summary_abuse": "Reviewshake ist ein SaaS für Reputationsmanagement mit geringem Missbrauchspotenzial. Tools zur Einholung von Bewertungen können missbraucht werden, um verzerrte Bewertungen zu erzeugen. Reviewshake ist jedoch eine legitime Plattform für Agenturen und Unternehmen ohne dokumentierte Fälle erheblichen Missbrauchs."
   },
   "ReviewSolicitors": {
     "description": "ReviewSolicitors ist eine kostenlose und unabhängige, klientengeführte Bewertungsplattform für den britischen Rechtsmarkt.",
@@ -1179,7 +1179,7 @@
     "summary_abuse": "RevolverMaps ist ein Besuchertracking-Widget, das Berichten zufolge eingestellt wurde. Als es aktiv war, sammelte es IP-basierte Geolokalisierungsdaten ohne ausdrückliche Nutzereinwilligung, was GDPR-Bedenken auslöste. Grössere Betrugs- oder Malware-Vorfälle sind nicht dokumentiert."
   },
   "RevTrax": {
-    "description": "RevTrax ist eine Plattform für Angebotsmanagement, die Leistungskennzahlen nachverfolgt und verwertbare Erkenntnisse verbindet.",
+    "description": "RevTrax ist eine Plattform für Angebotsmanagement, die Leistungskennzahlen nachverfolgt und zu verwertbaren Erkenntnissen verknüpft.",
     "history": "RevTrax ist eine US-Plattform für Angebotsmanagement und Coupon-Tracking, die um 2005 gegründet wurde; sie hilft Marken, die Performance digitaler Coupons zu messen und Angebote mit Verkäufen im stationären Handel zu verknüpfen. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "RevTrax ist eine Plattform für Coupon- und Angebotsmanagement mit geringem Missbrauchsrisiko. Digitale Coupon-Plattformen können für Coupon-Betrug genutzt werden, RevTrax arbeitet jedoch mit markenautorisierten Angeboten und Tracking. Konkrete Betrugsvorfälle sind nicht dokumentiert."
   },
@@ -1196,7 +1196,7 @@
   "Rewardful": {
     "description": "Rewardful ermöglicht SaaS-Unternehmen, Affiliate- und Empfehlungsprogramme mit Stripe einzurichten.",
     "history": "Rewardful wurde um 2018 als bootstrapped Tool für Affiliate- und Empfehlungsprogramme gegründet, speziell für SaaS-Unternehmen mit Stripe. 2022 wurde es von Paddle übernommen und erhielt dadurch native Unterstützung für über Paddle abgerechnete Abonnements.",
-    "summary_abuse": "Rewardful ist eine Affiliate-Management-Plattform für SaaS-Unternehmen. Wie alle Affiliate-Plattformen kann sie von betrügerischen Empfehlungen betroffen sein, der Anbieter enthält jedoch Tracking-Schutzmechanismen und das Produkt ist B2B-orientiert, ohne verbraucherorientiertes Content-Hosting, das Phishing-Akteure anziehen würde."
+    "summary_abuse": "Rewardful ist eine Affiliate-Management-Plattform für SaaS-Unternehmen. Wie alle Affiliate-Plattformen kann sie von betrügerischen Empfehlungen betroffen sein, der Anbieter hat jedoch Schutzmechanismen in sein Tracking eingebaut und das Produkt ist B2B-orientiert, ohne verbraucherorientiertes Content-Hosting, das Phishing-Akteure anziehen würde."
   },
   "Rewix": {
     "description": "Rewix ist eine B2B-E-Commerce-Plattform mit flexiblen und sicheren Lösungen, die den Verkauf durch datengetriebene Tools steigern sollen.",
@@ -1270,7 +1270,7 @@
   "Ringba": {
     "description": "Ringba bietet Call-Tracking-Lösungen für Unternehmen, Pay-per-Call-Netzwerke, Broker, Agenturen und Performance-Marketer jeder Grösse.",
     "history": "Ringba ist eine US-Plattform für Call Tracking und Pay-per-Call-Werbung, die um 2013 gegründet wurde; sie bedient Affiliate-Marketer und Performance-Werber mit anrufbasierten Kampagnen. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Ringba ist eine Pay-per-Call- und Call-Tracking-Plattform im Performance-Marketing. In der Pay-per-Call-Werbeindustrie gibt es dokumentierte Fälle von Call Fraud, darunter incentivierte oder betrügerische Anrufe zur Auslösung von Auszahlungen pro Anruf. Ringba bietet zwar Betrugserkennung, das Pay-per-Call-Affiliate-Ökosystem trägt jedoch inhärent ein erhöhtes Betrugsrisiko."
+    "summary_abuse": "Ringba ist eine Pay-per-Call- und Call-Tracking-Plattform im Performance-Marketing. In der Pay-per-Call-Werbeindustrie gibt es dokumentierte Fälle von Call Fraud, darunter incentivierte oder betrügerische Anrufe, die Auszahlungen pro Anruf auslösen sollen. Ringba bietet zwar Betrugserkennung, das Pay-per-Call-Affiliate-Ökosystem trägt jedoch inhärent ein erhöhtes Betrugsrisiko."
   },
   "RingCaptcha": {
     "description": "RingCaptcha ist ein Full-Stack-Service, mit dem du Nutzer per SMS onboarden und verifizieren kannst.",
@@ -1307,7 +1307,7 @@
     "summary_abuse": "Ripple ist ein OSS-Frontend-Framework aus dem Regierungssektor ohne auffälliges Missbrauchssignal. Es hostet keine verbraucherorientierten Inhalte und wird ausschliesslich von australischen Regierungsstellen genutzt."
   },
   "Rise.ai": {
-    "description": "Rise.ai ist eine Lösung zur strategischen Wiederansprache, mit der Marken und Händler eine eigene, einzigartige Währung bereitstellen können.",
+    "description": "Rise.ai ist eine Lösung für strategisches Re-Engagement, mit der Marken und Händler eine eigene, einzigartige Währung bereitstellen können.",
     "history": "Rise.ai wurde 2015 in Tel Aviv von Yair Miron als Plattform für Geschenkkarten und Store Credit für E-Commerce-Marken gegründet. Im Mai 2021 wurde das Unternehmen von Wix.com übernommen, um die E-Commerce-Plattform von Wix um Loyalty- und Geschenkkartenfunktionen zu erweitern.",
     "summary_abuse": "Rise.ai ist eine Plattform für Geschenkkarten und Loyalty-Programme für E-Commerce-Händler mit gering dokumentiertem Missbrauch. Geschenkkartenplattformen können von Betrügern angegriffen werden, die gestohlene Guthaben weiterverkaufen. Rise.ai arbeitet jedoch als B2B-Tool für Händler und nicht als Verbrauchereinlösenetzwerk, wodurch die direkte Missbrauchsfläche für Endkunden begrenzt ist."
   },
@@ -1400,7 +1400,7 @@
     "summary_abuse": "RoboReception ist ein spezialisiertes Healthcare-Chatbot-Tool ohne dokumentierte Missbrauchsgeschichte. Es ist ein B2B-Produkt für klinische Praxen ohne verbraucherorientierte öffentliche Hosting-Fläche."
   },
   "ROC Commerce": {
-    "description": "ROC Commerce ist eine Omnichannel-Commerce-Lösung für B2B- und B2C-Unternehmen, die E-Commerce-Abläufe über mehrere Plattformen hinweg vereinheitlicht.",
+    "description": "ROC Commerce ist eine Omnichannel-Commerce-Lösung für B2B- und B2C-Unternehmen, die effiziente E-Commerce-Abläufe über mehrere Plattformen hinweg ermöglicht.",
     "history": "ROC Commerce (Real Omni-Channel Commerce) wurde 2014 von Americaneagle.com, einer familiengeführten Webentwicklungsagentur, als dedizierte B2B- und B2C-Omnichannel-E-Commerce-Plattform gestartet. Frühere E-Commerce-Tools von Americaneagle.com existierten bereits vor diesem Rebranding.",
     "summary_abuse": "ROC Commerce weist kein auffälliges Missbrauchssignal auf. Es ist eine B2B/B2C-E-Commerce-Plattform für Enterprise-Kunden ohne verbraucherorientierte Gratisstufe, die Betrüger ins Visier nehmen würden."
   },
@@ -1521,12 +1521,12 @@
   "RoundCube": {
     "description": "RoundCube ist ein freier und quelloffener webbasierter IMAP-E-Mail-Client.",
     "history": "RoundCube wurde 2005 als freier und quelloffener webbasierter IMAP-E-Mail-Client gegründet. Die Software wurde zu einer der weltweit am häufigsten eingesetzten Webmail-Lösungen und wird oft mit Webhosting-Control-Panels wie cPanel gebündelt. Die RoundCube Foundation betreut die Entwicklung.",
-    "summary_abuse": "RoundCube ist ein weit verbreiteter Open-Source-Webmail-Client. Da er von Millionen Webhosting-Anbietern selbst betrieben wird, wurden Sicherheitslücken in RoundCube historisch gezielt ausgenutzt, insbesondere eine 2023 als Zero-Day genutzte Schwachstelle (CVE-2023-43770), die staatlich unterstützte Gruppen zur Zugangsdatenbeschaffung einsetzten. Die Sicherheitsreaktion des Projekts gilt insgesamt als solide, und Schwachstellen werden in der Regel zeitnah gepatcht."
+    "summary_abuse": "RoundCube ist ein weit verbreiteter Open-Source-Webmail-Client. Da er von Millionen Webhosting-Anbietern selbst betrieben wird, wurden Sicherheitslücken in RoundCube historisch gezielt ausgenutzt, insbesondere eine 2023 als Zero-Day genutzte Schwachstelle (CVE-2023-43770), die staatlich unterstützte Gruppen zum Diebstahl von Zugangsdaten einsetzten. Die Sicherheitsreaktion des Projekts gilt insgesamt als solide, und Schwachstellen werden in der Regel zeitnah gepatcht."
   },
   "Route": {
     "description": "Route ist eine App zur Sendungs- und Lieferverfolgung.",
     "history": "Route wurde 2019 von Evan Walker und Mike Moreno als Plattform für Paketverfolgung und Versandabsicherung im E-Commerce mitgegründet. Das Unternehmen nahm insgesamt 340 Millionen US-Dollar auf und erreichte mit seiner Series C im Jahr 2024 eine Bewertung von 1,4 Milliarden US-Dollar. Route bietet Schutz nach dem Kauf, einschliesslich lizenzierter Versandversicherung.",
-    "summary_abuse": "Route ist eine Plattform für Sendungsverfolgung und Paketschutz, die von E-Commerce-Händlern genutzt wird. Als verbraucherorientierte Plattform, die Paketansprüche und Zahlungsinformationen verarbeitet, benötigt sie übliche Betrugskontrollen gegen Missbrauch wie falsche Ansprüche. Eine dokumentierte, breitflächige betrügerische Nutzung der Route-Plattform ist nicht bekannt."
+    "summary_abuse": "Route ist eine Plattform für Sendungsverfolgung und Paketschutz, die von E-Commerce-Händlern genutzt wird. Als verbraucherorientierte Plattform, die Paketansprüche und Zahlungsinformationen verarbeitet, benötigt sie übliche Betrugskontrollen gegen Missbrauch wie gefälschte Schadensmeldungen. Eine dokumentierte, breitflächige betrügerische Nutzung der Route-Plattform ist nicht bekannt."
   },
   "Roya": {
     "description": "Roya ist eine digitale Plattform, die Online-Präsenz mit schlanken Werkzeugen und strukturiertem Content Management verbessern soll.",
@@ -1641,7 +1641,7 @@
   "Rust": {
     "description": "Rust ist eine multiparadigmatische Allzweck-Programmiersprache, die auf Leistung und Sicherheit ausgelegt ist, insbesondere auf sichere Nebenläufigkeit.",
     "history": "Rust wurde von Graydon Hoare bei Mozilla Research etwa zwischen 2006 und 2010 angestossen und 2010 erstmals offiziell veröffentlicht. Mozilla unterstützte die Entwicklung bis Version 1.0 im Jahr 2015. 2021 wurde die Rust Foundation als unabhängige gemeinnützige Organisation zur Betreuung der Sprache gegründet, mit Gründungsmitgliedern wie Mozilla, Microsoft, Google, AWS und Huawei.",
-    "summary_abuse": "Rust ist eine Systemprogrammiersprache ohne auffälliges Missbrauchssignal; sie wird zunehmend für sicherheitskritische Software und auch von anspruchsvollen Angreifern für Malware genutzt, was aber ihre Leistungseigenschaften widerspiegelt und kein Problem einer Anbieteroberfläche ist."
+    "summary_abuse": "Rust ist eine Systemprogrammiersprache ohne auffälliges Missbrauchssignal. Sie wird zunehmend für sicherheitskritische Software, von versierten Angreifern aber auch für Malware genutzt; das spiegelt ihre Leistungseigenschaften wider und stellt kein Problem aufseiten eines Anbieters dar."
   },
   "Ruttl": {
     "description": "Ruttl ist eine Plattform für visuelles und Design-Feedback, mit der Nutzer Layouts, Inhalte und Fehler auf Websites, in Anwendungen, PDFs und Bildern prüfen können.",

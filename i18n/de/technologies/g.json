@@ -1,8 +1,8 @@
 {
   "Gallabox": {
     "description": "Gallabox verwandelt WhatsApp in ein Web-Chat-Widget und erleichtert die Verwaltung von Leads, Buchungen, Abschlüssen und Bestellungen.",
-    "history": "Gallabox ist eine indische WhatsApp Business API-Plattform, die 2020 gegründet wurde; sie bietet Unternehmen Werkzeuge, um WhatsApp-Konversationen zu verwalten, Chatbots zu erstellen und Marketingkampagnen durchzuführen. Das Startup erhielt Venture-Finanzierung und richtet sich an KMU in Indien und Südostasien.",
-    "summary_abuse": "Gallabox ist eine WhatsApp Business API-Plattform. Messaging-Werkzeuge auf WhatsApp-Basis bergen das Risiko, für Spam und Massenkampagnen genutzt zu werden. Gallabox ist zwar ein legitimer Meta Business Partner, Automatisierungstools für WhatsApp-Messaging werden in indischen Märkten jedoch häufig für unerwünschtes Marketing und Betrugsnachrichten eingesetzt."
+    "history": "Gallabox ist eine indische WhatsApp-Business-API-Plattform, die 2020 gegründet wurde; sie bietet Unternehmen Werkzeuge, um WhatsApp-Konversationen zu verwalten, Chatbots zu erstellen und Marketingkampagnen durchzuführen. Das Startup erhielt Venture-Finanzierung und richtet sich an KMU in Indien und Südostasien.",
+    "summary_abuse": "Gallabox ist eine WhatsApp-Business-API-Plattform. Messaging-Werkzeuge auf WhatsApp-Basis bergen das Risiko, für Spam und Massenkampagnen genutzt zu werden. Gallabox ist zwar ein legitimer Meta Business Partner, Automatisierungstools für WhatsApp-Messaging werden in indischen Märkten jedoch häufig für unerwünschtes Marketing und Betrugsnachrichten eingesetzt."
   },
   "Gallery": {
     "description": "Gallery ist eine quelloffene, webbasierte Anwendung zum Organisieren von Fotoalben.",
@@ -21,7 +21,7 @@
   },
   "Gamma": {
     "description": "Gamma ist eine KI-gestützte Plattform zum Erstellen von Präsentationen, Dokumenten und Websites ohne Design- oder Programmierkenntnisse.",
-    "history": "Gamma ist ein KI-gestütztes Werkzeug für Präsentationen und Dokumente, das 2020 von Grant Lee, Jon Noronha und James Fox in San Francisco gegründet wurde. Das Unternehmen nahm erhebliche Venture-Finanzierung auf und veröffentlichte sein KI-Präsentationstool 2023 öffentlich, worauf es rasch Millionen Nutzer gewann. Es wurde zu einer der beliebtesten KI-gestützten Alternativen zu PowerPoint und Google Slides.",
+    "history": "Gamma ist ein KI-gestütztes Werkzeug für Präsentationen und Dokumente, das 2020 von Grant Lee, Jon Noronha und James Fox in San Francisco gegründet wurde. Das Unternehmen nahm erhebliche Venture-Finanzierung auf und machte sein KI-Präsentationstool 2023 öffentlich verfügbar und gewann damit rasch Millionen Nutzer. Es wurde zu einer der beliebtesten KI-gestützten Alternativen zu PowerPoint und Google Slides.",
     "summary_abuse": "Gamma ist ein KI-Präsentationstool mit schnellem Wachstum. Als Plattform zur Inhaltserstellung könnte es für irreführende oder spamartige Präsentationen genutzt werden, grössere dokumentierte Missbrauchsvorfälle sind jedoch nicht bekannt. KI-generierte Inhalte können für Desinformation missbraucht werden, und Gamma-Präsentationen lassen sich öffentlich veröffentlichen."
   },
   "Gamooga": {
@@ -271,7 +271,7 @@
     "summary_abuse": "WhatsApp-Business-Plattform mit üblichem Umgang mit Messaging-Daten. Keine nennenswerten Dark Patterns. Bedient hauptsächlich den indischen Markt."
   },
   "Getintent": {
-    "description": "Getintent ist ein Ad-Tech-Unternehmen, das eine KI-gestützte Programmatic-Suite für Agenturen, Publisher, Broadcaster und Content Owners anbietet.",
+    "description": "Getintent ist ein Ad-Tech-Unternehmen, das eine KI-gestützte Programmatic-Suite für Agenturen, Publisher, Broadcaster und Rechteinhaber anbietet.",
     "history": "Getintent ist eine Programmatic-Advertising- und Data-Management-Plattform (DMP) für Audience Targeting, Ad Serving und Analytics. Das Unternehmen stammt ursprünglich aus Russland und ist im digitalen Werbemarkt tätig.",
     "summary_abuse": "Programmatic-Advertising-Plattform mit höherer Tracker-Dichte, da dies zum Geschäftsmodell gehört. Verarbeitet Nutzerdaten für Werbe-Targeting. Übliche Branchenpraktiken für Ad Tech."
   },
@@ -356,7 +356,7 @@
   },
   "Giosg": {
     "description": "Giosg ist eine Live-Chat-Lösung zur Unterstützung von E-Commerce-Plattformen durch Echtzeit-Kundenkommunikation und Engagement.",
-    "history": "Giosg wurde 2011 in Helsinki, Finnland, von CEO Ville Rissanen gegründet. Die Plattform begann als Live-Chat- und Customer-Engagement-Werkzeug für Unternehmen. Im April 2023 übernahm Giosg Whisbi, einen spanischen Live-Shopping-SaaS-Anbieter, und erweiterte damit die Funktionen für videobasierten Verkauf und Live Commerce. Das Unternehmen ist auf über 1'200 Kunden weltweit gewachsen.",
+    "history": "Giosg wurde 2011 in Helsinki, Finnland, von CEO Ville Rissanen gegründet. Die Plattform begann als Live-Chat- und Customer-Engagement-Werkzeug für Unternehmen. Im April 2023 übernahm Giosg Whisbi, einen spanischen Live-Shopping-SaaS-Anbieter, und erweiterte damit die Funktionen für videobasierten Verkauf und Live Commerce. Das Unternehmen zählt heute über 1'200 Kunden weltweit.",
     "summary_abuse": "Giosg ist eine B2B-Customer-Engagement-Plattform für Enterprise-Kunden in Detailhandel, Automotive und Finanzdienstleistungen. Mit der Plattform sind keine dokumentierten Missbrauchsmuster verbunden. Das Enterprise-Vertriebsmodell und der gezielte Branchenfokus führen zu sehr begrenzter Exposition gegenüber verbraucherseitigem Betrug oder Spam."
   },
   "Giscus": {
@@ -526,12 +526,12 @@
   "Global-e": {
     "description": "Global-e ist ein Anbieter von Lösungen für grenzüberschreitenden E-Commerce.",
     "history": "Global-e ist eine Plattform zur Ermöglichung von grenzüberschreitendem E-Commerce, gegründet 2013 in Israel. Das Unternehmen wurde 2021 an der Nasdaq gelistet (GLBE). Shopify erwarb 2021 im Rahmen einer strategischen Partnerschaft eine bedeutende Beteiligung.",
-    "summary_abuse": "Global-e verarbeitet grenzüberschreitende Zahlungen mit üblicher Card-not-present-Betrugsexposition, arbeitet aber unter regulierter Zahlungsaufsicht und mit PCI-DSS-Compliance. Keine nennenswerten plattformspezifischen Missbrauchsvorfälle."
+    "summary_abuse": "Global-e verarbeitet grenzüberschreitende Zahlungen mit dem für Card-not-present-Transaktionen üblichen Betrugsrisiko, arbeitet aber unter regulierter Zahlungsaufsicht und mit PCI-DSS-Compliance. Keine nennenswerten plattformspezifischen Missbrauchsvorfälle."
   },
   "GlobalShopex": {
     "description": "GlobalShopex bietet eine leicht integrierbare E-Commerce-Logistiklösung, die Online-Unternehmen beim Verkauf in über 200 Länder unterstützt.",
     "history": "GlobalShopex ist eine Lösung für grenzüberschreitenden E-Commerce und internationalen Versand, gegründet um 2008 in den USA. Grössere Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "GlobalShopex ist ein Anbieter für grenzüberschreitenden Versand mit üblicher E-Commerce-Betrugsexposition. Spezifische nennenswerte Vorfälle sind nicht dokumentiert."
+    "summary_abuse": "GlobalShopex ist ein Anbieter für grenzüberschreitenden Versand mit dem im E-Commerce üblichen Betrugsrisiko. Spezifische nennenswerte Vorfälle sind nicht dokumentiert."
   },
   "Globo Also Bought": {
     "description": "Also Bought ist eine Conversion-App für Shopify von Globo.",
@@ -545,7 +545,7 @@
   },
   "Globo Form Builder": {
     "description": "Form Builder ist eine Shopify-App zum Erstellen von Kontaktformularen von Globo.",
-    "history": "Globo Form Builder ist eine Shopify-App für Kontaktformular-Builder von Globo, einem vietnamesischen Shopify-App-Entwickler. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
+    "history": "Globo Form Builder ist eine Shopify-App zum Erstellen von Kontaktformularen, entwickelt von Globo, einem vietnamesischen Shopify-App-Entwickler. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Globo Form Builder ist eine Shopify-App für Kontaktformulare ohne nennenswertes Missbrauchssignal; sie läuft im Shopify-Händlerökosystem und sammelt Formulareingaben nur für Shopbetreiber."
   },
   "Globo Pre-Order": {
@@ -571,7 +571,7 @@
   "Glopal": {
     "description": "Glopal bietet fortgeschrittene internationale Marketinglösungen für E-Commerce-Händler und Marken, die global wachsen wollen.",
     "history": "Glopal wurde 2020 von Patrick Smarzynski und Benjamin Cohen gegründet, die zuvor 2007 Webinterpret mitgegründet hatten. Das Unternehmen entstand als Schwesterfirma aus Webinterpret, um grenzüberschreitenden E-Commerce für grosse Marken und Händler abzudecken. Glopal nahm 20 Millionen Euro unter Führung von Hi Inov Dentressangle und Credit Mutuel Innovation auf. Die Plattform hat ihren Hauptsitz in Paris und Büros in acht Ländern.",
-    "summary_abuse": "Glopal ist eine B2B-Plattform für grenzüberschreitende E-Commerce-Lokalisierung für Enterprise-Händler und Luxusmarken. Das reine Enterprise-Modell und der enge Anwendungsfall bedeuten minimale Exposition gegenüber endnutzernahem Missbrauch oder Betrug. Dokumentierte Missbrauchsmuster sind mit der Plattform nicht verbunden."
+    "summary_abuse": "Glopal ist eine B2B-Plattform für grenzüberschreitende E-Commerce-Lokalisierung für Enterprise-Händler und Luxusmarken. Durch das reine Enterprise-Modell und den engen Anwendungsfall ist das Risiko für Missbrauch oder Betrug im Endkundenbereich minimal. Dokumentierte Missbrauchsmuster sind mit der Plattform nicht verbunden."
   },
   "GloriaFood": {
     "description": "GloriaFood ist eine Plattform für Online-Bestellungen und Essenslieferung, die Restaurantbetreibern hilft, Bestellungen zu verwalten und Point-of-Sale-Abläufe zu vereinfachen.",
@@ -580,7 +580,7 @@
   },
   "Glow": {
     "description": "Glow ist eine Rewards-Plattform, die Unternehmen hilft, Wiederholungskäufe zu steigern, indem einmalige Käufer über strukturierte Kundenbindungsprogramme zur Rückkehr motiviert werden.",
-    "history": "Glow ist eine Plattform für Kundenloyalität und Rewards im E-Commerce, die Händlern hilft, Wiederholungskäufe über strukturierte Loyalty-Programme zu steigern. Die Plattform integriert sich mit Shopify und anderen E-Commerce-Plattformen. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "history": "Glow ist eine Plattform für Kundenloyalität und Rewards im E-Commerce, die Händlern hilft, Wiederholungskäufe über strukturierte Loyalty-Programme zu steigern. Die Plattform lässt sich in Shopify und andere E-Commerce-Plattformen integrieren. Grössere Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Glow ist eine Plattform für E-Commerce-Loyalty-Programme ohne nennenswerte dokumentierte Missbrauchsmuster. Der Anwendungsfall, wiederkehrende Kunden in etablierten E-Commerce-Shops zu belohnen, bietet nur eine minimale Fläche für Betrug oder Missbrauch."
   },
   "GLPI": {
@@ -610,7 +610,7 @@
   },
   "Go": {
     "description": "Go ist eine quelloffene High-Level-Programmiersprache.",
-    "history": "Go, auch Golang genannt, ist eine statisch typisierte kompilierte Sprache, die von Robert Griesemer, Rob Pike und Ken Thompson bei Google entwickelt und 2009 öffentlich veröffentlicht wurde; sie sollte wahrgenommene Schwächen anderer bei Google genutzter Sprachen adressieren. Go ist Open Source und wird von Google gepflegt.",
+    "history": "Go, auch Golang genannt, ist eine statisch typisierte kompilierte Sprache, die von Robert Griesemer, Rob Pike und Ken Thompson bei Google entwickelt und 2009 öffentlich veröffentlicht wurde; sie sollte wahrgenommene Schwächen anderer bei Google eingesetzter Sprachen beheben. Go ist Open Source und wird von Google gepflegt.",
     "summary_abuse": "Go ist eine grundlegende Programmiersprache ohne endnutzerseitige Missbrauchsfläche."
   },
   "Go Instore": {
@@ -621,7 +621,7 @@
   "GoAffPro": {
     "description": "GoAffPro ist eine Affiliate-Marketing-Lösung für E-Commerce-Shops.",
     "history": "GoAffPro ist eine Affiliate-Marketing-Plattform für E-Commerce-Shops mit Integrationen für Shopify, WooCommerce und BigCommerce; sie wurde um 2017 gegründet und bietet sowohl eine kostenlose Stufe als auch Premium-Pläne für kleine Unternehmen. Händler können gebrandete Affiliate-Portale einrichten, in denen sich Kunden und Influencer registrieren, Empfehlungslinks erzeugen und Provisionen auf Verkäufe verdienen. Die Plattform ist vor allem im Shopify-App-Ökosystem beliebt.",
-    "summary_abuse": "GoAffPro ist eine Affiliate-Marketing-Plattform mit moderatem Missbrauchspotenzial. Affiliate-Programme sind allgemein anfällig für Affiliate-Betrug wie gefälschte Klicks, Cookie Stuffing oder Selbstempfehlungen, und kleinere Plattformen wie GoAffPro haben im Vergleich zu grossen Enterprise-Lösungen begrenzte automatische Betrugserkennung. Grosse dokumentierte Missbrauchsvorfälle speziell zu GoAffPro wurden öffentlich nicht gemeldet."
+    "summary_abuse": "GoAffPro ist eine Affiliate-Marketing-Plattform mit moderatem Missbrauchspotenzial. Affiliate-Programme sind allgemein anfällig für Affiliate-Betrug wie gefälschte Klicks, Cookie Stuffing oder Selbstempfehlungen, und kleinere Plattformen wie GoAffPro haben im Vergleich zu grossen Enterprise-Lösungen begrenzte automatische Betrugserkennung. Grössere Missbrauchsvorfälle speziell zu GoAffPro sind öffentlich nicht dokumentiert."
   },
   "GoAhead": {
     "history": "GoAhead ist ein leichtgewichtiger Embedded-Webserver, der ursprünglich 1995 von GoAhead Software entwickelt wurde. EmbedThis Software übernahm die Codebasis und pflegt die Open-Source-Version weiter. Er wird breit in Embedded-Geräten und IoT eingesetzt.",
@@ -665,7 +665,7 @@
   "GoCertify": {
     "description": "GoCertify ist eine conversion-orientierte und kosteneffiziente Möglichkeit, Studierende, systemrelevante Arbeitskräfte, Unter-26-Jährige, Über-60-Jährige, Militärangehörige und weitere Gruppen für exklusive Rabatte zu verifizieren.",
     "history": "GoCertify ist eine eigenfinanzierte Verifizierungsplattform aus dem Vereinigten Königreich, gegründet von Jonny Matthews; sie prüft die Berechtigung für Studierenden-, Key-Worker-, Militär- und altersbasierte Rabatte bei Händlern und ist ohne externe Investitionen auf über 350 Retail-Partner gewachsen.",
-    "summary_abuse": "GoCertify ist eine Plattform zur Berechtigungsverifizierung für Retail-Rabatte. Das Verifizierungs-Gateway könnte potenziell auf Umgehungen getestet werden, doch das Unternehmen bedient legitime Händler und sein Hauptanwendungsfall ist die Verhinderung betrügerischer Rabattansprüche, nicht deren Ermöglichung."
+    "summary_abuse": "GoCertify ist eine Plattform zur Berechtigungsverifizierung für Retail-Rabatte. Angreifer könnten zwar versuchen, das Verifizierungs-Gateway zu umgehen, doch das Unternehmen bedient legitime Händler und sein Hauptanwendungsfall ist die Verhinderung betrügerischer Rabattansprüche, nicht deren Ermöglichung."
   },
   "GoDaddy": {
     "description": "GoDaddy wird als Webhoster und Domain-Registrar genutzt.",
@@ -680,7 +680,7 @@
   "GoDaddy Domain Parking": {
     "description": "GoDaddy wird als Webhoster und Domain-Registrar genutzt.",
     "history": "GoDaddy Domain Parking ist ein Dienst, der Werbeseiten auf ungenutzte registrierte Domains legt und seit den späten 1990er-Jahren Teil von GoDaddys Kerngeschäft mit Domains ist.",
-    "summary_abuse": "GoDaddy Domain Parking wird häufig mit Typosquatting und Markenmissbrauch verbunden. Geparkte Domains mit Werbung enthalten oft bösartige Anzeigen oder irreführende Inhalte. Durch GoDaddys Grösse als weltweit grösster Registrar läuft ein grosses Volumen geparkter Domains durch sein Parking-System."
+    "summary_abuse": "GoDaddy Domain Parking wird häufig mit Typosquatting und Markenmissbrauch verbunden. Geparkte Domains mit Werbung enthalten oft bösartige Anzeigen oder irreführende Inhalte. Da GoDaddy der weltweit grösste Registrar ist, wickelt sein Parking-System eine sehr grosse Zahl geparkter Domains ab."
   },
   "GoDaddy Escapade": {
     "description": "GoDaddy Escapade ist ein GoDaddy-Primer-Child-Theme mit einer einzigartigen Sidebar-Navigation.",
@@ -688,7 +688,7 @@
     "summary_abuse": "Dieses GoDaddy-WordPress-Child-Theme hat kein nennenswertes Missbrauchssignal. Es ist eine statische Theme-Datei ohne gehostete Oberfläche, die Scammer ausnutzen könnten."
   },
   "GoDaddy Go": {
-    "description": "GoDaddy Go ist ein flexibles Gutenberg-first-WordPress-Theme für Macher überall.",
+    "description": "GoDaddy Go ist ein flexibles Gutenberg-first-WordPress-Theme, das sich weltweit an tatkräftige Anwender richtet.",
     "history": "GoDaddy Go ist ein Open-Source-Gutenberg-first-WordPress-Theme, das von GoDaddy entwickelt und auf GitHub veröffentlicht wurde. Es ist ein eigenständiges flexibles Theme und basiert nicht auf Primer. Seit der Veröffentlichung sind keine nennenswerten Ereignisse bekannt.",
     "summary_abuse": "GoDaddy Go ist ein Open-Source-WordPress-Theme ohne nennenswertes Missbrauchssignal. Es ist eine Theme-Datei ohne gehostete Dienste oder endnutzerseitige Angriffsfläche."
   },
@@ -699,7 +699,7 @@
   },
   "GoDaddy Online Store": {
     "history": "GoDaddy Online Store ist ein E-Commerce-Builder innerhalb von GoDaddys Website-Builder-Produkten und entwickelte sich aus verschiedenen E-Commerce-Übernahmen der 2000er- und 2010er-Jahre.",
-    "summary_abuse": "GoDaddy Online Store betreibt viele Storefronts kleiner Unternehmen. Als verbreitete E-Commerce-Plattform gibt es dokumentierte Fälle von Fake-Shops und Scam-Betrieben auf ihrer Infrastruktur. GoDaddy bearbeitet Abuse-Meldungen, doch die einfache Einrichtung zieht betrügerische Händler an."
+    "summary_abuse": "GoDaddy Online Store betreibt viele Storefronts kleiner Unternehmen. Auf der Infrastruktur dieser verbreiteten E-Commerce-Plattform sind Fälle von Fake-Shops und betrügerischen Angeboten dokumentiert. GoDaddy bearbeitet Abuse-Meldungen, doch die einfache Einrichtung zieht betrügerische Händler an."
   },
   "GoDaddy Primer": {
     "description": "GoDaddy Primer ist ein leistungsfähiges Theme, das deine Inhalte in einem frischen Design klarer macht. Es ist das Parent-Theme für alle Themes der GoDaddy-Primer-Familie.",
@@ -713,7 +713,7 @@
   },
   "GoDaddy Website Builder": {
     "history": "GoDaddy Website Builder ist ein Drag-and-drop-Werkzeug zur Website-Erstellung von GoDaddy, das sich aus mehreren Plattformübernahmen der 2000er- und 2010er-Jahre entwickelt hat. Heute basiert es auf einem proprietären Builder.",
-    "summary_abuse": "GoDaddy Website Builder wird zum Erstellen betrügerischer und scamartiger Websites genutzt. Die einfache Bedienung und GoDaddys Bekanntheit ziehen sowohl legitime Nutzer als auch Angreifer an. GoDaddy hat Abuse-Richtlinien veröffentlicht und reagiert auf Takedown-Anfragen, doch die Grösse des Hostings führt zu erheblichen Missbrauchsvolumen."
+    "summary_abuse": "GoDaddy Website Builder wird zum Erstellen betrügerischer und scamartiger Websites genutzt. Die einfache Bedienung und GoDaddys Bekanntheit ziehen sowohl legitime Nutzer als auch Angreifer an. GoDaddy hat Abuse-Richtlinien veröffentlicht und reagiert auf Takedown-Anfragen, doch die Grösse des Hostings führt zu einem erheblichen Missbrauchsaufkommen."
   },
   "Godot": {
     "description": "Godot ist eine Game Engine, die den Export nach HTML5 mit WebAssembly-Kompatibilität unterstützt.",
@@ -807,11 +807,11 @@
   "Google AdSense": {
     "description": "Google AdSense ist ein von Google betriebenes Programm, mit dem Website-Publisher Anzeigen ausliefern, die auf Inhalte und Publikum der Website zugeschnitten sind.",
     "history": "Google AdSense startete im März 2003, nachdem Google Applied Semantics für 102 Millionen US-Dollar übernommen hatte. Deren kontextuelle Werbetechnologie wurde zur Grundlage des Produkts. AdSense wurde eines der profitabelsten Produkte von Google und machte 2005 rund 15 Prozent des Umsatzes aus. Das Programm entwickelte sich von reinen Textanzeigen zu Display- und Rich-Media-Anzeigen. 2024 stellte Google AdSense auf ein eCPM-Vergütungsmodell um und ersetzte das frühere Pay-per-Click-Modell. Stand 2021 nutzen mehr als 38 Millionen Websites AdSense.",
-    "summary_abuse": "Google AdSense hat erheblich dokumentierten Missbrauch. Ungültiger Klickbetrug ist ein dauerhaftes Problem, bei dem Webmaster Bots oder Click-Farms nutzen, um betrügerische Werbeeinnahmen zu erzeugen. Scraped-Content-Websites, automatisch generierte Spam-Inhalte und Made-for-AdSense-Sites haben das Programm historisch ausgenutzt. Google setzt automatisierte Erkennung ungültigen Traffics ein und sperrt Publisher bei Richtlinienverstössen. Malvertising über das AdSense-Netzwerk hat Nutzern auch Malware über kompromittierte oder betrügerische Werbemittel ausgeliefert."
+    "summary_abuse": "Google AdSense hat erheblich dokumentierten Missbrauch. Klickbetrug mit ungültigen Klicks ist ein anhaltendes Problem, bei dem Webmaster Bots oder Klickfarmen einsetzen, um betrügerische Werbeeinnahmen zu erzeugen. Scraped-Content-Websites, automatisch generierte Spam-Inhalte und Made-for-AdSense-Sites haben das Programm historisch ausgenutzt. Google setzt automatisierte Erkennung ungültigen Traffics ein und sperrt Publisher bei Richtlinienverstössen. Malvertising über das AdSense-Netzwerk hat Nutzern auch Malware über kompromittierte oder betrügerische Werbemittel ausgeliefert."
   },
   "Google Analytics": {
     "description": "Google Analytics ist ein kostenloser Webanalyse-Dienst, der Website-Traffic misst und auswertet.",
-    "history": "Google Analytics startete im November 2005, nachdem Google im April 2005 die Urchin Software Corporation übernommen hatte. Die Plattform wurde rasch zur weltweit am stärksten verbreiteten Webanalyse-Lösung und soll auf über 55 Prozent aller Websites genutzt worden sein. 2012 ersetzte Universal Analytics die ursprüngliche Version. 2020 kündigte Google Google Analytics 4 als Nachfolger an, und im Juli 2023 wurde Universal Analytics offiziell zugunsten von GA4 eingestellt. Die Prüfung durch GDPR und Datenschutzrecht war erheblich, mehrere EU-Datenschutzbehörden entschieden, dass GA Daten unter Verstoss gegen GDPR in die USA überträgt.",
+    "history": "Google Analytics startete im November 2005, nachdem Google im April 2005 die Urchin Software Corporation übernommen hatte. Die Plattform wurde rasch zur weltweit am stärksten verbreiteten Webanalyse-Lösung und soll auf über 55 Prozent aller Websites genutzt worden sein. 2012 ersetzte Universal Analytics die ursprüngliche Version. 2020 kündigte Google Google Analytics 4 als Nachfolger an, und im Juli 2023 wurde Universal Analytics offiziell zugunsten von GA4 eingestellt. Datenschutzrechtlich stand der Dienst stark unter Druck: Mehrere EU-Datenschutzbehörden entschieden, dass GA Daten unter Verstoss gegen die DSGVO in die USA überträgt.",
     "summary_abuse": "Google Analytics selbst wird nicht im klassischen Sinn direkt missbraucht, sein JavaScript-Tag wurde jedoch in Supply-Chain-Angriffen zweckentfremdet, bei denen Angreifer veränderte GA-Tags einschleusten, um Formulardaten und Kreditkartennummern von kompromittierten Websites auszuleiten. Zudem gibt es eine gut dokumentierte Nutzung für Datendiebstahl über das Google Analytics Measurement Protocol, bei der Angreifer gestohlene Daten als gefälschte Analytics-Events senden, um Firewall-Erkennung zu umgehen. Google betreibt aktive Missbrauchsüberwachung und ein robustes Vulnerability-Disclosure-Programm."
   },
   "Google Analytics Enhanced eCommerce": {
@@ -903,7 +903,7 @@
   },
   "Google Pay": {
     "description": "Google Pay ist eine von Google entwickelte Digital-Wallet-Plattform und ein Online-Zahlungssystem für In-App- und kontaktlose Zahlungen auf mobilen Geräten, mit dem Nutzer mit Android-Smartphones, Tablets oder Uhren bezahlen können.",
-    "history": "Google Pay entstand aus Android Pay, gestartet 2015, und Google Wallet, gestartet 2011, die 2018 unter einer Marke zusammengeführt wurden. Der Dienst ermöglicht kontaktlose Zahlungen im Geschäft, Online-Checkout und Peer-to-Peer-Überweisungen. Google Pay hatte regionale Unstimmigkeiten, unter anderem ein grosses US-App-Redesign im Jahr 2020, das 2023 weitgehend eingestellt wurde, als Google die US-App wieder auf die Marke Google Wallet fokussierte, während Google Pay in anderen Märkten weiterlief.",
+    "history": "Google Pay entstand aus Android Pay, gestartet 2015, und Google Wallet, gestartet 2011, die 2018 unter einer Marke zusammengeführt wurden. Der Dienst ermöglicht kontaktlose Zahlungen im Geschäft, Online-Checkout und Peer-to-Peer-Überweisungen. Regional verlief die Strategie von Google Pay uneinheitlich: Ein grosses US-App-Redesign aus dem Jahr 2020 wurde 2023 weitgehend zurückgenommen, als Google die US-App wieder auf die Marke Google Wallet ausrichtete, während Google Pay in anderen Märkten weiterlief.",
     "summary_abuse": "Google Pay wird durch Social-Engineering-Betrug angegriffen, bei dem Betrüger sich als Google-Pay-Support ausgeben, um Nutzer zum Senden von Geld zu bringen, wie bei P2P-Zahlungsplattformen üblich. Die Plattform setzt starke Betrugserkennung und Chargeback-Schutz für Händlertransaktionen ein. Direkte Ausnutzung der Google Pay API ist wegen strenger PCI-DSS-Anforderungen und Tokenisierungsarchitektur selten."
   },
   "Google Publisher Tag": {
@@ -1045,7 +1045,7 @@
   "Grafana": {
     "description": "Grafana ist eine plattformübergreifende Open-Source-Webanwendung für Analytics und interaktive Visualisierung.",
     "history": "Grafana wurde von Torkel Odegaard geschaffen und im Januar 2014 erstmals als Fork von Kibana veröffentlicht, um Zeitreihendaten aus Graphite zu visualisieren. Grafana Labs wurde 2014 gegründet, ursprünglich als Raintank. Das Unternehmen erhielt 2019 eine Series-A-Finanzierung von 24 Millionen US-Dollar, 2020 eine Series B von 50 Millionen US-Dollar, 2021 eine Series C von 220 Millionen US-Dollar bei einer Bewertung von 3 Milliarden US-Dollar und 2024 eine Transaktion über 270 Millionen US-Dollar bei einer Bewertung von 6 Milliarden US-Dollar. Grafana wuchs zum LGTM-Stack (Loki, Grafana, Tempo, Mimir) und meldete 2024 über 250 Millionen US-Dollar ARR.",
-    "summary_abuse": "Grafana ist nicht wesentlich als Vektor für schädliche Aktivitäten dokumentiert. Es ist vor allem ein Backend-Tool für Observability und Monitoring ohne verbraucherseitige Oberfläche, die Täter ausnutzen würden. Schwachstellen in Grafana, etwa CVE-2021-43798, eine Path-Traversal-Lücke, wurden ausgenutzt, um Serverdateien zu lesen, werden aber zeitnah gepatcht. Da die meisten Grafana-Installationen selbst gehostet sind, liegt Missbrauch im Kontrollbereich der betreibenden Organisation."
+    "summary_abuse": "Für Grafana ist kein nennenswerter Missbrauch als Vektor für schädliche Aktivitäten dokumentiert. Es ist vor allem ein Backend-Tool für Observability und Monitoring ohne verbraucherseitige Oberfläche, die Täter ausnutzen würden. Schwachstellen in Grafana, etwa CVE-2021-43798, eine Path-Traversal-Lücke, wurden ausgenutzt, um Serverdateien zu lesen, werden aber zeitnah gepatcht. Da die meisten Grafana-Installationen selbst gehostet sind, liegt Missbrauch im Kontrollbereich der betreibenden Organisation."
   },
   "Graffiti CMS": {
     "history": "Graffiti CMS war ein Blog- und Content-Management-System, das von Telligent Systems entwickelt und um 2007 veröffentlicht wurde. Es wurde später als Open Source freigegeben und ist weitgehend aufgegeben.",
@@ -1126,7 +1126,7 @@
     "summary_abuse": "Web-Push-Dienste wie Gravitec werden häufig für Spam und Clickbait-Werbung missbraucht. Bösartige Websitebetreiber nutzen Push-Benachrichtigungen, um Adblocker zu umgehen und Nutzer mit unerwünschten Meldungen zu überhäufen. Die kostenlose Stufe und einfache Registrierung von Gravitec können Hürden für Spammer senken, auch wenn der Dienst Bedingungen veröffentlicht, die Spam verbieten. Die Push-Benachrichtigungsbranche hat generell einen schlechten Ruf, weil sie aufdringliche Werbung erleichtert."
   },
   "Gravito": {
-    "description": "Gravito ist ein Dienst für zentral verwaltete Nutzereinwilligungen und die Erfassung beobachteter Daten über mehrere digitale Kontaktpunkte hinweg, mit sicherer Einbindung in personenbezogene Daten.",
+    "description": "Gravito ist ein Dienst für zentral verwaltete Nutzereinwilligungen und die Erfassung beobachteter Daten über mehrere digitale Kontaktpunkte hinweg; die erfassten Daten werden auf sichere Weise mit personenbezogenen Daten verknüpft.",
     "history": "Gravito ist eine finnische Plattform für Consent Management und First-Party-Daten, gegründet um 2018; sie konzentriert sich auf GDPR-konforme Erfassung von Zielgruppendaten und Einwilligungsorchestrierung für Publisher.",
     "summary_abuse": "Gravito ist eine Consent-Management-Plattform ohne bekannte Missbrauchssignale; sie soll Websites bei der Einhaltung von Datenschutzvorgaben unterstützen, nicht diese umgehen."
   },

@@ -35,7 +35,7 @@
     "summary_abuse": "LandingPress ist ein WordPress-Theme für Landing Pages. Wie jedes Page-Builder-Theme kann es für gefälschte Landing Pages verwendet werden, konkrete Missbrauchsvorfälle sind aber nicht dokumentiert."
   },
   "langify": {
-    "description": "langify übersetzt deinen Shop in mehrere Sprachen. Ein visueller Konfigurator hilft dir, Sprachumschalter einzubauen, die sich nahtlos in dein bestehendes Design einfügen.",
+    "description": "langify übersetzt Shops in mehrere Sprachen. Ein visueller Konfigurator hilft dabei, Sprachumschalter einzubauen, die sich nahtlos ins bestehende Design einfügen.",
     "history": "langify ist eine Shopify-Übersetzungs-App, die 2014 von der langify GmbH & Co. KG lanciert wurde; sie ermöglicht Händlern, ihre Shops in mehreren Sprachen anzubieten. Die App ist ein spezialisiertes Werkzeug im Shopify-Ökosystem ohne nennenswerte Eigentümerwechsel.",
     "summary_abuse": "langify ist eine Shopify-Übersetzungs-App ohne nennenswertes Missbrauchssignal; sie läuft innerhalb des Shopify-Ökosystems und wird ausschliesslich von Händlern zur Lokalisierung ihrer Shops genutzt. Es gibt kein öffentliches Content-Hosting oder nutzergenerierte Funktionen, die Betrüger besonders anziehen würden."
   },
@@ -100,7 +100,7 @@
     "summary_abuse": "LawPay ist ein spezialisierter Zahlungsabwickler für Anwaltskanzleien, der von Anwaltskammern empfohlen wird und Treuhandkontenregeln wie IOLTA einhalten muss. Als regulierter Zahlungsabwickler mit professionellen Kunden erfüllt er PCI-DSS und ist SOC 2 zertifiziert. Zahlungsabwickler sind mögliche Ziele für Betrug, doch die professionelle Kundschaft und der regulatorische Kontext senken das Risiko. Es sind keine nennenswerten gross angelegten Betrugsvorfälle dokumentiert."
   },
   "LayBuy": {
-    "description": "Laybuy ist ein Zahlungsdienst, mit dem du deinen Einkauf sofort erhältst und den Gesamtbetrag zinsfrei auf 6 automatische Wochenzahlungen verteilst.",
+    "description": "Laybuy ist ein Zahlungsdienst, bei dem Kundinnen und Kunden ihren Einkauf sofort erhalten und den Gesamtbetrag zinsfrei in sechs automatischen Wochenraten bezahlen.",
     "history": "Laybuy wurde 2016 in Neuseeland von Gary und Alex Rohloff als Buy-now-pay-later-Lösung gegründet, mit der Konsumenten Einkäufe in 6 wöchentliche zinsfreie Zahlungen aufteilen können. Das Unternehmen expandierte von Neuseeland und Australien in den britischen Markt. 2023 geriet Laybuy in finanzielle Schwierigkeiten und kam in Neuseeland unter Zwangsverwaltung, während die britischen Aktivitäten separat weiterliefen. Das Unternehmen zeigt die schwierige Wirtschaftlichkeit des BNPL-Sektors.",
     "summary_abuse": "Laybuy ist ein BNPL-Anbieter, der 2023 in Neuseeland in finanzielle Schwierigkeiten geriet und unter Zwangsverwaltung kam. BNPL-Dienste bergen grundsätzlich das Risiko, dass Konsumenten Schulden anhäufen, die sie nicht zurückzahlen können. Betrügerische Kontoeröffnung mit gestohlenen Identitätsdaten ist bei BNPL-Plattformen mit geringer KYC-Prüfung ein bekanntes Risiko. Konkrete grosse Betrugsvorfälle gegen Laybuy selbst sind nicht dokumentiert."
   },
@@ -215,7 +215,7 @@
     "summary_abuse": "LEADIN ist ein HubSpot-eigenes Lead-Erfassungs-Plugin, gestützt von einem grossen börsenkotierten US-Unternehmen mit starker Sicherheits- und Compliance-Lage. HubSpot unterhält SOC 2 Type 2, ISO 27001, GDPR DPA und ein öffentliches Bug-Bounty-Programm. Lead-Erfassungswerkzeuge sammeln grundsätzlich Besucherdaten und E-Mail-Adressen, doch HubSpots etablierte Datenschutzpraktiken und transparente Richtlinien senken das Missbrauchsrisiko. Es sind keine nennenswerten Missbrauchsvorfälle spezifisch für LEADIN dokumentiert."
   },
   "Leadinfo": {
-    "description": "Leadinfo ist eine Lead-Generierungssoftware, mit der du B2B-Website-Besucher erkennen kannst.",
+    "description": "Leadinfo ist eine Lead-Generierungssoftware, mit der sich B2B-Website-Besucher erkennen lassen.",
     "history": "Leadinfo wurde 2015 in den Niederlanden als B2B-Lead-Generierungswerkzeug gegründet, das Unternehmen identifiziert, die eine Website besuchen, indem es IP-zu-Unternehmen-Datenbankabgleich und Datenanreicherung durch Dritte nutzt. Es konkurriert mit Leadfeeder und Lead Forensics im europäischen Markt für B2B-Website-Besucheridentifikation und operiert unter niederländischem und EU-Recht sowie GDPR.",
     "summary_abuse": "Leadinfo identifiziert Unternehmen hinter anonymen Website-Besuchen ohne ausdrückliche Besuchereinwilligung, was unter GDPR rechtlich umstritten ist. Die niederländische DPA (AP) setzt GDPR aktiv durch und hat ähnliche Dienste geprüft. Leadinfo beansprucht GDPR-Konformität auf Grundlage berechtigter Interessen, doch dies wird von Datenschützern bestritten. Wie Leadfeeder und Lead Forensics verfolgt das Kerndesign Personen auf Unternehmensebene, ohne dass sie davon wissen."
   },
@@ -315,8 +315,8 @@
     "summary_abuse": "Leanplum ist eine Enterprise-Plattform für Mobile Marketing und A/B-Testing und heute Teil von CleverTap; sie verarbeitet Verhaltensdaten mobiler Nutzer, um personalisierte In-App-Nachrichten und Push-Benachrichtigungen auszulösen. Als Enterprise-Werkzeug mit SOC-2-Zertifizierung und GDPR-Konformität hat sie eine solide Sicherheitslage. Es sind keine nennenswerten Sicherheitsvorfälle oder Missbrauchsmuster für die Plattform dokumentiert."
   },
   "Learnbase": {
-    "description": "Learnbase ist eine AI-gestützte Plattform für Creator und Studierende mit Werkzeugen für Unterricht, Lernen und Content-Erstellung.",
-    "history": "Learnbase ist ein AI-gestütztes LMS für Content Creator und Studierende. Es sind keine nennenswerten Eigentümerereignisse dokumentiert.",
+    "description": "Learnbase ist eine KI-gestützte Plattform für Creator und Studierende mit Werkzeugen für Unterricht, Lernen und Content-Erstellung.",
+    "history": "Learnbase ist ein KI-gestütztes LMS für Content Creator und Studierende. Es sind keine nennenswerten Eigentümerereignisse dokumentiert.",
     "summary_abuse": "Learnbase ist ein Learning-Management-System ohne nennenswertes Missbrauchssignal."
   },
   "LearnDash": {
@@ -341,7 +341,7 @@
   },
   "LeaseHawk": {
     "description": "LeaseHawk ist eine Plattform mit Werkzeugen zur Messung und Verbesserung des ROI von Vermietungen durch Dateneinblicke und Performance-Tracking.",
-    "history": "LeaseHawk wurde 2012 in Scottsdale, Arizona, von Mike Mueller gegründet, der eine Telefonieplattform von CallSource übernahm. Im August 2021 wurde das Unternehmen von MRI Software übernommen und in dessen Immobiliensoftware-Suite integriert. LeaseHawk ist auf AI-gestütztes CRM für die Vermietung von Mehrfamilienimmobilien spezialisiert.",
+    "history": "LeaseHawk wurde 2012 in Scottsdale, Arizona, von Mike Mueller gegründet, der eine Telefonieplattform von CallSource übernahm. Im August 2021 wurde das Unternehmen von MRI Software übernommen und in dessen Immobiliensoftware-Suite integriert. LeaseHawk ist auf KI-gestütztes CRM für die Vermietung von Mehrfamilienimmobilien spezialisiert.",
     "summary_abuse": "Das Missbrauchspotenzial ist niedrig. LeaseHawk ist ein B2B-CRM für Property Management, genutzt von Betreibern von Mehrfamilienimmobilien. Es hat keine verbraucherseitige Oberfläche und keine bekannten Datenmissbrauchsvorfälle. LeaseHawk ist eine Tochter von MRI Software."
   },
   "Leaseweb": {
@@ -450,7 +450,7 @@
     "summary_abuse": "Geringes Missbrauchssignal. Eingestelltes E-Commerce-Analytics-Werkzeug, das von Yahoo übernommen und danach abgeschaltet wurde. Keine auffälligen Sicherheits- oder Missbrauchsvorfälle dokumentiert."
   },
   "LGC": {
-    "description": "LGC ist ein modernes CMS, das die Verwaltung deiner Website verbessern soll.",
+    "description": "LGC ist ein modernes CMS, das die Verwaltung der eigenen Website verbessern soll.",
     "history": "LGC ist ein kleines italienisches CMS, das als modernes System zur Website-Verwaltung beschrieben wird und unter luigigabrieleconti.com gehostet ist. Über die Erstellung hinaus ist keine besondere Geschichte dokumentiert.",
     "summary_abuse": "LGC ist ein sehr kleines CMS ohne auffälliges Missbrauchssignal und ohne dokumentierte Nutzung in bösartigen Kontexten."
   },
@@ -581,7 +581,7 @@
     "summary_abuse": "Geringes Missbrauchspotenzial. SaaS für KI-Personalisierung im E-Commerce. Erfasst Browsing-Verhalten für Produktempfehlungen. Keine auffälligen Sicherheitsvorfälle dokumentiert."
   },
   "Limit Login Attempts Reloaded": {
-    "description": "Limit Login Attempts Reloaded stoppt Brute-Force-Angriffe und optimiert die Performance deiner Website, indem es die Anzahl möglicher Login-Versuche über den normalen Login sowie über XMLRPC, WooCommerce und eigene Login-Seiten begrenzt.",
+    "description": "Limit Login Attempts Reloaded stoppt Brute-Force-Angriffe und optimiert die Performance der Website, indem es die Anzahl möglicher Login-Versuche über den normalen Login sowie über XMLRPC, WooCommerce und eigene Login-Seiten begrenzt.",
     "history": "Limit Login Attempts Reloaded ist ein WordPress-Plugin, das Brute-Force-Loginangriffe blockiert. Es ist ein neu aufgelegter Fork des ursprünglichen Plugins 'Limit Login Attempts' von Johan Eenfeldt aus dem Jahr 2009. Die Reloaded-Version ergänzte cloudbasierte Sperrlisten und gehört mit Millionen aktiver Installationen zu den beliebtesten WordPress-Sicherheitsplugins.",
     "summary_abuse": "Geringes Missbrauchssignal. Sicherheitsplugin, das ausdrücklich Brute-Force-Angriffe verhindern soll. Keine anonyme Endnutzeroberfläche. Die Cloud-Sperrfunktion kann IP-Daten an einen Drittanbieterdienst senden. Keine dokumentierten Missbrauchsvorfälle."
   },
@@ -596,7 +596,7 @@
     "summary_abuse": "Moderates Missbrauchspotenzial, da die KI-Automatisierungsplattform im Namen von Nutzern handeln kann. Zugriff auf E-Mail und Kalender könnte missbraucht werden, wenn Konten kompromittiert sind. Keine dokumentierten spezifischen Vorfälle. Neue Plattform ohne lange etablierte Sicherheitsbilanz."
   },
   "LINE Login": {
-    "description": "LINE Login ist eine API, mit der du eine Login-Funktion in deine Dienste integrieren kannst, unabhängig davon, ob es Web-Apps oder native Apps sind.",
+    "description": "LINE Login ist eine API, mit der sich eine Login-Funktion in eigene Dienste integrieren lässt, unabhängig davon, ob es sich um Web-Apps oder native Apps handelt.",
     "history": "LINE Login ist die OAuth-basierte Social-Authentication-API von LINE, der dominierenden Messaging-Plattform in Japan, Taiwan, Thailand und Indonesien. LINE wurde ursprünglich von NHN Japan, heute Naver, entwickelt und 2011 gestartet. Die Muttergesellschaft wurde als LINE Corporation neu organisiert und fusionierte 2023 schliesslich mit Yahoo Japan zu LY Corporation. LINE Login ermöglicht Drittanbieter-Apps und Websites die Authentifizierung von Nutzern über ihr LINE-Konto und erschliesst mehr als 200 Millionen Nutzer.",
     "summary_abuse": "LINE Login ist ein Social-Authentication-Anbieter von LY Corporation, einem grossen japanischen Technologieunternehmen. Als Auth-Anbieter verarbeitet er Identitätsdaten von Nutzern, die sich über LINE-Konten anmelden. LINE stand in Japan und Südkorea wegen Datenhaltung im Fokus, 2021 untersuchte die japanische Regierung Datenübertragungen an ausländische Server. LY Corporation setzte danach strengere inländische Datenverarbeitung um. Ein direkter Missbrauch der LINE Login API selbst ist nicht dokumentiert."
   },
@@ -633,7 +633,7 @@
   "Linkedin Ads": {
     "description": "LinkedIn Ads ist ein kostenpflichtiges Marketingwerkzeug, das über Sponsored Posts und weitere Methoden Zugang zum LinkedIn-Social-Network bietet.",
     "history": "LinkedIn wurde 2003 von Reid Hoffman und weiteren Mitgründern gegründet. Microsoft übernahm LinkedIn 2016 für 26,2 Mrd. USD. LinkedIn Ads, auch Campaign Manager, ist LinkedIns B2B-Werbeplattform und ermöglicht Targeting nach Berufsbezeichnung, Branche, Unternehmensgrösse und weiteren Merkmalen.",
-    "summary_abuse": "Moderates Missbrauchsrisiko für eine grosse Werbeplattform. LinkedIn Ads kann für Social Engineering und Spear-Phishing-Kampagnen gegen Berufstätige genutzt werden. Account Takeovers ermöglichen betrügerische Werbeausgaben. Dank Microsoft-Unterstützung verfügt LinkedIn über erhebliche Fraud-Detection-Fähigkeiten, doch Targeting-Funktionen können für Social Engineering zweckentfremdet werden. Keine systemischen Takedown-Probleme."
+    "summary_abuse": "Moderates Missbrauchsrisiko für eine grosse Werbeplattform. LinkedIn Ads kann für Social Engineering und Spear-Phishing-Kampagnen gegen Berufstätige genutzt werden. Kontoübernahmen ermöglichen betrügerische Werbeausgaben. Dank Microsoft-Unterstützung verfügt LinkedIn über erhebliche Fraud-Detection-Fähigkeiten, doch Targeting-Funktionen können für Social Engineering zweckentfremdet werden. Keine systemischen Takedown-Probleme."
   },
   "Linkedin Insight Tag": {
     "description": "LinkedIn Insight Tag ist ein leichtgewichtiges JavaScript-Tag für Conversion Tracking, Website Audiences und Website Demographics.",
@@ -642,7 +642,7 @@
   },
   "Linkedin Sign-in": {
     "description": "LinkedIn Sign-In ist ein Authentifizierungssystem, das Nutzern den Login erleichtert, indem sie sich mit ihrem LinkedIn-Konto anmelden können.",
-    "history": "LinkedIn Sign-In ist die OAuth-basierte Social-Login-Funktion von LinkedIn, einer 2003 gegründeten Plattform, die Microsoft 2016 für 26,2 Mrd. USD übernahm; sie erlaubt Nutzern, sich mit ihren LinkedIn-Zugangsdaten bei Drittanbieteranwendungen anzumelden.",
+    "history": "LinkedIn Sign-In ist die OAuth-basierte Social-Login-Funktion von LinkedIn, einer 2003 gegründeten Plattform, die Microsoft 2016 für 26,2 Mrd. USD übernahm. Die Funktion erlaubt es Nutzern, sich mit ihren LinkedIn-Zugangsdaten bei Drittanbieteranwendungen anzumelden.",
     "summary_abuse": "Moderates Datenschutzrisiko. LinkedIn Sign-In gibt berufliche Profildaten an Drittanbieteranwendungen weiter. Die Funktion wurde in Phishing- und Account-Harvesting-Kampagnen missbraucht. LinkedIn (Microsoft) verfügt über starke Sicherheitsinfrastruktur, Bug Bounty sowie SOC 2- und ISO 27001-Compliance. Missbrauch zielt vor allem über bösartige OAuth-Apps mit übermässigen Berechtigungsanforderungen auf Nutzer."
   },
   "Linkfire": {
@@ -721,7 +721,7 @@
     "summary_abuse": "lite-youtube-embed hat kein auffälliges Missbrauchssignal. Es ist eine Performance-Optimierungsbibliothek für YouTube-Embeds ohne serverseitige Komponente."
   },
   "LiteSpeed": {
-    "description": "LiteSpeed ist ein hoch skalierbarer Webserver.",
+    "description": "LiteSpeed ist ein hochskalierbarer Webserver.",
     "history": "LiteSpeed Web Server wurde von LiteSpeed Technologies entwickelt, einem 2002 in den USA gegründeten Unternehmen. Der leistungsstarke Apache-Drop-in-Ersatz wurde besonders in PHP-Hosting-Umgebungen beliebt. Das Unternehmen entwickelte OpenLiteSpeed als freie Variante und den kommerziellen LiteSpeed Web Server. Bei Shared-Hosting-Anbietern ist LiteSpeed weit verbreitet.",
     "summary_abuse": "Geringes Missbrauchspotenzial. Serverseitige Webserver-Software, die von Hosting-Administratoren installiert wird. Keine Datenerhebung und keine Endnutzeroberfläche. Keine auffälligen Sicherheitsvorfälle dokumentiert."
   },
@@ -747,7 +747,7 @@
   "Litmus": {
     "description": "Litmus ist ein E-Mail-Analytics-Tool, das E-Mail-Designern erweiterte Öffnungs- und Lesestatistiken für ihre Kampagnen bietet.",
     "history": "Litmus wurde 2005 in Boston, Massachusetts, gegründet. Der SaaS-Dienst für E-Mail-Tests, Analytics und Vorschauen wird von E-Mail-Marketern und Designern genutzt. Das Unternehmen nahm über 50 Millionen US-Dollar an VC-Finanzierung auf und übernahm 2023 Stensul. Litmus gehört weltweit zu den führenden Tools für E-Mail-Marketing-Plattformen.",
-    "summary_abuse": "Geringes Missbrauchspotenzial. Litmus ist eine Plattform für E-Mail-Tests und Analytics, die legitime Marketingteams unterstützt, aber kein Dienst für Massenversand ist. SOC 2 zertifiziert und GDPR-konform. Keine bekannten Sicherheits- oder Missbrauchsvorfälle."
+    "summary_abuse": "Geringes Missbrauchspotenzial. Litmus ist eine Plattform für E-Mail-Tests und Analytics, die legitime Marketingteams unterstützt, aber kein Dienst für Massenversand ist. SOC 2-zertifiziert und GDPR-konform. Keine bekannten Sicherheits- oder Missbrauchsvorfälle."
   },
   "Little Hotelier": {
     "description": "Little Hotelier ist eine All-in-One-Lösung für Property Management, die für kleine Beherbergungsbetriebe entwickelt wurde.",
@@ -782,7 +782,7 @@
   "LiveCanvas": {
     "description": "LiveCanvas ist ein Bootstrap-5-Page-Builder für WordPress.",
     "history": "LiveCanvas ist ein Bootstrap-basierter WordPress-Page-Builder für Webentwickler, die direkte Kontrolle über HTML und CSS wollen. Auf Bootstrap 5 aufgebaut, richtet er sich an Entwickler, die lieber coden als visuelle Drag-and-Drop-Builder verwenden. Das Projekt entstand etwa 2019. Die Einmallizenz kostet 99 US-Dollar und enthält lebenslange Updates. Es handelt sich um ein Solo- oder sehr kleines unabhängiges Entwicklerprojekt ohne relevante Eigentümerwechsel.",
-    "summary_abuse": "Sehr geringes Missbrauchspotenzial. LiveCanvas ist ein selbst gehostetes WordPress-Plugin, das mit Einmallizenz verkauft wird. Es gibt keine gehostete Content-Fläche und keine anonyme Registrierung, Kunden installieren es auf ihrer eigenen WordPress-Site. Keine dokumentierten Missbrauchsvorfälle."
+    "summary_abuse": "Sehr geringes Missbrauchspotenzial. LiveCanvas ist ein selbst gehostetes WordPress-Plugin, das mit Einmallizenz verkauft wird. Es gibt keine gehostete Content-Fläche und keine anonyme Registrierung; die Kunden installieren das Plugin auf ihrer eigenen WordPress-Site. Keine dokumentierten Missbrauchsvorfälle."
   },
   "LiveChat": {
     "description": "LiveChat ist eine Online-Kundenservice-Software mit Online-Chat, Helpdesk-Funktionen und Web-Analytics.",
@@ -795,7 +795,7 @@
     "summary_abuse": "Geringes Missbrauchspotenzial. LiveEdit ist ein Nischen-B2B-Website-Builder für Fitness- und Wellness-Unternehmen mit MINDBODY-Integration. Abo-Modell, hauptsächlich von legitimen stationären Betrieben genutzt. Keine dokumentierten Missbrauchsvorfälle."
   },
   "Livefyre": {
-    "description": "Livefyre ist eine Plattform, die sich mit dem Social Web integriert, um soziale Interaktion zu fördern.",
+    "description": "Livefyre ist eine Plattform, die das Social Web einbindet, um soziale Interaktion zu fördern.",
     "history": "Livefyre wurde im Dezember 2009 von Jordan Kretchmer und Henry Arlander als Plattform für Social Commenting und Engagement gegründet. Adobe und Salesforce Ventures führten 2015 eine Investition von 47 Millionen US-Dollar an. Adobe übernahm Livefyre im Mai 2016 und integrierte es in Adobe Experience Manager. 2021 stellte Adobe den Dienst offiziell ein.",
     "summary_abuse": "Abgekündigter Dienst, 2021 eingestellt. Kein aktuelles Missbrauchspotenzial. Vor der Übernahme durch Adobe und der Einstellung war Livefyre eine Social-Commenting-Plattform, die von grossen Medienunternehmen genutzt wurde. Während des Betriebs sind keine Missbrauchsvorfälle dokumentiert."
   },
@@ -929,7 +929,7 @@
     "summary_abuse": "Locksmith steuert den Zugriff auf Seiten und Inhalte von Shopify-Storefronts. Die App hostet extern keine nutzergenerierten Inhalte. Geringe Missbrauchsfläche, keine dokumentierten Vorfälle."
   },
   "Locomotive Scroll": {
-    "description": "Locomotive Scroll ist eine meinungsstarke JavaScript-Library für weiche Scroll-Animationen und fortgeschrittene Scroll-Interaktionen in Webanwendungen.",
+    "description": "Locomotive Scroll ist eine JavaScript-Bibliothek mit klaren Vorgaben für weiche Scroll-Animationen und fortgeschrittene Scroll-Interaktionen in Webanwendungen.",
     "history": "Locomotive Scroll wurde von Locomotive, einer Digitalagentur aus Montreal, als Open-Source-JavaScript-Library für Smooth Scrolling und Parallax-Effekte entwickelt. Version 5 (2023) war eine vollständige Neufassung auf Basis der Scroll-Library Lenis.",
     "summary_abuse": "Locomotive Scroll ist eine clientseitige JavaScript-Animationslibrary ohne Serverkomponente, ohne Nutzerdatenerhebung und ohne Konsumentenfläche. Kein Missbrauchsrisiko."
   },
@@ -1080,7 +1080,7 @@
   "Loox": {
     "description": "Loox ist eine Review-App für Shopify, die dir hilft, Bewertungen und nutzergenerierte Fotos deiner Kunden zu sammeln.",
     "history": "Loox ist eine Shopify-Plattform für Produktbewertungen mit über 100'000 Händlern. Der Fokus liegt auf Foto- und Videobewertungen sowie UGC-Syndizierung zu Google Shopping, Meta und TikTok. Gegründet etwa 2015.",
-    "summary_abuse": "Loox sammelt Produktbewertungen und nutzergenerierte Fotos von Käufern. Gefälschte Bewertungen sind ein potenzieller Missbrauchsvektor, aber Loox arbeitet im Review-Verifizierungsökosystem von Shopify. Ein Händlerbericht aus 2026 erwähnte einen Referral-Code-Bug, ein breiteres Missbrauchsmuster ist jedoch nicht dokumentiert."
+    "summary_abuse": "Loox sammelt Produktbewertungen und nutzergenerierte Fotos von Käufern. Gefälschte Bewertungen sind ein potenzieller Missbrauchsvektor, aber Loox arbeitet im Review-Verifizierungsökosystem von Shopify. Ein Händlerbericht aus dem Jahr 2026 erwähnte einen Referral-Code-Bug, ein breiteres Missbrauchsmuster ist jedoch nicht dokumentiert."
   },
   "Loqate": {
     "description": "Loqate ist eine Lösung zur Adressverifizierung.",
@@ -1089,7 +1089,7 @@
   },
   "LotLinx": {
     "description": "LotLinx ist ein Anbieter digitaler Retailing- und Marketingtechnologien für die Automobilbranche.",
-    "history": "LotLinx ist ein US-amerikanisches Automotive-Ad-Tech-Unternehmen, das etwa 2012 gegründet wurde. Es prägte VIN-spezifische Inventarwerbung für Autohändler und syndiziert Bestände zu Google, Facebook und Automotive-Portalen. Die Plattform nutzt KI und Machine Learning für Shopper Targeting.",
+    "history": "LotLinx ist ein US-amerikanisches Automotive-Ad-Tech-Unternehmen, das etwa 2012 gegründet wurde. Es war Vorreiter bei VIN-spezifischer Inventarwerbung für Autohändler und syndiziert Bestände zu Google, Facebook und Automotive-Portalen. Die Plattform nutzt KI und Machine Learning für Shopper Targeting.",
     "summary_abuse": "LotLinx ist eine B2B-Werbeplattform für die Automobilbranche und bedient Autohändler; sie verarbeitet Werbedaten und verhaltensbasierte Targeting-Signale, hostet aber keine nutzergenerierten Inhalte. Keine dokumentierten Missbrauchsvorfälle."
   },
   "LottieFiles": {

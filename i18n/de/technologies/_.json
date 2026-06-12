@@ -1,6 +1,6 @@
 {
   "11Sight": {
-    "description": "11Sight ist eine KI-gestützte Omnichannel-Plattform, über die Nutzer eingehende Videoanrufe aus jedem Online-Kanal annehmen und so Verkaufsgespräche sowie Lead-Konversionen erleichtern können.",
+    "description": "11Sight ist eine KI-gestützte Omnichannel-Plattform, über die Nutzer eingehende Videoanrufe aus jedem Online-Kanal annehmen können; das erleichtert Verkaufsgespräche und die Umwandlung von Leads in Kunden.",
     "history": "11Sight ist eine KI-gestützte Omnichannel-Plattform für Videoanrufe und CRM in Vertriebsteams. Das Unternehmen wurde ungefähr 2019 gegründet. Nennenswerte Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Für 11Sight gibt es kein auffälliges Missbrauchssignal. Es handelt sich um eine B2B-Plattform für Videovertrieb ohne nutzergeneriertes, öffentliches Content-Hosting, das Betrüger anziehen würde."
   },
@@ -17,7 +17,7 @@
   "2B Advice": {
     "description": "2B Advice bietet ein Plug-in zur Verwaltung von Cookie-Einwilligungen nach GDPR.",
     "history": "Die 2B Advice GmbH wurde 2003 in Bonn, Deutschland, gegründet und ist auf Datenschutzberatung sowie Software für Compliance-Management spezialisiert. Das Unternehmen entwickelte die Datenschutzmanagement-Plattform Ailance und bietet externe DPO-Dienste an. Es expandierte mit Büros in mehreren europäischen Städten und in den USA. Nennenswerte Eigentümerwechsel oder Kontroversen sind nicht bekannt.",
-    "summary_abuse": "2B Advice ist ein SaaS-Angebot für Datenschutz-Compliance mit Fokus auf GDPR und Sicherheitsmanagement. Als Werkzeug für Compliance-Verantwortliche und Rechtsteams hat es keine dokumentierte Missbrauchsgeschichte und ist keine Plattform, die typischerweise für Phishing oder Betrug genutzt würde. Datenschutz ist für das Unternehmen selbst ein Kernbereich, entsprechend zentral ist die Privacy-Positionierung."
+    "summary_abuse": "2B Advice ist ein SaaS-Angebot für Datenschutz-Compliance mit Fokus auf GDPR und Sicherheitsmanagement. Als Werkzeug für Compliance-Verantwortliche und Rechtsteams hat es keine dokumentierte Missbrauchsgeschichte und ist keine Plattform, die typischerweise für Phishing oder Betrug genutzt würde. Das Unternehmen ist selbst auf Datenschutz spezialisiert, der eigene Umgang mit Daten hat entsprechend hohen Stellenwert."
   },
   "2ClickShop": {
     "description": "2ClickShop ist eine mit ERP-Systemen integrierte E-Commerce-Plattform für B2B- und B2C-Transaktionen.",
@@ -35,7 +35,7 @@
     "summary_abuse": "Für 321 CMS gibt es kein auffälliges Missbrauchssignal. Es ist ein tschechischer Website-Builder in einer Nische ohne dokumentierte Missbrauchsmuster."
   },
   "33Across": {
-    "description": "33Across ist ein Technologieunternehmen, das sich darauf konzentriert, die Aufmerksamkeit von Konsumenten in automatisierter Werbung besser zu erschliessen.",
+    "description": "33Across ist ein Technologieunternehmen, das sich der Frage widmet, wie automatisierte Werbung die Aufmerksamkeit der Konsumenten gewinnen kann.",
     "history": "33Across wurde 2008 von Eric Wheeler und Greg Levitt in Sunnyvale, Kalifornien, gegründet und ist eine Plattform für programmatische Werbung und Publisher-Monetarisierung. Das Unternehmen nahm in fünf Finanzierungsrunden 25,7 Millionen US-Dollar auf. 2014 entwickelte es die Intent Signal Platform, um mit Machine Learning zielgruppenbasierte Werbung auszuliefern.",
     "summary_abuse": "33Across ist im Programmatic-Ad-Tech-Umfeld tätig und bindet Tracking-Code von Drittanbietern auf Publisher-Websites ein. Wie bei den meisten Ad-Tech-Unternehmen sammelt die Plattform verhaltensbezogene Daten über viele Websites hinweg für Targeting-Zwecke, was Datenschutzbedenken auslöst. Das Missbrauchssignal ist moderat, insbesondere wegen Risiken durch Werbebetrug und ungültigen Traffic im offenen programmatischen Ökosystem. Das Unternehmen beteiligt sich an Brancheninitiativen gegen Betrug, etwa IAB-Standards."
   },
@@ -75,9 +75,9 @@
     "summary_abuse": "51.LA ist eine chinesische Webanalyse-Plattform ausserhalb der GDPR-Rechtsordnung. Der Dienst sammelt Besucherdaten und wird auf chinesischen oder auf den chinesischen Markt ausgerichteten Websites eingebunden. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, als in China gehosteter Tracker bietet er jedoch nur begrenzte westliche Datenschutz-Compliance. Die Datenverarbeitung erfolgt nach chinesischem Recht."
   },
   "52Degrees": {
-    "description": "52Degrees ist eine Datenplattform, die früher als Handset Detection bekannt war und digitalen Unternehmen Echtzeit-Einblicke zu Geräten und Daten liefert.",
+    "description": "52Degrees ist eine Datenplattform, die früher als Handset Detection bekannt war und digitalen Unternehmen in Echtzeit Erkenntnisse zu Geräten und Daten liefert.",
     "history": "52Degrees, betrieben als 51Degrees unter 51degrees.com, war früher als Handset Detection bekannt und entwickelte sich zu einer Echtzeit-Plattform für Geräteerkennung und Daten. Das Unternehmen hat seinen Sitz im Vereinigten Königreich und bedient digitale Unternehmen, die gerätebezogene Daten benötigen. Grössere Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "52Degrees ist eine Plattform für Geräteerkennung und Dateneinblicke, die von digitalen Unternehmen genutzt wird; sie sammelt Device-Fingerprinting-Daten, was Datenschutzfolgen hat. Eine Nutzung in bösartigen Kampagnen ist nicht dokumentiert, doch Device-Fingerprinting kann beim Einbinden auf Drittseiten für Tracking ohne Einwilligung missbraucht werden. Der Anbieter beteiligt sich an GDPR-Compliance-Rahmenwerken."
+    "summary_abuse": "52Degrees ist eine Plattform für Geräteerkennung und Datenanalysen, die von digitalen Unternehmen genutzt wird; sie sammelt Device-Fingerprinting-Daten, was Datenschutzfolgen hat. Eine Nutzung in bösartigen Kampagnen ist nicht dokumentiert, doch Device-Fingerprinting kann beim Einbinden auf Drittseiten für Tracking ohne Einwilligung missbraucht werden. Der Anbieter beteiligt sich an GDPR-Compliance-Rahmenwerken."
   },
   "5centsCDN": {
     "description": "5centsCDN ist ein Anbieter von Content Delivery Network-Diensten.",
@@ -116,7 +116,7 @@
   },
   "91App": {
     "description": "91App ist eine Plattform aus Taiwan, die Lösungen für Einzelhandelsgeschäfte bereitstellt.",
-    "history": "91APP wurde 2013 von Steven Ho in Taiwan gegründet und ist Taiwans erstes börsenkotiertes SaaS-Unternehmen (Stock Code: 6741). Es gilt als Pionier für D2C- und OMO-Retail-Technologie in Taiwan, Hongkong und Malaysia. Ho wird als Godfather des taiwanischen E-Commerce bezeichnet. Das Unternehmen betreibt Lösungen für Retail- und F&B-Marken, die Commerce, Marketing, POS und Zahlungen integrieren.",
+    "history": "91APP wurde 2013 von Steven Ho in Taiwan gegründet und ist Taiwans erstes börsenkotiertes SaaS-Unternehmen (Stock Code: 6741). Es gilt als Pionier für D2C- und OMO-Retail-Technologie in Taiwan, Hongkong und Malaysia. Ho gilt als Vater des taiwanischen E-Commerce. Das Unternehmen betreibt Lösungen für Retail- und F&B-Marken, die Commerce, Marketing, POS und Zahlungen integrieren.",
     "summary_abuse": "91APP ist ein börsenkotiertes taiwanisches Retail-SaaS ohne dokumentierte Missbrauchsgeschichte. Die Plattform bedient etablierte Marken und Händler in Taiwan und Hongkong mit verifizierten Geschäftskonten. Es gibt keine verbraucherseitigen Hosting- oder anonymen Zugriffsfunktionen, die ein Missbrauchsrisiko schaffen würden."
   },
   "99minds": {
@@ -136,6 +136,6 @@
   "_hyperscript": {
     "description": "_hyperscript ist eine Skriptsprache, mit der sich Interaktivität im Frontend hinzufügen lässt.",
     "history": "_hyperscript ist eine Open-Source-Skriptsprache für interaktive Web-Frontends, die Carson Gross um 2020 entwickelte; sie stammt vom selben Team wie htmx und wurde als Alternative zu JavaScript für Frontend-Interaktionen entwickelt, inspiriert von der Sprache HyperTalk.",
-    "summary_abuse": "Für _hyperscript gibt es kein auffälliges Missbrauchssignal. Es ist eine clientseitige JavaScript-Skripting-Bibliothek ohne verbraucherseitige Netzwerkdienste."
+    "summary_abuse": "Für _hyperscript gibt es kein auffälliges Missbrauchssignal. Es ist eine clientseitige, in JavaScript umgesetzte Skriptbibliothek ohne Netzwerkdienste für Endnutzer."
   }
 }

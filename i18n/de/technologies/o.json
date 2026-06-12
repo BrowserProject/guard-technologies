@@ -95,7 +95,7 @@
     "summary_abuse": "Für Ocular gibt es kein auffälliges Missbrauchssignal. Es ist eine Live-Commerce-Plattform für legitime Ecommerce-Marken ohne anonymes Content-Hosting für Endnutzer."
   },
   "Oculizm": {
-    "description": "Oculizm ist ein Conversion-Optimierungstool, das nutzergenerierte Inhalte und Kundenbewertungen nutzt, um das Vertrauen bei Händlern zu stärken und Umsatz sowie Engagement zu erhöhen.",
+    "description": "Oculizm ist ein Conversion-Optimierungstool, das nutzergenerierte Inhalte und Kundenbewertungen nutzt, um das Vertrauen der Konsumenten in Händler zu stärken und so Umsatz sowie Engagement zu erhöhen.",
     "history": "Oculizm ist ein Conversion-Optimierungstool, das nutzergenerierte Inhalte und Bewertungen einsetzt. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
     "summary_abuse": "Oculizm ist ein Tool für Bewertungen und UGC-basierte Conversion-Optimierung ohne dokumentiertes Missbrauchssignal."
   },
@@ -171,11 +171,11 @@
   },
   "Olvy": {
     "description": "Olvy ist eine Feedback-Management-Plattform, mit der nutzerzentrierte Teams Erkenntnisse analysieren, Produktentwicklung straffen und Stakeholder informiert halten können.",
-    "history": "Olvy wurde um 2021 als SaaS für Nutzerfeedback-Management für Produktteams gegründet. Im November 2024 kündigte der Gründer an, dass die Plattform eingestellt und der Dienst offiziell deprecatet werde.",
-    "summary_abuse": "Olvy ist ein Produktfeedback-Management-Tool ohne auffälliges Missbrauchssignal. Es hostet keine beliebigen Nutzerinhalte, bietet keine Massenmail- oder File-Hosting-Funktionen und stellt keine Funktionen bereit, die Betrüger typischerweise ausnutzen. Der Dienst ist seit Ende 2024 deprecatet."
+    "history": "Olvy wurde um 2021 als SaaS für Nutzerfeedback-Management für Produktteams gegründet. Im November 2024 kündigte der Gründer an, dass die Plattform eingestellt und der Dienst offiziell abgekündigt werde.",
+    "summary_abuse": "Olvy ist ein Produktfeedback-Management-Tool ohne auffälliges Missbrauchssignal. Es hostet keine beliebigen Nutzerinhalte, bietet keine Massenmail- oder File-Hosting-Funktionen und stellt keine Funktionen bereit, die Betrüger typischerweise ausnutzen. Der Dienst ist seit Ende 2024 eingestellt."
   },
   "Omacro": {
-    "description": "Omacro ist eine Plattform zur Steigerung digitaler Interaktion, indem sie Verbindungen erleichtert und Conversion Rates erhöht.",
+    "description": "Omacro ist eine Plattform zur Steigerung digitaler Interaktion: Sie erleichtert das Knüpfen von Kontakten und erhöht Conversion Rates.",
     "history": "Omacro ist eine SaaS-Plattform für Händlerfinder und Where-to-buy-Funktionen für Marken und Lieferanten. Die öffentliche Unternehmensgeschichte ist nur begrenzt dokumentiert; auffällige Übernahmen oder Eigentümerwechsel sind nicht bekannt.",
     "summary_abuse": "Omacro ist eine Händlerfinder-Plattform, die Käufer mit autorisierten Händlern verbindet. Es gibt kein auffälliges Missbrauchssignal; es ist ein B2B-Marketingtool ohne Endnutzerfunktionen, die häufig für Betrug missbraucht werden."
   },
@@ -306,7 +306,7 @@
   "OnePress Social Locker": {
     "description": "Social Locker sperrt die wertvollsten Inhalte deiner Website hinter Social Buttons, bis Besucher deine Seite liken, teilen, +1 geben oder tweeten.",
     "history": "OnePress Social Locker ist ein WordPress-Plugin, das Inhalte hinter Social-Sharing-Buttons verbirgt und genutzt wird, um Social-Media-Reichweite zu erhöhen, indem ein Tweet, Like oder Share zum Freischalten verlangt wird. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "OnePress Social Locker ist ein WordPress-Plugin mit Social-Share-Gate. Es kann genutzt werden, um soziale Interaktionen zu erzwingen, bevor Inhalte sichtbar werden, ein Muster, das als manipulativ gilt. Auf Plattformebene sind keine Missbrauchsfälle dokumentiert, der Mechanismus selbst liegt jedoch nahe bei Dark Patterns."
+    "summary_abuse": "OnePress Social Locker ist ein WordPress-Plugin mit Social-Share-Gate. Es kann genutzt werden, um soziale Interaktionen zu erzwingen, bevor Inhalte sichtbar werden, ein Muster, das als manipulativ gilt. Auf Plattformebene sind keine Missbrauchsfälle dokumentiert, der Mechanismus selbst grenzt jedoch an ein Dark Pattern."
   },
   "OneSignal": {
     "description": "OneSignal ist eine Messaging-Lösung für Customer Engagement.",
@@ -325,7 +325,7 @@
   "OneTrust": {
     "description": "OneTrust ist eine cloudbasierte Compliance-Plattform für Datenschutzmanagement.",
     "history": "OneTrust wurde 2016 von Kabir Barday in Atlanta mit Fokus auf GDPR-Compliance-Tools gegründet. Nach der Series A 2019 erreichte OneTrust mit einer Bewertung von 1,3 Milliarden USD Unicorn-Status, nahm insgesamt 1,13 Milliarden USD auf und wuchs nach der Series C 2020 auf eine Bewertung von 5,1 Milliarden USD. 2021 übernahm das Unternehmen Convercent, um den Bereich Ethik und Compliance auszubauen, und erhielt 2023 eine Series D über 150 Millionen USD.",
-    "summary_abuse": "OneTrust ist eine Plattform für Datenschutz- und Compliance-Management, die von grossen Unternehmen genutzt wird. Es gibt kein auffälliges Missbrauchssignal, ihre Tools für Consent Management, Privacy und Data Governance werden von Organisationen eingesetzt, um regulatorische Risiken zu senken, nicht als Oberflächen, die Betrüger ausnutzen."
+    "summary_abuse": "OneTrust ist eine Plattform für Datenschutz- und Compliance-Management, die von grossen Unternehmen genutzt wird. Ein auffälliges Missbrauchssignal gibt es nicht: Die Tools für Consent Management, Privacy und Data Governance werden von Organisationen eingesetzt, um regulatorische Risiken zu senken, und bieten Betrügern keine Angriffsfläche."
   },
   "Oney": {
     "description": "Oney ist eine App, die Konsumenten wieder mehr Kontrolle über ihre Ausgaben gibt und Ratenzahlungen allgemein verfügbar macht.",
@@ -333,7 +333,7 @@
     "summary_abuse": "Oney ist ein regulierter europäischer Zahlungs- und Konsumfinanzierungsanbieter. Als lizenzierte Banktochter mit Tätigkeit in Europa hat Oney kein auffälliges Missbrauchssignal und unterliegt der üblichen Finanzaufsicht."
   },
   "Onfido": {
-    "description": "Onfido ist ein Technologieunternehmen, das Unternehmen hilft, die Identität von Personen mit einem Foto-Ausweisdokument, einem Selfie und Algorithmen für künstliche Intelligenz zu verifizieren.",
+    "description": "Onfido ist ein Technologieunternehmen, das Unternehmen hilft, die Identität von Personen anhand eines fotobasierten Ausweisdokuments, eines Selfies und KI-Algorithmen zu verifizieren.",
     "history": "Onfido wurde im Juli 2012 von den Oxford-Absolventen Husayn Kassai, Eamon Jubbawy und Ruhul Amin gegründet und gehörte zu den Pionieren der KI-gestützten Ausweisdokumentenprüfung. Nach über 200 Millionen USD Funding, mehr als 500 Mitarbeitenden und über 140 Millionen USD ARR wurde das Unternehmen im April 2024 für 650 Millionen USD vollständig in bar von Entrust Corporation übernommen.",
     "summary_abuse": "Onfido ist eine Plattform zur Identitätsprüfung, die Betrug verhindern und nicht ermöglichen soll. Es gibt kein auffälliges Missbrauchssignal; Onfido ist ein zentraler Bestandteil von Anti-Fraud-Infrastruktur für Finanzinstitute und Fintechs."
   },
@@ -360,11 +360,11 @@
   "Online Succes": {
     "description": "Online Succes ist eine Plattform aus den Niederlanden für Marketing Automation und Website-Besuchertracking.",
     "history": "Online Succes ist eine niederländische Plattform für Marketing Automation und Website-Besuchertracking, die sich an niederländische KMU richtet und Lead-Identifikation sowie Marketing Automation bietet, um Website-Traffic in qualifizierte Leads umzuwandeln.",
-    "summary_abuse": "Online Succes ist ein niederländisches B2B-Tool für Marketing Automation und Besuchertracking. Es sammelt Verhaltensdaten von Website-Besuchern und hat damit eine moderate Datenschutzoberfläche. Eine Missbrauchsgeschichte ist nicht dokumentiert, und als B2B-Aboprodukt für niederländische Unternehmen ist anonyme oder betrügerische Nutzung unwahrscheinlich."
+    "summary_abuse": "Online Succes ist ein niederländisches B2B-Tool für Marketing Automation und Besuchertracking. Es sammelt Verhaltensdaten von Website-Besuchern und bringt damit ein moderates Datenschutzrisiko mit sich. Eine Missbrauchsgeschichte ist nicht dokumentiert, und als B2B-Aboprodukt für niederländische Unternehmen ist anonyme oder betrügerische Nutzung unwahrscheinlich."
   },
   "onlyfy Application Manager": {
     "description": "onlyfy Application Manager ist eine Bewerbermanagement- und Recruiting-Software, früher bekannt als Prescreen, zur Verwaltung von Einstellungsprozessen und Bewerbungen.",
-    "history": "onlyfy Application Manager hiess früher Prescreen und war ein Applicant Tracking System. Es wurde von XING, heute New Work SE, dem deutschsprachigen beruflichen Netzwerk, übernommen und im Rahmen von XINGs HR-Produktsuite zu onlyfy rebrandet.",
+    "history": "onlyfy Application Manager hiess früher Prescreen und war ein Applicant Tracking System. Es wurde von XING, heute New Work SE, dem deutschsprachigen beruflichen Netzwerk, übernommen und im Rahmen von XINGs HR-Produktsuite in onlyfy umbenannt.",
     "summary_abuse": "onlyfy Application Manager ist ein ATS, das Arbeitgeber für Recruiting nutzen, ohne auffälliges Missbrauchssignal. Es verarbeitet personenbezogene Daten von Bewerbern in Übereinstimmung mit GDPR und bietet keine Endnutzerfunktionen, die Betrüger anziehen würden."
   },
   "onpublix": {
@@ -385,7 +385,7 @@
   "OnSip": {
     "description": "OnSip ist eine gehostete VoIP-Lösung mit Website-Chat-Funktionen für die Geschäftskommunikation.",
     "history": "Das Unternehmen wurde 2004 als Junction Networks gegründet, benannte sich später in OnSIP um und bietet seit über 20 Jahren gehostete VoIP- und Cloud-PBX-Dienste auf Basis patentierter Technologie an. Grössere Übernahmen oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "OnSip ist eine legitime Plattform für geschäftliche VoIP- und Live-Chat-Kommunikation ohne auffälliges Missbrauchssignal. VoIP-Dienste bergen allgemein ein gewisses Risiko für Robocalls oder Gebührenbetrug, für OnSip ist aber keine dokumentierte Geschichte bekannt, solche Aktivitäten in grossem Umfang ermöglicht zu haben."
+    "summary_abuse": "OnSip ist eine legitime Plattform für geschäftliche VoIP- und Live-Chat-Kommunikation ohne auffälliges Missbrauchssignal. VoIP-Dienste bergen allgemein ein gewisses Risiko für Robocalls oder Gebührenbetrug, es gibt jedoch keine Belege dafür, dass OnSip solche Aktivitäten in grossem Umfang ermöglicht hat."
   },
   "Onsite Support": {
     "description": "Onsite Support ist eine Plattform mit KI-gestützten Helpdesk-Werkzeugen, die Betriebskosten senken, Produktrückgaben reduzieren und Antwortzeiten im Kundendienst verkürzen sollen.",
@@ -464,7 +464,7 @@
     "summary_abuse": "OpenCart-Shops werden wegen ihrer Zahlungsfunktionen gelegentlich Ziel von Magecart-ähnlichen Card-Skimming-Angriffen. Die Software selbst hat jedoch kein auffälliges Profil als Werkzeug böswilliger Akteure. Betreiber veralteter Versionen waren historisch von SQL-Injection-Schwachstellen betroffen. Legitime Nutzung überwiegt deutlich."
   },
   "OpenChat": {
-    "description": "OpenChat ist eine gemeinschaftlich besessene Chat-Anwendung, die Datenschutz, Sicherheit und Anonymität priorisiert.",
+    "description": "OpenChat ist eine Chat-Anwendung im Besitz ihrer Community und legt besonderen Wert auf Datenschutz, Sicherheit und Anonymität.",
     "history": "OpenChat (oc.app) ist eine datenschutzorientierte Community-Chat-Anwendung. Auffällige Eigentümerwechsel oder Übernahmen sind nicht dokumentiert.",
     "summary_abuse": "OpenChat ist eine datenschutzorientierte Chat-Anwendung. Gemeinschaftlich betriebene Chat-Plattformen können zur Koordination illegaler Aktivitäten genutzt werden, konkrete dokumentierte Missbrauchsfälle für diese Plattform sind jedoch nicht bekannt."
   },
@@ -527,8 +527,8 @@
   },
   "OpenStreetMap": {
     "description": "OpenStreetMap ist eine freie, bearbeitbare Karte der ganzen Welt, die von Freiwilligen weitgehend von Grund auf erstellt und unter einer Open-Content-Lizenz veröffentlicht wird.",
-    "history": "OpenStreetMap wurde 2004 von Steve Coast im Vereinigten Königreich als crowdsourcingbasierte Alternative zu proprietären Kartendaten gegründet. Die OpenStreetMap Foundation entstand 2006 zur Unterstützung des Projekts. Heute ist es die führende offene Geodatenbank weltweit und bildet die Grundlage für kommerzielle Dienste von Apple, Facebook, Amazon und vielen anderen.",
-    "summary_abuse": "OpenStreetMap weist als crowdsourcingbasiertes Geodatenprojekt nur ein minimales Missbrauchssignal auf. Gelegentlicher Vandalismus an Kartendaten durch böswillige Akteure kam vor, wird aber von der aktiven Community rückgängig gemacht. Die Daten selbst bieten keine verbrauchernahe Gratis-Hosting- oder Custom-Domain-Funktion, die Scammer typischerweise ausnutzen."
+    "history": "OpenStreetMap wurde 2004 von Steve Coast im Vereinigten Königreich als auf Crowdsourcing basierende Alternative zu proprietären Kartendaten gegründet. Die OpenStreetMap Foundation entstand 2006 zur Unterstützung des Projekts. Heute ist es die führende offene Geodatenbank weltweit und bildet die Grundlage für kommerzielle Dienste von Apple, Facebook, Amazon und vielen anderen.",
+    "summary_abuse": "OpenStreetMap weist als gemeinschaftlich gepflegtes Geodatenprojekt nur ein minimales Missbrauchssignal auf. Gelegentlicher Vandalismus an Kartendaten durch böswillige Akteure kam vor, wird aber von der aktiven Community rückgängig gemacht. Die Daten selbst bieten keine verbrauchernahe Gratis-Hosting- oder Custom-Domain-Funktion, die Scammer typischerweise ausnutzen."
   },
   "OpenSwoole": {
     "description": "OpenSwoole ist ein leistungsstarkes, asynchrones, eventgetriebenes PHP-Framework auf Coroutine-Basis.",
@@ -665,7 +665,7 @@
     "summary_abuse": "OptimX Sports ist ein nischiger Website-Builder für Sportteams ohne auffälliges Missbrauchssignal."
   },
   "Optimy": {
-    "description": "Optimy ist eine All-in-One-CSR-Plattform, die soziale und geschäftliche Wirkung durch die Straffung sozialer Programme verbessert.",
+    "description": "Optimy ist eine All-in-One-CSR-Plattform, die soziale und geschäftliche Wirkung steigert, indem sie die Abwicklung sozialer Programme effizienter macht.",
     "history": "Optimy ist eine belgische Plattform für CSR- und Social-Impact-Management, die um 2012 gegründet wurde; sie bietet Unternehmenskunden Werkzeuge zur Verwaltung von Fördergeldern, Sponsoring, Freiwilligenarbeit und CSR-Programmen.",
     "summary_abuse": "Optimy ist eine B2B-Plattform für CSR-Management, die von Unternehmen zur Verwaltung sozialer Programme eingesetzt wird; sie hat keine verbrauchernahe Oberfläche und kein auffälliges Missbrauchssignal."
   },
@@ -928,7 +928,7 @@
   "Outplay": {
     "description": "Outplay ist eine Sales-Engagement-Plattform, die KI nutzt, um Interaktionen zu optimieren und schnell wachsende kleine und mittlere Unternehmen zu unterstützen.",
     "history": "Outplay ist eine KI-gestützte Sales-Engagement-Plattform, die um 2019 gegründet wurde und sich an kleine und mittlere Vertriebsteams richtet, mit Multi-Channel-Outreach-Automatisierung über E-Mail, Telefon und LinkedIn-Sequenzen.",
-    "summary_abuse": "Outplay zeigt kein nennenswertes Missbrauchssignal. Es ist eine Sales-Engagement-Plattform für legitime B2B-Vertriebsteams, kann aber wie alle Multi-Channel-Outreach-Tools bei Missbrauch durch schlechte Akteure für Spam genutzt werden. Spezifische Vorfälle sind nicht dokumentiert."
+    "summary_abuse": "Outplay zeigt kein nennenswertes Missbrauchssignal. Es ist eine Sales-Engagement-Plattform für legitime B2B-Vertriebsteams, kann aber wie alle Multi-Channel-Outreach-Tools von böswilligen Akteuren für Spam missbraucht werden. Spezifische Vorfälle sind nicht dokumentiert."
   },
   "OutSystems": {
     "description": "OutSystems ist eine Low-Code-Plattform mit Werkzeugen, mit denen Unternehmen Omnichannel-Unternehmensanwendungen entwickeln, bereitstellen und verwalten können.",

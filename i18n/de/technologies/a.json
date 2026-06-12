@@ -141,7 +141,7 @@
   "Accesso": {
     "description": "Accesso bietet Lösungen für Ticketing, E-Commerce und Point-of-Sale (PoS).",
     "history": "Accesso ist ein an der London Stock Exchange gelistetes Technologieunternehmen aus dem Vereinigten Königreich, das 2000 gegründet wurde und seinen Hauptsitz in Lake Mary, Florida, hat. Es bietet Ticketing, virtuelle Warteschlangen (LoQueue), POS und Guest-Experience-Management für Attraktionen, Skigebiete, Freizeitparks, Live-Entertainment-Veranstaltungsorte und Theater. Die Plattform berechnet Gebühren pro verkauftem Ticket und unterstützt Enterprise-Betrieb für stark frequentierte Veranstaltungsorte.",
-    "summary_abuse": "Es sind keine Missbrauchsfälle oder Datenpannen bekannt. Accesso ist ein börsennotiertes Entertainment-Technologieunternehmen mit starker institutioneller Aufsicht. Regulatorische Verstösse oder Sicherheitsvorfälle sind nicht dokumentiert. Das Unternehmen erfüllt PCI DSS für seine Ticketing-Aktivitäten."
+    "summary_abuse": "Es sind keine Missbrauchsfälle oder Datenpannen bekannt. Accesso ist ein börsenkotiertes Entertainment-Technologieunternehmen mit starker institutioneller Aufsicht. Regulatorische Verstösse oder Sicherheitsvorfälle sind nicht dokumentiert. Das Unternehmen erfüllt PCI DSS für seine Ticketing-Aktivitäten."
   },
   "AccessTrade": {
     "description": "AccessTrade ist eine Affiliate-Marketing-Plattform auf CPA-Basis, die von Interspace Co. entwickelt wurde.",
@@ -224,7 +224,7 @@
   },
   "Acquia Personalization": {
     "description": "Acquia Personalization, früher Acquia Lift, ermöglicht es, das Verhalten von Kunden auf deiner Website nachzuverfolgen.",
-    "history": "Acquia Personalization, früher Acquia Lift, ist eine Engine für verhaltensbasierte Personalisierung innerhalb der Acquia DXP; sie verfolgt Besucherverhalten über digitale Angebote hinweg, um Content-Personalisierung und A/B-Tests auf Drupal-basierten Websites zu ermöglichen; sie gehört zu Acquias Enterprise-Angebot für Organisationen mit anspruchsvollem Content Targeting.",
+    "history": "Acquia Personalization, früher Acquia Lift, ist eine Engine für verhaltensbasierte Personalisierung innerhalb der Acquia DXP; sie verfolgt Besucherverhalten über digitale Angebote hinweg, um Content-Personalisierung und A/B-Tests auf Drupal-basierten Websites zu ermöglichen; sie gehört zu Acquias Enterprise-Angebot für Organisationen mit hohen Anforderungen an das Content-Targeting.",
     "summary_abuse": "Es sind keine Missbrauchsfälle bekannt. Acquia ist ein etabliertes Enterprise-Drupal-Plattformunternehmen mit starken Compliance-Nachweisen, darunter SOC 2, HIPAA und FedRAMP. Regulatorische Verstösse oder Sicherheitsvorfälle sind nicht dokumentiert."
   },
   "Acquia Site Studio": {
@@ -284,12 +284,12 @@
   "Acuity Scheduling": {
     "description": "Acuity Scheduling ist eine cloudbasierte Softwarelösung für Terminplanung.",
     "history": "Acuity Scheduling wurde 2006 gegründet und wuchs 13 Jahre lang als eigenständige Online-Plattform für Terminbuchungen. Im April 2019 wurde es von Squarespace in dessen erster Übernahme überhaupt übernommen. Squarespace benannte das Produkt für neue Kunden zunächst in Squarespace Scheduling um, führte es später aber wieder unter dem Namen Acuity zusammen.",
-    "summary_abuse": "Acuity Scheduling ist eine Online-Terminbuchungsplattform ohne bedeutende Missbrauchsgeschichte. Die Kundenbasis besteht aus legitimen Dienstleistungsunternehmen. Als Teil von Squarespace, einem börsennotierten Unternehmen, wird seine Sicherheits- und Compliance-Position durch erhebliche Unternehmensinfrastruktur unterstützt."
+    "summary_abuse": "Acuity Scheduling ist eine Online-Terminbuchungsplattform ohne bedeutende Missbrauchsgeschichte. Die Kundenbasis besteht aus legitimen Dienstleistungsunternehmen. Als Teil des börsenkotierten Unternehmens Squarespace stehen für Sicherheit und Compliance umfangreiche Konzernressourcen zur Verfügung."
   },
   "AcuityAds": {
     "description": "AcuityAds bietet automatisierte Lösungen für Marketer, die Kunden über mobile, soziale und Online-Display-Werbekampagnen erreichen möchten.",
-    "history": "AcuityAds ist eine kanadische Plattform für programmatische Werbung, die 2009 gegründet wurde. Das Unternehmen ist börsennotiert und bedient Enterprise-Marketer über mobile, soziale und Display-Werbung hinweg. Grössere Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "AcuityAds ist eine Ad-Tech-Plattform. Infrastruktur für programmatische Werbung kann für Malvertising und betrügerische Ad Impressions ausgenutzt werden, AcuityAds ist jedoch ein legitimes börsennotiertes B2B-Unternehmen mit branchenüblichen Betrugskontrollen. Spezifische Missbrauchsfälle sind nicht dokumentiert."
+    "history": "AcuityAds ist eine kanadische Plattform für programmatische Werbung, die 2009 gegründet wurde. Das Unternehmen ist börsenkotiert und bedient Enterprise-Marketer über mobile, soziale und Display-Werbung hinweg. Grössere Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "AcuityAds ist eine Ad-Tech-Plattform. Infrastruktur für programmatische Werbung kann für Malvertising und betrügerische Ad Impressions ausgenutzt werden, AcuityAds ist jedoch ein legitimes börsenkotiertes B2B-Unternehmen mit branchenüblichen Betrugskontrollen. Spezifische Missbrauchsfälle sind nicht dokumentiert."
   },
   "AD EBiS": {
     "description": "AD EBiS ist eine Werbe- und Marketingplattform für Messung der Werbewirkung sowie Zugriffs- und Nutzeranalyse.",
@@ -348,7 +348,7 @@
   },
   "AdaSiteCompliance": {
     "description": "AdaSiteCompliance ist eine Lösung für Web-Barrierefreiheit, die Websites konform und zugänglich nach WCAG 2.1 und Section 508 machen soll.",
-    "history": "ADA Site Compliance wurde von Scott Trachtenberg als Beratungs- und Compliance-Unternehmen für digitale Barrierefreiheit mit Fokus auf ADA- und WCAG-Standards für Websites gegründet. Im September 2024 wurde das Unternehmen von AudioEye übernommen, einem börsennotierten Unternehmen für digitale Accessibility-Technologie.",
+    "history": "ADA Site Compliance wurde von Scott Trachtenberg als Beratungs- und Compliance-Unternehmen für digitale Barrierefreiheit mit Fokus auf ADA- und WCAG-Standards für Websites gegründet. Im September 2024 wurde das Unternehmen von AudioEye übernommen, einem börsenkotierten Unternehmen für digitale Accessibility-Technologie.",
     "summary_abuse": "ADA Site Compliance ist ein legitimer Beratungsdienst für Website-Barrierefreiheit. Eine Nutzung für Betrug oder Phishing ist nicht bekannt. Das Unternehmen konzentriert sich darauf, Organisationen bei der rechtlichen Compliance mit Behindertenzugangsgesetzen zu unterstützen."
   },
   "AdBridg": {
@@ -834,12 +834,12 @@
   "Ahoy": {
     "description": "Ahoy ist ein Ruby-Gem, das einfache und leistungsfähige Analytics für Ruby-on-Rails-Anwendungen bereitstellt.",
     "history": "Ahoy (auch ahoy_matey genannt) ist ein Open-Source-Ruby-Gem von Andrew Kane für First-Party-Besuchs- und Event-Analytics in Ruby-on-Rails-Anwendungen. Die Bibliothek speichert Tracking-Daten direkt in der Datenbank der Anwendung, statt sie an Drittanbieter zu senden, und ist damit eine datenschutzfreundliche Alternative zu Google Analytics für Rails-Entwickler.",
-    "summary_abuse": "Ahoy ist eine serverseitige Rails-Analytics-Bibliothek ohne Missbrauchssignal; sie läuft vollständig im Applikationsserver und in der Datenbank des Entwicklers, ohne Datenweitergabe an Dritte; sie kann nicht für Phishing, Spam oder Betrug ausgenutzt werden."
+    "summary_abuse": "Ahoy ist eine serverseitige Rails-Analytics-Bibliothek ohne Missbrauchssignal. Sie läuft vollständig auf dem Applikationsserver und in der Datenbank des Entwicklers, gibt keine Daten an Dritte weiter und lässt sich nicht für Phishing, Spam oder Betrug ausnutzen."
   },
   "Ahrefs": {
     "description": "Ahrefs ist ein Online-Toolset für Suchmaschinenoptimierung (SEO) und Wettbewerbsanalyse, mit dem Nutzer unter anderem die Performance ihrer Website analysieren, Keyword-Rankings verfolgen, Backlink-Chancen erkennen und Websites von Wettbewerbern recherchieren können.",
     "history": "Ahrefs wurde 2011 von Dmitry Gerasimenko in Singapur mit ukrainischen Wurzeln gegründet. Das Unternehmen wuchs vollständig aus eigenen Umsätzen ohne externe Investoren und erreichte 2024 mit rund 170 Mitarbeitenden 149 Millionen US-Dollar ARR. Ahrefs betreibt einen der weltweit grössten Webcrawler und ist für Site Explorer, Linkanalyse und Keyword-Recherche bekannt, wodurch es zu einer dominanten SEO-Plattform wurde.",
-    "summary_abuse": "Ahrefs ist ein breit vertrauenswürdiges SEO-Toolset ohne auffälliges Missbrauchssignal. Es analysiert Websites Dritter, hostet aber keine Nutzerinhalte und bietet daher keine typischen Angriffsflächen für Phishing oder Betrug. SEO-Tools können allgemein theoretisch für Competitive Intelligence genutzt werden, dokumentierte Missbrauchskampagnen mit Ahrefs sind aber nicht bekannt."
+    "summary_abuse": "Ahrefs ist ein weithin anerkanntes SEO-Toolset ohne auffälliges Missbrauchssignal. Es analysiert Websites Dritter, hostet aber keine Nutzerinhalte und bietet daher keine typischen Angriffsflächen für Phishing oder Betrug. SEO-Tools können allgemein theoretisch für Competitive Intelligence genutzt werden, dokumentierte Missbrauchskampagnen mit Ahrefs sind aber nicht bekannt."
   },
   "AI LOG": {
     "description": "AI LOG ist ein Werkzeug für Marketingautomatisierung und Prävention von Klickbetrug.",
@@ -849,7 +849,7 @@
   "Aidbase": {
     "description": "Aidbase ist ein KI-gestütztes Support-Ökosystem, das Nutzererlebnisse verbessern soll.",
     "history": "Aidbase ist eine KI-gestützte Kundensupport-Plattform, die etwa 2023 gegründet wurde und sich an SaaS-Startups sowie E-Commerce-Unternehmen richtet. Die Plattform nennt über 10'000 Nutzer und kombiniert KI-Chatbots, Ticketmanagement, E-Mail-Bearbeitung und Wissensdatenbanken; sie ist ein relativ neuer Anbieter im Bereich KI-Kundenservice, ohne auffällige Eigentümerwechsel.",
-    "summary_abuse": "Aidbase ist eine kleine KI-Kundensupport-SaaS ohne dokumentiertes Missbrauchssignal. Als B2B-Werkzeug mit Geschäftskonto-Einrichtung bietet sie keine anonymen Konsumentenflächen für Phishing- oder Spam-Missbrauch."
+    "summary_abuse": "Aidbase ist eine kleine KI-Kundensupport-SaaS ohne dokumentiertes Missbrauchssignal. Als B2B-Werkzeug, das ein Geschäftskonto voraussetzt, bietet sie keine anonym nutzbaren Angriffsflächen für Phishing oder Spam."
   },
   "Aiden": {
     "description": "Aiden ist ein Werkzeug für E-Commerce, das Kunden wie im Laden zum passenden Produkt führt und so die Conversion-Rate verbessern hilft.",
@@ -859,7 +859,7 @@
   "Aimbase": {
     "description": "Aimbase ist eine Marketing-Automation-Plattform, die Kampagnenmanagement, Kundeninteraktion und datenbasierte Entscheidungen vereinfacht.",
     "history": "Aimbase ist eine Marketing-Automation- und CRM-Plattform mit Sitz in Fenton, Missouri, entwickelt für Hersteller mit Händlernetzwerken, etwa Unternehmen aus Powersports und Outdoor-Power-Equipment; sie ist seit den späten 1990er-Jahren aktiv und wurde mit Rollick verbunden, einer Commerce-Plattform für Händlernetzwerke.",
-    "summary_abuse": "Aimbase ist ein spezialisiertes B2B-CRM- und Marketing-Automation-Werkzeug für Hersteller und Händlernetzwerke ohne auffälliges Missbrauchssignal. Der enge Branchenfokus begrenzt die Exposition gegenüber Szenarien für Massenversand-Missbrauch."
+    "summary_abuse": "Aimbase ist ein spezialisiertes B2B-CRM- und Marketing-Automation-Werkzeug für Hersteller und Händlernetzwerke ohne auffälliges Missbrauchssignal. Der enge Branchenfokus begrenzt das Risiko, dass die Plattform für massenhaften Versand missbraucht wird."
   },
   "AIMEOS": {
     "description": "Aimeos ist ein PHP-E-Commerce-Framework für individuelle Online-Shops, Multi-Vendor-Marktplätze und komplexe B2B-Anwendungen.",
@@ -934,7 +934,7 @@
   "Airtable": {
     "description": "Airtable ist eine Low-Code-Plattform zum Erstellen kollaborativer Apps.",
     "history": "Airtable wurde 2012 von Howie Liu, Andrew Ofstad und Emmett Nicholas in San Francisco gegründet. Das Unternehmen startete 2014 eine Beta nur auf Einladung und wuchs zu einer der führenden No-Code-Datenbank- und Workflow-Plattformen für Zusammenarbeit. Es nahm über 1,36 Milliarden US-Dollar Finanzierung auf, darunter 270 Millionen US-Dollar Series E im Jahr 2021, und erreichte eine Bewertung von 11 Milliarden US-Dollar. Airtable bedient über 500'000 Organisationen.",
-    "summary_abuse": "Airtable ist eine breit vertrauenswürdige No-Code-Datenbankplattform mit geringer Missbrauchsexposition. Einige Phishing-Kits nutzten die kostenlose Stufe von Airtable, um öffentlich zugängliche Datenspeicher für gestohlene Zugangsdaten zu erstellen, ein Muster, das bei vielen Free-Tier-Plattformen vorkommt. Airtable setzt AUP-Regeln durch und bietet Mechanismen zur Missbrauchsmeldung; diese Art von Missbrauch macht nur einen kleinen Teil der Gesamtnutzung aus."
+    "summary_abuse": "Airtable ist eine breit vertrauenswürdige No-Code-Datenbankplattform mit geringer Missbrauchsexposition. Einige Phishing-Kits nutzten den kostenlosen Tarif von Airtable, um öffentlich zugängliche Datenspeicher für gestohlene Zugangsdaten zu erstellen, ein Muster, das bei vielen Free-Tier-Plattformen vorkommt. Airtable setzt AUP-Regeln durch und bietet Mechanismen zur Missbrauchsmeldung; diese Art von Missbrauch macht nur einen kleinen Teil der Gesamtnutzung aus."
   },
   "AiSpeed": {
     "description": "AiSpeed ist eine Shopify-App zur Verbesserung der Website-Geschwindigkeit.",
@@ -1032,7 +1032,7 @@
   },
   "Aklamio": {
     "description": "Aklamio ist eine Lösung für Referral-Marketing und Kundenanreize auf Enterprise-Niveau.",
-    "history": "Aklamio wurde 2011 in Berlin von Robert Wetzker, Holger Grosse und Marcus Suiter gegründet. Das Unternehmen baute Europas führende Plattform für Kundenanreize und Referral-Marketing auf und bediente Marken wie Virgin Media, Vodafone, PayPal und Endesa. 2019 wurde es als zweitschnellst wachsendes Technologieunternehmen Deutschlands eingestuft und von der Financial Times als eines der am schnellsten wachsenden Unternehmen Europas genannt.",
+    "history": "Aklamio wurde 2011 in Berlin von Robert Wetzker, Holger Grosse und Marcus Suiter gegründet. Das Unternehmen baute Europas führende Plattform für Kundenanreize und Referral-Marketing auf und bediente Marken wie Virgin Media, Vodafone, PayPal und Endesa. 2019 belegte es Platz zwei der am schnellsten wachsenden Technologieunternehmen Deutschlands und von der Financial Times als eines der am schnellsten wachsenden Unternehmen Europas genannt.",
     "summary_abuse": "Aklamio ist eine B2B-Plattform für Referral-Marketing mit geringem Missbrauchsrisiko. Mechaniken von Empfehlungsprogrammen können theoretisch für Referral-Fraud ausgenutzt werden, doch Aklamio bedient verifizierte Unternehmenskunden mit vertraglichen Bedingungen. Auffällige systematische Betrugskampagnen gegen Aklamios Plattform sind nicht dokumentiert."
   },
   "AkoCommerce": {
@@ -1048,7 +1048,7 @@
   "Albacross": {
     "description": "Albacross ist eine Plattform für Leadgenerierung und Account Intelligence; sie hilft Marketing- und Vertriebsteams, passende Kunden unter den Website-Besuchern zu identifizieren und liefert Einblicke, um qualifiziertere Leads zu gewinnen, Prospecting effizienter zu machen und mehr Abschlüsse zu erzielen.",
     "history": "Albacross wurde 2014 in Stockholm, Schweden, als B2B-Leadgenerierungsplattform gegründet, die anonyme Website-Besucher durch Abgleich von IP-Adressen mit Unternehmensdaten identifiziert. Das Unternehmen nahm rund 4,83 Millionen US-Dollar Finanzierung auf und wuchs auf Tausende Kunden weltweit. Die Plattform integriert sich mit CRMs wie Salesforce und HubSpot, damit Vertriebsteams erkennen können, welche Zielunternehmen ihre Websites besuchen, ohne dass diese Besucher Formulare ausfüllen müssen.",
-    "summary_abuse": "Albacross bewegt sich datenschutzrechtlich in einer Grauzone, weil anonyme Website-Besucher über IP-zu-Unternehmen-Abgleich ohne ausdrückliche Einwilligung dieser Besucher identifiziert werden. Diese Praxis hat bei Datenschützern GDPR-Bedenken ausgelöst, da personenbezogene Daten (IP-Adressen mit Bezug zu Personen) ohne direkte Zustimmung verarbeitet werden. Das Unternehmen beansprucht GDPR-Compliance, doch die zentrale Tracking-Funktion ist unter europäischem Datenschutzrecht umstritten."
+    "summary_abuse": "Albacross bewegt sich datenschutzrechtlich in einer Grauzone, weil anonyme Website-Besucher anhand ihrer IP-Adressen Unternehmen zugeordnet werden, ohne dass diese Besucher ausdrücklich eingewilligt haben. Diese Praxis hat bei Datenschützern GDPR-Bedenken ausgelöst, da personenbezogene Daten (IP-Adressen mit Bezug zu Personen) ohne direkte Zustimmung verarbeitet werden. Das Unternehmen beansprucht GDPR-Compliance, doch die zentrale Tracking-Funktion ist unter europäischem Datenschutzrecht umstritten."
   },
   "Alboom Proof": {
     "description": "Alboom Proof ist eine Plattform, die Kundengalerien, Fotoverkauf und Proofing-Dienste an einem Ort bereitstellt, damit Fotografen und visuelle Künstler ihre Arbeiten ausliefern können.",
@@ -1128,7 +1128,7 @@
   "Alive5": {
     "description": "Alive5 ist ein gemeinsamer Posteingang für Teams, der SMS, Webchat und Gespräche in sozialen Kanälen bündelt. Früher hiess der Dienst Website Alive.",
     "history": "Alive5 wurde 2017 in Houston, Texas, von Glenn Gutierrez und Dustin Yu gegründet, ursprünglich als Alive Chat System. Das Unternehmen bietet eine einheitliche Plattform für Kundeninteraktion, die SMS, Live-Chat und Social Messaging mit KI-gestützter Automatisierung kombiniert. Erste Verbreitung fand Alive5 auf Websites von Sportteams, bevor Universitäten, Hotels und Unternehmen dazukamen. Das Startup wurde für den Accelerator Comcast NBCUniversal LIFT Labs ausgewählt und ist auf über 800 Kunden gewachsen.",
-    "summary_abuse": "Für Alive5 sind keine Missbrauchsfälle gemeldet. Die Plattform verfügt über SOC2 Type 2 und GDPR-Zertifizierungen, was auf einen Fokus auf Sicherheit und Datenschutz hinweist. Als Kundenmessaging-Plattform verarbeitet sie persönliche Kontaktdaten und Kommunikation, die sie im Rahmen üblicher Enterprise-Datenschutzpraktiken verwaltet."
+    "summary_abuse": "Für Alive5 sind keine Missbrauchsfälle gemeldet. Die Plattform verfügt über SOC2 Type 2 und GDPR-Zertifizierungen, was auf einen hohen Stellenwert von Sicherheit und Datenschutz schliessen lässt. Als Kundenmessaging-Plattform verarbeitet sie persönliche Kontaktdaten und Kommunikation, die sie im Rahmen üblicher Enterprise-Datenschutzpraktiken verwaltet."
   },
   "All in One Accessibility": {
     "description": "All in One Accessibility ist ein von Skynet Technologies entwickeltes Accessibility-Widget für Websites, das die Einhaltung von WCAG 2.0, 2.1, 2.2 und ADA-Standards unterstützen soll.",
@@ -1266,7 +1266,7 @@
   },
   "Amap": {
     "description": "Amap ist eine digitale Kartografieplattform mit detaillierten Geodaten, Navigation und standortbasierten Diensten für asiatische Regionen.",
-    "history": "Amap (AutoNavi) wurde 2002 von Jun Hou, Congwu Cheng und Jun Xiao gegründet, um digitale Kartendaten für Autonavigation zu entwickeln. Die Alibaba Group übernahm AutoNavi 2014 für rund 1,5 Milliarden US-Dollar und benannte den Dienst in Amap um. Die Plattform ist Chinas führender digitaler Karten- und Navigationsdienst mit rund 170 Millionen täglich aktiven Nutzern im Jahr 2025. 2018 war Amap der erste chinesische Kartendienst mit 100 Millionen täglichen Nutzern. 2025 lancierte Alibaba eine AI-native Version von Amap auf Basis seines Qwen AI-Modells.",
+    "history": "Amap (AutoNavi) wurde 2002 von Jun Hou, Congwu Cheng und Jun Xiao gegründet, um digitale Kartendaten für Autonavigation zu entwickeln. Die Alibaba Group übernahm AutoNavi 2014 für rund 1,5 Milliarden US-Dollar und benannte den Dienst in Amap um. Die Plattform ist Chinas führender digitaler Karten- und Navigationsdienst mit rund 170 Millionen täglich aktiven Nutzern im Jahr 2025. 2018 war Amap der erste chinesische Kartendienst mit 100 Millionen täglichen Nutzern. 2025 lancierte Alibaba eine KI-native Version von Amap auf Basis seines KI-Modells Qwen.",
     "summary_abuse": "Amap ist eine verbreitete chinesische Kartenanwendung. Als vollständig kontrollierte Alibaba-Tochter unterliegt sie Chinas nationalen Sicherheits- und Datengesetzen, die Unternehmen zur Zusammenarbeit bei staatlichen Datenanfragen verpflichten. Die Plattform erhebt umfangreiche Standort- und Verhaltensdaten von Hunderten Millionen Nutzern in China. Für nicht chinesische Nutzer oder Organisationen mit Bedenken zu staatlichem Datenzugriff in China stellt dies ein erhebliches Datenschutzrisiko dar."
   },
   "Amasty": {
@@ -1285,7 +1285,7 @@
     "summary_abuse": "Amaze UI ist eine clientseitige JavaScript-UI-Bibliothek ohne auffällige Missbrauchssignale. Es ist ein Frontend-Framework zum Aufbau von Weboberflächen und hat keine serverseitige oder Hosting-Komponente, die ausgenutzt werden könnte. Dokumentierte Missbrauchsfälle mit dieser Bibliothek sind nicht gemeldet."
   },
   "Amazon Advertising": {
-    "description": "Amazon Advertising, früher AMS oder Amazon Marketing Services, ist ein Dienst, der ähnlich wie Pay-per-click-Anzeigen bei Google funktioniert.",
+    "description": "Amazon Advertising, früher AMS oder Amazon Marketing Services, ist ein Dienst, der ähnlich wie Pay-per-Click-Anzeigen bei Google funktioniert.",
     "history": "Amazon Advertising entstand aus der Zusammenführung von Amazon Media Group, Amazon Marketing Services und Amazon Advertising Platform, die alle um 2012 aufgebaut wurden. 2018 vereinte Amazon diese Angebote unter der Marke Amazon Advertising. Die Plattform wuchs zur weltweit drittgrössten digitalen Werbeplattform hinter Google und Meta und bietet Sponsored Products, Display-Werbung und DSP-Dienste.",
     "summary_abuse": "Amazon Advertising ist eine Werbeplattform, die Display- und Sponsored Ads über Amazon-Angebote ausliefert. Ad-Tech-Plattformen können für schädliche oder irreführende Werbung missbraucht werden. Amazon hat Regeln gegen täuschende Werbung und ein Enforcement-Team. Es gibt gelegentliche Berichte über gefälschte oder nachgeahmte Produktanzeigen in Sponsored Results, doch Amazon reagiert auf Meldungen und setzt Richtlinien durch. Die Plattform ist nicht als Vektor für Phishing oder Malware-Auslieferung bekannt."
   },
@@ -1404,7 +1404,7 @@
   },
   "Amobee": {
     "description": "Amobee ist eine cloudbasierte Werbe- und Datenmanagementplattform.",
-    "history": "Amobee wurde 2005 in Redwood City, Kalifornien, von Zohar Levkovitz, Gil Shulman und Saul Rurka gegründet. 2012 übernahm Singtel Amobee für 321 Millionen US-Dollar. Später kaufte Amobee Turn, eine DSP, um die programmatischen Werbefähigkeiten auszubauen. Im Juli 2022 übernahm Tremor International Amobee von Singtel für 239 Millionen US-Dollar, um einen kombinierten End-to-End-Ad-Tech-Stack aufzubauen.",
+    "history": "Amobee wurde 2005 in Redwood City, Kalifornien, von Zohar Levkovitz, Gil Shulman und Saul Rurka gegründet. 2012 übernahm Singtel Amobee für 321 Millionen US-Dollar. Später kaufte Amobee Turn, eine DSP, um das Geschäft mit programmatischer Werbung auszubauen. Im Juli 2022 übernahm Tremor International Amobee von Singtel für 239 Millionen US-Dollar, um einen kombinierten End-to-End-Ad-Tech-Stack aufzubauen.",
     "summary_abuse": "Amobee ist eine programmatische Werbe- und DSP-Plattform für Werbekäufer. Als Ad-Tech-Infrastruktur ist sie Teil eines breiteren Werbeökosystems, in dem Anzeigenbetrug, Brand-Safety-Probleme und Datenschutzbedenken verbreitet sind. Die Plattform sammelt umfangreiche Trackingdaten für Targeting, was bei DSPs üblich ist, aber ein relevantes Datenschutzrisiko darstellt. Konkrete grössere Vorfälle sind über die üblichen Ad-Tech-Branchenbedenken hinaus nicht dokumentiert."
   },
   "amoCRM": {
@@ -1448,7 +1448,7 @@
     "summary_abuse": "Ampry ist ein Nischenwerkzeug für Kanzleimarketing ohne auffälliges dokumentiertes Missbrauchssignal. Es arbeitet als B2B-Lead-Generation-Dienst für den Rechtssektor."
   },
   "Analysys Ark": {
-    "history": "Analysys Ark ist eine chinesische Plattform für Nutzerverhaltensanalyse und Daten, entwickelt von Analysys, einem Datenanalyseunternehmen mit Sitz in Peking. Das Ark-Produkt bietet Event-Tracking und Behavioral Analytics für Mobile Apps und Websites und bedient vor allem den chinesischen Markt.",
+    "history": "Analysys Ark ist eine chinesische Datenplattform für Nutzerverhaltensanalysen, entwickelt von Analysys, einem Datenanalyseunternehmen mit Sitz in Peking. Das Ark-Produkt bietet Event-Tracking und Behavioral Analytics für Mobile Apps und Websites und bedient vor allem den chinesischen Markt.",
     "summary_abuse": "Analysys Ark ist eine chinesische Plattform für Behavioral Analytics; sie sammelt Nutzertrackingdaten vor allem aus chinesischen Apps und Websites. Die Datenverarbeitung der Plattform unterliegt chinesischen Datengesetzen statt der GDPR. Konkrete internationale Missbrauchsfälle sind nicht dokumentiert."
   },
   "Analytick": {
@@ -1517,7 +1517,7 @@
   },
   "Angie": {
     "description": "Angie ist ein Drop-in-Ersatz für den Nginx-Webserver und soll den Funktionsumfang der ursprünglichen Version erweitern.",
-    "history": "Angie ist ein Open-Source-Webserver, der von Nginx abgespalten wurde. Er entstand um 2022 durch ehemalige Nginx-Entwickler des russischen Unternehmens Web Server LLC, einer früheren Einheit von NGINX Inc. Angie wurde als Drop-in-Ersatz für Nginx mit erweiterten Funktionen entwickelt und richtet sich nach der Übernahme von Nginx durch F5 und den folgenden geopolitischen Komplikationen vor allem an den russischen Markt.",
+    "history": "Angie ist ein Open-Source-Webserver, der von Nginx abgespalten wurde. Er entstand um 2022 durch ehemalige Nginx-Entwickler des russischen Unternehmens Web Server LLC, einer ehemaligen Tochtergesellschaft von NGINX Inc. Angie wurde als Drop-in-Ersatz für Nginx mit erweiterten Funktionen entwickelt und richtet sich nach der Übernahme von Nginx durch F5 und den folgenden geopolitischen Komplikationen vor allem an den russischen Markt.",
     "summary_abuse": "Angie ist Webserver-Software ohne auffälliges direktes Missbrauchssignal. Als Serverinfrastruktur kann sie missbräuchliche Websites hosten, bietet selbst aber keine Endnutzeroberfläche, die direkt missbraucht werden könnte. Die russische Herkunft kann für Organisationen mit strengen Anforderungen an die Lieferkette relevant sein."
   },
   "Angler AI": {
@@ -1696,7 +1696,7 @@
   "Apache HTTP Server": {
     "description": "Apache ist eine freie und quelloffene, plattformübergreifende Webserver-Software.",
     "history": "Apache HTTP Server wurde 1995 von einer Gruppe von Webmastern geschaffen, die auf Patches für NCSA httpd aufbauten und daraus die Apache Group bildeten. Er wurde zum meistgenutzten Webserver der Welt. 1999 wurde die Apache Software Foundation gegründet, um das Projekt zu steuern. Apache hielt über zwei Jahrzehnte den grössten Marktanteil bei Webservern, wurde in einigen Segmenten aber nach und nach von Nginx und Cloudflare überholt.",
-    "summary_abuse": "Apache HTTP Server ist grundlegende Webserver-Software, die von einem grossen Teil des Internets genutzt wird; sie ist gelegentlich Ziel von Schwachstellen, darunter Log4Shell bei Apache Log4j im Jahr 2021 sowie verschiedene httpd-CVEs über die Jahre. Apache HTTP Server selbst hat keine Endnutzeroberfläche für Missbrauch, falsch konfigurierte Instanzen können jedoch versehentlich sensible Dateien offenlegen. Die ASF unterhält ein Sicherheitsteam und einen CVE-Offenlegungsprozess."
+    "summary_abuse": "Apache HTTP Server ist grundlegende Webserver-Software, die von einem grossen Teil des Internets genutzt wird; sie ist gelegentlich von Sicherheitslücken betroffen, darunter Log4Shell bei Apache Log4j im Jahr 2021 sowie über die Jahre verschiedene httpd-CVEs. Apache HTTP Server selbst hat keine Endnutzeroberfläche für Missbrauch, falsch konfigurierte Instanzen können jedoch versehentlich sensible Dateien offenlegen. Die ASF unterhält ein Sicherheitsteam und einen CVE-Offenlegungsprozess."
   },
   "Apache JSPWiki": {
     "description": "Apache JSPWiki ist eine quelloffene Wiki-Engine, die auf Standard-JEE-Komponenten wie Java, Servlets und JSP aufbaut.",
@@ -1825,11 +1825,11 @@
   "Appier": {
     "description": "Appier ist eine Plattform, die Kunden hilft, den ROI ihrer Werbung zu optimieren.",
     "history": "Appier wurde 2012 in Taipeh, Taiwan, von Chih-Han Yu, Winnie Lee und Joe Su gegründet, mit Fokus auf KI-gestütztes Marketing und Kundenbindung im asiatisch-pazifischen Raum. Das Unternehmen expandierte in APAC und wurde 2021 an der Tokyo Stock Exchange gelistet, zunächst im Segment Growth Market und ab 2022 im Prime Market. 2025 kündigte Appier die Übernahme von AdCreative.ai an, um die eigenen Fähigkeiten für generative KI in der Werbung auszubauen.",
-    "summary_abuse": "Appier ist eine Ad-Tech- und KI-Marketingplattform mit starkem APAC-Schwerpunkt. Als Werbetechnologieunternehmen sammelt sie umfangreiche Verhaltensdaten über Partner-Publisher-Netzwerke hinweg für Targeting-Zwecke, was ein inhärentes Datenschutzrisiko mit sich bringt. Die Plattform wird normalerweise nicht mit direktem Scam- oder Phishing-Missbrauch verbunden, doch ihre Datensammlung und Cross-Site-Tracking-Fähigkeiten rechtfertigen eine moderate Datenschutzbedenken-Einstufung. Das Unternehmen arbeitet unter japanischen und taiwanischen Regulierungsrahmen."
+    "summary_abuse": "Appier ist eine Ad-Tech- und KI-Marketingplattform mit starkem APAC-Schwerpunkt. Als Werbetechnologieunternehmen sammelt sie umfangreiche Verhaltensdaten über Partner-Publisher-Netzwerke hinweg für Targeting-Zwecke, was ein inhärentes Datenschutzrisiko mit sich bringt. Die Plattform wird normalerweise nicht mit direktem Scam- oder Phishing-Missbrauch verbunden, doch ihre Datensammlung und Cross-Site-Tracking-Fähigkeiten rechtfertigen eine mittlere Einstufung des Datenschutzrisikos. Das Unternehmen unterliegt der japanischen und der taiwanischen Regulierung."
   },
   "Appifiny": {
     "description": "Appifiny ist eine Plattform mit einer schlanken Lösung zum Entwickeln, Anpassen und Veröffentlichen von Apps.",
-    "history": "Appifiny ist ein kleines Team aus Schottland aus Entwicklern und E-Commerce-Fachleuten, das Apps und Themes für die Shopify-Plattform baut. Das Unternehmen konzentriert sich auf Conversion-steigernde Werkzeuge wie Echtzeit-Popups für Kaufbenachrichtigungen und Integrationen für Bestellabwicklung. Nennenswerte Eigentümerwechsel oder grössere Ereignisse sind nicht dokumentiert.",
+    "history": "Appifiny ist ein kleines schottisches Team aus Entwicklern und E-Commerce-Fachleuten, das Apps und Themes für die Shopify-Plattform entwickelt. Das Unternehmen konzentriert sich auf Conversion-steigernde Werkzeuge wie Echtzeit-Popups für Kaufbenachrichtigungen und Integrationen für Bestellabwicklung. Nennenswerte Eigentümerwechsel oder grössere Ereignisse sind nicht dokumentiert.",
     "summary_abuse": "Appifiny ist ein spezialisierter Shopify-App-Entwickler ohne auffälliges Missbrauchssignal. Seine Werkzeuge beschränken sich auf Storefront-Verbesserungswidgets für legitime E-Commerce-Händler und bieten keine relevante Missbrauchsfläche."
   },
   "Appjustable": {
@@ -1839,7 +1839,7 @@
   },
   "Apple Business Chat": {
     "description": "Apple Business Chat ist ein Dienst von Apple, mit dem deine Organisation direkt über die Messages-App mit Kunden chatten kann.",
-    "history": "Apple Business Chat, später in Apple Messages for Business umbenannt, wurde an der WWDC 2017 angekündigt und 2018 gestartet. Der Dienst ermöglicht Kunden, Unternehmen direkt über iMessage auf Apple-Geräten zu kontaktieren. Er war Teil von Apples breiterem Vorstoss in Enterprise- und Kundeninteraktion. Apple verlangt, dass Unternehmen für die Integration mit zugelassenen Messaging Service Providers (MSPs) arbeiten.",
+    "history": "Apple Business Chat, später in Apple Messages for Business umbenannt, wurde an der WWDC 2017 angekündigt und 2018 gestartet. Der Dienst ermöglicht Kunden, Unternehmen direkt über iMessage auf Apple-Geräten zu kontaktieren. Er war Teil der breiteren Bemühungen von Apple um Geschäftskunden und Kundenkommunikation. Apple verlangt, dass Unternehmen für die Integration mit zugelassenen Messaging Service Providers (MSPs) arbeiten.",
     "summary_abuse": "Apple Messages for Business ist eine von Apple kontrollierte Plattform mit strengen Zulassungsanforderungen für teilnehmende Unternehmen und daher sehr widerstandsfähig gegen Missbrauch. Nachrichten sind zwischen Nutzergeräten und Apple-Servern Ende-zu-Ende-verschlüsselt. Apples starke Anti-Fraud- und KYC-Kontrollen bei der Unternehmensregistrierung sowie das Bug-Bounty-Programm halten das Missbrauchsrisiko niedrig."
   },
   "Apple iCloud Mail": {
@@ -1913,7 +1913,7 @@
     "summary_abuse": "AppsFlyer ist eine führende Plattform für mobile Attribution und Marketing-Analytics. Als Ad-Tech-Unternehmen verfolgt es Nutzerverhalten in mobilen Apps in grossem Massstab und sammelt erhebliche Mengen an Verhaltensdaten, was inhärente Datenschutzfragen aufwirft. Es wird normalerweise nicht mit direktem Betrug oder Scam-Missbrauch verbunden, doch sein SDK ist in vielen Apps eingebettet und erfasst appübergreifende Verhaltensdaten. Das Unternehmen ist GDPR-konform und veröffentlicht Datenschutz-Zertifizierungen."
   },
   "Appstle": {
-    "description": "Appstle ist eine Plattform, die E-Commerce-Umsätze durch Kundenbindungs-orientierte Erlebnisse steigert.",
+    "description": "Appstle ist eine Plattform, die E-Commerce-Umsätze durch auf Kundenbindung ausgerichtete Kundenerlebnisse steigert.",
     "history": "Appstle ist ein Shopify-App-Entwickler, der um 2020 gestartet ist und Tools für Abonnements, Mitgliedschaften, Bundles und Treueprogramme anbietet. Das Unternehmen ist schnell gewachsen und zählt heute zu den am besten bewerteten Subscription-Apps im Shopify App Store, mit über 3'000 Fünf-Sterne-Bewertungen und mehr als 40'000 Händlern. Grössere Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "Appstle ist ein Shopify-Tool für Abonnementverwaltung ohne relevantes Missbrauchssignal. Es läuft im verifizierten App-Ökosystem von Shopify und verwaltet wiederkehrende Abrechnungen für legitime Händler-Abonnements. Öffentliche Betrugs- oder Scam-Vorfälle sind nicht dokumentiert."
   },
@@ -1928,7 +1928,7 @@
     "summary_abuse": "AppuOnline ist eine kleine indische Website für Börsentipps und Finanzinformationen; sie bietet kostenlose Aktienmarktsignale und Tipps für indische Privatanleger. Solche Tippdienste wurden in indischen Märkten historisch mit Pump-and-Dump-Schemata in Verbindung gebracht, auch wenn für AppuOnline selbst keine spezifischen dokumentierten Vorfälle öffentlich bekannt sind."
   },
   "Appwrite": {
-    "description": "Appwrite ist ein End-to-End-Backend-Server für Web-, Mobile- oder native Anwendungen, verpackt als Satz von Docker-Microservices.",
+    "description": "Appwrite ist ein End-to-End-Backend-Server für Web-, Mobile- oder native Anwendungen, ausgeliefert als Sammlung von Docker-Microservices.",
     "history": "Appwrite wurde im Oktober 2019 von Eldad Fux in Tel Aviv, Israel, als Open-Source-Backend-as-a-Service (BaaS) veröffentlicht. Die Plattform bietet Authentifizierung, Datenbanken, Storage, Functions und Messaging. Das Unternehmen wurde 2020 formell gegründet und nahm im September 2021 in einer Seed-Runde 10 Millionen US-Dollar von Bessemer Venture Partners und Flybridge auf, 2022 folgten weitere 27 Millionen US-Dollar, insgesamt also 37 Millionen US-Dollar.",
     "summary_abuse": "Appwrite ist eine Open-Source-Backend-Plattform, die selbst gehostet oder über das Cloud-Angebot genutzt werden kann. Wie bei jedem BaaS können Fehlkonfigurationen Nutzerdaten offenlegen, und die kostenlose Cloud-Stufe könnte theoretisch für schädliche Backend-Logik missbraucht werden. Die Open-Source-Community und transparente Codebasis von Appwrite begünstigen jedoch schnelle Behebung von Sicherheitsproblemen. Grössere Missbrauchsvorfälle sind öffentlich nicht dokumentiert."
   },
@@ -1949,7 +1949,7 @@
   },
   "Apruvd": {
     "description": "Apruvd ist ein Betrugsschutzsystem zur Erkennung und Verhinderung unautorisierter oder verdächtiger Transaktionen.",
-    "history": "Apruvd wurde im Mai 2015 in Phoenix, Arizona, als Dienst für E-Commerce-Betrugsschutz und Chargeback-Prävention gegründet. Der Service kombiniert Automatisierung, Big-Data-Analyse und menschliche Prüfung, um legitime Bestellungen zu identifizieren. Das Unternehmen integriert sich mit Shopify und BigCommerce.",
+    "history": "Apruvd wurde im Mai 2015 in Phoenix, Arizona, als Dienst für E-Commerce-Betrugsschutz und Chargeback-Prävention gegründet. Der Service kombiniert Automatisierung, Big-Data-Analyse und menschliche Prüfung, um legitime Bestellungen zu identifizieren. Die Lösung lässt sich in Shopify und BigCommerce integrieren.",
     "summary_abuse": "Apruvd ist ein Dienst für Betrugserkennung und Chargeback-Garantien für E-Commerce-Händler. Der Fokus liegt auf der Verhinderung von Betrug, nicht auf dessen Ermöglichung, und es gibt kein relevantes Missbrauchssignal. Der Service verarbeitet Zahlungstransaktionsdaten, was verantwortungsvolle Datenhandhabung erfordert."
   },
   "Aptania": {
@@ -1964,7 +1964,7 @@
   },
   "Apxium": {
     "description": "Apxium ist eine Softwarelösung zur Automatisierung von Kreditorenprozessen.",
-    "history": "Apxium ist ein australisches Fintech- und SaaS-Unternehmen, das Automatisierung für Forderungsmanagement und Zahlungsabwicklung speziell für Buchhaltungs- und Professional-Services-Firmen anbietet. Die Plattform integriert sich mit wichtigen Practice-Management-Systemen wie MYOB, Xero, APS und IRIS. Apxium automatisiert Rechnungsversand, Zahlungseinzug und Abstimmung und reduziert so Debitorentage für Buchhaltungsfirmen. Das Unternehmen beschreibt sich als SaaS- und Fintech-Startup, das verändert, wie Buchhaltungsfirmen Cashflow verwalten.",
+    "history": "Apxium ist ein australisches Fintech- und SaaS-Unternehmen, das Automatisierung für Forderungsmanagement und Zahlungsabwicklung speziell für Buchhaltungs- und Professional-Services-Firmen anbietet. Die Plattform integriert sich mit wichtigen Practice-Management-Systemen wie MYOB, Xero, APS und IRIS. Apxium automatisiert Rechnungsversand, Zahlungseinzug und Abstimmung und reduziert so die Debitorentage von Buchhaltungskanzleien. Das Unternehmen beschreibt sich als SaaS- und Fintech-Startup, das die Art verändert, wie Buchhaltungskanzleien ihren Cashflow verwalten.",
     "summary_abuse": "Apxium ist ein legitimes australisches Fintech-Startup für den Professional-Services-Sektor. Es gibt keine Berichte über Missbrauch, Datenmissbrauch oder unethische Abrechnungspraktiken. Das Unternehmen verarbeitet Finanztransaktionen und integriert sich mit gängigen Practice-Management-Systemen."
   },
   "AquilaCMS": {
@@ -2128,7 +2128,7 @@
   "ArvanCloud": {
     "description": "ArvanCloud ist ein Cloud-Dienstleister mit einem breiten Angebot integrierter Cloud-Services, darunter CDN, DDoS-Abwehr, Cloud Managed DNS, Cloud Security, VoD/AoD Streaming, Live Streaming, Cloud Compute, Cloud Object Storage und PaaS.",
     "history": "ArvanCloud (Abr Arvan) wurde 2015 in Teheran, Iran, als erster inländischer CDN- und Cloud-Dienstleister des Landes gegründet. Das Unternehmen wurde ein zentraler Partner des iranischen ICT-Ministeriums beim Aufbau des National Information Network und unterstützte Infrastruktur für Internetzensur. Im November 2022 verhängte die EU Sanktionen gegen ArvanCloud wegen der Ermöglichung von Internetrepression während der iranischen Proteste von 2019. Auch das US Treasury OFAC listete das Unternehmen, weil es materiell bei Internetzensur half und mit dem iranischen Ministry of Intelligence and Security zusammenarbeitete.",
-    "summary_abuse": "ArvanCloud wurde sowohl vom US Treasury OFAC als auch von der Europäischen Union gelistet, weil es die iranische Regierung materiell bei Internetzensur unterstützte und mit dem iranischen Ministry of Intelligence and Security zusammenarbeitete. Die Infrastruktur des Unternehmens unterstützte die Unterdrückung des Internetzugangs während der Proteste im November 2019, bei denen Hunderte Iraner getötet wurden. Es unterliegt internationalen Sanktionen und sollte von nicht-iranischen Unternehmen als Hochrisikoanbieter behandelt werden. Eine Nutzung durch westliche Organisationen würde wahrscheinlich gegen Sanktions-Compliance-Anforderungen verstossen."
+    "summary_abuse": "ArvanCloud wurde sowohl vom US Treasury OFAC als auch von der Europäischen Union gelistet, weil es die iranische Regierung materiell bei Internetzensur unterstützte und mit dem iranischen Ministry of Intelligence and Security zusammenarbeitete. Die Infrastruktur des Unternehmens unterstützte die Unterdrückung des Internetzugangs während der Proteste im November 2019, bei denen Hunderte Iraner getötet wurden. Es unterliegt internationalen Sanktionen und sollte von nicht-iranischen Unternehmen als Hochrisikoanbieter behandelt werden. Eine Nutzung durch westliche Organisationen würde wahrscheinlich gegen geltende Sanktionsvorschriften verstossen."
   },
   "Arwes": {
     "description": "Arwes ist ein futuristisches Sci-Fi-UI-Webframework.",
@@ -2178,7 +2178,7 @@
   "Asendia": {
     "description": "Asendia ist ein internationales Post-Joint-Venture von La Poste in Frankreich und Swiss Post.",
     "history": "Asendia entstand 2012 als Joint Venture zwischen La Poste (Frankreich) und Swiss Post, um internationale Brief- und Paketdienste anzubieten. Das Unternehmen ist auf grenzüberschreitende E-Commerce-Logistik spezialisiert und bedient Firmen, die kleine Pakete in grossem Massstab international versenden. Asendia nutzt die Postnetzwerke der Muttergesellschaften und lokale Zustellpartner in über 200 Destinationen. Das Unternehmen bietet e-PAQ-Dienste von günstigen Postlösungen bis zu Premium-Expresszustellung und verarbeitet jährlich Millionen grenzüberschreitender Sendungen.",
-    "summary_abuse": "Asendia ist ein legitimer internationaler Paketdienst, der gemeinsam zwei grossen europäischen nationalen Postdiensten gehört. Es gibt keine Berichte über Missbrauch oder betrügerische Aktivitäten. Das Unternehmen ist ein vertrauenswürdiger Partner für grenzüberschreitende E-Commerce-Logistik und wird weltweit von grossen Marken genutzt."
+    "summary_abuse": "Asendia ist ein legitimer internationaler Paketdienst im gemeinsamen Besitz zweier grosser nationaler Postgesellschaften aus Europa. Es gibt keine Berichte über Missbrauch oder betrügerische Aktivitäten. Das Unternehmen ist ein vertrauenswürdiger Partner für grenzüberschreitende E-Commerce-Logistik und wird weltweit von grossen Marken genutzt."
   },
   "Aseqbase": {
     "description": "Aseqbase ist ein sequenzbasiertes Webentwicklungsframework zum Erstellen robuster Websites.",
@@ -2226,7 +2226,7 @@
     "summary_abuse": "Asksuite ist ein legitimes brasilianisches Hospitality-Technologieunternehmen mit starker Erfolgsbilanz und Tausenden Hotels weltweit als Kunden. Es gibt keine Berichte über Missbrauch oder Datenmissbrauch. Das Unternehmen konzentriert sich auf Kundenservice-Automation im gut regulierten Hotelbuchungsbereich."
   },
   "ASP.NET Boilerplate": {
-    "description": "ASP.NET Boilerplate ist ein allgemeines Anwendungsframework, das speziell für neue moderne Webanwendungen entwickelt wurde. Es nutzt vertraute Tools und setzt Best Practices darauf um, um dir eine SOLID-Entwicklungserfahrung zu bieten.",
+    "description": "ASP.NET Boilerplate ist ein allgemeines Anwendungsframework, das speziell für neue moderne Webanwendungen entwickelt wurde. Es setzt auf vertraute Werkzeuge und bewährte Praktiken und ermöglicht so eine Entwicklung nach den SOLID-Prinzipien.",
     "history": "ASP.NET Boilerplate wurde ab 2013 von Halil Ibrahim Kalkan entwickelt und von Volosoft, einem türkischen Softwareunternehmen, gepflegt. Das Framework bietet eine strukturierte, konventionsbasierte Architektur für Enterprise-ASP.NET-Webanwendungen. Volosoft entwickelte später ABP Framework als Nachfolger. Der offizielle Support für ASP.NET Boilerplate endet im Mai 2026.",
     "summary_abuse": "ASP.NET Boilerplate ist ein Open-Source-Enterprise-Anwendungsframework ohne verbraucherorientierte Angriffsfläche und ohne dokumentierte Missbrauchsgeschichte. Es ist inzwischen zugunsten von ABP Framework deprecated."
   },
@@ -2331,7 +2331,7 @@
   "Atlasmic": {
     "description": "Atlasmic ist eine Live-Chat- und Business-Messenger-Plattform zur Unterstützung moderner Online-Unternehmen.",
     "history": "Atlasmic wurde 2020 von Ben Bitvinskas in Vilnius, Litauen, gegründet. Das Unternehmen bietet eine Live-Chat-, Sales-Acceleration- und Marketingplattform für kleine und mittlere Unternehmen. Atlasmic integriert sich mit Shopify und stellt Tools für Lead-Erfassung, Konversationsmanagement und Business Analytics bereit. Das Unternehmen hat 1 bis 10 Mitarbeitende und ist ohne externe Finanzierung bootstrapped.",
-    "summary_abuse": "Atlasmic ist ein legitimes litauisches Live-Chat-Startup ohne gemeldeten Missbrauch oder Datenmissbrauch. Durch den EU-Sitz arbeitet das Unternehmen im GDPR-Rahmen. Es ist ein kleines, bootstrapped Produkt mit üblicher Live-Chat-Funktionalität."
+    "summary_abuse": "Atlasmic ist ein legitimes litauisches Live-Chat-Startup ohne gemeldeten Missbrauch oder Datenmissbrauch. Durch den EU-Sitz arbeitet das Unternehmen im GDPR-Rahmen. Es ist ein kleines, eigenfinanziertes Produkt mit üblicher Live-Chat-Funktionalität."
   },
   "Atlassian Bitbucket": {
     "description": "Bitbucket ist ein webbasiertes Hosting für Versionskontroll-Repositories von Quellcode und Entwicklungsprojekten, die Mercurial oder Git nutzen.",
@@ -2457,7 +2457,7 @@
     "summary_abuse": "Die Versand-APIs und Plattform von Australia Post werden hauptsächlich von legitimen australischen Unternehmen für Paketzustellung genutzt. Die Marke wird häufig in Phishing-Kampagnen imitiert, die Verbraucher zum Klicken auf schädliche Links verleiten. Diese Angriffe missbrauchen jedoch den Markennamen, nicht die Systeme des Unternehmens. Australia Post veröffentlicht öffentliche Warnungen zu solchen Betrugsmaschen und arbeitet mit Behörden an deren Bekämpfung."
   },
   "Auth0": {
-    "description": "Auth0 bietet Authentication und Authorisation as a Service.",
+    "description": "Auth0 bietet Authentifizierung und Autorisierung als Service an.",
     "history": "Auth0 wurde 2013 von Eugenio Pace und Matias Woloski mit Fokus auf entwicklerfreundliche Authentifizierung und Identity Management mitgegründet. Das Unternehmen prägte einen Bottom-up- und entwicklerzentrierten Ansatz für Identity-as-a-Service (IDaaS), im Gegensatz zu klassischen Enterprise-IAM-Anbietern. Auth0 nahm umfangreiche VC-Finanzierung auf und wurde zum Unicorn. Im Mai 2021 übernahm Okta Auth0 in einem reinen Aktiengeschäft im Wert von rund 6,5 Milliarden US-Dollar, einer der grössten Übernahmen im Identity-Sektor. Auth0 wird weiterhin als eigenständige Geschäftseinheit innerhalb von Okta betrieben.",
     "summary_abuse": "Auth0 ist eine führende Identity- und Authentifizierungsplattform mit starken Sicherheitspraktiken und reifer Anti-Abuse-Haltung. Als Infrastruktur für Login und Authentifizierung wird sie gelegentlich bei Credential-Stuffing- oder Account-Takeover-Versuchen gegen darauf aufbauende Anwendungen angegriffen, bietet selbst aber robuste Sicherheitsfunktionen wie Anomalieerkennung und Erkennung kompromittierter Passwörter. Das Unternehmen betreibt ein öffentliches Bug-Bounty-Programm und reagiert schnell auf Sicherheitsmeldungen. Es sind keine breit berichteten relevanten Vorfälle bekannt, bei denen Auth0s eigene Plattform kompromittiert wurde."
   },

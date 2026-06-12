@@ -124,7 +124,7 @@
     "summary_abuse": "VClasses ist ein Learning Management System ohne nennenswertes Missbrauchssignal. LMS-Plattformen bedienen Bildungseinrichtungen und sind normalerweise kein typisches Ziel für Betrug."
   },
   "VDX.tv": {
-    "description": "VDX.tv, ehemals Exponential, ist ein globales Werbetechnologieunternehmen, das verändert, wie Marken in der heutigen zusammenwachsenden Videolandschaft relevante Zielgruppen erreichen.",
+    "description": "VDX.tv, ehemals Exponential, ist ein globales Werbetechnologieunternehmen, das verändert, wie Marken in der heutigen konvergierenden Videolandschaft relevante Zielgruppen erreichen.",
     "history": "VDX.tv, ehemals Exponential Interactive, ist ein globales Videowerbetechnologieunternehmen, das sich um 2019 umbenannte. Es bietet Videowerbelösungen für Premium-Publisher und Marken mit Fokus auf Connected TV und digitales Videoinventar.",
     "summary_abuse": "VDX.tv ist eine Videowerbetechnologieplattform. Wie die meisten Adtech-Unternehmen setzt sie umfangreiches Tracking in ihrem Publisher-Netzwerk ein. Videowerbenetzwerke sind als Träger von Malvertising-Kampagnen dokumentiert, und Drittanbieter-Adtech ist allgemein mit Ad Fraud und Impression Laundering konfrontiert. Öffentlich dokumentierte Vorfälle, die spezifisch VDX.tv zugeschrieben werden, sind nicht bekannt."
   },
@@ -186,7 +186,7 @@
   "Venngage": {
     "description": "Venngage ist eine Plattform zur Erstellung von Infografiken mit KI-gestützten Werkzeugen, die Design und Visualisierung vereinfachen.",
     "history": "Venngage wurde 2012 in Toronto, Kanada, als Online-Plattform für Infografiken und Datenvisualisierungsdesign gegründet; sie richtet sich an Marketing- und Kommunikationsfachleute und ist über Content-Marketing gewachsen. In den letzten Jahren hat die Plattform KI-gestützte Designwerkzeuge ergänzt.",
-    "summary_abuse": "Venngage ist eine Plattform für Infografiken und visuelles Design; sie hat kein nennenswertes Missbrauchssignal; es handelt sich um ein Kreativwerkzeug ohne relevante Endnutzer-Oberfläche, die Betrugsakteure für Phishing oder Scam-Operationen ausnutzen würden."
+    "summary_abuse": "Venngage ist eine Plattform für Infografiken und visuelles Design ohne nennenswertes Missbrauchssignal. Als Kreativwerkzeug bietet sie keine relevante Endnutzer-Oberfläche, die sich für Phishing oder Scam-Operationen ausnutzen liesse."
   },
   "VentasxMayor": {
     "description": "VentasxMayor ist eine E-Commerce-Plattform für Grosshändler, Marken, Distributoren und Importeure, um Grosshandelsverkäufe zu vereinfachen und zu steigern.",
@@ -239,7 +239,7 @@
   },
   "VeraSafe": {
     "description": "VeraSafe ist ein Privacy-Compliance-System, das Organisationen bei der Einhaltung globaler Datenschutzvorschriften und Datenschutzgesetze unterstützt.",
-    "history": "VeraSafe wurde 2012 in Washington DC als Datenschutzkanzlei und Compliance-Technologieanbieter gegründet. Das Unternehmen spezialisiert sich auf transatlantische Datenschutz-Compliance, GDPR und US-Datenschutzvorschriften. VeraSafe ist ein für EU-US Privacy Shield und EU-Vertretung zertifizierter Anbieter.",
+    "history": "VeraSafe wurde 2012 in Washington DC als Datenschutzkanzlei und Compliance-Technologieanbieter gegründet. Das Unternehmen spezialisiert sich auf transatlantische Datenschutz-Compliance, GDPR und US-Datenschutzvorschriften. VeraSafe ist eine für das EU-US Privacy Shield zertifizierte Stelle und als EU-Vertreter tätig.",
     "summary_abuse": "VeraSafe ist eine Privacy-Compliance-Plattform und Kanzlei für Rechtsdienstleistungen. Das Kernprodukt hilft Organisationen, GDPR und globale Datenschutzgesetze einzuhalten. Mit VeraSafe ist kein nennenswertes Missbrauchssignal verbunden."
   },
   "Vercel": {
@@ -406,7 +406,7 @@
     "summary_abuse": "Vidazoo ist eine Plattform für Video-Ad-Yield-Management, die auf Publisher-Websites eingebettet wird. Video-Werbenetzwerke waren historisch Vektoren für Malvertising und Domain Spoofing. Vidazoos Ad-Tech-Ausrichtung bedeutet umfangreiche Tracking- und Werbeskripte, konkrete gross angelegte Missbrauchsfälle sind jedoch nicht dokumentiert."
   },
   "Video Greet": {
-    "description": "Video Greet lässt deine Kunden Geschenken per QR-Code eine Videobotschaft hinzufügen.",
+    "description": "Mit Video Greet können deine Kunden Geschenken per QR-Code eine Videobotschaft beifügen.",
     "history": "Video Greet ist eine Shopify-App, mit der Kunden Geschenkkäufen Videobotschaften per QR-Code hinzufügen können. Ein bedeutendes Gründungsdatum oder Eigentümerereignisse sind nicht dokumentiert.",
     "summary_abuse": "Video Greet ist eine Nischen-App für Geschenk-Videobotschaften ohne auffälliges Missbrauchssignal; sie arbeitet innerhalb des Shopify-App-Ökosystems."
   },
@@ -688,7 +688,7 @@
   "Vizury": {
     "description": "Vizury ist eine E-Commerce-Marketingplattform.",
     "history": "Vizury wurde 2008 in Indien von Chetan Kulkarni, Gourav Chindlur und Vikram Nayak als Plattform für E-Commerce-Retargeting und Marketingautomatisierung gegründet. Im September 2018 übernahm Affle India Vizurys Commerce-Geschäft für 10 Millionen US-Dollar. Marke und Plattform laufen heute unter Affle.",
-    "summary_abuse": "Vizury ist eine Plattform für E-Commerce-Marketingautomatisierung und Retargeting ohne auffälliges Missbrauchssignal. Als B2B-Tool für Marken im E-Commerce und BFSI ist es kein konsumentenorientierter Dienst, den Betrüger typischerweise angreifen. Push-Benachrichtigungen könnten theoretisch für Spam missbraucht werden, dokumentierte Vorfälle sind jedoch nicht bekannt."
+    "summary_abuse": "Vizury ist eine Plattform für E-Commerce-Marketingautomatisierung und Retargeting ohne auffälliges Missbrauchssignal. Als B2B-Tool für Marken im E-Commerce sowie im Banken-, Finanz- und Versicherungssektor ist es kein konsumentenorientierter Dienst, den Betrüger typischerweise angreifen. Push-Benachrichtigungen könnten theoretisch für Spam missbraucht werden, dokumentierte Vorfälle sind jedoch nicht bekannt."
   },
   "VK Pixel": {
     "description": "VK ist ein russischer Online-Social-Media- und Social-Networking-Dienst.",
@@ -742,7 +742,7 @@
   },
   "Voltn": {
     "description": "Voltn ist ein Anbieter von Marketing-Technologiediensten.",
-    "history": "Voltn ist ein Anbieter von Marketing-Technologiediensten. Es sind keine bemerkenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "history": "Voltn ist ein Anbieter von Marketing-Technologiediensten. Es sind keine nennenswerten Angaben zur Gründung oder zu Eigentümerwechseln dokumentiert.",
     "summary_abuse": "Voltn ist ein Marketing-Technologieanbieter ohne dokumentiertes auffälliges Missbrauchssignal."
   },
   "Volusion": {
@@ -776,7 +776,7 @@
   },
   "Vop": {
     "description": "Vop ist ein Dienst, der die Integration von E-Commerce in soziale Inhalte erleichtert.",
-    "history": "Vop ist ein Social-Commerce-Integrationsdienst, mit dem E-Commerce in soziale Inhalte eingebettet werden kann. Es sind keine bemerkenswerten Gründungsdaten oder Eigentümerereignisse dokumentiert.",
+    "history": "Vop ist ein Social-Commerce-Integrationsdienst, mit dem E-Commerce in soziale Inhalte eingebettet werden kann. Es sind keine nennenswerten Angaben zur Gründung oder zu Eigentümerwechseln dokumentiert.",
     "summary_abuse": "Vop ist ein Social-Commerce-Integrationstool ohne dokumentiertes auffälliges Missbrauchssignal."
   },
   "Voracio": {

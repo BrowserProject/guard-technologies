@@ -100,10 +100,10 @@
   "Icordis CMS": {
     "description": "Icordis CMS ist ein proprietäres Content-Management-System von LCP nv zur Verwaltung individueller Geschäfts- und Institutionswebsites.",
     "history": "Icordis CMS ist ein proprietäres Content-Management-System, entwickelt von LCP nv, einem belgischen IT-Dienstleister. Es ist für die Verwaltung individueller Unternehmenswebsites und Intranets konzipiert und bedient vor allem den belgischen Markt.",
-    "summary_abuse": "Icordis CMS ist ein belgisches Enterprise-Nischen-CMS ohne bekanntes Missbrauchsprofil. Es bedient eine kleine Zahl von Geschäftskunden mit individuellen Deployments und hat keine öffentliche Endnutzeroberfläche, die für Phishing oder Spam-Operationen ausgenutzt werden könnte."
+    "summary_abuse": "Icordis CMS ist ein belgisches Enterprise-Nischen-CMS ohne bekanntes Missbrauchsprofil. Es bedient eine kleine Zahl von Geschäftskunden mit massgeschneiderten Installationen und hat keine öffentliche Endnutzeroberfläche, die für Phishing oder Spam-Operationen ausgenutzt werden könnte."
   },
   "ID5": {
-    "description": "ID5 bietet eine Identitätslösung für digitale Werbung, mit einer Universal ID für datenschutzkonforme Nutzererkennung und Tracking über Websites hinweg ohne persönliche Informationen oder Third-Party-Cookies.",
+    "description": "ID5 bietet eine Identitätslösung für digitale Werbung, mit einer Universal ID für datenschutzkonforme Nutzererkennung und Tracking über Websites hinweg ohne personenbezogene Daten oder Third-Party-Cookies.",
     "history": "ID5 wurde 2017 in London von Mathieu Roche und Pierre-Antoine Durgeat als cookieloser universeller Identifier für digitale Werbung gegründet. Das Unternehmen nahm eine Series B über 20 Millionen USD auf und übernahm im November 2025 TrueData, um seine Identitätsabdeckung zu erweitern.",
     "summary_abuse": "ID5 ist ein Adtech-Dienst zur Identitätsauflösung, der Nutzer über Websites hinweg mit gehashten E-Mails, IPs und ML-Modellen für Werbetargeting verfolgt. Dieses Cross-Site-Tracking ist beabsichtigt und kann bei Endnutzern Datenschutzbedenken auslösen, auch wenn das Unternehmen GDPR-Konformität und ein einwilligungsbasiertes Modell angibt. Konkrete Betrugs- oder Malware-Missbrauchsmuster sind nicht dokumentiert."
   },
@@ -140,7 +140,7 @@
   "iEntry": {
     "description": "iEntry ist eine Full-Service-E-Mail-Marketingplattform mit Kampagnenverwaltung, Listenaufbau, Analysen und zielgerichtetem Messaging für Unternehmen.",
     "history": "iEntry ist eine US-amerikanische E-Mail-Marketingplattform, die seit den frühen 2000er-Jahren Kampagnenverwaltung und Tools zum Listenaufbau für Publisher und Unternehmen anbietet.",
-    "summary_abuse": "iEntry ist eine E-Mail-Marketingplattform. E-Mail-Plattformen bringen grundsätzlich Spam-Risiken mit sich, und die ältere Infrastruktur sowie der Nischenstatus von iEntry deuten auf begrenztere Missbrauchsüberwachung als bei grossen ESPs hin."
+    "summary_abuse": "iEntry ist eine E-Mail-Marketingplattform. E-Mail-Plattformen bringen grundsätzlich Spam-Risiken mit sich, und die ältere Infrastruktur sowie der Nischenstatus von iEntry deuten auf begrenztere Missbrauchsüberwachung als bei grossen E-Mail-Dienstleistern hin."
   },
   "iEXExchanger": {
     "history": "iEXExchanger ist ein selbst gehostetes Kryptowährungsbörsen-Script auf Basis von PHP/Laravel und Angular vom iExBase-Team. Es wird als lizenzierte Software verkauft, mit der Betreiber eigene Krypto-Wechselstuben starten können. Weltweit sind etwa 15 aktive Deployments bekannt.",
@@ -209,7 +209,7 @@
   "Iluria": {
     "description": "Iluria ist eine gehostete E-Commerce-Plattform aus Brasilien.",
     "history": "Iluria ist eine brasilianische gehostete E-Commerce-Plattform, die um 2012 entstand und sich an kleine Unternehmen und unabhängige Marken in Brasilien richtet. Mit einem kleinen Team erzielte sie rund 2,7 Millionen USD Jahresumsatz und bediente brasilianische Händler in Mode, Design und Boutique-Retail.",
-    "summary_abuse": "Iluria ist eine legitime brasilianische E-Commerce-Plattform ohne auffälliges Missbrauchsprofil. Als Hostingdienst für Online-Shops könnte sie theoretisch von schlechten Akteuren zum Erstellen betrügerischer Shops genutzt werden, dieses Risiko ist jedoch bei allen gehosteten E-Commerce-Plattformen üblich. Dokumentierte Fälle systematischen Missbrauchs mit Iluria wurden nicht gemeldet."
+    "summary_abuse": "Iluria ist eine legitime brasilianische E-Commerce-Plattform ohne auffälliges Missbrauchsprofil. Als Hostingdienst für Online-Shops könnte sie theoretisch von böswilligen Akteuren zum Erstellen betrügerischer Shops genutzt werden, dieses Risiko ist jedoch bei allen gehosteten E-Commerce-Plattformen üblich. Dokumentierte Fälle systematischen Missbrauchs mit Iluria wurden nicht gemeldet."
   },
   "iMagaza": {
     "description": "iMagaza ist ein E-Commerce-Website-System aus der Türkei.",
@@ -309,7 +309,7 @@
   "Importify": {
     "description": "Importify ist eine Dropshipping-App, die Produkte von Hunderten Lieferanten bezieht und deren Integration in deinen Online-Shop für den Verkauf erleichtert.",
     "history": "Importify ist eine Shopify-Dropshipping-App von Importify Limited, mit der Händler Produkte von AliExpress, Alibaba, Etsy und anderen Lieferanten beziehen und importieren können. Die App läuft im Shopify-Ökosystem und richtet sich an kleine E-Commerce-Unternehmer, die ins Dropshipping einsteigen.",
-    "summary_abuse": "Importify ist ein Dropshipping-Werkzeug mit erhöhtem Missbrauchspotenzial gegenüber typischen SaaS-Tools. Dropshipping-Plattformen wurden mit gefälschten Waren, Markenrechtsverletzungen und irreführenden Versandpraktiken durch unseriöse Händler in Verbindung gebracht. Das Werkzeug selbst erleichtert Betrug nicht aktiv, sein Ökosystem, insbesondere AliExpress-Dropshipping, hat jedoch eine dokumentierte Geschichte von Verbrauchertäuschung mit gefälschten Produkten und langen Lieferzeiten, die als inländische Erfüllung dargestellt werden."
+    "summary_abuse": "Importify ist ein Dropshipping-Werkzeug mit erhöhtem Missbrauchspotenzial gegenüber typischen SaaS-Tools. Dropshipping-Plattformen wurden mit gefälschten Waren, Markenrechtsverletzungen und irreführenden Versandpraktiken durch unseriöse Händler in Verbindung gebracht. Das Werkzeug selbst erleichtert Betrug nicht aktiv, sein Ökosystem, insbesondere AliExpress-Dropshipping, hat jedoch eine dokumentierte Geschichte von Verbrauchertäuschung mit gefälschten Produkten und langen Lieferzeiten, die als Versand aus dem Inland ausgegeben werden."
   },
   "Impresee": {
     "description": "Impresee verbessert E-Commerce mit einer handlungsorientierten Suchleiste, die Produktsuche und Navigation erleichtert.",
@@ -368,7 +368,7 @@
   },
   "Includable": {
     "history": "Includable ist eine kleine Entwicklungsagentur und Beratung aus den Niederlanden, die Webanwendungen, APIs und Mobile Apps für Sozialunternehmen und Startups baut. Bedeutende Eigentümer- oder Abkündigungsereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Includable ist eine kleine Entwicklungsagentur ohne auffälliges Missbrauchssignal; sie bietet individuelle Softwareentwicklung und keine gehostete Endnutzerplattform, die von schlechten Akteuren ausgenutzt werden könnte."
+    "summary_abuse": "Includable ist eine kleine Entwicklungsagentur ohne auffälliges Missbrauchssignal; sie bietet individuelle Softwareentwicklung und keine gehostete Endnutzerplattform, die von böswilligen Akteuren ausgenutzt werden könnte."
   },
   "Indeed": {
     "description": "Indeed ist eine Plattform, die eingebetteten Code zur Nachverfolgung jobbezogener Klicks bereitstellt und Jobsuchfunktionen unterstützt.",
@@ -463,7 +463,7 @@
     "summary_abuse": "INFOnline ist ein deutscher Dienst für Webanalyse und Reichweitenmessung für Publisher. Als Tracking-Pixel- und Analytics-Anbieter sammelt er Nutzerdaten über Publisher-Seiten hinweg, arbeitet aber unter deutschem und EU-Datenschutzrecht. Betrugs- oder Malware-Missbrauchsmuster sind nicht dokumentiert."
   },
   "Infor": {
-    "description": "Infor ist eine Ressourcenplanungs-Lösung, die Geschäftsabläufe strafft, Workflows verwaltet und datenbasierte Entscheidungen über verschiedene Unternehmensfunktionen hinweg unterstützt.",
+    "description": "Infor ist eine ERP-Lösung (Enterprise Resource Planning), die Geschäftsabläufe strafft, Workflows verwaltet und datenbasierte Entscheidungen über verschiedene Unternehmensfunktionen hinweg unterstützt.",
     "history": "Infor entstand 2002 durch die Fusion von GEAC Computer Corporation und Intentia und bündelte verschiedene ERP-Softwaregeschäfte. Koch Industries übernahm 2017 eine Mehrheitsbeteiligung, 2020 ging Infor vollständig in Koch auf. Das Unternehmen zählt weiterhin zu den weltweit grössten Enterprise-Softwareanbietern mit Fokus auf branchenspezifische Cloud-ERP-Lösungen.",
     "summary_abuse": "Infor hat kein auffälliges Missbrauchssignal. Es ist eine grosse Enterprise-ERP- und CRM-Plattform, die von Fortune-500-Unternehmen genutzt wird, ohne Endkundenoberfläche, die Betrüger ins Visier nehmen. Das Enterprise-Vertriebsmodell und die grosse Firmenkundschaft verhindern weitgehend den spontanen Missbrauch, wie er bei Self-Service-Plattformen vorkommt."
   },
@@ -538,7 +538,7 @@
     "summary_abuse": "inSales ist eine russische SaaS-E-Commerce-Plattform ohne dokumentierte auffällige Missbrauchsfälle."
   },
   "inSided": {
-    "description": "inSided ist eine Customer-Success-Community-Plattform, die SaaS-Unternehmen dabei hilft, Kundenerfolg und Kundenbindung zu verbessern.",
+    "description": "inSided ist nach eigenen Angaben die einzige Customer-Success-Community-Plattform, die speziell dafür entwickelt wurde, SaaS-Unternehmen bei Kundenerfolg und Kundenbindung zu unterstützen.",
     "history": "inSided wurde 2012 in Amsterdam als Customer-Success-Community-Plattform für SaaS-Unternehmen gegründet. Im Januar 2022 übernahm Gainsight inSided, um Community-Funktionen in seine Customer-Success-Suite zu integrieren.",
     "summary_abuse": "inSided ist eine B2B-Community-Plattform für SaaS-Unternehmen ohne dokumentierte Missbrauchsfälle."
   },
@@ -577,7 +577,7 @@
     "summary_abuse": "Instafeed ist eine Shopify-App zum Einbetten von Instagram-Inhalten; sie hat kein auffälliges Missbrauchssignal und wird über Shopifys geprüften App-Marktplatz vertrieben."
   },
   "Instafeed.js": {
-    "description": "Eine Möglichkeit, Instagram-Fotos zu deiner Website hinzuzufügen.",
+    "description": "Instafeed.js bindet Instagram-Fotos in die eigene Website ein.",
     "history": "Instafeed.js wurde ursprünglich 2012 von Steven Schobert als einfache Vanilla-JavaScript-Bibliothek geschrieben, um Instagram-Fotos auf Websites anzuzeigen; sie erreichte Version 2.1.0. Änderungen an der Instagram API durch Meta haben die Token-Verwaltung erschwert und erfordern serverseitige Komponenten, die die Bibliothek allein nicht bereitstellen kann.",
     "summary_abuse": "Instafeed.js hat kein auffälliges Missbrauchssignal. Es ist eine Frontend-JavaScript-Bibliothek zum Anzeigen von Instagram-Fotos ohne serverseitige oder Hosting-Komponente, die Betrüger typischerweise ins Visier nehmen würden."
   },
@@ -641,7 +641,7 @@
     "summary_abuse": "Intaker ist ein Tool für Legal Intake Automation ohne auffällige Missbrauchssignale. Die Plattform ist speziell für US-Kanzleien gebaut und verarbeitet Kontaktdaten potenzieller Mandanten. Wegen des Fokus auf Kanzlei-Intake ist Missbrauch für Spam oder Phishing unwahrscheinlich, da die Mandanten aktiv rechtliche Dienstleistungen suchen."
   },
   "Integral Ad Science": {
-    "description": "Integral Ad Science ist ein börsennotiertes amerikanisches Technologieunternehmen, das den Wert digitaler Werbeplatzierungen analysiert.",
+    "description": "Integral Ad Science ist ein börsenkotiertes amerikanisches Technologieunternehmen, das den Wert digitaler Werbeplatzierungen analysiert.",
     "history": "Integral Ad Science wurde 2009 als AdSafe Media von sechs Mitgründern, darunter Will Luttrell, gegründet und 2012 in Integral Ad Science umbenannt. 2014 erhielt das Unternehmen eine grosse Investition von Vista Equity Partners. Im Juni 2021 folgte der IPO an der NASDAQ unter dem Ticker IAS. Im November 2025 schloss NovaCap eine Übernahme über 1,9 Milliarden Dollar ab und nahm das Unternehmen von der Börse.",
     "summary_abuse": "Integral Ad Science ist eine Plattform für Ad Verification und Brand Safety, die tief im digitalen Werbeökosystem verankert ist. Als Ad-Tech-Infrastruktur verarbeitet sie enorme Mengen an Zielgruppendaten und Web-Browsing-Verhalten, was Datenschutzbedenken aufwirft. Grosse Werbetreibende nutzen sie zur Prüfung von Ad Viewability und Brand Safety; sie wird nicht direkt missbraucht, doch die zugrunde liegende Tracking-Infrastruktur kann im weiteren Werbeökosystem von böswilligen Akteuren zweckentfremdet werden."
   },

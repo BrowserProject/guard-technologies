@@ -132,7 +132,7 @@
   "CallTrackingMetrics": {
     "description": "CallTrackingMetrics ist eine Lösung für Call Tracking und Marketing-Attribution für Contact Center und Agenturen.",
     "history": "CallTrackingMetrics, heute CTM, wurde um 2009 bis 2010 vom Ehepaar Todd und Laure Fisher gegründet. Das Unternehmen mit Sitz in den USA bietet Software für Call Tracking, Conversation Intelligence und Marketing-Attribution. Die Plattform erreichte rund 43,8 Millionen USD Jahresumsatz und 30'000 Kunden. Die Pläne reichen von Marketing Lite für 79 USD pro Monat bis Enterprise für 1'999 USD pro Monat, mit transparenter öffentlicher Preisstruktur über alle Stufen.",
-    "summary_abuse": "Es wurde keine relevante Missbrauchshistorie gefunden. CallTrackingMetrics ist eine legitime Call-Tracking-Plattform mit transparenter Preisgestaltung und langer Historie bei Marketingagenturen und Unternehmen. Funktionen zur Anrufaufzeichnung erfordern die Einhaltung von Zustimmungsgesetzen, konkrete Verstösse oder Vorfälle sind jedoch nicht gemeldet."
+    "summary_abuse": "Es wurde keine relevante Missbrauchshistorie gefunden. CallTrackingMetrics ist eine legitime Call-Tracking-Plattform mit transparenter Preisgestaltung und langer Historie bei Marketingagenturen und Unternehmen. Funktionen zur Anrufaufzeichnung setzen die Einhaltung gesetzlicher Einwilligungsvorgaben voraus, konkrete Verstösse oder Vorfälle sind jedoch nicht gemeldet."
   },
   "CamanJS": {
     "description": "CamanJS ist eine JavaScript-Bibliothek zur Bildbearbeitung direkt im Browser, mit der Canvas-Elemente manipuliert werden können.",
@@ -151,17 +151,17 @@
   },
   "Candid": {
     "description": "Candid ist eine Visual-Commerce-Plattform, die E-Commerce mit Instagram verbindet und so Produkterkennung und optimierte Einkaufserlebnisse ermöglicht.",
-    "history": "AlloyUI wurde 2009 von Eduardo Lundgren und Nate Cavanaugh bei Liferay entwickelt, auf Basis von Yahoo's YUI3 JavaScript-Bibliothek und mit Bootstrap 3 für das Styling. Es war viele Jahre das UI-Framework von Liferay Portal und bot eine umfangreiche Komponentenbibliothek für Enterprise-Portal-Anwendungen. Mit dem Wandel zu modernen Frontend-Tools stellte Liferay AlloyUI zugunsten von Metal.js und später React-basierten Komponenten in Liferay 7.x ein. Das Repository ist heute auf GitHub archiviert und read-only.",
+    "history": "AlloyUI wurde 2009 von Eduardo Lundgren und Nate Cavanaugh bei Liferay entwickelt, auf Basis von Yahoo's YUI3 JavaScript-Bibliothek und mit Bootstrap 3 für das Styling. Es war viele Jahre das UI-Framework von Liferay Portal und bot eine umfangreiche Komponentenbibliothek für Enterprise-Portal-Anwendungen. Mit dem Wandel zu modernen Frontend-Tools stellte Liferay AlloyUI zugunsten von Metal.js und später React-basierten Komponenten in Liferay 7.x ein. Das Repository ist heute auf GitHub archiviert und schreibgeschützt.",
     "summary_abuse": "Für AlloyUI sind keine Missbrauchsvorfälle gemeldet. Es ist eine veraltete Enterprise-UI-Bibliothek, die intern von Liferay Portal genutzt wurde. Als archiviertes Projekt ohne neue Entwicklung stellt es kein aktuelles Missbrauchsrisiko dar, abgesehen vom üblichen Risiko nicht mehr gepflegter Dependencies."
   },
   "Candid Themes Fairy": {
     "description": "Fairy ist ein kostenloses und minimalistisches WordPress-Blog-Theme von Candid Themes.",
-    "history": "Fairy ist ein kostenloses, minimalistisches WordPress-Blog-Theme von Candid Themes, einem Team erfahrener WordPress-Theme-Entwickler. Das Theme ist Gutenberg-ready, unterstützt alle WordPress-Blöcke und Patterns und enthält eigene Widgets für Autor, Featured Posts und Social Icons. Es ist auf WordPress.org und der Website von Candid Themes verfügbar. Zusätzlich gibt es eine Premium-Pro-Version mit weiteren Anpassungsoptionen. Das Theme richtet sich an Blogger und Content Creator, die ein klares, minimalistisches Design suchen.",
+    "history": "Fairy ist ein kostenloses, minimalistisches WordPress-Blog-Theme von Candid Themes, einem Team erfahrener WordPress-Theme-Entwickler. Das Theme ist Gutenberg-ready, unterstützt alle WordPress-Blöcke und Patterns und enthält eigene Widgets für Autorenprofil, hervorgehobene Beiträge und Social-Media-Icons. Es ist auf WordPress.org und der Website von Candid Themes verfügbar. Zusätzlich gibt es eine Premium-Pro-Version mit weiteren Anpassungsoptionen. Das Theme richtet sich an Blogger und Content Creator, die ein klares, minimalistisches Design suchen.",
     "summary_abuse": "Keine Missbrauchshistorie. Fairy ist ein GPL-lizenziertes kostenloses WordPress-Theme von Candid Themes. Themes auf WordPress.org durchlaufen eine Prüfung, was eine grundlegende Qualitätssicherung bietet. Schädlicher Code, versteckte Datensammlung oder Sicherheitsprobleme sind nicht gemeldet."
   },
   "CanJS": {
     "description": "CanJS ist ein MIT-lizenziertes clientseitiges JavaScript-Framework zum Erstellen wartbarer und performanter Webanwendungen.",
-    "history": "CanJS ist ein MIT-lizenziertes clientseitiges JavaScript-MVC-Framework, das ursprünglich von Bitovi entwickelt wurde. Es sollte Entwicklern helfen, komplexe, leistungsfähige Webanwendungen mit observable Data, Live-Binding-Templates und Routing zu bauen. Das Framework durchlief mehrere Hauptversionen und wird weiterhin vom Bitovi-Team gepflegt, auch wenn seine Popularität mit der Dominanz von React, Vue und Angular im JavaScript-Framework-Ökosystem zurückgegangen ist.",
+    "history": "CanJS ist ein MIT-lizenziertes clientseitiges JavaScript-MVC-Framework, das ursprünglich von Bitovi entwickelt wurde. Es sollte Entwicklern helfen, komplexe, leistungsfähige Webanwendungen mit beobachtbaren Datenstrukturen, Live-Binding-Templates und Routing zu bauen. Das Framework durchlief mehrere Hauptversionen und wird weiterhin vom Bitovi-Team gepflegt, auch wenn seine Popularität mit der Dominanz von React, Vue und Angular im JavaScript-Framework-Ökosystem zurückgegangen ist.",
     "summary_abuse": "Keine Missbrauchshistorie. CanJS ist ein legitimes Open-Source-JavaScript-Framework, das von Bitovi unter der MIT-Lizenz gepflegt wird. Die Bibliothek sammelt keine Daten und sendet keine Informationen nach aussen; sie hat eine kleinere, aber engagierte Nutzercommunity."
   },
   "Canny": {
@@ -176,7 +176,7 @@
   },
   "Canto": {
     "description": "Canto ist eine Lösung für Digital Asset Management.",
-    "history": "Canto wurde 1990 gegründet und war ein früher Innovator im Bereich Digital Asset Management. Das Unternehmen hat seinen Hauptsitz in Atlanta und Büros in Berlin und Sydney und bedient weltweit über 2'500 Kunden. Canto nahm 85 Millionen USD von Investoren wie JMI Equity und Atrium Capital auf. Mit 201 bis 500 Mitarbeitenden und geschätzten 50 bis 250 Millionen USD Jahresumsatz gehört Canto zu den etablierten Anbietern im DAM-Markt und wird von Gartner anerkannt. Die Plattform integriert Content Management, Zusammenarbeit und Distributions-Workflows.",
+    "history": "Canto wurde 1990 gegründet und war ein früher Innovator im Bereich Digital Asset Management. Das Unternehmen hat seinen Hauptsitz in Atlanta und Büros in Berlin und Sydney und bedient weltweit über 2'500 Kunden. Canto nahm 85 Millionen USD von den Investoren JMI Equity und Atrium Capital auf. Mit 201 bis 500 Mitarbeitenden und geschätzten 50 bis 250 Millionen USD Jahresumsatz gehört Canto zu den etablierten Anbietern im DAM-Markt und wird von Gartner anerkannt. Die Plattform integriert Content Management, Zusammenarbeit und Distributions-Workflows.",
     "summary_abuse": "Es wurde keine relevante Missbrauchshistorie gefunden. Canto ist ein seit Langem etablierter Anbieter für Digital Asset Management mit Unternehmenskunden. Das Unternehmen arbeitet mit angemessenen Data-Governance-Praktiken. Bekannte Sicherheitsvorfälle, Datenmissbrauch oder bösartiges Verhalten sind nicht gemeldet."
   },
   "Cantrip": {
@@ -202,7 +202,7 @@
   "Canvy": {
     "description": "Canvy ist ein Online-Tool für Kunstmaler und Posterdesigner, um die Online-Promotion und Präsentation ihrer Werke zu verbessern.",
     "history": "Canvy wurde 2020 in Dänemark als Online-Tool für Kunstmaler und Posterdesigner gegründet, damit sie ihre Werke virtuell inszenieren und online bewerben können. Die Plattform startete mit Raum-Mockup-Visualisierungen und einem Website-Builder für Künstler. Seit der Gründung sind keine relevanten Eigentümerwechsel oder Kontroversen bekannt.",
-    "summary_abuse": "Canvy ist ein Nischenwerkzeug für Kunstportfolios und Raum-Mockups ohne relevantes Missbrauchssignal. Der Dienst wird fast ausschliesslich von Künstlern und Designern zur Präsentation von Werken genutzt. Dokumentierte Fälle von Missbrauch für Phishing, Spam oder betrügerische Storefronts gibt es nicht. Das Missbrauchsrisiko ist wegen des kuratierten, subscription-basierten Produkts sehr niedrig."
+    "summary_abuse": "Canvy ist ein Nischenwerkzeug für Kunstportfolios und Raum-Mockups ohne relevantes Missbrauchssignal. Der Dienst wird fast ausschliesslich von Künstlern und Designern zur Präsentation von Werken genutzt. Dokumentierte Fälle von Missbrauch für Phishing, Spam oder betrügerische Storefronts gibt es nicht. Das Missbrauchsrisiko ist wegen des kuratierten, abonnementbasierten Produkts sehr niedrig."
   },
   "Canyon": {
     "description": "Canyon ist ein Tool, das JavaScript-Coverage-Erfassung und Echtzeit-Berichtserstellung über Babel-Konfiguration ermöglicht und Herausforderungen bei der Coverage-Erhebung in End-to-End-Tests adressiert.",
@@ -211,7 +211,7 @@
   },
   "Capacity": {
     "description": "Capacity ist ein Live-Chat-System für E-Commerce-Websites, früher bekannt als Needle.",
-    "history": "Capacity wurde 2017 von David Karandish und Chris Sims als KI-gestützte Plattform für Wissensmanagement und Support-Automatisierung gegründet. Das Unternehmen entstand aus dem Equity.com-Inkubator und nahm erhebliche Finanzierung auf, darunter 92 Millionen USD für den Ausbau seiner Contact-Center-KI-Fähigkeiten. Capacity ist auf über 20'000 Unternehmen gewachsen.",
+    "history": "Capacity wurde 2017 von David Karandish und Chris Sims als KI-gestützte Plattform für Wissensmanagement und Support-Automatisierung gegründet. Das Unternehmen entstand aus dem Equity.com-Inkubator und nahm erhebliche Finanzierung auf, darunter 92 Millionen USD für den Ausbau seiner Contact-Center-KI-Fähigkeiten. Capacity bedient inzwischen über 20'000 Unternehmen.",
     "summary_abuse": "Capacity ist eine Enterprise-Plattform für KI-gestütztes Wissensmanagement und Support-Automatisierung ohne relevantes Missbrauchssignal. Unternehmen nutzen sie zur Automatisierung von Kundensupport und internem Wissensaustausch. Dokumentierte Fälle von Ausnutzung des Dienstes für Spam, Phishing oder Betrug gibt es nicht."
   },
   "Capsule CRM": {
@@ -236,7 +236,7 @@
   "Captivate.fm": {
     "description": "Captivate.fm ist eine Podcast-Hosting- und Analytics-Plattform mit Werkzeugen zum Erstellen, Hosten und Verteilen von Podcasts.",
     "history": "Captivate.fm wurde 2018 im Vereinigten Königreich als Plattform für unbegrenztes Podcast-Hosting gegründet. Der Dienst wurde der weltweit erste IAB Tech Lab 2.2 Certified Podcast Host und baute damit Glaubwürdigkeit bei der Analytics-Genauigkeit auf. Die Plattform ist gewachsen und bedient unabhängige sowie professionelle Podcaster weltweit, mit Fokus auf wachstumsorientierte Funktionen und Teamzusammenarbeit.",
-    "summary_abuse": "Captivate.fm ist eine Podcast-Hosting-Plattform mit minimal dokumentiertem Missbrauchssignal. Wie die meisten Media-Hosting-Plattformen könnte sie theoretisch zur Verbreitung irreführender Audioinhalte genutzt werden, es gibt jedoch keine relevanten dokumentierten Betrugs- oder Missbrauchsfälle. Das subscription-basierte Modell mit IAB-Zertifizierung spricht für einen legitimen Betrieb mit Ausrichtung auf professionelle Podcaster."
+    "summary_abuse": "Captivate.fm ist eine Podcast-Hosting-Plattform mit minimal dokumentiertem Missbrauchssignal. Wie die meisten Media-Hosting-Plattformen könnte sie theoretisch zur Verbreitung irreführender Audioinhalte genutzt werden, es gibt jedoch keine relevanten dokumentierten Betrugs- oder Missbrauchsfälle. Das abonnementbasierte Modell mit IAB-Zertifizierung spricht für einen legitimen Betrieb mit Ausrichtung auf professionelle Podcaster."
   },
   "Capturly": {
     "description": "Capturly ist eine Online-Analytics-Plattform für Unternehmen, um Nutzerverhalten zu analysieren, Probleme zu erkennen, Conversion Rates zu verbessern und Verkäufe zu steigern.",
@@ -316,15 +316,15 @@
   "Carrd": {
     "description": "Carrd ist eine Plattform zum Erstellen einfacher, responsiver One-Page-Websites.",
     "history": "Carrd wurde 2016 von AJ, einem Solo-Entwickler, als einfacher, kostenloser und vollständig responsiver One-Page-Website-Builder entwickelt. Das Produkt wurde sehr beliebt, besonders bei Indie Hackern, Social-Media-Creators und Link-in-Bio-Anwendungen. Carrd blieb ein solo betriebenes, gebootstrapptes Projekt und wuchs auf Millionen von Websites, mit aussergewöhnlich günstigen Preisen ab 19 USD pro Jahr für kostenpflichtige Pläne.",
-    "summary_abuse": "Carrds Gratisstufe und die einfache Erstellung von One-Page-Sites haben die Plattform wegen schneller Bereitstellung und Custom-Domain-Support in kostenpflichtigen Plänen zu einem beliebten Werkzeug für Phishing-Seiten, Scam-Landingpages und falsche Promo-Seiten gemacht. Sicherheitsforscher haben den Einsatz in Social-Engineering-Kampagnen und Credential Harvesting dokumentiert. Der Anbieter hat eine AUP, ist aber ein solo betriebenes Produkt mit begrenzter Kapazität für Abuse Response."
+    "summary_abuse": "Carrds Gratisstufe und die einfache Erstellung von One-Page-Sites haben die Plattform zu einem beliebten Werkzeug für Phishing-Seiten, Scam-Landingpages und gefälschte Promo-Seiten gemacht, da sich Seiten schnell bereitstellen lassen und kostenpflichtige Pläne eigene Domains ohne Aufpreis unterstützen. Sicherheitsforscher haben den Einsatz in Social-Engineering-Kampagnen und Credential Harvesting dokumentiert. Der Anbieter hat eine AUP, ist aber ein solo betriebenes Produkt mit begrenzter Kapazität für Abuse Response."
   },
   "Carro": {
-    "description": "Carro verbindet teilnehmende Shopify-Stores, damit sie Cross-Store-Selling betreiben oder passenden Partnern ermöglichen können, gegenseitig Produkte direkt zu verkaufen, ohne Lagerbestand, Retourenmanagement oder Mindestbestellmengen.",
+    "description": "Carro vernetzt teilnehmende Shopify-Stores für Cross-Store-Selling: Passende Partner können gegenseitig Produkte direkt verkaufen, ohne eigenen Lagerbestand zu führen, Retouren abzuwickeln oder Mindestbestellmengen zu erfüllen.",
     "history": "Carro ist eine Shopify-Plattform für Influencer-Marketing und Markenkooperationen, gegründet um 2016. Das Unternehmen hilft Shopify-Händlern, Influencer unter bestehenden Kunden zu identifizieren, Product Gifting und Kooperationen zu verwalten und Cross-Brand-Partnerschaften zu ermöglichen. Carro ist venture-backed und hat ein Netzwerk von über 5'000 Marken und 2,6 Millionen Influencern aufgebaut.",
     "summary_abuse": "Carro ist ein Tool für Influencer-Marketing und Markenkooperationen für Shopify-Händler ohne relevante dokumentierte Missbrauchsfälle. Die Plattform unterstützt Product Gifting und Creator-Partnerschaften in einem kommerziellen Kontext. Berichte über systematische Ausnutzung für Betrug oder täuschendes Marketing gibt es nicht."
   },
   "Carrot quest": {
-    "description": "Carrot quest ist eine Plattform für Kundenengagement und Kommunikation, die Unternehmen mit gezieltem Messaging, In-App-Messaging, Live Chat, E-Mail-Kampagnen und Nutzerverhaltens-Tracking bei besseren Interaktionen mit Nutzern und Kunden unterstützt.",
+    "description": "Carrot quest ist eine Plattform für Kundenengagement und Kommunikation, die Unternehmen hilft, die Interaktion mit Nutzern und Kunden zu verbessern, etwa über gezieltes Messaging, In-App-Nachrichten, Live-Chat, E-Mail-Kampagnen und die Auswertung des Nutzerverhaltens.",
     "history": "Carrot quest wurde 2014 in Perm, Russland, als eCRM- und Conversational-Marketing-Automation-Plattform gegründet. Das Unternehmen fokussiert auf das Tracking von Besucherverhalten und automatisiertes Engagement über Live Chat, E-Mail und Chatbots, vor allem für den russischsprachigen SaaS- und E-Commerce-Markt. 2024 hat es rund 21 Mitarbeitende.",
     "summary_abuse": "Carrot quest ist eine Plattform für Kundenmessaging und Marketingautomatisierung mit Sitz in Russland. Als russisches SaaS kann sie im Vergleich zu westlichen Alternativen anderer regulatorischer Aufsicht und geringerer Prüfung unterliegen, zudem gelten für nichtrussische Kunden Fragen zur Datensouveränität. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, doch Tracking- und Automatisierungstools russischer Herkunft verdienen erhöhte Vorsicht bei der Datenverarbeitung."
   },
@@ -740,7 +740,7 @@
   "ChatBotBuilder": {
     "description": "ChatBotBuilderAI ist eine Plattform für AI-Chatbot-Entwicklung, mit der sich individuelle GPT-gestützte Chatbots bereitstellen lassen.",
     "history": "ChatBotBuilder (chatbotbuilder.ai) ist eine No-Code-Plattform zum Erstellen von AI-Chatbots, die offiziell Meta-zertifiziert ist und Integration mit Facebook- und Instagram-Messaging ermöglicht. Nutzer können individuelle GPT-gestützte Chatbots für Websites, Social Media, E-Mail und Telefon bereitstellen. Zur Gründungsgeschichte des Unternehmens ist nur wenig öffentlich verfügbar.",
-    "summary_abuse": "ChatBotBuilder ist eine No-Code-Chatbot-Plattform mit Free Tier und Integration in Meta-Messaging-Kanäle. No-Code-Chatbot-Builder mit Free Tiers bergen ein erhöhtes Missbrauchsrisiko, da sie für täuschende Bots in Phishing, Social Engineering oder Spam-Kampagnen auf WhatsApp, Facebook Messenger oder Instagram genutzt werden können. Für diese Plattform selbst sind keine konkreten dokumentierten Missbrauchsvorfälle verfügbar."
+    "summary_abuse": "ChatBotBuilder ist eine No-Code-Chatbot-Plattform mit Gratisstufe und Integration in Meta-Messaging-Kanäle. No-Code-Chatbot-Builder mit Gratisstufen bergen ein erhöhtes Missbrauchsrisiko, da sie für täuschende Bots in Phishing, Social Engineering oder Spam-Kampagnen auf WhatsApp, Facebook Messenger oder Instagram genutzt werden können. Für diese Plattform selbst sind keine konkreten dokumentierten Missbrauchsvorfälle verfügbar."
   },
   "ChatBullet": {
     "description": "ChatBullet ist eine Plattform, die Chatbots und AI-Werkzeuge integriert, um Kundeninteraktionen zu automatisieren.",
@@ -784,7 +784,7 @@
   },
   "Chatlyn": {
     "description": "Chatlyn ist eine KI-gestützte Plattform für Kundeninteraktion, die Kundenkommunikation automatisiert, Engagement optimiert und die Kundenzufriedenheit verbessert.",
-    "history": "Chatlyn wurde Ende 2022 von Nicolas Vorsteher, Michael Urbanek und Matthias Haubner in Wien, Österreich, gegründet. Das Unternehmen konzentriert sich auf KI-gestützte Gästekommunikation für die Hotellerie und bündelt Kommunikation über E-Mail, WhatsApp, SMS und Social Media. 2025 nahm chatlyn eine Series-A-Runde über 8,6 Millionen Dollar auf, angeführt von Smedvig Ventures, und wuchs auf über 1'000 Immobilien in 30 Ländern.",
+    "history": "Chatlyn wurde Ende 2022 von Nicolas Vorsteher, Michael Urbanek und Matthias Haubner in Wien, Österreich, gegründet. Das Unternehmen konzentriert sich auf KI-gestützte Gästekommunikation für die Hotellerie und bündelt Kommunikation über E-Mail, WhatsApp, SMS und Social Media. 2025 sammelte chatlyn in einer Series-A-Runde 8,6 Millionen USD ein, angeführt von Smedvig Ventures, und wuchs auf über 1'000 Betriebe in 30 Ländern.",
     "summary_abuse": "Chatlyn ist eine B2B-Kommunikationsplattform für Hotelbetreiber und wird ausschliesslich für legitime Gästekommunikation genutzt. Missbrauchsfälle sind nicht dokumentiert. Die Enterprise-Kundenbasis in der Hotellerie und die jüngste VC-Finanzierung sprechen für einen legitimen, gut überwachten Betrieb mit niedrigem Missbrauchsrisiko."
   },
   "ChatNode": {
@@ -829,7 +829,7 @@
   },
   "Chatway": {
     "description": "Chatway ist ein Live-Chat-Werkzeug für Websites, das Kundeninteraktion durch Echtzeitgespräche erleichtert.",
-    "history": "Chatway ist ein Live-Chat-Produkt von Premio (Poptin LTD), einem israelischen Softwareunternehmen, das für Popup- und Marketingwerkzeuge bekannt ist. Premio brachte Chatway als dedizierte Live-Chat-Lösung für Websites auf den Markt, mit Free Tier und KI-Chatbot-Funktionen. Die Plattform wird als Shopify-App und WordPress-Plugin vertrieben.",
+    "history": "Chatway ist ein Live-Chat-Produkt von Premio (Poptin LTD), einem israelischen Softwareunternehmen, das für Popup- und Marketingwerkzeuge bekannt ist. Premio brachte Chatway als dedizierte Live-Chat-Lösung für Websites auf den Markt, mit Gratisstufe und KI-Chatbot-Funktionen. Die Plattform wird als Shopify-App und WordPress-Plugin vertrieben.",
     "summary_abuse": "Chatway ist ein legitimes Live-Chat-Werkzeug für Unternehmen, entwickelt von einem etablierten israelischen SaaS-Unternehmen. Missbrauchsfälle sind nicht dokumentiert. Die Plattform wird vor allem von kleinen Unternehmen und E-Commerce-Shops für Kundensupport und Leadgenerierung genutzt."
   },
   "Chatwee": {
@@ -879,7 +879,7 @@
   },
   "Checkout Champ": {
     "description": "Checkout Champ ist ein Optimierungswerkzeug für E-Commerce-Shops, das Performance und Profitabilität steigern soll.",
-    "history": "Checkout Champ ist eine E-Commerce-Performance-Plattform, gegründet von Matt Martorano, die an bestehende E-Commerce-Technikstacks wie Shopify, WooCommerce, BigCommerce und Magento andockt. Die Plattform konzentriert sich auf checkout-Optimierung mit hoher Conversion, Abonnementabrechnung und Multi-Store-Management mit über 500 Integrationen.",
+    "history": "Checkout Champ ist eine E-Commerce-Performance-Plattform, gegründet von Matt Martorano, die an bestehende E-Commerce-Technikstacks wie Shopify, WooCommerce, BigCommerce und Magento andockt. Die Plattform konzentriert sich auf Checkout-Optimierung mit hoher Conversion, Abonnementabrechnung und Multi-Store-Management mit über 500 Integrationen.",
     "summary_abuse": "Checkout Champ ist ein Werkzeug zur Checkout-Optimierung für legitime Onlinehändler. Dokumentierte Missbrauchsfälle sind nicht bekannt. Die Plattform verarbeitet Zahlungen und verlangt eine Prüfung der Geschäftsidentität. Manche Checkout-Optimierungswerkzeuge in diesem Bereich können aggressive Upsell-Dark-Patterns begünstigen, doch zu Checkout Champ gibt es keine spezifisch dokumentierten Probleme."
   },
   "Checkout.com": {
@@ -1106,17 +1106,17 @@
   },
   "Clarivoy": {
     "description": "Clarivoy ist ein Werkzeug für Automotive-Marketingkampagnen.",
-    "history": "Clarivoy wurde 2009 von Steve White in Columbus, Ohio, gegründet. Das Unternehmen bietet Multi-Touch-Marketing-Attribution speziell für Autohändler. Es nahm etwa 2 Millionen Dollar Finanzierung auf und hilft Autohändlern zu verstehen, welche Marketingkanäle Fahrzeugverkäufe auslösen. Die Plattform nutzt probabilistisches Datenmatching, um Online-Werbung mit Offline-Besuchen bei Händlern und Fahrzeugkäufen zu verbinden.",
+    "history": "Clarivoy wurde 2009 von Steve White in Columbus, Ohio, gegründet. Das Unternehmen bietet Multi-Touch-Marketing-Attribution speziell für Autohändler. Es sammelte rund 2 Millionen USD ein und hilft Autohändlern zu verstehen, welche Marketingkanäle Fahrzeugverkäufe auslösen. Die Plattform nutzt probabilistisches Datenmatching, um Online-Werbung mit Offline-Besuchen bei Händlern und Fahrzeugkäufen zu verbinden.",
     "summary_abuse": "Clarivoy ist eine Nischenplattform für Automotive-Marketing-Analytics mit begrenzten öffentlichen Informationen zu Datenschutzpraktiken. Das kanalübergreifende Tracking für Autohändler umfasst das Sammeln von Customer-Journey-Daten. Grössere dokumentierte Missbrauchsfälle gibt es nicht, aber geringe Transparenz zur Datenverarbeitung und wenige Compliance-Zertifizierungen sind Bedenken. Die Plattform wird vor allem von Autohändlern und Marketingagenturen genutzt."
   },
   "Claspo": {
     "description": "Claspo ist ein Popup-Builder zur Leadgenerierung, Umsatzsteigerung und zum Aufbau von Abonnentenlisten.",
-    "history": "Claspo wurde 2021 in Charkiw, Ukraine, als Popup- und Widget-Builder für Websites gegründet. Die Plattform erlaubt Marketern, Lead-Capture-Formulare, Exit-Intent-Popups und Werbebanner ohne Code zu erstellen. Als bootstrapped Startup aus der Ukraine richtet sich Claspo an E-Commerce- und Digital-Marketing-Profis, die eine einfach nutzbare Popup-Lösung suchen. Das Unternehmen startete mit einem Freemium-Modell und erweiterte Template-Bibliothek sowie Targeting-Funktionen.",
+    "history": "Claspo wurde 2021 in Charkiw, Ukraine, als Popup- und Widget-Builder für Websites gegründet. Die Plattform erlaubt Marketern, Lead-Capture-Formulare, Exit-Intent-Popups und Werbebanner ohne Code zu erstellen. Als eigenfinanziertes Startup aus der Ukraine richtet sich Claspo an E-Commerce- und Digital-Marketing-Profis, die eine einfach nutzbare Popup-Lösung suchen. Das Unternehmen startete mit einem Freemium-Modell und erweiterte Template-Bibliothek sowie Targeting-Funktionen.",
     "summary_abuse": "Claspo ist ein Popup-Builder, der naturgemäss potenziell aufdringliche Benutzeroberflächen ermöglicht, etwa Exit-Intent-Popups, Countdown-Timer und aggressive Lead-Capture-Formulare, die auf Websites zu Dark Patterns beitragen können. Direkt bösartiges Verhalten von Claspo selbst ist nicht dokumentiert. Die Plattform ist ein junges Startup mit begrenzter Sicherheitstransparenz. Wer Claspo einsetzt, sollte Popup-Kampagnen so gestalten, dass manipulative UX vermieden wird."
   },
   "ClassCreator": {
     "description": "ClassCreator ist ein Werkzeug zur Planung von Klassentreffen, das Events organisiert, Gästelisten verwaltet und RSVPs verfolgt, um die Koordination von Treffen zu vereinfachen.",
-    "history": "ClassCreator ist eine Website-Plattform für Klassentreffen, mit der ehemalige Mitschüler Gruppenwebsites erstellen, Erinnerungen teilen und Treffen koordinieren können. Die Plattform ist seit Mitte der 2000er-Jahre aktiv und richtet sich vor allem an High-School- und College-Alumni-Gruppen in den USA; sie bietet Werkzeuge für Mitgliederregistrierung, Fototeilen, Message Boards und Eventplanung ohne technische Vorkenntnisse.",
+    "history": "ClassCreator ist eine Website-Plattform für Klassentreffen, mit der ehemalige Mitschüler Gruppenwebsites erstellen, Erinnerungen teilen und Treffen koordinieren können. Die Plattform ist seit Mitte der 2000er-Jahre aktiv und richtet sich vor allem an High-School- und College-Alumni-Gruppen in den USA; sie bietet Werkzeuge für Mitgliederregistrierung, das Teilen von Fotos, Diskussionsforen und Eventplanung, ganz ohne technische Vorkenntnisse.",
     "summary_abuse": "ClassCreator ist eine Nischenplattform für Reunion-Websites mit begrenzten öffentlichen Sicherheitsinformationen. Die Plattform sammelt personenbezogene Informationen wie Abschlussjahre, Kontaktdaten und biografische Angaben von Alumni-Mitgliedern. Grössere Sicherheitsvorfälle oder Datenmissbrauch sind öffentlich nicht dokumentiert, aber als kleine unabhängige Plattform dürfte sie kaum externe Sicherheitsaudits haben. Nutzer sollten beachten, dass auf der Plattform geteilte persönliche Informationen nur begrenzte Datenschutzgarantien haben."
   },
   "Classeh": {
@@ -1136,7 +1136,7 @@
   },
   "Classy": {
     "description": "Classy ist eine Online-Fundraising-Plattform.",
-    "history": "Classy wurde 2006 von Scot Chisholm und weiteren Gründern in San Diego, Kalifornien, als Online-Fundraising-Plattform für gemeinnützige Organisationen gegründet. Das Unternehmen entwickelte eine umfangreiche Fundraising-Suite mit Kampagnenseiten, Eventregistrierung, Peer-to-Peer-Fundraising und Spendenverwaltung. Classy nahm bedeutendes Risikokapital auf und wuchs auf Tausende gemeinnützige Kunden. 2022 übernahm GoFundMe Classy, um in den Markt für Nonprofit-Fundraising zu expandieren. Die kombinierte Einheit tritt für gemeinnützige Organisationen unter der Marke GoFundMe Pro auf, während der Produktname Classy erhalten blieb.",
+    "history": "Classy wurde 2006 von Scot Chisholm und weiteren Gründern in San Diego, Kalifornien, als Online-Fundraising-Plattform für gemeinnützige Organisationen gegründet. Das Unternehmen entwickelte eine umfangreiche Fundraising-Suite mit Kampagnenseiten, Eventregistrierung, Peer-to-Peer-Fundraising und Spendenverwaltung. Classy nahm bedeutendes Risikokapital auf und wuchs auf Tausende gemeinnützige Kunden. 2022 übernahm GoFundMe Classy, um in den Markt für Nonprofit-Fundraising zu expandieren. Seit dem Zusammenschluss tritt das Angebot für gemeinnützige Organisationen unter der Marke GoFundMe Pro auf, der Produktname Classy blieb erhalten.",
     "summary_abuse": "Classy ist eine legitime Fundraising-Plattform für gemeinnützige Organisationen mit solider Historie im Wohltätigkeitssektor. Als zahlungsverarbeitende Plattform ist sie PCI DSS-konform und verarbeitet Spenden für Nonprofits. Unter GoFundMe profitiert sie von grösserer Sicherheitsinfrastruktur. Bedeutende Betrugs- oder Missbrauchsmuster, die spezifisch Classy betreffen, sind nicht dokumentiert. Nutzer sollten beachten, dass Spenderdaten und Zahlungsinformationen mit der übergeordneten Infrastruktur von GoFundMe geteilt werden."
   },
   "Clayful": {
@@ -1162,7 +1162,7 @@
   "Clearbit Reveal": {
     "description": "Clearbit Reveal identifiziert anonyme Website-Besucher.",
     "history": "Clearbit wurde 2014 von Alex MacCaw und Harlow Ward in San Francisco gegründet. Das Unternehmen baute eine Plattform für Datenanreicherung und B2B-Intelligence auf, die Website-Besucher durch Abgleich von IP-Adressen mit Unternehmensdaten erkennt. Clearbit Reveal identifiziert konkret, welche Unternehmen eine Website besuchen, ohne dass sich Besucher anmelden müssen. 2023 übernahm HubSpot Clearbit für eine nicht offengelegte Summe und integrierte die Datenfunktionen in seine CRM- und Marketingplattform.",
-    "summary_abuse": "Clearbit Reveal ist ein datenschutzinvasives Werkzeug, das Website-Besucher de-anonymisiert, indem IP-Adressen rückwärts auf Unternehmen und Personen aufgelöst werden. Diese Praxis bewegt sich unter Datenschutzregeln wie GDPR in einer rechtlichen Grauzone, da für die Verarbeitung personenbezogener Daten Einwilligung erforderlich ist. Der Dienst aggregiert Daten aus vielen Quellen, um umfangreiche Profile von Personen und Unternehmen aufzubauen. Datenschützer sehen IP-zu-Unternehmen-Auflösung als Form verdeckter Überwachung. Obwohl im B2B-Marketing verbreitet, wirft der Dienst erhebliche Fragen zu Einwilligung und Transparenz für Website-Besucher auf."
+    "summary_abuse": "Clearbit Reveal ist ein datenschutzinvasives Werkzeug, das Website-Besucher de-anonymisiert, indem es IP-Adressen Unternehmen und Personen zuordnet. Diese Praxis bewegt sich unter Datenschutzregeln wie GDPR in einer rechtlichen Grauzone, da für die Verarbeitung personenbezogener Daten Einwilligung erforderlich ist. Der Dienst aggregiert Daten aus vielen Quellen, um umfangreiche Profile von Personen und Unternehmen aufzubauen. Datenschützer werten die Zuordnung von IP-Adressen zu Unternehmen als Form verdeckter Überwachung. Obwohl im B2B-Marketing verbreitet, wirft der Dienst erhebliche Fragen zu Einwilligung und Transparenz für Website-Besucher auf."
   },
   "Clearlink": {
     "description": "Clearlink verbindet Marken mit Kunden, die wahrscheinlich konvertieren, und informiert über Partnerschaften und Karrieremöglichkeiten.",
@@ -1196,7 +1196,7 @@
   },
   "Clerk": {
     "description": "Clerk ist eine Plattform für Nutzerverwaltung.",
-    "history": "Clerk wurde 2021 von Colin Sidoti, Braden Sidoti und weiteren Gründern gegründet und hat seinen Sitz in New York City. Das Unternehmen bietet entwicklerorientierte Authentifizierung und Identity-Management as a Service, inklusive vorgefertigter UI-Komponenten für Registrierung, Anmeldung, Profilverwaltung und Multi-Faktor-Authentifizierung. Clerk nahm 2022 30 Millionen US-Dollar in einer Series-A-Finanzierung auf und positionierte sich als Alternative zu Auth0 mit stärkerer Developer Experience und React-Komponentenunterstützung. Besonders beliebt ist die Plattform im Next.js- und React-Ökosystem.",
+    "history": "Clerk wurde 2021 von Colin Sidoti, Braden Sidoti und weiteren Gründern gegründet und hat seinen Sitz in New York City. Das Unternehmen bietet entwicklerorientierte Authentifizierung und Identity-Management as a Service, inklusive vorgefertigter UI-Komponenten für Registrierung, Anmeldung, Profilverwaltung und Multi-Faktor-Authentifizierung. Clerk sammelte 2022 in einer Series-A-Finanzierung 30 Millionen US-Dollar ein und positionierte sich als Alternative zu Auth0 mit stärkerer Developer Experience und React-Komponentenunterstützung. Besonders beliebt ist die Plattform im Next.js- und React-Ökosystem.",
     "summary_abuse": "Clerk ist ein Authentifizierungsdienst für Entwickler ohne dokumentierte Missbrauchsvorfälle. Als Identity Provider verarbeitet er Authentifizierungsdaten, darunter E-Mail-Adressen, Passwörter, OAuth-Tokens und Sitzungsdaten für Anwendungen, die den Dienst nutzen. Clerk ist SOC 2 Type II-zertifiziert und betreibt eine Responsible-Disclosure-Policy. Der Fokus auf Developer Experience führt zu gut veröffentlichter Sicherheitsdokumentation und klaren Praktiken. Bedeutende Datenschutzverstösse oder Sicherheitsvorfälle wurden nicht gemeldet."
   },
   "Clerk.io": {
@@ -1207,7 +1207,7 @@
   "Clever": {
     "description": "Clever ist eine Identitätsplattform für Bildung, die Schulen und Anwendungen hilft, Identitäten zu sichern, Datenzugriffe zu verwalten und Unterricht zu unterstützen.",
     "history": "Clever wurde 2012 von Tyler Bosmeny und Dan Carroll in San Francisco als Single-Sign-On-Plattform für K-12-Bildung in den USA gegründet. Die Plattform ermöglicht Schülern und Lehrpersonen, sich mit Schulzugangsdaten bei Bildungsanwendungen anzumelden, ohne separate Passwörter für viele Apps zu verwalten. Clever ist auf über 95'000 Schulen gewachsen und bedient Millionen Schüler. Das Unternehmen nahm bedeutendes Risikokapital auf, darunter eine Series-C-Runde, und ist zu kritischer Infrastruktur für US-Schulbezirke geworden.",
-    "summary_abuse": "Clever verarbeitet Authentifizierungsdaten von Millionen K-12-Schülern, darunter Minderjährige, was erhebliche Datenschutzverantwortung schafft. Die Plattform stand wegen des Umfangs der Studentendaten, auf die sie zugreift und die sie mit Drittanbieter-Bildungsanwendungen teilt, in der Kritik. FERPA-Compliance und Schülerdatenschutzgesetze gelten für den Betrieb. 2021 wurde Clever dafür geprüft, wie Schülerdaten mit App-Entwicklern geteilt werden. Das Unternehmen pflegt COPPA- und FERPA-Dokumentation, doch die Aggregation von Schüleridentitätsdaten über Tausende Schulbezirke hinweg macht die Plattform zu einem wertvollen Ziel für Datenpannen."
+    "summary_abuse": "Clever verarbeitet Authentifizierungsdaten von Millionen K-12-Schülern, darunter Minderjährige, was erhebliche Datenschutzverantwortung schafft. Die Plattform stand wegen des Umfangs der Schülerdaten, auf die sie zugreift und die sie mit Drittanbieter-Bildungsanwendungen teilt, in der Kritik. FERPA-Compliance und Schülerdatenschutzgesetze gelten für den Betrieb. 2021 wurde Clever dafür geprüft, wie Schülerdaten mit App-Entwicklern geteilt werden. Das Unternehmen pflegt COPPA- und FERPA-Dokumentation, doch die Aggregation von Schüleridentitätsdaten über Tausende Schulbezirke hinweg macht die Plattform zu einem wertvollen Ziel für Datenpannen."
   },
   "Cleverbridge": {
     "description": "Cleverbridge ist eine All-in-One-Lösung für E-Commerce und Abonnementabrechnung für Software, SaaS und digitale Güter.",
@@ -1339,13 +1339,13 @@
   },
   "ClickTale": {
     "description": "ClickTale ist eine SaaS-Lösung, mit der Organisationen visuelle In-Page-Analytics erhalten.",
-    "history": "ClickTale wurde 2006 in Israel als Pionier für Website-Heatmaps und Session-Recording-Analytics gegründet. Es gewann als eines der ersten Werkzeuge an Bedeutung, das Mausbewegungen und Klicks in grossem Umfang aufzeichnete. Im Juli 2019 übernahm Contentsquare ClickTale und schuf eine kombinierte Einheit mit über 600 Enterprise-Kunden, darunter 30% der Fortune Global 100. Die Marke ClickTale wurde seither zurückgefahren, weil Contentsquare Produkt und Technologie übernommen hat.",
+    "history": "ClickTale wurde 2006 in Israel als Pionier für Website-Heatmaps und Session-Recording-Analytics gegründet. Es gewann als eines der ersten Werkzeuge an Bedeutung, das Mausbewegungen und Klicks in grossem Umfang aufzeichnete. Im Juli 2019 übernahm Contentsquare ClickTale; das zusammengeführte Unternehmen bedient über 600 Enterprise-Kunden, darunter 30% der Fortune Global 100. Die Marke ClickTale wurde seither zurückgefahren, weil Contentsquare Produkt und Technologie übernommen hat.",
     "summary_abuse": "ClickTale zeichnet detailliertes Nutzerverhalten auf, darunter Mausbewegungen, Klicks und Session Replays. Das wirft erhebliche Datenschutzfragen auf, besonders wegen möglicher unbeabsichtigter Erfassung sensibler Formulardaten. Die Plattform wird breit von Unternehmen eingesetzt, und ihre Datensammlungspraktiken wurden von Datenschützern kritisch betrachtet. Contentsquare hat Maskierungsfunktionen und GDPR-Werkzeuge eingeführt, um diese Bedenken zu adressieren, doch Session Recording sammelt naturgemäss sehr granulare Verhaltensdaten."
   },
   "Clicktools": {
     "description": "Clicktools ist ein von CallidusCloud entwickeltes Feedbacksystem zum Sammeln und Analysieren von Kundeneingaben über verschiedene Kanäle.",
     "history": "Clicktools war ein britisches Enterprise-SaaS für Umfragen und CRM-Integration. Im Januar 2011 übernahm SurveyMonkey eine Beteiligung von 49,9% am Unternehmen. Im September 2014 kaufte Callidus Software (CallidusCloud) Clicktools vollständig, um seine Lead-to-Money-Suite auszubauen. Als SAP 2018 CallidusCloud übernahm, wurde Clicktools Teil des SAP-Portfolios und ist heute in SAP SuccessFactors aufgegangen; die ursprüngliche Marke ist weitgehend eingestellt.",
-    "summary_abuse": "Clicktools ist eine Enterprise-Umfrageplattform, die heute zum SAP-Portfolio gehört und kein nennenswertes Missbrauchssignal aufweist. Die Nutzung ist auf Enterprise-CRM-Integrationen und Kundfeedback-Erfassung beschränkt. Dokumentierte Missbrauchsvorfälle existieren nicht."
+    "summary_abuse": "Clicktools ist eine Enterprise-Umfrageplattform, die heute zum SAP-Portfolio gehört und kein nennenswertes Missbrauchssignal aufweist. Die Nutzung ist auf Enterprise-CRM-Integrationen und Kundenfeedback-Erfassung beschränkt. Dokumentierte Missbrauchsvorfälle existieren nicht."
   },
   "Clicktripz": {
     "description": "Clicktripz bietet innovative Softwarelösungen für die Bedürfnisse von Anbietern, Publishern, Werbetreibenden und Reisenden.",
@@ -1507,7 +1507,7 @@
   },
   "Cloudflare Bot Management": {
     "description": "Cloudflare Bot Management erkennt und entschärft automatisierten Traffic, um Websites vor schädlichen Bots zu schützen.",
-    "history": "Cloudflare Bot Management ist ein Produkt innerhalb der Enterprise-Security-Suite von Cloudflare und wurde eingeführt, um Organisationen beim Erkennen und Blockieren automatisierten Bot-Traffics zu helfen. Es nutzt Machine Learning und Verhaltensanalyse, um legitime Nutzer von Bots zu unterscheiden. Als Cloudflare-Produkt, das vom 2009 gegründeten und 2019 börsennotierten Unternehmen stammt, profitiert es vom globalen Netzwerk und der Threat Intelligence von Cloudflare.",
+    "history": "Cloudflare Bot Management ist ein Produkt innerhalb der Enterprise-Security-Suite von Cloudflare und wurde eingeführt, um Organisationen beim Erkennen und Blockieren automatisierten Bot-Traffics zu helfen. Es nutzt Machine Learning und Verhaltensanalyse, um legitime Nutzer von Bots zu unterscheiden. Als Cloudflare-Produkt, das vom 2009 gegründeten und 2019 börsenkotierten Unternehmen stammt, profitiert es vom globalen Netzwerk und der Threat Intelligence von Cloudflare.",
     "summary_abuse": "Cloudflare Bot Management ist ein Sicherheitsprodukt zum Blockieren schädlichen Bot-Traffics. Es wird defensiv von Unternehmen eingesetzt und hat keine Endnutzer-Oberfläche oder nutzergenerierten Inhalte. Für dieses Tool gibt es kein Missbrauchssignal."
   },
   "Cloudflare Browser Insights": {
@@ -1836,7 +1836,7 @@
   "Comarch e-Sklep": {
     "description": "Comarch e-Sklep ist eine E-Commerce-Plattform zum Erstellen und Verwalten eines Online-Shops.",
     "history": "Comarch ist ein polnisches multinationales IT-Unternehmen, das 1993 von Janusz Filipiak in Krakau, Polen gegründet wurde und an der Warschauer Börse notiert ist. Comarch e-Sklep ist das SaaS-E-Commerce-Produkt des Unternehmens und bedient vor allem polnische und mitteleuropäische Unternehmen mit B2C- und B2B-Online-Shop-Funktionen. Über 2'200 Firmen haben die Plattform genutzt. Es gibt keine grösseren Umbenennungen oder Kontroversen.",
-    "summary_abuse": "Comarch e-Sklep ist eine legitime Enterprise-SaaS-E-Commerce-Plattform eines börsennotierten polnischen IT-Unternehmens ohne auffälliges Missbrauchssignal; sie wird von verifizierten Unternehmen mit ERP-Integrationsbedarf genutzt, und die KYC- sowie Unternehmensprüfungen der Plattform begrenzen anonyme oder illegale Nutzung."
+    "summary_abuse": "Comarch e-Sklep ist eine legitime Enterprise-SaaS-E-Commerce-Plattform eines börsenkotierten polnischen IT-Unternehmens ohne auffälliges Missbrauchssignal; sie wird von verifizierten Unternehmen mit ERP-Integrationsbedarf genutzt, und die KYC- sowie Unternehmensprüfungen der Plattform begrenzen anonyme oder illegale Nutzung."
   },
   "Combahton FlowShield": {
     "description": "Combahton FlowShield ist eine Netzwerksicherheitslösung, die Netzwerke und Server vor verschiedenen Cyberbedrohungen schützt, darunter DDoS-Angriffe, Malware und andere Arten schädlichen Traffics.",
@@ -1924,7 +1924,7 @@
   },
   "CommerceHQ": {
     "description": "CommerceHQ ist ein E-Commerce-Shopsystem für Onlinehandel, das auf hohe Conversion ausgelegt ist.",
-    "history": "CommerceHQ wurde um 2015 in Kanada als All-in-one-E-Commerce-Plattform mit Drag-and-drop-Shopbuilder gegründet. Die Plattform blieb bootstrapped und nahm keine externe Finanzierung auf. Im September 2025 wurde CommerceHQ von NameSilo, einem Domain-Registrar, übernommen. Die Nutzung ist deutlich zurückgegangen: 2025 sank die Zahl der Stores im Jahresvergleich um 61 Prozent.",
+    "history": "CommerceHQ wurde um 2015 in Kanada als All-in-one-E-Commerce-Plattform mit Drag-and-drop-Shopbuilder gegründet. Die Plattform blieb eigenfinanziert und kam ohne externes Kapital aus. Im September 2025 wurde CommerceHQ von NameSilo, einem Domain-Registrar, übernommen. Die Nutzung ist deutlich zurückgegangen: 2025 sank die Zahl der Stores im Jahresvergleich um 61 Prozent.",
     "summary_abuse": "CommerceHQ ist eine allgemeine E-Commerce-Plattform mit dokumentierter Nutzung für Dropshipping und teils minderwertige Storefronts. Die einfache Shop-Erstellung und eine möglicherweise schwächere aktive Kontrolle nach der Übernahme können das Risiko betrügerischer oder qualitativ schlechter Händlerseiten im Vergleich zu grösseren Plattformen mit strengerer Händlerprüfung moderat erhöhen."
   },
   "Commercelayer": {
@@ -2113,7 +2113,7 @@
   },
   "Contao": {
     "description": "Contao ist ein Open-Source-CMS zum Erstellen von Websites und skalierbaren Webanwendungen.",
-    "history": "Contao ist ein Open-Source-CMS, das 2006 von Leo Feyer unter dem Namen TYPOLight erstmals veröffentlicht wurde. 2010 wurde es in Contao umbenannt, um Verwechslungen mit TYPO3 zu vermeiden. Unter LGPL-3.0 lizenziert, gehört es zu den Top-5-CMS-Plattformen im deutschsprachigen DACH-Raum und ist bei Agenturen beliebt. Es wird weiterhin von der Community gepflegt, mit Leo Feyer als Lead Developer.",
+    "history": "Contao ist ein Open-Source-CMS, das 2006 von Leo Feyer unter dem Namen TYPOLight erstmals veröffentlicht wurde. 2010 wurde es in Contao umbenannt, um Verwechslungen mit TYPO3 zu vermeiden. Unter LGPL-3.0 lizenziert, gehört es zu den Top-5-CMS-Plattformen im deutschsprachigen DACH-Raum und ist bei Agenturen beliebt. Es wird weiterhin von der Community gepflegt, mit Leo Feyer als Hauptentwickler.",
     "summary_abuse": "Contao ist ein selbst gehostetes Open-Source-CMS ohne auffälliges Missbrauchssignal. Als Download-und-Install-CMS ohne zentrales Hosting würde sich Missbrauch auf Ebene einzelner Installationen zeigen. Es wird vor allem im DACH-Raum für Unternehmenswebsites eingesetzt."
   },
   "Contenido": {
@@ -2136,7 +2136,7 @@
   },
   "Contentder": {
     "description": "Contentder ist eine Website-Entwicklungsplattform, die Inbound-Marketing-Analytics integriert, um die Website-Performance zu optimieren.",
-    "history": "Contentder ist eine Plattform für Website-Entwicklung und Inbound-Marketing-Analytics. Ein öffentliches Gründungsjahr oder eine Eigentümerhistorie ist nicht verfügbar.",
+    "history": "Contentder ist eine Plattform für Website-Entwicklung und Inbound-Marketing-Analytics. Gründungsjahr und Eigentümerverhältnisse sind nicht öffentlich dokumentiert.",
     "summary_abuse": "Contentder ist ein kleines SaaS-Angebot für Website-Entwicklung ohne dokumentierte Missbrauchsfälle."
   },
   "Contentful": {
@@ -2152,12 +2152,12 @@
   "Contently": {
     "description": "Contently ist eine SaaS-Plattform für Content Marketing des gleichnamigen Unternehmens mit Hauptsitz in New York.",
     "history": "Contently wurde 2011 von Joe Coleman, Dave Goldberg und Shane Snow in New York City gegründet. Die Enterprise-Plattform für Content Marketing nahm 19,2 Millionen US-Dollar von Investoren wie ff Venture Capital, Techstars und Lightbank auf. Bis 2017 erreichte Contently 20 Millionen US-Dollar ARR mit 300 Enterprise-Kunden und wuchs bis 2024 auf 53,8 Millionen US-Dollar Umsatz. Die Plattform bedient regulierte Branchen mit einer End-to-End-CMP aus Technologie, Content-Strategie und Marktplatz für freie Creator.",
-    "summary_abuse": "Contently ist eine legitime Enterprise-Plattform für Content Marketing ohne Missbrauchsfälle. Der Fokus liegt auf regulierten Branchen und Markeninhalten, mit Positionierung als datenschutzbewusst. Die Tracker-Dichte ist moderat und entspricht typischen SaaS-Marketingplattformen."
+    "summary_abuse": "Contently ist eine legitime Enterprise-Plattform für Content Marketing ohne Missbrauchsfälle. Der Fokus liegt auf regulierten Branchen und Markeninhalten; das Unternehmen positioniert sich als datenschutzbewusst. Die Tracker-Dichte ist moderat und entspricht typischen SaaS-Marketingplattformen."
   },
   "Contento": {
     "description": "Contento ist ein Headless CMS, das speziell auf die Bedürfnisse von Marketingteams ausgerichtet ist.",
     "history": "Contento wurde 2022 in Irland von Josh Angell (CEO und Tech Lead) und Alan Gleeson (CMO) mitgegründet, mit Seed-Investment von Peter Coppinger, dem Mitgründer von Teamwork. Die Gründer bauten Contento, nachdem sie kein Headless CMS fanden, das auf B2B-SaaS-Marketingwebsites zugeschnitten war. Die Plattform konzentriert sich darauf, Marketingteams Autonomie zu geben, ohne Entwickleranforderungen zu vernachlässigen.",
-    "summary_abuse": "Contento ist ein neues, sauberes Headless-CMS-Startup aus Irland ohne Missbrauchs- oder Dark-Pattern-Bedenken. Es ist seed-finanziert, fokussiert auf B2B-SaaS-Websites, hat eine kleine Verbreitung und keine dokumentierten Datenschutzbedenken."
+    "summary_abuse": "Contento ist ein neues, sauberes Headless-CMS-Startup aus Irland ohne Missbrauchs- oder Dark-Pattern-Bedenken. Es ist mit Seed-Kapital finanziert, fokussiert auf B2B-SaaS-Websites, hat eine kleine Verbreitung und keine dokumentierten Datenschutzbedenken."
   },
   "Contents": {
     "description": "Contents ist eine Plattform für generative KI, mit der Unternehmen leistungsstarke, originelle und SEO-optimierte Inhalte erstellen können.",
@@ -2246,8 +2246,8 @@
   },
   "Convert": {
     "description": "Convert Experiences ist eine Enterprise-Lösung für A/B-Testing und Personalisierung, die Conversion-Optimierung und datenbasierte Entscheidungen auf trafficstarken Websites unterstützt.",
-    "history": "Convert.com, früher Convert Insights, wurde um 2009 von Dennis van der Heijden und Claudiu Rogoveanu gegründet. Das bootstrapped Unternehmen hat seinen Sitz in Walnut, Kalifornien, arbeitet mit Remote-Teams und konzentriert sich auf Enterprise-A/B-Testing und Personalisierung für trafficstarke Websites. Es positioniert sich als privacy-first Alternative zu Tools wie Optimizely, mit Schwerpunkt auf GDPR-Konformität und minimaler Datenerhebung.",
-    "summary_abuse": "Convert.com ist ein angesehenes bootstrapped Enterprise-Tool für A/B-Testing mit starkem privacy-first Ruf. Es ist GDPR-konform und betont minimale Datenerhebung. Es sind keine Missbrauchsfälle oder Dark Patterns dokumentiert. Das Tool wird breit von CRO-Agenturen und Enterprise-Marketingteams genutzt."
+    "history": "Convert.com, früher Convert Insights, wurde um 2009 von Dennis van der Heijden und Claudiu Rogoveanu gegründet. Das eigenfinanzierte Unternehmen hat seinen Sitz in Walnut, Kalifornien, arbeitet mit Remote-Teams und konzentriert sich auf Enterprise-A/B-Testing und Personalisierung für trafficstarke Websites. Es positioniert sich als datenschutzorientierte Alternative zu Tools wie Optimizely, mit Schwerpunkt auf GDPR-Konformität und minimaler Datenerhebung.",
+    "summary_abuse": "Convert.com ist ein angesehenes, eigenfinanziertes Enterprise-Tool für A/B-Testing mit dem Ruf einer ausgeprägt datenschutzfreundlichen Lösung. Es ist GDPR-konform und betont minimale Datenerhebung. Es sind keine Missbrauchsfälle oder Dark Patterns dokumentiert. Das Tool wird von CRO-Agenturen und Enterprise-Marketingteams vielfach eingesetzt."
   },
   "Convert and Flow": {
     "description": "Convert and Flow ist ein Customer-Relationship-Management-Tool zur Verwaltung von Kundenbeziehungen und zur Verbesserung der Kundenzufriedenheit.",
@@ -2321,11 +2321,11 @@
   },
   "Convious": {
     "description": "Convious ist eine Plattform für Attraction Management, die Abläufe vor, während und nach Besuchen unterstützt, einschliesslich Exit-Intent-Funktionalität.",
-    "history": "Convious wurde 2017 in Amsterdam, Niederlande, gegründet und war früher als Ticketoo bekannt. Das Unternehmen sammelte im Dezember 2021 10,5 Mio. EUR ein, um seine AI-getriebene eCommerce-Plattform für die Experience Economy auszubauen, darunter Freizeitparks, Zoos, Museen und Wellnessanbieter. Convious wurde von Deloitte zweimal als eines der 20 am schnellsten wachsenden Unternehmen der Niederlande ausgezeichnet. Über 125 Unternehmen aus 16 Ländern nutzen die Plattform.",
+    "history": "Convious wurde 2017 in Amsterdam, Niederlande, gegründet und war früher als Ticketoo bekannt. Das Unternehmen sammelte im Dezember 2021 10,5 Mio. EUR ein, um seine KI-gestützte E-Commerce-Plattform für die Experience Economy auszubauen, darunter Freizeitparks, Zoos, Museen und Wellnessanbieter. Convious wurde von Deloitte zweimal als eines der 20 am schnellsten wachsenden Unternehmen der Niederlande ausgezeichnet. Über 125 Unternehmen aus 16 Ländern nutzen die Plattform.",
     "summary_abuse": "Convious ist eine angesehene niederländische Plattform für Attraction Management und Ticketing in der Freizeitbranche. Es sind keine Missbrauchsfälle dokumentiert. Als EU-Unternehmen ist sie GDPR-konform. Die Plattform verarbeitet Besucherdaten für Personalisierung und dynamische Preisgestaltung, jedoch im Rahmen angemessener Enterprise-Datenpraktiken."
   },
   "Conviva": {
-    "description": "Conviva ist eine Census-, Continuous-Measurement- und Engagement-Plattform für Streaming-Medien.",
+    "description": "Conviva ist eine Analyse- und Engagement-Plattform für Streaming-Medien, die das gesamte Publikum kontinuierlich misst, statt nur Stichproben zu erheben.",
     "history": "Conviva wurde 2006 als Rinera Networks von den Carnegie-Mellon- und UC-Berkeley-Professoren Hui Zhang, Ion Stoica, Aditya Ganjam und Jibin Zhan gegründet und 2008 in Conviva umbenannt. Das Unternehmen nahm über 100 Mio. USD Venture-Finanzierung auf, darunter 2013 44 Mio. USD von NEA, Foundation Capital, GGV und Time Warner Investments sowie 2017 weitere 40 Mio. USD bei einer Bewertung von rund 300 Mio. USD. Es verlagerte den Fokus von Adaptive-Bitrate-Streaming-Optimierung zu einer breiteren Plattform für Streaming-Analytics und Audience Engagement.",
     "summary_abuse": "Conviva ist eine Backend-Plattform für Streaming-Analytics, die von grossen Medienunternehmen zur Überwachung und Optimierung der Videoauslieferung genutzt wird. Es gibt kein auffälliges Missbrauchssignal zu Conviva. Es ist ein Enterprise-B2B-Tool ohne verbraucherseitige Angriffsfläche für Phishing, Betrug oder Scam-Infrastruktur."
   },
@@ -2408,7 +2408,7 @@
     "summary_abuse": "Cool Tag Cloud ist ein selbst gehostetes WordPress-Plugin zur Anzeige von Tag Clouds. Es hat keinen verbraucherseitigen gehosteten Dienst und kein auffälliges Missbrauchssignal."
   },
   "Cool Timeline": {
-    "description": "Erstellt vertikale und horizontale Timeline-Blöcke für Verlaufsgeschichten.",
+    "description": "Erstellt vertikale und horizontale Timeline-Blöcke zur Darstellung zeitlicher Abläufe.",
     "history": "Cool Timeline ist ein WordPress-Plugin von Cool Plugins (CoolHappy / Narinder Singh), das am 23. November 2015 erstmals veröffentlicht wurde. Es ermöglicht Website-Betreibern, vertikale und horizontale Timeline-Slider zu erstellen. Es hat über 20'000 aktive Installationen, 325 Bewertungen mit durchschnittlich 4,7 Sternen und wird 2026 mit regelmässigen Updates aktiv gepflegt.",
     "summary_abuse": "Cool Timeline ist ein selbst gehostetes WordPress-Plugin zur Anzeige von Timeline-Inhalten. Es hat keinen verbraucherseitigen gehosteten Dienst und kein auffälliges Missbrauchssignal."
   },
@@ -2479,7 +2479,7 @@
   },
   "Corebook": {
     "description": "Corebook ist eine Plattform für Brand Guidelines, die Gestalter starker Marken bei der Verwaltung ihrer Marke unterstützt.",
-    "history": "Corebook ist eine lettische SaaS-Plattform für digitale Brand Guidelines, die 2020 öffentlich startete und mit 1,2 Mio. USD Seed-Bewertung versehen war; sie wurde von Raitis Velps mitgegründet und richtet sich an Brand Designer und Agenturen. Zu den bekannten Kunden gehören Virgin Atlantic, TomTom, Chelsea F.C., Tommy Hilfiger und Miro.",
+    "history": "Corebook ist eine lettische SaaS-Plattform für digitale Brand Guidelines, die 2020 öffentlich startete und mit 1,2 Mio. USD Seed-Bewertung versehen war; sie wurde von Raitis Velps mitgegründet und richtet sich an Markendesigner und Agenturen. Zu den bekannten Kunden gehören Virgin Atlantic, TomTom, Chelsea F.C., Tommy Hilfiger und Miro.",
     "summary_abuse": "Corebook ist eine Plattform für digitale Brand Guidelines, die von Designteams und Agenturen genutzt wird; sie hat kein auffälliges Missbrauchssignal und keine verbraucherseitigen Funktionen, die leicht ausgenutzt werden könnten."
   },
   "CoreMedia": {
@@ -2587,7 +2587,7 @@
   },
   "Cove": {
     "description": "Cove ist eine Kommentar- und Community-Plattform, die sich in Ghost-Websites integriert und Leserdiskussionen sowie Nutzerengagement ermöglicht.",
-    "history": "Cove Data Protection ist ein cloud-first Backup- und Disaster-Recovery-Dienst von N-able, früher SolarWinds MSP, für Managed Service Provider. Er bietet Backup für Server, Workstations und Microsoft 365 mit AES-256-Bit-Verschlüsselung und einem Multi-Tenant-Dashboard. N-able wurde 2021 von SolarWinds als eigenständiges börsennotiertes Unternehmen abgespalten.",
+    "history": "Cove Data Protection ist ein cloud-first Backup- und Disaster-Recovery-Dienst von N-able, früher SolarWinds MSP, für Managed Service Provider. Er bietet Backup für Server, Workstations und Microsoft 365 mit AES-256-Bit-Verschlüsselung und einem Multi-Tenant-Dashboard. N-able wurde 2021 von SolarWinds als eigenständiges börsenkotiertes Unternehmen abgespalten.",
     "summary_abuse": "Cove Data Protection ist eine Enterprise-Plattform für Backup und Disaster Recovery für Managed Service Provider. Es ist ein B2B-Sicherheitsprodukt ohne auffälliges Missbrauchssignal."
   },
   "Coveo": {
@@ -2607,7 +2607,7 @@
   },
   "Covet.pics": {
     "description": "Covet.pics ist eine anpassbare Shopify-App für kaufbare Instagram- und Lookbook-Galerien.",
-    "history": "Covet.pics ist eine Shopify-App von Space Squirrel Ltd, einem kleinen kanadischen Softwareunternehmen. Mit der App können Shopify-Händler kaufbare Instagram- und UGC-Galerien in ihre Storefronts einbetten; sie bindet die Instagram API ein, ruft Bilder ab und verknüpft sie mit Produkten, damit Käufer direkt aus Social Content heraus einkaufen können. Die Tarife beginnen bei 29.99 USD pro Monat für bis zu 5 Galerien und richten sich an kleine bis mittelgrosse Shopify-Händler, die Social Proof und höhere Conversion suchen.",
+    "history": "Covet.pics ist eine Shopify-App von Space Squirrel Ltd, einem kleinen kanadischen Softwareunternehmen. Mit der App können Shopify-Händler kaufbare Instagram- und UGC-Galerien in ihre Storefronts einbetten; sie bindet die Instagram API ein, ruft Bilder ab und verknüpft sie mit Produkten, damit Käufer direkt aus Social Content heraus einkaufen können. Die Tarife beginnen bei 29,99 USD pro Monat für bis zu 5 Galerien und richten sich an kleine bis mittelgrosse Shopify-Händler, die Social Proof und höhere Conversion suchen.",
     "summary_abuse": "Covet.pics verarbeitet im Auftrag von Händlern Instagram OAuth Tokens und Social-Media-Bilder. Die App bettet Galerie-Widgets in Shopify-Storefronts ein, die externe Skripte vom eigenen CDN laden können. Es sind keine erheblichen Datenschutzmissbräuche dokumentiert. Die Datenverarbeitung richtet sich nach den App-Partnerregeln von Shopify und, wo anwendbar, nach GDPR."
   },
   "Cowboy": {
@@ -2664,7 +2664,7 @@
   },
   "Cratejoy": {
     "description": "Cratejoy ist eine E-Commerce-Plattform mit Schwerpunkt auf Abonnementzahlungen.",
-    "history": "Cratejoy wurde 2014 von Amir Elaguizy und Alex Morse gegründet und hat seinen Sitz in Austin, Texas. Das Unternehmen entstand aus Y Combinator und sammelte 6.2 Mio. USD von Investoren wie Charles River Ventures, Maverick Capital und SV Angel ein. Die Plattform bietet eine All-in-One-Marktplatz- und SaaS-Lösung für Subscription-Box-Unternehmen und unterstützt über 2'500 Firmen sowie 1 Million Abonnenten. Gründer Amir Elaguizy hatte zuvor MarketZero gegründet, das 2011 von Zynga übernommen wurde.",
+    "history": "Cratejoy wurde 2014 von Amir Elaguizy und Alex Morse gegründet und hat seinen Sitz in Austin, Texas. Das Unternehmen entstand aus Y Combinator und sammelte 6,2 Mio. USD von Investoren wie Charles River Ventures, Maverick Capital und SV Angel ein. Die Plattform bietet eine All-in-One-Marktplatz- und SaaS-Lösung für Subscription-Box-Unternehmen und unterstützt über 2'500 Firmen sowie 1 Million Abonnenten. Gründer Amir Elaguizy hatte zuvor MarketZero gegründet, das 2011 von Zynga übernommen wurde.",
     "summary_abuse": "Cratejoy verarbeitet Zahlungs- und Versanddaten von Abonnenten für Subscription-Box-Händler. Als Marktplatz hält die Plattform Kundendaten vieler Händler. Auf Marktplatzseiten nutzt sie übliche Analyse-Tracker. Es sind keine dokumentierten Datenmissbräuche oder bedeutenden Sicherheitsvorfälle bekannt."
   },
   "Crayon Syntax Highlighter": {
@@ -2723,7 +2723,7 @@
   },
   "Crikle": {
     "description": "Crikle ist eine Software für Multichannel-Kundeninteraktion.",
-    "history": "Crikle wurde 2019 gegründet und hat seinen Hauptsitz in London, England. Die Plattform bietet Multichannel-Sales-Engagement und videobasierte Lead-Conversion-Werkzeuge, damit Sales-Teams Interessenten per Video aus Social Media, Websites oder direkter Ansprache erreichen können. Crikle sammelte 699'000 USD ein und erreichte bis 2024 eine Bewertung von 5.3 Mio. USD, bei 1.6 Mio. USD Umsatz und einem Team von fünf Personen. Zu den Investoren gehören Seedblink und GECAD Group.",
+    "history": "Crikle wurde 2019 gegründet und hat seinen Hauptsitz in London, England. Die Plattform bietet Multichannel-Sales-Engagement und videobasierte Lead-Conversion-Werkzeuge, damit Sales-Teams Interessenten per Video aus Social Media, Websites oder direkter Ansprache erreichen können. Crikle sammelte 699'000 USD ein und erreichte bis 2024 eine Bewertung von 5,3 Mio. USD, bei 1,6 Mio. USD Umsatz und einem Team von fünf Personen. Zu den Investoren gehören Seedblink und GECAD Group.",
     "summary_abuse": "Crikle verarbeitet Videoanruf-Aufzeichnungen und Verkaufsdialogdaten, die für Unternehmen und Interessenten sensibel sind. Als Tool für den UK-/EU-Markt ist es GDPR-konform. Bedeutende dokumentierte Datenschutzverletzungen oder Dark Patterns wurden nicht gefunden. Wegen der kleinen Unternehmensgrösse und begrenzten öffentlichen Präsenz sind unabhängige Sicherheitsaudits unwahrscheinlich."
   },
   "Crisp Live Chat": {
@@ -2757,8 +2757,8 @@
     "summary_abuse": "CRMBOOST ist eine kleine CRM-Plattform ohne dokumentierte Missbrauchsfälle. Standard-CRM-Werkzeuge haben eine geringe direkte Missbrauchsfläche, auch wenn Datenverarbeitungspraktiken kleiner CRM-Anbieter undurchsichtig sein können."
   },
   "Crobox": {
-    "history": "Crobox wurde 2014 von Leonard Wolters, Rodger Buyvoets und Sjoerd Mulder in Amsterdam, Niederlande, gegründet. Das Unternehmen bezeichnet sich als Persuasion-as-a-Service-Plattform, die Konsumpsychologie mit Machine Learning kombiniert, um Kaufentscheidungen auf E-Commerce-Sites zu beeinflussen. Crobox sammelte eine Seed-Runde über 1.2 Mio. USD ein, angeführt von Keadyn mit Beteiligung von Ventech Paris. Zu den Kunden gehörten Rakuten, T-Mobile und Under Armour. Die Plattform nutzt über 200 psychologische Trigger, um Benachrichtigungen, Microcopy und Produkt-Tags auszuspielen.",
-    "summary_abuse": "Crobox injiziert Persuasion-Overlays und psychologische Nudges in E-Commerce-Produktseiten und nutzt Verhaltensdaten, um Conversions zu steigern. Solche Overlay-Benachrichtigungen können falsche Dringlichkeitssignale wie erfundene Niedrigbestand- oder Zuschauerzahlen zeigen, ein dokumentiertes Dark-Pattern in der Conversion-Optimierung. Das Werkzeug erfordert Besuchertracking und Verhaltensprofiling. Händler, die Crobox nutzen, müssen GDPR-konforme Einwilligung sicherstellen."
+    "history": "Crobox wurde 2014 von Leonard Wolters, Rodger Buyvoets und Sjoerd Mulder in Amsterdam, Niederlande, gegründet. Das Unternehmen bezeichnet sich als Persuasion-as-a-Service-Plattform, die Konsumpsychologie mit Machine Learning kombiniert, um Kaufentscheidungen auf E-Commerce-Sites zu beeinflussen. Crobox sammelte eine Seed-Runde über 1,2 Mio. USD ein, angeführt von Keadyn mit Beteiligung von Ventech Paris. Zu den Kunden gehörten Rakuten, T-Mobile und Under Armour. Die Plattform nutzt über 200 psychologische Trigger, um Benachrichtigungen, Microcopy und Produkt-Tags auszuspielen.",
+    "summary_abuse": "Crobox injiziert Persuasion-Overlays und psychologische Nudges in E-Commerce-Produktseiten und nutzt Verhaltensdaten, um Conversions zu steigern. Solche Overlay-Benachrichtigungen können falsche Dringlichkeitssignale zeigen, etwa vorgetäuschte niedrige Lagerbestände oder erfundene Zuschauerzahlen, ein dokumentiertes Dark Pattern in der Conversion-Optimierung. Das Werkzeug erfordert Besuchertracking und Verhaltensprofiling. Händler, die Crobox nutzen, müssen GDPR-konforme Einwilligung sicherstellen."
   },
   "Crocoblock JetElements": {
     "description": "Crocoblock JetElements ist ein Add-on für Elementor, das dem Page Builder zusätzliche Anpassungsoptionen hinzufügt.",
@@ -2767,7 +2767,7 @@
   },
   "Croct": {
     "description": "Croct ist ein Headless CMS mit A/B-Testing- und Personalisierungsfunktionen für Content Management und digitale Auslieferung.",
-    "history": "Croct ist ein Headless CMS für Personalisierung und Optimierung, etwa 2018 in São Paulo, Brasilien, von Marcos Passos und Juliana Amorim gegründet. Die Plattform nutzt einen komponentenbasierten Ansatz, damit Teams Experimente durchführen und personalisierte Inhalte ohne starke Entwicklerabhängigkeit ausliefern können. Croct sammelte im Juli 2021 eine Seed-Runde über 1.3 Mio. USD ein, angeführt von Astella mit Beteiligung mehrerer Angel-Investoren. Das Unternehmen nahm Ende 2023 auch am Techstars Boulder Accelerator teil.",
+    "history": "Croct ist ein Headless CMS für Personalisierung und Optimierung, etwa 2018 in São Paulo, Brasilien, von Marcos Passos und Juliana Amorim gegründet. Die Plattform nutzt einen komponentenbasierten Ansatz, damit Teams Experimente durchführen und personalisierte Inhalte ohne starke Entwicklerabhängigkeit ausliefern können. Croct sammelte im Juli 2021 eine Seed-Runde über 1,3 Mio. USD ein, angeführt von Astella mit Beteiligung mehrerer Angel-Investoren. Das Unternehmen nahm Ende 2023 auch am Techstars Boulder Accelerator teil.",
     "summary_abuse": "Croct sammelt Verhaltensdaten von Besuchern und führt A/B-Experimente aus, um personalisierte Inhalte bereitzustellen. Dafür müssen Nutzersessions und Attribute getrackt werden. Als Headless CMS mit Personalisierung liegt die GDPR-konforme Einwilligungsverwaltung bei den Entwicklern, die Croct integrieren. Dokumentierte Missbrauchsmuster wurden nicht gefunden."
   },
   "Cronitor": {

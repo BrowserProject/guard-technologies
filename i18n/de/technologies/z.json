@@ -20,7 +20,7 @@
     "summary_abuse": "Zakeke ist ein Tool für Produktanpassung und 3D-Visualisierung für E-Commerce-Händler ohne auffälliges Missbrauchssignal. Die Plattform ermöglicht Käufern, Produktdesigns anzupassen, bietet aber keine verbraucherorientierte Oberfläche, die Phishing oder Betrug besonders anziehen würde. Es sind keine dokumentierten Missbrauchsfälle mit dem Dienst verbunden."
   },
   "Zakeke Interactive Product Designer": {
-    "description": "Zakeke Interactive Product Designer lässt Kunden Produkte personalisieren und vor dem Checkout visualisieren, wie sie aussehen werden.",
+    "description": "Zakeke Interactive Product Designer lässt Kunden Produkte personalisieren und vor dem Checkout in einer Vorschau sehen, wie das Ergebnis aussieht.",
     "history": "Zakeke Interactive Product Designer ist ein Produkt des italienischen Unternehmens Zakeke und bietet Produktpersonalisierung für Online-Shops.",
     "summary_abuse": "Für Zakeke Interactive Product Designer gibt es kein auffälliges Missbrauchssignal. Es handelt sich um ein Tool zur Produktanpassung."
   },
@@ -154,7 +154,7 @@
   },
   "ZenMaid": {
     "description": "ZenMaid ist eine Terminplanungssoftware für private Reinigungsdienste, die bei der Verwaltung von Terminen hilft.",
-    "history": "ZenMaid wurde im April 2013 von Amar Ghose in Palo Alto, Kalifornien, gegründet. Ghose gründete das Unternehmen, nachdem er 2012 seinen eigenen Reinigungsdienst Fast Friendly Spotless betrieben und den Mangel an speziell entwickelter Planungssoftware für Reinigungsbetriebe erkannt hatte. Die Plattform ist auf über 3'000 Inhaber von Reinigungsdiensten gewachsen.",
+    "history": "ZenMaid wurde im April 2013 von Amar Ghose in Palo Alto, Kalifornien, gegründet. Ghose gründete das Unternehmen, nachdem er 2012 seinen eigenen Reinigungsdienst Fast Friendly Spotless betrieben und den Mangel an speziell entwickelter Planungssoftware für Reinigungsbetriebe erkannt hatte. Die Plattform bedient inzwischen über 3'000 Inhaber von Reinigungsdiensten.",
     "summary_abuse": "ZenMaid ist eine Terminplanungsplattform für private Reinigungsdienste ohne auffälliges Missbrauchssignal. Reinigungsunternehmen nutzen sie für Termin- und Betriebsverwaltung, ohne verbraucherorientierte Oberfläche, die Phishing oder Betrug anziehen würde. Es sind keine dokumentierten Missbrauchsvorfälle mit ZenMaid verbunden."
   },
   "Zenoti": {
@@ -232,8 +232,8 @@
     "summary_abuse": "Zeus Technology ist eine Plattform für Werbung und Medienmonetarisierung. Wie alle Ad-Tech-Plattformen liefert sie Drittanbieter-Werbecode auf Publisher-Websites aus, was ein inhärentes Malvertising-Risiko mit sich bringt. Die Plattform ist nicht dafür bekannt, Phishing-Seiten zu hosten oder Betrug direkt zu erleichtern, doch Ad-Tech-Plattformen sind ein häufiger Vektor für Malvertising-Kampagnen."
   },
   "Zevi": {
-    "description": "Zevi ist eine KI-gestützte Plattform für Site Search und Discovery, die die Produktentdeckung verbessern soll.",
-    "history": "Zevi ist eine etwa 2021 gegründete KI-gestützte Plattform für Site Search und Produktentdeckung im E-Commerce; sie bietet neuronale Suche und Product-Discovery-Funktionen für Online-Shops. Das Unternehmen hat seinen Sitz in Indien und hat Venture-Finanzierung erhalten.",
+    "description": "Zevi ist eine KI-gestützte Plattform für Onsite-Suche, die die Produktentdeckung verbessern soll.",
+    "history": "Zevi ist eine etwa 2021 gegründete KI-gestützte Plattform für Onsite-Suche und Produktentdeckung im E-Commerce; sie bietet neuronale Suche und Product-Discovery-Funktionen für Online-Shops. Das Unternehmen hat seinen Sitz in Indien und hat Venture-Finanzierung erhalten.",
     "summary_abuse": "Für Zevi gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-KI-Suchplattform für E-Commerce-Websites ohne verbraucherorientiertes anonymes Content-Hosting."
   },
   "Zevioo": {
@@ -269,7 +269,7 @@
   "Zimbra": {
     "description": "Zimbra ist ein Anbieter von Open-Source-E-Mail- und Kollaborationssoftware mit Lösungen für E-Mail, Kalender, Kontakte und Zusammenarbeit für Einzelpersonen und Unternehmen.",
     "history": "Zimbra wurde ursprünglich von Zimbra Inc. entwickelt, das 2005 gegründet wurde, und 2007 von Yahoo übernommen. Yahoo verkaufte es 2010 an VMware, das es 2013 an Telligent weiterverkaufte. Synacor übernahm Zimbra 2015 und verkaufte es 2019 an Zeta Global. 2020 kaufte Synacor Zimbra zurück. Das Projekt wird heute als unabhängige Open-Source-Suite für E-Mail und Zusammenarbeit betrieben.",
-    "summary_abuse": "Zimbra ist eine selbst gehostete E-Mail- und Kollaborationsplattform, die von vielen Organisationen eingesetzt wird. Die Webmail-Oberfläche wurde gelegentlich Ziel von Spear-Phishing-Angriffen, und es gibt dokumentierte Schwachstellen, die von APT-Gruppen ausgenutzt wurden. Da Organisationen ihre Instanzen selbst hosten, hängt das Missbrauchsprofil von der Sicherheit der jeweiligen Instanz ab. CVE-erfasste Schwachstellen in Zimbra wurden aktiv in freier Wildbahn ausgenutzt. Zimbra veröffentlicht Sicherheitsmeldungen und Patches."
+    "summary_abuse": "Zimbra ist eine selbst gehostete E-Mail- und Kollaborationsplattform, die von vielen Organisationen eingesetzt wird. Die Webmail-Oberfläche wurde gelegentlich Ziel von Spear-Phishing-Angriffen, und es gibt dokumentierte Schwachstellen, die von APT-Gruppen ausgenutzt wurden. Da Organisationen ihre Instanzen selbst hosten, hängt das Missbrauchsprofil von der Sicherheit der jeweiligen Instanz ab. CVE-erfasste Schwachstellen in Zimbra wurden bereits aktiv ausgenutzt. Zimbra veröffentlicht Sicherheitsmeldungen und Patches."
   },
   "ZingChart": {
     "description": "ZingChart ist eine kostenlose Open-Source-JavaScript-Bibliothek zum Erstellen interaktiver und intuitiver Diagramme.",
@@ -287,7 +287,7 @@
     "summary_abuse": "Für Zinrelo gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Loyalty-Plattform zur Verwaltung von Prämienprogrammen für E-Commerce-Händler, ohne verbraucherorientiertes anonymes Content-Hosting."
   },
   "Zip": {
-    "description": "Zip ist ein Zahlungsdienst, mit dem du einen Kauf sofort erhältst und die Gesamtkosten über einen zinsfreien Zahlungsplan verteilst.",
+    "description": "Zip ist ein Zahlungsdienst, bei dem Kunden ihren Einkauf sofort erhalten und die Gesamtkosten über einen zinsfreien Zahlungsplan verteilen.",
     "history": "Zip, in den USA früher Quadpay, wurde 2013 in Sydney, Australien, als Buy-now-pay-later-Dienst gegründet. Das Unternehmen wurde 2015 an der ASX kotiert und expandierte international. 2020 übernahm Zip Quadpay, um in den US-Markt einzutreten, und trat danach weltweit unter der Marke Zip auf. Das Unternehmen ist ein börsenkotierter BNPL-Anbieter in mehreren Ländern.",
     "summary_abuse": "Zip ist ein verbraucherorientierter BNPL-Zahlungsdienst. Als Finanzprodukt mit Checkout-Integrationen wird seine Marke in Phishing-Imitationskampagnen gegen Kunden missbraucht. BNPL-Dienste stehen wegen Verbraucherkreditpraktiken unter regulatorischer Beobachtung, und Zip war Gegenstand von Beschwerden über schwer verständliche Rückzahlungsbedingungen. Es sind keine grossflächigen Betrugsvorfälle auf Plattformebene dokumentiert, die Kategorie verbraucherorientierter Finanzdienste trägt jedoch ein erhöhtes Phishing- und Imitationsrisiko."
   },
@@ -297,7 +297,7 @@
     "summary_abuse": "Zipchat ist ein B2B-KI-Chatbot für E-Commerce ohne auffälliges Missbrauchssignal."
   },
   "Zipify OCU": {
-    "description": "Mit Zipify OCU kannst du Upsells und Cross-Sells zu deiner Checkout-Abfolge hinzufügen.",
+    "description": "Zipify OCU ermöglicht es Händlern, Upsells und Cross-Sells in ihre Checkout-Abfolge einzubinden.",
     "history": "Zipify OCU (One Click Upsell) ist eine Shopify-App von Zipify, einem Unternehmen, das etwa 2016 von Ezra Firestone gegründet wurde. Die App fügt Shopify-Checkout-Flows Upsell- und Cross-Sell-Angebote nach dem Kauf hinzu. Zipify ist ein unabhängiges Unternehmen für Shopify-Händler.",
     "summary_abuse": "Für Zipify OCU gibt es kein auffälliges Missbrauchssignal. Es ist eine Shopify-App für Upsells nach dem Kauf. Die Wahrscheinlichkeit für Dark Patterns ist leicht erhöht, weil One-Click-Upsell-Flows so gestaltet werden können, dass Kunden zu ungewollten Käufen verleitet oder verwirrt werden, auch wenn die Plattform selbst legitim ist."
   },
@@ -332,7 +332,7 @@
   },
   "Zmags Creator": {
     "description": "Zmags Creator ermöglicht Marketern, verschiedenste interaktive digitale Erlebnisse ohne Programmierung zu gestalten und zu veröffentlichen.",
-    "history": "Zmags Creator ist eine Content-Creation-Plattform für interaktive digitale Publikationen, shoppable Experiences und Marketinginhalte. Das Unternehmen wurde etwa 2007 gegründet und von Zmags zu Creator by Zmags umbenannt. Es bedient Händler und Publisher.",
+    "history": "Zmags Creator ist eine Content-Creation-Plattform für interaktive digitale Publikationen, Inhalte mit direkter Kaufmöglichkeit und Marketinginhalte. Das Unternehmen wurde etwa 2007 gegründet und von Zmags zu Creator by Zmags umbenannt. Es bedient Händler und Publisher.",
     "summary_abuse": "Für Zmags Creator gibt es kein auffälliges Missbrauchssignal. Es ist eine B2B-Content-Creation-Plattform für gebrandete Marketingerlebnisse ohne verbraucherorientiertes anonymes Content-Hosting."
   },
   "Znode": {
@@ -411,7 +411,7 @@
   },
   "Zonos": {
     "description": "Zonos ist eine Software- und App-Lösung für grenzüberschreitenden E-Commerce bei Unternehmen mit internationalem Geschäft.",
-    "history": "Zonos wurde um 2009 gegründet und bietet Lösungen für grenzüberschreitenden Ecommerce, darunter die Berechnung von Zöllen und Steuern, internationalen Checkout und Zoll-Compliance. Die Plattform richtet sich an B2B-Händler, die international expandieren wollen.",
+    "history": "Zonos wurde um 2009 gegründet und bietet Lösungen für grenzüberschreitenden E-Commerce, darunter die Berechnung von Zöllen und Steuern, internationalen Checkout und Zoll-Compliance. Die Plattform richtet sich an B2B-Händler, die international expandieren wollen.",
     "summary_abuse": "Zonos hat kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für grenzüberschreitenden Handel, die Händlern Compliance- und Zollberechnungsdienste bereitstellt."
   },
   "ZoodPay": {

@@ -244,7 +244,7 @@
     "summary_abuse": "Maisie ist ein legitimes E-Commerce-Chatbot-SaaS für Shopify-Händler. Es wurden keine Missbrauchssignale festgestellt. Die Plattform arbeitet als normales B2B-Werkzeug für Kundeninteraktion im Onlinehandel."
   },
   "MAJIN": {
-    "description": "MAJIN liest anhand realer Daten die Herzen und Gedanken einzelner Kunden und automatisiert optimale Marketingprozesse.",
+    "description": "MAJIN erschliesst anhand realer Daten die Wünsche und Bedürfnisse jedes einzelnen Kunden und automatisiert optimale Marketingprozesse.",
     "history": "MAJIN ist eine cloudbasierte Marketing-Automation-Plattform, die 2016 in Shinjuku City, Japan, gegründet wurde; sie bietet E-Mail-Versand, Pop-up-Anzeigen, Push Notifications, Customer-Journey-Analysen und Kampagnenberichte. Es handelt sich um eine nicht fremdfinanzierte, nischenhafte japanische Martech-Plattform.",
     "summary_abuse": "Keine Missbrauchsbedenken. Kleines japanisches Marketing-Automation-Tool ohne auffällige Probleme."
   },
@@ -299,7 +299,7 @@
   "Manatee": {
     "description": "Manatee ist ein Tool zur Steigerung von Online-Werbeumsätzen durch optimierte Anzeigenplatzierung und Targeting-Strategien, um Klickraten und Anzeigenleistung zu erhöhen.",
     "history": "Manatee (manatee.io) ist ein SaaS zur Optimierung von Werbeerlösen, das Online-Werbeleistung durch optimierte Platzierungen, Targeting-Strategien und Klickraten verbessert. Es ist ein kleines Advertising-Technology-Unternehmen mit Fokus auf Publisher-Monetarisierung.",
-    "summary_abuse": "Manatee ist ein Ad-Tech-SaaS in der Kategorie Werbeoptimierung, die grundsätzlich höhere Tracker-Dichte und Datensammlung mit sich bringt. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, aber Ad-Optimization-Plattformen sind vom Design her meist privacy-invasiv."
+    "summary_abuse": "Manatee ist ein Ad-Tech-SaaS in der Kategorie Werbeoptimierung, die grundsätzlich höhere Tracker-Dichte und Datensammlung mit sich bringt. Konkrete Missbrauchsvorfälle sind nicht dokumentiert, aber Plattformen zur Werbeoptimierung greifen schon vom Ansatz her meist tief in die Privatsphäre ein."
   },
   "MangaReader": {
     "description": "MangaReader ist ein WordPress-Theme zum Erstellen von Websites mit anpassbaren Layouts und responsivem Design.",
@@ -324,7 +324,7 @@
   "Mantis": {
     "description": "Mantis ist ein End-to-end-Werbenetzwerk für Marken in der legalen Cannabisbranche und angrenzenden Märkten.",
     "history": "Mantis Ad Network (mantisadnetwork.com) ist ein digitales Werbenetzwerk mit Fokus auf Publisher-Monetarisierung. Es bietet programmatische Werbetechnologie für Website-Publisher und agiert typischerweise als Werbevermittler. Solche Ad Networks sammeln Tracking-Daten von Nutzern und liefern gezielte Displaywerbung aus.",
-    "summary_abuse": "Mantis Ad Network ist eine Werbeplattform, die wie die meisten Ad Networks Verhaltensdaten von Website-Besuchern sammelt. Ad Networks können für Malvertising-Kampagnen missbraucht werden. Konkrete dokumentierte Missbrauchsvorfälle wurden nicht gefunden, aber die privacy-invasive Natur von Ad Tech gehört zum Geschäftsmodell."
+    "summary_abuse": "Mantis Ad Network ist eine Werbeplattform, die wie die meisten Ad Networks Verhaltensdaten von Website-Besuchern sammelt. Ad Networks können für Malvertising-Kampagnen missbraucht werden. Konkrete dokumentierte Missbrauchsvorfälle wurden nicht gefunden, aber dass Ad Tech tief in die Privatsphäre eingreift, gehört zum Geschäftsmodell."
   },
   "MantisBT": {
     "description": "MantisBT ist ein webbasiertes Open-Source-Issue-Tracking-System in PHP mit MySQL-Datenbank-Backend, das Bugtracking und Projektmanagement für Softwareentwicklungsteams erleichtert.",
@@ -354,7 +354,7 @@
   "Mapbox.js": {
     "description": "Mapbox.js ist eine von Mapbox bereitgestellte JavaScript-Bibliothek für interaktive Karten und Geodaten.",
     "history": "Mapbox.js ist eine ältere JavaScript-Kartenbibliothek von Mapbox, die auf Leaflet aufbaut und um 2013 veröffentlicht wurde; sie war der Vorgänger des modernen Mapbox GL JS SDK. Mapbox hat Mapbox.js zugunsten von Mapbox GL JS abgekündigt. Die Bibliothek wird nicht mehr aktiv gepflegt, das Repository bleibt aber auf GitHub verfügbar.",
-    "summary_abuse": "Mapbox.js ist eine abgekündigte Legacy-Bibliothek für Karten-Rendering ohne Missbrauchssignal; sie ist eine clientseitige JavaScript-Bibliothek ohne Serverfläche."
+    "summary_abuse": "Mapbox.js ist eine abgekündigte Legacy-Bibliothek für Karten-Rendering ohne Missbrauchssignal; sie ist eine clientseitige JavaScript-Bibliothek ohne serverseitige Angriffsfläche."
   },
   "MapLibre GL JS": {
     "description": "MapLibre GL JS ist eine Open-Source-Bibliothek zum Veröffentlichen von Karten auf Websites.",
@@ -369,7 +369,7 @@
   "MapLoco": {
     "description": "MapLoco ist ein Tool, das Website-Besucherstandorte zur Analyse und Nachverfolgung auf einer interaktiven Karte anzeigt.",
     "history": "MapLoco (maploco.com) ist ein kostenloser Web-Visitor-Map-Widget-Dienst, mit dem Website- und Blogbetreiber eine Karte mit den geografischen Standorten ihrer Besucher einbetten können. Nutzer können ausserdem Karten besuchter Länder oder US-Bundesstaaten erstellen und teilen. Es ist ein kleiner kostenloser Dienst, der seit Mitte der 2000er-Jahre existiert.",
-    "summary_abuse": "MapLoco ist ein kleiner kostenloser Karten-Widget-Dienst mit geringem Missbrauchsrisiko. Er sammelt IP-Geolocation-Daten von Besuchern, um Besucherkarten anzuzeigen, was inhärente Datenschutzimplikationen hat, aber kein dokumentiertes Missbrauchsmuster."
+    "summary_abuse": "MapLoco ist ein kleiner kostenloser Karten-Widget-Dienst mit geringem Missbrauchsrisiko. Er sammelt IP-Geolocation-Daten von Besuchern, um Besucherkarten anzuzeigen. Das wirft naturgemäss Datenschutzfragen auf, ein dokumentiertes Missbrauchsmuster gibt es jedoch nicht."
   },
   "Mapme": {
     "description": "Mapme ist ein interaktiver Karten-Builder, mit dem Nutzer eigene Karten erstellen können.",
@@ -389,11 +389,11 @@
   "Mappedin": {
     "description": "Mappedin ist eine skalierbare All-in-one-Plattform für Indoor-Mapping.",
     "history": "Mappedin ist ein kanadisches SaaS für Indoor-Karten und Wegführung, gegründet um 2012 in Waterloo, Ontario. Es bietet KI-gestützte Indoor-Karten, digitale Verzeichnisse und Wayfinding-SDKs für Enterprise-Standorte wie Einkaufszentren (Simon, Tanger, Hudson Yards), Flughäfen und Spitäler. Die Plattform unterstützt Mobile-, Web- und Kiosk-Deployments mit Turn-by-turn-Blue-Dot-Navigation.",
-    "summary_abuse": "Mappedin ist ein legitimes Enterprise-B2B-SaaS für Indoor-Mapping ohne dokumentierte Missbrauchssignale. Es ist ausschliesslich im Mapping von Enterprise-Standorten tätig und hat etablierte Handels- und Standortkunden."
+    "summary_abuse": "Mappedin ist ein legitimes Enterprise-B2B-SaaS für Indoor-Mapping ohne dokumentierte Missbrauchssignale. Es ist ausschliesslich im Mapping von Enterprise-Standorten tätig und zählt etablierte Einzelhändler und Standortbetreiber zu seinen Kunden."
   },
   "Mapplic": {
     "description": "Mapplic ist ein Plugin zum Erstellen interaktiver Karten aus einfachen Bilddateien (jpg, png) oder Vektordateien (svg).",
-    "history": "Mapplic ist ein Premium-WordPress-Plugin zum Erstellen eigener interaktiver Karten aus SVG-Bildern und Vektorgrafiken, verkauft über CodeCanyon. Es unterstützt unbegrenzte Stockwerke, Orientierungspunkte, Zoom und Pan und wird für Standortkarten, Grundrisse und geografische Verzeichnisse genutzt. Es ist ein Produkt mit Einmalkauf eines kleinen unabhängigen Entwicklers.",
+    "history": "Mapplic ist ein Premium-WordPress-Plugin zum Erstellen eigener interaktiver Karten aus SVG-Bildern und Vektorgrafiken, verkauft über CodeCanyon. Es unterstützt unbegrenzte Stockwerke, Orientierungspunkte, Zoom und Pan und wird für Standortkarten, Grundrisse und geografische Verzeichnisse genutzt. Das Produkt wird von einem kleinen unabhängigen Entwickler als Einmalkauf verkauft.",
     "summary_abuse": "Mapplic ist ein selbst gehostetes WordPress-Plugin ohne Missbrauchssignal. Es rendert statische SVG-Karten clientseitig und hat keine gehostete Service-Oberfläche."
   },
   "MapPress": {
@@ -403,7 +403,7 @@
   },
   "Maptalks": {
     "description": "Maptalks ist eine schlanke und erweiterbare JavaScript-Bibliothek für integrierte 2D- und 3D-Karten.",
-    "history": "Maptalks ist eine unter BSD-3-Clause lizenzierte Open-Source-JavaScript-Bibliothek für integriertes 2D- und 3D-Kartenrendering; sie wurde von einem chinesischen Entwicklerteam erstellt und um 2016 erstmals veröffentlicht; sie unterstützt Canvas, WebGL, SVG sowie CSS3/HTML-Layer zum Rendern von Geometrien auf Karten; sie ist als npm-Paket 'maptalks' verfügbar und wird auf cdnjs geführt.",
+    "history": "Maptalks ist eine unter BSD-3-Clause lizenzierte Open-Source-JavaScript-Bibliothek für integriertes 2D- und 3D-Kartenrendering. Sie wurde von einem chinesischen Entwicklerteam erstellt und um 2016 erstmals veröffentlicht. Die Bibliothek unterstützt Canvas, WebGL, SVG sowie CSS3/HTML-Layer zum Rendern von Geometrien auf Karten und ist als npm-Paket 'maptalks' verfügbar und wird auf cdnjs geführt.",
     "summary_abuse": "Maptalks ist eine Open-Source-JavaScript-Bibliothek für Kartenrendering ohne Missbrauchssignal. Es handelt sich um eine clientseitige Utility-Bibliothek ohne Serveroberfläche."
   },
   "Maptiler": {
@@ -502,7 +502,7 @@
   },
   "Marsello": {
     "description": "Marsello ist eine Omnichannel-Loyalty-Plattform, die sich mit Verkaufskanälen verbindet und Kundenbindung durch eine einheitliche Erfahrung über verschiedene Verkaufsstellen hinweg stärkt.",
-    "history": "Marsello ist eine neuseeländische SaaS-Plattform für Loyalty und Marketing-Automation, gegründet um 2015; sie bietet Omnichannel-Treueprogramme, E-Mail, SMS und Marketing-Automation für Retail- und Hospitality-Marken; sie integriert sich mit Shopify, BigCommerce, LightSpeed und wichtigen POS-Systemen. Zu den Kunden gehören Lego Certified Stores, Merrell und mehr als 4'000 Marken.",
+    "history": "Marsello ist eine neuseeländische SaaS-Plattform für Loyalty und Marketing-Automation, gegründet um 2015. Sie bietet Omnichannel-Treueprogramme, E-Mail, SMS und Marketing-Automation für Retail- und Hospitality-Marken und integriert sich mit Shopify, BigCommerce, LightSpeed und wichtigen POS-Systemen. Zu den Kunden gehören Lego Certified Stores, Merrell und mehr als 4'000 Marken.",
     "summary_abuse": "Marsello ist ein legitimes SaaS für Loyalty und Marketing ohne dokumentierte Missbrauchssignale. Es bedient etablierte Retail- und Hospitality-Marken mit verifizierten Geschäftskonten."
   },
   "Marshal": {
@@ -521,7 +521,7 @@
     "summary_abuse": "Mashore Method ist ein Nischen-SaaS für Immobilien-Coaching und CRM ohne dokumentierte Missbrauchssignale. Die Nutzerbasis besteht aus Immobilienmaklern, die digitale Marketingtools suchen. Es wurden keine nennenswerten Vorfälle oder Beschwerden zu Datenmissbrauch oder betrügerischem Verhalten identifiziert."
   },
   "Masonry": {
-    "description": "Masonry ist eine JavaScript-Bibliothek für kaskadierende Grid-Layouts, die Elemente anhand des verfügbaren vertikalen Platzes für eine optimierte, lückenarme Anordnung positioniert.",
+    "description": "Masonry ist eine JavaScript-Bibliothek für kaskadierende Grid-Layouts, die Elemente anhand des verfügbaren vertikalen Platzes für eine optimierte, lückenlose Anordnung positioniert.",
     "history": "Masonry ist eine JavaScript-Bibliothek für kaskadierende Grid-Layouts, erstellt von David DeSandro und erstmals um 2010 veröffentlicht; sie platziert Elemente anhand des verfügbaren vertikalen Platzes optimal, ähnlich wie ein Maurer Steine in eine Wand einpasst. Die Bibliothek ist im Web breit eingesetzt, über npm (masonry-layout) und CDN verfügbar und unterstützt sowohl jQuery als auch Vanilla JS. Das GitHub-Repository desandro/masonry hat etwa 17'000 Sterne gesammelt.",
     "summary_abuse": "Masonry ist eine reine Frontend-Layout-Bibliothek ohne serverseitige Oberfläche. Es gibt keine Missbrauchssignale und keine nennenswerte Ausnutzung in bösartigen Kontexten."
   },
@@ -563,7 +563,7 @@
   "Mastodon": {
     "description": "Mastodon ist ein kostenloser und quelloffener selbst gehosteter sozialer Netzwerkdienst.",
     "history": "Mastodon wurde 2016 vom deutschen Entwickler Eugen Rochko als dezentrale Open-Source-Alternative zu Twitter geschaffen. Es nutzt das ActivityPub-Protokoll, um unabhängige Serverinstanzen zu föderieren. Nach der Übernahme von Twitter durch Elon Musk 2022 verzeichnete es massive Nutzerschübe. Zur Unterstützung der Entwicklung wurde Mastodon gGmbH, eine US-amerikanische 501(c)(3)-Nonprofit-Organisation, gegründet. Stand 2025 hat Mastodon rund 10 Millionen registrierte Nutzer.",
-    "summary_abuse": "Mastodon-Instanzen können Belästigung, Spam und CSAM hosten, wenn Betreiber schwache Moderationsregeln haben, da jede Instanz eigene Regeln setzt. Das föderierte Modell bedeutet, dass problematische Instanzen von Mainstream-Instanzen deföderiert werden können, aber weiterhin betrieben werden. Die Software wurde auf einigen selbst gehosteten Instanzen von extremistischen Communities genutzt. Grosse gehostete Instanzen setzen in der Regel strenge Verhaltenskodizes durch."
+    "summary_abuse": "Mastodon-Instanzen können Belästigung, Spam und CSAM hosten, wenn Betreiber schwache Moderationsregeln haben, da jede Instanz eigene Regeln setzt. Das föderierte Modell bedeutet, dass problematische Instanzen von Mainstream-Instanzen deföderiert werden können, aber weiterhin betrieben werden. Die Software wurde auf einigen selbst gehosteten Instanzen von extremistischen Communities genutzt. Gehostete Mainstream-Instanzen setzen in der Regel strenge Verhaltenskodizes durch."
   },
   "Matajer": {
     "description": "Matajer ist eine E-Commerce-Plattform aus Saudi-Arabien.",
@@ -766,7 +766,7 @@
   "MediaPlatform": {
     "description": "MediaPlatform ist Enterprise-Video- und Webcasting-Software für Unternehmenskommunikation.",
     "history": "MediaPlatform ist ein Anbieter für Enterprise-Video aus North Hollywood, Kalifornien, mit Lösungen für Live-Webcasting und On-Demand-Videomanagement. Gartner stufte das Unternehmen im Magic Quadrant for Enterprise Video Content Management als Leader ein. Die Plattform wird von grossen Unternehmen für Executive Messaging und eLearning-Videobereitstellung genutzt.",
-    "summary_abuse": "Keine dokumentierte Missbrauchshistorie. MediaPlatform ist eine B2B-Videohosting-Plattform für interne Webcasts in Unternehmen. Keine konsumentengerichtete Missbrauchsfläche."
+    "summary_abuse": "Keine dokumentierte Missbrauchshistorie. MediaPlatform ist eine B2B-Videohosting-Plattform für interne Webcasts in Unternehmen. Es gibt keine endnutzerseitige Angriffsfläche für Missbrauch."
   },
   "Mediavine": {
     "description": "Mediavine ist eine Full-Service-Plattform für Anzeigenmanagement.",
@@ -781,7 +781,7 @@
   "Medium": {
     "description": "Medium ist eine Online-Publishing-Plattform.",
     "history": "Medium wurde vom Twitter-Mitgründer Evan Williams gegründet und im August 2012 als Plattform für längere Texte gestartet. Zunächst war sie nur per Einladung zugänglich, 2013 wurde sie öffentlich geöffnet. Williams trat im Juli 2022 als CEO zurück und wurde durch Tony Stubblebine ersetzt. Die Plattform führte ein Mitgliedschaftsabo für 5 USD pro Monat und ein Partnerprogramm zur Monetarisierung für Autorinnen und Autoren ein. Medium wechselte mehrfach strategisch zwischen werbefinanzierten und abonnementbasierten Modellen.",
-    "summary_abuse": "Medium wurde für Spam-Inhalte, phishingbezogene Artikel mit schädlichen Links und SEO-Missbrauchskampagnen genutzt. Die kostenlose Stufe und die hohe Domain-Autorität machen die Plattform attraktiv für Spammer, die Artikel mit Links zu schädlichen oder minderwertigen Websites veröffentlichen. Medium moderiert Inhalte, doch durch das Volumen nutzergenerierter Beiträge bleiben missbräuchliche Posts teils stundenlang online. Linkschemata zur Umgehung von Paywalls und Krypto-Scam-Beiträge sind dokumentiert."
+    "summary_abuse": "Medium wurde für Spam-Inhalte, phishingbezogene Artikel mit schädlichen Links und SEO-Missbrauchskampagnen genutzt. Die kostenlose Nutzung und die hohe Domain-Autorität machen die Plattform attraktiv für Spammer, die Artikel mit Links zu schädlichen oder minderwertigen Websites veröffentlichen. Medium moderiert Inhalte, doch durch das Volumen nutzergenerierter Beiträge bleiben missbräuchliche Posts teils stundenlang online. Linkschemata zur Umgehung von Paywalls und Krypto-Scam-Beiträge sind dokumentiert."
   },
   "Medoc": {
     "description": "Medoc ist ein System für Retail und E-Commerce.",
@@ -814,7 +814,7 @@
     "summary_abuse": "Mega hat eine deutliche Missbrauchshistorie: Wegen verschlüsseltem Speicher und No-Knowledge-Anspruch wird der Dienst häufig zum Hosten von Raubkopien, urheberrechtlich geschützten Medien und illegalen Inhalten verwendet. 2022 wurden kryptografische Schwachstellen offengelegt. Für Unternehmen gilt Mega wegen historischer Nutzung durch missbräuchliche Uploader als risikoreicher."
   },
   "Megagroup CMS.S3": {
-    "description": "Das Verwaltungssystem Megagroup CMS.S3 wird nicht als Boxprodukt bereitgestellt, sondern als separater Dienst und arbeitet damit als SaaS. Du verwaltest deine Website direkt im Browser über eine intuitive Oberfläche.",
+    "description": "Das Verwaltungssystem Megagroup CMS.S3 wird nicht als Boxprodukt bereitgestellt, sondern als separater Dienst und arbeitet damit als SaaS. Die Website wird direkt im Browser über eine intuitive Oberfläche verwaltet.",
     "history": "Megagroup.ru ist ein russisches Webstudio, das 1997 gegründet wurde. Das proprietäre SaaS-CMS CMS.S3 wird seit 2006 entwickelt. Es wird ausschliesslich als SaaS angeboten, nicht als Boxprodukt, und basiert auf PHP mit Percona/MySQL. 2021 belegte es in der russischen CMS-Nutzung insgesamt Platz 4 (3,06 %) und im SaaS-CMS-Segment Platz 1 (19,62 %). Es bedient vor allem den russischen KMU-Markt. Der Betrieb kann vom Sanktionsumfeld nach 2022 betroffen sein.",
     "summary_abuse": "Keine dokumentierten Malware- oder Missbrauchsvorfälle. Das Risiko ist wegen russischer Jurisdiktion und möglichen Datenhoheitsfragen für nicht russische Nutzer erhöht, besonders seit 2022. Für EU- und US-Unternehmen mit Compliance-Anforderungen nicht empfohlen."
   },
@@ -1320,7 +1320,7 @@
   },
   "Mirador": {
     "description": "Mirador ist eine Plattform zur Verbesserung der Kundengewinnung, zur Vereinfachung digitaler Kreditanträge sowie für intelligentes Produkt-Routing und Digitalisierung.",
-    "history": "Mirador ist ein Open-Source-IIIF-Viewer (International Image Interoperability Framework) zur Anzeige digitalisierter Bilder und Manuskripte. Er wurde zunächst von einem Konsortium aus Universitäten und Kulturerbe-Institutionen entwickelt, darunter Stanford, Harvard und Yale, ungefähr ab 2012.",
+    "history": "Mirador ist ein Open-Source-IIIF-Viewer (International Image Interoperability Framework) zur Anzeige digitalisierter Bilder und Manuskripte. Er wurde um 2012 zunächst von einem Konsortium aus Universitäten und Kulturerbe-Institutionen entwickelt, darunter Stanford, Harvard und Yale.",
     "summary_abuse": "Mirador ist ein Open-Source-Bildbetrachter für Bibliotheken und Museen. Aufgrund des spezialisierten Einsatzes im Kulturerbe-Bereich sind keine dokumentierten Missbrauchsmuster bekannt."
   },
   "Mirai": {
@@ -1345,7 +1345,7 @@
   },
   "Mirvac": {
     "description": "Mirvac ist eine australische Property-Management-Plattform mit Fokus auf Immobilienentwicklung.",
-    "history": "Mirvac ist eine börsennotierte australische Immobilienentwicklungs- und Investmentgruppe. Das Unternehmen wurde 1972 gegründet, ist an der ASX kotiert und betreibt die digitale Mirvac-Plattform für Immobilienangebote und das Management von Wohn-Communities.",
+    "history": "Mirvac ist eine börsenkotierte australische Immobilienentwicklungs- und Investmentgruppe. Das Unternehmen wurde 1972 gegründet, ist an der ASX kotiert und betreibt die digitale Mirvac-Plattform für Immobilienangebote und das Management von Wohn-Communities.",
     "summary_abuse": "Mirvac ist eine australische Immobilienunternehmenswebsite und Community-Plattform. Nennenswerte Missbrauchsmuster sind nicht dokumentiert."
   },
   "Miso": {
@@ -1385,8 +1385,8 @@
   },
   "Mixin": {
     "description": "Mixin ist eine hochverfügbare E-Commerce-Cloud.",
-    "history": "Mixin Network ist ein Cryptocurrency-Transaktionsnetzwerk und eine Messenger-App, gegründet um 2017. Es arbeitet als Layer-2-Netzwerk über mehreren Blockchains. Im September 2023 erlitt Mixin Network einen Hack über 200 Millionen US-Dollar, nachdem die Datenbank seines Cloud-Service-Providers kompromittiert wurde.",
-    "summary_abuse": "Mixin Network erlitt im September 2023 einen grossen Hack über 200 Millionen US-Dollar, der einer kompromittierten Cloud-Datenbank zugeschrieben wurde. Cryptocurrency-Plattformen werden häufig von Hackern angegriffen. Die Plattform verwaltet erhebliche Finanzwerte und wurde für Cross-Chain-Transfers genutzt. Der Vorfall von 2023 warf Fragen zur Sicherheitsarchitektur auf."
+    "history": "Mixin Network ist ein Transaktionsnetzwerk für Kryptowährungen und eine Messenger-App, gegründet um 2017. Es arbeitet als Layer-2-Netzwerk über mehreren Blockchains. Im September 2023 erlitt Mixin Network einen Hack über 200 Millionen US-Dollar, nachdem die Datenbank seines Cloud-Service-Providers kompromittiert wurde.",
+    "summary_abuse": "Mixin Network erlitt im September 2023 einen grossen Hack über 200 Millionen US-Dollar, der einer kompromittierten Cloud-Datenbank zugeschrieben wurde. Kryptowährungsplattformen werden häufig von Hackern angegriffen. Die Plattform verwaltet erhebliche Finanzwerte und wurde für Cross-Chain-Transfers genutzt. Der Vorfall von 2023 warf Fragen zur Sicherheitsarchitektur auf."
   },
   "Mixitup": {
     "description": "Ein CSS3- und jQuery-Plugin zum Filtern und Sortieren.",
@@ -1424,7 +1424,7 @@
     "summary_abuse": "Moast ist ein Social-Proof-Widget für E-Commerce. Nennenswerte dokumentierte Missbrauchsmuster sind nicht bekannt."
   },
   "mobicred": {
-    "description": "Mobicred ist eine Kreditfazilität, mit der du sicher online bei teilnehmenden Händlern einkaufen kannst.",
+    "description": "Mobicred ist eine Kreditfazilität, die sicheres Online-Einkaufen bei teilnehmenden Händlern ermöglicht.",
     "history": "Mobicred wurde 2013 in Südafrika als Buy-now-pay-later-Kreditfazilität für Online-Shopping gegründet. Es wurde von der RCS Group übernommen, der Konsumfinanzierungssparte von BNP Paribas, was finanzielle Stabilität und regulatorische Aufsicht bietet.",
     "summary_abuse": "Mobicred ist ein südafrikanischer BNPL-Zahlungsdienst unter der RCS Group von BNP Paribas. Wie andere Kreditfazilitäten unterliegt er bei der Kontoerstellung üblichen Identitätsprüfungen. Nennenswerte Fälle weit verbreiteten Betrugsmissbrauchs sind nicht dokumentiert, auch wenn Zahlungsplattformen generell laufende Betrugsüberwachung brauchen."
   },
@@ -1461,7 +1461,7 @@
     "summary_abuse": "mod_auth_pam zeigt kein nennenswertes Missbrauchssignal. Es ist ein Webserver-Erweiterungsmodul ohne verbraucherorientierte Fläche."
   },
   "mod_dav": {
-    "description": "Mod_dav ist ein Apache-Modul, das WebDAV-Funktionen für deinen Apache-Webserver bereitstellt. Es ist ein Open-Source-Modul unter einer Apache-ähnlichen Lizenz.",
+    "description": "Mod_dav ist ein Apache-Modul, das einen Apache-Webserver um WebDAV-Funktionen erweitert. Es ist ein Open-Source-Modul unter einer Apache-ähnlichen Lizenz.",
     "history": "mod_dav ist ein Apache-Modul, das WebDAV-Funktionen (Web-based Distributed Authoring and Versioning) bereitstellt und kollaboratives Bearbeiten von Dateien über HTTP ermöglicht. Es ist seit Apache httpd 2.0 Teil des Servers.",
     "summary_abuse": "mod_dav zeigt kein nennenswertes Missbrauchssignal. Es ist ein Webserver-Erweiterungsmodul ohne verbraucherorientierte Fläche."
   },
@@ -1533,7 +1533,7 @@
   "ModiFace": {
     "description": "ModiFace ist ein Anbieter von Augmented-Reality-Technologie für die Beauty-Branche.",
     "history": "ModiFace wurde 2006 in Toronto, Kanada, als Unternehmen für Augmented-Reality-Anproben im Beauty-Bereich gegründet. L'Oreal übernahm ModiFace 2018 zu einem nicht offengelegten Preis, eine der grössten Übernahmen im Beauty-Tech-Sektor. Die Technologie von ModiFace treibt virtuelle Anproben bei grossen Beauty-Händlern an.",
-    "summary_abuse": "ModiFace erhebt Gesichtsdaten für Augmented-Reality-Anproben im Beauty-Bereich. Das umfasst Kamerazugriff und Gesichtspunkt-Erkennung in Browsern und Apps. Die Erhebung biometrischer Gesichtsdaten unterliegt Regeln wie BIPA (Illinois) und GDPR. Es sind keine grossen Sicherheitsvorfälle dokumentiert, das Modell der biometrischen Datenerhebung verdient jedoch eine datenschutzbewusste Prüfung."
+    "summary_abuse": "ModiFace erhebt Gesichtsdaten für Augmented-Reality-Anproben im Beauty-Bereich. Das umfasst Kamerazugriff und die Erkennung von Gesichtsmerkmalen in Browsern und Apps. Die Erhebung biometrischer Gesichtsdaten unterliegt Regeln wie BIPA (Illinois) und GDPR. Es sind keine grossen Sicherheitsvorfälle dokumentiert, das Modell der biometrischen Datenerhebung verdient jedoch eine datenschutzbewusste Prüfung."
   },
   "Modified": {
     "history": "Modified ist eine deutsche Open-Source-E-Commerce-Plattform auf Basis von osCommerce, die um 2009 erstmals veröffentlicht wurde; sie ist in deutschsprachigen Märkten als selbst gehostete Onlineshop-Lösung verbreitet.",
@@ -1674,7 +1674,7 @@
     "summary_abuse": "Moneris ist einer der grössten Zahlungsabwickler Kanadas und gehört gemeinsam grossen kanadischen Banken. Das Unternehmen unterliegt strenger kanadischer Finanzregulierung und PCI DSS-Compliance. Wie bei allen Zahlungsabwicklern ist Betrug eine Branchenherausforderung, doch Moneris betreibt starke Betrugsprävention und KYC für Händler."
   },
   "Moneris Payment Gateway": {
-    "description": "Moneris ist Kanadas führender Abwickler von Debit- und Kreditkartenzahlungen. Diese WooCommerce-Erweiterung fügt deiner WooCommerce-Website automatisch das Moneris Payment Gateway hinzu und ermöglicht, Kunden während des Checkouts auf deiner Website zu halten.",
+    "description": "Moneris ist Kanadas führender Abwickler von Debit- und Kreditkartenzahlungen. Diese WooCommerce-Erweiterung fügt einer WooCommerce-Website automatisch das Moneris Payment Gateway hinzu, sodass Kunden den Checkout auf der eigenen Website abschliessen können.",
     "history": "Moneris wurde im Dezember 2000 als Joint Venture zwischen der Royal Bank of Canada und der Bank of Montreal gegründet. Es war der erste kanadische Zahlungsabwickler, der Visa und Mastercard in einem Konto anbot, und der erste kanadische Abwickler für Interac Online (2005) und EMV-Chip-Transaktionen (2005). Moneris verarbeitet jährlich über 3 Milliarden Transaktionen für mehr als 350'000 Händler.",
     "summary_abuse": "Moneris ist ein legitimer Zahlungsabwickler im gemeinsamen Besitz der zwei grössten Banken Kanadas und keine Missbrauchsplattform. Wie bei jedem Payment Gateway können gestohlene Kartennummern gegen Händler getestet werden, die das Gateway nutzen. Moneris verfügt jedoch über übliche Betrugserkennung und PCI DSS-Compliance. Es gibt kein nennenswertes Muster, dass die Plattform selbst missbraucht wird."
   },
@@ -1761,7 +1761,7 @@
     "summary_abuse": "Moon ist ein kleines JavaScript-Framework ohne nutzerseitige Oberfläche und ohne dokumentiertes Missbrauchssignal."
   },
   "Moon Organizer": {
-    "description": "Moon Organizer ist eine Plattform, die Mondzyklen, Mondphasen und mondbezogene Ereignisse verfolgt, um Planung zu unterstützen und rechtzeitige Updates bereitzustellen.",
+    "description": "Moon Organizer ist eine Plattform, die Mondzyklen, Mondphasen und mondbezogene Ereignisse verfolgt, um Planung zu unterstützen und zeitnahe Updates bereitzustellen.",
     "history": "Nischenorientierter kommerzieller SaaS ohne dokumentierte nennenswerte Eigentümerwechsel oder Einstellung des Dienstes.",
     "summary_abuse": "Für diesen nischenorientierten kommerziellen SaaS ist kein nennenswertes Missbrauchssignal dokumentiert."
   },
@@ -1802,8 +1802,8 @@
   },
   "Mopro": {
     "description": "Mopro ist eine Wachstumsplattform, die kleinen Unternehmen hilft, ihre Online-Präsenz zu verbessern und digitale Abläufe zu vereinfachen.",
-    "history": "Mopro wurde 2013 in Orange County, Kalifornien, gegründet. Das Unternehmen positioniert sich als Do-It-For-Me (DIFM)-Website-Builder, der mit KI in weniger als 24 Stunden mobile-first Business-Websites für SMBs erstellt. Es wuchs auf über 240 Mitarbeitende und mehr als 5'500 Geschäftskunden. Auch Enterprise-Kunden wie PepsiCo werden bedient.",
-    "summary_abuse": "Mopro ist ein DIFM-Website-Builder für kleine Unternehmen. KI-generierte Website-Dienste können minderwertige oder irreführende Websites erzeugen, für Mopro selbst ist jedoch kein dokumentiertes Missbrauchsmuster bekannt. Die Plattform richtet sich an legitime SMBs."
+    "history": "Mopro wurde 2013 in Orange County, Kalifornien, gegründet. Das Unternehmen positioniert sich als Do-It-For-Me (DIFM)-Website-Builder, der mit KI in weniger als 24 Stunden mobile-first Business-Websites für KMU erstellt. Es wuchs auf über 240 Mitarbeitende und mehr als 5'500 Geschäftskunden. Auch Enterprise-Kunden wie PepsiCo werden bedient.",
+    "summary_abuse": "Mopro ist ein DIFM-Website-Builder für kleine Unternehmen. KI-generierte Website-Dienste können minderwertige oder irreführende Websites erzeugen, für Mopro selbst ist jedoch kein dokumentiertes Missbrauchsmuster bekannt. Die Plattform richtet sich an legitime KMU."
   },
   "MoreVago": {
     "description": "MoreVago ist eine Plattform, die Kundenstimmen und Bewertungen anzeigt, um Unternehmen bei der Steigerung von Conversions und Verkäufen zu helfen.",
@@ -1837,7 +1837,7 @@
   },
   "Motherhost": {
     "description": "Motherhost ist ein Webhosting-Unternehmen aus Indien, das Hosting-Dienste wie Shared Hosting, VPS Hosting, Dedicated Servers und Cloud Hosting anbietet.",
-    "history": "Motherhost ist ein indisches Webhosting-Unternehmen, das seit 2009 Shared, VPS, Dedicated, Cloud und WordPress Hosting anbietet. Es wirbt mit 99,99 % Uptime und nutzt NGINX Plus mit reinem SSD-Speicher. Die Kundschaft besteht vor allem aus indischen und südasiatischen SMBs.",
+    "history": "Motherhost ist ein indisches Webhosting-Unternehmen, das seit 2009 Shared, VPS, Dedicated, Cloud und WordPress Hosting anbietet. Es wirbt mit 99,99 % Uptime und nutzt NGINX Plus mit reinem SSD-Speicher. Die Kundschaft besteht vor allem aus indischen und südasiatischen KMU.",
     "summary_abuse": "Motherhost ist ein indischer Shared-Webhosting-Anbieter. Wie bei anderen günstigen Shared-Hosting-Anbietern können Teile seines IP-Raums von bösartigen Mietern für Phishing-Seiten oder spamverlinkte Sites genutzt werden. Konkrete Vorfälle, die Motherhost selbst zugeschrieben werden, sind nicht dokumentiert."
   },
   "Motion": {

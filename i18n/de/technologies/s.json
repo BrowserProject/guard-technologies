@@ -155,7 +155,7 @@
   },
   "Salesloft": {
     "description": "Salesloft ist eine cloudbasierte Sales-Engagement-Plattform.",
-    "history": "Salesloft wurde 2011 in Atlanta, Georgia, gegründet. Es ist eine cloudbasierte Sales-Engagement-Plattform, ging 2021 an die Börse und fusionierte 2023 später mit Drift unter der Marke Salesloft.",
+    "history": "Salesloft wurde 2011 in Atlanta, Georgia, gegründet. Die cloudbasierte Sales-Engagement-Plattform ging 2021 an die Börse und schloss sich 2023 unter der Marke Salesloft mit Drift zusammen.",
     "summary_abuse": "Salesloft ist eine Enterprise-Sales-Engagement-Plattform ohne auffälliges Missbrauchssignal; sie bedient legitime Vertriebsorganisationen und ist kein Betrugsvektor."
   },
   "Salesmachine": {
@@ -166,7 +166,7 @@
   "SALESmanago": {
     "description": "SALESmanago ist eine No-Code-Plattform für Marketing-Automatisierung und Kundendaten, die für mittelgrosse Unternehmen und Grossunternehmen entwickelt wurde.",
     "history": "SALESmanago wurde 2011 in Krakau, Polen, als Plattform für Marketing-Automatisierung und CDP gegründet und richtet sich an mittelgrosse Unternehmen und Enterprises. Es ist einer der grössten Anbieter für Marketing-Automatisierung in Mittel- und Osteuropa. Grössere Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "SALESmanago ist eine B2B-Plattform für Marketing-Automatisierung und Kundendaten. Als stark ad-tech- und e-mail-orientiertes Tool verarbeitet sie umfangreiche Verhaltensdaten von Kunden und trägt, wie die meisten Marketing-Automation-Plattformen, ein allgemeines Risiko für Spam-Kampagnen. Spezifisch dokumentierte Missbrauchsfälle sind nicht bekannt."
+    "summary_abuse": "SALESmanago ist eine B2B-Plattform für Marketing-Automatisierung und Kundendaten. Als stark auf Ad-Tech und E-Mail-Marketing ausgerichtetes Tool verarbeitet sie umfangreiche Verhaltensdaten von Kunden und trägt, wie die meisten Marketing-Automation-Plattformen, ein allgemeines Risiko für Spam-Kampagnen. Spezifisch dokumentierte Missbrauchsfälle sind nicht bekannt."
   },
   "SalesMatch": {
     "description": "SalesMatch ist eine Business-Automation-Plattform, die Abläufe über integrierte Anwendungen verschlankt und Prozessmanagement sowie Wachstum optimiert.",
@@ -288,7 +288,7 @@
   "Sare": {
     "description": "Sare ist eine Marketing-Automation-Plattform, die gezielte E-Mail-Kampagnen nutzt, um Kundenbeziehungen zu stärken und Markentreue zu erhöhen.",
     "history": "Sare wurde um 2005 in Polen als E-Mail-Marketing-Plattform gegründet. Später wurde es Teil der Digitree Group S.A., einer börsenkotierten Marketingtechnologie-Gruppe an der Warschauer Börse. Die Plattform entwickelte sich zu einer Omnichannel-Kommunikationslösung für E-Mail, SMS, Web Push und RCS und gibt an, 70 % der polnischen Banken zu ihren Kunden zu zählen. Es sind keine nennenswerten Übernahmen, Forks oder öffentlichen Kontroversen bekannt.",
-    "summary_abuse": "SARE ist eine professionelle Massenkommunikationsplattform für E-Mail, SMS und RCS mit starken Anti-Abuse-Kontrollen; sie veröffentlicht eine detaillierte Anti-Spam-Richtlinie, verlangt Double-Opt-in-Einwilligung, prüft Senderidentitäten und verbietet gekaufte oder gemietete Mailinglisten. Verstösse führen zu Kontosperrung oder Kündigung und können an Strafverfolgungsbehörden weitergeleitet werden. Die Kundenbasis wird von regulierten Einrichtungen wie Banken, Versicherern und Gesundheitsorganisationen geprägt, die strikte Compliance benötigen, was die Missbrauchsfläche begrenzt. Wie jeder Massen-E-Mail-Dienst könnte der Service theoretisch für Spam missbraucht werden, aktive Durchsetzung und KYC-Anforderungen halten den Missbrauch im Verhältnis zur legitimen Nutzung jedoch niedrig. Ein eigener Kanal für Abuse-Meldungen ist verfügbar."
+    "summary_abuse": "SARE ist eine professionelle Massenkommunikationsplattform für E-Mail, SMS und RCS mit starken Anti-Abuse-Kontrollen; sie veröffentlicht eine detaillierte Anti-Spam-Richtlinie, verlangt Double-Opt-in-Einwilligung, prüft Senderidentitäten und verbietet gekaufte oder gemietete Mailinglisten. Verstösse führen zu Kontosperrung oder Kündigung und können an Strafverfolgungsbehörden weitergeleitet werden. Die Kundenbasis wird von regulierten Einrichtungen wie Banken, Versicherern und Gesundheitsorganisationen geprägt, die strikte Compliance benötigen, was die Missbrauchsfläche begrenzt. Wie jeder Massen-E-Mail-Dienst könnte der Service theoretisch für Spam missbraucht werden, aktive Durchsetzung und KYC-Anforderungen halten den Missbrauch im Verhältnis zur legitimen Nutzung jedoch gering. Ein eigener Kanal für Abuse-Meldungen ist verfügbar."
   },
   "Sarka-SPIP": {
     "history": "Sarka-SPIP ist ein Template-Skeleton für das französische SPIP CMS, erstellt vom französischen Entwickler _Eric_ (Éric Lemoine) und erstmals um 2006 veröffentlicht. Es entwickelte sich über mehr als 15 Jahre durch vier grosse Zweige weiter und folgte den SPIP-CMS-Releases. Das Projekt wird unter GPLv3 verteilt und blieb ein unabhängiges Community-Projekt ohne Unternehmensunterstützung oder Eigentümerwechsel.",
@@ -345,7 +345,7 @@
   },
   "SberCRM": {
     "description": "SberCRM ist ein Customer-Relationship-Management-System, das Unternehmen beim Verwalten von Leads, Nachverfolgen von Kundeninteraktionen und Umwandeln von Interessenten in Verkäufe unterstützt.",
-    "history": "SberCRM wurde von Sber Business Soft, einer Tochtergesellschaft von Sberbank, Russlands grösster Bank, für den russischen CRM-Markt entwickelt. Das Produkt konzentrierte sich zunächst auf Vertriebsmanagement und wurde später auf Immobilien, Ausschreibungsmanagement und Enterprise-Low-Code-Anpassung ausgeweitet. Im April 2026 wurde die Muttergesellschaft im Rahmen einer breiteren Umstrukturierung des nichtfinanziellen Geschäftsdienstleistungs-Ökosystems von Sber in Sber2B AI umbenannt. Das Unternehmen besitzt seit März 2022 eine russische IT-Akkreditierung.",
+    "history": "SberCRM wurde von Sber Business Soft, einer Tochtergesellschaft von Sberbank, Russlands grösster Bank, für den russischen CRM-Markt entwickelt. Das Produkt konzentrierte sich zunächst auf Vertriebsmanagement und wurde später auf Immobilien, Ausschreibungsmanagement und Enterprise-Low-Code-Anpassung ausgeweitet. Im April 2026 wurde die Muttergesellschaft in Sber2B AI umbenannt, im Zuge einer umfassenderen Neuordnung des Sber-Ökosystems für nichtfinanzielle Unternehmensdienstleistungen. Das Unternehmen besitzt seit März 2022 eine russische IT-Akkreditierung.",
     "summary_abuse": "SberCRM ist eine Business-CRM-Plattform ohne auffälliges Missbrauchssignal. Für die Registrierung ist eine Geschäftsregistrierung (INN/Tax ID) erforderlich, und die Plattform bedient primär legitime B2B-Kunden im russischen Markt. Als cloudgehostetes SaaS-CRM auf russischer Cloud-Infrastruktur (ООО Облачные технологии) entspricht ihr Missbrauchsrisiko dem eines üblichen Business-Tools. Die regulatorische Aufsicht über Sberbank schafft eine Compliance-Basis. Es gibt keine dokumentierten Muster, dass SberCRM für Phishing, Scams oder Betrug genutzt wird."
   },
   "Scala": {
@@ -356,12 +356,12 @@
   "Scalapay": {
     "description": "Scalapay ist eine Zahlungsmethode für Ecommerce-Händler in Europa, mit der Kunden jetzt kaufen und später zahlen können (BNPL).",
     "history": "Scalapay wurde 2019 von Simone Mancini und Johnny Mitrevski in Mailand, Italien, als BNPL-Zahlungsmethode für europäischen Ecommerce gegründet. Das Unternehmen nahm 155 Millionen US-Dollar in einer Series A und anschliessend 497 Millionen US-Dollar in einer von Tencent geführten Series B auf und wurde damit Italiens erstes Unicorn. 2025 investierte die Europäische Investitionsbank 70 Millionen Euro.",
-    "summary_abuse": "Scalapay ist ein BNPL-Zahlungsanbieter mit einem moderaten Betrugsrisiko, das dem Buy-now-pay-later-Sektor inhärent ist. BNPL-Dienste werden von Betrügern mit gestohlenen Identitäten angegriffen, um Einkäufe ohne Rückzahlung zu tätigen; Scalapay mindert dies mit Identitätsprüfung und Risk Scoring. Spezifische ungewöhnliche Missbrauchsfälle über übliche BNPL-Betrugsmuster hinaus sind nicht dokumentiert."
+    "summary_abuse": "Scalapay ist ein BNPL-Zahlungsanbieter mit einem moderaten Betrugsrisiko, das dem Buy-now-pay-later-Sektor inhärent ist. BNPL-Dienste werden von Betrügern mit gestohlenen Identitäten angegriffen, um Einkäufe ohne Rückzahlung zu tätigen; Scalapay mindert dies mit Identitätsprüfung und Risikobewertung. Spezifische ungewöhnliche Missbrauchsfälle über übliche BNPL-Betrugsmuster hinaus sind nicht dokumentiert."
   },
   "Scalar": {
     "description": "Scalar ist eine Plattform mit Tools für API-Dokumentation, Tests und Discovery mit starker Unterstützung für OpenAPI-Standards.",
     "history": "Scalar wurde um 2021 als API Documentation, Inc. gegründet und wird von CEO Marc Laventure geführt. Das Unternehmen baute eine Open-Source-Plattform für API-Referenzen und Dokumentation, die im API-Ökosystem rasch Verbreitung fand, 15'000 GitHub-Stars erreichte und von Frameworks wie ElysiaJS, Nitro und Litestar als Standard-Dokumentations-UI übernommen wurde. Das Produkt entwickelte sich von einem API-Referenz-Renderer zu einer vollständigen Plattform mit API-Client, Registry, SDK-Generierung und gehosteter Dokumentation. Öffentliche Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Scalar ist eine Plattform für API-Dokumentation und Tests mit begrenzter Missbrauchsfläche; sie dient primär Entwicklern, die API-Referenzen und Dokumentation erstellen, sie hostet keine nutzergenerierten Inhalte, ermöglicht keine anonyme Kommunikation und bietet keinen Free Tier mit Custom-Domain-Hosting, den Betrüger typischerweise ausnutzen. Die Open-Source-Komponenten werden von Nutzern selbst gehostet. Scalar veröffentlicht eine Datenschutzerklärung, nutzt Fathom Analytics mit Datenschutzfokus und verarbeitet Zahlungen über Stripe, das PCI-DSS-konform ist. Auffällige Missbrauchsfälle sind öffentlich nicht dokumentiert."
+    "summary_abuse": "Scalar ist eine Plattform für API-Dokumentation und Tests mit begrenzter Missbrauchsfläche; sie dient primär Entwicklern, die API-Referenzen und Dokumentation erstellen. Sie hostet keine nutzergenerierten Inhalte, ermöglicht keine anonyme Kommunikation und bietet keinen Free Tier mit Custom-Domain-Hosting, den Betrüger typischerweise ausnutzen. Die Open-Source-Komponenten werden von Nutzern selbst gehostet. Scalar veröffentlicht eine Datenschutzerklärung, nutzt Fathom Analytics mit Datenschutzfokus und verarbeitet Zahlungen über Stripe, das PCI-DSS-konform ist. Auffällige Missbrauchsfälle sind öffentlich nicht dokumentiert."
   },
   "Scalefast": {
     "description": "Scalefast ist eine ausgelagerte Ecommerce-Lösung, mit der globale Ecommerce-Angebote für Marken aufgebaut und betrieben werden, einschliesslich Kundenbindungsprogrammen.",
@@ -404,7 +404,7 @@
     "summary_abuse": "ScheduleAnyone ist eine Nischenplattform für geschäftliche Terminplanung ohne dokumentierte Missbrauchsgeschichte."
   },
   "Schema App": {
-    "description": "Schema App ist ein Tool, das Website-Inhalte in Schema Markup umwandelt, die Sprache der Suche.",
+    "description": "Schema App ist ein Tool, das Website-Inhalte in Schema-Markup übersetzt, also in die Sprache der Suchmaschinen.",
     "history": "Hunch Manifest wurde 2011 von Mark van Berkel gegründet, um Produkte für semantische Technologien zu entwickeln. Schema App startete offiziell 2016 als Enterprise-Plattform für Schema Markup, mit Mark und Martha van Berkel als Mitgründern. Das Unternehmen bleibt unabhängig und privat gehalten als Hunch Manifest Inc mit Sitz in Guelph, Ontario, Kanada. Seit dem Start sind keine auffälligen Eigentümerwechsel, Übernahmen oder Abkündigungen bekannt.",
     "summary_abuse": "Schema App zeigt nur minimale Missbrauchssignale. Es ist eine Enterprise-SaaS-Plattform zur Erzeugung von Schema Markup und Verwaltung von Knowledge Graphs, die serverseitig auf Kundenwebsites eingesetzt wird. Es gibt keine kostenlose Stufe, keine anonyme Registrierung und kein Hosting nutzergenerierter Inhalte unter eigenen Domains. Die Plattform bedient regulierte Unternehmenskunden, darunter Finanz- und Gesundheitseinrichtungen, mit Verträgen und Onboarding. SOC 2 Type II weist auf operative Sicherheitskontrollen hin. Öffentliche Dokumentationen zu Missbrauchsfällen oder Phishing- beziehungsweise Scam-Bezügen sind nicht bekannt."
   },
@@ -523,7 +523,7 @@
   "Searchspring": {
     "description": "Searchspring ist eine Plattform für Site Search und Merchandising im E-Commerce.",
     "history": "Searchspring wurde 2007 von Gareth Dismore und Scott Zielinski als eigenfinanzierte E-Commerce-Such- und Merchandising-Plattform gegründet. 2019 wurde das Unternehmen von der Venture-Equity-Firma Scaleworks übernommen und erhielt 2022 eine strategische Wachstumsinvestition von PSG.",
-    "summary_abuse": "Searchspring zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für E-Commerce-Suche und Merchandising, genutzt von Marken und Händlern, ohne verbrauchernahe oder content-hostende Funktionen, die Betrüger anziehen würden."
+    "summary_abuse": "Searchspring zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für E-Commerce-Suche und Merchandising, genutzt von Marken und Händlern; sie bietet weder verbrauchernahe Funktionen noch Content-Hosting, das Betrüger anziehen würde."
   },
   "Searchtap": {
     "description": "Searchtap ist eine gehostete Search-as-a-Service-Plattform, mit der Websites schnelle und skalierbare Suchfunktionen integrieren können.",
@@ -653,7 +653,7 @@
   "Seline": {
     "description": "Seline ist eine cookielose Plattform für Website- und Produkt-Analytics.",
     "history": "Seline ist eine cookielose Web- und Produkt-Analytics-Plattform und ein neuerer Anbieter im Privacy-first-Analytics-Umfeld, in Konkurrenz zu Plausible und Fathom. Der Dienst startete um 2023.",
-    "summary_abuse": "Seline ist ein datenschutzorientiertes cookieloses Analytics-Tool ohne auffälliges Missbrauchssignal. Sein Design vermeidet ausdrücklich Nutzertracking, wodurch es als Werkzeug für betrügerisches Datensammeln unwahrscheinlich ist."
+    "summary_abuse": "Seline ist ein datenschutzorientiertes cookieloses Analytics-Tool ohne auffälliges Missbrauchssignal. Sein Design verzichtet bewusst auf Nutzertracking, weshalb es sich kaum für betrügerisches Datensammeln eignet."
   },
   "Sellacious": {
     "description": "Sellacious ist eine Open-Source-E-Commerce- und Marktplatzplattform für integrierte POS- und Onlineshops.",
@@ -701,7 +701,7 @@
     "summary_abuse": "Sellfy hat als Verkaufsplattform für digitale Produkte ein mässiges Missbrauchsrisiko. Plattformen mit dateibasierter Produktauslieferung können gelegentlich für den Verkauf raubkopierter oder betrügerischer digitaler Inhalte genutzt werden. Kontoerstellung und Zahlungsprüfung begrenzen rein anonymen Missbrauch, dennoch wurden Stores im Umfeld von Piraterie beobachtet."
   },
   "Selligent": {
-    "description": "Selligent ist ein datengetriebenes Multi-Channel-Marketing-Tool, mit dem Organisationen Kundeninteraktionskampagnen über mehrere digitale Kommunikationskanäle verwalten, ausführen und analysieren können.",
+    "description": "Selligent ist ein datengetriebenes Multi-Channel-Marketing-Tool, mit dem Organisationen Kampagnen zur Kundenbindung über mehrere digitale Kommunikationskanäle verwalten, ausführen und analysieren können.",
     "history": "Selligent wurde um 1990 in Belgien als Enterprise-Plattform für Marketingautomatisierung gegründet. 2020 wurde das Unternehmen von CM Group übernommen, später in Marigold umbenannt. 2025 unterzeichnete Zeta Global eine Vereinbarung zur Übernahme des Enterprise-Softwaregeschäfts von Marigold, einschliesslich Selligent.",
     "summary_abuse": "Selligent ist eine Marketingautomatisierungsplattform, die vor allem für Massen-E-Mail und Multi-Channel-Kampagnen genutzt wird. Wie alle Bulk-E-Mail-Plattformen trägt sie ein inhärentes Spam-Risiko. Responsible-Disclosure-Prozesse und AUP-Regeln gelten, aber Bulk-E-Mail-Tools können generell missbraucht werden. Spezifische grössere öffentliche Missbrauchsfälle zu Selligent selbst sind nicht dokumentiert."
   },
@@ -733,7 +733,7 @@
   "Selly": {
     "description": "Selly ist eine E-Commerce-Plattform für den Verkauf digitaler Waren.",
     "history": "Selly ist eine E-Commerce-Plattform für digitale Waren, ähnlich wie Sellix, mit der Verkäufer die Auslieferung digitaler Produkte automatisieren können; sie richtet sich an kleine Anbieter digitaler Waren und ist seit etwa 2016 aktiv.",
-    "summary_abuse": "Selly hat als Marktplatz für digitale Waren mit Unterstützung für Kryptowährungszahlungen und relativ niedrigen KYC-Anforderungen ein moderates Missbrauchsrisiko. Plattformen dieser Art werden häufig für den Verkauf raubkopierter Software, gestohlener Konten und anderer illegaler digitaler Waren genutzt. Eine spezifische Durchsetzung auf dem Niveau von Operation Talent ist für Selly selbst nicht dokumentiert."
+    "summary_abuse": "Selly hat als Marktplatz für digitale Waren mit Unterstützung für Kryptowährungszahlungen und relativ niedrigen KYC-Anforderungen ein moderates Missbrauchsrisiko. Plattformen dieser Art werden häufig für den Verkauf raubkopierter Software, gestohlener Konten und anderer illegaler digitaler Waren genutzt. Gezielte Strafverfolgungsmassnahmen wie bei Operation Talent sind für Selly selbst nicht dokumentiert."
   },
   "Selzy": {
     "description": "Selzy ist eine E-Mail-Marketing-Plattform zum Versenden von Massen-E-Mails, Nachverfolgen von Statistiken, Durchführen von A/B-Tests und Automatisieren von Kampagnen.",
@@ -881,7 +881,7 @@
   },
   "Seon": {
     "description": "Seon ist eine globale Lösung zur Betrugsprävention, die Betrug und Geldwäscherei bekämpft, indem sie Bedrohungen entlang der gesamten Customer Journey erkennt und blockiert.",
-    "history": "SEON wurde im Januar 2017 in Budapest, Ungarn, von Tamas Kadar und Bence Jendruszak gegründet, nachdem sie beim Betrieb einer Kryptowährungsbörse mit Betrugsproblemen konfrontiert waren und daraus die Plattform entwickelten. 2021 folgte eine von Creandum geführte Series A, 2022 eine von IVP geführte Series B und im September 2025 eine 80-Millionen-US-Dollar-Series-C unter Führung von Sixth Street Partners. Das Unternehmen expandierte international mit Büros in Austin, London und Jakarta und wuchs auf über 300 Mitarbeitende sowie mehr als 5'000 Kundenunternehmen.",
+    "history": "SEON wurde im Januar 2017 in Budapest, Ungarn, von Tamas Kadar und Bence Jendruszak gegründet, nachdem sie beim Betrieb einer Kryptowährungsbörse mit Betrugsproblemen konfrontiert waren und daraufhin die Plattform entwickelten. 2021 folgte eine von Creandum geführte Series A, 2022 eine von IVP geführte Series B und im September 2025 eine 80-Millionen-US-Dollar-Series-C unter Führung von Sixth Street Partners. Das Unternehmen expandierte international mit Büros in Austin, London und Jakarta und wuchs auf über 300 Mitarbeitende sowie mehr als 5'000 Kundenunternehmen.",
     "summary_abuse": "SEON ist eine Plattform für Betrugsprävention und AML-Compliance. Ihr Zweck ist die Erkennung und Blockierung von Betrug, nicht dessen Ermöglichung. Die Plattform verarbeitet Betrugssignale für Kundenunternehmen und hat keine verbraucherorientierte Oberfläche, die von Angreifern ausgenutzt würde. SOC 2 Type 2, ISO 27001 und GDPR-Compliance weisen auf reife Sicherheits-Governance hin. Missbrauchsfälle, an denen SEON selbst beteiligt war, sind nicht dokumentiert."
   },
   "SEOPress": {
@@ -1352,7 +1352,7 @@
   "Shopline": {
     "description": "Shopline bietet Lösungen, mit denen Händler einen Online-Shop einrichten können.",
     "history": "SHOPLINE wurde 2013 in Hongkong gegründet und wuchs von einem Drei-Personen-Startup auf über 2.000 Mitarbeitende sowie mehr als 600.000 betreute Marken in Asien. 2014 wurde das Unternehmen für den 500-Startups-Accelerator ausgewählt und erhielt 2016 eine Investition des Alibaba Hong Kong Entrepreneurs Fund. Es ist die führende unabhängige E-Commerce-Plattform in Asien.",
-    "summary_abuse": "Shopline operiert hauptsächlich in Asien und bedient eine grosse Basis kleiner Händler. Wie bei jeder grossen E-Commerce-Plattform kann ein kleiner Teil der Händler sie für gefälschte oder minderwertige Waren nutzen, besonders wegen des Fokus auf grenzüberschreitenden Commerce in Asien-Pazifik-Märkten. Die Plattform bietet kein anonymes Hosting oder Content-Publishing, und Händlerkonten erfordern geschäftliche Verifikation."
+    "summary_abuse": "Shopline operiert hauptsächlich in Asien und bedient eine grosse Basis kleiner Händler. Wie bei jeder grossen E-Commerce-Plattform kann ein kleiner Teil der Händler sie für gefälschte oder minderwertige Waren nutzen, besonders wegen des Fokus auf grenzüberschreitenden Handel in Asien-Pazifik-Märkten. Die Plattform bietet kein anonymes Hosting oder Content-Publishing, und Händlerkonten erfordern geschäftliche Verifikation."
   },
   "Shoplo": {
     "description": "Shoplo ist eine All-in-One-E-Commerce-Plattform.",
@@ -1410,7 +1410,7 @@
   },
   "ShoppingGives": {
     "description": "ShoppingGives ist eine B2B-Social-E-Commerce-Plattform, mit der Unternehmen jeder Grösse über Einkäufe ihrer Kunden wohltätige Spenden auslösen können.",
-    "history": "ShoppingGives ist eine US-amerikanische B2B-Social-Commerce-Plattform, mit der E-Commerce-Unternehmen wohltätige Spenden in Einkäufe ihrer Kunden integrieren können. Ein relevantes Gründungsdatum oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "history": "ShoppingGives ist eine US-amerikanische B2B-Social-Commerce-Plattform, mit der E-Commerce-Unternehmen wohltätige Spenden in Einkäufe ihrer Kunden integrieren können. Gründungsdatum und Eigentümerwechsel sind öffentlich nicht dokumentiert.",
     "summary_abuse": "ShoppingGives weist kein auffälliges Missbrauchssignal auf. Es ist ein B2B-Tool für wohltätigen Commerce, das von geprüften Händlern eingebettet wird und keine verbrauchernahe anonyme Registrierungsfläche bietet."
   },
   "Shoppub": {
@@ -1426,7 +1426,7 @@
   "Shoprenter": {
     "description": "Shoprenter bietet eine Plattform zum Aufbau und Betrieb eines E-Commerce-Shops.",
     "history": "Shoprenter wurde 2011 in Ungarn gegründet und bot zunächst Webshop-Entwicklungsdienste an, bevor es auf ein SaaS-Abomodell umstellte. Die Plattform wuchs auf rund 20 Prozent des ungarischen E-Commerce-Markts und wurde damit zur führenden E-Commerce-Plattform des Landes. Im Juli 2021 übernahm das polnische E-Commerce-Unternehmen IAI (IdoSell) eine Mehrheitsbeteiligung von 51 Prozent an Shoprenter als Teil seiner Expansion in Mittel- und Osteuropa.",
-    "summary_abuse": "Shoprenter ist Ungarns führende E-Commerce-SaaS-Plattform und bedient vor allem legitime ungarische KMU-Händler. Als Storefront-Baukasten hat sie theoretisch Berührungspunkte mit Fake-Shop-Erstellung, konzentriert sich aber auf den ungarischen Markt mit Zahlungs- und Rechtsanforderungen, die anonymen Missbrauch senken. Öffentlich dokumentierte Phishing-Kampagnen oder Betrugsvorfälle über Shoprenter-Infrastruktur sind nicht bekannt."
+    "summary_abuse": "Shoprenter ist Ungarns führende E-Commerce-SaaS-Plattform und bedient vor allem legitime ungarische KMU-Händler. Als Storefront-Baukasten hat sie theoretisch Berührungspunkte mit Fake-Shop-Erstellung, konzentriert sich aber auf den ungarischen Markt mit Zahlungs- und Rechtsanforderungen, die anonymen Missbrauch erschweren. Öffentlich dokumentierte Phishing-Kampagnen oder Betrugsvorfälle über Shoprenter-Infrastruktur sind nicht bekannt."
   },
   "Shoprocket": {
     "description": "Shoprocket ist eine Lösung, die E-Commerce-Funktionen in bestehende Websites integriert, sodass Unternehmen online verkaufen können, ohne ihre Website vollständig neu aufzubauen.",
@@ -1479,119 +1479,119 @@
     "summary_abuse": "Shoptimized hat kein Missbrauchssignal. Es ist ein Shopify-Theme-Produkt ohne verbrauchernahe Hosting- oder anonyme Registrierungsfläche."
   },
   "Shoptrader": {
-    "description": "Shoptrader ist eine niederlaendische Shoplösung, die eine Plattform zum Erstellen und Verwalten von Online-Shops bietet.",
-    "history": "Shoptrader ist eine niederlaendische Ecommerce-Plattform mit Werkzeugen zum Erstellen und Verwalten von Online-Shops für niederlaendische Händler. Ein auffaelliges Gründungsdatum oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Shoptrader zeigt kein auffaelliges Missbrauchssignal. Es ist eine kleine niederlaendische Ecommerce-Plattform, die vor allem lokale Händler unter GDPR- und EU-Anforderungen bedient."
+    "description": "Shoptrader ist eine niederländische Shoplösung, die eine Plattform zum Erstellen und Verwalten von Online-Shops bietet.",
+    "history": "Shoptrader ist eine niederländische Ecommerce-Plattform mit Werkzeugen zum Erstellen und Verwalten von Online-Shops für niederländische Händler. Ein auffälliges Gründungsdatum oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Shoptrader zeigt kein auffälliges Missbrauchssignal. Es ist eine kleine niederländische Ecommerce-Plattform, die vor allem lokale Händler unter GDPR- und EU-Anforderungen bedient."
   },
   "ShopVOX": {
     "description": "ShopVOX ist eine webbasierte Plattform für Anbieter kundenspezifischer Fertigung.",
     "history": "ShopVOX begann als SignVOX, eine Geschäftsmanagement-Lösung für die Schilderbranche, und wurde 2014 in ShopVOX umbenannt, um den Fokus auf kundenspezifische Fertiger wie Druckereien, Siebdruck- und Schilderbetriebe zu erweitern. Die Plattform wird von TechVOX, Inc. betrieben und bietet cloudbasierte Auftragsverwaltungssoftware mit Integrationen wie QuickBooks.",
-    "summary_abuse": "ShopVOX zeigt kein auffaelliges Missbrauchssignal. Es ist eine spezialisierte B2B-SaaS-Plattform für die Verwaltung von Druck- und Schilderbetrieben und wird ausschliesslich von Fachunternehmen genutzt. Das geschlossene, abonnementbasierte Modell mit Geschäftskunden-Onboarding bietet kaum sinnvolle anonyme oder verbraucherorientierte Missbrauchsfläche."
+    "summary_abuse": "ShopVOX zeigt kein auffälliges Missbrauchssignal. Es ist eine spezialisierte B2B-SaaS-Plattform für die Verwaltung von Druck- und Schilderbetrieben und wird ausschliesslich von Fachunternehmen genutzt. Das geschlossene, abonnementbasierte Modell mit Geschäftskunden-Onboarding bietet keine nennenswerte anonyme oder verbraucherorientierte Missbrauchsfläche."
   },
   "Shopware": {
     "description": "Shopware ist eine Ecommerce-Plattform für den Enterprise-Einsatz.",
-    "history": "Shopware wurde 2000 im deutschen Schoppingen von den Bruedern Stefan und Sebastian Hamann gegründet. Mit der Veröffentlichung von Shopware 4.0 wurde die Plattform 2012 unter einer AGPL-Lizenz Open Source. Unter den 1'000 groessten deutschen B2C-Online-Shops ist Shopware Marktführer. Shopware 6.0 erschien 2019 als vollständige, headless und API-first ausgerichtete Neuentwicklung der Plattform.",
-    "summary_abuse": "Shopware zeigt kein auffaelliges Missbrauchssignal über die normalen Risiken einer verbreiteten Ecommerce-Plattform hinaus. Da die Open-Source-Plattform selbst gehostet werden kann, haengen Missbrauchsmerkmale davon ab, wie Betreiber ihre Installationen konfigurieren und absichern. Es sind keine breit dokumentierten Scam- oder Phishing-Kampagnen bekannt, die gezielt Shopware-Shops betreffen."
+    "history": "Shopware wurde 2000 im deutschen Schoppingen von den Brüdern Stefan und Sebastian Hamann gegründet. Mit der Veröffentlichung von Shopware 4.0 wurde die Plattform 2012 unter einer AGPL-Lizenz Open Source. Unter den 1'000 grössten deutschen B2C-Online-Shops ist Shopware Marktführer. Shopware 6.0 erschien 2019 als vollständige, headless und API-first ausgerichtete Neuentwicklung der Plattform.",
+    "summary_abuse": "Shopware zeigt kein auffälliges Missbrauchssignal über die normalen Risiken einer verbreiteten Ecommerce-Plattform hinaus. Da die Open-Source-Plattform selbst gehostet werden kann, hängen Missbrauchsmerkmale davon ab, wie Betreiber ihre Installationen konfigurieren und absichern. Es sind keine breit dokumentierten Scam- oder Phishing-Kampagnen bekannt, die gezielt Shopware-Shops betreffen."
   },
   "ShopWired": {
-    "description": "ShopWired ist eine voll gehostete Ecommerce-Plattform aus dem Vereinigten Koenigreich mit Fokus auf den britischen Markt.",
-    "history": "ShopWired wurde 2012 gegründet und wird von Platform 21 Ltd mit Sitz in Sutton Coldfield, Vereinigtes Koenigreich, betrieben. Die Plattform wurde gezielt als voll gehostete Ecommerce-Lösung für britische KMU-Händler entwickelt und konkurriert im britischen Markt mit Shopify und BigCommerce. Auffaellige Eigentümerwechsel oder Übernahmen gab es nicht; die Plattform bleibt unabhängig betrieben und verzeichnete Berichten zufolge 2024 und 2025 weiter wachsende Händlerzahlen.",
-    "summary_abuse": "ShopWired ist eine auf das Vereinigte Koenigreich ausgerichtete gehostete Ecommerce-Plattform, die vor allem von kleinen britischen Händlern für legitime Waren genutzt wird. Wie jede SaaS zur Erstellung von Shops könnte sie theoretisch Fake-Shops hosten, sie zielt aber auf den regulierten britischen Markt, erfordert Zahlungseinrichtung und zeigt kein dokumentiertes Missbrauchsmuster. Der Anbieter veröffentlicht Nutzungsbedingungen und richtet sich an kleine Unternehmen statt an anonyme Nutzer. Öffentlich sind keine auffaelligen Betrugs- oder Phishing-Vorfälle bekannt."
+    "description": "ShopWired ist eine voll gehostete Ecommerce-Plattform aus dem Vereinigten Königreich mit Fokus auf den britischen Markt.",
+    "history": "ShopWired wurde 2012 gegründet und wird von Platform 21 Ltd mit Sitz in Sutton Coldfield, Vereinigtes Königreich, betrieben. Die Plattform wurde gezielt als voll gehostete Ecommerce-Lösung für britische KMU-Händler entwickelt und konkurriert im britischen Markt mit Shopify und BigCommerce. Auffällige Eigentümerwechsel oder Übernahmen gab es nicht; die Plattform bleibt unabhängig betrieben und verzeichnete Berichten zufolge 2024 und 2025 weiter wachsende Händlerzahlen.",
+    "summary_abuse": "ShopWired ist eine auf das Vereinigte Königreich ausgerichtete gehostete Ecommerce-Plattform, die vor allem von kleinen britischen Händlern für legitime Waren genutzt wird. Wie jede SaaS zur Erstellung von Shops könnte sie theoretisch Fake-Shops hosten, sie zielt aber auf den regulierten britischen Markt, erfordert Zahlungseinrichtung und zeigt kein dokumentiertes Missbrauchsmuster. Der Anbieter veröffentlicht Nutzungsbedingungen und richtet sich an kleine Unternehmen statt an anonyme Nutzer. Öffentlich sind keine auffälligen Betrugs- oder Phishing-Vorfälle bekannt."
   },
   "ShopX": {
     "description": "ShopX ist eine Ecommerce-Plattform, mit der hyperlokale Unternehmen online verkaufen können.",
-    "history": "ShopX (10i Commerce Services Pvt Ltd) wurde 2015 in Bengaluru, Indien, von Amit Sharma und Apoorva Jois gegründet, um hyperlokale Händler sowie Händler in Tier-2- und Tier-3-Staedten Indiens digital zu befähigen. Das Unternehmen erhielt VC-Finanzierung und erreichte kurzzeitig eine Bewertung nahe 100 Millionen US-Dollar, meldete jedoch im August 2022 Insolvenz an, nachdem keine nachhaltige Unit Economics erreicht wurden.",
-    "summary_abuse": "ShopX zeigt kein auffaelliges Missbrauchssignal. Die Plattform war B2B-orientiert und richtete sich an kleine indische Händler und Kirana-Laeden; sie stellte 2022 den Betrieb ein, und es sind keine dokumentierten Faelle bekannt, in denen sie für Phishing oder Scams ausgenutzt wurde."
+    "history": "ShopX (10i Commerce Services Pvt Ltd) wurde 2015 in Bengaluru, Indien, von Amit Sharma und Apoorva Jois gegründet, um hyperlokale Händler sowie Händler in Tier-2- und Tier-3-Städten Indiens digital zu befähigen. Das Unternehmen erhielt VC-Finanzierung und erreichte kurzzeitig eine Bewertung nahe 100 Millionen US-Dollar, meldete jedoch im August 2022 Insolvenz an, nachdem das Geschäftsmodell keine tragfähige Wirtschaftlichkeit erreicht hatte.",
+    "summary_abuse": "ShopX zeigt kein auffälliges Missbrauchssignal. Die Plattform war B2B-orientiert und richtete sich an kleine indische Händler und Kirana-Läden; sie stellte 2022 den Betrieb ein, und es sind keine dokumentierten Fälle bekannt, in denen sie für Phishing oder Scams ausgenutzt wurde."
   },
   "Shore": {
     "description": "Shore ist eine Terminverwaltungssoftware, die Planung und Organisation für Unternehmen vereinfacht.",
     "history": "Shore wurde 2012 in Deutschland als Software für Terminverwaltung und Planung in Dienstleistungsbetrieben gegründet. Das Produkt wird in Deutschland entwickelt und vermarktet sich als GDPR-konform.",
-    "summary_abuse": "Shore zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Plattform für Terminplanung, die von Dienstleistungsbetrieben wie Salons und Praxen genutzt wird. Es gibt kein verbraucherorientiertes Content-Hosting und keine anonyme Angriffs- oder Missbrauchsfläche."
+    "summary_abuse": "Shore zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Terminplanung, die von Dienstleistungsbetrieben wie Salons und Praxen genutzt wird. Es gibt kein verbraucherorientiertes Content-Hosting und keine Möglichkeit zur anonymen Registrierung."
   },
   "Shortcodes Ultimate": {
     "description": "Shortcodes Ultimate ist eine umfangreiche Sammlung visueller Komponenten für WordPress.",
-    "history": "Shortcodes Ultimate ist ein beliebtes WordPress-Plugin von Vladimir Anokhin, das eine grosse Sammlung visueller UI-Komponenten über WordPress-Shortcodes bereitstellt. Es ist seit über einem Jahrzehnt auf WordPress.org verfuegbar und hat Millionen aktiver Installationen.",
-    "summary_abuse": "Shortcodes Ultimate ist ein weit verbreitetes WordPress-Plugin ohne auffaelliges Missbrauchssignal. Es ist eine Bibliothek zur Darstellung von Inhalten ohne externe Hosting-Fläche."
+    "history": "Shortcodes Ultimate ist ein beliebtes WordPress-Plugin von Vladimir Anokhin, das eine grosse Sammlung visueller UI-Komponenten über WordPress-Shortcodes bereitstellt. Es ist seit über einem Jahrzehnt auf WordPress.org verfügbar und hat Millionen aktiver Installationen.",
+    "summary_abuse": "Shortcodes Ultimate ist ein weit verbreitetes WordPress-Plugin ohne auffälliges Missbrauchssignal. Es ist eine Bibliothek zur Darstellung von Inhalten ohne externe Hosting-Fläche."
   },
   "Shortly": {
-    "description": "Shortly hilft, kurze URLs für Influencer-Marketing, Social-Media-Beitraege und E-Mail-Marketingkampagnen mit der eigenen Shop-Domain zu erstellen.",
+    "description": "Shortly hilft, kurze URLs für Influencer-Marketing, Social-Media-Beiträge und E-Mail-Marketingkampagnen mit der eigenen Shop-Domain zu erstellen.",
     "history": "Shortly ist ein URL-Shortener und Link-Management-Tool, das als Shopify-App für Influencer-Marketing und Social Media vertrieben wird. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "Shortly ist ein URL-Shortener. URL-Shortener tragen grundsaetzlich ein moderates Missbrauchsrisiko, weil sie Ziele von Phishing- oder Malware-Links verschleiern können. Für diesen Anbieter sind keine spezifischen Missbrauchsvorfälle dokumentiert."
+    "summary_abuse": "Shortly ist ein URL-Shortener. URL-Shortener tragen grundsätzlich ein moderates Missbrauchsrisiko, weil sie Ziele von Phishing- oder Malware-Links verschleiern können. Für diesen Anbieter sind keine spezifischen Missbrauchsvorfälle dokumentiert."
   },
   "ShortPixel Image Optimizer": {
     "description": "ShortPixel Image Optimizer ist ein schlankes WordPress-Plugin, das alle Bilder und PDF-Dokumente deiner Website komprimieren kann.",
-    "history": "ShortPixel Image Optimizer ist ein WordPress-Plugin und Dienst zur Bildkomprimierung. Er wurde etwa 2015 gegründet, vermutlich in Rumaenien. Das Angebot umfasst ein WordPress-Plugin als Frontend und eine cloudbasierte Komprimierungs-API. Auffaellige Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "ShortPixel zeigt kein Missbrauchssignal. Es ist ein Dienst zur Bildoptimierung für WordPress-Websites ohne verbraucherorientiertes Content-Hosting oder anonyme Registrierungsfläche, die Missbrauch anziehen wuerde."
+    "history": "ShortPixel Image Optimizer ist ein WordPress-Plugin und Dienst zur Bildkomprimierung. Er wurde etwa 2015 gegründet, vermutlich in Rumänien. Das Angebot umfasst ein WordPress-Plugin als Frontend und eine cloudbasierte Komprimierungs-API. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "ShortPixel zeigt kein Missbrauchssignal. Es ist ein Dienst zur Bildoptimierung für WordPress-Websites ohne verbraucherorientiertes Content-Hosting oder anonyme Registrierungsfläche, die Missbrauch anziehen würde."
   },
   "ShoutCMS": {
     "description": "ShoutCMS ist ein Web-Content-Management-System (CMS), mit dem Nutzer Websites erstellen und verwalten können.",
-    "history": "ShoutCMS wurde etwa 2008 gegründet und hat seinen Hauptsitz in Edmonton, Alberta, Kanada. Es wurde als All-in-One-Alternative zu WordPress und Squarespace entwickelt und kombiniert Website-Builder, Ecommerce, CRM, Rechnungsstellung und E-Mail-Marketing in einer einzigen gehosteten Plattform. Das Unternehmen blieb unabhängig, ohne auffaellige Übernahmen oder Rebrandings.",
+    "history": "ShoutCMS wurde etwa 2008 gegründet und hat seinen Hauptsitz in Edmonton, Alberta, Kanada. Es wurde als All-in-One-Alternative zu WordPress und Squarespace entwickelt und kombiniert Website-Builder, Ecommerce, CRM, Rechnungsstellung und E-Mail-Marketing in einer einzigen gehosteten Plattform. Das Unternehmen blieb unabhängig, ohne auffällige Übernahmen oder Rebrandings.",
     "summary_abuse": "ShoutCMS ist ein kleiner kanadischer All-in-One-Website-Builder und CMS ohne dokumentiertes Missbrauchsmuster. Ecommerce- und Website-Hosting-Funktionen könnten theoretisch Fake-Shops ermöglichen, die Plattform wird aber vor allem von kleinen nordamerikanischen Unternehmen genutzt. Öffentlich sind keine Phishing-Kampagnen oder Betrugsvorfälle bekannt, die ShoutCMS nutzen."
   },
   "ShoutOut": {
     "description": "ShoutOut ist eine Multi-Level-Marketing-SaaS-Lösung zur Nachverfolgung von Affiliates.",
-    "history": "ShoutOut ist eine SaaS-Lösung für Multi-Level-Marketing und Affiliate-Tracking; sie wirkt wie ein kleines unabhängiges Startup; ein auffaelliges Gründungsdatum oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "ShoutOut ist eine Plattform für Affiliate- und MLM-Tracking. Affiliate-Marketing-Plattformen bringen grundsaetzlich ein gewisses Risiko für Klickbetrug oder irreführende Provisionsversprechen mit sich, auch wenn keine dokumentierten Faelle speziell zu ShoutOut bekannt sind. MLM-Strukturen können zudem pyramidenmodellnahe Werbung beguenstigen."
+    "history": "ShoutOut ist eine SaaS-Lösung für Multi-Level-Marketing und Affiliate-Tracking; sie wirkt wie ein kleines unabhängiges Startup; ein auffälliges Gründungsdatum oder Eigentümerwechsel sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "ShoutOut ist eine Plattform für Affiliate- und MLM-Tracking. Affiliate-Marketing-Plattformen bringen grundsätzlich ein gewisses Risiko für Klickbetrug oder irreführende Provisionsversprechen mit sich, auch wenn keine dokumentierten Fälle speziell zu ShoutOut bekannt sind. MLM-Strukturen können zudem pyramidenmodellnahe Werbung begünstigen."
   },
   "Shoutout Testimonial": {
     "description": "Shoutout Testimonial ist eine Plattform, mit der Unternehmen Kundenreferenzen sammeln und über einen einfachen, schlanken Prozess auf ihren Websites anzeigen können.",
-    "history": "Shoutout Testimonial ist eine Plattform für Unternehmen zum Sammeln und Anzeigen von Kundenreferenzen; sie scheint von einem kleinen Team in Sri Lanka betrieben zu werden. Öffentlich sind nur wenige Gründungsinformationen verfuegbar.",
+    "history": "Shoutout Testimonial ist eine Plattform für Unternehmen zum Sammeln und Anzeigen von Kundenreferenzen; sie scheint von einem kleinen Team in Sri Lanka betrieben zu werden. Öffentlich sind nur wenige Gründungsinformationen verfügbar.",
     "summary_abuse": "Shoutout Testimonial ist ein spezialisiertes Tool für Testimonial-Management ohne dokumentiertes Missbrauchssignal. Der B2B-Fokus und das Fehlen anonymen Content-Hostings machen das Betrugsrisiko gering."
   },
   "Show Recent Orders": {
     "description": "Show Recent Orders ist ein System, das aktuelle Bestellungen per Pop-up anzeigt, Echtzeit-Verkaufsupdates liefert und potenziell Conversions steigert.",
     "history": "Show Recent Orders ist ein Social-Proof-Pop-up-Widget für Ecommerce-Websites, betrieben von Nice Team. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "Show Recent Orders ist ein Social-Proof-Widget ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "Show Recent Orders ist ein Social-Proof-Widget ohne auffälliges Missbrauchssignal."
   },
   "ShowClix": {
     "description": "ShowClix ist eine Full-Service-Plattform für Event-Ticketing mit Werkzeugen für Ticketverkauf, Event-Promotion und Teilnehmerregistrierung.",
     "history": "ShowClix wurde 2007 von Joshua Dziabiak und Lynsie Campbell in Pittsburgh, PA, als Plattform für Event-Ticketing gegründet. PSG Equity beteiligte sich als Private-Equity-Investor am Unternehmen, das heute unter der Marke Leap Event Technology operiert.",
-    "summary_abuse": "ShowClix zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Ticketing-Plattform für Events und Veranstaltungsorte, mit transaktionsbasierter Verarbeitung und ohne anonyme Registrierung, was sie für Betrüger weniger attraktiv macht."
+    "summary_abuse": "ShowClix zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Ticketing-Plattform für Events und Veranstaltungsorte, mit transaktionsbasierter Verarbeitung und ohne anonyme Registrierung, was sie für Betrüger weniger attraktiv macht."
   },
   "Showdigs": {
     "description": "Showdigs ist eine KI-gestützte Leasing-Automationsplattform, die den gesamten Vermietungstrichter effizienter machen soll.",
     "history": "Showdigs wurde 2018 in Seattle, Washington, vom PropTech-Unternehmer Kobi Bensimon gegründet und konzentriert sich auf KI-gestützte Leasing-Automatisierung für Einfamilien-Mietobjekte. Das Unternehmen sammelte über mehrere Seed-Runden hinweg rund 11,9 Millionen US-Dollar ein, darunter 3 Millionen US-Dollar Seed-Finanzierung im April 2019 und eine Seed-II-Runde über 7,4 Millionen US-Dollar im Februar 2022.",
-    "summary_abuse": "Showdigs ist eine PropTech-Plattform für Leasing-Automatisierung, die Immobilienverwaltungen bedient, ohne verbraucherorientierte Shop-Fläche und ohne dokumentiertes Missbrauchsmuster. Die Nutzerbasis besteht aus professionellen Immobilienverwaltungsunternehmen. Es gibt keine öffentlichen Berichte, dass Showdigs für Betrug, Phishing oder andere boesartige Zwecke genutzt wurde."
+    "summary_abuse": "Showdigs ist eine PropTech-Plattform für Leasing-Automatisierung, die Immobilienverwaltungen bedient, ohne verbraucherorientierte Shop-Fläche und ohne dokumentiertes Missbrauchsmuster. Die Nutzerbasis besteht aus professionellen Immobilienverwaltungsunternehmen. Es gibt keine öffentlichen Berichte, dass Showdigs für Betrug, Phishing oder andere bösartige Zwecke genutzt wurde."
   },
   "Showdown": {
     "description": "Ein in JavaScript geschriebener Konverter von Markdown nach HTML.",
-    "history": "Showdown ist ein JavaScript-Konverter von Markdown nach HTML, der urspruenglich um 2007 von John Fraser erstellt wurde und auf dem originalen Markdown-Perl-Skript von John Gruber basiert. Er wurde zu einem der meistgenutzten Markdown-Konverter im JavaScript-Oekosystem.",
+    "history": "Showdown ist ein JavaScript-Konverter von Markdown nach HTML, der ursprünglich um 2007 von John Fraser erstellt wurde und auf dem originalen Markdown-Perl-Skript von John Gruber basiert. Er wurde zu einem der meistgenutzten Markdown-Konverter im JavaScript-Ökosystem.",
     "summary_abuse": "Showdown ist eine clientseitige Bibliothek zur Darstellung von Markdown ohne verbraucherorientierte Fläche und ohne Missbrauchssignal."
   },
   "Showit": {
     "description": "Showit ist ein Drag-and-drop-Website-Builder ohne Code für Fotografen und kreative Fachleute.",
     "history": "Showit wurde etwa 2008 als Drag-and-drop-Website-Builder speziell für Fotografen und kreative Fachleute gegründet. Die Plattform gewann in der Fotografie-Community eine treue Nutzerschaft und bleibt ein unabhängiges Unternehmen.",
-    "summary_abuse": "Showit ist ein Website-Builder für Fotografen. Als Page Builder, der Nutzer-Websites hostet, besteht ein Grundrisiko für Missbrauch durch gefaelschte Unternehmensseiten, doch die fotografiespezifische Nische und das Abonnementmodell reduzieren das Potenzial für anonymen Missbrauch."
+    "summary_abuse": "Showit ist ein Website-Builder für Fotografen. Als Page Builder, der Nutzer-Websites hostet, besteht ein Grundrisiko für Missbrauch durch gefälschte Unternehmensseiten, doch die fotografiespezifische Nische und das Abonnementmodell reduzieren das Potenzial für anonymen Missbrauch."
   },
   "Shuttle": {
     "description": "Shuttle ist eine Plattform für Website-Entwicklung.",
-    "history": "Shuttle ist eine Plattform für Website-Entwicklung, die von Devisto betrieben wird. Gründungsdetails oder auffaellige Eigentümerereignisse sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Shuttle ist eine Plattform für Website-Entwicklung ohne auffaelliges Missbrauchssignal."
+    "history": "Shuttle ist eine Plattform für Website-Entwicklung, die von Devisto betrieben wird. Gründungsdetails oder auffällige Eigentümerereignisse sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Shuttle ist eine Plattform für Website-Entwicklung ohne auffälliges Missbrauchssignal."
   },
   "SIDEARM Sports": {
     "description": "SIDEARM Sports liefert Software und Technologie für Websites, Live-Statistiken und Videostreaming von Sportprogrammen in Nordamerika.",
-    "history": "SIDEARM Sports wurde gegründet, um Websites und digitale Plattformen für College-Sportprogramme bereitzustellen. Das Unternehmen wurde von Learfield übernommen, einem grossen Multimedia-Rechteunternehmen im College-Sport, und baute seine Praesenz auf hunderte NCAA-Sportabteilungen aus.",
-    "summary_abuse": "SIDEARM Sports ist ein CMS und eine digitale Plattform für College-Sportprogramme ohne auffaelliges Missbrauchssignal. Es ist eine spezialisierte B2B-Plattform für institutionelle Kunden ohne öffentliche Hosting-Fläche für Betrug."
+    "history": "SIDEARM Sports wurde gegründet, um Websites und digitale Plattformen für College-Sportprogramme bereitzustellen. Das Unternehmen wurde von Learfield übernommen, einem grossen Multimedia-Rechteunternehmen im College-Sport, und baute seine Präsenz auf hunderte NCAA-Sportabteilungen aus.",
+    "summary_abuse": "SIDEARM Sports ist ein CMS und eine digitale Plattform für College-Sportprogramme ohne auffälliges Missbrauchssignal. Es ist eine spezialisierte B2B-Plattform für institutionelle Kunden ohne öffentliche Hosting-Fläche für Betrug."
   },
   "SidePanda": {
-    "description": "SidePanda ist eine Lösung für die Verwaltung von Sicherheitsdepots für Shopify-Händler, die Deposit-Tracking, Einzug und Abstimmung in einer Plattform buendelt.",
+    "description": "SidePanda ist eine Lösung für die Verwaltung von Sicherheitsdepots für Shopify-Händler, die Deposit-Tracking, Einzug und Abstimmung in einer Plattform bündelt.",
     "history": "SidePanda Technologies wurde 2021 in Indien als Entwickler von Shopify-Apps gegründet, darunter Werkzeuge für Sicherheitsdepot-Verwaltung und Terminbuchung.",
-    "summary_abuse": "SidePanda zeigt kein auffaelliges Missbrauchssignal. Es ist ein kleiner Anbieter von Shopify-Apps ohne verbraucherorientierte Angriffsfläche, die für Betrüger interessant waere."
+    "summary_abuse": "SidePanda zeigt kein auffälliges Missbrauchssignal. Es ist ein kleiner Anbieter von Shopify-Apps ohne verbraucherorientierte Angriffsfläche, die für Betrüger interessant wäre."
   },
   "sidr": {
-    "description": "Sidr ist ein jQuery-Plugin zum Erstellen von Seitenmenues.",
-    "history": "sidr ist ein jQuery-Plugin zum Erstellen einfahrender Seitenleistenmenues, das etwa 2012 erstellt wurde. Das Projekt ist weitgehend aufgegeben.",
-    "summary_abuse": "sidr zeigt kein auffaelliges Missbrauchssignal; es ist ein kleines clientseitiges Menue-Plugin."
+    "description": "Sidr ist ein jQuery-Plugin zum Erstellen von Seitenmenüs.",
+    "history": "sidr ist ein jQuery-Plugin zum Erstellen einfahrender Seitenleistenmenüs, das etwa 2012 erstellt wurde. Das Projekt ist weitgehend aufgegeben.",
+    "summary_abuse": "sidr zeigt kein auffälliges Missbrauchssignal; es ist ein kleines clientseitiges Menü-Plugin."
   },
   "Sierra Interactive": {
     "description": "Sierra Interactive ist eine Immobilienplattform, die Immobilienfachleuten Markendifferenzierung und personalisierte Lead-Pflege ermöglicht.",
-    "history": "Sierra Interactive ist eine US-amerikanische CRM- und Website-Plattform für Immobilienfachleute, gegründet in den 2010er-Jahren; auffaellige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Sierra Interactive zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-CRM-Plattform für Immobilien ohne verbraucherorientierte Angriffsfläche, die von Betrügern gezielt genutzt wuerde."
+    "history": "Sierra Interactive ist eine US-amerikanische CRM- und Website-Plattform für Immobilienfachleute, gegründet in den 2010er-Jahren; auffällige Übernahmen oder Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Sierra Interactive zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-CRM-Plattform für Immobilien ohne verbraucherorientierte Angriffsfläche, die von Betrügern gezielt genutzt würde."
   },
   "sIFR": {
     "description": "sIFR ist eine JavaScript- und Adobe-Flash-Implementierung für dynamische Webfonts.",
     "history": "sIFR (Scalable Inman Flash Replacement) war eine um 2004 entwickelte Technik, um HTML-Text mithilfe von Flash durch eigene Schriftarten zu ersetzen. Seit der Abkündigung von Flash ist sie vollständig veraltet und aufgegeben.",
-    "summary_abuse": "sIFR zeigt kein auffaelliges Missbrauchssignal; es ist eine veraltete Flash-basierte Technik für Schriftartenersatz."
+    "summary_abuse": "sIFR zeigt kein auffälliges Missbrauchssignal; es ist eine veraltete Flash-basierte Technik für Schriftartenersatz."
   },
   "Sift": {
     "description": "Sift ist ein kalifornisches Unternehmen für Betrugsprävention.",
@@ -1600,13 +1600,13 @@
   },
   "SIGE Loja": {
     "description": "SIGE Loja ist eine vollständige Online-Shop-Lösung mit integrierten Backoffice-Funktionen für Vertrieb, Lager und Betrieb.",
-    "history": "SIGE Loja ist eine brasilianische Plattform für Online-Shops und Backoffice-Verwaltung für kleine und mittlere Unternehmen. Öffentlich sind nur begrenzte Informationen zur Gründung verfuegbar.",
-    "summary_abuse": "SIGE Loja ist eine brasilianische Ecommerce-Plattform ohne dokumentierte groessere Missbrauchsvorfälle. Als Shop-Builder traegt sie das typische Risiko betrügerischer Shops, spezifische Kampagnen sind jedoch nicht dokumentiert."
+    "history": "SIGE Loja ist eine brasilianische Plattform für Online-Shops und Backoffice-Verwaltung für kleine und mittlere Unternehmen. Öffentlich sind nur begrenzte Informationen zur Gründung verfügbar.",
+    "summary_abuse": "SIGE Loja ist eine brasilianische Ecommerce-Plattform ohne dokumentierte grössere Missbrauchsvorfälle. Als Shop-Builder trägt sie das typische Risiko betrügerischer Shops, spezifische Kampagnen sind jedoch nicht dokumentiert."
   },
   "SightCall": {
-    "description": "SightCall ist eine Plattform, die Service-Teams mit Echtzeit-AR und KI-gestützter Anleitung hilft, Probleme schneller zu loesen.",
-    "history": "SightCall ist eine Video-Assistenzplattform für Unternehmen, die visuelle Fernunterstützung und Field-Service-Prozesse ermöglicht; sie wurde etwa 2012 gegründet und konzentriert sich auf AR-erweiterte Videos für Support-Workflows; groessere Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "SightCall zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Enterprise-Plattform für Video-Support ohne verbraucherorientierte Angriffsfläche, die für Betrüger interessant waere."
+    "description": "SightCall ist eine Plattform, die Service-Teams mit Echtzeit-AR und KI-gestützter Anleitung hilft, Probleme schneller zu lösen.",
+    "history": "SightCall ist eine Video-Assistenzplattform für Unternehmen, die visuelle Fernunterstützung und Field-Service-Prozesse ermöglicht; sie wurde etwa 2012 gegründet und konzentriert sich auf AR-erweiterte Videos für Support-Workflows; grössere Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "SightCall zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Enterprise-Plattform für Video-Support ohne verbraucherorientierte Angriffsfläche, die für Betrüger interessant wäre."
   },
   "Sigma.js": {
     "description": "Sigma.js ist eine JavaScript-Bibliothek zur Visualisierung grosser Graphen mit tausenden Knoten und Kanten.",
@@ -1615,48 +1615,48 @@
   },
   "Sign Customiser": {
     "description": "Sign Customiser ist ein Werkzeug zur Erstellung von Schilderangeboten für Online-Shops, das Verkaufschancen erhöhen und Versandprozesse vereinfachen soll.",
-    "history": "Sign Customiser ist ein spezialisiertes SaaS-Tool, das in Online-Shops eingebettete Produktangebote und individuelle Bestellformulare für Schilder- und Druckbetriebe erstellt. Öffentlich sind nur sehr wenige Gründungsinformationen verfuegbar.",
+    "history": "Sign Customiser ist ein spezialisiertes SaaS-Tool, das in Online-Shops eingebettete Produktangebote und individuelle Bestellformulare für Schilder- und Druckbetriebe erstellt. Öffentlich sind nur sehr wenige Gründungsinformationen verfügbar.",
     "summary_abuse": "Sign Customiser ist ein spezialisiertes Angebotswerkzeug für Schilderbetriebe und Druckereien ohne dokumentiertes Missbrauchssignal."
   },
   "Signal": {
     "description": "Signal ist ein plattformübergreifender verschlüsselter Messaging-Dienst.",
-    "history": "Signal entstand aus dem Open-Whisper-Systems-Projekt von Moxie Marlinspike und Stuart Anderson, das TextSecure und RedPhone etwa 2014 bis 2015 zusammenführte. Die Signal Foundation wurde 2018 von Moxie Marlinspike und Brian Acton, Mitgründer von WhatsApp, gegründet, nachdem Acton 50 Millionen US-Dollar gespendet hatte und damit die gemeinnuetzige Basis für den Dienst schuf.",
-    "summary_abuse": "Signal ist eine Ende-zu-Ende-verschlüsselte Messaging-Plattform mit starken Datenschutzgarantien. Weil Inhalte wegen der Verschlüsselung nicht eingesehen werden können, wurde die Nutzung für kriminelle Koordination in Berichten von Strafverfolgungsbehoerden erwähnt; der überwiegende Teil der Nutzung erfolgt jedoch durch Journalisten, Aktivisten, datenschutzbewusste Personen und Unternehmen, die sichere Kommunikation suchen. Signal bietet kein Content-Hosting und keine URL-Shortening-Funktionen, die typischerweise Scammer anziehen. Die Signal Foundation veröffentlicht eine Acceptable Use Policy."
+    "history": "Signal entstand aus dem Open-Whisper-Systems-Projekt von Moxie Marlinspike und Stuart Anderson, das TextSecure und RedPhone etwa 2014 bis 2015 zusammenführte. Die Signal Foundation wurde 2018 von Moxie Marlinspike und Brian Acton, Mitgründer von WhatsApp, gegründet, nachdem Acton 50 Millionen US-Dollar gespendet hatte und damit die gemeinnützige Basis für den Dienst schuf.",
+    "summary_abuse": "Signal ist eine Ende-zu-Ende-verschlüsselte Messaging-Plattform mit starken Datenschutzgarantien. Weil Inhalte wegen der Verschlüsselung nicht eingesehen werden können, wurde die Nutzung für kriminelle Koordination in Berichten von Strafverfolgungsbehörden erwähnt; der überwiegende Teil der Nutzung erfolgt jedoch durch Journalisten, Aktivisten, datenschutzbewusste Personen und Unternehmen, die sichere Kommunikation suchen. Signal bietet kein Content-Hosting und keine URL-Shortening-Funktionen, die typischerweise Scammer anziehen. Die Signal Foundation veröffentlicht eine Acceptable Use Policy."
   },
   "Signalayer": {
-    "description": "Signalayer ist ein Anbieter digitaler Marketinglösungen, die Marken und Agenturen beim Ausbau ihrer Online-Praesenz unterstützen.",
+    "description": "Signalayer ist ein Anbieter digitaler Marketinglösungen, die Marken und Agenturen beim Ausbau ihrer Online-Präsenz unterstützen.",
     "history": "Signalayer ist eine Plattform für digitale Marketinglösungen zur Unterstützung von Markeninteraktion. Gründungsdetails sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Signalayer ist eine digitale Marketingplattform ohne dokumentierte auffaellige Missbrauchsvorfälle."
+    "summary_abuse": "Signalayer ist eine digitale Marketingplattform ohne dokumentierte auffällige Missbrauchsvorfälle."
   },
   "Signalize": {
     "description": "Signalize ist eine Plattform für Browser-Benachrichtigungen, einschliesslich zielgerichteter Push-Benachrichtigungen.",
-    "history": "Signalize ist eine Plattform für Browser-Push-Benachrichtigungen und Marketing-Automatisierung, vermutlich um 2017 gegründet; auffaellige Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "Signalize ermöglicht Browser-Push-Benachrichtigungen, die für Spam genutzt werden können, wenn eine Website mit Abonnenten kompromittiert wird oder der Betreiber boeswillig handelt. Es ist jedoch kein dokumentierter grossflächiger Missbrauch speziell mit Signalize bekannt."
+    "history": "Signalize ist eine Plattform für Browser-Push-Benachrichtigungen und Marketing-Automatisierung, vermutlich um 2017 gegründet; auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "Signalize ermöglicht Browser-Push-Benachrichtigungen, die für Spam genutzt werden können, wenn eine Website mit Abonnenten kompromittiert wird oder der Betreiber böswillig handelt. Es ist jedoch kein dokumentierter grossflächiger Missbrauch speziell mit Signalize bekannt."
   },
   "SignalR": {
     "description": "SignalR ist ein Echtzeit-Webkommunikationsframework von Microsoft für ASP.NET.",
-    "history": "SignalR wurde etwa 2011 von David Fowler und Damian Edwards bei Microsoft als Bibliothek entwickelt, um ASP.NET-Anwendungen Echtzeit-Webfunktionen hinzuzufuegen. Es begann als Community-Projekt und wurde spaeter offiziell in das ASP.NET-Core-Framework aufgenommen.",
+    "history": "SignalR wurde etwa 2011 von David Fowler und Damian Edwards bei Microsoft als Bibliothek entwickelt, um ASP.NET-Anwendungen Echtzeit-Webfunktionen hinzuzufügen. Es begann als Community-Projekt und wurde später offiziell in das ASP.NET-Core-Framework aufgenommen.",
     "summary_abuse": "SignalR ist ein serverseitiges Echtzeit-Kommunikationsframework für .NET ohne verbraucherorientierte Fläche und ohne Missbrauchssignal."
   },
   "Signals": {
     "description": "Signals ist eine cloudbasierte Plattform zur Verwaltung von Mitarbeiterpipelines, Tickets, Einarbeitung neuer Mitarbeitender und skalierbaren Recruiting-Prozessen.",
-    "history": "Signals (getsignals.ai) ist eine cloudbasierte HR- und Pipeline-Management-Plattform zur Verwaltung von Mitarbeiter-Workflows, Tickets und Schulungen. Öffentlich sind nur begrenzte Gründungsinformationen verfuegbar.",
-    "summary_abuse": "Signals ist eine HR-Management-Plattform ohne dokumentiertes Missbrauchssignal. Der B2B-HR-Fokus bedeutet, dass es keine verbraucherorientierte Hosting-Fläche gibt, die für Phishing oder Betrug relevant waere."
+    "history": "Signals (getsignals.ai) ist eine cloudbasierte HR- und Pipeline-Management-Plattform zur Verwaltung von Mitarbeiter-Workflows, Tickets und Schulungen. Öffentlich sind nur begrenzte Gründungsinformationen verfügbar.",
+    "summary_abuse": "Signals ist eine HR-Management-Plattform ohne dokumentiertes Missbrauchssignal. Der B2B-HR-Fokus bedeutet, dass es keine verbraucherorientierte Hosting-Fläche gibt, die für Phishing oder Betrug relevant wäre."
   },
   "SignalZen": {
     "description": "SignalZen ist eine Kundensupport-Plattform, mit der Teams KI-gestützte Konversationen direkt aus Slack oder Microsoft Teams verwalten können.",
-    "history": "SignalZen wurde etwa 2019 als Live-Chat-SaaS gegründet, die Kundengespräche direkt nach Slack oder Microsoft Teams leitet und separate Helpdesk-Software überfluessig macht. Das Unternehmen ist in Litauen registriert.",
-    "summary_abuse": "SignalZen ist eine B2B-Live-Chat-Plattform ohne auffaelliges Missbrauchssignal. Kundengespräche werden an Slack oder Teams weitergeleitet, und das Produkt hat keine verbraucherorientierte Content-Hosting-Fläche."
+    "history": "SignalZen wurde etwa 2019 als Live-Chat-SaaS gegründet, die Kundengespräche direkt nach Slack oder Microsoft Teams leitet und separate Helpdesk-Software überflüssig macht. Das Unternehmen ist in Litauen registriert.",
+    "summary_abuse": "SignalZen ist eine B2B-Live-Chat-Plattform ohne auffälliges Missbrauchssignal. Kundengespräche werden an Slack oder Teams weitergeleitet, und das Produkt hat keine verbraucherorientierte Content-Hosting-Fläche."
   },
   "Signifyd": {
     "description": "Signifyd ist ein Anbieter einer Enterprise-Betrugstechnologie für Ecommerce-Shops.",
-    "history": "Signifyd wurde 2011 in San Jose, Kalifornien, gegründet, um Ecommerce-Unternehmen maschinelles Lernen für Chargeback-Betrugsschutz bereitzustellen. Das Unternehmen erhielt umfangreiche VC-Finanzierung und wurde zu einer der führenden Betrugsschutzplattformen für den Online-Handel.",
-    "summary_abuse": "Signifyd ist eine Betrugspräventionsplattform für Ecommerce-Händler, die betrügerische Bestellungen erkennen und stoppen soll. Wie bei Sift bringt die Erhebung von Kundentransaktionssignalen Datenschutzaspekte mit sich, der Dienst selbst ist jedoch kein Traeger für Missbrauch."
+    "history": "Signifyd wurde 2011 in San Jose, Kalifornien, gegründet, um Ecommerce-Unternehmen mit maschinellem Lernen vor Chargeback-Betrug zu schützen. Das Unternehmen erhielt umfangreiche VC-Finanzierung und wurde zu einer der führenden Betrugsschutzplattformen für den Online-Handel.",
+    "summary_abuse": "Signifyd ist eine Betrugspräventionsplattform für Ecommerce-Händler, die betrügerische Bestellungen erkennen und stoppen soll. Wie bei Sift bringt die Erhebung von Kundentransaktionssignalen Datenschutzaspekte mit sich, der Dienst selbst ist jedoch kein Träger für Missbrauch."
   },
   "siimple": {
     "description": "siimple ist ein minimalistisches CSS-Toolkit für flache, klare und responsive Webdesigns.",
-    "history": "siimple ist ein minimalistisches CSS-Toolkit für flache, klare und responsive Webdesigns. Es wurde von Josemi Juanes erstellt; auffaellige Eigentümerwechsel gibt es nicht.",
-    "summary_abuse": "siimple zeigt kein auffaelliges Missbrauchssignal; es ist ein CSS-Toolkit ohne serverseitige Komponente."
+    "history": "siimple ist ein minimalistisches CSS-Toolkit für flache, klare und responsive Webdesigns. Es wurde von Josemi Juanes erstellt; auffällige Eigentümerwechsel gibt es nicht.",
+    "summary_abuse": "siimple zeigt kein auffälliges Missbrauchssignal; es ist ein CSS-Toolkit ohne serverseitige Komponente."
   },
   "Silex": {
     "description": "Silex ist ein webbasierter Open-Source-Website-Builder, mit dem Nutzer Websites ohne Programmierung erstellen können.",
@@ -1665,52 +1665,52 @@
   },
   "Silktide": {
     "description": "Silktide ist eine Plattform, die Barrierefreiheits-, Inhalts- und Nutzererfahrungsprobleme auf Websites automatisch erkennt und behebt.",
-    "history": "Silktide ist eine britische Website-Intelligence-Plattform mit Fokus auf Barrierefreiheit und Compliance-Prüfungen; sie ist seit den 2010er-Jahren aktiv, ohne auffaellige Eigentümerwechsel.",
-    "summary_abuse": "Silktide zeigt kein auffaelliges Missbrauchssignal. Es ist ein Tool für Website-Qualitaets- und Barrierefreiheitsscans ohne verbraucherorientierte Angriffsfläche."
+    "history": "Silktide ist eine britische Website-Intelligence-Plattform mit Fokus auf Barrierefreiheit und Compliance-Prüfungen; sie ist seit den 2010er-Jahren aktiv, ohne auffällige Eigentümerwechsel.",
+    "summary_abuse": "Silktide zeigt kein auffälliges Missbrauchssignal. Es ist ein Tool für Website-Qualitäts- und Barrierefreiheitsscans ohne verbraucherorientierte Angriffsfläche."
   },
   "Silverstripe": {
     "description": "Silverstripe CMS ist ein freies und quelloffenes Content-Management-System und Framework zum Erstellen und Pflegen von Websites und Webanwendungen.",
-    "history": "SilverStripe CMS wurde 2006 von Silverstripe Ltd in Neuseeland als quelloffenes PHP-Content-Management-System entwickelt. Es betreibt vor allem in Neuseeland und Australien Regierungs- und Unternehmenswebsites. Silverstripe Ltd bleibt der wichtigste Maintainer und bietet kommerzielles Hosting sowie Supportdienste an.",
-    "summary_abuse": "SilverStripe zeigt als Framework kein auffaelliges direktes Missbrauchssignal. Wie jedes selbst gehostete CMS kann es kompromittiert werden, wenn es ungepatcht bleibt, und veraltete SilverStripe-Installationen tauchten in Schwachstellenmeldungen auf; das ist jedoch ein Patch-Problem und kein plattformweiter Missbrauchsvektor. Die legitime Nutzung überwiegt deutlich."
+    "history": "SilverStripe CMS wurde 2006 von Silverstripe Ltd in Neuseeland als quelloffenes PHP-Content-Management-System entwickelt. Auf dem CMS laufen vor allem Regierungs- und Unternehmenswebsites in Neuseeland und Australien. Silverstripe Ltd bleibt der wichtigste Maintainer und bietet kommerzielles Hosting sowie Supportdienste an.",
+    "summary_abuse": "SilverStripe zeigt als Framework kein auffälliges direktes Missbrauchssignal. Wie jedes selbst gehostete CMS kann es kompromittiert werden, wenn es ungepatcht bleibt, und veraltete SilverStripe-Installationen tauchten in Schwachstellenmeldungen auf; das ist jedoch ein Patch-Problem und kein plattformweiter Missbrauchsvektor. Die legitime Nutzung überwiegt deutlich."
   },
   "Simbel": {
-    "history": "Simbel ist eine argentinische Ecommerce-Plattform. Öffentlich sind nur begrenzte Informationen zu Gründungsdatum oder Eigentum verfuegbar.",
+    "history": "Simbel ist eine argentinische Ecommerce-Plattform. Öffentlich sind nur begrenzte Informationen zu Gründungsdatum oder Eigentum verfügbar.",
     "summary_abuse": "Simbel ist eine kleine argentinische Ecommerce-Plattform ohne dokumentiertes Missbrauchssignal."
   },
   "Simbla": {
     "description": "Simbla ist eine KI-gestützte CRM-Plattform.",
-    "history": "Simbla wurde 2013 in Tel Aviv, Israel, von Ilan Zrien und Shlomi Stein als KI-gestützter Website-Builder und CRM-Plattform mit datenbankbasierter Website-Erstellung gegründet. Das Unternehmen war Teil des israelischen Startup-Oekosystems und hat sich seither staerker auf CRM-Funktionen ausgerichtet.",
+    "history": "Simbla wurde 2013 in Tel Aviv, Israel, von Ilan Zrien und Shlomi Stein als KI-gestützter Website-Builder und CRM-Plattform mit datenbankbasierter Website-Erstellung gegründet. Das Unternehmen war Teil des israelischen Startup-Ökosystems und hat sich seither stärker auf CRM-Funktionen ausgerichtet.",
     "summary_abuse": "Simbla ist ein kleiner israelischer CRM- und Website-Builder ohne dokumentiertes Missbrauchssignal. Die Reichweite ist begrenzt, und es gibt keine nennenswerte anonyme Hosting-Fläche."
   },
   "Simla": {
     "description": "Simla ist eine Multi-Agent-All-in-One-Lösung für Unternehmen, die Produkte und Dienstleistungen über WhatsApp, Facebook, Instagram und Websites verkaufen.",
-    "history": "Simla.com ist eine Multichannel-CRM-Plattform, mit der Unternehmen Vertrieb und Kundenkommunikation über WhatsApp, Telegram und andere Messenger verwalten können; sie bedient Maerkte in Russland, Lateinamerika und weiteren Regionen. Ein genaues Gründungsjahr ist öffentlich nicht dokumentiert.",
+    "history": "Simla.com ist eine Multichannel-CRM-Plattform, mit der Unternehmen Vertrieb und Kundenkommunikation über WhatsApp, Telegram und andere Messenger verwalten können; sie bedient Märkte in Russland, Lateinamerika und weiteren Regionen. Ein genaues Gründungsjahr ist öffentlich nicht dokumentiert.",
     "summary_abuse": "Simla ist eine CRM- und Messaging-Plattform ohne dokumentiertes Missbrauchssignal mit Relevanz für Phishing oder Betrug. Der B2B-Charakter und der Fokus auf Messenger-Integrationen reduzieren verbraucherorientierte Risiken."
   },
   "Simon": {
     "description": "Simon ist eine Customer Data Platform (CDP), mit der du Kundendaten sammeln, bereinigen und kontrollieren kannst.",
-    "history": "Simon Data ist eine US-amerikanische Customer Data Platform (CDP), die Marketing-Data-Warehouses mit Tools zur Kampagnenausführung verbindet und etwa 2015 gegründet wurde. Das Unternehmen richtet sich an Enterprise-Kunden im Retail- und Medienbereich. Auffaellige Eigentümerwechsel oder Übernahmen sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Simon Data ist eine B2B-Enterprise-CDP ohne auffaelliges Missbrauchssignal. Die Datenintegration und Marketing-Orchestrierung laufen innerhalb von Enterprise-Tech-Stacks ohne verbraucherorientierte Exponierung."
+    "history": "Simon Data ist eine US-amerikanische Customer Data Platform (CDP), die Marketing-Data-Warehouses mit Tools zur Kampagnenausführung verbindet und etwa 2015 gegründet wurde. Das Unternehmen richtet sich an Enterprise-Kunden im Retail- und Medienbereich. Auffällige Eigentümerwechsel oder Übernahmen sind öffentlich nicht dokumentiert.",
+    "summary_abuse": "Simon Data ist eine B2B-Enterprise-CDP ohne auffälliges Missbrauchssignal. Die Datenintegration und Marketing-Orchestrierung laufen innerhalb von Enterprise-Tech-Stacks ohne verbraucherorientierte Exponierung."
   },
   "Simpl": {
     "description": "Simpl ist ein Fintech-Unternehmen, das ein kartenloses Zahlungsnetzwerk mit mehreren Lösungen für Händler und Verbraucher anbietet.",
     "history": "Simpl ist ein indisches Fintech-Unternehmen, das 2015 gegründet wurde und ein Buy-now-pay-later (BNPL)-Zahlungsnetzwerk vor allem für indische Online-Händler und Verbraucher anbietet.",
-    "summary_abuse": "Simpl ist ein Buy-now-pay-later-Fintech. BNPL-Plattformen können Ziel von Account Takeover werden, um betrügerische Einkaeufe zu taetigen, doch Simpl arbeitet für den indischen Markt mit KYC-Verifizierung. Es ist kein groesserer dokumentierter Missbrauch speziell zu Simpl bekannt."
+    "summary_abuse": "Simpl ist ein Buy-now-pay-later-Fintech. BNPL-Plattformen können Ziel von Account Takeover werden, um betrügerische Einkäufe zu tätigen, doch Simpl arbeitet für den indischen Markt mit KYC-Verifizierung. Es ist kein grösserer dokumentierter Missbrauch speziell zu Simpl bekannt."
   },
   "Simple Analytics": {
     "description": "Simple Analytics ist eine datenschutzfreundliche Alternative zu Google Analytics.",
-    "history": "Simple Analytics wurde 2018 von Adriaan van Rossum in den Niederlanden als privacy-first Alternative zu Google Analytics gegründet. Der Dienst sammelt bewusst keine Cookies oder personenbezogenen Daten und ist von Grund auf GDPR-konform.",
-    "summary_abuse": "Simple Analytics zeigt kein auffaelliges Missbrauchssignal. Es ist ein datenschutzorientiertes Analytics-Tool, das keine personenbezogenen Daten sammelt und keine verbraucherorientierte Angriffsfläche hat."
+    "history": "Simple Analytics wurde 2018 von Adriaan van Rossum in den Niederlanden als datenschutzorientierte Alternative zu Google Analytics gegründet. Der Dienst sammelt bewusst keine Cookies oder personenbezogenen Daten und ist von Grund auf GDPR-konform.",
+    "summary_abuse": "Simple Analytics zeigt kein auffälliges Missbrauchssignal. Es ist ein datenschutzorientiertes Analytics-Tool, das keine personenbezogenen Daten sammelt und keine verbraucherorientierte Angriffsfläche hat."
   },
   "Simple Goods": {
     "description": "Simple Goods ist eine Plattform, die Online-Verkauf über eine Website ermöglicht.",
-    "history": "Simple Goods ist eine schlanke SaaS-Plattform für den Online-Verkauf digitaler Produkte. Gründungsdetails oder auffaellige Eigentümerereignisse sind nicht dokumentiert.",
+    "history": "Simple Goods ist eine schlanke SaaS-Plattform für den Online-Verkauf digitaler Produkte. Gründungsdetails oder auffällige Eigentümerereignisse sind nicht dokumentiert.",
     "summary_abuse": "Simple Goods ist eine Storefront-Plattform für digitale Produkte. Wie bei jeder Plattform, die von Nutzern hochgeladene digitale Inhalte erlaubt, besteht ein Piraterierisiko, konkrete Vorfälle sind jedoch nicht dokumentiert."
   },
   "Simple Machines Forum": {
     "description": "Simple Machines Forum ist eine freie Open-Source-Software für Community-Foren und in PHP geschrieben.",
     "history": "Simple Machines Forum (SMF) ist eine Open-Source-Forensoftware, die etwa 2001 bis 2003 aus YaBB SE hervorging; sie wurde zu einer der beliebtesten selbst gehosteten Forenplattformen der 2000er-Jahre und wird von einer freiwilligen Community gepflegt.",
-    "summary_abuse": "SMF-Installationen können bei unzureichender Moderation Ziel von Spam werden, ein uebliches Muster bei selbst gehosteter Forensoftware. Über typischen Forenspam hinaus ist jedoch kein SMF-spezifischer Missbrauch als Plattform dokumentiert."
+    "summary_abuse": "SMF-Installationen können bei unzureichender Moderation Ziel von Spam werden, ein übliches Muster bei selbst gehosteter Forensoftware. Über typischen Forenspam hinaus ist jedoch kein SMF-spezifischer Missbrauch als Plattform dokumentiert."
   },
   "Simple.css": {
     "description": "Simple.css ist eine CSS-Vorlage.",
@@ -1720,21 +1720,21 @@
   "Simple.ink": {
     "description": "Mit Simple.ink kannst du No-Code-Websites mit Notion erstellen.",
     "history": "Simple.ink ist ein No-Code-Website-Builder, der Notion als Backend nutzt und es erlaubt, Notion-Seiten als Websites zu veröffentlichen. Es ist eine schlanke Schicht auf der Notion-API.",
-    "summary_abuse": "Simple.ink ist ein Notion-basierter Website-Builder ohne auffaelliges Missbrauchssignal. Inhalte, die darüber veröffentlicht werden, übernehmen die Content-Richtlinien von Notion."
+    "summary_abuse": "Simple.ink ist ein Notion-basierter Website-Builder ohne auffälliges Missbrauchssignal. Inhalte, die darüber veröffentlicht werden, übernehmen die Content-Richtlinien von Notion."
   },
   "SimpleHTTP": {
     "history": "SimpleHTTP bezeichnet Pythons eingebautes http.server- beziehungsweise SimpleHTTPServer-Modul in der Python-Standardbibliothek. Es stellt einen minimalen HTTP-Server für Entwicklung und Tests bereit und wird mit Python ausgeliefert.",
-    "summary_abuse": "Pythons SimpleHTTP-Server ist ein Entwicklungswerkzeug ohne verbraucherorientierte Fläche. Er ist kein Traeger für Missbrauch und zeigt kein auffaelliges Missbrauchssignal."
+    "summary_abuse": "Pythons SimpleHTTP-Server ist ein Entwicklungswerkzeug ohne verbraucherorientierte Fläche. Er ist kein Träger für Missbrauch und zeigt kein auffälliges Missbrauchssignal."
   },
   "Simplero": {
     "description": "Simplero ist eine All-in-One-Marketingsoftware.",
-    "history": "Simplero wurde 2009 von Calvin Correli gegründet, der es als All-in-One-Plattform für Online-Kursanbieter, Coaches und Verkaeufer digitaler Produkte entwickelte. Das Unternehmen mit Sitz in New York blieb unabhängig unter Correli und wuchs bis 2024 auf rund 10,5 Millionen US-Dollar Jahresumsatz bei etwa 700 Kunden.",
+    "history": "Simplero wurde 2009 von Calvin Correli gegründet, der es als All-in-One-Plattform für Online-Kursanbieter, Coaches und Verkäufer digitaler Produkte entwickelte. Das Unternehmen mit Sitz in New York blieb unabhängig unter Correli und wuchs bis 2024 auf rund 10,5 Millionen US-Dollar Jahresumsatz bei etwa 700 Kunden.",
     "summary_abuse": "Simplero ist eine spezialisierte All-in-One-SaaS für Marketing und Kurs-Hosting, die sich an Coaches und Anbieter digitaler Produkte richtet. E-Mail-Marketing- und Website-Hosting-Funktionen bringen theoretisches Missbrauchspotenzial mit sich, die Plattform bedient jedoch eine professionelle Nutzerbasis, und öffentlich sind keine Phishing-, Fake-Storefront- oder Spam-Vorfälle dokumentiert."
   },
   "Simplero Websites": {
     "description": "Simplero Websites ist ein Learning-Management-System von Simplero für Kurse, Coaching-Programme, Mitgliedschaften und digitale Produkte.",
     "history": "Simplero Websites ist die Website- und LMS-Komponente der Simplero-All-in-One-Plattform für Coaches und Kursanbieter; sie ist Teil des breiteren Simplero-Produkts, das um 2010 eingeführt wurde.",
-    "summary_abuse": "Simplero Websites zeigt kein auffaelliges Missbrauchssignal. Es ist ein Learning-Management-System für Coaches und Kursanbieter ohne dokumentierte Missbrauchsgeschichte."
+    "summary_abuse": "Simplero Websites zeigt kein auffälliges Missbrauchssignal. Es ist ein Learning-Management-System für Coaches und Kursanbieter ohne dokumentierte Missbrauchsgeschichte."
   },
   "SimpleSAMLphp": {
     "description": "SimpleSAMLphp ist eine quelloffene PHP-Authentifizierungsanwendung mit Unterstützung für SAML 2.0 als Service Provider (SP) oder Identity Provider (IdP).",
@@ -1743,8 +1743,8 @@
   },
   "SimpleSat": {
     "description": "SimpleSat ist ein Tool für Kundenzufriedenheitsumfragen, mit dem Dienstleistungsunternehmen Feedback ihrer Kunden ansprechend sammeln können.",
-    "history": "SimpleSat ist ein Tool für Kundenzufriedenheitsumfragen (CSAT) in Dienstleistungsunternehmen, gegründet etwa 2017; auffaellige Eigentümerwechsel sind nicht dokumentiert.",
-    "summary_abuse": "SimpleSat zeigt kein auffaelliges Missbrauchssignal. Es ist ein B2B-Umfragetool ohne verbraucherorientierte Angriffsfläche."
+    "history": "SimpleSat ist ein Tool für Kundenzufriedenheitsumfragen (CSAT) in Dienstleistungsunternehmen, gegründet etwa 2017; auffällige Eigentümerwechsel sind nicht dokumentiert.",
+    "summary_abuse": "SimpleSat zeigt kein auffälliges Missbrauchssignal. Es ist ein B2B-Umfragetool ohne verbraucherorientierte Angriffsfläche."
   },
   "SimplexNoise.js": {
     "description": "SimplexNoise.js ist eine Bibliothek zur Erzeugung pseudorandomisierter Noise-Funktionen für Videospiele, Grafikanwendungen und Demoscene-Produktionen.",
@@ -1754,56 +1754,56 @@
   "Simpli.fi": {
     "description": "Simpli.fi ist Software für programmatische Werbung und Agenturmanagement.",
     "history": "Simpli.fi ist eine programmatische Werbe- und DSP-Plattform, die etwa 2010 in Fort Worth, Texas, gegründet wurde und sich mit unstrukturierten Datenzielgruppen an politische und lokale Werbekunden richtet.",
-    "summary_abuse": "Simpli.fi ist eine Plattform für programmatische Werbung. Ad-Tech-Plattformen werden gelegentlich für betrügerische Anzeigenplatzierung oder gezielte Scam-Kampagnen missbraucht, doch Simpli.fi ist vor allem ein B2B-Tool für Agenturen und nicht als besonders missbrauchsanfaellige Plattform dokumentiert."
+    "summary_abuse": "Simpli.fi ist eine Plattform für programmatische Werbung. Ad-Tech-Plattformen werden gelegentlich für betrügerische Anzeigenplatzierung oder gezielte Scam-Kampagnen missbraucht, doch Simpli.fi ist vor allem ein B2B-Tool für Agenturen und nicht als besonders missbrauchsanfällige Plattform dokumentiert."
   },
   "Simplio Upsells": {
     "description": "Simplio Upsells steigert Umsatz mit Aktionen und Upsells nach dem Kauf.",
-    "history": "Simplio Upsells ist eine Shopify-App für Upsells nach dem Kauf und Promotions. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "Simplio Upsells ist eine Shopify-Upsell-App ohne auffaelliges Missbrauchssignal."
+    "history": "Simplio Upsells ist eine Shopify-App für Upsells nach dem Kauf sowie Aktionen. Gründungsdetails sind nicht dokumentiert.",
+    "summary_abuse": "Simplio Upsells ist eine Shopify-Upsell-App ohne auffälliges Missbrauchssignal."
   },
   "Simplo7": {
     "description": "Simplo7 ist ein All-in-One-Ecommerce-Produkt.",
-    "history": "Simplo7 ist eine brasilianische All-in-One-Ecommerce-Plattform, mit der Händler schnell Online-Shops erstellen können. Öffentlich sind nur begrenzte Informationen zum Gründungsdatum verfuegbar; die Plattform ist im brasilianischen Markt mindestens seit 2014 aktiv.",
+    "history": "Simplo7 ist eine brasilianische All-in-One-Ecommerce-Plattform, mit der Händler schnell Online-Shops erstellen können. Öffentlich sind nur begrenzte Informationen zum Gründungsdatum verfügbar; die Plattform ist im brasilianischen Markt mindestens seit 2014 aktiv.",
     "summary_abuse": "Simplo7 ist eine brasilianische Ecommerce-Plattform ohne dokumentiertes Missbrauchssignal. Der B2B-Händlerfokus und Kontoverifizierung reduzieren verbraucherorientierte Betrugsrisiken."
   },
   "simploCMS": {
     "description": "simploCMS ist ein CMS eines tschechischen Teams für verschiedene Projekttypen, darunter Ecommerce-Entwicklung, Webanwendungen und Corporate Websites.",
-    "history": "simploCMS ist ein von einem tschechischen Team entwickeltes CMS für verschiedene Website-Typen. Öffentlich sind nur begrenzte Informationen zur Geschichte verfuegbar.",
-    "summary_abuse": "simploCMS ist ein spezialisiertes tschechisches CMS ohne auffaelliges Missbrauchssignal."
+    "history": "simploCMS ist ein von einem tschechischen Team entwickeltes CMS für verschiedene Website-Typen. Öffentlich sind nur begrenzte Informationen zur Geschichte verfügbar.",
+    "summary_abuse": "simploCMS ist ein spezialisiertes tschechisches CMS ohne auffälliges Missbrauchssignal."
   },
   "Simplotel": {
     "description": "Simplotel ist eine Hotel-Buchungsmaschine.",
-    "history": "Simplotel Technologies wurde 2013 in Bengaluru, Indien, mit dem Ziel gegründet, Hoteltechnologie zu vereinfachen. Die Plattform betreibt Buchungsmaschinen und Websites für über 2'000 Hotels in mehreren Ländern. MakeMyTrip, Indiens groesste Online-Reiseagentur, ist Investor des Unternehmens. Simplotel wurde von Startup India als bestes Startup im Reise- und Hospitality-Bereich für 2021 ausgezeichnet.",
-    "summary_abuse": "Simplotel ist eine SaaS für Hotelbuchungsmaschinen, die vor allem von legitimen Hospitality-Unternehmen in Indien und benachbarten Maerkten genutzt wird. Der Anwendungsfall sind gewerbliche Unterkunftsbuchungen, nicht allgemeines Content-Hosting, und es gibt kein dokumentiertes Muster für Missbrauch oder Betrug. Öffentlich sind keine Phishing- oder Fake-Storefront-Vorfälle mit Simplotel bekannt."
+    "history": "Simplotel Technologies wurde 2013 in Bengaluru, Indien, mit dem Ziel gegründet, Hoteltechnologie zu vereinfachen. Die Plattform betreibt Buchungsmaschinen und Websites für über 2'000 Hotels in mehreren Ländern. MakeMyTrip, Indiens grösste Online-Reiseagentur, ist Investor des Unternehmens. Simplotel wurde von Startup India als bestes Startup im Reise- und Hospitality-Bereich für 2021 ausgezeichnet.",
+    "summary_abuse": "Simplotel ist eine SaaS für Hotelbuchungsmaschinen, die vor allem von legitimen Hospitality-Unternehmen in Indien und benachbarten Märkten genutzt wird. Der Anwendungsfall sind gewerbliche Unterkunftsbuchungen, nicht allgemeines Content-Hosting, und es gibt kein dokumentiertes Muster für Missbrauch oder Betrug. Öffentlich sind keine Phishing- oder Fake-Storefront-Vorfälle mit Simplotel bekannt."
   },
   "SimplyBook.me": {
     "description": "SimplyBook.me ist eine Online-Software für Terminplanung und Buchungen.",
     "history": "SimplyBook.me wurde etwa 2009 als Online-Buchungs- und Terminplanungsplattform für Dienstleistungsunternehmen weltweit gegründet und hat seinen Hauptsitz in Zypern.",
-    "summary_abuse": "SimplyBook.me zeigt kein auffaelliges Missbrauchssignal. Es ist eine SaaS für Planung und Buchung in Dienstleistungsunternehmen ohne dokumentierte Missbrauchsgeschichte."
+    "summary_abuse": "SimplyBook.me zeigt kein auffälliges Missbrauchssignal. Es ist eine SaaS für Planung und Buchung in Dienstleistungsunternehmen ohne dokumentierte Missbrauchsgeschichte."
   },
   "SimplyCast": {
-    "description": "SimplyCast ist eine Plattform für individuelle Kommunikationsablaeufe, die personalisierte Nachrichten und automatisierte Workflows ermöglicht, damit Unternehmen ihre Kommunikation straffen können.",
-    "history": "SimplyCast ist eine kanadische Multichannel-Kommunikationsplattform, die etwa 2009 gegründet wurde und Tools für E-Mail-, SMS- und Voice-Marketing anbietet; auffaellige Eigentümerwechsel sind nicht dokumentiert.",
+    "description": "SimplyCast ist eine Plattform für individuelle Kommunikationsabläufe, die personalisierte Nachrichten und automatisierte Workflows ermöglicht, damit Unternehmen ihre Kommunikationsprozesse straffen können.",
+    "history": "SimplyCast ist eine kanadische Multichannel-Kommunikationsplattform, die etwa 2009 gegründet wurde und Tools für E-Mail-, SMS- und Voice-Marketing anbietet; auffällige Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "SimplyCast ist eine Multichannel-Marketingplattform mit Massen-E-Mail- und SMS-Funktionen. Bulk-E-Mail-Plattformen tragen ein inhärentes Spam-Risiko, ein spezifischer grossflächiger Missbrauch von SimplyCast ist jedoch nicht dokumentiert."
   },
   "Simplébo": {
-    "description": "Simplébo ist ein franzoesisches Unternehmen für Website-Erstellung und -Verwaltung, einschliesslich Tools zum Bauen, Hosten und Optimieren von Websites und Ecommerce-Plattformen.",
-    "history": "Simplébo ist ein franzoesisches Unternehmen, das Website-Erstellung und -Verwaltung für lokale Fachleute und Unternehmen in Frankreich anbietet und etwa 2012 gegründet wurde.",
-    "summary_abuse": "Simplébo zeigt kein auffaelliges Missbrauchssignal. Es ist ein franzoesischer Website-Builder für lokale Fachleute ohne dokumentierte Missbrauchsgeschichte."
+    "description": "Simplébo ist ein französisches Unternehmen für Website-Erstellung und -Verwaltung, einschliesslich Tools zum Bauen, Hosten und Optimieren von Websites und Ecommerce-Plattformen.",
+    "history": "Simplébo ist ein französisches Unternehmen, das Website-Erstellung und -Verwaltung für lokale Fachleute und Unternehmen in Frankreich anbietet und etwa 2012 gegründet wurde.",
+    "summary_abuse": "Simplébo zeigt kein auffälliges Missbrauchssignal. Es ist ein französischer Website-Builder für lokale Fachleute ohne dokumentierte Missbrauchsgeschichte."
   },
   "SIMsite": {
-    "history": "SIMsite ist ein Content-Management-System von SIM Groep, einem niederlaendischen IT-Dienstleistungsunternehmen. Öffentlich sind nur sehr begrenzte Gründungsinformationen verfuegbar.",
-    "summary_abuse": "SIMsite ist ein kleines niederlaendisches CMS-Produkt ohne dokumentierte Missbrauchsgeschichte."
+    "history": "SIMsite ist ein Content-Management-System von SIM Groep, einem niederländischen IT-Dienstleistungsunternehmen. Öffentlich sind nur sehr begrenzte Gründungsinformationen verfügbar.",
+    "summary_abuse": "SIMsite ist ein kleines niederländisches CMS-Produkt ohne dokumentierte Missbrauchsgeschichte."
   },
   "Simvoly": {
     "description": "Simvoly ist ein Drag-and-drop-Website-Builder für kleine und mittlere Unternehmen, Agenturen und Freelancer.",
     "history": "Simvoly ist ein bulgarischer Drag-and-drop-Website- und Funnel-Builder, der etwa 2016 gegründet wurde und sich an kleine und mittlere Unternehmen richtet.",
-    "summary_abuse": "Simvoly ist ein Page Builder, mit dem Nutzer Websites und Funnels erstellen und veröffentlichen können. Wie bei allen gehosteten Page Buildern könnten damit erstellte Sites für gefaelschte Landingpages oder Phishing genutzt werden, ein spezifischer grossflächiger Missbrauch von Simvoly ist jedoch nicht dokumentiert."
+    "summary_abuse": "Simvoly ist ein Page Builder, mit dem Nutzer Websites und Funnels erstellen und veröffentlichen können. Wie bei allen gehosteten Page Buildern könnten damit erstellte Sites für gefälschte Landingpages oder Phishing genutzt werden, ein spezifischer grossflächiger Missbrauch von Simvoly ist jedoch nicht dokumentiert."
   },
   "Sinatra": {
     "description": "Sinatra ist ein leichtgewichtiges und stark anpassbares Mehrzweck-WordPress-Theme.",
     "history": "Sinatra ist in diesem Kontext ein Mehrzweck-WordPress-Theme, das auf try.sinatrawp.com angeboten wird. Es steht nicht in Beziehung zum Ruby-Webframework Sinatra. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "Sinatra ist ein WordPress-Theme ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "Sinatra ist ein WordPress-Theme ohne auffälliges Missbrauchssignal."
   },
   "Sinch": {
     "description": "Sinch ist eine Plattform, die Unternehmen und Kunden über Werkzeuge für persönliche Interaktion verbindet.",
@@ -1812,18 +1812,18 @@
   },
   "Singenuity": {
     "description": "Singenuity ist eine Softwareplattform, mit der Kunden Touren und Attraktionen über ein zentrales digitales System online buchen können.",
-    "history": "Singenuity ist eine Softwareplattform für Reiseveranstalter und Attraktionsbetriebe, die Online-Buchungen von Touren und Aktivitäten ermöglicht. Öffentlich sind nur begrenzte Gründungsinformationen verfuegbar.",
+    "history": "Singenuity ist eine Softwareplattform für Reiseveranstalter und Attraktionsbetriebe, die Online-Buchungen von Touren und Aktivitäten ermöglicht. Öffentlich sind nur begrenzte Gründungsinformationen verfügbar.",
     "summary_abuse": "Singenuity ist eine Plattform für Tourbuchungen ohne dokumentiertes Missbrauchssignal. Der B2B-Fokus und die Zahlungsabwicklung für Touren bieten keine verbraucherorientierte anonyme Hosting-Fläche."
   },
   "Sirclo": {
     "description": "Sirclo bietet Lösungen für Online-Geschäfte.",
-    "history": "Sirclo ist ein indonesisches Ecommerce-Enabler-Unternehmen, das 2013 gegründet wurde und Marken dabei hilft, über mehrere Online-Kanäle in Suedostasien zu verkaufen.",
-    "summary_abuse": "Sirclo zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Plattform für Ecommerce-Unterstützung im indonesischen und suedostasiatischen Markt."
+    "history": "Sirclo ist ein indonesisches Ecommerce-Enabler-Unternehmen, das 2013 gegründet wurde und Marken dabei hilft, über mehrere Online-Kanäle in Südostasien zu verkaufen.",
+    "summary_abuse": "Sirclo zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Ecommerce-Unterstützung im indonesischen und südostasiatischen Markt."
   },
   "Sirdata": {
     "description": "Sirdata ist eine Self-Service-Plattform zur Erhebung von Drittanbieterdaten, spezialisiert auf Verhaltensdaten, Predictive Targeting und den Verkauf von Zielgruppensegmenten.",
-    "history": "Sirdata ist eine franzoesische Data-Management- und Consent-Plattform, die sich auf Drittanbieter-Zielgruppendaten für programmatische Werbung spezialisiert und etwa 2015 gegründet wurde.",
-    "summary_abuse": "Sirdata ist eine Drittanbieter-Datenplattform für programmatische Werbung. Data-Management- und Ad-Tech-Plattformen sind naturgemaess an Nutzertracking beteiligt, was Datenschutzrisiken mit sich bringt. Über die allgemeinen Bedenken bei Drittanbieter-Datenerhebung hinaus ist kein spezifischer Missbrauch von Sirdata dokumentiert."
+    "history": "Sirdata ist eine französische Data-Management- und Consent-Plattform, die sich auf Drittanbieter-Zielgruppendaten für programmatische Werbung spezialisiert und etwa 2015 gegründet wurde.",
+    "summary_abuse": "Sirdata ist eine Drittanbieter-Datenplattform für programmatische Werbung. Data-Management- und Ad-Tech-Plattformen sind naturgemäss an Nutzertracking beteiligt, was Datenschutzrisiken mit sich bringt. Über die allgemeinen Bedenken bei Drittanbieter-Datenerhebung hinaus ist kein spezifischer Missbrauch von Sirdata dokumentiert."
   },
   "Sirge": {
     "description": "Sirge ist eine Analytics-Plattform, die Website-Besuche und Kundenverhalten verfolgt und Einblicke zur Optimierung von ROAS und Conversions liefert.",
@@ -1833,22 +1833,22 @@
   "Sirv": {
     "description": "Sirv ist eine Lösung für die Bereitstellung von Bildern mit einfacher Verwaltung, Bearbeitung und Auslieferung.",
     "history": "Sirv ist eine Bildhosting- und CDN-Plattform mit Bildverwaltung und Transformation für Ecommerce, gegründet etwa 2014.",
-    "summary_abuse": "Sirv ist eine Plattform für Bild-CDN und Hosting. Bildhosting-Dienste können gelegentlich missbraucht werden, um boesartige Inhalte oder Phishing-Bilder bereitzustellen, ein spezifischer Missbrauch von Sirv ist jedoch nicht dokumentiert."
+    "summary_abuse": "Sirv ist eine Plattform für Bild-CDN und Hosting. Bildhosting-Dienste können gelegentlich missbraucht werden, um bösartige Inhalte oder Phishing-Bilder bereitzustellen, ein spezifischer Missbrauch von Sirv ist jedoch nicht dokumentiert."
   },
   "Sirvoy": {
-    "description": "Sirvoy ist eine cloudbasierte Hotelmanagementsoftware, die Hotelablaeufe wie Reservierungsverwaltung, Channel Management, Online-Buchung und Property Management vereinfacht.",
-    "history": "Sirvoy wurde 2008 von drei schwedischen Bruedern, Mats, Ola und John, entwickelt, die Hotelmanagementsoftware bauten, um ihrer Mutter beim Betrieb ihres Hostels in Hjo, Schweden, zu helfen. Die Plattform wuchs auf tausende Unterkuenfte in 140 Ländern und hat heute ihren Hauptsitz in Dublin, Irland; sie wurde von HotelMinder als bestes Property Management System ausgezeichnet und erhielt hohe Nutzerbewertungen auf Capterra, GetApp und Software Advice.",
-    "summary_abuse": "Sirvoy ist eine SaaS für Property Management und Hotelbuchungen, die kleine bis mittelgrosse Hospitality-Betriebe bedient, ohne dokumentiertes Missbrauchsmuster. Die Nutzung ist auf Hotel- und Unterkunftsbetreiber begrenzt, und es gibt kein allgemeines Content-Hosting oder anonyme Registrierungsfunktionen, die für Betrug attraktiv waeren. Öffentlich sind keine Phishing- oder Scam-Vorfälle mit Sirvoy bekannt."
+    "description": "Sirvoy ist eine cloudbasierte Hotelmanagementsoftware, die Hotelabläufe wie Reservierungsverwaltung, Channel Management, Online-Buchung und Property Management vereinfacht.",
+    "history": "Sirvoy wurde 2008 von drei schwedischen Brüdern, Mats, Ola und John, entwickelt, die Hotelmanagementsoftware bauten, um ihrer Mutter beim Betrieb ihres Hostels in Hjo, Schweden, zu helfen. Die Plattform wuchs auf tausende Unterkünfte in 140 Ländern und hat heute ihren Hauptsitz in Dublin, Irland; sie wurde von HotelMinder als bestes Property Management System ausgezeichnet und erhielt hohe Nutzerbewertungen auf Capterra, GetApp und Software Advice.",
+    "summary_abuse": "Sirvoy ist eine SaaS für Property Management und Hotelbuchungen, die kleine bis mittelgrosse Hospitality-Betriebe bedient, ohne dokumentiertes Missbrauchsmuster. Die Nutzung ist auf Hotel- und Unterkunftsbetreiber begrenzt, und es gibt kein allgemeines Content-Hosting oder anonyme Registrierungsfunktionen, die für Betrug attraktiv wären. Öffentlich sind keine Phishing- oder Scam-Vorfälle mit Sirvoy bekannt."
   },
   "Sistem": {
-    "description": "Sistem ist eine Plattform, die individuell angepasste kuenstliche Intelligenz entwickelt, um Geschäftsablaeufe zu verstehen und zu verbessern.",
+    "description": "Sistem ist eine Plattform, die individuell angepasste künstliche Intelligenz entwickelt, um Geschäftsabläufe zu verstehen und zu verbessern.",
     "history": "Sistem ist eine KI-gestützte Anpassungsplattform, die massgeschneiderte KI-Lösungen für Unternehmen entwickelt. Gründungsdetails sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "Sistem ist eine KI-Plattform für geschäftliche Anpassungen ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "Sistem ist eine KI-Plattform für geschäftliche Anpassungen ohne auffälliges Missbrauchssignal."
   },
   "Site Kit": {
     "description": "Site Kit ist eine zentrale Lösung für WordPress-Nutzer, um alles zu nutzen, was Google für ihren Erfolg im Web anbietet.",
     "history": "Site Kit ist ein kostenloses WordPress-Plugin von Google, das 2018 eingeführt wurde, um WordPress-Website-Betreibern einfachen Zugriff auf Google Search Console, Analytics, AdSense und PageSpeed Insights direkt im WordPress-Dashboard zu geben.",
-    "summary_abuse": "Site Kit ist ein von Google entwickeltes WordPress-Plugin ohne auffaelliges Missbrauchssignal. Als Google-gestütztes Mess-Plugin verbindet es WordPress-Websites mit Google-Diensten und hat keine Missbrauchsgeschichte."
+    "summary_abuse": "Site Kit ist ein von Google entwickeltes WordPress-Plugin ohne auffälliges Missbrauchssignal. Als Google-gestütztes Mess-Plugin verbindet es WordPress-Websites mit Google-Diensten und hat keine Missbrauchsgeschichte."
   },
   "Site Meter": {
     "history": "Site Meter gehört zu den frühesten Webanalyse-Diensten. Er wurde um 1998 gegründet und bot Besuchertracking für Websites über ein eingebettetes JavaScript an. Der Dienst war früher weit verbreitet, verlor mit dem Aufstieg von Google Analytics aber stark an Bedeutung.",
@@ -2060,7 +2060,7 @@
   },
   "Sixshop": {
     "description": "Sixshop ist ein System zum Erstellen von Shopping-Stores aus Korea.",
-    "history": "Sixshop wurde um 2003, die Domain wurde im Oktober 2003 registriert, von Sellerhub Inc. in Seoul, Südkorea, gestartet. Es begann als System zur Erstellung von Shopping-Malls und entwickelte sich zu einem KI-gestützten Website- und Ecommerce-Builder mit Multi-Channel-Marketplace-Management. 2022 wurde Sixshop Pro mit einem AI Web Builder eingeführt. Die Plattform bedient über 200'000 Marken, hauptsächlich in Südkorea. Nennenswerte Übernahmen oder Eigentümerwechsel gab es nicht.",
+    "history": "Sixshop wurde um 2003 von Sellerhub Inc. in Seoul, Südkorea, gestartet; die Domain wurde im Oktober 2003 registriert. Es begann als System zur Erstellung von Shopping-Malls und entwickelte sich zu einem KI-gestützten Website- und Ecommerce-Builder mit Multi-Channel-Marketplace-Management. 2022 wurde Sixshop Pro mit einem AI Web Builder eingeführt. Die Plattform bedient über 200'000 Marken, hauptsächlich in Südkorea. Nennenswerte Übernahmen oder Eigentümerwechsel gab es nicht.",
     "summary_abuse": "Sixshop ist ein koreanischer Ecommerce- und Website-Builder-SaaS, der vor allem in Südkorea aktiv ist. Store-Builder können theoretisch für betrügerische Shops genutzt werden, doch Sixshop arbeitet in einem regulierten koreanischen Ecommerce-Umfeld mit Prüfung von realer Identität und Unternehmensregistrierung. Die Plattform veröffentlicht Nutzungsbedingungen und eine Datenschutzerklärung. Nennenswerte öffentliche Vorfälle von breitflächigem Missbrauch sind nicht dokumentiert. Das plattformbezogene Missbrauchsrisiko ist gering."
   },
   "Sizebay": {
@@ -2130,10 +2130,10 @@
   "Skimlinks": {
     "description": "Skimlinks ist eine Content-Monetarisierungsplattform für Online-Publisher.",
     "history": "Skimlinks wurde 2007 in London als Plattform zur Monetarisierung von Affiliate-Links gegründet und wandelt ausgehende Links auf Publisher-Seiten automatisch in getrackte Affiliate-Links um. 2020 wurde Skimlinks von Connexity übernommen, 2021 wiederum wurde Connexity von Taboola, dem grossen Native-Advertising-Anbieter, übernommen. Damit wurde Skimlinks eine Tochtergesellschaft von Taboola.",
-    "summary_abuse": "Skimlinks schreibt ausgehende Links auf Publisher-Seiten automatisch in getrackte Affiliate-URLs um und injiziert damit eigenes Tracking in jede Seite, die den Dienst nutzt. Es ist als stark tracker-nah einzustufen. Auffälliger Missbrauch als Phishing- oder Betrugsinfrastruktur ist nicht bekannt, aber die automatische Link-Umschreibung schafft ein intransparentes Nutzererlebnis. Taboola/Skimlinks veröffentlicht eine AUP und ein GDPR DPA."
+    "summary_abuse": "Skimlinks schreibt ausgehende Links auf Publisher-Seiten automatisch in getrackte Affiliate-URLs um und injiziert damit eigenes Tracking in jede Seite, die den Dienst nutzt. Der Dienst ist dem Umfeld intensiver Tracker zuzurechnen. Auffälliger Missbrauch als Phishing- oder Betrugsinfrastruktur ist nicht bekannt, aber die automatische Link-Umschreibung schafft ein intransparentes Nutzererlebnis. Taboola/Skimlinks veröffentlicht eine AUP und ein GDPR DPA."
   },
   "Skio": {
-    "description": "Skio hilft Shopify-Marken, Abonnements zu verkaufen, ohne sich die Haare auszureissen.",
+    "description": "Skio hilft Shopify-Marken, Abonnements zu verkaufen, ohne sich dabei die Haare raufen zu müssen.",
     "history": "Skio wurde 2021 von Kennan Frost gegründet, unterstützt von Y Combinator (S20), als Plattform für Shopify-Abonnementverwaltung. Ende 2021 sammelte Skio 3,7 Millionen US-Dollar ein und wurde im April 2026 für 105 Millionen US-Dollar von Recharge übernommen.",
     "summary_abuse": "Skio hat kein auffälliges Missbrauchssignal. Es ist eine Plattform für Abonnementabrechnung bei Shopify-Shops, die ausschliesslich von legitimen Händlern genutzt wird und keine öffentlich ausgerichtete Fläche bietet, die Betrüger typischerweise nutzen."
   },
@@ -2179,7 +2179,7 @@
   },
   "SkyGlue": {
     "description": "SkyGlue verfolgt automatisch jede Nutzeraktion auf einer Website und liefert Einblicke in Nutzerverhalten, Bedürfnisse und Gründe für Abbrüche.",
-    "history": "SkyGlue ist ein Google Analytics-Add-on für automatisches Event-Tracking und Analyse von Besucherwegen, gegründet um 2011 in Fremont, Kalifornien. Das Tooling für Webentwickler wird seit mehr als einem Jahrzehnt angeboten.",
+    "history": "SkyGlue ist ein Google Analytics-Add-on für automatisches Event-Tracking und Analyse von Besucherwegen, gegründet um 2011 in Fremont, Kalifornien. Analysetools für Webentwickler werden seit mehr als einem Jahrzehnt angeboten.",
     "summary_abuse": "SkyGlue ist ein Website-Analytics-Tool, das Besucherinteraktionen verfolgt und Verhaltensdaten sammelt. Wie alle Analytics-Tracker erhebt es Nutzerdaten, hat aber über normale Datenschutzbedenken hinaus kein auffälliges Phishing- oder Betrugssignal."
   },
   "SkyVerge": {
@@ -2227,19 +2227,19 @@
     "summary_abuse": "SlickStack ist ein Backend-Werkzeug für Server-Provisioning ohne nutzerseitige Angriffs- oder Missbrauchsfläche für Betrüger. Es automatisiert die Einrichtung von WordPress-Servern auf privater Infrastruktur, deshalb ist das Missbrauchsrisiko minimal. Es sind keine Missbrauchsmuster oder Vorfälle dokumentiert."
   },
   "SlickText": {
-    "description": "SlickText ist eine cloudbasierte SMS-Marketinglösung für Unternehmen jeder Groesse.",
-    "history": "SlickText wurde 2012 in Jamestown, New York, als SMS-Marketingplattform für Unternehmen jeder Groesse gegründet.",
-    "summary_abuse": "SlickText ist eine SMS-Marketingplattform. Wie alle Massentextdienste kann sie für unerwuenschten Spam oder Smishing, also SMS-Phishing, missbraucht werden. Das Unternehmen veröffentlicht eine AUP und setzt Opt-in-Verifizierungen voraus, trotzdem haben SMS-Marketingplattformen wegen ihrer Massenversandfunktionen grundsaetzlich ein moderates Missbrauchsrisiko."
+    "description": "SlickText ist eine cloudbasierte SMS-Marketinglösung für Unternehmen jeder Grösse.",
+    "history": "SlickText wurde 2012 in Jamestown, New York, als SMS-Marketingplattform für Unternehmen jeder Grösse gegründet.",
+    "summary_abuse": "SlickText ist eine SMS-Marketingplattform. Wie alle Massentextdienste kann sie für unerwünschten Spam oder Smishing, also SMS-Phishing, missbraucht werden. Das Unternehmen veröffentlicht eine AUP und setzt Opt-in-Verifizierungen voraus, trotzdem haben SMS-Marketingplattformen wegen ihrer Massenversandfunktionen grundsätzlich ein moderates Missbrauchsrisiko."
   },
   "Slidebean": {
-    "description": "Slidebean ist eine All-in-one-Software für Pitch Decks, die Erstellung, Gestaltung und Praesentation von Business-Pitches vereinfacht.",
-    "history": "Slidebean wurde 2014 in San Jose, Costa Rica, als KI-gestütztes Werkzeug für Pitch Decks und Praesentationen gegründet. Das Unternehmen wurde von Y Combinator unterstützt und wuchs zu einer Plattform für Startup-Gründer und Unternehmer heran.",
-    "summary_abuse": "Slidebean zeigt kein auffaelliges Missbrauchssignal. Es ist ein Werkzeug zum Erstellen von Pitch Decks, das von legitimen Unternehmern und Startup-Gründern genutzt wird."
+    "description": "Slidebean ist eine All-in-one-Software für Pitch Decks, die Erstellung, Gestaltung und Präsentation von Business-Pitches vereinfacht.",
+    "history": "Slidebean wurde 2014 in San Jose, Costa Rica, als KI-gestütztes Werkzeug für Pitch Decks und Präsentationen gegründet. Das Unternehmen wurde von Y Combinator unterstützt und wuchs zu einer Plattform für Startup-Gründer und Unternehmer heran.",
+    "summary_abuse": "Slidebean zeigt kein auffälliges Missbrauchssignal. Es ist ein Werkzeug zum Erstellen von Pitch Decks, das von legitimen Unternehmern und Startup-Gründern genutzt wird."
   },
   "slideout": {
-    "description": "Ein Touch-Slideout-Navigationsmenue für mobile Web-Apps.",
-    "history": "slideout ist eine JavaScript-Bibliothek zum Erstellen von Touch-Slideout-Navigationsmenues und entstand um 2015. Das Projekt ist weitgehend aufgegeben.",
-    "summary_abuse": "slideout zeigt kein auffaelliges Missbrauchssignal. Es ist ein kleines clientseitiges Navigations-Plugin."
+    "description": "Ein Touch-Slideout-Navigationsmenü für mobile Web-Apps.",
+    "history": "slideout ist eine JavaScript-Bibliothek zum Erstellen von Touch-Slideout-Navigationsmenüs und entstand um 2015. Das Projekt ist weitgehend aufgegeben.",
+    "summary_abuse": "slideout zeigt kein auffälliges Missbrauchssignal. Es ist ein kleines clientseitiges Navigations-Plugin."
   },
   "Slider Captcha": {
     "description": "Slider Captcha ist ein kostenloser Dienst, der Websites vor Spam und Missbrauch schützen hilft.",
@@ -2248,8 +2248,8 @@
   },
   "Slider Revolution": {
     "description": "Slider Revolution ist ein flexibler und stark anpassbarer Slider.",
-    "history": "Slider Revolution ist ein Premium-Slider-Plugin für WordPress und HTML5, das um 2012 von ThemePunch entwickelt wurde. Es wurde zu einem der meistgenutzten Slider-Plugins im WordPress-Oekosystem mit Millionen Installationen.",
-    "summary_abuse": "Slider Revolution zeigt als Softwareprodukt kein auffaelliges Missbrauchssignal. Als weit verbreitetes WordPress-Plugin hatte es früher Sicherheitsluecken, insbesondere eine kritische File-Upload-Luecke im Jahr 2014, die zur Kompromittierung von WordPress-Websites ausgenutzt wurde. Das Plugin selbst ist jedoch ein legitimes Werkzeug."
+    "history": "Slider Revolution ist ein Premium-Slider-Plugin für WordPress und HTML5, das um 2012 von ThemePunch entwickelt wurde. Es wurde zu einem der meistgenutzten Slider-Plugins im WordPress-Ökosystem mit Millionen Installationen.",
+    "summary_abuse": "Slider Revolution zeigt als Softwareprodukt kein auffälliges Missbrauchssignal. Als weit verbreitetes WordPress-Plugin hatte es früher Sicherheitslücken, insbesondere eine kritische File-Upload-Lücke im Jahr 2014, die zur Kompromittierung von WordPress-Websites ausgenutzt wurde. Das Plugin selbst ist jedoch ein legitimes Werkzeug."
   },
   "Slim Select": {
     "description": "Slim Select ist eine JavaScript-Bibliothek zum Erstellen von Select-Dropdowns mit erweiterten Funktionen.",
@@ -2262,57 +2262,57 @@
     "summary_abuse": "Slim SEO zeigt kein Missbrauchssignal. Es ist ein WordPress-SEO-Plugin ohne nutzerseitige Angriffsfläche."
   },
   "Slimbox": {
-    "history": "Slimbox wurde um 2007 von Christophe Beyls (digitalia.be) als leichtgewichtiger, auf MooTools basierender Lightbox-2-Klon entwickelt. Die Bibliothek war in der jQuery- und MooTools-Aera für Bild-Overlays beliebt, ist heute aber faktisch aufgegeben, seit MooTools aus der breiten Nutzung verschwunden ist.",
+    "history": "Slimbox wurde um 2007 von Christophe Beyls (digitalia.be) als leichtgewichtiger, auf MooTools basierender Lightbox-2-Klon entwickelt. Die Bibliothek war in der jQuery- und MooTools-Ära für Bild-Overlays beliebt, ist heute aber faktisch aufgegeben, seit MooTools aus der breiten Nutzung verschwunden ist.",
     "summary_abuse": "Slimbox ist eine aufgegebene MooTools-JavaScript-Bibliothek für Lightbox-Overlays; sie hat keine nutzerseitige Angriffsfläche und keine dokumentierte Missbrauchsgeschichte."
   },
   "Slimbox 2": {
     "history": "Slimbox 2 ist eine aktualisierte Version von Slimbox, einem leichtgewichtigen Lightbox-Plugin ohne jQuery von digitalia.be. Es wird nicht aktiv gepflegt und gilt als Legacy-Software.",
-    "summary_abuse": "Slimbox 2 zeigt kein Missbrauchssignal. Es ist eine clientseitige JavaScript-Lightbox-Bibliothek aus der Legacy-Aera ohne serverseitige Angriffsfläche."
+    "summary_abuse": "Slimbox 2 zeigt kein Missbrauchssignal. Es ist eine clientseitige JavaScript-Lightbox-Bibliothek aus der Legacy-Ära ohne serverseitige Angriffsfläche."
   },
   "Slingshot": {
     "description": "Slingshot ist eine Plattform, die Echtzeit-Analytics mit Projektmanagement- und Kollaborationstools verbindet, um datenbasierte Entscheidungen zu unterstützen.",
     "history": "Slingshot ist eine Projektmanagement- und Analytics-Plattform, die Echtzeit-Datenanalyse mit Kollaborationsfunktionen für datengetriebene Teams kombiniert.",
-    "summary_abuse": "Slingshot zeigt kein auffaelliges Missbrauchssignal. Es ist ein B2B-SaaS für Projektmanagement und Analytics ohne nutzerseitige Hosting-Fläche, die Betrüger gezielt ausnutzen wuerden."
+    "summary_abuse": "Slingshot zeigt kein auffälliges Missbrauchssignal. Es ist ein B2B-SaaS für Projektmanagement und Analytics ohne nutzerseitige Hosting-Fläche, die Betrüger gezielt ausnutzen würden."
   },
   "Slotti": {
     "description": "Slotti ist ein cloudbasiertes System für Terminbuchung und Checkout, zugeschnitten auf Dienstleistungsunternehmen.",
     "history": "Slotti ist ein finnisches cloudbasiertes Terminbuchungs- und Zahlungssystem für Dienstleistungsunternehmen mit Fokus auf kleine und mittlere Anbieter.",
-    "summary_abuse": "Slotti zeigt kein auffaelliges Missbrauchssignal. Es ist ein nischenorientiertes Terminbuchungs-SaaS für Dienstleistungsunternehmen in Finnland ohne nutzerseitige Hosting-Fläche, die Betrüger gezielt ausnutzen wuerden."
+    "summary_abuse": "Slotti zeigt kein auffälliges Missbrauchssignal. Es ist ein nischenorientiertes Terminbuchungs-SaaS für Dienstleistungsunternehmen in Finnland ohne nutzerseitige Hosting-Fläche, die Betrüger gezielt ausnutzen würden."
   },
   "SM Sold": {
     "description": "SM Sold ist eine Plattform mit integrierten Lösungen für Immobilienmakler und Broker, um Inserate, Kundenkontakte und Transaktionen zu verwalten.",
-    "history": "SM Sold ist eine Real-Estate-Tech-Plattform für Makler und Broker mit Funktionen für Inserats- und Transaktionsmanagement. Zur Gründungsgeschichte ist öffentlich nur sehr wenig verfuegbar.",
+    "history": "SM Sold ist eine Real-Estate-Tech-Plattform für Makler und Broker mit Funktionen für Inserats- und Transaktionsmanagement. Zur Gründungsgeschichte ist öffentlich nur sehr wenig verfügbar.",
     "summary_abuse": "SM Sold ist eine Immobilienverwaltungsplattform ohne dokumentierte Missbrauchsgeschichte; sie richtet sich an lizenzierte Immobilienfachleute statt an allgemeine öffentliche Nutzer."
   },
   "Smaily": {
     "description": "Smaily ist eine Lösung für E-Mail-Marketing und Automatisierung.",
-    "history": "Smaily wurde 2006 von Erkki Markus in Tallinn, Estland, gegründet, anfangs als Ein-Personen-Betrieb für baltische Unternehmen zu einer Zeit, als E-Mail-Marketing in der Region noch selten war. 2011 stieg der Werbebranchenveteran Tanel Rand als Mitgründer ein, und das Unternehmen wuchs auf über 20'000 Kunden mit einem Team von 18 Personen. Spaeter übernahm die Plattform die Marke Mailbow. Smaily blieb unabhängig und ist Marktführer für E-Mail-Marketing in Estland und im Baltikum.",
-    "summary_abuse": "Smaily ist ein E-Mail-Marketing-SaaS aus Estland, das vor allem baltische und nordische Unternehmen bedient. Wie jede Bulk-E-Mail-Plattform birgt Smaily ein gewisses Spamrisiko, falls die Anmeldekontrollen schwach sind. Das Unternehmen arbeitet jedoch in der EU unter GDPR und setzt eine Anti-Spam-Richtlinie durch. Öffentlich sind keine gross angelegten Spamkampagnen oder Phishing-Faelle bekannt, die spezifisch mit Smaily verbunden sind."
+    "history": "Smaily wurde 2006 von Erkki Markus in Tallinn, Estland, gegründet, anfangs als Ein-Personen-Betrieb für baltische Unternehmen zu einer Zeit, als E-Mail-Marketing in der Region noch selten war. 2011 stieg der Werbebranchenveteran Tanel Rand als Mitgründer ein, und das Unternehmen wuchs auf über 20'000 Kunden mit einem Team von 18 Personen. Später übernahm die Plattform die Marke Mailbow. Smaily blieb unabhängig und ist Marktführer für E-Mail-Marketing in Estland und im Baltikum.",
+    "summary_abuse": "Smaily ist ein E-Mail-Marketing-SaaS aus Estland, das vor allem baltische und nordische Unternehmen bedient. Wie jede Bulk-E-Mail-Plattform birgt Smaily ein gewisses Spamrisiko, falls die Anmeldekontrollen schwach sind. Das Unternehmen arbeitet jedoch in der EU unter GDPR und setzt eine Anti-Spam-Richtlinie durch. Öffentlich sind keine gross angelegten Spamkampagnen oder Phishing-Fälle bekannt, die spezifisch mit Smaily verbunden sind."
   },
   "Smallbox": {
     "description": "Smallbox ist eine kanadische CMS-Plattform und Webagentur mit einem proprietären Content-Management-System, inklusive Custom Development, SEO-Tools und Digitalmarketing.",
     "history": "Smallbox ist eine kanadische Webagentur und CMS-Plattform mit Sitz in Edmonton, Alberta; sie bietet ein proprietäres Content-Management-System zusammen mit individueller Webentwicklung und Digitalmarketing an.",
-    "summary_abuse": "Smallbox zeigt kein auffaelliges Missbrauchssignal. Es ist ein kleines kanadisches Webagentur-CMS für legitime Unternehmenswebsites."
+    "summary_abuse": "Smallbox zeigt kein auffälliges Missbrauchssignal. Es ist ein kleines kanadisches Webagentur-CMS für legitime Unternehmenswebsites."
   },
   "Smallchat": {
     "description": "Smallchat ermöglicht es Nutzern, Website-Besucher direkt in Slack anzusprechen.",
     "history": "Smallchat ist ein einfaches Live-Chat-Werkzeug, das Nachrichten von Website-Besuchern direkt in einen Slack-Kanal leitet. Es entstand als leichtgewichtige Alternative zu voll ausgestatteten Chatplattformen.",
-    "summary_abuse": "Smallchat zeigt kein auffaelliges Missbrauchssignal. Es ist ein einfaches Slack-basiertes Chat-Widget ohne Content-Hosting-Fläche, die Betrüger gezielt ausnutzen wuerden."
+    "summary_abuse": "Smallchat zeigt kein auffälliges Missbrauchssignal. Es ist ein einfaches Slack-basiertes Chat-Widget ohne Content-Hosting-Fläche, die Betrüger gezielt ausnutzen würden."
   },
   "Smart Ad Server": {
     "description": "Smart Ad Server ist eine Adserving- und RTB-Plattform.",
-    "history": "Smart AdServer wurde 2001 in Frankreich gegründet und entwickelte sich zu einem führenden unabhängigen Adserver und einer RTB-Plattform für Publisher. Nach den Zusammenschluessen mit LiquidM (2019) und DynAdmic (2021) wurde das Unternehmen im Juni 2022 in Equativ umbenannt. 2023 übernahm Bridgepoint Group eine Mehrheitsbeteiligung, 2024 fusionierte Equativ mit der SSP Sharethrough.",
-    "summary_abuse": "Smart Ad Server, heute Equativ, ist eine Enterprise-Plattform für Ad Serving. Als Ad-Tech-Unternehmen, das umfangreiche Targeting-Daten verarbeitet, bringt es ein inhärentes Datenschutzrisiko mit, aber es gibt keine auffaellig dokumentierten Betrugs- oder Missbrauchsfaelle, die spezifisch die Plattform betreffen; sie wird von legitimen Publishern und Werbetreibenden eingesetzt."
+    "history": "Smart AdServer wurde 2001 in Frankreich gegründet und entwickelte sich zu einem führenden unabhängigen Adserver und einer RTB-Plattform für Publisher. Nach den Zusammenschlüssen mit LiquidM (2019) und DynAdmic (2021) wurde das Unternehmen im Juni 2022 in Equativ umbenannt. 2023 übernahm Bridgepoint Group eine Mehrheitsbeteiligung, 2024 fusionierte Equativ mit der SSP Sharethrough.",
+    "summary_abuse": "Smart Ad Server, heute Equativ, ist eine Enterprise-Plattform für Ad Serving. Als Ad-Tech-Unternehmen, das umfangreiche Targeting-Daten verarbeitet, bringt es ein inhärentes Datenschutzrisiko mit, aber es gibt keine auffällig dokumentierten Betrugs- oder Missbrauchsfälle, die spezifisch die Plattform betreffen; sie wird von legitimen Publishern und Werbetreibenden eingesetzt."
   },
   "Smart Analytics": {
     "description": "Smart Analytics ist eine KI-gestützte Plattform, die durch automatisierte Datenanalyse den Umsatz steigern und Werbekosten senken soll.",
     "history": "Smart Analytics ist eine KI-gestützte Analytics- und Sales-Optimierungsplattform für E-Commerce. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "Smart Analytics ist eine Analytics-Plattform ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "Smart Analytics ist eine Analytics-Plattform ohne auffälliges Missbrauchssignal."
   },
   "SMART L-Gov": {
-    "description": "SMART L-Gov ist eine Plattform und Anwendung, die Einwohner über taegliche Verwaltungsdienste und Notfallmeldungen informiert.",
-    "history": "SMART L-Gov ist eine japanische Plattform für digitale Verwaltungsdienste, entwickelt von Smart Value Co; sie stellt für lokale Behoerden Informationen für Einwohner und Systeme für Notfallmeldungen bereit. Öffentlich ist nur wenig Geschichte verfuegbar.",
-    "summary_abuse": "SMART L-Gov ist eine japanische Plattform für Verwaltungsdienste ohne auffaelliges Missbrauchssignal; sie bedient lokale Behoerden und ist kein öffentlich zugänglicher Hostingdienst für Verbraucher."
+    "description": "SMART L-Gov ist eine Plattform und Anwendung, die Einwohner über tägliche Verwaltungsdienste und Notfallmeldungen informiert.",
+    "history": "SMART L-Gov ist eine japanische Plattform für digitale Verwaltungsdienste, entwickelt von Smart Value Co; sie stellt für lokale Behörden Informationen für Einwohner und Systeme für Notfallmeldungen bereit. Öffentlich ist nur wenig Geschichte verfügbar.",
+    "summary_abuse": "SMART L-Gov ist eine japanische Plattform für Verwaltungsdienste ohne auffälliges Missbrauchssignal; sie bedient lokale Behörden und ist kein öffentlich zugänglicher Hostingdienst für Verbraucher."
   },
   "Smart Slider 3": {
     "description": "Smart Slider 3 ist ein responsives, SEO-optimiertes WordPress-Plugin.",
@@ -2320,121 +2320,121 @@
     "summary_abuse": "Smart Slider 3 zeigt kein Missbrauchssignal. Es ist ein selbst gehostetes WordPress-Plugin ohne nutzerseitige Angriffsfläche."
   },
   "SmartDX": {
-    "description": "SmartDX ist eine flexible Alternative zu Cookies, die Tracking und Identifikation einzelner Zielgruppenmitglieder neu ausrichten, geräteübergreifende Journeys abbilden, kontextuelle Omnichannel-Interaktionen liefern und Conversions auf Segment-of-one-Ebene zuordnen soll.",
+    "description": "SmartDX ist eine flexible Alternative zu Cookies. Das System soll Tracking und Identifikation einzelner Zielgruppenmitglieder neu ausrichten, Customer Journeys geräteübergreifend abbilden, kontextbezogene Omnichannel-Interaktionen liefern und Conversions auf Segment-of-one-Ebene zuordnen.",
     "history": "SmartDX ist eine cookielose Tracking-Alternative, die eine grundlegende Veränderung des User-Trackings ohne Cookies verspricht. Gründungsdetails sind nicht dokumentiert.",
     "summary_abuse": "SmartDX ist eine cookielose Tracking-Technologie, die Verhaltensdaten von Nutzern ohne zustimmungsbasierte Cookies erfasst. Als Tracking-Technologie bringt sie inhärente Datenschutz- und Missbrauchsrisiken mit, wenn sie ohne ausreichende Offenlegung gegenüber Nutzern eingesetzt wird."
   },
   "SmartEmailing": {
     "description": "SmartEmailing ist eine tschechische Marketinglösung mit E-Mail-Marketing-Werkzeugen zum Erstellen, Verwalten und Analysieren von Kampagnen für Kundenkommunikation und Engagement.",
-    "history": "SmartEmailing wurde 2009 von David Kirs gegründet und hat seinen Sitz in Brno, Tschechien. Die Plattform bietet Automatisierungswerkzeuge für E-Mail-Marketing und bedient vor allem den tschechischen und slowakischen Markt; sie blieb unabhängig betrieben, ohne auffaellige Übernahmen oder Rebrandings.",
-    "summary_abuse": "SmartEmailing ist ein tschechisches SaaS für E-Mail-Marketing und Automatisierung mit Fokus auf zentraleuropaeische Unternehmen. Als Bulk-E-Mail-Plattform birgt es ein inhärentes Risiko für Spam-Missbrauch, arbeitet aber unter EU-GDPR und richtet sich an professionelle Marketer. Öffentlich sind keine gross angelegten Spamvorfälle oder Phishing-Missbraeuche dokumentiert, die spezifisch mit SmartEmailing verbunden sind."
+    "history": "SmartEmailing wurde 2009 von David Kirs gegründet und hat seinen Sitz in Brno, Tschechien. Die Plattform bietet Automatisierungswerkzeuge für E-Mail-Marketing und bedient vor allem den tschechischen und slowakischen Markt; sie blieb unabhängig betrieben, ohne auffällige Übernahmen oder Rebrandings.",
+    "summary_abuse": "SmartEmailing ist ein tschechisches SaaS für E-Mail-Marketing und Automatisierung mit Fokus auf zentraleuropäische Unternehmen. Als Bulk-E-Mail-Plattform birgt es ein inhärentes Risiko für Spam-Missbrauch, arbeitet aber unter EU-GDPR und richtet sich an professionelle Marketer. Öffentlich sind keine gross angelegten Spamvorfälle oder Phishing-Missbräuche dokumentiert, die spezifisch mit SmartEmailing verbunden sind."
   },
   "Smarter Click": {
     "description": "Smarter Click ist ein Marketing-Technologieunternehmen.",
     "history": "Smarter Click ist ein britisches Technologieunternehmen für Retargeting und On-site-Remarketing. Es bietet Exit-Intent-Popups und Behavioral-Targeting-Werkzeuge für E-Commerce-Websites an.",
-    "summary_abuse": "Smarter Click ist ein Retargeting- und Popup-Werkzeug. Exit-Intent- und Behavioral-Popup-Technologien werden mit Dark-UX-Mustern in Verbindung gebracht, jedoch nicht mit Betrug oder Phishing. Es sind keine auffaelligen Missbrauchsvorfälle dokumentiert."
+    "summary_abuse": "Smarter Click ist ein Retargeting- und Popup-Werkzeug. Exit-Intent- und Behavioral-Popup-Technologien werden mit Dark-UX-Mustern in Verbindung gebracht, jedoch nicht mit Betrug oder Phishing. Es sind keine auffälligen Missbrauchsvorfälle dokumentiert."
   },
   "SmartHint": {
     "description": "SmartHint ist ein E-Commerce-Empfehlungssystem, das Kundendaten zum Verhalten nutzt, um passende Produkte vorzuschlagen und das Einkaufserlebnis zu verbessern.",
     "history": "SmartHint ist ein brasilianisches SaaS für Produktempfehlungen und Suche im E-Commerce. Es wurde um 2018 gegründet, um Onlinehändlern bei Produkterkennung und Conversion-Verbesserung zu helfen.",
-    "summary_abuse": "SmartHint zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Produktempfehlungsmaschine, die in E-Commerce-Websites eingebettet wird, ohne nutzerseitige Fläche, die Betrüger gezielt ausnutzen wuerden."
+    "summary_abuse": "SmartHint zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Produktempfehlungsmaschine, die in E-Commerce-Websites eingebettet wird, ohne nutzerseitige Fläche, die Betrüger gezielt ausnutzen würden."
   },
   "Smartling": {
     "description": "Smartling ist ein cloudbasiertes Translation-Management-System.",
     "history": "Smartling wurde 2009 von Jack Welde und Andrey Akselrod in New York City als cloudbasiertes Translation-Management-System gegründet. Es entwickelte sich zu einer der führenden Enterprise-Plattformen für Lokalisierung und erhielt in mehreren Runden umfangreiche VC-Finanzierung.",
-    "summary_abuse": "Smartling zeigt kein auffaelliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Translation Management, die grosse Unternehmen für Lokalisierungsworkflows nutzen."
+    "summary_abuse": "Smartling zeigt kein auffälliges Missbrauchssignal. Es ist eine Enterprise-Plattform für Translation Management, die grosse Unternehmen für Lokalisierungsworkflows nutzen."
   },
   "Smartlook": {
     "description": "Smartlook ist eine qualitative Analytics-Lösung für Websites und mobile Apps.",
     "history": "Smartlook wurde 2016 in Brno, Tschechien, als Plattform für qualitative Analytics und Session Recording gegründet. Das Unternehmen erhielt Venture-Finanzierung und wurde im Juni 2023 von Cisco übernommen, um Cisco AppDynamics und Full-Stack-Observability-Angebote zu erweitern.",
-    "summary_abuse": "Smartlook ist eine Plattform für Session Recording und Analytics; sie erfasst Nutzerinteraktionen auf Websites und in Apps, was die Verarbeitung von Verhaltensdaten einschliesst. GDPR-Compliance ist dokumentiert. Es sind keine auffaelligen Betrugs- oder Missbrauchsvorfälle spezifisch zu Smartlook dokumentiert."
+    "summary_abuse": "Smartlook ist eine Plattform für Session Recording und Analytics; sie erfasst Nutzerinteraktionen auf Websites und in Apps, was die Verarbeitung von Verhaltensdaten einschliesst. GDPR-Compliance ist dokumentiert. Es sind keine auffälligen Betrugs- oder Missbrauchsvorfälle spezifisch zu Smartlook dokumentiert."
   },
   "Smartocto": {
     "description": "Smartocto ist ein intelligentes Content-Analytics-System.",
-    "history": "Smartocto ist eine niederlaendische Content-Analytics-Plattform für Nachrichtenpublisher und Medienorganisationen; sie liefert Echtzeitdaten zur Performance von Inhalten.",
-    "summary_abuse": "Smartocto zeigt kein auffaelliges Missbrauchssignal. Es ist ein Content-Analytics-Werkzeug, das von legitimen Nachrichtenpublishern und Medienorganisationen genutzt wird."
+    "history": "Smartocto ist eine niederländische Content-Analytics-Plattform für Nachrichtenpublisher und Medienorganisationen; sie liefert Echtzeitdaten zur Performance von Inhalten.",
+    "summary_abuse": "Smartocto zeigt kein auffälliges Missbrauchssignal. Es ist ein Content-Analytics-Werkzeug, das von legitimen Nachrichtenpublishern und Medienorganisationen genutzt wird."
   },
   "Smartpoint": {
     "description": "Smartpoint ist ein Conversion-Optimierungssystem für Autohändler, das Lead-Erfassung und Verkaufsleistung durch datenbasierte Werkzeuge und Kundeninteraktionsfunktionen verbessert.",
     "history": "Smartpoint ist ein SaaS zur Conversion-Optimierung für Autohändler. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "Smartpoint ist ein Conversion-Optimierungswerkzeug für Autohändler ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "Smartpoint ist ein Conversion-Optimierungswerkzeug für Autohändler ohne auffälliges Missbrauchssignal."
   },
   "SmartRecruiters": {
     "description": "SmartRecruiters ist eine webbasierte Plattform für Talent Acquisition.",
     "history": "SmartRecruiters wurde 2010 in San Francisco als Plattform für Talent Acquisition gegründet. Das Unternehmen wuchs stark und bediente grosse Unternehmen. Im September 2025 schloss SAP die Übernahme von SmartRecruiters ab, wodurch es zu einer Tochtergesellschaft des deutschen Enterprise-Softwarekonzerns wurde.",
-    "summary_abuse": "SmartRecruiters ist eine B2B-Plattform für HR und Recruiting ohne auffaelliges Missbrauchssignal. Das Enterprise-orientierte, vertriebsgebundene Modell und die identitätsgeprüfte Nutzerbasis machen sie zu einem unwahrscheinlichen Vektor für Phishing, Spam oder Betrug. Es sind keine Missbrauchsvorfälle dokumentiert."
+    "summary_abuse": "SmartRecruiters ist eine B2B-Plattform für HR und Recruiting ohne auffälliges Missbrauchssignal. Das Enterprise-orientierte, vertriebsgebundene Modell und die identitätsgeprüfte Nutzerbasis machen sie zu einem unwahrscheinlichen Vektor für Phishing, Spam oder Betrug. Es sind keine Missbrauchsvorfälle dokumentiert."
   },
   "SmartSite": {
-    "history": "Smartsite, spaeter Smartsite iXperion, ist ein niederlaendisches CMS von Seneca, das vor allem von niederlaendischen Regierungsorganisationen und Unternehmen genutzt wurde. Es zeigt heute nur noch begrenzte Aktivität.",
-    "summary_abuse": "Smartsite zeigt kein auffaelliges Missbrauchssignal. Es ist ein Enterprise-CMS für niederlaendische institutionelle Kunden."
+    "history": "Smartsite, später Smartsite iXperion, ist ein niederländisches CMS von Seneca, das vor allem von niederländischen Regierungsorganisationen und Unternehmen genutzt wurde. Es zeigt heute nur noch begrenzte Aktivität.",
+    "summary_abuse": "Smartsite zeigt kein auffälliges Missbrauchssignal. Es ist ein Enterprise-CMS für niederländische institutionelle Kunden."
   },
   "Smartstore": {
     "description": "Smartstore ist ein Open-Source-E-Commerce-System mit CMS-Funktionen.",
     "history": "Smartstore AG wurde 1999 in Dortmund, Deutschland, gegründet. Die Open-Source-E-Commerce-Plattform Smartstore.NET beziehungsweise Smartstore entstand als Fork von nopCommerce und entwickelte sich zu einer vollwertigen E-Commerce-Lösung auf Basis von ASP.NET Core mit CMS-Funktionen.",
-    "summary_abuse": "Smartstore zeigt kein auffaelliges Missbrauchssignal. Es ist eine Open-Source-E-Commerce-Plattform für selbst gehostete Shops, mit einem Risikoprofil ähnlich wie WooCommerce."
+    "summary_abuse": "Smartstore zeigt kein auffälliges Missbrauchssignal. Es ist eine Open-Source-E-Commerce-Plattform für selbst gehostete Shops, mit einem Risikoprofil ähnlich wie WooCommerce."
   },
   "Smartstore biz": {
     "history": "Smartstore biz ist die gehostete SaaS-Variante der E-Commerce-Plattform Smartstore, entwickelt von Smartstore AG, einem 1999 gegründeten deutschen Unternehmen.",
-    "summary_abuse": "Smartstore biz hat als gehostete E-Commerce-Plattform ein niedriges, aber nicht null Missbrauchsrisiko. Wie andere Store Builder könnte es zur Erstellung gefaelschter Shops verwendet werden, es gibt jedoch kein dokumentiertes Missbrauchsmuster, das spezifisch diese Plattform betrifft."
+    "summary_abuse": "Smartstore biz hat als gehostete E-Commerce-Plattform ein niedriges, aber nicht null Missbrauchsrisiko. Wie andere Store Builder könnte es zur Erstellung gefälschter Shops verwendet werden, es gibt jedoch kein dokumentiertes Missbrauchsmuster, das spezifisch diese Plattform betrifft."
   },
   "Smartstore Page Builder": {
     "history": "Smartstore Page Builder ist die CMS- und Page-Building-Komponente der Open-Source-E-Commerce-Plattform Smartstore, entwickelt von Smartstore AG in Deutschland.",
-    "summary_abuse": "Smartstore Page Builder zeigt kein auffaelliges Missbrauchssignal. Es ist eine CMS-Komponente einer selbst gehosteten E-Commerce-Plattform."
+    "summary_abuse": "Smartstore Page Builder zeigt kein auffälliges Missbrauchssignal. Es ist eine CMS-Komponente einer selbst gehosteten E-Commerce-Plattform."
   },
   "Smartsupp": {
     "description": "Smartsupp ist ein Live-Chat-Werkzeug mit Funktion zur Besucheraufzeichnung.",
-    "history": "Smartsupp wurde 2013 in Brno, Tschechien, als Live-Chat- und Besucheraufzeichnungsplattform für E-Commerce-Websites gegründet und entwickelte sich zu einer der bekannteren europaeischen Live-Chat-Lösungen.",
-    "summary_abuse": "Smartsupp zeigt kein auffaelliges Missbrauchssignal. Es ist ein Live-Chat-SaaS für legitime E-Commerce-Unternehmen ohne nutzerseitige Content-Hosting-Fläche."
+    "history": "Smartsupp wurde 2013 in Brno, Tschechien, als Live-Chat- und Besucheraufzeichnungsplattform für E-Commerce-Websites gegründet und entwickelte sich zu einer der bekannteren europäischen Live-Chat-Lösungen.",
+    "summary_abuse": "Smartsupp zeigt kein auffälliges Missbrauchssignal. Es ist ein Live-Chat-SaaS für legitime E-Commerce-Unternehmen ohne nutzerseitige Content-Hosting-Fläche."
   },
   "SmartWeb": {
-    "description": "SmartWeb ist eine E-Commerce-Plattform aus Daenemark.",
-    "history": "SmartWeb wurde 2005 von zwei daenischen Unternehmern mit Sitz in Ega, Daenemark, gegründet, mit dem Ziel, Daenemarks innovativste Webshop-Plattform zu schaffen. Die Plattform wuchs auf über 6'000 Onlineshops in Daenemark und Norwegen. Öffentlich sind keine auffaelligen Eigentumswechsel oder Übernahmen bekannt.",
-    "summary_abuse": "SmartWeb ist ein daenisches E-Commerce-SaaS für kleine skandinavische Händler. Wie bei jedem Storefront-Builder gibt es theoretisch ein Risiko für Fake-Shop-Erstellung, die Plattform arbeitet jedoch im EU- und EEA-Regulierungsumfeld mit GDPR-Pflichten. Öffentlich sind keine Phishingkampagnen oder Betrugsfaelle bekannt, die spezifisch SmartWeb-Infrastruktur betreffen."
+    "description": "SmartWeb ist eine E-Commerce-Plattform aus Dänemark.",
+    "history": "SmartWeb wurde 2005 von zwei dänischen Unternehmern mit Sitz in Ega, Dänemark, gegründet, mit dem Ziel, Dänemarks innovativste Webshop-Plattform zu schaffen. Die Plattform wuchs auf über 6'000 Onlineshops in Dänemark und Norwegen. Öffentlich sind keine auffälligen Eigentumswechsel oder Übernahmen bekannt.",
+    "summary_abuse": "SmartWeb ist ein dänisches E-Commerce-SaaS für kleine skandinavische Händler. Wie bei jedem Storefront-Builder gibt es theoretisch ein Risiko für Fake-Shop-Erstellung, die Plattform arbeitet jedoch im EU- und EEA-Regulierungsumfeld mit GDPR-Pflichten. Öffentlich sind keine Phishingkampagnen oder Betrugsfälle bekannt, die spezifisch SmartWeb-Infrastruktur betreffen."
   },
   "Smash Balloon Instagram Feed": {
-    "description": "Instagram Feed zeigt Instagram-Beitraege aus deinen Instagram-Konten an, entweder in einem gemeinsamen Feed oder in mehreren getrennten Feeds. Erstellt von Smash Balloon.",
-    "history": "Smash Balloon Instagram Feed ist ein beliebtes WordPress-Plugin von Smash Balloon zum Anzeigen von Instagram-Beitraegen auf WordPress-Websites, mit über 1 Million aktiven Installationen.",
-    "summary_abuse": "Smash Balloon Instagram Feed zeigt kein auffaelliges Missbrauchssignal. Es ist ein WordPress-Plugin zum Anzeigen von Instagram-Inhalten aus legitimen Konten."
+    "description": "Instagram Feed zeigt Instagram-Beiträge aus deinen Instagram-Konten an, entweder in einem gemeinsamen Feed oder in mehreren getrennten Feeds. Erstellt von Smash Balloon.",
+    "history": "Smash Balloon Instagram Feed ist ein beliebtes WordPress-Plugin von Smash Balloon zum Anzeigen von Instagram-Beiträgen auf WordPress-Websites, mit über 1 Million aktiven Installationen.",
+    "summary_abuse": "Smash Balloon Instagram Feed zeigt kein auffälliges Missbrauchssignal. Es ist ein WordPress-Plugin zum Anzeigen von Instagram-Inhalten aus legitimen Konten."
   },
   "Smile": {
     "description": "Smile ist ein Anbieter von Loyalty-Programmen für E-Commerce.",
     "history": "Smile wurde 2012 in Kanada als Sweet Tooth Rewards gegründet, eine Loyalty-App für Shopify. 2017 wurde das Unternehmen in Smile.io umbenannt, nachdem es über Punkteprogramme hinaus auf Empfehlungen und VIP-Stufen erweitert hatte.",
-    "summary_abuse": "Smile.io zeigt kein auffaelliges Missbrauchssignal. Es ist eine Loyalty- und Rewards-Plattform, die legitime E-Commerce-Händler nutzen, um Wiederkaeufe zu foerdern."
+    "summary_abuse": "Smile.io zeigt kein auffälliges Missbrauchssignal. Es ist eine Loyalty- und Rewards-Plattform, die legitime E-Commerce-Händler nutzen, um Wiederkäufe zu fördern."
   },
   "Smile App": {
     "description": "Smile App bietet ein Loyalty-Programm für Shopify-Shops.",
-    "history": "Smile App ist der Shopify-App-Store-Eintrag für Smile.io, das 2012 urspruenglich als Sweet Tooth Rewards gegründet und 2017 in Smile.io umbenannt wurde. Es ist eine der am weitesten verbreiteten Loyalty-Apps auf Shopify.",
-    "summary_abuse": "Smile App zeigt kein auffaelliges Missbrauchssignal. Es ist eine Loyalty-Programm-App für legitime Shopify-Händler."
+    "history": "Smile App ist der Shopify-App-Store-Eintrag für Smile.io, das 2012 ursprünglich als Sweet Tooth Rewards gegründet und 2017 in Smile.io umbenannt wurde. Es ist eine der am weitesten verbreiteten Loyalty-Apps auf Shopify.",
+    "summary_abuse": "Smile App zeigt kein auffälliges Missbrauchssignal. Es ist eine Loyalty-Programm-App für legitime Shopify-Händler."
   },
   "Smile Virtual": {
-    "description": "Smile Virtual ist eine Plattform, über die Patienten aus der Ferne mit einem Zahnarzt sprechen können, um Optionen zur Verbesserung ihres Laechelns von zu Hause aus zu besprechen.",
+    "description": "Smile Virtual ist eine Plattform, über die Patienten aus der Ferne mit einem Zahnarzt sprechen können, um Optionen zur Verbesserung ihres Lächelns von zu Hause aus zu besprechen.",
     "history": "Smile Virtual ist eine Telehealth-Plattform für zahnmedizinische Fernberatungen, über die Patienten kosmetische Zahnmedizin von zu Hause aus erkunden können; sie arbeitet in der Dental-SaaS-Nische und scheint um 2019 gestartet zu sein.",
-    "summary_abuse": "Smile Virtual zeigt kein auffaelliges Missbrauchssignal. Es ist ein nischenorientiertes Telehealth-Planungswerkzeug für Zahnarztpraxen, ohne öffentliche Content-Hosting- oder anonyme Zugriffsfunktionen, die Betrüger anziehen wuerden."
+    "summary_abuse": "Smile Virtual zeigt kein auffälliges Missbrauchssignal. Es ist ein nischenorientiertes Telehealth-Planungswerkzeug für Zahnarztpraxen, ohne öffentliche Content-Hosting- oder anonyme Zugriffsfunktionen, die Betrüger anziehen würden."
   },
   "Smilee": {
     "description": "Smilee ist eine professionell verwaltete Chatlösung für die Kundenkommunikation.",
-    "history": "Smilee ist ein italienisches, professionell verwaltetes Live-Chat-SaaS für Kundenserviceteams, gestartet um 2016. Auffaellige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "Smilee zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Live-Chat-Plattform für Kundenservice-Agenten, ohne öffentliche Content-Hosting-Funktionen oder anonyme Zugangswege, die Scammer typischerweise ausnutzen."
+    "history": "Smilee ist ein italienisches, professionell verwaltetes Live-Chat-SaaS für Kundenserviceteams, gestartet um 2016. Auffällige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "Smilee zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Live-Chat-Plattform für Kundenservice-Agenten, ohne öffentliche Content-Hosting-Funktionen oder anonyme Zugangswege, die Betrüger typischerweise ausnutzen."
   },
   "Smilii": {
     "description": "Smilii ist ein familiengeführter Webhosting-Anbieter und Domain-Registrar mit Domainregistrierung und Website-Hosting.",
-    "history": "Smilii ist ein familiengeführter Webhosting- und Domain-Registrar, der als kleiner unabhängiger Anbieter arbeitet. Auffaellige Eigentumswechsel oder Branchenereignisse sind nicht dokumentiert.",
-    "summary_abuse": "Smilii ist ein kleiner Webhosting-Anbieter und Domain-Registrar. Hosting-Anbieter tragen ein inhärentes Missbrauchsrisiko, weil Kunden geteilte Infrastruktur für Phishing-Seiten oder Spam nutzen können. Die geringe Groesse von Smilii begrenzt jedoch den gesamten Missbrauchs-Footprint. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt."
+    "history": "Smilii ist ein familiengeführter Webhosting- und Domain-Registrar, der als kleiner unabhängiger Anbieter arbeitet. Auffällige Eigentumswechsel oder Branchenereignisse sind nicht dokumentiert.",
+    "summary_abuse": "Smilii ist ein kleiner Webhosting-Anbieter und Domain-Registrar. Hosting-Anbieter tragen ein inhärentes Missbrauchsrisiko, weil Kunden geteilte Infrastruktur für Phishing-Seiten oder Spam nutzen können. Die geringe Grösse von Smilii begrenzt jedoch den gesamten Missbrauchs-Footprint. Spezifische dokumentierte Missbrauchsvorfälle sind nicht bekannt."
   },
   "Smootify": {
     "description": "Smootify ist ein Werkzeug, mit dem E-Commerce-Shops vollständig in Webflow gestaltet werden können, unterstützt durch KI zur Vereinfachung des Prozesses.",
     "history": "Smootify ist ein nischenorientiertes E-Commerce-Werkzeug, das Webflow-Websites mit Einkaufsfunktionen und KI-gestütztem Design erweitert. Es entstand um 2022 als Webflow-native Commerce-Schicht.",
-    "summary_abuse": "Smootify zeigt kein auffaelliges Missbrauchssignal. Es ist ein von Webflow abhängiges E-Commerce-Add-on, bei dem Nutzer bereits eine Webflow-Site haben muessen, was die Angriffsfläche deutlich begrenzt."
+    "summary_abuse": "Smootify zeigt kein auffälliges Missbrauchssignal. Es ist ein von Webflow abhängiges E-Commerce-Add-on, bei dem Nutzer bereits eine Webflow-Site haben müssen, was die Angriffsfläche deutlich begrenzt."
   },
   "SmtpJS": {
     "description": "SmtpJS ist eine kostenlose Bibliothek, mit der du E-Mails aus JavaScript versenden kannst.",
-    "history": "SmtpJS ist eine kostenlose JavaScript-Bibliothek zum direkten Versenden von E-Mails aus clientseitigem Code über einen Relay-Server; sie ist seit etwa 2015 verfuegbar und wird von einem einzelnen Entwickler als Nebenprojekt gepflegt.",
-    "summary_abuse": "SmtpJS hat ein erhöhtes Missbrauchsrisiko, weil es E-Mails aus JavaScript im Browser versenden soll und dadurch SMTP-Zugangsdaten grundsaetzlich für alle sichtbar macht, die den Seitenquellcode ansehen. Dieses Design wird in Sicherheitsforschung häufig als Antipattern für Credential-Leaks bezeichnet. Die Bibliothek wurde in Phishing-Kits und Spamkampagnen gefunden, bei denen ihr Relay-Server für betrügerische E-Mails ausgenutzt wurde. Zum Relay-Endpunkt gibt es keine öffentliche Dokumentation zu Rate Limiting oder Abuse-Reports."
+    "history": "SmtpJS ist eine kostenlose JavaScript-Bibliothek zum direkten Versenden von E-Mails aus clientseitigem Code über einen Relay-Server; sie ist seit etwa 2015 verfügbar und wird von einem einzelnen Entwickler als Nebenprojekt gepflegt.",
+    "summary_abuse": "SmtpJS hat ein erhöhtes Missbrauchsrisiko, weil es E-Mails aus JavaScript im Browser versenden soll und dadurch SMTP-Zugangsdaten grundsätzlich für alle sichtbar macht, die den Seitenquellcode ansehen. Dieses Design wird in Sicherheitsforschung häufig als Antipattern für Credential-Leaks bezeichnet. Die Bibliothek wurde in Phishing-Kits und Spamkampagnen gefunden, bei denen ihr Relay-Server für betrügerische E-Mails ausgenutzt wurde. Zum Relay-Endpunkt gibt es keine öffentliche Dokumentation zu Rate Limiting oder Abuse-Reports."
   },
   "SmugMug": {
     "description": "SmugMug ist ein kostenpflichtiger Dienst für Bildfreigabe, Bildhosting und Onlinevideos, auf dem Nutzer Fotos und Videos hochladen können.",
-    "history": "SmugMug wurde 2002 von der Familie MacAskill in Los Gatos, Kalifornien, als kostenpflichtige Plattform für Fotohosting und Bildfreigabe gegründet. 2018 übernahm SmugMug Flickr von Verizon/Oath, erweiterte seine Nutzerbasis deutlich und wurde zu einer der groessten Fotoplattformen im Web.",
-    "summary_abuse": "SmugMug hat für eine Plattform mit nutzergenerierten Inhalten ein niedriges Missbrauchsprofil. Der Dienst ist kostenpflichtig und hat keinen Free Tier, was den Anreiz für massenhaftes Phishing oder Scam-Page-Hosting gegenüber kostenlosen Alternativen reduziert. Vereinzelt kommt Missbrauch durch Image-Hotlinking vor, ist aber kein Hauptproblem. Öffentlich sind keine auffaelligen Vorfälle systematischen Missbrauchs dokumentiert."
+    "history": "SmugMug wurde 2002 von der Familie MacAskill in Los Gatos, Kalifornien, als kostenpflichtige Plattform für Fotohosting und Bildfreigabe gegründet. 2018 übernahm SmugMug Flickr von Verizon/Oath, erweiterte seine Nutzerbasis deutlich und wurde zu einer der grössten Fotoplattformen im Web.",
+    "summary_abuse": "SmugMug hat für eine Plattform mit nutzergenerierten Inhalten ein niedriges Missbrauchsprofil. Der Dienst ist kostenpflichtig und hat keinen Free Tier, was den Anreiz für massenhaftes Phishing oder Scam-Page-Hosting gegenüber kostenlosen Alternativen reduziert. Vereinzelt kommt Missbrauch durch Image-Hotlinking vor, ist aber kein Hauptproblem. Öffentlich sind keine auffälligen Vorfälle systematischen Missbrauchs dokumentiert."
   },
   "Snabbt": {
     "description": "Snabbt.js ist eine minimalistische Animationsbibliothek in JavaScript.",
@@ -2442,13 +2442,13 @@
     "summary_abuse": "Snabbt.js zeigt kein Missbrauchssignal. Es ist eine aufgegebene JavaScript-Animationsbibliothek ohne nutzerseitige Fläche oder Netzwerkaufrufe, die von Angreifern ausgenutzt werden könnten."
   },
   "Snap": {
-    "history": "Snap ist ein quelloffenes Haskell-Webframework, das um 2010 zum Erstellen von Webserver-Anwendungen entstand. In den letzten Jahren ist die Aktivität gering und das Projekt weitgehend ruhend, während Yesod und Servant im Haskell-Oekosystem populaerer wurden.",
-    "summary_abuse": "Snap, das Haskell-Webframework, zeigt kein auffaelliges Missbrauchssignal. Es ist ein Backend-Webframework ohne nutzerseitig gehostete Fläche."
+    "history": "Snap ist ein quelloffenes Haskell-Webframework, das um 2010 zum Erstellen von Webserver-Anwendungen entstand. In den letzten Jahren ist die Aktivität gering und das Projekt weitgehend ruhend, während Yesod und Servant im Haskell-Ökosystem populärer wurden.",
+    "summary_abuse": "Snap, das Haskell-Webframework, zeigt kein auffälliges Missbrauchssignal. Es ist ein Backend-Webframework ohne nutzerseitig gehostete Fläche."
   },
   "Snap Pixel": {
     "description": "Snap Pixel ist ein JavaScript-Code, mit dem Werbetreibende die geräteübergreifende Wirkung von Kampagnen messen können.",
-    "history": "Snap Pixel ist ein Werbe-Tracking-Pixel von Snap Inc., der Muttergesellschaft von Snapchat, gegründet 2011 und seit 2017 boersennotiert. Es wurde als Teil von Snaps Self-Serve-Werbeplattform eingeführt und ermöglicht Werbetreibenden, Conversions aus Snapchat-Anzeigen zu verfolgen.",
-    "summary_abuse": "Snap Pixel ist ein Ad-Tracking-Pixel von Snap Inc., einem grossen boersennotierten Unternehmen. Legitime Nutzung überwiegt. Missbrauch entspricht vor allem anderen Ad-Pixeln, etwa wenn es auf betrügerischen Websites eingebettet wird, um Conversions falsch zuzuordnen. Snap Inc. betreibt ein öffentliches Bug-Bounty-Programm und setzt uebliche AUP-Regeln für Werbetreibende durch."
+    "history": "Snap Pixel ist ein Werbe-Tracking-Pixel von Snap Inc., der Muttergesellschaft von Snapchat, gegründet 2011 und seit 2017 börsenkotiert. Es wurde als Teil von Snaps Self-Serve-Werbeplattform eingeführt und ermöglicht Werbetreibenden, Conversions aus Snapchat-Anzeigen zu verfolgen.",
+    "summary_abuse": "Snap Pixel ist ein Ad-Tracking-Pixel von Snap Inc., einem grossen börsenkotierten Unternehmen. Legitime Nutzung überwiegt. Missbrauch entspricht vor allem anderen Ad-Pixeln, etwa wenn es auf betrügerischen Websites eingebettet wird, um Conversions falsch zuzuordnen. Snap Inc. betreibt ein öffentliches Bug-Bounty-Programm und setzt übliche AUP-Regeln für Werbetreibende durch."
   },
   "Snap.svg": {
     "history": "Snap.svg ist eine JavaScript-Bibliothek zur SVG-Manipulation, die Adobe 2013 als Nachfolger von Raphael.js für moderne Browser veröffentlichte. Adobe entwickelte sie als Open-Source-Projekt, hat sie in den letzten Jahren aber nicht aktiv gepflegt, wodurch sie heute ruhend ist.",
@@ -2456,47 +2456,47 @@
   },
   "SnapCall": {
     "description": "SnapCall ist eine Video-AI-Lösung für besseren Kundensupport durch Echtzeit-Videointeraktionen.",
-    "history": "SnapCall ist eine franzoesische Video-AI-Plattform für Kundensupport, gegründet um 2018; sie konzentriert sich auf Echtzeit-Videointeraktionen für Supportteams. Auffaellige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "SnapCall zeigt kein auffaelliges Missbrauchssignal. Es ist ein B2B-Werkzeug für Live-Video-Support, das von Kundenserviceteams genutzt wird, ohne öffentliche Content-Hosting- oder anonyme Zugriffsfunktionen, die Scammer typischerweise anvisieren."
+    "history": "SnapCall ist eine französische Video-AI-Plattform für Kundensupport, gegründet um 2018; sie konzentriert sich auf Echtzeit-Videointeraktionen für Supportteams. Auffällige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "SnapCall zeigt kein auffälliges Missbrauchssignal. Es ist ein B2B-Werkzeug für Live-Video-Support, das von Kundenserviceteams genutzt wird, ohne öffentliche Content-Hosting- oder anonyme Zugriffsfunktionen, die Betrüger typischerweise ins Visier nehmen."
   },
   "SnapEngage": {
     "description": "SnapEngage ist eine Live-Chat-Lösung für Unternehmen in verschiedenen Branchen.",
     "history": "SnapEngage wurde 2008 gegründet und wuchs zu einer branchenübergreifenden Live-Chat-SaaS-Plattform für Gesundheitswesen, Finanzdienstleistungen und andere regulierte Bereiche. Das Unternehmen blieb unabhängig und ist für HIPAA-konforme Chat-Angebote bekannt.",
-    "summary_abuse": "SnapEngage zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Live-Chat-Plattform für regulierte Branchen. Die Kundenbasis besteht aus Unternehmen statt anonymen Endnutzern, was die Exposition gegenüber Betrugs- oder Scam-Nutzung begrenzt."
+    "summary_abuse": "SnapEngage zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Live-Chat-Plattform für regulierte Branchen. Die Kundenbasis besteht aus Unternehmen statt anonymen Endnutzern, was das Risiko betrügerischer Nutzung begrenzt."
   },
   "SnapHop": {
     "description": "SnapHop ist eine Recruitment-Marketing-Plattform, die Organisationen hilft, Bewerber durch gezieltes Employer Branding und Outreach-Strategien anzuziehen, einzubinden und zu konvertieren.",
-    "history": "SnapHop wurde 2012 als Recruitment-Marketing-Plattform gegründet. Das Unternehmen hat seinen Sitz in Atlanta, Georgia, und ein APAC-Büro in Sydney, Australien, das die Region Asien-Pazifik unter der Domain snaphop.com.au bedient. Auffaellige Übernahmen oder grosse Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "SnapHop ist ein B2B-SaaS für Recruitment Marketing ohne auffaelliges Missbrauchssignal. Die Plattform richtet sich an HR-Abteilungen und Arbeitgeber zur Kandidatengewinnung; sie hat keine nutzerseitigen Hosting- oder anonymen Anmeldefunktionen, die Phishing- oder Spam-Missbrauch anziehen wuerden. Es sind keine Missbrauchsvorfälle mit dieser Plattform dokumentiert."
+    "history": "SnapHop wurde 2012 als Recruitment-Marketing-Plattform gegründet. Das Unternehmen hat seinen Sitz in Atlanta, Georgia, und ein APAC-Büro in Sydney, Australien, das die Region Asien-Pazifik unter der Domain snaphop.com.au bedient. Auffällige Übernahmen oder grosse Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "SnapHop ist ein B2B-SaaS für Recruitment Marketing ohne auffälliges Missbrauchssignal. Die Plattform richtet sich an HR-Abteilungen und Arbeitgeber zur Kandidatengewinnung; sie hat keine nutzerseitigen Hosting- oder anonymen Anmeldefunktionen, die Phishing- oder Spam-Missbrauch anziehen würden. Es sind keine Missbrauchsvorfälle mit dieser Plattform dokumentiert."
   },
   "SnapHost": {
     "description": "SnapHost ist eine Lösung für CAPTCHA-basierten Anti-Spam-Schutz von Webformularen.",
     "history": "SnapHost ist eine Anti-Spam-CAPTCHA-Lösung für den Schutz von Webformularen. Gründungsdetails sind öffentlich nicht dokumentiert.",
-    "summary_abuse": "SnapHost ist ein Anti-Spam-CAPTCHA-Dienst für Formularschutz ohne auffaelliges Missbrauchssignal. Sein Zweck ist die Verhinderung von Missbrauch."
+    "summary_abuse": "SnapHost ist ein Anti-Spam-CAPTCHA-Dienst für Formularschutz ohne auffälliges Missbrauchssignal. Sein Zweck ist die Verhinderung von Missbrauch."
   },
   "Snapps": {
     "description": "Snapps ist eine Plattform zum Erstellen und Hosten von Websites.",
-    "history": "Snapps ist ein KI-gestützter Website-Builder und eine Hostingplattform, die um 2021 bis 2022 entstand; sie richtet sich mit Drag-and-drop-Werkzeugen und KI-Content-Erstellung an kleine Unternehmen. Auffaellige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "Snapps ist eine Page-Builder- und Hostingplattform mit niedrigem Einstiegspreis und ohne dokumentierten Free Tier, was das Risiko für Phishing-Kit-Hosting gegenüber Free-Tier-Konkurrenten moderat senkt. Als Site-Hosting-Plattform könnte sie potenziell boesartige Seiten hosten, spezifische dokumentierte Missbrauchsvorfälle sind jedoch nicht bekannt. AUP und Takedown-Haltung des Anbieters sind öffentlich nicht besonders sichtbar."
+    "history": "Snapps ist ein KI-gestützter Website-Builder und eine Hostingplattform, die um 2021 bis 2022 entstand; sie richtet sich mit Drag-and-drop-Werkzeugen und KI-Content-Erstellung an kleine Unternehmen. Auffällige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "Snapps ist eine Page-Builder- und Hostingplattform mit niedrigem Einstiegspreis und ohne dokumentierten Free Tier, was das Risiko für Phishing-Kit-Hosting gegenüber Free-Tier-Konkurrenten moderat senkt. Als Site-Hosting-Plattform könnte sie potenziell bösartige Seiten hosten, spezifische dokumentierte Missbrauchsvorfälle sind jedoch nicht bekannt. AUP und Takedown-Haltung des Anbieters sind öffentlich nicht besonders sichtbar."
   },
   "SnapSea": {
-    "description": "SnapSea ist eine Plattform, die Reiseziele mit nutzergenerierten Inhalten darstellt, um echte Erlebnisse und lokale Eindruecke hervorzuheben.",
+    "description": "SnapSea ist eine Plattform, die Reiseziele mit nutzergenerierten Inhalten darstellt, um echte Erlebnisse und lokale Eindrücke hervorzuheben.",
     "history": "SnapSea ist eine Plattform, die Reiseziele mit nutzergenerierten Inhalten darstellt. Gründungsdetails sind nicht dokumentiert.",
-    "summary_abuse": "SnapSea ist eine Reise-UGC-Plattform ohne auffaelliges Missbrauchssignal."
+    "summary_abuse": "SnapSea ist eine Reise-UGC-Plattform ohne auffälliges Missbrauchssignal."
   },
   "SnapWidget": {
     "description": "SnapWidget ist eine Sammlung interaktiver Widgets für Instagram, Twitter und 500px.",
-    "history": "SnapWidget wurde um 2013 als Widget-Dienst gegründet, um Social-Media-Feeds von Instagram, Twitter und 500px in Websites einzubetten. Es bleibt ein unabhängiges SaaS ohne auffaellige Übernahmen oder Rebrandings.",
-    "summary_abuse": "SnapWidget hat ein niedriges Missbrauchsprofil. Es bettet Social-Media-Feeds auf Drittwebsites ein und hostet nutzergenerierte Inhalte nicht direkt. Das Widget kann Social-Content von Drittanbietern laden, was die ueblichen Datenschutzabwägungen sozialer Medien mitbringt, aber es sind keine dokumentierten Missbrauchsmuster bekannt, die gezielt SnapWidget betreffen."
+    "history": "SnapWidget wurde um 2013 als Widget-Dienst gegründet, um Social-Media-Feeds von Instagram, Twitter und 500px in Websites einzubetten. Es bleibt ein unabhängiges SaaS ohne auffällige Übernahmen oder Rebrandings.",
+    "summary_abuse": "SnapWidget hat ein niedriges Missbrauchsprofil. Es bettet Social-Media-Feeds auf Drittwebsites ein und hostet nutzergenerierte Inhalte nicht direkt. Das Widget kann Social-Content von Drittanbietern laden, was die üblichen Datenschutzabwägungen sozialer Medien mitbringt, aber es sind keine dokumentierten Missbrauchsmuster bekannt, die gezielt SnapWidget betreffen."
   },
   "SnatchBot": {
     "description": "SnatchBot ist eine cloudbasierte KI-Chatbot-Plattform.",
-    "history": "SnatchBot ist eine cloudbasierte Plattform zum Erstellen und Bereitstellen von Chatbots, gegründet um 2016 in Singapur; sie bietet einen Free Tier und unterstützt die Bereitstellung über Messaging-Kanäle. Auffaellige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "SnatchBot hat ein niedriges Missbrauchsprofil. Es ist eine Chatbot-Plattform, die vor allem für legitime Kundeninteraktion genutzt wird. Chatbot-Plattformen können grundsaetzlich zum Erstellen von Spam- oder Social-Engineering-Bots verwendet werden, aber für SnatchBot ist keine spezifische Geschichte weit verbreiteten Missbrauchs dokumentiert und der Free Tier ist im Umfang begrenzt."
+    "history": "SnatchBot ist eine cloudbasierte Plattform zum Erstellen und Bereitstellen von Chatbots, gegründet um 2016 in Singapur; sie bietet einen Free Tier und unterstützt die Bereitstellung über Messaging-Kanäle. Auffällige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "SnatchBot hat ein niedriges Missbrauchsprofil. Es ist eine Chatbot-Plattform, die vor allem für legitime Kundeninteraktion genutzt wird. Chatbot-Plattformen können grundsätzlich zum Erstellen von Spam- oder Social-Engineering-Bots verwendet werden, aber für SnatchBot ist keine spezifische Geschichte weit verbreiteten Missbrauchs dokumentiert und der Free Tier ist im Umfang begrenzt."
   },
   "sNews": {
     "history": "sNews ist ein minimales Ein-Datei-CMS für PHP und MySQL, das Mitte der 2000er-Jahre für leichtgewichtige Websites beliebt war. Das Projekt hat seit vielen Jahren nur minimale Entwicklungsaktivität und ist faktisch aufgegeben.",
-    "summary_abuse": "sNews zeigt kein auffaelliges Missbrauchssignal. Es ist ein selbst gehostetes, im Wesentlichen aufgegebenes PHP-CMS ohne gehostete Dienstfläche und ohne dokumentierte Missbrauchsmuster."
+    "summary_abuse": "sNews zeigt kein auffälliges Missbrauchssignal. Es ist ein selbst gehostetes, im Wesentlichen aufgegebenes PHP-CMS ohne gehostete Dienstfläche und ohne dokumentierte Missbrauchsmuster."
   },
   "SniffURL": {
     "description": "SniffURL ist eine Besucher-Analytics-Plattform, die Nutzerinteraktionen verfolgt und analysiert, um Engagement und Bindung auf Websites zu verbessern.",
@@ -2505,88 +2505,88 @@
   },
   "snigel AdConsent": {
     "description": "snigel AdConsent ist eine IAB-registrierte Consent-Management-Plattform (CMP), die Websites bei intakter Geschwindigkeit GDPR- und CCPA-konform halten soll.",
-    "history": "Snigel wurde 2012 von ehemaligen Google-Führungskraeften in Dublin, Irland, als Plattform für Publisher-Ad-Monetarisierung gegründet. Das Unternehmen erhielt bedeutende Investitionen von CBPE Capital und bedient über 200 grosse Publisher-Websites.",
-    "summary_abuse": "snigel AdConsent ist eine Consent-Management-Plattform (CMP) für GDPR- und CCPA-Compliance. Publisher nutzen sie, um Nutzereinwilligungen für Tracking einzuholen; sie erleichtert die Einwilligungserfassung, die Ad Targeting ermöglicht, betreibt aber selbst keine taeuschenden Praktiken."
+    "history": "Snigel wurde 2012 von ehemaligen Google-Führungskräften in Dublin, Irland, als Plattform für Publisher-Ad-Monetarisierung gegründet. Das Unternehmen erhielt bedeutende Investitionen von CBPE Capital und bedient über 200 grosse Publisher-Websites.",
+    "summary_abuse": "snigel AdConsent ist eine Consent-Management-Plattform (CMP) für GDPR- und CCPA-Compliance. Publisher nutzen sie, um Nutzereinwilligungen für Tracking einzuholen; sie erleichtert die Einwilligungserfassung, die Ad Targeting ermöglicht, betreibt aber selbst keine täuschenden Praktiken."
   },
   "snigel AdEngine": {
     "description": "snigel AdEngine ist ein Header-Bidding-Produkt von snigel.",
-    "history": "Snigel wurde 2012 von ehemaligen Google-Führungskraeften in Dublin, Irland, als Plattform für Publisher-Ad-Monetarisierung gegründet. Das Unternehmen erhielt bedeutende Investitionen von CBPE Capital und bedient über 200 grosse Publisher-Websites.",
-    "summary_abuse": "snigel AdEngine ist eine Header-Bidding-Plattform für Werbung, die Anzeigen von mehreren Demand-Partnern laedt; ihrer Natur nach bringt sie im Rahmen von Ad Tech umfangreiches Drittanbieter-Tracking mit sich. Der Anbieter veröffentlicht eine AUP und arbeitet mit grossen Publisher-Kunden."
+    "history": "Snigel wurde 2012 von ehemaligen Google-Führungskräften in Dublin, Irland, als Plattform für Publisher-Ad-Monetarisierung gegründet. Das Unternehmen erhielt bedeutende Investitionen von CBPE Capital und bedient über 200 grosse Publisher-Websites.",
+    "summary_abuse": "snigel AdEngine ist eine Header-Bidding-Plattform für Werbung, die Anzeigen von mehreren Demand-Partnern lädt; ihrer Natur nach bringt sie im Rahmen von Ad Tech umfangreiches Drittanbieter-Tracking mit sich. Der Anbieter veröffentlicht eine AUP und arbeitet mit grossen Publisher-Kunden."
   },
   "Snipcart": {
-    "description": "Snipcart ist eine Warenkorbplattform, die sich mit einfachem HTML und JavaScript in jede Website integrieren laesst.",
-    "history": "Snipcart wurde 2013 in Quebec City, Kanada, als HTML- und JavaScript-Warenkorb gegründet, der sich ohne dediziertes Backend in jede Website integrieren laesst. 2021 wurde Snipcart von Duda, einer Website-Building-Plattform, übernommen und wird weiterhin als eigenstaendiges Produkt betrieben.",
-    "summary_abuse": "Snipcart hat ein niedriges Missbrauchsprofil. Es ist ein entwicklerorientiertes E-Commerce-SDK, das Code-Integration verlangt und damit die Huerde gegenüber No-Code-Storefront-Buildern erhöht. Es sind keine dokumentierten Muster systematischer betrügerischer Shop-Erstellung über Snipcart bekannt. PCI-DSS-Compliance ist relevant, da Zahlungsdaten verarbeitet werden."
+    "description": "Snipcart ist eine Warenkorbplattform, die sich mit einfachem HTML und JavaScript in jede Website integrieren lässt.",
+    "history": "Snipcart wurde 2013 in Quebec City, Kanada, als HTML- und JavaScript-Warenkorb gegründet, der sich ohne dediziertes Backend in jede Website integrieren lässt. 2021 wurde Snipcart von Duda, einer Website-Building-Plattform, übernommen und wird weiterhin als eigenständiges Produkt betrieben.",
+    "summary_abuse": "Snipcart hat ein niedriges Missbrauchsprofil. Es ist ein entwicklerorientiertes E-Commerce-SDK, das Code-Integration verlangt und damit die Hürde gegenüber No-Code-Storefront-Buildern erhöht. Es sind keine dokumentierten Muster systematischer betrügerischer Shop-Erstellung über Snipcart bekannt. PCI-DSS-Compliance ist relevant, da Zahlungsdaten verarbeitet werden."
   },
   "SniperCRM": {
     "description": "SniperCRM ist eine Plattform zur Automatisierung, Verwaltung und Skalierung von E-Commerce-Abläufen.",
-    "history": "SniperCRM wurde 2019 als nigerianische Plattform für E-Commerce-CRM und Operations-Automatisierung gegründet. Das Produkt richtet sich vor allem an kleine und mittlere E-Commerce-Unternehmen in Nigeria, mit Preisen in nigerianischen Naira und Integrationen zu lokalen Payment Gateways wie Paystack und Flutterwave. Auffaellige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "SniperCRM ist ein nischenorientiertes B2B-E-Commerce-CRM mit Fokus auf den nigerianischen Markt und ohne auffaelliges Missbrauchssignal. Die Plattform verwaltet Bestell- und Kundendaten für Händler und bietet keine anonymen Hosting-, URL-Shortening- oder Massen-E-Mail-Funktionen, die typischerweise Betrüger anziehen. Es sind keine dokumentierten Missbrauchsvorfälle oder Sicherheitsberichte zu dieser Plattform bekannt."
+    "history": "SniperCRM wurde 2019 als nigerianische Plattform für E-Commerce-CRM und Operations-Automatisierung gegründet. Das Produkt richtet sich vor allem an kleine und mittlere E-Commerce-Unternehmen in Nigeria, mit Preisen in nigerianischen Naira und Integrationen zu lokalen Payment Gateways wie Paystack und Flutterwave. Auffällige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "SniperCRM ist ein nischenorientiertes B2B-E-Commerce-CRM mit Fokus auf den nigerianischen Markt und ohne auffälliges Missbrauchssignal. Die Plattform verwaltet Bestell- und Kundendaten für Händler und bietet keine anonymen Hosting-, URL-Shortening- oder Massen-E-Mail-Funktionen, die typischerweise Betrüger anziehen. Es sind keine dokumentierten Missbrauchsvorfälle oder Sicherheitsberichte zu dieser Plattform bekannt."
   },
   "SniperFast": {
     "description": "SniperFast ist ein Instant-Search-System für E-Commerce-Websites.",
-    "history": "SniperFast ist eine Instant-Search-Engine für E-Commerce-Websites, entwickelt von Prestalia GAN srl, einem kleinen Softwareunternehmen mit Sitz in der Republik San Marino; sie wird hauptsaechlich als Shopify-App vertrieben. Auffaellige Eigentumswechsel oder Einstellungsereignisse sind nicht dokumentiert.",
-    "summary_abuse": "SniperFast ist ein nischenorientiertes E-Commerce-Suchwidget ohne dokumentiertes Missbrauchssignal. Es laeuft als eingebettete Suchkomponente auf Händlerseiten und bietet keine nutzerseitigen Content-Hosting-, URL-Shortening- oder E-Mail-Verteilfunktionen, die Betrüger anziehen wuerden. Es sind keine bekannten Missbrauchsvorfälle gemeldet."
+    "history": "SniperFast ist eine Instant-Search-Engine für E-Commerce-Websites, entwickelt von Prestalia GAN srl, einem kleinen Softwareunternehmen mit Sitz in der Republik San Marino; sie wird hauptsächlich als Shopify-App vertrieben. Auffällige Eigentumswechsel oder Einstellungsereignisse sind nicht dokumentiert.",
+    "summary_abuse": "SniperFast ist ein nischenorientiertes E-Commerce-Suchwidget ohne dokumentiertes Missbrauchssignal. Es läuft als eingebettete Suchkomponente auf Händlerseiten und bietet keine nutzerseitigen Content-Hosting-, URL-Shortening- oder E-Mail-Verteilfunktionen, die Betrüger anziehen würden. Es sind keine bekannten Missbrauchsvorfälle gemeldet."
   },
   "Sniply": {
-    "description": "Sniply ist ein spezieller URL-Shortener, mit dem sich jeder Landingpage ein Call-to-Action hinzufuegen laesst.",
+    "description": "Sniply ist ein spezieller URL-Shortener, mit dem sich jeder Landingpage ein Call-to-Action hinzufügen lässt.",
     "history": "Sniply wurde 2014 in Vancouver, Kanada, als URL-Shortener gegründet, der eine Call-to-Action-Leiste über jeden geteilten Link legt und so jede geteilte Seite in einen Marketing-Touchpoint verwandelt. Das Unternehmen blieb unabhängig.",
-    "summary_abuse": "Sniply ist ein URL-Shortener mit Call-to-Action-Overlay und damit mit relevantem Missbrauchspotenzial. URL-Shortener werden regelmaessig genutzt, um Phishing- und Malware-Links zu verschleiern. Die Overlay-Funktion kann verwendet werden, um gefaelschte Markenbotschaften oder irreführende CTAs auf legitimen Drittseiten einzublenden. Der Free Tier ohne KYC ermöglicht anonyme Linkerstellung. Bei Sniply sind keine dokumentierten proaktiven Abuse-Monitoring-Massnahmen bekannt, und die Reaktionsfähigkeit bei Takedowns ist unklar."
+    "summary_abuse": "Sniply ist ein URL-Shortener mit Call-to-Action-Overlay und damit mit relevantem Missbrauchspotenzial. URL-Shortener werden regelmässig genutzt, um Phishing- und Malware-Links zu verschleiern. Die Overlay-Funktion kann verwendet werden, um gefälschte Markenbotschaften oder irreführende CTAs auf legitimen Drittseiten einzublenden. Der Free Tier ohne KYC ermöglicht anonyme Linkerstellung. Bei Sniply sind keine dokumentierten proaktiven Abuse-Monitoring-Massnahmen bekannt, und die Reaktionsfähigkeit bei Takedowns ist unklar."
   },
   "SNO Flex": {
     "description": "SNO Flex ist ein WordPress-Theme von SNO Sites. SNO Sites ist ein Unternehmen, das Website-Lösungen für Schulen und Bildungseinrichtungen anbietet.",
     "history": "SNO Flex ist ein WordPress-basiertes Website-Theme und eine Plattform von SNO Sites, spezialisiert auf gehostete Zeitungs- und Publikationswebsites für Schulen und Bildungseinrichtungen.",
-    "summary_abuse": "SNO Flex ist eine Plattform für Schulzeitungs-Websites ohne auffaelliges Missbrauchssignal; sie bedient Bildungseinrichtungen mit kuratiertem Content Management und ist kein frei zugänglicher Hostingdienst."
+    "summary_abuse": "SNO Flex ist eine Plattform für Schulzeitungs-Websites ohne auffälliges Missbrauchssignal; sie bedient Bildungseinrichtungen mit kuratiertem Content Management und ist kein frei zugänglicher Hostingdienst."
   },
   "Snoobi": {
     "description": "Snoobi ist ein Werkzeug für Webanalytics und Besuchertracking.",
-    "history": "Snoobi ist ein finnischer Dienst für Webanalytics und Besuchertracking. Er ist seit etwa 2009 aktiv und richtet sich vor allem an europaeische und finnische Unternehmen. Auffaellige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
-    "summary_abuse": "Snoobi ist ein B2B-Webanalytics-Werkzeug, das Besucherdaten im Auftrag von Website-Betreibern sammelt. Wie alle Analytics-Werkzeuge bringt es für Website-Besucher die ueblichen Datenschutzabwägungen mit sich, es gibt jedoch keine dokumentierten Missbrauchsmuster oder Einsaetze in Betrugskampagnen."
+    "history": "Snoobi ist ein finnischer Dienst für Webanalytics und Besuchertracking. Er ist seit etwa 2009 aktiv und richtet sich vor allem an europäische und finnische Unternehmen. Auffällige Übernahmen oder Eigentumswechsel sind nicht dokumentiert.",
+    "summary_abuse": "Snoobi ist ein B2B-Webanalytics-Werkzeug, das Besucherdaten im Auftrag von Website-Betreibern sammelt. Wie alle Analytics-Werkzeuge bringt es für Website-Besucher die üblichen Datenschutzabwägungen mit sich, es gibt jedoch keine dokumentierten Missbrauchsmuster oder Einsätze in Betrugskampagnen."
   },
   "Snowplow Analytics": {
     "description": "Snowplow ist eine Open-Source-Plattform für die Verwaltung von Verhaltensdaten in Unternehmen.",
-    "history": "Snowplow Analytics wurde 2012 in London von Alexander Dean und Yali Saar als Open-Source-Event-Datenpipeline für Behavioral Analytics gegründet. Das Unternehmen erhielt Series-B-Finanzierung und entwickelte sich zu einer anerkannten Dateninfrastrukturplattform für Enterprise-Datenteams, die vollständige Kontrolle über ihre Eventdaten benoetigen.",
-    "summary_abuse": "Snowplow Analytics zeigt kein auffaelliges Missbrauchssignal. Es ist eine selbst gehostete oder cloudverwaltete Behavioral-Data-Pipeline für Enterprise-Datenteams. Das primaere Bereitstellungsmodell gibt Betreibern volle Kontrolle über die Datenerfassung und bietet keine nutzerseitige gehostete Fläche, die weaponisiert werden könnte."
+    "history": "Snowplow Analytics wurde 2012 in London von Alexander Dean und Yali Saar als Open-Source-Event-Datenpipeline für Behavioral Analytics gegründet. Das Unternehmen erhielt Series-B-Finanzierung und entwickelte sich zu einer anerkannten Dateninfrastrukturplattform für Enterprise-Datenteams, die vollständige Kontrolle über ihre Eventdaten benötigen.",
+    "summary_abuse": "Snowplow Analytics zeigt kein auffälliges Missbrauchssignal. Es ist eine selbst gehostete oder cloudverwaltete Behavioral-Data-Pipeline für Enterprise-Datenteams. Das primäre Bereitstellungsmodell gibt Betreibern volle Kontrolle über die Datenerfassung und bietet keine nutzerseitige gehostete Fläche, die weaponisiert werden könnte."
   },
   "SOBI 2": {
-    "description": "SOBI2 ist eine aeltere Version der Joomla-Verzeichniserweiterung SOBI (Simple Open Business Index); sie wurde zum Erstellen und Verwalten von Verzeichniseinträgen auf Joomla-Websites genutzt, etwa für Unternehmen, Dienstleistungen oder andere Eintragstypen.",
+    "description": "SOBI2 ist eine ältere Version der Joomla-Verzeichniserweiterung SOBI (Simple Open Business Index); sie wurde zum Erstellen und Verwalten von Verzeichniseinträgen auf Joomla-Websites genutzt, etwa für Unternehmen, Dienstleistungen oder andere Eintragstypen.",
     "history": "SOBI 2 (Sigsiu Online Business Index 2) ist eine Legacy-Open-Source-Erweiterung für Joomla zur Erstellung von Branchenverzeichnissen, entwickelt von Sigsiu.NET. Die Entwicklung wurde 2011 eingestellt, als SobiPro die Nachfolge übernahm.",
-    "summary_abuse": "SOBI 2 ist eine eingestellte Joomla-Verzeichniserweiterung ohne dokumentiertes Missbrauchssignal; sie wurde von SobiPro abgeloest und wird nicht mehr aktiv eingesetzt."
+    "summary_abuse": "SOBI 2 ist eine eingestellte Joomla-Verzeichniserweiterung ohne dokumentiertes Missbrauchssignal; sie wurde von SobiPro abgelöst und wird nicht mehr aktiv eingesetzt."
   },
   "SobiPro": {
     "description": "SobiPro ist eine Erweiterung für Verzeichnis- und Listing-Management in Joomla, mit der Verzeichnisse, Unternehmenseinträge und andere strukturierte Inhalte auf Websites erstellt und verwaltet werden können.",
-    "history": "SobiPro ist eine Joomla-Erweiterung für Verzeichnis- und Listing-Management, entwickelt von Sigsiu.NET, einem kleinen deutschen Softwarehaus; sie ist seit etwa 2007 verfuegbar und wird weiterhin als nischenorientiertes Joomla-Add-on gepflegt.",
-    "summary_abuse": "SobiPro zeigt kein auffaelliges Missbrauchssignal. Es ist eine selbst gehostete Joomla-Erweiterung für Verzeichnisverwaltung ohne gehostete Cloud-Komponente, die Scammer direkt ausnutzen könnten."
+    "history": "SobiPro ist eine Joomla-Erweiterung für Verzeichnis- und Listing-Management, entwickelt von Sigsiu.NET, einem kleinen deutschen Softwarehaus; sie ist seit etwa 2007 verfügbar und wird weiterhin als nischenorientiertes Joomla-Add-on gepflegt.",
+    "summary_abuse": "SobiPro zeigt kein auffälliges Missbrauchssignal. Es ist eine selbst gehostete Joomla-Erweiterung für Verzeichnisverwaltung ohne gehostete Cloud-Komponente, die Scammer direkt ausnutzen könnten."
   },
   "Sobot Live Chat": {
     "description": "Sobot Live Chat ist eine Plattform für sofortige Kundeninteraktion und ermöglicht Echtzeitkommunikation in einer einzigen Oberfläche.",
-    "history": "Sobot ist eine chinesische SaaS-Plattform für Kundeninteraktion und Live Chat, gegründet um 2015; sie richtet sich mit Omnichannel-Supportfunktionen an Enterprise-Kunden und hat international expandiert. Auffaellige Übernahmen sind nicht dokumentiert.",
-    "summary_abuse": "Sobot Live Chat zeigt kein auffaelliges Missbrauchssignal. Es ist eine B2B-Plattform für Live Chat und Kundenservice, die von Unternehmen für legitime Kundeninteraktion genutzt wird, ohne anonyme Zugangs- oder öffentliche Content-Hosting-Funktionen."
+    "history": "Sobot ist eine chinesische SaaS-Plattform für Kundeninteraktion und Live Chat, gegründet um 2015; sie richtet sich mit Omnichannel-Supportfunktionen an Enterprise-Kunden und hat international expandiert. Auffällige Übernahmen sind nicht dokumentiert.",
+    "summary_abuse": "Sobot Live Chat zeigt kein auffälliges Missbrauchssignal. Es ist eine B2B-Plattform für Live Chat und Kundenservice, die von Unternehmen für legitime Kundeninteraktion genutzt wird, ohne anonyme Zugangs- oder öffentliche Content-Hosting-Funktionen."
   },
   "Socedo": {
     "description": "Socedo ist ein B2B-Demand-Generation-System für Social Media, das Unternehmen hilft, potenzielle Leads durch gezielte soziale Interaktionen und automatisierte Workflows zu identifizieren, anzusprechen und zu konvertieren.",
     "history": "Socedo war eine B2B-Demand-Generation-Plattform, gegründet um 2013, die Social-Media-Lead-Generation für Vertriebsteams automatisierte. Der Markenname leitet heute zu Socedo Agency weiter, was auf einen möglichen Pivot oder ein Rebranding hindeutet.",
-    "summary_abuse": "Socedo automatisiert Social-Media-Interaktionen zur Identifikation und Ansprache von Leads, eine Fähigkeit mit gewissem Potenzial für Social-Media-Spam oder unerwuenschten Outreach im grossen Massstab. Die Plattform richtet sich jedoch an B2B-Anwendungsfaelle, und es sind keine dokumentierten Faelle systematischen Plattformmissbrauchs bekannt."
+    "summary_abuse": "Socedo automatisiert Social-Media-Interaktionen zur Identifikation und Ansprache von Leads, eine Fähigkeit mit gewissem Potenzial für Social-Media-Spam oder unerwünschten Outreach im grossen Massstab. Die Plattform richtet sich jedoch an B2B-Anwendungsfälle, und es sind keine dokumentierten Fälle systematischen Plattformmissbrauchs bekannt."
   },
   "SOCi": {
     "description": "SOCi ist eine All-in-one-Plattform, die Workflows, Daten und KI vereinheitlicht, um Automatisierung über Geschäftsprozesse hinweg zu ermöglichen.",
     "history": "SOCi wurde 2012 als Marketingplattform für Unternehmen mit mehreren Standorten gegründet. Das Unternehmen erhielt erhebliche Venture-Capital-Finanzierung und erweiterte seine Plattform um KI-gestützte Marketingautomatisierung für Franchise- und Multi-Location-Marken.",
-    "summary_abuse": "SOCi ist eine Marketingautomatisierungsplattform für Multi-Location-Unternehmen ohne auffaelliges Missbrauchssignal. Es ist ein B2B-Werkzeug für Unternehmen, die lokales Marketing im grossen Massstab verwalten, ohne nutzerseitige Hosting-Fläche."
+    "summary_abuse": "SOCi ist eine Marketingautomatisierungsplattform für Multi-Location-Unternehmen ohne auffälliges Missbrauchssignal. Es ist ein B2B-Werkzeug für Unternehmen, die lokales Marketing im grossen Massstab verwalten, ohne nutzerseitige Hosting-Fläche."
   },
   "Social Pinpoint": {
     "description": "Social Pinpoint ist eine umfassende Onlineplattform, die sinnvolle und zugängliche Beteiligungsmöglichkeiten schafft und Communitys zusammenbringt.",
-    "history": "Social Pinpoint wurde 2013 in Newcastle, Australien, als digitale Plattform für Community Engagement für Behoerden und Beratungsunternehmen gegründet. Im Maerz 2026 fusionierte Social Pinpoint mit Consultation Manager zur einheitlichen Open-Point-Plattform. Social Pinpoint wurde unter der neuen Muttergesellschaft Open Point in Social Point umbenannt.",
-    "summary_abuse": "Social Pinpoint ist ein SaaS für Community Engagement und öffentliche Konsultationen, genutzt von Behoerden und grossen Organisationen. Die Zielgruppe sind professionelle Stakeholder und öffentliche Teilnehmende in formellen Beteiligungsprozessen, nicht anonyme Nutzer, was das Missbrauchspotenzial deutlich begrenzt. Öffentlich sind keine Betrugs- oder Phishing-Vorfälle mit der Social-Pinpoint-Plattform dokumentiert."
+    "history": "Social Pinpoint wurde 2013 in Newcastle, Australien, als digitale Plattform für Community Engagement für Behörden und Beratungsunternehmen gegründet. Im März 2026 fusionierte Social Pinpoint mit Consultation Manager zur einheitlichen Open-Point-Plattform. Social Pinpoint wurde unter der neuen Muttergesellschaft Open Point in Social Point umbenannt.",
+    "summary_abuse": "Social Pinpoint ist ein SaaS für Community Engagement und öffentliche Konsultationen, genutzt von Behörden und grossen Organisationen. Die Zielgruppe sind professionelle Stakeholder und öffentliche Teilnehmende in formellen Beteiligungsprozessen, nicht anonyme Nutzer, was das Missbrauchspotenzial deutlich begrenzt. Öffentlich sind keine Betrugs- oder Phishing-Vorfälle mit der Social-Pinpoint-Plattform dokumentiert."
   },
   "Social Snowball": {
     "description": "Social Snowball ist eine Affiliate- und Referral-Marketing-Plattform für E-Commerce-Marken.",
-    "history": "Social Snowball wurde 2020 von Noah Tucker in Miami, USA, gegründet, inspiriert durch Tuckers Erfahrung beim Skalieren eigener E-Commerce-Marken mit Affiliate Marketing. Nach 15 Monaten Entwicklung wurde die Plattform im Shopify App Store lanciert. Im Juni 2025 übernahm das britische boersenkotierte Digitalmarketing-Unternehmen Dotdigital Group Social Snowball für 35 Millionen USD und erweiterte damit sein Marketingautomatisierungsportfolio.",
-    "summary_abuse": "Social Snowball ist ein SaaS für Affiliate- und Referral-Marketing von E-Commerce-Marken. Affiliate-Marketing-Systeme können gelegentlich für Provisionsbetrug oder gefaelschte Empfehlungen ausgenutzt werden, die Kundenbasis von Social Snowball besteht jedoch aus etablierten DTC-Marken auf Shopify. Öffentlich sind keine Betrugsvorfälle oder Plattformmissbraeuche dokumentiert, die spezifisch mit Social Snowball verbunden sind."
+    "history": "Social Snowball wurde 2020 von Noah Tucker in Miami, USA, gegründet, inspiriert durch Tuckers Erfahrung beim Skalieren eigener E-Commerce-Marken mit Affiliate Marketing. Nach 15 Monaten Entwicklung wurde die Plattform im Shopify App Store lanciert. Im Juni 2025 übernahm das britische börsenkotierte Digitalmarketing-Unternehmen Dotdigital Group Social Snowball für 35 Millionen USD und erweiterte damit sein Marketingautomatisierungsportfolio.",
+    "summary_abuse": "Social Snowball ist ein SaaS für Affiliate- und Referral-Marketing von E-Commerce-Marken. Affiliate-Marketing-Systeme können gelegentlich für Provisionsbetrug oder gefälschte Empfehlungen ausgenutzt werden, die Kundenbasis von Social Snowball besteht jedoch aus etablierten DTC-Marken auf Shopify. Öffentlich sind keine Betrugsvorfälle oder Plattformmissbräuche dokumentiert, die spezifisch mit Social Snowball verbunden sind."
   },
   "Social9": {
     "description": "Social9 bietet Social-Sharing-Widgets und Plugins.",
     "history": "Social9 ist ein indischer Anbieter von Social-Sharing-Widgets und Plugins mit Sharing-Buttons und Content-Widgets für Websites. Das Unternehmen ist seit etwa 2015 unabhängig aktiv.",
-    "summary_abuse": "Social9 hat ein niedriges Missbrauchsprofil. Es stellt Social-Sharing-Widgets bereit, die in Websites eingebettet werden. Die Widgets können Drittanbieter-Sharing-Code mit den ueblichen Tracking-Abwaegungen laden, aber es sind keine spezifischen dokumentierten Missbrauchsmuster bekannt, die Social9 betreffen."
+    "summary_abuse": "Social9 hat ein niedriges Missbrauchsprofil. Es stellt Social-Sharing-Widgets bereit, die in Websites eingebettet werden. Die Widgets können Drittanbieter-Sharing-Code mit den üblichen Tracking-Abwägungen laden, aber es sind keine spezifischen dokumentierten Missbrauchsmuster bekannt, die Social9 betreffen."
   },
   "SocialJuice": {
     "description": "SocialJuice ist ein einfaches Tool, mit dem Unternehmen Video-Testimonials oder textbasierte Kundenstimmen von ihren Kundinnen und Kunden sammeln können.",
@@ -2655,7 +2655,7 @@
   "SoftwareSuggest": {
     "description": "SoftwareSuggest ist eine Plattform, die Unternehmen bei der Suche nach passenden Softwarelösungen unterstützt.",
     "history": "SoftwareSuggest ist eine indische Plattform für Software-Recherche und Bewertungen, die um 2014 gegründet wurde; sie funktioniert ähnlich wie G2 oder Capterra und hilft Unternehmen, Software zu finden. Auffällige Eigentümerwechsel sind nicht bekannt.",
-    "summary_abuse": "SoftwareSuggest ist ein Verzeichnis für Softwarebewertungen und -suche ohne auffälliges Missbrauchssignal. Es hostet keine nutzergenerierten Inhalte in einem Umfang und bietet keine Dienste, die Betrüger typischerweise ausnutzen."
+    "summary_abuse": "SoftwareSuggest ist ein Verzeichnis für Softwarebewertungen und -suche ohne auffälliges Missbrauchssignal. Es hostet keine nutzergenerierten Inhalte und bietet keine Dienste, die Betrüger typischerweise ausnutzen."
   },
   "Sogecommerce": {
     "description": "Sogecommerce ist ein Online-Zahlungssystem von Societe Generale zur sicheren Verarbeitung digitaler Transaktionen.",
@@ -2722,7 +2722,7 @@
     "summary_abuse": "Solusquare OmniCommerce Cloud ist eine spezialisierte E-Commerce-Plattform ohne dokumentiertes Missbrauchssignal."
   },
   "SolutionReach": {
-    "description": "SolutionReach ist eine Plattform für Patientenbindung und -bindungserhalt, mit der Gesundheitsdienstleister vom ersten Termin bis zur letzten Zahlung mit Patienten in Kontakt bleiben können.",
+    "description": "SolutionReach ist eine Plattform für Patientenkommunikation und -bindung, mit der Gesundheitsdienstleister vom ersten Termin bis zur letzten Zahlung mit Patienten in Kontakt bleiben können.",
     "history": "SolutionReach ist eine US-Plattform für Patient Engagement im Gesundheitswesen; sie bietet Terminerinnerungen, Messaging und Zufriedenheitsumfragen für medizinische Anbieter. Auffällige Eigentümerwechsel sind nicht dokumentiert.",
     "summary_abuse": "SolutionReach ist eine Plattform für Patient Engagement, die von Arztpraxen und anderen medizinischen Anbietern genutzt wird. Es gibt kein auffälliges Missbrauchssignal. Die Plattform bedient verifizierte Gesundheitsdienstleister und arbeitet unter HIPAA-Anforderungen."
   },
@@ -2852,7 +2852,7 @@
   "Sovrn//Commerce": {
     "description": "Sovrn//Commerce ist ein Tool zur Content-Monetarisierung für Publisher.",
     "history": "Sovrn//Commerce, früher VigLink, ist das Affiliate-Link-Monetarisierungsprodukt von Sovrn Holdings. Es wandelt normale Links automatisch in Affiliate-Links um, damit Publisher Provisionen verdienen können.",
-    "summary_abuse": "Sovrn//Commerce ist eine Plattform zur Affiliate-Link-Injektion für Publisher; sie fügt Tracking und Weiterleitungen in Links auf Publisher-Seiten ein. Wie alle Affiliate-Netzwerke trägt sie zum Nutzertracking bei und steht im weiteren Affiliate-Marketing-Ökosystem in einem Umfeld, in dem gelegentlich Cookie-Stuffing-Bedenken auftreten."
+    "summary_abuse": "Sovrn//Commerce ist eine Plattform zur Affiliate-Link-Injektion für Publisher; sie fügt Tracking und Weiterleitungen in Links auf Publisher-Seiten ein. Wie alle Affiliate-Netzwerke trägt sie zum Nutzertracking bei; im weiteren Affiliate-Marketing-Ökosystem kommt es zudem gelegentlich zu Bedenken wegen Cookie-Stuffing."
   },
   "Spark CMS": {
     "description": "Das CMS wurde von unseren Webentwicklern auf Basis von Kundenfeedback individuell gebaut. Es soll eine einfach bedienbare Plattform bieten, die in Abstimmung mit den Endnutzern gestaltet wurde.",
@@ -3255,7 +3255,7 @@
   "SpurIT Recurring Payments App": {
     "description": "SpurIT Recurring Payments App ist ein einfacher Weg, ein System für Rechnungszahlungen, Abonnemente und Fakturierung einzurichten.",
     "history": "SpurIT Recurring Payments App ist eine Shopify-Anwendung für Abonnementabrechnung von SpurIT (gegründet 2011), mit der Händler wiederkehrende Zahlungspläne für Produkte und Dienste einrichten können; sie gehört zum 39-Apps-Portfolio von SpurIT für Shopify.",
-    "summary_abuse": "SpurIT Recurring Payments App ist ein Shopify-Werkzeug für Abonnementabrechnung ohne dokumentiertes Missbrauchssignal. Es arbeitet innerhalb des Shopify App Store-Ökosystems."
+    "summary_abuse": "SpurIT Recurring Payments App ist ein Shopify-Werkzeug für Abonnementabrechnung ohne dokumentiertes Missbrauchssignal. Es ist Teil des Shopify-App-Store-Ökosystems."
   },
   "Sqimple": {
     "description": "Sqimple ist eine All-in-one-E-Commerce-Plattform, die Unternehmen hilft, online mehr zu verkaufen.",
@@ -3438,13 +3438,13 @@
   },
   "starti.app": {
     "description": "starti.app ist eine abonnementsbasierte Plattform, die Websites in mobile Anwendungen umwandelt.",
-    "history": "starti.app ist ein abonnementsbasiertes SaaS, das Websites in mobile Anwendungen umwandelt. Öffentlich ist nur wenig Geschichte verfügbar.",
+    "history": "starti.app ist ein abonnementsbasiertes SaaS, das Websites in mobile Anwendungen umwandelt. Über die Unternehmensgeschichte ist öffentlich nur wenig bekannt.",
     "summary_abuse": "starti.app hat kein auffälliges Missbrauchssignal. Es ist ein nischiger Dienst zur Umwandlung von Websites in Apps ohne dokumentierte Missbrauchsmuster."
   },
   "Statamic": {
     "description": "Statamic ist ein Open-Source- und selbst gehostetes Content-Management-System auf Basis der Programmiersprache PHP.",
     "history": "Statamic wurde 2012 von Jack McDade und Mubashar Iqbal als Flat-File-CMS auf Laravel-Basis gegründet. Mubashar stieg 2013 aus, Jason Varga kam 2014 als Co-Entwickler dazu, was zu einer vollständigen Neuentwicklung als Statamic 2.0 auf Laravel führte. Wichtige Meilensteine waren der Start der Website von Der Spiegel auf Statamic im Jahr 2017, die Veröffentlichung von Statamic 3 im Jahr 2020 als Composer-Paket mit Datenbankunterstützung und das Wachstum des Kernteams auf sechs Personen. Das Unternehmen bleibt eine vollständig gebootstrappte, unabhängige US LLC ohne externe Finanzierung oder Übernahmen.",
-    "summary_abuse": "Statamic ist ein selbst gehostetes PHP/Laravel-CMS ohne gehosteten SaaS-Tier, wodurch Website-Betreiber volle Kontrolle über Inhalte und Infrastruktur behalten. Als selbst gehostetes Content-Management-System hat es eine minimale Missbrauchsfläche, Missbrauch hängt vollständig davon ab, wie der Betreiber die eigene Serverbereitstellung absichert. Die Kernsoftware telefoniert nicht nach Hause, bettet keine Drittanbieter-Tracker ein und stellt keinen verbraucherseitigen Dienst bereit, den Betrüger typischerweise angreifen. Auffällige öffentliche Fälle von breitflächigem Missbrauch über Statamic selbst sind nicht dokumentiert."
+    "summary_abuse": "Statamic ist ein selbst gehostetes PHP/Laravel-CMS ohne gehosteten SaaS-Tier, wodurch Website-Betreiber volle Kontrolle über Inhalte und Infrastruktur behalten. Als selbst gehostetes Content-Management-System hat es eine minimale Missbrauchsfläche; Missbrauch hängt vollständig davon ab, wie der Betreiber die eigene Serverumgebung absichert. Die Kernsoftware telefoniert nicht nach Hause, bettet keine Drittanbieter-Tracker ein und stellt keinen verbraucherseitigen Dienst bereit, den Betrüger typischerweise angreifen. Auffällige öffentliche Fälle von breitflächigem Missbrauch über Statamic selbst sind nicht dokumentiert."
   },
   "Statcounter": {
     "history": "StatCounter wurde 1999 von Aodhan Cullen im Alter von 16 Jahren in Dublin, Irland, gegründet. Der Dienst wuchs als beliebte Webanalyse-Alternative zu Google Analytics auf über 1 Million Websites. Er ist weiterhin privat im Besitz des Gründers, ohne gemeldete Übernahmen oder Eigentümerwechsel.",
@@ -3488,7 +3488,7 @@
   "Stax": {
     "description": "Stax ist eine abonnementsbasierte Plattform für integrierte Zahlungstechnologie.",
     "history": "Stax wurde 2014 als Fattmerchant von Suneera Madhani, ihrem Bruder Sal und Jacques Fu in Orlando, Florida, gegründet. Das Unternehmen machte ein abonnementsbasiertes Zahlungsabwicklungsmodell mit fixer Gebühr und Wholesale-Interchange populär. In den frühen 2020ern erfolgte das Rebranding zu Stax. 2022 übernahm Stax CardX, eine Compliance-Plattform für Surcharging. Nach über 245 Millionen US-Dollar Risikokapital erreichte das Unternehmen Unicorn-Status mit einer Bewertung von über 1 Milliarde US-Dollar und verarbeitet jährlich über 23 Milliarden US-Dollar Zahlungsvolumen für mehr als 30'000 Händler.",
-    "summary_abuse": "Stax ist ein abonnementsbasierter Zahlungsabwickler für mehr als 30'000 Händler. Wie alle Payment Processor wird er gelegentlich von betrügerischen Händlern angegriffen, die unautorisierte Transaktionen verarbeiten wollen, doch Underwriting- und KYC-Prozesse mindern dieses Risiko. Das Preismodell mit fixer Monatsgebühr plus Wholesale-Interchange reduziert gegenüber prozentbasierten Prozessoren den Anreiz für schlechte Akteure. Stax veröffentlicht PCI-Compliance-Dokumentation und setzt übliche AUP-Regeln durch. Grössere öffentliche Missbrauchsvorfälle oder Sicherheitsverletzungen wurden nicht breit berichtet."
+    "summary_abuse": "Stax ist ein abonnementsbasierter Zahlungsabwickler für mehr als 30'000 Händler. Wie alle Payment Processor wird er gelegentlich von betrügerischen Händlern angegriffen, die unautorisierte Transaktionen verarbeiten wollen, doch Underwriting- und KYC-Prozesse mindern dieses Risiko. Das Preismodell mit fixer Monatsgebühr plus Wholesale-Interchange reduziert gegenüber prozentbasierten Prozessoren den Anreiz für Betrüger. Stax veröffentlicht PCI-Compliance-Dokumentation und setzt übliche AUP-Regeln durch. Grössere Missbrauchsvorfälle oder Sicherheitsverletzungen sind nicht öffentlich bekannt geworden."
   },
   "Stay AI": {
     "description": "Stay AI ist ein Subscription-Management-Werkzeug für Shopify.",
@@ -3557,7 +3557,7 @@
   },
   "STN Video": {
     "description": "STN Video ist eine Online-Video-Plattform für Publisher, Content Creators und Werbetreibende.",
-    "history": "STN Video ist eine US-basierte Online-Video-Plattform, die für Publisher, Content Creators und Werbetreibende mit Video Hosting, Distribution und Monetarisierungsdiensten gegründet wurde.",
+    "history": "STN Video ist eine US-amerikanische Online-Video-Plattform, die gegründet wurde, um Publishern, Content Creators und Werbetreibenden Video-Hosting, Distribution und Monetarisierung anzubieten.",
     "summary_abuse": "STN Video ist eine werbefinanzierte Videoplattform für Publisher und Werbetreibende. Wie die meisten ad-tech-nahen Plattformen sammelt sie Zuschauerdaten für Targeting-Zwecke, aber es ist kein dokumentiertes Muster von betrügerischer Nutzung oder bewusster Missbrauchsbegünstigung bekannt."
   },
   "Stockist": {
@@ -3706,7 +3706,7 @@
   "Strapi": {
     "description": "Strapi ist ein quelloffenes Headless CMS zum Erstellen schneller und einfach verwaltbarer APIs in JavaScript.",
     "history": "Strapi entstand 2015 in Paris als Schulprojekt von Pierre Burgy, Aurélien Georget und Jim Laurie und wurde zu einem der beliebtesten quelloffenen Headless CMS. Das Unternehmen nahm 2021 eine Series A über 10 Millionen US-Dollar von Index Ventures auf und folgte 2022 mit einer Series B über 31 Millionen US-Dollar.",
-    "summary_abuse": "Strapi zeigt kein auffälliges Missbrauchssignal. Es ist ein entwicklerorientiertes, quelloffenes Headless CMS für Backend-APIs, läuft auf Infrastruktur von Entwicklern und bietet keine verbrauchernahe Oberfläche, die für Betrüger besonders attraktiv wäre."
+    "summary_abuse": "Strapi zeigt kein auffälliges Missbrauchssignal. Es ist ein entwicklerorientiertes, quelloffenes Headless CMS für Backend-APIs, wird auf eigener Infrastruktur der Entwickler betrieben und bietet keine verbrauchernahe Oberfläche, die für Betrüger besonders attraktiv wäre."
   },
   "Strato": {
     "description": "Strato ist ein Internet-Hosting-Anbieter mit Sitz in Berlin, der dediziertes Server-Hosting, einen Website-Baukasten und Cloud-Speicherdienste anbietet.",
@@ -3963,7 +3963,7 @@
   },
   "SuperBuzz": {
     "description": "SuperBuzz ist eine Plattform, die Unternehmen mit KI-gestützten Kampagnen hilft, ihre Verkaufsleistung zu steigern.",
-    "history": "SuperBuzz wurde am 10. Januar 2018 in Israel als KI-gestützte Marketingplattform für Push-Benachrichtigungen gegründet. Das Unternehmen schloss eine Qualifying Transaction ab und wurde unter dem Kürzel SPZ an der TSX Venture Exchange börsennotiert.",
+    "history": "SuperBuzz wurde am 10. Januar 2018 in Israel als KI-gestützte Marketingplattform für Push-Benachrichtigungen gegründet. Das Unternehmen schloss eine Qualifying Transaction ab und wurde unter dem Kürzel SPZ an der TSX Venture Exchange börsenkotiert.",
     "summary_abuse": "SuperBuzz ist eine Marketingplattform für Push-Benachrichtigungen. Solche Plattformen tragen ein mittleres Missbrauchsrisiko, weil sie für Spam-Push-Kampagnen oder Tracking über Websites hinweg ohne ausreichende Einwilligung zweckentfremdet werden können. Für SuperBuzz sind keine konkreten dokumentierten Missbrauchsfälle bekannt."
   },
   "Superchat": {
@@ -4232,7 +4232,7 @@
   },
   "Syncle": {
     "description": "Syncle ist ein Tool, das relevante Produktvideo-Reviews von YouTube automatisch in Onlineshops integriert.",
-    "history": "Syncle ist ein spezialisiertes SaaS, das YouTube-Produktvideo-Reviews automatisch in Onlineshops einbettet; ein Gründungsdatum oder eine Eigentümergeschichte sind öffentlich nicht dokumentiert.",
+    "history": "Syncle ist ein spezialisiertes SaaS, das YouTube-Produktvideo-Reviews automatisch in Onlineshops einbettet; Gründungsdatum und Eigentümerhistorie sind öffentlich nicht dokumentiert.",
     "summary_abuse": "Syncle ist ein Tool zur Integration von Video-Reviews in E-Commerce-Shops ohne auffällige Missbrauchssignale; es hat keine verbrauchernahen Hosting-Funktionen, die Phishing oder Betrug anziehen."
   },
   "Synctrack": {
@@ -4242,7 +4242,7 @@
   },
   "Syndeca": {
     "description": "Syndeca ist eine Visual-Commerce-Plattform, mit der Marken schnell ansprechende und handlungsorientierte Kampagnen erstellen können.",
-    "history": "Syndeca ist eine Visual-Commerce-Plattform, mit der Marken kaufbare digitale Kampagnen erstellen. Es scheint ein kleines unabhängiges Unternehmen mit begrenzter öffentlicher Geschichte zu sein.",
+    "history": "Syndeca ist eine Visual-Commerce-Plattform, mit der Marken kaufbare digitale Kampagnen erstellen. Es scheint ein kleines unabhängiges Unternehmen zu sein, über dessen Geschichte öffentlich wenig bekannt ist.",
     "summary_abuse": "Syndeca hat keine auffälligen Missbrauchssignale. Es ist eine markenorientierte Visual-Commerce-Plattform ohne dokumentierte Ausnutzung für Betrug."
   },
   "Synerise": {
@@ -4275,11 +4275,11 @@
   },
   "Systems Accel": {
     "description": "Systems Accel ist eine All-in-one-Plattform, die Prozesse automatisiert und Verkäufe für Coaches, Berater und Dienstleister steigern soll.",
-    "history": "Systems Accel ist eine All-in-one-Plattform für Sales- und Marketing-Automation für Coaches, Berater und Dienstleister; ein Gründungsdatum oder eine Eigentümergeschichte sind öffentlich nicht dokumentiert.",
+    "history": "Systems Accel ist eine All-in-one-Plattform für Sales- und Marketing-Automation für Coaches, Berater und Dienstleister; Gründungsdatum und Eigentümerhistorie sind öffentlich nicht dokumentiert.",
     "summary_abuse": "Systems Accel ist eine Marketing-Automation-Plattform für kleine Dienstleistungsunternehmen ohne auffällige Missbrauchssignale; es ist ein typisches SMB-Automation-Tool ohne dokumentierte Beteiligung an Betrug oder Phishing."
   },
   "Syte": {
-    "description": "Syte ist ein Anbieter visueller KI-Technologie, die Navigation, Produktsuche und Nutzererlebnis von Retail-Websites verbessern soll, indem sie Lösungen zur Aktivierung und Konversion von Käufern antreibt.",
+    "description": "Syte ist ein Anbieter visueller KI-Technologie, die Navigation, Produktsuche und Nutzererlebnis von Retail-Websites verbessern soll, indem sie Lösungen bereitstellt, die Käufer ansprechen und zur Konversion führen.",
     "history": "Syte wurde um 2015 in Israel gegründet und bietet visuelle KI für Produktsuche im Detailhandel. Das Unternehmen nahm VC-Finanzierung auf und bedient Enterprise-Händler in den Bereichen Mode und Wohnartikel.",
     "summary_abuse": "Syte hat keine auffälligen Missbrauchssignale. Es ist ein Enterprise-Tool für visuelle KI-Produktsuche ohne verbrauchernahe gehostete Oberfläche, die für Betrug ausgenutzt werden könnte."
   }
