@@ -4281,6 +4281,16 @@
     "website": "https://www.bestie.ai",
     "white_label_wrapper_likelihood": 3
   },
+  "bet365": {
+    "cats": [
+      19
+    ],
+    "html": [
+      "<a [^>]*href=['\"]http[s]?://www\\.bet365"
+    ],
+    "icon": "bet365.png",
+    "website": "https://www.bet365affiliates.com"
+  },
   "BeTheme": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
@@ -11337,6 +11347,16 @@
     "website": "https://bontii.dk",
     "white_label_wrapper_likelihood": 3
   },
+  "Book Like A Boss": {
+    "cats": [
+      72
+    ],
+    "dom": [
+      "a[href*='bookme.name']"
+    ],
+    "icon": "Book Like A Boss.png",
+    "website": "https://www.booklikeaboss.com/"
+  },
   "Book N Pay": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
@@ -13288,7 +13308,7 @@
     "pricing_transparency_score": 10,
     "privacy_score": 8,
     "scriptSrc": [
-      "bootstrap(?:[^>]*?([0-9a-fA-F]{7,40}|[\\d]+(?:.[\\d]+(?:.[\\d]+)?)?)|)[^>]*?(?:\\.min)?\\.js\\;version:\\1"
+      "(?:/|-)bootstrap(?:[^/]*?([0-9a-fA-F]{7,40}|[\\d]+(?:\\.[\\d]+(?:\\.[\\d]+)?)?)|)[^/]*?(?:\\.min)?\\.js\\;version:\\1"
     ],
     "soc2_type2": false,
     "source_urls": [
@@ -14721,6 +14741,20 @@
     "vendor_stability_score": 7,
     "website": "https://www.bowtie.ai",
     "white_label_wrapper_likelihood": 1
+  },
+  "Box": {
+    "cats": [
+      95
+    ],
+    "description": "Box is a cloud content management and file sharing platform.",
+    "dns": {
+      "TXT": [
+        "box-domain-verification="
+      ]
+    },
+    "icon": "Box.png",
+    "saas": true,
+    "website": "https://www.box.com"
   },
   "Boxmode": {
     "abuse_score": 4,
@@ -17385,7 +17419,7 @@
     "technical_depth_score": 4,
     "tracker_density": "light",
     "vendor_stability_score": 4,
-    "website": "https://www.bsmart.co.il/?utm_source=wappalyzer&utm_medium=referral",
+    "website": "https://www.bsmart.co.il/",
     "white_label_wrapper_likelihood": 3
   },
   "Bsport": {

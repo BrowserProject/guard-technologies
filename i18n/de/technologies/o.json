@@ -751,11 +751,6 @@
     "history": "Oracle Web Cache war ein Content-Caching-Server in Oracle Application Server und frühen Oracle Fusion Middleware-Versionen, der die Performance von Websites beschleunigen sollte. Oracle hat ihn in Fusion Middleware 12c abgekündigt und entfernt, wobei 11.1.1.9 die letzte unterstützte Version war.",
     "summary_abuse": "Für Oracle Web Cache gibt es kein nennenswertes Missbrauchssignal. Es ist ein abgekündigter Backend-Caching-Server, der in Oracle-Unternehmens-Middleware eingesetzt wurde, ohne verbraucherseitige Angriffsfläche mit Relevanz für Phishing oder Betrug."
   },
-  "Oracle WebLogic Server": {
-    "description": "Oracle WebLogic Server ist ein Java-basierter Application Server, der eine Plattform zum Entwickeln, Bereitstellen und Betreiben von Java-Anwendungen auf Unternehmensebene bietet.",
-    "history": "Oracle WebLogic Server stammt von BEA Systems, das WebLogic Mitte der 1990er-Jahre als einen der ersten Java Application Server auf den Markt brachte. BEA WebLogic wurde zum führenden Java EE Application Server für Unternehmen, bevor Oracle BEA Systems 2008 für 8,5 Milliarden US-Dollar übernahm, das Produkt in Oracle WebLogic Server umbenannte und als zentrale Laufzeitumgebung in Oracle Fusion Middleware integrierte.",
-    "summary_abuse": "Oracle WebLogic Server zeigt kein nennenswertes verbraucherseitiges Missbrauchssignal, ist aber historisch ein besonders wertvolles Ziel für Exploits. Mehrere kritische Deserialisierungs- und Remote-Code-Execution-Schwachstellen (CVE-2017-10271, CVE-2019-2725 und weitere) wurden aktiv von Ransomware-Gruppen und Kryptowährungs-Mining-Malware ausgenutzt, um Unternehmensserver zu kompromittieren. Oracle patcht diese Schwachstellen aktiv, Unternehmen sind aber für zeitnahes Patchen verantwortlich."
-  },
   "Orama": {
     "description": "Orama ist eine Plattform für Volltext- und Vektorsuche an 300 globalen Standorten.",
     "history": "Orama wurde um 2022 zunächst als Lyra veröffentlicht, eine in TypeScript geschriebene Open-Source-Volltextsuchmaschine. Das Projekt wurde in Orama umbenannt und um Vektorsuche, hybride Suche sowie eine über ein globales Edge-Netzwerk bereitgestellte Cloud-Hosting-Plattform (Orama Cloud) erweitert. Der Open-Source-Kern bleibt unter Apache-2.0 lizenziert und hat eine aktive Community.",

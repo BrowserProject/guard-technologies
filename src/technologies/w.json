@@ -2557,6 +2557,16 @@
     "website": "https://web4realty.com",
     "white_label_wrapper_likelihood": 1
   },
+  "WebAdministrator CMS": {
+    "cats": [
+      1
+    ],
+    "description": "WebAdministrator CMS is a content management system used heavily by Polish public institutions.",
+    "html": [
+      "<!-- [\\d\\.]+ / WebAdministrator \\(\\d{2}.\\d{2}\\.\\d{4} \\d{2}:\\d{2}\\) //-->"
+    ],
+    "website": "https://www.jskinternet.pl/jsk/oferta/webadministrator-cms/"
+  },
   "Webareal": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
@@ -3063,6 +3073,22 @@
     "vendor_stability_score": 3,
     "website": "https://webedition.de/en",
     "white_label_wrapper_likelihood": 1
+  },
+  "Webempresa": {
+    "cats": [
+      88
+    ],
+    "description": "Webempresa is a Spanish web hosting provider specialised in WordPress, WooCommerce and Joomla hosting.",
+    "dns": {
+      "NS": [
+        "ns\\d+\\.webempresa\\.eu"
+      ],
+      "SOA": [
+        "ns\\d+\\.webempresa\\.eu"
+      ]
+    },
+    "icon": "Webempresa.png",
+    "website": "https://www.webempresa.com"
   },
   "WebEngage": {
     "abuse_score": 2,
@@ -3875,6 +3901,27 @@
     "website": "https://webim.ru",
     "white_label_wrapper_likelihood": 2
   },
+  "WebinarGeek": {
+    "cats": [
+      103
+    ],
+    "description": "WebinarGeek is a Dutch webinar platform for hosting, embedding and marketing live and automated webinars.",
+    "dom": [
+      "iframe[src*='webinargeek.com'], script[src*='embed.webinargeek.com']"
+    ],
+    "icon": "WebinarGeek.svg",
+    "js": {
+      "GeekEmbedStart": "",
+      "GeekEmbedLoaded": ""
+    },
+    "scriptSrc": [
+      "embed\\.webinargeek\\.com"
+    ],
+    "website": "https://www.webinargeek.com",
+    "xhr": [
+      "\\.webinargeek\\.com"
+    ]
+  },
   "Webinaris": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
@@ -4292,6 +4339,7 @@
     ],
     "company_size_bucket": "mega",
     "confidence": 7,
+    "cpe": "cpe:2.3:a:oracle:weblogic_server:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 0,
     "description": "WebLogic Server is an Application Server that runs on a middle tier, between back-end databases and related applications and browser-based thin clients.",
     "enterprise_adoption": "widespread",
@@ -8764,6 +8812,24 @@
     "website": "https://microsoft.com/windowsserver",
     "white_label_wrapper_likelihood": 0
   },
+  "Windsurf": {
+    "cats": [
+      112
+    ],
+    "description": "Windsurf (formerly Codeium) is an AI-powered code editor (IDE) that uses large language models for code generation, completion, and agentic workflows. The windsurf-verification TXT record confirms domain ownership for Windsurf services.",
+    "dns": {
+      "TXT": [
+        "windsurf-verification="
+      ]
+    },
+    "icon": "Windsurf.svg",
+    "pricing": [
+      "payg",
+      "freemium"
+    ],
+    "saas": true,
+    "website": "https://windsurf.com"
+  },
   "WINEAROUND": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
@@ -10081,6 +10147,20 @@
     "website": "https://www.wix.com/freesitebuilder/tae-store",
     "white_label_wrapper_likelihood": 1
   },
+  "Wiz": {
+    "cats": [
+      16
+    ],
+    "description": "Wiz is a cloud-native application protection platform (CNAPP).",
+    "dns": {
+      "TXT": [
+        "wiz-domain-verification="
+      ]
+    },
+    "icon": "Wiz.png",
+    "saas": true,
+    "website": "https://www.wiz.io"
+  },
   "Wized": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,
@@ -10787,8 +10867,8 @@
       "WordPress"
     ],
     "scriptSrc": [
-      "woocommerce",
-      "/woocommerce(?:\\.min)?\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+      "^(?!.*?/wp-content/plugins/[^/]+/js/integrations/woocommerce\\.js(?:\\?ver=[\\d.]+)?$).*woocommerce",
+      "^(?!.*?/wp-content/plugins/[^/]+/js/integrations/woocommerce\\.js(?:\\?ver=[\\d.]+)?$).*/woocommerce(?:\\.min)?\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
     ],
     "soc2_type2": false,
     "source_urls": [
@@ -11074,7 +11154,9 @@
     "confidence": 5,
     "description": "WooCommerce Subscriptions primarily allows you to create and sell subscription products from your WooCommerce shop.",
     "dom": [
-      "link[href*='/wp-content/plugins/woocommerce-subscriptions/']"
+      "link[href*='/wp-content/plugins/woocommerce-subscriptions/']",
+      "link[href*=\"/plugins/woocommerce-subscriptions/\"]",
+      "script[src*=\"/plugins/woocommerce-subscriptions/\"]"
     ],
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
@@ -11087,6 +11169,9 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "This is an official WooCommerce extension developed and maintained by Automattic/WooCommerce. Released as part of the WooCommerce ecosystem, it extends the core platform functionality.",
+    "html": [
+      "/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/build"
+    ],
     "icon": "WooCommerce.svg",
     "implies": [
       "WooCommerce"
@@ -11797,9 +11882,6 @@
     "pricing_transparency_score": 10,
     "privacy_score": 6,
     "saas": true,
-    "scripts": [
-      "/wp-content"
-    ],
     "scriptSrc": [
       "/wp-(?:content|includes)/",
       "wp-embed\\.min\\.js",
@@ -12584,6 +12666,20 @@
     "vendor_stability_score": 5,
     "website": "https://www.worketc.com",
     "white_label_wrapper_likelihood": 1
+  },
+  "Workplace by Meta": {
+    "cats": [
+      19
+    ],
+    "description": "Workplace was an enterprise collaboration and communication platform developed by Meta (formerly Facebook), used for messaging, news feeds, and groups within organisations.",
+    "dns": {
+      "TXT": [
+        "workplace-domain-verification="
+      ]
+    },
+    "icon": "Workplace.svg",
+    "saas": true,
+    "website": "https://www.workplace.com"
   },
   "Workstand": {
     "abuse_score": 1,
@@ -15133,5 +15229,27 @@
     "summary_abuse": "WysiBB has no abuse signal. It is a small dormant JavaScript editor library with no consumer-facing surface.",
     "technical_depth_score": 3,
     "website": "https://wysibb.com"
+  },
+  "Wysistat": {
+    "cats": [
+      10
+    ],
+    "cookies": {
+      "wysistat": ""
+    },
+    "description": "Wysistat is a French web analytics and audience measurement service.",
+    "icon": "Wysistat.png",
+    "js": {
+      "_wsq": "",
+      "_wysistat": "",
+      "wysistat": ""
+    },
+    "scriptSrc": [
+      "www\\.wysistat\\.(?:com|net)/"
+    ],
+    "website": "https://www.wysistat.net",
+    "xhr": [
+      "wysistat\\.(?:com|net)"
+    ]
   }
 }

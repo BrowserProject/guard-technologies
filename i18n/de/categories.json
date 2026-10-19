@@ -322,5 +322,8 @@
   },
   "111": {
     "description": "Fundraising- und Spendenplattformen ermöglichen Wohltätigkeitsorganisationen, Nonprofits, Bildungseinrichtungen, politischen Kampagnen und Crowdfunding-Projekten, online Beiträge anzunehmen. Die Plattformen bieten Spendenformulare, wiederkehrende Spenden, Peer-to-Peer Seiten, Text-to-Give, Mobile Bidding und Auktionen, Donor CRMs sowie Quittungs- und Steuerbrief-Erstellung. Beispiele sind Donorbox, GiveWP, Classy, Qgiv, Kindful, Raisely, GiveSmart, OneCause, FundRazr, iRaiser, GiveCampus, RaiseDonors, Vanco, Click & Pledge, Frontstream, Neon CRM und der Mikrokreditgeber Kiva. Die Plattformen betten Widgets oder Iframes auf Charity-Websites ein oder hosten Spendenseiten auf der Vendor Domain und integrieren Stripe, Braintree, PayPal und ACH Processor."
+  },
+  "112": {
+    "description": "Künstliche Intelligenz umfasst Websites und Dienste, die auf generativer AI aufbauen: Modellanbieter und ihre APIs (OpenAI, Anthropic), AI-Coding-Assistenten und Editoren (Cursor, Windsurf), AI-App-Builder (Lovable), Sprach- und Audiogenerierung (ElevenLabs) sowie AI-basierte Analysetools wie die Altersschätzung anhand von Gesichtern. Erkannt wird das meist über Domain-Verifizierungseinträge der Anbieter, eingebundene SDKs oder API-Aufrufe direkt aus der Seite. Das grösste Risiko liegt im Datenfluss: Prompts, hochgeladene Dateien, Sprachaufnahmen oder Gesichtsbilder gehen an einen externen Modellanbieter, oft ausserhalb der EU, und werden je nach Plan gespeichert oder fürs Training genutzt. Clientseitige Integrationen können zudem API-Keys preisgeben, und LLM-Funktionen machen Prompt Injection und unzuverlässige Antworten möglich."
   }
 }

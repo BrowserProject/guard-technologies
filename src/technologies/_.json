@@ -1,4 +1,17 @@
 {
+  "10to8": {
+    "cats": [
+      72
+    ],
+    "html": [
+      "<a [^>]*id=\"TTE[^\"]"
+    ],
+    "icon": "10to8.png",
+    "website": "https://10to8.com/",
+    "xhr": [
+      "10to8\\.com"
+    ]
+  },
   "11Sight": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
@@ -464,6 +477,16 @@
     "website": "https://www.34sp.com",
     "white_label_wrapper_likelihood": 1
   },
+  "3Q": {
+    "cats": [
+      14
+    ],
+    "icon": "3Q.png",
+    "scripts": [
+      "3qsdn\\.com"
+    ],
+    "website": "https://3q.video"
+  },
   "4-Tell": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -726,6 +749,16 @@
     "vendor_stability_score": 5,
     "website": "https://4partners.io/en/4p-cms",
     "white_label_wrapper_likelihood": 4
+  },
+  "4w MarketPlace for Publishers": {
+    "cats": [
+      36
+    ],
+    "icon": "4wmarketplace.png",
+    "scripts": [
+      "cdn\\.feed\\.4wnet\\.com"
+    ],
+    "website": "http://www.4wmarketplace.com/"
   },
   "51.LA": {
     "abuse_score": 3,
@@ -1412,5 +1445,15 @@
     "summary_abuse": "_hyperscript has no notable abuse signal. It is a client-side JavaScript scripting library with no consumer-facing network services.",
     "technical_depth_score": 6,
     "website": "https://hyperscript.org"
+  },
+  "|related| Natív Hirdetés Kft": {
+    "cats": [
+      36
+    ],
+    "icon": "related.png",
+    "scripts": [
+      "//related\\.hu"
+    ],
+    "website": "https://related.hu"
   }
 }

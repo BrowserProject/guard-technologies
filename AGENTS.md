@@ -79,7 +79,7 @@ This is non-negotiable and differs from generic machine translation:
 
 1. Pick a tractable batch. Good first batches: the technologies most users
    actually hit, i.e. records with `popularity_tier` of `dominant` or
-   `mainstream`, and all 108 categories (small, high-leverage, shown on almost
+   `mainstream`, and all 109 categories (small, high-leverage, shown on almost
    every report). You can also just go letter by letter.
 2. For each record, read the English fields from `src/`, write the German into
    the matching `i18n/de/` file. Do not edit `src/` (that is the English source

@@ -1434,6 +1434,9 @@
     "history": "AccessiWay is an Italian digital accessibility compliance solution launched around 2019. No notable ownership changes documented.",
     "icon": "AccessiWay.svg",
     "iso27001": false,
+    "js": {
+      "accessWidget.config.footerHtml": ""
+    },
     "kind": "commercial-saas",
     "license_type": "proprietary",
     "maintenance_status": "active",
@@ -3053,6 +3056,16 @@
     "website": "https://www.activengage.com",
     "white_label_wrapper_likelihood": 2
   },
+  "ACTV8": {
+    "cats": [
+      36
+    ],
+    "icon": "ACTV8.svg",
+    "js": {
+      "a8MpParams": ""
+    },
+    "website": "https://www.actv8me.com/"
+  },
   "Acuity Scheduling": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
@@ -4143,6 +4156,16 @@
     "website": "https://co.addi.com/",
     "white_label_wrapper_likelihood": 1
   },
+  "Addingwell SST": {
+    "cats": [
+      42
+    ],
+    "html": [
+      "\\.js\\?aw='.*?\\+.*?dl;"
+    ],
+    "icon": "Addingwell SST.png",
+    "website": "https://www.addingwell.com"
+  },
   "Addsearch": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
@@ -5112,6 +5135,20 @@
     "website": "https://www.adloox.com",
     "white_label_wrapper_likelihood": 1
   },
+  "Admatic": {
+    "cats": [
+      36
+    ],
+    "description": "Admatic is a Turkish advertising and supply-side platform (SSP) that serves ads via header bidding and programmatic exchanges.",
+    "icon": "Admatic.png",
+    "scriptSrc": [
+      "\\.admatic\\.com\\.tr/"
+    ],
+    "website": "https://www.admatic.com.tr",
+    "xhr": [
+      "\\.admatic\\.(?:com\\.tr|de|io)"
+    ]
+  },
   "AdminBuy": {
     "abuse_score": 4,
     "ai_generated_likelihood": 3,
@@ -5602,6 +5639,16 @@
     "website": "https://adnegah.net",
     "white_label_wrapper_likelihood": 4
   },
+  "Adnuntius": {
+    "cats": [
+      36
+    ],
+    "icon": "Adnuntius.png",
+    "scripts": [
+      "cdn\\.adnuntius\\.com/adn\\.js"
+    ],
+    "website": "https://adnuntius.com"
+  },
   "Adnymics": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
@@ -5652,6 +5699,20 @@
     "vendor_stability_score": 5,
     "website": "https://adnymics.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Adobe": {
+    "cats": [
+      19
+    ],
+    "description": "Adobe enterprise domain claim, used by the Adobe Admin Console to verify ownership of a domain for Adobe identity management.",
+    "dns": {
+      "TXT": [
+        "adobe-idp-site-verification="
+      ]
+    },
+    "icon": "Adobe.svg",
+    "saas": true,
+    "website": "https://www.adobe.com"
   },
   "Adobe Analytics": {
     "abuse_score": 2,
@@ -7457,6 +7518,25 @@
     "vendor_stability_score": 7,
     "website": "https://www.advancedcustomfields.com"
   },
+  "Adventive": {
+    "cats": [
+      36
+    ],
+    "description": "Adventive is an ad-serving and rich-media advertising platform; its ad tags are served from ads.adventive.com.",
+    "dom": [
+      "script[src*=\"ads.adventive.com/\"]",
+      "img[src*=\"ads.adventive.com/\"]",
+      "iframe[src*=\"ads.adventive.com/\"]"
+    ],
+    "icon": "Adventive.png",
+    "scriptSrc": [
+      "ads\\.adventive\\.com/"
+    ],
+    "website": "https://adventive.com",
+    "xhr": [
+      "ads\\.adventive\\.com"
+    ]
+  },
   "Advert Stream": {
     "abuse_score": 4,
     "ai_generated_likelihood": 2,
@@ -7618,6 +7698,45 @@
     "vendor_stability_score": 3,
     "website": "https://www.advin.cz",
     "white_label_wrapper_likelihood": 3
+  },
+  "Advisible": {
+    "cats": [
+      36
+    ],
+    "icon": "Advisible.png",
+    "scripts": [
+      "//cdn\\.advisible\\.com"
+    ],
+    "website": "https://www.advisible.com"
+  },
+  "Adwos CMS": {
+    "cats": [
+      1,
+      6
+    ],
+    "description": "Adwos CMS is a turnkey CMS for classified ads, marketplaces and rental services. Go 1.24 backend + Next.js 16 frontend, PostgreSQL 16, Redis. Self-hosted, one-time license per domain.",
+    "html": [
+      "<meta[^>]+property=\"og:site_name\"[^>]+content=\"Adwos CMS\"",
+      "<meta[^>]+name=\"adwos:powered-by\""
+    ],
+    "icon": "Adwos CMS.svg",
+    "implies": [
+      "Next.js",
+      "Go",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "meta": {
+      "generator": "^Adwos CMS",
+      "application-name": "^Adwos CMS$"
+    },
+    "oss": false,
+    "pricing": [
+      "onetime",
+      "low"
+    ],
+    "saas": false,
+    "website": "https://adwos.org"
   },
   "Adyen": {
     "abuse_score": 2,
@@ -9265,6 +9384,17 @@
     "website": "https://www.aidbase.ai",
     "white_label_wrapper_likelihood": 5
   },
+  "AIDEM Technologies": {
+    "cats": [
+      36
+    ],
+    "icon": "AIDEM Technologies.png",
+    "scripts": [
+      "//zero\\.aidemsrv\\.com/dist/prebid\\.js",
+      "stream\\.aidemsrv\\.com/lib/stream\\.js"
+    ],
+    "website": "https://www.aidem.com/"
+  },
   "Aiden": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
@@ -10099,6 +10229,11 @@
     "confidence": 6,
     "dark_pattern_likelihood": 2,
     "description": "Airtable is a low-code platform for building collaborative apps.",
+    "dns": {
+      "TXT": [
+        "airtable-verification="
+      ]
+    },
     "dom": [
       "iframe[scr*='//airtable.com/'], a[href*='//airtable.com/'][target='_blank']"
     ],
@@ -13394,6 +13529,17 @@
     "vendor_stability_score": 5,
     "website": "https://alternc.com"
   },
+  "Altervista Platform": {
+    "cats": [
+      11,
+      88
+    ],
+    "html": [
+      "<a href=\"http://www.altervista.org\">Altervista</a>"
+    ],
+    "icon": "Altervista Platform.png",
+    "website": "https://altervista.com"
+  },
   "Altis": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -14475,6 +14621,22 @@
       "payments\\.amazon\\.com"
     ]
   },
+  "Amazon Route 53": {
+    "cats": [
+      88
+    ],
+    "description": "Amazon Route 53 is AWS's authoritative DNS service; domains using it are served by awsdns nameservers.",
+    "dns": {
+      "NS": [
+        "\\.awsdns-\\d+\\."
+      ],
+      "SOA": [
+        "\\.awsdns-\\d+\\."
+      ]
+    },
+    "icon": "Amazon Web Services.svg",
+    "website": "https://aws.amazon.com/route53/"
+  },
   "Amazon S3": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
@@ -14546,7 +14708,8 @@
     "description": "Amazon Simple Email Service (SES) is an email service that enables developers to send mail from within any application.",
     "dns": {
       "TXT": [
-        "amazonses\\.com"
+        "amazonses\\.com",
+        "^amazonses:"
       ]
     },
     "enterprise_adoption": "widespread",
@@ -16289,7 +16452,7 @@
       12
     ],
     "confidence": 9,
-    "cpe": "cpe:2.3:a:angularjs:angular:*:*:*:*:*:*:*:*",
+    "cpe": "cpe:2.3:a:angular:angular:*:*:*:*:*:*:*:*",
     "description": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google.",
     "dom": {
       "[ng-version]": {
@@ -16395,6 +16558,22 @@
     "summary_abuse": "Angular Material is a Google-maintained UI component library with no notable abuse signal. It is a development tool used to build web interfaces.",
     "technical_depth_score": 7,
     "website": "https://material.angularjs.org"
+  },
+  "Angular Notitia": {
+    "cats": [
+      59,
+      66
+    ],
+    "description": "Easy, flexible toast notification library for Angular applications.",
+    "icon": "AngularNotitia.svg",
+    "implies": [
+      "Angular"
+    ],
+    "js": {
+      "ngxNotitia": "(.+)\\;version:\\1"
+    },
+    "oss": true,
+    "website": "https://ngx-notitia.vercel.app"
   },
   "AngularDart": {
     "abuse_score": 0,
@@ -17314,6 +17493,24 @@
     "vendor_stability_score": 7,
     "website": "https://www.anthology.com/products/lifecycle-engagement/alumni-and-advancement/anthology-encompass",
     "white_label_wrapper_likelihood": 0
+  },
+  "Anthropic": {
+    "cats": [
+      112
+    ],
+    "description": "Anthropic is an AI safety company that develops Claude, a family of large language models, and provides an API for building AI-powered applications. The anthropic-domain-verification TXT record confirms domain ownership for Anthropic services.",
+    "dns": {
+      "TXT": [
+        "anthropic-domain-verification"
+      ]
+    },
+    "icon": "Anthropic.svg",
+    "pricing": [
+      "payg",
+      "freemium"
+    ],
+    "saas": true,
+    "website": "https://www.anthropic.com"
   },
   "AntiBot.Cloud": {
     "abuse_score": 1,
@@ -22332,6 +22529,23 @@
     "technical_depth_score": 6,
     "website": "https://artplayer.org"
   },
+  "ArtsAI": {
+    "cats": [
+      36
+    ],
+    "description": "ArtsAI is an AI-driven advertising attribution and measurement platform that tracks campaign performance via its arttrk.com pixel.",
+    "dom": [
+      "img[src*=\"arttrk.com/pixel\"]"
+    ],
+    "html": [
+      "arttrk\\.com/pixel"
+    ],
+    "icon": "ArtsAI.png",
+    "website": "https://artsai.com",
+    "xhr": [
+      "arttrk\\.com"
+    ]
+  },
   "Aruba.it": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
@@ -24673,6 +24887,21 @@
     "website": "https://www.atlassian.com/software/bitbucket/overview/",
     "white_label_wrapper_likelihood": 0
   },
+  "Atlassian Cloud": {
+    "cats": [
+      47
+    ],
+    "description": "Atlassian Cloud is the hosted platform behind Atlassian products such as Jira, Confluence and Bitbucket.",
+    "dns": {
+      "TXT": [
+        "atlassian-domain-verification=",
+        "atlassian-sending-domain-verification="
+      ]
+    },
+    "icon": "Atlassian.svg",
+    "saas": true,
+    "website": "https://www.atlassian.com"
+  },
   "Atlassian Confluence": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
@@ -25419,6 +25648,16 @@
     "website": "https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/",
     "white_label_wrapper_likelihood": 2
   },
+  "audienzz": {
+    "cats": [
+      1
+    ],
+    "icon": "audienzz.png",
+    "js": {
+      "audienzz": ""
+    },
+    "website": "https://audienzz.ch"
+  },
   "AudioEye": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -25521,6 +25760,23 @@
     "vendor_stability_score": 4,
     "website": "https://www.audiohook.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Audion": {
+    "cats": [
+      36
+    ],
+    "description": "Audion is a digital audio advertising company; its Audion360 podcast player is embedded on publisher pages and loads from 360.audion.fm.",
+    "dom": [
+      "#audion360-podcast-player-init, .audion-reader"
+    ],
+    "icon": "Audion.png",
+    "scriptSrc": [
+      "\\.360\\.audion\\.fm/"
+    ],
+    "website": "https://www.audion.fm",
+    "xhr": [
+      "\\.audion\\.fm"
+    ]
   },
   "Auglio": {
     "abuse_score": 1,
@@ -26045,6 +26301,10 @@
     "headquarters_country": "US",
     "hipaa_compliant": false,
     "history": "Authorize.Net was founded in 1996 in Utah as one of the earliest online payment gateways. It was acquired by CyberSource in November 2007 for $565 million, and subsequently became part of Visa when Visa acquired CyberSource in July 2010 for approximately $2 billion. It remains one of the most widely used payment gateway solutions in the US.",
+    "html": [
+      "authorizenet\\\\?/directpost_payment",
+      "js\\.authorize\\.net"
+    ],
     "icon": "authorize.net.svg",
     "iso27001": false,
     "js": {
@@ -26364,6 +26624,20 @@
     "technical_depth_score": 8,
     "vendor_stability_score": 9,
     "website": "https://autoconf.com.br"
+  },
+  "Autodesk": {
+    "cats": [
+      19
+    ],
+    "description": "Autodesk provides design, engineering and construction software.",
+    "dns": {
+      "TXT": [
+        "autodesk-domain-verification="
+      ]
+    },
+    "icon": "Autodesk.svg",
+    "saas": true,
+    "website": "https://www.autodesk.com"
   },
   "Autoketing": {
     "abuse_score": 2,
@@ -27658,6 +27932,19 @@
     "vendor_stability_score": 6,
     "website": "https://www.avanser.com",
     "white_label_wrapper_likelihood": 1
+  },
+  "AvantisVideo": {
+    "cats": [
+      36
+    ],
+    "icon": "AvantisVideo.png",
+    "js": {
+      "avantisJS": ""
+    },
+    "scripts": [
+      "//cdn\\.avantisvideo\\.com"
+    ],
+    "website": "https://www.avantisvideo.com"
   },
   "Avasam": {
     "abuse_score": 3,

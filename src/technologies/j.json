@@ -470,6 +470,20 @@
     "website": "https://www.jameda.de",
     "white_label_wrapper_likelihood": 1
   },
+  "Jamf": {
+    "cats": [
+      16
+    ],
+    "description": "Jamf is an Apple device management (MDM) and endpoint security platform.",
+    "dns": {
+      "TXT": [
+        "jamf-site-verification="
+      ]
+    },
+    "icon": "Jamf.svg",
+    "saas": true,
+    "website": "https://www.jamf.com"
+  },
   "JamFeed": {
     "abuse_score": 3,
     "ai_generated_likelihood": 2,
@@ -1376,6 +1390,20 @@
     "website": "https://www.jetboost.io",
     "white_label_wrapper_likelihood": 3
   },
+  "JetBrains": {
+    "cats": [
+      47
+    ],
+    "description": "JetBrains develops IDEs and developer tools including IntelliJ IDEA and TeamCity.",
+    "dns": {
+      "TXT": [
+        "jetbrains-domain-verification="
+      ]
+    },
+    "icon": "JetBrains.png",
+    "saas": true,
+    "website": "https://www.jetbrains.com"
+  },
   "JetEngine": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
@@ -2265,6 +2293,23 @@
     "vendor_stability_score": 5,
     "website": "https://www.jobboardfire.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Job Boardly": {
+    "cats": [
+      101
+    ],
+    "cookies": {
+      "_job_boardly_session": ""
+    },
+    "description": "Job Boardly is a SaaS platform for creating and running hosted job boards without code.",
+    "icon": "Job Boardly.png",
+    "scriptSrc": [
+      "assets\\.jobboardly\\.com/"
+    ],
+    "website": "https://www.jobboardly.com",
+    "xhr": [
+      "(?:assets|cdn)\\.jobboardly\\.com"
+    ]
   },
   "JobAdder": {
     "abuse_score": 1,
@@ -3483,7 +3528,7 @@
     ],
     "company_size_bucket": "startup",
     "confidence": 6,
-    "cpe": "cpe:2.3:a:jquery:jquery_ui:*:*:*:*:*:*:*:*",
+    "cpe": "cpe:2.3:a:jqueryui:jquery_ui:*:*:*:*:*:*:*:*",
     "description": "jQuery UI is a collection of GUI widgets, animated visual effects, and themes implemented with jQuery, Cascading Style Sheets, and HTML.",
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,

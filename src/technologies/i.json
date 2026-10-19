@@ -332,6 +332,20 @@
     "vendor_stability_score": 7,
     "website": "https://www.ibexa.co"
   },
+  "IBM": {
+    "cats": [
+      19
+    ],
+    "description": "IBM enterprise domain claim, used by IBMid to verify ownership of a domain for IBM Cloud and IBM account management.",
+    "dns": {
+      "TXT": [
+        "^ibmid="
+      ]
+    },
+    "icon": "IBM.svg",
+    "saas": true,
+    "website": "https://www.ibm.com"
+  },
   "IBM Carbon Design System": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
@@ -2843,6 +2857,10 @@
     ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
+    "cookies": {
+      "ir_gbd": "",
+      "ir_pi": ""
+    },
     "dark_pattern_likelihood": 2,
     "description": "Impact helps businesses contract and pay partners.",
     "enterprise_adoption": "common",
@@ -2860,7 +2878,10 @@
     "iso27001": false,
     "js": {
       "ImpactRadiusEvent": "",
-      "irEvent": ""
+      "irEvent": "",
+      "ire": "",
+      "ire_o": "",
+      "impactDataLayer": ""
     },
     "kind": "commercial-saas",
     "license_type": "proprietary",
@@ -2873,7 +2894,8 @@
     "pricing_transparency_score": 2,
     "privacy_score": 4,
     "scriptSrc": [
-      "d\\.impactradius-event\\.com"
+      "d\\.impactradius-event\\.com",
+      "utt\\.impactcdn\\.com"
     ],
     "soc2_type2": true,
     "summary_abuse": "Impact.com is an affiliate and partnership management platform. Affiliate marketing platforms can be exploited for commission fraud, fake traffic, and coupon stacking abuse. Impact serves enterprise clients under contracts with fraud detection tools, but affiliate networks are inherently susceptible to abuse by bad-faith publishers. No specific large-scale incident is documented for Impact itself.",

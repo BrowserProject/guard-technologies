@@ -3382,6 +3382,16 @@
     "website": "https://www.taurosmedia.com",
     "white_label_wrapper_likelihood": 4
   },
+  "Tave": {
+    "cats": [
+      72
+    ],
+    "dom": [
+      "iframe[src*='tave.com']"
+    ],
+    "icon": "Tave.png",
+    "website": "https://tave.com"
+  },
   "Tawk.to": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
@@ -3688,6 +3698,16 @@
     "vendor_stability_score": 7,
     "website": "https://teachable.com",
     "white_label_wrapper_likelihood": 0
+  },
+  "teachworks": {
+    "cats": [
+      72
+    ],
+    "dom": [
+      "[id='teachworks-booking-button']"
+    ],
+    "icon": "teachworks.png",
+    "website": "https://teachworks.com"
   },
   "Teads": {
     "abuse_score": 4,
@@ -4283,6 +4303,11 @@
     "confidence": 4,
     "dark_pattern_likelihood": 2,
     "description": "TeamViewer is a network and IT systems uptime monitoring service, formerly known as Monitis.",
+    "dns": {
+      "TXT": [
+        "teamviewer-sso-verification="
+      ]
+    },
     "enterprise_adoption": "limited",
     "enterprise_pricing_only": false,
     "founded_year": 2007,
@@ -5312,6 +5337,11 @@
     "headquarters_country": "IE",
     "hipaa_compliant": false,
     "history": "Terminalfour was founded in 1998 in Dublin, Ireland as a web content management platform focused on the higher education sector. The company has grown to serve over 250 universities and colleges across 32,000+ websites globally, with offices in Ireland, the UK, the US, and Australia. The platform has evolved from a CMS into a full digital engagement suite including email marketing, AI-powered search, and course discovery tools. No major acquisitions or ownership changes are publicly documented.",
+    "html": [
+      "<[^>]+terminalfour\\.net/",
+      "<[^>]+t4Edit-page",
+      "<[^>]+/terminalfour/page/(?:section|content|directEdit)"
+    ],
     "icon": "Terminalfour.svg",
     "iso27001": false,
     "kind": "commercial-product",
@@ -6812,6 +6842,20 @@
     "vendor_stability_score": 4,
     "website": "https://www.the.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "THEADX": {
+    "cats": [
+      36
+    ],
+    "description": "THEADX is a Turkish advertising network and ad exchange that serves ad tags and tracking pixels via theadx.com.",
+    "icon": "THEADX.png",
+    "scriptSrc": [
+      "app\\.theadx\\.com/"
+    ],
+    "website": "https://www.theadx.com",
+    "xhr": [
+      "\\.theadx\\.com"
+    ]
   },
   "Theasys": {
     "abuse_score": 1,
@@ -15368,6 +15412,16 @@
     "website": "https://www.traek.io",
     "white_label_wrapper_likelihood": 3
   },
+  "Traffective": {
+    "cats": [
+      36
+    ],
+    "icon": "Traffective.png",
+    "js": {
+      "traffectiveLib": ""
+    },
+    "website": "https://www.traffective.com"
+  },
   "TrafficGuard": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -15743,7 +15797,6 @@
     ],
     "company_size_bucket": "startup",
     "confidence": 5,
-    "cpe": "cpe:2.3:a:transifex:transifex:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 2,
     "description": "Transifex is a cloud-based platform for managing the translation and localization of digital content.",
     "enterprise_adoption": "common",
@@ -19182,6 +19235,19 @@
     "technical_depth_score": 7,
     "website": "https://turfjs.org/"
   },
+  "Turhost": {
+    "cats": [
+      88
+    ],
+    "description": "Turhost is a Turkish hosting provider; hosted domains use turhost.com nameservers.",
+    "dns": {
+      "NS": [
+        "\\.turhost\\.com"
+      ]
+    },
+    "icon": "Turhost.png",
+    "website": "https://www.turhost.com"
+  },
   "TuriTop": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
@@ -19287,6 +19353,17 @@
     "vendor_stability_score": 6,
     "website": "https://tutorlms.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Tutorbird": {
+    "cats": [
+      72
+    ],
+    "dom": [
+      "iframe[src*='.tutorbird.com']",
+      "a[href*='.tutorbird.com']"
+    ],
+    "icon": "Tutorbird.png",
+    "website": "https://tutorbird.com"
   },
   "TutorCruncher": {
     "abuse_score": 0,
@@ -20224,6 +20301,20 @@
     "vendor_stability_score": 3,
     "website": "https://www.twilightcms.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Twilio": {
+    "cats": [
+      47
+    ],
+    "description": "Twilio is a cloud communications platform providing SMS, voice, email and messaging APIs.",
+    "dns": {
+      "TXT": [
+        "twilio-domain-verification="
+      ]
+    },
+    "icon": "Twilio.svg",
+    "saas": true,
+    "website": "https://www.twilio.com"
   },
   "Twilio Authy": {
     "abuse_score": 1,

@@ -1875,6 +1875,26 @@
     "website": "https://omacro.com",
     "white_label_wrapper_likelihood": 1
   },
+  "Omago": {
+    "cats": [
+      52
+    ],
+    "description": "Omago is an AI customer-service assistant for business websites that answers visitor questions in the customer's own language, captures leads and hands conversations over to WhatsApp.",
+    "dom": [
+      "#omago-widget-container",
+      "#omago-widget-button"
+    ],
+    "icon": "Omago.svg",
+    "pricing": [
+      "freemium",
+      "recurring"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "app\\.omago\\.ai/widget\\.js"
+    ],
+    "website": "https://omago.ai"
+  },
   "Omeda": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
@@ -4768,6 +4788,20 @@
     "website": "https://www.open-xchange.com/",
     "white_label_wrapper_likelihood": 2
   },
+  "OpenAI": {
+    "cats": [
+      112
+    ],
+    "description": "OpenAI provides the GPT family of models and the ChatGPT product line.",
+    "dns": {
+      "TXT": [
+        "openai-domain-verification="
+      ]
+    },
+    "icon": "OpenAI.svg",
+    "saas": true,
+    "website": "https://openai.com"
+  },
   "OpenBSD httpd": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -7503,7 +7537,7 @@
     "history": "Oracle Dynamic Monitoring Service (DMS) is a built-in feature of Oracle WebLogic Server that provides real-time performance metrics and diagnostics for Java EE applications. It has been part of the WebLogic platform since at least the early 2010s.",
     "icon": "Oracle.svg",
     "implies": [
-      "Oracle WebLogic Server"
+      "Weblogic Server"
     ],
     "iso27001": true,
     "kind": "commercial-product",
@@ -7830,54 +7864,6 @@
     "website": "https://oracle.com",
     "white_label_wrapper_likelihood": 0
   },
-  "Oracle WebLogic Server": {
-    "abuse_score": 1,
-    "ai_generated_likelihood": 0,
-    "cats": [
-      22
-    ],
-    "company_size_bucket": "mega",
-    "confidence": 7,
-    "cpe": "cpe:2.3:a:bea:weblogic_server:*:*:*:*:*:*:*:*",
-    "dark_pattern_likelihood": 1,
-    "description": "Oracle WebLogic Server is a Java-based application server that provides a platform for developing, deploying, and running enterprise-level Java applications.",
-    "enterprise_adoption": "widespread",
-    "enterprise_pricing_only": true,
-    "founded_year": 1995,
-    "gdpr_compliant": true,
-    "has_bug_bounty": true,
-    "has_free_tier": false,
-    "has_responsible_disclosure_policy": true,
-    "has_self_hosted_option": true,
-    "headquarters_country": "US",
-    "hipaa_compliant": true,
-    "history": "Oracle WebLogic Server originated from BEA Systems, which launched WebLogic as one of the first Java application servers in the mid-1990s. BEA WebLogic became the dominant Java EE application server for enterprises before Oracle acquired BEA Systems for $8.5 billion in 2008, rebranding it as Oracle WebLogic Server and integrating it as the core runtime of Oracle Fusion Middleware.",
-    "icon": "Oracle.svg",
-    "implies": [
-      "Java"
-    ],
-    "iso27001": true,
-    "kind": "commercial-product",
-    "license_type": "proprietary",
-    "maintenance_status": "active",
-    "overall_trust_score": 8,
-    "ownership_type": "public",
-    "pci_dss": true,
-    "popularity_tier": "mainstream",
-    "pricing": [
-      "poa"
-    ],
-    "pricing_model": "enterprise-only",
-    "pricing_transparency_score": 0,
-    "privacy_score": 7,
-    "soc2_type2": true,
-    "summary_abuse": "Oracle WebLogic Server has no notable consumer-facing abuse signal; however, it is a historically high-value target for exploitation. Multiple critical deserialization and remote code execution vulnerabilities (CVE-2017-10271, CVE-2019-2725, and others) have been actively exploited by ransomware groups and cryptocurrency mining malware to compromise enterprise servers. Oracle patches these actively and enterprises are responsible for timely patching.",
-    "technical_depth_score": 8,
-    "tracker_density": "none",
-    "vendor_stability_score": 10,
-    "website": "https://www.oracle.com/java/weblogic/",
-    "white_label_wrapper_likelihood": 0
-  },
   "Orama": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -7988,6 +7974,31 @@
     "vendor_stability_score": 4,
     "website": "https://www.orankl.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Orbit Commerce": {
+    "cats": [
+      6
+    ],
+    "description": "Orbit Commerce is a hosted ecommerce platform from the UK with a drag-and-drop page builder, themes, payments, B2B selling and marketing tools.",
+    "headers": {
+      "X-Powered-By": "^Orbit Commerce$"
+    },
+    "icon": "Orbit Commerce.svg",
+    "implies": [
+      "Next.js"
+    ],
+    "js": {
+      "OrbitCommerce.platform": "^Orbit Commerce$"
+    },
+    "meta": {
+      "generator": "^Orbit Commerce$"
+    },
+    "pricing": [
+      "low",
+      "recurring"
+    ],
+    "saas": true,
+    "website": "https://orbitcommerce.net"
   },
   "Orbit Slider": {
     "abuse_score": 0,

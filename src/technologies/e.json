@@ -5301,6 +5301,20 @@
     "website": "https://www.getelevar.com",
     "white_label_wrapper_likelihood": 1
   },
+  "ElevenLabs": {
+    "cats": [
+      112
+    ],
+    "description": "ElevenLabs provides AI speech synthesis and voice cloning services.",
+    "dns": {
+      "TXT": [
+        "^elevenlabs="
+      ]
+    },
+    "icon": "ElevenLabs.svg",
+    "saas": true,
+    "website": "https://elevenlabs.io"
+  },
   "Eleventy": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
@@ -6451,6 +6465,24 @@
     "vendor_stability_score": 6,
     "website": "https://www.emailjs.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "EmailOctopus": {
+    "cats": [
+      75
+    ],
+    "description": "EmailOctopus is an email marketing and newsletter service whose signup forms are embedded on customer websites.",
+    "icon": "EmailOctopus.png",
+    "js": {
+      "emailOctopus": "",
+      "emailoctopus": ""
+    },
+    "scriptSrc": [
+      "emailoctopus\\.com/bundles"
+    ],
+    "website": "https://emailoctopus.com",
+    "xhr": [
+      "emailoctopus\\.com"
+    ]
   },
   "Emanda": {
     "abuse_score": 2,
@@ -7808,6 +7840,28 @@
     "vendor_stability_score": 6,
     "website": "https://enamad.ir/",
     "white_label_wrapper_likelihood": 1
+  },
+  "Encharge": {
+    "cats": [
+      32,
+      75
+    ],
+    "cookies": {
+      "encheventsnippet": ""
+    },
+    "description": "Encharge is a marketing automation platform that sends behavior-based emails and tracks website visitor activity.",
+    "icon": "Encharge.png",
+    "js": {
+      "EncTracking": "",
+      "EnchargeTracking": ""
+    },
+    "scriptSrc": [
+      "resources-app\\.encharge\\.io/(?:encharge-tracking|embed-production)"
+    ],
+    "website": "https://encharge.io",
+    "xhr": [
+      "\\.encharge\\.io"
+    ]
   },
   "Endurance Page Cache": {
     "abuse_score": 1,
@@ -10882,6 +10936,25 @@
     "vendor_stability_score": 8,
     "website": "https://www.syncfusion.com/javascript-ui-controls",
     "white_label_wrapper_likelihood": 2
+  },
+  "eStat Streaming": {
+    "cats": [
+      10
+    ],
+    "description": "eStat Streaming is Médiamétrie's streaming audio/video audience measurement tag used by French radio, TV and media websites.",
+    "icon": "eStat Streaming.png",
+    "js": {
+      "eStat_PJS": "",
+      "_eStat_Whap_loaded_func": "",
+      "_eStat_Whap_loaded": ""
+    },
+    "scriptSrc": [
+      "(?:prof|w{1,2}|perso|playtime)\\.estat\\.com/"
+    ],
+    "website": "https://www.mediametrie.fr",
+    "xhr": [
+      "\\.estat\\.com"
+    ]
   },
   "Estate Track": {
     "abuse_score": 1,

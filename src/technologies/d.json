@@ -684,6 +684,35 @@
     "website": "https://dandomain.dk",
     "white_label_wrapper_likelihood": 2
   },
+  "DanDomain email": {
+    "cats": [
+      75
+    ],
+    "description": "DanDomain email is the email hosting service provided by DanDomain, including webmail and Microsoft 365 plans.",
+    "dns": {
+      "MX": [
+        "mx\\d*\\.dandomain\\.dk"
+      ]
+    },
+    "icon": "DanDomain email.png",
+    "website": "https://dandomain.dk/e-mail"
+  },
+  "DanDomain hosting": {
+    "cats": [
+      88
+    ],
+    "description": "DanDomain hosting is a Danish web hosting and domain registration service, part of the team.blue group.",
+    "dns": {
+      "NS": [
+        "\\.dandomain\\.dk"
+      ],
+      "SOA": [
+        "\\.dandomain\\.dk"
+      ]
+    },
+    "icon": "DanDomain hosting.png",
+    "website": "https://dandomain.dk"
+  },
   "DanDomain Webshop": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -2283,7 +2312,7 @@
     "ownership_type": "independent",
     "popularity_tier": "niche",
     "scriptSrc": [
-      "(?:((?:\\d+\\.)+\\d+)\\/(?:dc\\/)?)?dc(?:\\.leaflet)?\\.js\\;version:\\1"
+      "(?:((?:\\d+\\.)+\\d+)\\/(?:dc\\/)?)?(?:/|-)dc(?:\\.leaflet)?\\.js\\;version:\\1"
     ],
     "summary_abuse": "dc.js is a charting library with no notable abuse signal. It is a pure frontend data visualization tool.",
     "technical_depth_score": 6,
@@ -7683,6 +7712,7 @@
     ],
     "company_size_bucket": "smb",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:elegantthemes:divi:*:*:*:*:*:wordpress:*:*",
     "dark_pattern_likelihood": 2,
     "description": "Divi is a WordPress Theme and standalone WordPress plugin from Elegant themes that allows users to build websites using the visual drag-and-drop Divi page builder.",
     "dom": {
@@ -8252,6 +8282,11 @@
     "cpe": "cpe:2.3:a:docker:engine:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
     "description": "Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.",
+    "dns": {
+      "TXT": [
+        "docker-verification="
+      ]
+    },
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2008,
@@ -11564,6 +11599,11 @@
     "confidence": 6,
     "dark_pattern_likelihood": 2,
     "description": "Drift is a conversational marketing platform.",
+    "dns": {
+      "TXT": [
+        "drift-domain-verification="
+      ]
+    },
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2015,
@@ -13402,6 +13442,11 @@
     },
     "dark_pattern_likelihood": 1,
     "description": "Dynatrace is a technology company that produces a software intelligence platform based on artificial intelligence to monitor and optimise application performance and development, IT infrastructure, and user experience for businesses and government agencies throughout the world.",
+    "dns": {
+      "TXT": [
+        "Dynatrace-site-verification="
+      ]
+    },
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2005,

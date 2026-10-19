@@ -54,6 +54,20 @@
     "website": "https://u-komi.com/en/",
     "white_label_wrapper_likelihood": 1
   },
+  "Uber": {
+    "cats": [
+      19
+    ],
+    "description": "Uber domain verification, used by Uber for Business to prove ownership of a company domain.",
+    "dns": {
+      "TXT": [
+        "uber-domain-verification="
+      ]
+    },
+    "icon": "Uber.svg",
+    "saas": true,
+    "website": "https://www.uber.com"
+  },
   "Ubercart": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
@@ -2164,6 +2178,7 @@
     ],
     "company_size_bucket": "enterprise",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:ui:unifi_network_application:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
     "description": "UniFi OS is the operating system for UniFi products, which provides a user interface.",
     "enterprise_adoption": "common",

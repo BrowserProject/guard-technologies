@@ -6347,6 +6347,11 @@
     "confidence": 6,
     "dark_pattern_likelihood": 1,
     "description": "Linear is a platform for collecting payments and managing business operations, offering sales and marketing tools for real estate agents, extending beyond a traditional brokerage system.",
+    "dns": {
+      "TXT": [
+        "linear-domain-verification="
+      ]
+    },
     "enterprise_adoption": "common",
     "enterprise_pricing_only": false,
     "founded_year": 2019,
@@ -8566,6 +8571,20 @@
     "website": "https://www.liveperson.com",
     "white_label_wrapper_likelihood": 1
   },
+  "LiveRamp": {
+    "cats": [
+      97
+    ],
+    "description": "LiveRamp is an identity resolution and data collaboration platform.",
+    "dns": {
+      "TXT": [
+        "liveramp-site-verification="
+      ]
+    },
+    "icon": "LiveRamp.svg",
+    "saas": true,
+    "website": "https://liveramp.com"
+  },
   "LiveRamp DPM": {
     "abuse_score": 3,
     "ai_generated_likelihood": 0,
@@ -10049,6 +10068,21 @@
     "website": "https://www.logaholic.com",
     "white_label_wrapper_likelihood": 2
   },
+  "LogaTech": {
+    "cats": [
+      1,
+      51
+    ],
+    "description": "LogaTech is a web development company offering a platform used to build and manage multi-tenant CMS, CRM and e-commerce websites.",
+    "headers": {
+      "X-Powered-By": "^LogaTech$"
+    },
+    "icon": "LogaTech.png",
+    "meta": {
+      "generator": "^LogaTech$"
+    },
+    "website": "https://logatech.net"
+  },
   "Loggly": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -10335,6 +10369,20 @@
     "technical_depth_score": 5,
     "vendor_stability_score": 3,
     "website": "https://www.loglib.io"
+  },
+  "LogMeIn": {
+    "cats": [
+      46
+    ],
+    "description": "LogMeIn (now part of GoTo) provides remote access, remote support, and identity and collaboration software for individuals and businesses.",
+    "dns": {
+      "TXT": [
+        "logmein-verification-code="
+      ]
+    },
+    "icon": "LogMeIn.svg",
+    "saas": true,
+    "website": "https://www.logmein.com"
   },
   "LogoiX": {
     "abuse_score": 1,
@@ -10925,7 +10973,8 @@
     "dark_pattern_likelihood": 2,
     "dns": {
       "TXT": [
-        "loom-verification"
+        "loom-verification",
+        "loom-site-verification="
       ]
     },
     "enterprise_adoption": "widespread",
@@ -11499,6 +11548,20 @@
     "website": "https://www.loqate.com",
     "white_label_wrapper_likelihood": 0
   },
+  "Lotame": {
+    "cats": [
+      97,
+      36
+    ],
+    "description": "Lotame is a data management platform (DMP) providing audience data collection, segmentation and identity solutions via its Crowd Control tag.",
+    "scriptSrc": [
+      "\\.crwdcntrl\\.net/"
+    ],
+    "website": "https://www.lotame.com",
+    "xhr": [
+      "\\.crwdcntrl\\.net"
+    ]
+  },
   "LotLinx": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
@@ -11668,7 +11731,8 @@
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
     "cats": [
-      51
+      51,
+      112
     ],
     "company_size_bucket": "startup",
     "confidence": 6,
@@ -11677,6 +11741,11 @@
     },
     "dark_pattern_likelihood": 2,
     "description": "Lovable is an AI-powered collaborative page builder for generating UI components, projects, and templates in real time.",
+    "dns": {
+      "TXT": [
+        "lovable_verification="
+      ]
+    },
     "dom": {
       "link[href*='/lovable-uploads/']": {
         "exists": ""

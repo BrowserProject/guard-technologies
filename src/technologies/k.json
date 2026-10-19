@@ -547,6 +547,27 @@
     "website": "https://developers.kakao.com/product",
     "white_label_wrapper_likelihood": 1
   },
+  "KaliCart Bridge": {
+    "cats": [
+      6
+    ],
+    "description": "KaliCart Bridge is a WooCommerce plugin that exposes a structured REST API and MCP server, making the store catalog readable by AI agents and MCP clients.",
+    "html": [
+      "<link[^>]+rel=[\"']kalicart-agent[\"'][^>]*>",
+      "wp-json\\/kalicart\\/v1\\/discovery"
+    ],
+    "implies": [
+      "WooCommerce"
+    ],
+    "pricing": [
+      "freemium"
+    ],
+    "saas": false,
+    "url": [
+      "\\.well-known\\/kalicart-bridge\\.json"
+    ],
+    "website": "https://bridge.kalicart.com"
+  },
   "Kalio": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -2338,7 +2359,7 @@
       "CMSCookieLevel": "",
       "CMSPreferredCulture": ""
     },
-    "cpe": "cpe:2.3:a:kentico:kentico_cms:*:*:*:*:*:*:*:*",
+    "cpe": "cpe:2.3:a:kentico:xperience:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 2,
     "description": "Kentico CMS is a web content management system for building websites, online stores, intranets, and Web 2.0 community sites.",
     "dom": [
@@ -7487,6 +7508,25 @@
     "vendor_stability_score": 4,
     "website": "https://www.krossbooking.com",
     "white_label_wrapper_likelihood": 1
+  },
+  "KRT CDN": {
+    "cats": [
+      31
+    ],
+    "description": "KRT CDN is a Content Delivery Network used for delivering assets securely and quickly.",
+    "dom": [
+      "link[href*='cdn.krajtilak.in']",
+      "img[src*='cdn.krajtilak.in']"
+    ],
+    "icon": "KRT CDN.svg",
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.krajtilak\\.in"
+    ],
+    "website": "https://krajtilak.in",
+    "xhr": [
+      "cdn\\.krajtilak\\.in"
+    ]
   },
   "Kssib": {
     "abuse_score": 2,

@@ -4942,6 +4942,23 @@
     "website": "https://recop.jp",
     "white_label_wrapper_likelihood": 2
   },
+  "Recova": {
+    "cats": [
+      10
+    ],
+    "description": "Recova is an e-commerce conversion and cart-recovery tool that tracks shopper behavior to recover abandoned carts.",
+    "icon": "Recova.png",
+    "js": {
+      "recovaOrderTracking": ""
+    },
+    "scriptSrc": [
+      "api\\.recova\\.ai/recova_client(?:\\.min)?\\.js"
+    ],
+    "website": "https://recova.ai",
+    "xhr": [
+      "api\\.recova\\.ai"
+    ]
+  },
   "RecoverMyCart": {
     "abuse_score": 1,
     "ai_generated_likelihood": 3,

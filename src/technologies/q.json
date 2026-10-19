@@ -1569,6 +1569,16 @@
     "website": "https://www.quantummetric.com/",
     "white_label_wrapper_likelihood": 1
   },
+  "Quantyoo": {
+    "cats": [
+      76
+    ],
+    "html": [
+      "https://quantyoo\\.de"
+    ],
+    "icon": "Quantyoo.png",
+    "website": "https://quantyoo.de"
+  },
   "Quarto": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,

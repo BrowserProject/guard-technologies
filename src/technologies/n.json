@@ -54,6 +54,34 @@
     "website": "https://n1ed.com",
     "white_label_wrapper_likelihood": 2
   },
+  "n8n": {
+    "cats": [
+      47
+    ],
+    "cookies": {
+      "n8n-auth": ""
+    },
+    "description": "n8n is a source-available workflow automation tool that allows you to connect various services and build automated workflows with a visual node-based editor.",
+    "icon": "n8n.svg",
+    "implies": [
+      "Node.js"
+    ],
+    "meta": {
+      "n8n:config:rest-endpoint": "",
+      "n8n:config:sentry": ""
+    },
+    "oss": true,
+    "pricing": [
+      "freemium",
+      "recurring"
+    ],
+    "saas": true,
+    "scripts": [
+      "N8N_DEBOUNCE_MULTIPLIER",
+      "N8N_PASSWORD_MIN_LENGTH"
+    ],
+    "website": "https://n8n.io"
+  },
   "Nabble": {
     "abuse_score": 4,
     "ai_generated_likelihood": 0,
@@ -906,6 +934,19 @@
     "vendor_stability_score": 5,
     "website": "https://www.nativo.com",
     "white_label_wrapper_likelihood": 1
+  },
+  "Natro": {
+    "cats": [
+      88
+    ],
+    "description": "Natro is a Turkish web hosting and domain registration provider; hosted domains use natrohost.com nameservers.",
+    "dns": {
+      "NS": [
+        "natrohost\\.com",
+        "natro\\.com"
+      ]
+    },
+    "website": "https://www.natro.com"
   },
   "Natural Intelligence": {
     "abuse_score": 1,
@@ -6987,6 +7028,11 @@
     "cpe": "cpe:2.3:a:notion:notion:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
     "description": "Notion is a collaboration platform with modified Markdown support that integrates kanban boards, tasks, wikis, and database.",
+    "dns": {
+      "TXT": [
+        "notion-domain-verification="
+      ]
+    },
     "dom": [
       "html.notion-html"
     ],
