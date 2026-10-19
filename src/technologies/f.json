@@ -147,6 +147,33 @@
     "technical_depth_score": 7,
     "website": "https://fabric.inc"
   },
+  "Face Age": {
+    "cats": [
+      59,
+      112
+    ],
+    "description": "Face Age is an AI-powered JavaScript SDK for facial skin analysis.",
+    "dom": [
+      ".faceAge-main-module",
+      "iframe#FaceAge-module-iframe"
+    ],
+    "icon": "FaceAge.svg",
+    "js": {
+      "FaceAge.prototype.render": ""
+    },
+    "oss": true,
+    "saas": true,
+    "scriptSrc": [
+      "cdn\\.jsdelivr\\.net/npm/face-age@([\\d.]+)\\;version:\\1",
+      "cdn\\.jsdelivr\\.net/npm/face-age(?:/|$)",
+      "unpkg\\.com/face-age@([\\d.]+)\\;version:\\1",
+      "unpkg\\.com/face-age(?:/|$)"
+    ],
+    "website": "https://getfaceage.com",
+    "xhr": [
+      "core\\.getfaceage\\.com"
+    ]
+  },
   "Facebook Ads": {
     "abuse_score": 6,
     "ai_generated_likelihood": 0,
@@ -4388,6 +4415,20 @@
     "website": "https://www.fieldstack.com/platform/omnichannel-ecommerce-software",
     "white_label_wrapper_likelihood": 1
   },
+  "Figma": {
+    "cats": [
+      19
+    ],
+    "description": "Figma is a collaborative interface design and prototyping platform.",
+    "dns": {
+      "TXT": [
+        "figma-domain-verification="
+      ]
+    },
+    "icon": "Figma.png",
+    "saas": true,
+    "website": "https://www.figma.com"
+  },
   "Filamentphp": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
@@ -7088,6 +7129,20 @@
     "website": "https://www.flexcmp.com/cms/home",
     "white_label_wrapper_likelihood": 2
   },
+  "Flexera": {
+    "cats": [
+      19
+    ],
+    "description": "Flexera provides IT asset management and software spend optimisation.",
+    "dns": {
+      "TXT": [
+        "flexera-domain-verification-"
+      ]
+    },
+    "icon": "Flexera.png",
+    "saas": true,
+    "website": "https://www.flexera.com"
+  },
   "FlexiFunnels": {
     "abuse_score": 2,
     "ai_generated_likelihood": 2,
@@ -7137,6 +7192,28 @@
     "vendor_stability_score": 5,
     "website": "https://flexifunnels.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Flexmail": {
+    "cats": [
+      75,
+      32
+    ],
+    "description": "Flexmail is a Belgian email marketing platform offering campaign management, embeddable forms and surveys.",
+    "dom": [
+      "iframe[src*=\"flexmail.eu\"]",
+      "form[action*=\"flexmail.eu\"]"
+    ],
+    "headers": {
+      "Content-Security-Policy": "(?:^|[^a-z])flexmail\\.eu"
+    },
+    "icon": "Flexmail.png",
+    "scriptSrc": [
+      "\\.flexmail\\.eu/"
+    ],
+    "website": "https://flexmail.be",
+    "xhr": [
+      "\\.flexmail\\.eu"
+    ]
   },
   "Flexmls": {
     "abuse_score": 1,
@@ -8997,6 +9074,19 @@
     "vendor_stability_score": 7,
     "website": "https://fly.io",
     "white_label_wrapper_likelihood": 0
+  },
+  "Flyads": {
+    "cats": [
+      36
+    ],
+    "cookies": {
+      "flyid": ""
+    },
+    "description": "Flyads is an ad network serving from fly.codes and displayfly.com hosts and setting the flyid cookie.",
+    "website": "https://displayfly.com",
+    "xhr": [
+      "(?:\\.fly\\.codes|\\.displayfly\\.com)"
+    ]
   },
   "Flybook": {
     "abuse_score": 1,
@@ -13676,6 +13766,24 @@
     "vendor_stability_score": 4,
     "website": "https://freewebstore.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "FreeWheel": {
+    "cats": [
+      36
+    ],
+    "description": "FreeWheel (Comcast) is a video ad-serving and ad-management platform whose ad/user-sync calls are made to FreeWheel ad servers such as fwmrm.net.",
+    "dom": [
+      "img[src*=\"fwmrm.net\"]",
+      "iframe[src*=\"fwmrm.net\"]"
+    ],
+    "icon": "FreeWheel.png",
+    "scriptSrc": [
+      "fwmrm\\.net"
+    ],
+    "website": "https://www.freewheel.com",
+    "xhr": [
+      "fwmrm\\.net"
+    ]
   },
   "Frequenceo": {
     "abuse_score": 1,

@@ -1822,6 +1822,11 @@
     "confidence": 7,
     "dark_pattern_likelihood": 2,
     "description": "Canva is an online graphic design platform that allows users to create various visual content using pre-designed templates and a library of elements.",
+    "dns": {
+      "TXT": [
+        "canva-site-verification="
+      ]
+    },
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -3435,7 +3440,7 @@
     "url": [
       "/(?:cart|order|basket|trolley|bag|shoppingbag|checkout)"
     ],
-    "website": "https://www.wappalyzer.com/technologies/ecommerce/cart-functionality"
+    "website": "https://en.wikipedia.org/wiki/Shopping_cart_software"
   },
   "Cart.com": {
     "abuse_score": 2,
@@ -3911,6 +3916,25 @@
     "vendor_stability_score": 5,
     "website": "https://www.cartkit.com",
     "white_label_wrapper_likelihood": 4
+  },
+  "Cartline": {
+    "cats": [
+      6
+    ],
+    "description": "Cartline is a Pakistani ecommerce and WhatsApp-commerce platform for creating online stores with cart, checkout and order management. Part of the One Line commerce suite.",
+    "headers": {
+      "x-cartline-platform": "cartline\\.pk"
+    },
+    "icon": "Cartline.svg",
+    "js": {
+      "Cartline.platform": "^Cartline$"
+    },
+    "meta": {
+      "application-name": "^Cartline$",
+      "generator": "^Cartline$"
+    },
+    "saas": true,
+    "website": "https://cartline.pk"
   },
   "CARTO Analytics": {
     "abuse_score": 1,
@@ -10521,6 +10545,21 @@
     "website": "https://circle.so",
     "white_label_wrapper_likelihood": 0
   },
+  "Cisco": {
+    "cats": [
+      37
+    ],
+    "description": "Cisco networking, collaboration and security services domain verification.",
+    "dns": {
+      "TXT": [
+        "cisco-ci-domain-verification=",
+        "ciscocidomainverification="
+      ]
+    },
+    "icon": "Cisco.svg",
+    "saas": true,
+    "website": "https://www.cisco.com"
+  },
   "Citizen Space": {
     "abuse_score": 0,
     "ai_generated_likelihood": 0,
@@ -10740,6 +10779,29 @@
     "vendor_stability_score": 0,
     "website": "https://consumers.citruspay.com/",
     "white_label_wrapper_likelihood": 0
+  },
+  "cituro": {
+    "cats": [
+      72
+    ],
+    "description": "cituro is a German online appointment-scheduling tool whose booking widget can be embedded on customer websites.",
+    "dom": [
+      "iframe[src*='cituro.com']"
+    ],
+    "icon": "cituro.png",
+    "js": {
+      "cituroLoader": "",
+      "cituroOptions": "",
+      "cituroWidget": "",
+      "buildCituroOptions": ""
+    },
+    "scriptSrc": [
+      "app\\.cituro\\.com/"
+    ],
+    "website": "https://www.cituro.com",
+    "xhr": [
+      "(?:app|cdn)\\.cituro\\.com"
+    ]
   },
   "City Hive": {
     "abuse_score": 1,
@@ -12272,6 +12334,25 @@
     "website": "https://clearout.io",
     "white_label_wrapper_likelihood": 2
   },
+  "Clearpay": {
+    "cats": [
+      41,
+      91
+    ],
+    "description": "Clearpay is the UK and EU brand of Afterpay, a buy-now-pay-later payment service that lets shoppers split purchases into interest-free instalments.",
+    "icon": "Clearpay.png",
+    "js": {
+      "Clearpay": "",
+      "clearpay_js_snippet_version": "",
+      "clearpay_shop_currency": "",
+      "clearpay_product": ""
+    },
+    "scriptSrc": [
+      "static\\.afterpay\\.com/shopify-clearpay-javascript\\.js",
+      "\\.clearpay\\.co\\.uk/"
+    ],
+    "website": "https://www.clearpay.co.uk"
+  },
   "ClearSale": {
     "abuse_score": 3,
     "ai_generated_likelihood": 1,
@@ -13081,9 +13162,6 @@
     "pricing_model": "usage-based",
     "pricing_transparency_score": 6,
     "privacy_score": 4,
-    "scriptSrc": [
-      "r\\.wdfl\\.co"
-    ],
     "soc2_type2": false,
     "source_urls": [
       "https://www.clickbank.com"
@@ -15419,6 +15497,22 @@
     "website": "https://cloudguard.ir",
     "white_label_wrapper_likelihood": 0
   },
+  "Cloudbac": {
+    "cats": [
+      1,
+      51
+    ],
+    "description": "Cloudbac is a SaaS website builder and hosting platform for businesses.",
+    "headers": {
+      "X-Powered-By": "^Cloudbac$"
+    },
+    "icon": "Cloudbac.svg",
+    "meta": {
+      "generator": "^Cloudbac$"
+    },
+    "saas": true,
+    "website": "https://www.cloudbac.com"
+  },
   "Cloudbeds": {
     "abuse_score": 1,
     "ai_generated_likelihood": 0,
@@ -15705,6 +15799,9 @@
       ],
       "SOA": [
         "\\.cloudflare\\.com"
+      ],
+      "TXT": [
+        "cloudflare_dashboard_sso="
       ]
     },
     "dom": [
@@ -15860,6 +15957,22 @@
     "vendor_stability_score": 10,
     "website": "https://www.cloudflare.com",
     "white_label_wrapper_likelihood": 0
+  },
+  "Cloudflare DNS": {
+    "cats": [
+      88
+    ],
+    "description": "Cloudflare DNS is Cloudflare's authoritative DNS service; domains using it are served by *.ns.cloudflare.com nameservers.",
+    "dns": {
+      "NS": [
+        "\\.ns\\.cloudflare\\.com"
+      ],
+      "SOA": [
+        "\\.ns\\.cloudflare\\.com"
+      ]
+    },
+    "icon": "CloudFlare.svg",
+    "website": "https://www.cloudflare.com/application-services/products/dns/"
   },
   "Cloudflare Rocket Loader": {
     "abuse_score": 1,
@@ -16018,6 +16131,20 @@
     "vendor_stability_score": 10,
     "website": "https://www.cloudflare.com/products/turnstile",
     "white_label_wrapper_likelihood": 0
+  },
+  "Cloudflare Turnstile for WooCommerce": {
+    "cats": [
+      87
+    ],
+    "description": "Cloudflare Turnstile Integration Plugin for WooCommerce adds Cloudflare Turnstile support to WooCommerce forms.",
+    "icon": "CloudFlare.svg",
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/plugins/simple-cloudflare-turnstile/js/integrations/woocommerce\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "website": "https://wordpress.org/plugins/simple-cloudflare-turnstile/"
   },
   "Cloudflare Workers": {
     "abuse_score": 3,
@@ -20542,6 +20669,25 @@
     "vendor_stability_score": 4,
     "website": "https://commercio.com",
     "white_label_wrapper_likelihood": 1
+  },
+  "Commercy": {
+    "cats": [
+      6
+    ],
+    "description": "Commercy is an Argentine commerce platform that combines an online store, point of sale, inventory and ARCA/AFIP electronic invoicing in a single system.",
+    "icon": "Commercy.svg",
+    "implies": [
+      "Next.js"
+    ],
+    "meta": {
+      "generator": "^Commercy$"
+    },
+    "pricing": [
+      "low",
+      "recurring"
+    ],
+    "saas": true,
+    "website": "https://commercy.com.ar"
   },
   "Common Ground": {
     "abuse_score": 2,
@@ -31130,6 +31276,24 @@
     "vendor_stability_score": 6,
     "website": "https://www.curaytor.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Cursor": {
+    "cats": [
+      112
+    ],
+    "description": "Cursor is an AI-powered code editor (IDE) that uses large language models to generate, edit, and explain code. The cursor-domain-verification TXT record confirms domain ownership for Cursor services.",
+    "dns": {
+      "TXT": [
+        "cursor-domain-verification"
+      ]
+    },
+    "icon": "Cursor.svg",
+    "pricing": [
+      "payg",
+      "freemium"
+    ],
+    "saas": true,
+    "website": "https://www.cursor.com"
   },
   "Custobar": {
     "abuse_score": 0,

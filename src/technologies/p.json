@@ -1430,6 +1430,20 @@
     "website": "https://www.palbin.com",
     "white_label_wrapper_likelihood": 1
   },
+  "Palo Alto Networks": {
+    "cats": [
+      16
+    ],
+    "description": "Palo Alto Networks is a network and cloud security vendor.",
+    "dns": {
+      "TXT": [
+        "paloaltonetworks-site-verification="
+      ]
+    },
+    "icon": "Palo Alto Networks.svg",
+    "saas": true,
+    "website": "https://www.paloaltonetworks.com"
+  },
   "Palo Alto Networks - GlobalProtect": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -2242,6 +2256,20 @@
     "summary_abuse": "parallax.js has no notable abuse signal; it is a small client-side visual effect library.",
     "technical_depth_score": 3,
     "website": "https://github.com/pixelcog/parallax.js"
+  },
+  "Parallels": {
+    "cats": [
+      46
+    ],
+    "description": "Parallels provides virtualization and remote application delivery software, including Parallels Desktop and Parallels RAS.",
+    "dns": {
+      "TXT": [
+        "parallels-domain-verification="
+      ]
+    },
+    "icon": "Parallels.png",
+    "saas": true,
+    "website": "https://www.parallels.com"
   },
   "parcel": {
     "abuse_score": 0,
@@ -5951,6 +5979,22 @@
     "vendor_stability_score": 3,
     "website": "https://www.peel.fr"
   },
+  "Peer39": {
+    "cats": [
+      36
+    ],
+    "description": "Peer39 is a contextual page-quality and ad-intelligence service used pre-bid in programmatic advertising.",
+    "html": [
+      "tags\\.peer39\\.com"
+    ],
+    "scriptSrc": [
+      "\\.peer39\\.(?:com|net)/"
+    ],
+    "website": "https://www.peer39.com",
+    "xhr": [
+      "\\.peer39\\.(?:com|net)"
+    ]
+  },
   "PeerBoard": {
     "abuse_score": 3,
     "ai_generated_likelihood": 3,
@@ -6460,6 +6504,11 @@
     "confidence": 5,
     "dark_pattern_likelihood": 2,
     "description": "Pendo is a product analytics platform used in release to enrich the product experience and provide insights to the product management team.",
+    "dns": {
+      "TXT": [
+        "pendo-domain-verification="
+      ]
+    },
     "enterprise_adoption": "widespread",
     "enterprise_pricing_only": false,
     "founded_year": 2013,
@@ -13994,7 +14043,7 @@
     ],
     "company_size_bucket": "smb",
     "confidence": 5,
-    "cpe": "cpe:2.3:a:parallels:parallels_plesk_panel:*:*:*:*:*:*:*:*",
+    "cpe": "cpe:2.3:a:plesk:plesk:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
     "description": "Plesk is a web hosting and server data centre automation software with a control panel developed for Linux and Windows-based retail hosting service providers.",
     "enterprise_adoption": "common",
@@ -15231,6 +15280,20 @@
     "website": "https://www.pocus.com",
     "white_label_wrapper_likelihood": 2
   },
+  "Podbean": {
+    "cats": [
+      88
+    ],
+    "description": "Podbean is a podcast hosting platform whose players and media are embedded on sites via podbean.com domains.",
+    "dom": [
+      "iframe[src*='podbean.com']"
+    ],
+    "icon": "Podbean.png",
+    "scriptSrc": [
+      "\\.podbean\\.com/"
+    ],
+    "website": "https://podbean.com"
+  },
   "Podia": {
     "abuse_score": 2,
     "ai_generated_likelihood": 1,
@@ -15546,6 +15609,24 @@
     "vendor_stability_score": 4,
     "website": "https://www.podpage.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Podscribe": {
+    "cats": [
+      36
+    ],
+    "description": "Podscribe is an IAB-certified podcast and audio ad measurement platform; podcast sites link to their transcripts on app.podscribe.ai and advertiser sites load its attribution tags from podscribe hosts.",
+    "dom": [
+      "a[href*=\"app.podscribe.ai/\"]",
+      "img[src*=\"podscribe.com/\"]"
+    ],
+    "icon": "Podscribe.png",
+    "scriptSrc": [
+      "podscribe\\.(?:ai|com)/"
+    ],
+    "website": "https://podscribe.com",
+    "xhr": [
+      "podscribe\\.(?:ai|com)"
+    ]
   },
   "Podsights": {
     "abuse_score": 2,
@@ -17766,6 +17847,20 @@
     "vendor_stability_score": 5,
     "website": "https://postie.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "Postman": {
+    "cats": [
+      47
+    ],
+    "description": "Postman is an API development and testing platform.",
+    "dns": {
+      "TXT": [
+        "postman-domain-verification="
+      ]
+    },
+    "icon": "PostmanAPIDocumentation.svg",
+    "saas": true,
+    "website": "https://www.postman.com"
   },
   "Postman API Documentation": {
     "abuse_score": 1,
@@ -20611,6 +20706,24 @@
     "website": "https://www.printful.com/",
     "white_label_wrapper_likelihood": 3
   },
+  "Printify": {
+    "cats": [
+      6
+    ],
+    "description": "Printify is a print-on-demand and dropshipping platform integrated into e-commerce stores that serves product assets from Printify domains.",
+    "dom": [
+      "img[src*=\"printify.com\"]",
+      "img[src*=\"images-api.printify.com\"]"
+    ],
+    "icon": "Printify.png",
+    "scriptSrc": [
+      "printify\\.com"
+    ],
+    "website": "https://printify.com",
+    "xhr": [
+      "printify\\.com"
+    ]
+  },
   "Printlane": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
@@ -21638,7 +21751,7 @@
     "cookies": {
       "ppwp_wp_session": ""
     },
-    "cpe": "cpe:2.3:a:profilepress:profilepress:*:*:*:*:*:wordpress:*:*",
+    "cpe": "cpe:2.3:a:properfraction:profilepress:*:*:*:*:*:wordpress:*:*",
     "dark_pattern_likelihood": 1,
     "description": "ProfilePress is a WordPress registration plugin that lets you create login forms, registration forms, user profiles, and more.",
     "dom": [
@@ -21994,6 +22107,7 @@
     ],
     "company_size_bucket": "midmarket",
     "confidence": 5,
+    "cpe": "cpe:2.3:a:progress:moveit_transfer:*:*:*:*:*:*:*:*",
     "dark_pattern_likelihood": 1,
     "description": "Progress MOVEit is a managed file transfer solution that enables secure and compliant transfer of sensitive files while providing automation, central management, and auditing capabilities.",
     "enterprise_adoption": "widespread",
@@ -22172,8 +22286,9 @@
     "ownership_type": "independent",
     "popularity_tier": "niche",
     "scriptSrc": [
-      "progressbar(?:\\.min)?\\.js(?:\\?v(?:er)?=((?:\\d+\\.)+\\d+))?\\;version:\\1",
-      "(?:((?:\\d+\\.)+\\d+)\\/)?progressbar(?:\\.min)?\\.js\\;version:\\1"
+      "cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/progressbar\\.js\\/([\\d\\.]+)\\/progressbar(?:\\.min)?\\.js\\;version:\\1",
+      "\\/progressbar\\.js@([\\d\\.]+)\\/dist\\/progressbar(?:\\.min)?\\.js\\;version:\\1",
+      "\\/progressbar\\.js\\/dist\\/progressbar(?:\\.min)?\\.js"
     ],
     "source_urls": [
       "https://kimmobrunfeldt.github.io/progressbar.js/"
@@ -23118,6 +23233,21 @@
     "vendor_stability_score": 6,
     "website": "https://www.proprofs.com/quiz-school",
     "white_label_wrapper_likelihood": 1
+  },
+  "Proserve": {
+    "cats": [
+      88
+    ],
+    "description": "Proserve is a Dutch managed-hosting group; hosted sites use its nameserver brands dn-s.nl, appserved.nl and firstfind.nl.",
+    "dns": {
+      "NS": [
+        "dn-s\\.nl",
+        "appserved\\.nl",
+        "firstfind\\.n(?:l|et)"
+      ]
+    },
+    "icon": "Proserve.png",
+    "website": "https://proserve.nl"
   },
   "ProSites": {
     "abuse_score": 1,
@@ -24161,6 +24291,18 @@
     "technical_depth_score": 7,
     "vendor_stability_score": 5,
     "website": "https://pterodactyl.io"
+  },
+  "PTisp": {
+    "cats": [
+      88
+    ],
+    "description": "PTisp is a Portuguese hosting provider; hosted domains use mydnspt.net nameservers.",
+    "dns": {
+      "NS": [
+        "\\.mydnspt\\.net"
+      ]
+    },
+    "website": "https://ptisp.pt"
   },
   "PTminder": {
     "abuse_score": 1,

@@ -1648,6 +1648,7 @@
       32
     ],
     "confidence": 7,
+    "cpe": "cpe:2.3:a:ibericode:mailchimp:*:*:*:*:*:wordpress:*:*",
     "description": "MailChimp for WordPress is an email marketing plugin that enables you to build subscriber lists.",
     "dom": [
       "link[href*='/wp-content/plugins/mailchimp-for-wp/']"
@@ -9814,6 +9815,20 @@
     "website": "https://messagemedia.com",
     "white_label_wrapper_likelihood": 1
   },
+  "Meta": {
+    "cats": [
+      19
+    ],
+    "description": "Meta domain verification, used by Meta Business to prove ownership of a domain for Facebook and Instagram business assets.",
+    "dns": {
+      "TXT": [
+        "facebook-domain-verification="
+      ]
+    },
+    "icon": "Meta.svg",
+    "saas": true,
+    "website": "https://about.meta.com"
+  },
   "MetaMap": {
     "abuse_score": 1,
     "ai_generated_likelihood": 1,
@@ -10234,6 +10249,26 @@
     "vendor_stability_score": 6,
     "website": "https://metorik.com",
     "white_label_wrapper_likelihood": 1
+  },
+  "Metricool": {
+    "cats": [
+      10
+    ],
+    "description": "Metricool is a social media management and analytics platform; its website tracker loads be.js from tracker.metricool.com and exposes the beTracker global.",
+    "dom": [
+      "img[src*=\"tracker.metricool.com/\"]"
+    ],
+    "icon": "Metricool.png",
+    "js": {
+      "beTracker": ""
+    },
+    "scriptSrc": [
+      "tracker\\.metricool\\.com/"
+    ],
+    "website": "https://metricool.com",
+    "xhr": [
+      "tracker\\.metricool\\.com"
+    ]
   },
   "Metrics Key": {
     "abuse_score": 1,
@@ -11126,6 +11161,9 @@
     "dns": {
       "MX": [
         "outlook\\.com"
+      ],
+      "TXT": [
+        "^MS=(?:ms[\\w-]+|[0-9A-Fa-f]{40})$"
       ]
     },
     "enterprise_adoption": "widespread",
@@ -13879,6 +13917,20 @@
     "vendor_stability_score": 8,
     "website": "https://www.mirakl.com",
     "white_label_wrapper_likelihood": 0
+  },
+  "Miro": {
+    "cats": [
+      19
+    ],
+    "description": "Miro is a collaborative online whiteboard and visual workspace platform.",
+    "dns": {
+      "TXT": [
+        "miro-verification="
+      ]
+    },
+    "icon": "Miro.png",
+    "saas": true,
+    "website": "https://miro.com"
   },
   "mirrAR": {
     "abuse_score": 0,
@@ -17233,6 +17285,20 @@
     "technical_depth_score": 9,
     "vendor_stability_score": 9,
     "website": "https://www.mongodb.org"
+  },
+  "MongoDB Atlas": {
+    "cats": [
+      34
+    ],
+    "description": "MongoDB Atlas is MongoDB's managed multi-cloud database service.",
+    "dns": {
+      "TXT": [
+        "mongodb-site-verification="
+      ]
+    },
+    "icon": "MongoDB.svg",
+    "saas": true,
+    "website": "https://www.mongodb.com/atlas"
   },
   "Mongrel": {
     "abuse_score": 0,
@@ -20621,6 +20687,27 @@
     "vendor_stability_score": 7,
     "website": "https://www.mux.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "MVD Studio": {
+    "cats": [
+      1,
+      6
+    ],
+    "description": "MVD Studio is a Laravel-based platform built by MVD Studio (Uruguay) for e-commerce stores and bespoke web applications.",
+    "headers": {
+      "X-Built-By": "MVD Studio",
+      "X-Generator": "MVD Studio",
+      "X-Powered-By": "MVD Studio"
+    },
+    "icon": "MVD Studio.svg",
+    "implies": [
+      "Laravel",
+      "PHP"
+    ],
+    "meta": {
+      "generator": "MVD Studio"
+    },
+    "website": "https://mvdstudio.com.uy"
   },
   "My Agile Privacy": {
     "abuse_score": 0,

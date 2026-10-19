@@ -101,6 +101,20 @@
     "website": "https://www.yachtsys.com",
     "white_label_wrapper_likelihood": 1
   },
+  "Yahoo": {
+    "cats": [
+      19
+    ],
+    "description": "Yahoo domain verification, used to prove ownership of a domain to Yahoo services.",
+    "dns": {
+      "TXT": [
+        "yahoo-verification-key="
+      ]
+    },
+    "icon": "Yahoo.svg",
+    "saas": true,
+    "website": "https://www.yahoo.com"
+  },
   "Yahoo Advertising": {
     "abuse_score": 4,
     "ai_generated_likelihood": 1,
@@ -853,9 +867,13 @@
     "pricing_model": "freemium",
     "pricing_transparency_score": 5,
     "privacy_score": 3,
+    "scripts": [
+      "mc\\.yandex\\.ru/metrika/(?:tag|watch)\\.js",
+      "cdn\\.jsdelivr\\.net/npm/yandex\\-metrica\\-watch/(?:tag|watch)\\.js"
+    ],
     "scriptSrc": [
       "mc\\.yandex\\.ru/metrika/(?:tag|watch)\\.js",
-      "cdn\\.jsdelivr\\.net/npm/yandex\\-metrica\\-watch/watch\\.js"
+      "cdn\\.jsdelivr\\.net/npm/yandex\\-metrica\\-watch/(?:tag|watch)\\.js"
     ],
     "soc2_type2": false,
     "source_urls": [
@@ -3350,6 +3368,26 @@
     "vendor_stability_score": 4,
     "website": "https://www.youcms.eu",
     "white_label_wrapper_likelihood": 1
+  },
+  "YouDraw": {
+    "cats": [
+      6
+    ],
+    "description": "YouDraw is a Brazilian ecommerce and print-on-demand platform with hosted storefronts (YD Store).",
+    "headers": {
+      "X-Generator": "^YouDraw"
+    },
+    "icon": "YouDraw.png",
+    "meta": {
+      "generator": "^YouDraw"
+    },
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
+    "saas": true,
+    "website": "https://youdraw.com.br"
   },
   "Youform": {
     "abuse_score": 2,

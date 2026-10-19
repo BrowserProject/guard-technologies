@@ -101,6 +101,52 @@
     "vendor_stability_score": 4,
     "website": "https://github.com/lrsjng/h5ai"
   },
+  "HackerOne": {
+    "cats": [
+      16
+    ],
+    "description": "HackerOne is a vulnerability disclosure and bug bounty platform.",
+    "dns": {
+      "TXT": [
+        "h1-domain-verification="
+      ]
+    },
+    "icon": "HackerOne.svg",
+    "saas": true,
+    "website": "https://www.hackerone.com"
+  },
+  "Hackle": {
+    "cats": [
+      74,
+      85,
+      10,
+      32,
+      53
+    ],
+    "description": "Hackle is an experimentation and growth platform providing A/B testing, feature flags, product analytics, and behavioral messaging.",
+    "html": [
+      "HACKLE_SDK_KEY"
+    ],
+    "icon": "Hackle.png",
+    "js": {
+      "HACKLE_PRELOAD_CLIENT": "",
+      "Hackle": "",
+      "HacklePlugin": "",
+      "_hackle": "",
+      "_hackleCafe24App": "",
+      "hackleClient": ""
+    },
+    "saas": true,
+    "scriptSrc": [
+      "@hackler/javascript-sdk@([\\d.]+)/\\;version:\\1",
+      "@hackler/javascript-sdk",
+      "\\.hackle\\.io/"
+    ],
+    "website": "https://hackle.io",
+    "xhr": [
+      "(?:sdk-api|client-sdk|event-api|event|monitoring|static|cdn\\d*)\\.hackle\\.io"
+    ]
+  },
   "Haddock": {
     "abuse_score": 0,
     "ai_generated_likelihood": 1,
@@ -709,6 +755,24 @@
     "vendor_stability_score": 4,
     "website": "https://www.hapana.com",
     "white_label_wrapper_likelihood": 3
+  },
+  "Happierleads": {
+    "cats": [
+      10
+    ],
+    "description": "Happierleads is a B2B visitor-identification and lead-generation platform that reveals the companies visiting a website.",
+    "icon": "Happierleads.png",
+    "js": {
+      "Happierleads": "",
+      "hlRunning": ""
+    },
+    "scriptSrc": [
+      "rest\\.happierleads\\.com"
+    ],
+    "website": "https://www.happierleads.com",
+    "xhr": [
+      "(?:rest|session-recordings)\\.happierleads\\.com"
+    ]
   },
   "Happy Meal Prep": {
     "abuse_score": 1,
@@ -1373,6 +1437,20 @@
     "vendor_stability_score": 4,
     "website": "https://www.goharness.com/nonprofits",
     "white_label_wrapper_likelihood": 3
+  },
+  "HashiCorp Cloud Platform": {
+    "cats": [
+      62
+    ],
+    "description": "HashiCorp Cloud Platform is the managed service offering for HashiCorp products such as Terraform, Vault, Consul and Boundary.",
+    "dns": {
+      "TXT": [
+        "hcp-domain-verification="
+      ]
+    },
+    "icon": "HashiCorp.svg",
+    "saas": true,
+    "website": "https://www.hashicorp.com/cloud"
   },
   "Hashnode": {
     "abuse_score": 3,
@@ -7684,6 +7762,20 @@
     "website": "https://hp.com",
     "white_label_wrapper_likelihood": 1
   },
+  "HPE GreenLake": {
+    "cats": [
+      63
+    ],
+    "description": "HPE GreenLake is Hewlett Packard Enterprise's hybrid cloud platform delivering infrastructure as a service.",
+    "dns": {
+      "TXT": [
+        "hpe-greenlake-domain-verification="
+      ]
+    },
+    "icon": "HPE GreenLake.svg",
+    "saas": true,
+    "website": "https://www.hpe.com/us/en/greenlake.html"
+  },
   "HrFlow.ai": {
     "abuse_score": 1,
     "ai_generated_likelihood": 2,
@@ -10019,6 +10111,22 @@
     "summary_abuse": "Hyperlane has no notable abuse signal. It is a backend HTTP library for Rust developers with no consumer-facing surface.",
     "technical_depth_score": 7,
     "website": "https://hyperlane.co"
+  },
+  "Hypernode": {
+    "cats": [
+      88
+    ],
+    "description": "Hypernode is a managed ecommerce hosting platform by Byte (Netherlands); hosted domains use ns*.hypernode.com nameservers or point at *.hypernode.io via CNAME.",
+    "dns": {
+      "CNAME": [
+        "\\.hypernode\\.io"
+      ],
+      "NS": [
+        "\\.hypernode\\.com"
+      ]
+    },
+    "icon": "Hypernode.png",
+    "website": "https://www.hypernode.com"
   },
   "Hyperspeed": {
     "abuse_score": 1,

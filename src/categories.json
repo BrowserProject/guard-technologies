@@ -3791,5 +3791,34 @@
       "https://www.councilofnonprofits.org/tools-resources/donor-bill-rights"
     ],
     "tracker_likelihood_score": 5
+  },
+  "112": {
+    "business_function": "developer-tool",
+    "confidence": 7,
+    "description": "Artificial Intelligence covers websites and services built on or around generative AI: model providers and their APIs (OpenAI, Anthropic), AI coding assistants and editors (Cursor, Windsurf), AI app builders (Lovable), voice and audio generation (ElevenLabs), and AI-based analysis tools such as face age estimation. Detection usually comes from vendor domain-verification records, embedded SDKs, or API calls made from the page. The main inherent risk is data flow: prompts, uploaded files, voice samples, or face images are sent to a third-party model provider, often outside the EU, and may be logged or used for training depending on the plan. Client-side integrations can also leak API keys, and LLM features open the door to prompt injection and unreliable output.",
+    "groups": [
+      5,
+      9
+    ],
+    "inherent_attack_surface_score": 7,
+    "inherent_pii_exposure_score": 7,
+    "inherent_privacy_risk_score": 7,
+    "inherent_third_party_data_sharing_score": 8,
+    "name": "Artificial Intelligence",
+    "placement": "mixed",
+    "priority": 9,
+    "recommended_scrutiny_level": "high",
+    "regulatory_relevance": [
+      "gdpr",
+      "ccpa",
+      "pii-handling",
+      "coppa"
+    ],
+    "source_urls": [
+      "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "https://owasp.org/www-project-top-10-for-large-language-model-applications/",
+      "https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en"
+    ],
+    "tracker_likelihood_score": 3
   }
 }

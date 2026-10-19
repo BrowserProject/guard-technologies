@@ -259,6 +259,18 @@
     "website": "https://www.vagaro.com/pro/schedulicity",
     "white_label_wrapper_likelihood": 1
   },
+  "Valorsic Studio": {
+    "cats": [
+      59
+    ],
+    "dom": {
+      "[data-valorsic-studio]": {
+        "exists": ""
+      }
+    },
+    "icon": "Valorsic Studio.png",
+    "website": "https://valorsic.studio"
+  },
   "Valuad": {
     "abuse_score": 2,
     "ai_generated_likelihood": 3,
@@ -2846,6 +2858,34 @@
     "website": "https://www.vergic.com",
     "white_label_wrapper_likelihood": 2
   },
+  "Verificado": {
+    "cats": [
+      90,
+      5
+    ],
+    "description": "Verificado is a SaaS platform for collecting, moderating and publishing verified product and seller reviews on ecommerce sites.",
+    "dom": [
+      "#verificadoAIwidget",
+      ".verificadoai-plp-rating",
+      "html[data-verificado]"
+    ],
+    "icon": "Verificado.svg",
+    "js": {
+      "VerificadoAI.version": "^(.+)$\\;version:\\1",
+      "verificadoAIKeyId": "",
+      "verificadoAIUriBaseCdn": ""
+    },
+    "pricing": [
+      "poa",
+      "recurring"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "app\\.verificado\\.ai/js/widget/onsite-feedback-widget\\.js",
+      "cdn-mz-gj-vai\\.verificado\\.ai/(?:js/)?widget/"
+    ],
+    "website": "https://verificado.ai"
+  },
   "Verifone 2Checkout": {
     "abuse_score": 2,
     "ai_generated_likelihood": 0,
@@ -3368,6 +3408,80 @@
     "vendor_stability_score": 5,
     "website": "https://www.verseone.com",
     "white_label_wrapper_likelihood": 2
+  },
+  "VertaFlow": {
+    "cats": [
+      5,
+      6,
+      32,
+      53,
+      108
+    ],
+    "description": "VertaFlow is a vertical CRM and commerce platform for small businesses, with client portals, payments, storefront widgets, online ordering, messaging, and industry-specific workflows.",
+    "dom": [
+      "script[src*=\"api.vertaflow.io/v1/pixel.js\"][data-site]"
+    ],
+    "html": [
+      "<script[^>]+src=[\"']https://api\\.vertaflow\\.io/v1/pixel\\.js[\"'][^>]*data-site=",
+      "window\\.__TENANT_CONFIG__=",
+      "Powered by VertaFlow"
+    ],
+    "icon": "VertaFlow.svg",
+    "pricing": [
+      "freemium",
+      "low",
+      "mid",
+      "recurring"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "api\\.vertaflow\\.io/v1/pixel\\.js"
+    ],
+    "website": "https://vertaflow.io"
+  },
+  "VertaFlow Analytics": {
+    "cats": [
+      10
+    ],
+    "description": "VertaFlow Analytics is a lightweight, cookie-free, first-party analytics pixel that tracks pageviews, clicks, scroll depth, and UTM campaigns, sending events to VertaFlow CRM.",
+    "icon": "VertaFlow.svg",
+    "scriptSrc": [
+      "vertaflow\\.io/v1/pixel\\.js"
+    ],
+    "website": "https://vertaflow.io"
+  },
+  "VertaFlow Booking": {
+    "cats": [
+      72
+    ],
+    "description": "VertaFlow Booking is an embeddable appointment-scheduling widget that syncs bookings to VertaFlow CRM.",
+    "icon": "VertaFlow.svg",
+    "scriptSrc": [
+      "vertaflow\\.io/v1/book\\.js"
+    ],
+    "website": "https://vertaflow.io"
+  },
+  "VertaFlow Chat": {
+    "cats": [
+      52
+    ],
+    "description": "VertaFlow Chat is a lightweight embeddable chat widget that routes messages to VertaFlow CRM tickets.",
+    "icon": "VertaFlow.svg",
+    "scriptSrc": [
+      "vertaflow\\.io/v1/chat\\.js"
+    ],
+    "website": "https://vertaflow.io"
+  },
+  "VertaFlow Forms": {
+    "cats": [
+      110
+    ],
+    "description": "VertaFlow Forms is an embeddable lead-capture form widget that routes submissions to VertaFlow CRM.",
+    "icon": "VertaFlow.svg",
+    "scriptSrc": [
+      "vertaflow\\.io/v1/form\\.js"
+    ],
+    "website": "https://vertaflow.io"
   },
   "Vertex": {
     "abuse_score": 0,
@@ -7191,6 +7305,20 @@
     "summary_abuse": "VKUI has minimal abuse signal as a UI library. It is developed by VK (Russian social network), and applications built with it may be subject to VK's data policies, but the library itself is not a vehicle for fraud.",
     "technical_depth_score": 6,
     "website": "https://vkcom.github.io/VKUI"
+  },
+  "VMware CloudHealth": {
+    "cats": [
+      19
+    ],
+    "description": "CloudHealth by VMware is a multi-cloud cost management and governance platform.",
+    "dns": {
+      "TXT": [
+        "^cloudhealth="
+      ]
+    },
+    "icon": "VMware.png",
+    "saas": true,
+    "website": "https://www.vmware.com"
   },
   "Vnda": {
     "abuse_score": 2,
